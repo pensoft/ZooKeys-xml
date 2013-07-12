@@ -1,0 +1,990 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.136.1580</article-id>
+            <title-group>
+                <article-title>Redescription and revision of the Neotropical genus 
+                    <italic>Pseudoheptascelio</italic> Szabó (Hymenoptera, Platygastridae, Scelioninae), parasitoids of eggs of short-horned grasshoppers (Orthoptera, Acrididae)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Johnson</surname>
+                        <given-names>Norman F.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:3508C4FF-F027-445F-8417-90AB4AB8FE0D</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Musetti</surname>
+                        <given-names>Luciana</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:107E9894-C9AB-4A8B-937E-5007703FD891</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Evolution, Ecology and Organismal Biology, The Ohio State University, 1315 Kinnear Road, Columbus, Ohio 43212, U.S.A.
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Norman F. Johnson (<email xlink:type="simple">johnson.2@osu.edu</email>)</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>12</day>
+                <month>10</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>136</issue>
+            <fpage>93</fpage>
+            <lpage>112</lpage>
+            <history>
+                <date date-type="received">
+                    <day>19</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>2</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Norman F. Johnson, Luciana Musetti</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:5F334E36-0318-4CC3-9E54-E493C78F77CF</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>The genus <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> Szabó is redescribed and its species revised. We recognize four species: <italic><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name></italic> Szabó, <italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic> Masner, <italic><tp:taxon-name>Pseudoheptascelio tico</tp:taxon-name></italic> <bold>sp. n.</bold>  and <italic><tp:taxon-name>Pseudoheptascelio rex</tp:taxon-name></italic> <bold>sp. n.</bold>  The genus is found from Guatemala south to the Brazilian state of Rio Grande do Sul. The species <italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic> is recorded as a parasitoid of the eggs of <italic><tp:taxon-name>Cornops aquaticum</tp:taxon-name></italic> (Bruner) on water hyacinth, <italic><tp:taxon-name>Eichhornia crassipes</tp:taxon-name></italic> (Mart.) Solms.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Platygastridae</kwd>
+                <kwd>Platygastroidea</kwd>
+                <kwd>Scelioninae</kwd>
+                <kwd>egg-parasitoid</kwd>
+                <kwd><italic>Cornops</italic></kwd>
+                <kwd>key</kwd>
+                <kwd>biological control</kwd>
+                <kwd>water hyacinth</kwd>
+                <kwd><italic>Eichhornia</italic></kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The genus <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> was described by <xref ref-type="bibr" rid="B13">Szabó (1966)</xref> from a single female collected in the state of Pará in northern Brazil. <xref ref-type="bibr" rid="B7">Masner (1972)</xref> subsequently erected <italic><tp:taxon-name>Tanaoscelio</tp:taxon-name></italic> for a single species collected in Trinidad and recorded as attacking the eggs of <italic><tp:taxon-name>Cornops longicorne</tp:taxon-name></italic> (Bruner) (<tp:taxon-name>Orthoptera</tp:taxon-name>: <tp:taxon-name>Acrididae</tp:taxon-name>, <tp:taxon-name>Leptysminae</tp:taxon-name>), a grasshopper that was being studied as a potential biological control agent for water hyacinth, <italic><tp:taxon-name>Eichhornia crassipes</tp:taxon-name></italic> (Mart.) Solms (<tp:taxon-name>Commelinales</tp:taxon-name>: <tp:taxon-name>Pontederiaceae</tp:taxon-name>). <xref ref-type="bibr" rid="B8">Masner (1976)</xref> later discovered an error in Szabó’s original description concerning the presence of a complete radial vein in the hind wing. In fact, the tubular portion of the vein is abbreviated and does not reach the costal margin of the wing. Therefore, Masner concluded that these two taxonomic concepts were equivalent.</p>
+            <p><italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> is found only in the New World tropics, from Belize and Guatemala south to southeastern Brazil. The distribution of the only known host, <italic><tp:taxon-name>Cornops</tp:taxon-name></italic>, is very similar, although its range extends north along the coasts of Mexico (<xref ref-type="bibr" rid="B1">Adis et al. 2007</xref>). Developments in our understanding of this group of grasshoppers subsequent to the original description of <italic><tp:taxon-name>Tanaoscelio</tp:taxon-name></italic> (Roberts &amp; Carbonell, 1979) suggest that the species identification of the host should be updated. <italic><tp:taxon-name>Cornops longicorne</tp:taxon-name></italic> is now considered to be a junior synonym of <italic><tp:taxon-name>Cornops frenatum</tp:taxon-name></italic> (Marschall). This latter species, however, is terrestrial and its host plants are unknown (<xref ref-type="bibr" rid="B12">Roberts and Carbonell 1979</xref>). The only semi-aquatic species attacking <italic><tp:taxon-name>Eichhornia</tp:taxon-name></italic> in Trinidad appears to be <italic><tp:taxon-name>Cornops aquaticum</tp:taxon-name></italic> (Bruner) (<xref ref-type="bibr" rid="B12">Roberts and Carbonell 1979</xref>, <xref ref-type="bibr" rid="B1">Adis et al. 2007</xref>).</p>
+        </sec>
+        <sec sec-type="materials|methods"><title>Materials and methods</title>
+            <p>This work is based upon specimens in the following collections, with abbreviations used in the text: AEIC, American Entomological Institute, Gainesville, FL<sup><xref ref-type="fn" rid="FN1">1</xref></sup>; BMNH, The Natural History Museum, London, UK<sup><xref ref-type="fn" rid="FN2">2</xref></sup>; BPBM, Bernice P. Bishop Museum, Honolulu, HI<sup><xref ref-type="fn" rid="FN3">3</xref></sup>; CNCI, Canadian National Collection of Insects, Ottawa, Canada<sup><xref ref-type="fn" rid="FN4">4</xref></sup>; HNHM, Hungarian Natural History Museum, Budapest, Hungary<sup><xref ref-type="fn" rid="FN5">5</xref></sup>; MIZA, Museo del Instituto de Zoología Agrícola, Maracay, Venezuela<sup><xref ref-type="fn" rid="FN6">6</xref></sup>; OSUC, C.A. Triplehorn Insect Collection, Ohio State University, Columbus, OH<sup><xref ref-type="fn" rid="FN7">7</xref></sup>; TAMU, Texas A&amp;M University Insect Collection, College Station, TX<sup><xref ref-type="fn" rid="FN8">8</xref></sup>; USNM, National Museum of Natural History, Washington, DC<sup><xref ref-type="fn" rid="FN9">9</xref></sup>.</p>
+            <p>Abbreviations and morphological terms used in text: A1, A2, ... A12: antennomere 1, 2, … 12; claval formula: distribution of the large, multiporous basiconic sensilla on the underside of apical antennomeres of the female, with the segment interval specified followed by the number of sensilla per segment (<xref ref-type="bibr" rid="B3">Bin 1981</xref>); EH: eye height, length of compound eye measured parallel to dorsoventral midline of head; IOS: interocular space, minimal distance on frons between compound eyes; OD: ocellar diameter, greatest width of ocellus; OOL: ocular ocellar line, the shortest distance from inner orbit and outer margin of lateral ocellus (<xref ref-type="bibr" rid="B9">Masner 1980</xref>); T1, T2, ... T7: metasomal tergite<!--PageBreak--> 1, 2, ... 7; S1, S2, … S7: metasomal sternite 1, 2, … 7. Morphological terminology otherwise follows <xref ref-type="bibr" rid="B9">Masner (1980)</xref> and <xref ref-type="bibr" rid="B10">Mikó et al. (2007)</xref>.</p>
+            <p>Appendix 1 lists terms associated with identifiers in the <tp:taxon-name>Hymenoptera</tp:taxon-name> Anatomy Ontology (<xref ref-type="bibr" rid="B15">Yoder et al. 2010</xref>). Identifiers in the format HAO_XXXXXXX represent concepts in the HAO version 2011-07-14 and are provided to enable readers to confirm their understanding of the concepts being referenced. To find out more about a given concept use the identifier as a search term at <ext-link ext-link-type="uri" xlink:href="http://glossary.hymao.org" xlink:type="simple">http://glossary.hymao.org</ext-link>. The identifier can also be used as a URI (universal resource identifier) by appending the identifier to '<ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/" xlink:type="simple">http://purl.obolibrary.org/obo/</ext-link>' (e.g. http://purl.obolibrary.org/obo/HAO_0000124). URLs in the format <ext-link ext-link-type="uri" xlink:href="http://purl.org/net/hao/HAO_0123456" xlink:type="simple">http://purl.org/net/hao/HAO_0123456</ext-link> resolve to the HAO’s community-based resource that includes additional images, notes, and other metadata.</p>
+            <p>In the Material Examined section the numbers prefixed with “OSUC” are unique identifiers for the individual specimens. The label data for all specimens have been georeferenced and recorded in the <tp:taxon-name>Hymenoptera</tp:taxon-name> On-Line database, and details on the data associated with these specimens can be accessed at the following link, hol.osu.edu, and entering the identifier in the form. Note the space between the acronym and the number.</p>
+            <p>Data associated with the genus <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> can be accessed at <ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/index.html?id=548" xlink:type="simple">http://hol.osu.edu/index.html?id=548</ext-link>. The generic and species descriptions were generated using a database application, vSysLab, designed to facilitate the production of a taxon by character data matrix, and to integrate those data with the existing taxonomic and specimen-level database. Data may be exported in both text format and as input files for other applications. The text output for descriptions is in the format of &quot;Character: Character state (s)&quot;. Images and measurements were made using AutoMontage and Cartograph extended-focus software, using JVC KY-F75U digital camera, Leica Z16 APOA microscope, and 1X objectve lens. A standard set of images is provided for each species: dorsal habitus, lateral habitus, dorsal and lateral views of the head and mesosoma, and anterior view of head. Images are archived at Morphbank (<ext-link ext-link-type="uri" xlink:href="www.morphbank.net" xlink:type="simple">www.morphbank.net</ext-link>) and in Specimage (<ext-link ext-link-type="uri" xlink:href="specimage.osu.edu" xlink:type="simple">specimage.osu.edu</ext-link>), the image database at The Ohio State University.</p>
+            <p>The electronic version of the paper contains hyperlinks to external resources. Insofar as possible, the external information conforms to standards developed and maintained through the organization Biodiversity Information Standards (Taxonomic Database Working Group). All new species have been prospectively registered with Zoobank (<xref ref-type="bibr" rid="B11">Polaszek et al. 2005</xref>, <ext-link ext-link-type="uri" xlink:href="www.zoobank.org" xlink:type="simple">www.zoobank.org</ext-link>), and other taxonomic names, where appropriate, have been retrospectively registered. The external hyperlinks are explicitly cited in the endnotes so that users of the printed version of this article have access to the same resources. Life sciences identifiers, LSIDs, may be resolved at the specified URLs or at lsid.tdwg.org.</p>
+            <p>This work is conducted as part of the <tp:taxon-name>Platygastroidea</tp:taxon-name> Planetary Biodiversity Inventory. The authors made equal contributions.</p>
+        </sec>
+        <sec sec-type="Taxonomy"><title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Pseudoheptascelio</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:50643EC2-1EF4-496D-937B-8FBFDC9F9B8E</object-id>
+                    <object-id xlink:type="simple">urn:lsid:biosci.ohio-state.edu:osuc_concepts:548</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Pseudoheptascelio</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Szabó</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                    		<tp:nomenclature-citation><tp:taxon-name>Pseudoheptascelio</tp:taxon-name><comment> Szabó, 1966: 166 (original description. Type: <italic><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name></italic> Szabó, by monotypy and original designation); <xref ref-type="bibr" rid="B8">Masner 1976</xref>: 18 (description, key to species); <xref ref-type="bibr" rid="B4">De Santis 1980</xref>: 315 (catalog of species of Brazil); <xref ref-type="bibr" rid="B5">Johnson 1992</xref>: 467 (catalog of world species); <xref ref-type="bibr" rid="B6">Loiácono and Margaría 2002</xref>: 558 (catalog of Brazilian species). urn:lsid:zoobank.org:act:EF9EA824-0219-42C1-A057-055D8E11FE8 urn:lsid:biosci.ohio-state.edu:osuc_concepts:9625</comment></tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Tanaoscelio</tp:taxon-name><comment> Masner, 1972: 1213 (original description. Type: <italic><tp:taxon-name>Tanaoscelio cornopis</tp:taxon-name></italic> Masner, by monotypy and original designation); <xref ref-type="bibr" rid="B8">Masner 1976</xref>: 18 (junior synonym of <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> Szabó).</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length: 4.09–5.45 mm (n=81).</p>
+                    <p><bold>Head.</bold> Head shape in dorsal view: weakly transverse, width approximately 1.5× greatest length. Hyperoccipital carina: absent. Occipital carina: present laterally, broadly interrupted medially. Occipital carina sculpture: crenulate. OOL: lateral ocellus nearly contiguous with inner orbits, OOL &lt; 0.5 OD. Upper portion of frons: convex, without frontal shelf. Scrobe shape: frons with shallow unmargined depression above toruli. Frons sculpture: areolate rugose, transversely striate within scrobe. Submedian carina: absent. Orbital carina: absent. Inner orbits: diverging ventrally. IOS/EH: IOS slightly less than EH. Interantennal process: rounded, strongly developed. Central keel: absent. Torulus opening: laterally on interantennal process. Lower frons striae: absent. Malar sulcus: present. Compound eye size: of normal proportions, not significantly reduced. Compound eye setation: sparsely setose. Gena: broad, convex, distinctly produced behind eye. Clypeus shape: transversely rectangular. Apical margin of clypeus: straight. Anteclypeus: present, delimited dorsally by raised carina. Postclypeus: present, strongly transverse. Labrum: not visible, hidden behind clypeus. Mandible shape: short, inconspicuous. Mandibular teeth: apex with 2, acute, subequal teeth. Arrangement of mandibular teeth: transverse. Number of maxillary palpomeres: 4. Shape of maxillary palpomeres: cylindrical. Number of labial palpomeres: 2.</p>
+                    <p><bold>Antenna.</bold> Number of antennomeres in female: 12. Number of antennomeres in male: 10. Insertion of radicle into A1: parallel to longitudinal axis of A1. Shape of A1: more or less cylindrical, not flattened. Length of A3 of female: distinctly longer than A2. Number of clavomeres in female antenna: 7. Claval formula of female antenna: A12–A7/1-2-2-2-2-2. Arrangement of doubled multiporous plate sensilla on female clava: in longitudinal pairs. Tyloid distribution on male antenna: A5 only. Shape of male flagellum: subclavate.<!--PageBreak--></p>
+                    <p><bold>Mesosoma.</bold> Mesosoma shape in dorsal view: longer than wide. Mesosoma shape in lateral view: longer than high. Medial portion of transverse pronotal carina: weakly indicated laterally. Posterior apex of pronotum in dorsal view: straight, bifid apically to articulate with tegula. Vertical epomial carina: present. Dorsal epomial carina (corresponding to lateral portion of transverse pronotal carina of <xref ref-type="bibr" rid="B14">Vilhelmsen et al. 2010</xref>): present. Anterior face of pronotum: oblique, visible dorsally, short. Lateral face of pronotum: weakly concave below dorsal epomial carina. Netrion: present. Netrion shape: moderately wide, closed ventrally. Anterior portion of mesoscutum: vertical, flexed ventrally to meet pronotum. Mesoscutum shape: semielliptical, excavate at base of wings. Skaphion: absent. Notauli: present, percurrent. Parapsidal lines: absent. Admedial lines: absent. Transscutal articulation: well-developed, wide, bridged by 6–10 trabecula. Shape of mesoscutellum: quadrate to trapezoidal. Armature of mesoscutellum: axillula produced posteriorly into short, broad spines. Surface of mesoscutellum: convex anteriorly, depressed posteriorly. Median longitudinal furrow on mesoscutellum: absent. Shape of axillula: large, triangular, extending length of mesoscutellum. Metascutellum: clearly differentiated. Metascutellar armature: produced medially into short, shallowly bidentate process. Metapostnotum: not delimited externally. Extent of metasomal depression of propodeum: percurrent, extending anteriorly to anterior margin of propodeum. Lateral propodeal projection: well-developed, extending clearly beyond anterior margin of T1. Mesopleural carina: absent or strongly abbreviated, present only near mid coxa. Mesal portion of acetabular carina: projecting anteriorly, not separating fore coxae. Mesopleural pit: present. Sternaulus: absent. Posterodorsal corner of mesopleuron: rounded anteriorly.</p>
+                    <p><bold>Legs.</bold> Number of mid tibial spurs: 1. Number of hind tibial spurs: 1. Dorsal surface of hind coxa: smooth. Hind tibia shape: cylindrical, ecarinate. Trochantellus: indicated only as basal swelling of femur.</p>
+                    <p><bold>Wings.</bold> Wing development of female: macropterous. Wing development of male: macropterous. Tubular veins in fore wing: present. Bulla of fore wing R: absent. Extent of marginal venation of fore wing: R1 reaching and ending at costal margin. Origin of r-rs in fore wing: arising before (basad of) R/R1 attains costal margin. Development of basal vein (Rs+M) in fore wing: spectral. Development of R in hind wing: abbreviated, not attaining costal margin.</p>
+                    <p><bold>Metasoma.</bold> Number of externally visible terga in female: 6. Number of externally visible sterna in female: 6. Number of externally visible terga in male: 7. Number of externally visible sterna in male: 7. Shape of metasoma: lanceolate. Laterotergites: present, narrow. Laterosternites: present. T1 of female: raised medially into low, rectangular platform, laterally depressed. Relative size of metasomal tergites: T2–T4 largest, subequal in size. Terga with basal crenulae: T1–T3. Sublateral carinae on tergites: present on T1–T4. Median longitudinal carina on metasomal tergites: present T2–T3, variably extending beyond. Anterior margin of S1: protruding anteriorly as short sharp extension of median longitudinal carina of S1. Distribution of felt fields: present on S2, S3. Ovipositor type: Scelio-type (<xref ref-type="bibr" rid="B2">Austin and Field 1997</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> Within the tribe <tp:taxon-name>Scelionini</tp:taxon-name> <italic>s. str.</italic> the genera <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic>, <italic><tp:taxon-name>Scelio</tp:taxon-name></italic>, <italic><tp:taxon-name>Sceliocerdo</tp:taxon-name></italic>, and <italic><tp:taxon-name>Synoditella</tp:taxon-name></italic> have 10-segmented antennae in the male. <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> <!--PageBreak-->may be separated from the vast majority of these species by the presence of short, hooklike axillular projections on the mesoscutellum, the medially produced metascutellum, the densely setose anterior margins of both the mesopleuron and metapleuron (<xref ref-type="fig" rid="F1">Figs 2</xref>, <xref ref-type="fig" rid="F3">12</xref>, <xref ref-type="fig" rid="F4">18</xref>, <xref ref-type="fig" rid="F5">24</xref>), the rigid unflexed metasoma (<xref ref-type="fig" rid="F1">Figs 1</xref>, <xref ref-type="fig" rid="F3">11</xref>, <xref ref-type="fig" rid="F4">17</xref>, <xref ref-type="fig" rid="F5">23</xref>), well-developed notauli (<xref ref-type="fig" rid="F1">Figs 4</xref>, <xref ref-type="fig" rid="F3">14</xref>, <xref ref-type="fig" rid="F4">20</xref>, <xref ref-type="fig" rid="F5">26</xref>), the absence of fanlike striae arising from the base of the mandible (<xref ref-type="fig" rid="F1">Figs 6</xref>, <xref ref-type="fig" rid="F3">15</xref>, <xref ref-type="fig" rid="F4">21</xref>, <xref ref-type="fig" rid="F5">27</xref>), and the broadly interrupted occipital carina (<xref ref-type="fig" rid="F1">Figs 4</xref>, <xref ref-type="fig" rid="F3">14</xref>, <xref ref-type="fig" rid="F4">20</xref>, <xref ref-type="fig" rid="F5">26</xref>). At least one Neotropical species of <italic><tp:taxon-name>Scelio</tp:taxon-name></italic> has axillular points and a projecting metascutellum. <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic> may be distinguished from this by the posteriorly declivous mesoscutellum, distinct notauli, the presence of dense pilosity on the anterior margins of the meso- and metapleuron, the subclavate male antenna (<xref ref-type="fig" rid="F2">Fig. 9</xref>), the elongate T2–T6 (clearly longer than wide), and the smooth transition of the lateral margins of T5–T7 and subclavate antenna in the male (<xref ref-type="fig" rid="F2">Fig. 8</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Key to species"><title>Key to species</title>
+                    <table-wrap content-type="key" position="anchor" orientation="portrait">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">T2–T3 reticulate (<xref ref-type="fig" rid="F1">Figs 5</xref>, <xref ref-type="fig" rid="F3">13</xref>, <xref ref-type="fig" rid="F4">19</xref>), without distinct longitudinal rugulae; mesosoma black; T6 longer than wide basally</td>
+                                    <td rowspan="1" colspan="1">2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">T2–T3 with distinct longitudinal rugulae (<xref ref-type="fig" rid="F5">Fig. 25</xref>); mesosoma often with reddish portions (<xref ref-type="fig" rid="F5">Figs 23–26</xref>); basal width of T6 greater than its length</td>
+                                    <td rowspan="1" colspan="1">3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">2</td>
+                                    <td rowspan="1" colspan="1">Occiput without microsculpture within foveolae, appearing shining; length of T5 1.3–1.8 x its maximum width (Fig. 16)</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Occiput with dense fine microsculpture within foveolae, appearing matte (Fig. 10); length of T5 1.6–2.2 x its maximum width (Fig. 7)</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">3</td>
+                                    <td rowspan="1" colspan="1">Head and mesosoma without coriaceous microsculpture, appearing shining; metascutellum short, subquadrate (Fig. 20)</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudoheptascelio rex</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Head and mesosoma with distinct superimposed coriaceous microsculpture, giving body overall matte appearance; metascutellum distinctly longer than wide (Fig. 26)</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudoheptascelio tico</tp:taxon-name></italic></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Pseudoheptascelio</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">cornopis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:270062C9-88EC-4138-8ADF-284DF6B24F93</object-id>
+                    <object-id xlink:type="simple">urn:lsid:biosci.ohio-state.edu:osuc_concepts:5132</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Pseudoheptascelio_cornopis</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>(Masner)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figures 1</xref>
+                    <xref ref-type="fig" rid="F2">10</xref>
+										<xref ref-type="fn" rid="FN10">Morphbank<sup>10</sup></xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Tanaoscelio cornopis</tp:taxon-name><comment> Masner, 1972: 1214 (original description).</comment></tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name><comment> (Masner): Masner, 1976: 18 (generic transfer).</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length of female: 4.37–5.45 mm (n=11). Body length of male: 4.58–5.22 mm (n=4). Mesosoma color: black. Body microsculpture pattern: smooth.</p>
+                    <p>Rugae on occiput: reticulate. Microsculpture between occipital rugae: foveolate (Fig. 10). Setae on crests of occipital rugae: absent. Shape of female A4: length<!--PageBreak--> subequal to width. Shape of female A5: transverse. Shape of female A6: distinctly transverse.</p>
+                    <p>Setation of pronotal depression: moderately to densely setose. Setation of netrion: moderately to densely setose (Fig. 2). Sculpture of midlobe of mesoscutum: foveate to areolate anteriorly, sculpture effaced, sparser posteriorly (Figs 4, 10). Number of trabecula across transscutal articulation: 7–8, widely spaced. Shape of metascutellum: short, shallowly cleft medially (Fig. 4). Sculpture of mesopleural depression: almost entirely sculptured, with transverse rugulae and interspersed irregular fovea.</p>
+                    <p><!--PageBreak-->Sculpture of T2–T3: irregularly reticulate, without longitudinal orientation. Length/width of female T5: 1.61–2.22 mm (n=12). Length/width of female T6: 1.10–1.50 mm (n=11). Sculpture of T6: with reticulate microsculpture only. Apex of male T7: pointed laterally, shallowly excavate or straight medially (Fig. 8).</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figures 1–6.</label>
+                        <caption><p><bold><sup><xref ref-type="fn" rid="FN30">30</xref></sup></bold> <italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic> (Masner), female (OSUC 186250) <bold>1</bold> Lateral habitus <bold>2</bold> Head and mesosoma, lateral view <bold>3</bold> Dorsal habitus <bold>4</bold> Head and mesosoma, dorsal view <bold>5</bold> Metasoma, dorsal view <bold>6</bold> Head, anterior view. Scale bars in millimeters.</p></caption>
+                        <graphic xlink:href="ZooKeys-136-093-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figures 7–10.</label>
+                        <caption><p><bold><sup><xref ref-type="fn" rid="FN31">31</xref></sup></bold> <italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic> (Masner) <bold>1</bold> Apex of metasoma, female, dorsal view (OSUC 186250) <bold>2</bold> Apex of metasoma, male (OSUC 248318) <bold>3</bold> Antenna, segments 2–10, male (OSUC 248318) <bold>4</bold>, Head, dorsal view, holotype female (B.M. TYPE HYM. 9.772). Scale bars in millimeters.</p></caption>
+                        <graphic xlink:href="ZooKeys-136-093-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> <italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic> is distinguished from <italic><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name></italic> by the densely and finely sculptured vertex and the more elongate T5 (length/width 1.6–2.2).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Link to Distribution Map"><title>Link to Distribution Map.</title>
+                    <p><sup><xref ref-type="fn" rid="FN11">11</xref></sup> [<ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=5132" xlink:type="simple">http://hol.osu.edu/map-full.html?id=5132</ext-link>]</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Associations"><title>Associations.</title>
+                    <p> Data from specimen labels: emerged from egg of <italic><tp:taxon-name>Cornops</tp:taxon-name></italic> Scudder: [<tp:taxon-name>Orthoptera</tp:taxon-name>: <tp:taxon-name>Acrididae</tp:taxon-name>]; solitary egg parasitoid of <italic><tp:taxon-name>Cornops</tp:taxon-name></italic> Scudder: [<tp:taxon-name>Orthoptera</tp:taxon-name>: <tp:taxon-name>Acrididae</tp:taxon-name>]; unspecified association <italic><tp:taxon-name>Cornops frenatum</tp:taxon-name></italic> (Marschall): [<tp:taxon-name>Orthoptera</tp:taxon-name>: <tp:taxon-name>Acrididae</tp:taxon-name>]; emerged from egg of <italic><tp:taxon-name>Cornops longicorne</tp:taxon-name></italic> (Brunner): [<tp:taxon-name>Orthoptera</tp:taxon-name>: <tp:taxon-name>Acrididae</tp:taxon-name>]; solitary egg parasitoid of <italic><tp:taxon-name>Cornops longicorne</tp:taxon-name></italic> (Brunner): [<tp:taxon-name>Orthoptera</tp:taxon-name>: <tp:taxon-name>Acrididae</tp:taxon-name>]; emerged from egg on <italic><tp:taxon-name>Eichhornia crassipes</tp:taxon-name></italic> (Mart.): [<tp:taxon-name>Liliales</tp:taxon-name>: <tp:taxon-name>Pontederiaceae</tp:taxon-name>]; solitary egg parasitoid ex <italic><tp:taxon-name>Eichhornia crassipes</tp:taxon-name></italic> (Mart.): [<tp:taxon-name>Liliales</tp:taxon-name>: <tp:taxon-name>Pontederiaceae</tp:taxon-name>]; unspecified association <italic><tp:taxon-name>Eichhornia crassipes</tp:taxon-name></italic> (Mart.): [<tp:taxon-name>Liliales</tp:taxon-name>: <tp:taxon-name>Pontederiaceae</tp:taxon-name>]</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined.</title>
+                    <p> <italic><tp:taxon-name>Holotype</tp:taxon-name></italic>, female, <italic><tp:taxon-name>Tanaoscelio cornopis</tp:taxon-name></italic>: <bold>TRINIDAD AND TOBAGO</bold>: Trinidad Isl., Débé, V-1970, B.M. TYPE HYM. 9.772 (deposited in BMNH). <italic>Paratypes</italic>: <bold>TRINIDAD AN</bold><bold>D TOBAGO:</bold> 3 females, 1 male, 2 unknowns,<!--PageBreak--> BMNH(E)#790244–790245 (BMNH); OSUC 186160–186162 (CNCI); OSUC 248318 (USNM). <italic>Other material</italic>: (9 females, 2 males) <bold>BOLIVIA:</bold> 7 females, 1 male, OSUC 186242, 186245–186250, 186253 (CNCI). <bold>BRAZIL:</bold> 1 female, 1 male, OSUC 186241 (CNCI); OSUC 131887 (OSUC). <bold>GUYANA:</bold> 1 female, OSUC 215796 (BPBM). Allotype: <bold>TRINIDAD AND TOBAGO:</bold> 1 male, BMNH(E)#790243 (BMNH). <bold>VENEZUELA:</bold> 1 female, OSUC 221615 (MIZA).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p> In the brief key to species <xref ref-type="bibr" rid="B8">Masner (1976)</xref> stated that the stigmal vein (r-rs) is embedded in a milky spot, forming a pseudostigma. The species <italic><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name></italic>, in contrast, was characterized as having the area around the stigmal vein transparent. We find that there is considerable variability in the development of the pseudostigma and that it is present in all specimens of <italic><tp:taxon-name>Pseudoheptascelio</tp:taxon-name></italic>.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Pseudoheptascelio</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">muesebecki</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:E3EF612E-195C-45DD-86BA-14EB72125754</object-id>
+                    <object-id xlink:type="simple">urn:lsid:biosci.ohio-state.edu:osuc_concepts:5133</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Pseudoheptascelio_muesebecki</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Szabó</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F3">Figures 11–16</xref>
+                    <xref ref-type="fn" rid="FN12">Morphbank<sup>12</sup></xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name><comment> Szabó, 1966: 167 (original description); Masner, 1976: 18 (type information).</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length of female: 4.09–5.42 mm (n=15). Mesosoma color: black. Body microsculpture pattern: smooth.</p>
+                    <p>Rugae on occiput: reticulate. Microsculpture between occipital rugae: absent. Setae on crests of occipital rugae: absent. Shape of female A4: length subequal to width. Shape of female A5: transverse. Shape of female A6: distinctly transverse.</p>
+                    <p>Setation of pronotal depression: moderately to densely setose (Fig. 12). Setation of netrion: moderately to densely setose. Sculpture of midlobe of mesoscutum: foveate to areolate throughout; foveate to areolate anteriorly, or sculpture effaced, sparser posteriorly (Fig. 14). Number of trabecula across transscutal articulation: 7–8, widely spaced. Shape of metascutellum: short, shallowly cleft medially (Fig. 14). Sculpture of mesopleural depression: almost entirely sculptured, with transverse rugulae and interspersed irregular fovea.</p>
+                    <p>Sculpture of T2–T3: irregularly reticulate, without longitudinal orientation. Length/width of female T5: 1.26–1.80 mm (n=15). Length/width of female T6: 1.05–1.53 mm (n=15). Sculpture of T6: with reticulate microsculpture only.</p>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figures 11–16.</label>
+                        <caption><p><bold><sup><xref ref-type="fn" rid="FN32">32</xref></sup></bold> <italic><tp:taxon-name>Pseudoheptascelio muesebecki</tp:taxon-name></italic> Szabó, female (OSUC 186208) <bold>11</bold> Lateral habitus <bold>12</bold> Head and mesosoma, lateral view <bold>13</bold> Dorsal habitus <bold>14</bold> Head and mesosoma, dorsal view <bold>15</bold> Head, anterior view <bold>16</bold> Apex of metasoma, dorsal view. Scale bars in millimeters.</p></caption>
+                        <graphic xlink:href="ZooKeys-136-093-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> This species is very similar to <italic><tp:taxon-name>Pseudoheptascelio cornopis</tp:taxon-name></italic>, and it may be distinguished by the less elongate T5 and the coarse areolate sculpture on the vertex.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Link to Distribution Map"><title>Link to Distribution Map.</title>
+                    <p><sup><xref ref-type="fn" rid="FN13">13</xref></sup> [<ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=5133" xlink:type="simple">http://hol.osu.edu/map-full.html?id=5133</ext-link>]</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Assocations"><title>Assocations.</title>
+                    <p>No data available.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined.</title>
+                    <p> <italic>Holotype</italic>, female: <bold>BRAZIL</bold>: PA, Belém, no date, E. Horváth, HNHM 0015 (deposited in HNHM). <italic>Other material</italic>: (14 females) <bold>BOLIVIA</bold>: 1 female, <!--PageBreak-->OSUC 186244 (CNCI). <bold>BRAZIL</bold>: 9 females, OSUC 186233–186240 (CNCI); OSUC 58878 (OSUC). <bold>ECUADOR</bold>: 1 female, OSUC 186208 (CNCI). <bold>PARAGUAY</bold>: 2 females, OSUC 176024, 176033 (OSUC). <bold>TRINIDAD AND TOBAGO</bold>: 1 female, OSUC 186163 (CNCI). <!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Pseudoheptascelio</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">rex</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:32540FD3-5763-4536-BD1A-A50849D8A6D6</object-id>
+                    <object-id xlink:type="simple">urn:lsid:biosci.ohio-state.edu:osuc_concepts:242983</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Pseudoheptascelio_rex</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Johnson &amp; Musetti</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F4">Figures 17–22</xref>
+                    <xref ref-type="fn" rid="FN14">Morphbank<sup>14</sup></xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length of female: 4.13–5.26 mm (n=20). Body length of male: 4.50–5.16 mm (n=13). Mesosoma color: black; red brown at least dorsally, otherwise dark to brown black. Body microsculpture pattern: smooth.</p>
+                    <p>Rugae on occiput: longitudinal. Microsculpture between occipital rugae: absent. Setae on crests of occipital rugae: present. Shape of female A4: length subequal to width; length distinctly greater than width. Shape of female A5: transverse; subquadrate. Shape of female A6: distinctly transverse; weakly transverse.</p>
+                    <p>Setation of pronotal depression: glabrous or sparsely setose. Setation of netrion: moderately to densely setose. Sculpture of midlobe of mesoscutum: foveate to areolate throughout (Fig. 20). Number of trabecula across transscutal articulation: 7–8, widely spaced. Shape of metascutellum: short, shallowly cleft medially (Fig. 20). Sculpture of mesopleural depression: foveolate anteriorly, transversely rugulose ventrally, with large smooth area dorsally surrounding mesopleural pit.</p>
+                    <p>Sculpture of T2–T3: reticulate, with distinct longitudinal orientation. Length/width of female T5: 0.89–1.72 mm (n=20). Length/width of female T6: 0.81–1.26 mm (n=20). Sculpture of T6: with shallow foveolae impressed on reticulate background microsculpture. Apex of male T7: pointed laterally, shallowly excavate or straight medially.</p>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figures 17–22.</label>
+                        <caption><p><bold><sup><xref ref-type="fn" rid="FN33">33</xref></sup></bold> <italic><tp:taxon-name>Pseudoheptascelio rex</tp:taxon-name></italic>, sp. n., holotype female (OSUC 186230) <bold>17</bold> Lateral habitus <bold>18</bold> Head and mesosoma, lateral view <bold>19</bold> Dorsal habitus <bold>20</bold> Head and mesosoma, dorsal view <bold>21</bold> Head, anterior view <bold>22</bold> Apex of metasoma, dorsal view. Scale bars in millimeters.</p></caption>
+                        <graphic xlink:href="ZooKeys-136-093-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> This species shares the short female T6 (Fig. 22) and, in many specimens, the red mesosoma with <italic><tp:taxon-name>Pseudoheptascelio tico</tp:taxon-name></italic>. It may be distinguished by the short metascutellum (Fig. 20) and the absence of coriaceous microsculpture on the head and mesosoma.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> The specific epithet is Latin for king and should be treated as a noun in apposition.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Link to Distribution Map"><title>Link to Distribution Map.</title>
+                    <p><sup><xref ref-type="fn" rid="FN15">15</xref></sup> [<ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=242983" xlink:type="simple">http://hol.osu.edu/map-full.html?id=242983</ext-link>]</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Associations"><title>Associations.</title>
+                    <p> Data from specimen labels: collected on <italic><tp:taxon-name>Trichocentrum panamensis</tp:taxon-name></italic> Rolfe: [<tp:taxon-name>Orchidales</tp:taxon-name>: <tp:taxon-name>Orchidaceae</tp:taxon-name>]</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined.</title>
+                    <p> <italic>Holotype</italic>, female: <bold>ECUADOR:</bold> Sucumbíos Prov., Sacha Lodge, <named-content content-type="dwc:verbatimCoordinates">00°30'S, 76°30'W</named-content>, 270m, 27.VIII–10.IX.1995, malaise trap, P. Hibbs, OSUC 186230 (deposited in CNCI). <italic>Paratypes</italic>: (49 females, 14 males) <bold>BOLIVIA:</bold> 6 females, 1 male, OSUC 186251–186252, 186254–186258 (CNCI). <bold>COLOMBIA:</bold> 10 females, 2 males, OSUC 287928 (CNCI); OSUC 210338–210341 (FSCA); OSUC 144252–144253, 189092, 191363, 193964, 210336, 224326 (OSUC). <bold>COSTA RICA:</bold> 2 females, OSUC 186186, 186194 (CNCI). <bold>ECUADOR:</bold> 19 females, 9 males, <!--PageBreak-->OSUC 186203–186207, 186209–186229, 186231 (CNCI); OSUC 58879 (OSUC). <bold>FRENCH GUIANA:</bold> 2 females, OSUC 186202, 287926 (CNCI). <bold>GUYANA:</bold> 1 male, OSUC 215795 (BPBM). <bold>NICARAGUA:</bold> 1 male, OSUC 320737 (TAMU). <bold>PANAMA:</bold> 9 females, OSUC 186199–186200 (CNCI); OSUC 248311–248317 (USNM). <bold>PERU:</bold> 1 female, OSUC 186232 (CNCI).<!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Pseudoheptascelio</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">tico</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:23DBB9A2-4F23-4F7E-AFC8-38A2906EE95E</object-id>
+                    <object-id xlink:type="simple">urn:lsid:biosci.ohio-state.edu:osuc_concepts:242982</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Pseudoheptascelio_tico</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Johnson &amp; Musetti</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F5">Figures 23–28</xref>
+                    <xref ref-type="fn" rid="FN16">Morphbank<sup>16</sup></xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length of female: 4.44–5.14 mm (n=12). Body length of male: 4.42–4.85 mm (n=5). Mesosoma color: red brown at least dorsally, otherwise dark to brown black. Body microsculpture pattern: with widespread superimposed coriaceous microsculpture.</p>
+                    <p>Rugae on occiput: reticulate. Microsculpture between occipital rugae: absent. Setae on crests of occipital rugae: absent. Shape of female A4: length distinctly greater than width. Shape of female A5: subquadrate. Shape of female A6: weakly transverse.</p>
+                    <p>Setation of pronotal depression: glabrous or sparsely setose (Fig. 24). Setation of netrion: glabrous or sparsely setose. Sculpture of midlobe of mesoscutum: foveate to areolate throughout (Fig. 26). Number of trabecula across transscutal articulation: 9–11, closely spaced. Shape of metascutellum: distinctly elongate, deeply cleft medially. Sculpture of mesopleural depression: irregularly foveolate, transverse rugulae very weakly indicated.</p>
+                    <p>Sculpture of T2–T3: reticulate, with distinct longitudinal orientation. Length/width of female T5: 0.97–1.16 mm (n=13). Length/width of female T6: 0.93–1.13 mm (n=13). Sculpture of T6: with shallow foveolae impressed on reticulate background microsculpture. Apex of male T7: weakly pointed laterally, distinctly sinuous medially.</p>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figures 23–28.</label>
+                        <caption><p><bold><sup><xref ref-type="fn" rid="FN34">34</xref></sup></bold> <italic><tp:taxon-name>Pseudoheptascelio tico</tp:taxon-name></italic>, n.sp., holotype female (OSUC 186191) <bold>23</bold> Lateral habitus <bold>24</bold> Head and mesosoma, lateral view <bold>25</bold> Dorsal habitus <bold>26</bold> Head and mesosoma, dorsal view <bold>27</bold> Head, anterior view <bold>28</bold> Apex of metasoma, dorsal view. Scale bars in millimeters.</p></caption>
+                        <graphic xlink:href="ZooKeys-136-093-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> This species should only be confused with red specimens of <italic><tp:taxon-name>Pseudoheptascelio rex</tp:taxon-name></italic>. It may be distinguished by the well-developed coriaceous microsculpture on the head and mesosoma, and the elongate, deeply cleft metascutellum (Fig. 26).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> The specific epithet is a colloquial term for a Costa Rican, reflecting the origin of most of the specimens we have seen. It should be treated as a noun in apposition.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Link to Distribution Map"><title>Link to Distribution Map.</title>
+                    <p><sup><xref ref-type="fn" rid="FN17">17</xref></sup> [<ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=242982" xlink:type="simple">http://hol.osu.edu/map-full.html?id=242982</ext-link>]</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Assocations"><title>Assocations.</title>
+                    <p>No data available.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined.</title>
+                    <p> <italic>Holotype</italic>, female: <bold>COSTA RICA:</bold> Alajuela Prov., creekbed, San Ramón Biological Station, 700m, 24.III–26.III.1996, yellow pan trap, L. Masner, OSUC 186191 (deposited in CNCI). <italic>Paratypes</italic>: (12 females, 5 males) <bold>BELIZE:</bold> 1 female, OSUC 287927 (USNM). <bold>COSTA RICA:</bold> 9 females, 5 males, OSUC 186181–186185, 186187–186190, 186192, 186195–186198 (CNCI). <bold>GUATEMALA:</bold> 1 female, OSUC 186268 (AEIC). PANAMA: 1 female, OSUC 186201 (CNCI).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Our thanks to Lubomír Masner for discussion, insight, and inspration; to A. Bennett, M. Buffington, S. Csősz, J.-L. García, S. Myers, D. Notton, T. Nuhn, J. Oswald, A. Polaszek, M. Sharkey, and D. Wahl for loans of specimens for study; and to J. Cora and S. Hemly for valuable logistical support. This material is based upon work supported in part by the National Science Foundation under grant No. DEB–0614764 to N.F. Johnson and A.D. Austin.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Adis</surname><given-names>J</given-names></name><name name-style="western"><surname>Bustorf</surname><given-names>E</given-names></name><name name-style="western"><surname>Lhano</surname><given-names>MG</given-names></name><name name-style="western"><surname>Amedegnato</surname><given-names>C</given-names></name><name name-style="western"><surname>Nunes</surname><given-names>AL</given-names></name></person-group> (<year>2007</year>)<article-title> Distribution of <italic>Cornops</italic> grasshoppers (Leptysminae: Acrididae: Orthoptera) in Latin America and the Caribbean Islands.</article-title> <source>Studies on Neotropical Fauna and Environment </source> <volume>42</volume> (<issue>1</issue>): <fpage>11</fpage>-<lpage>24</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/01650520600931719" xlink:type="simple">doi: 10.1080/01650520600931719</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Austin</surname><given-names>AD</given-names></name><name name-style="western"><surname>Field</surname><given-names>SA</given-names></name></person-group> (<year>1997</year>)<article-title> The ovipositor system of scelionid and platygastrid wasps (Hymenoptera: Platygastroidea): comparative morphology and phylogenetic implications.</article-title> <source>Invertebrate Taxonomy </source> <volume>11</volume>: <fpage>1</fpage>-<lpage>87</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1071/IT95048" xlink:type="simple">doi: 10.1071/IT95048</ext-link><sup><xref ref-type="fn" rid="FN18">18</xref></sup></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bin</surname><given-names>F</given-names></name></person-group> (<year>1981</year>)<article-title> Definition of female antennal clava based on its plate sensilla in Hymenoptera Scelionidae Telenominae.</article-title> <source>Redia </source> <volume>64</volume>: <fpage>245</fpage>-<lpage>261</lpage>.<sup><xref ref-type="fn" rid="FN19">19</xref></sup></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Santis</surname><given-names>L</given-names></name></person-group> (<year>1980</year>)<source> Catálogo de los himenópteros brasileños de la serie Parasitica incluyendo Bethyloidea.</source> <publisher-name>Editora da Universidade Federal do Paraná, Curitiba</publisher-name>, <publisher-loc>Brazil</publisher-loc>, <lpage>395</lpage> pp.<sup><xref ref-type="fn" rid="FN20">20</xref></sup></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnson</surname><given-names>NF</given-names></name></person-group> (<year>1992</year>)<article-title> Catalog of world Proctotrupoidea excluding Platygastridae.</article-title> <source>Memoirs of the American Entomological Institute </source> <volume>51</volume>: <fpage>1</fpage>-<lpage>825</lpage>.<sup><xref ref-type="fn" rid="FN21">21</xref></sup></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Loiácono</surname><given-names>MS</given-names></name><name name-style="western"><surname>Margaría</surname><given-names>CB</given-names></name></person-group> (<year>2002</year>)<article-title> Ceraphronoidea, Platygastroidea and Proctotrupoidea from Brazil (Hymenoptera).</article-title> <source>Neotropical Entomology </source> <volume>31</volume> (<issue>4</issue>): <fpage>551</fpage>-<lpage>560</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/S1519-566X2002000400007" xlink:type="simple">doi: 10.1590/S1519-566X2002000400007</ext-link><sup><xref ref-type="fn" rid="FN22">22</xref></sup></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Masner</surname><given-names>L</given-names></name></person-group> (<year>1972</year>)<article-title> A new genus of Scelionidae from Trinidad, W.I. (Hymenoptera: Proctotrupoidea).</article-title> <source>The Canadian Entomologist </source> <volume>104</volume>: <fpage>1213</fpage>-<lpage>1216</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent1041213-8" xlink:type="simple">doi: 10.4039/Ent1041213-8</ext-link><sup><xref ref-type="fn" rid="FN23">23</xref></sup></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Masner</surname><given-names>L</given-names></name></person-group> (<year>1976</year>)<article-title> Revisionary notes and keys to world genera of Scelionidae (Hymenoptera: Proctotrupoidea).</article-title> <source>Memoirs of the Entomological Society of Canada </source> <volume>97</volume>: <fpage>1</fpage>-<lpage>87</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/entm10897fv" xlink:type="simple">doi: 10.4039/entm10897fv</ext-link><sup><xref ref-type="fn" rid="FN24">24</xref></sup></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Masner</surname><given-names>L</given-names></name></person-group> (<year>1980</year>)<article-title> Key to genera of Scelionidae of the Holarctic region, with descriptions of new genera and species (Hymenoptera: Proctotrupoidea).</article-title> <source>Memoirs of the Entomological Society of Canada </source> <volume>113</volume>: <fpage>1</fpage>-<lpage>54</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/entm112113fv" xlink:type="simple">doi: 10.4039/entm112113fv</ext-link><sup><xref ref-type="fn" rid="FN25">25</xref></sup></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mikó</surname><given-names>I</given-names></name><name name-style="western"><surname>Vilhelmsen</surname><given-names>L</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>NF</given-names></name><name name-style="western"><surname>Masner</surname><given-names>L</given-names></name><name name-style="western"><surname>Pénzes</surname><given-names>Z</given-names></name></person-group> (<year>2007</year>)<article-title> Skeletomusculature of Scelionidae (Hymenoptera: Platygastroidea): head and mesosoma.</article-title> <source>Zootaxa </source> <volume>1571</volume>: <fpage>1</fpage>-<lpage>78</lpage>.<sup><xref ref-type="fn" rid="FN26">26</xref></sup></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Polaszek</surname><given-names>A</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Alonso-Zarazaga</surname><given-names>M</given-names></name><name name-style="western"><surname>Beccaloni</surname><given-names>G</given-names></name><name name-style="western"><surname>de Place Bjørn</surname><given-names>P</given-names></name><name name-style="western"><surname>Bouchet</surname><given-names>P</given-names></name><name name-style="western"><surname>Brothers</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Earl of</surname><given-names>Cranbrook</given-names></name><name name-style="western"><surname>Evenhuis</surname><given-names>NL</given-names></name><name name-style="western"><surname>Godfray</surname><given-names>HCJ</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>NF</given-names></name><name name-style="western"><surname>Krell</surname><given-names>F-K</given-names></name><name name-style="western"><surname>Lipscomb</surname><given-names>D</given-names></name><name name-style="western"><surname>Lyal</surname><given-names>CHC</given-names></name><name name-style="western"><surname>Mace</surname><given-names>GM</given-names></name><name name-style="western"><surname>Mawatari</surname><given-names>S</given-names></name><name name-style="western"><surname>Miller</surname><given-names>SE</given-names></name><name name-style="western"><surname>Minelli</surname><given-names>A</given-names></name><name name-style="western"><surname>Morris</surname><given-names>S</given-names></name><name name-style="western"><surname>Ng</surname><given-names>PKL</given-names></name><name name-style="western"><surname>Patterson</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Pyle</surname><given-names>RL</given-names></name><name name-style="western"><surname>Robinson</surname><given-names>N</given-names></name><name name-style="western"><surname>Rogo</surname><given-names>L</given-names></name><name name-style="western"><surname>Taverne</surname><given-names>J</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>FC</given-names></name><name name-style="western"><surname>van Tol</surname><given-names>J</given-names></name><name name-style="western"><surname>Wheeler</surname><given-names>QD</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>EO</given-names></name></person-group> (<year>2005</year>)<source> A universal register for animal names. Nature 437: 477.</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roberts</surname><given-names>HR</given-names></name><name name-style="western"><surname>Carbonell</surname><given-names>CS</given-names></name></person-group> (<year>1979</year>)<article-title> A revision of the genera <italic>Stenopola</italic> and <italic>Cornops</italic> (Orthoptera, Acrididae, Leptysminae).</article-title> <source>Proceedings of the Academy of Natural Sciences of Philadelphia </source> <volume>131</volume>: <fpage>104</fpage>-<lpage>130</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Szabó</surname><given-names>JB</given-names></name></person-group> (<year>1966</year>)<article-title> New proctotrupid genera and species from the Neogaea (Hymenoptera: Proctotrupoidea). First report on South American Scelionidae and Platygastridae.</article-title> <source>Acta Zoologica Academiae Scientiarum Hungaricae </source> <volume>12</volume>: <fpage>161</fpage>-<lpage>179</lpage>.<sup><xref ref-type="fn" rid="FN27">27</xref></sup></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vilhelmsen</surname><given-names>L</given-names></name><name name-style="western"><surname>Mikó</surname><given-names>I</given-names></name><name name-style="western"><surname>Krogmann</surname><given-names>L</given-names></name></person-group> (<year>2010</year>)<article-title> Beyond the wasp-waist: structural diversity and phylogenetic significance of the mesosoma in apocritan wasps (Insecta: Hymenoptera).</article-title> <source>Zoological Journal of the Linnean Society </source> <volume>159</volume>: <fpage>22</fpage>-<lpage>194</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-3642.2009.00576.x" xlink:type="simple">doi: 10.1111/j.1096-3642.2009.00576.x</ext-link><sup><xref ref-type="fn" rid="FN28">28</xref></sup></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yoder</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Mikó</surname><given-names>I</given-names></name><name name-style="western"><surname>Seltmann</surname><given-names>KC</given-names></name><name name-style="western"><surname>Bertone</surname><given-names>MA</given-names></name><name name-style="western"><surname>Deans</surname><given-names>AR</given-names></name></person-group> (<year>2010</year>)<source> A gross anatomy ontology for Hymenoptera. PLoS ONE 5(12): e15991. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0015991" xlink:type="simple">doi: 10.1371/journal.pone.0015991</ext-link><sup><xref ref-type="fn" rid="FN29">29</xref></sup></mixed-citation></ref>
+        </ref-list>
+        <sec sec-type="Endnotes">
+            <title>Endnotes</title>
+            <fn-group>
+                <fn id="FN1">
+                    <label>1</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:1008" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:1008</ext-link></p>
+                </fn>
+                <fn id="FN2">
+                    <label>2</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:1009" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:1009</ext-link></p>
+                </fn>
+                <fn id="FN3">
+                    <label>3</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:1010" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:1010</ext-link></p>
+                </fn>
+                <fn id="FN4">
+                    <label>4</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:1012" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:1012</ext-link></p>
+                </fn>
+                <fn id="FN5">
+                    <label>5</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:33453" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:33453</ext-link></p>
+                </fn>
+                <fn id="FN6">
+                    <label>6</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:33834" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:33834</ext-link></p>
+                </fn>
+                <fn id="FN7">
+                    <label>7</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:1014" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:1014</ext-link></p>
+                </fn>
+                <fn id="FN8">
+                    <label>8</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:34336" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:34336</ext-link></p>
+                </fn>
+                <fn id="FN9">
+                    <label>9</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:1019" xlink:type="simple">http://biocol.org/urn:lsid:biocol.org:col:1019</ext-link></p>
+                </fn>
+                <fn id="FN10">
+                    <label>10</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644094" xlink:type="simple">http://www.morphbank.net/?id=644094</ext-link></p>
+                </fn>
+                <fn id="FN11">
+                    <label>11</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=5132" xlink:type="simple">http://hol.osu.edu/map-full.html?id=5132</ext-link></p>
+                </fn>
+                <fn id="FN12">
+                    <label>12</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644091" xlink:type="simple">http://www.morphbank.net/?id=644091</ext-link></p>
+                </fn>
+                <fn id="FN13">
+                    <label>13</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=5133" xlink:type="simple">http://hol.osu.edu/map-full.html?id=5133</ext-link></p>
+                </fn>
+                <fn id="FN14">
+                    <label>14</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644092" xlink:type="simple">http://www.morphbank.net/?id=644092</ext-link></p>
+                </fn>
+                <fn id="FN15">
+                    <label>15</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=242983" xlink:type="simple">http://hol.osu.edu/map-full.html?id=242983</ext-link></p>
+                </fn>
+                <fn id="FN16">
+                    <label>16</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644093" xlink:type="simple">http://www.morphbank.net/?id=644093</ext-link></p>
+                </fn>
+                <fn id="FN17">
+                    <label>17</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://hol.osu.edu/map-full.html?id=242982" xlink:type="simple">http://hol.osu.edu/map-full.html?id=242982</ext-link></p>
+                </fn>
+                <fn id="FN18">
+                    <label>18</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:20940" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:20940</ext-link></p>
+                </fn>
+                <fn id="FN19">
+                    <label>19</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:131" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:131</ext-link></p>
+                </fn>
+                <fn id="FN20">
+                    <label>20</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:235" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:235</ext-link></p>
+                </fn>
+                <fn id="FN21">
+                    <label>21</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:229" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:229</ext-link></p>
+                </fn>
+                <fn id="FN22">
+                    <label>22</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:21243" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:21243</ext-link></p>
+                </fn>
+                <fn id="FN23">
+                    <label>23</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:998" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:998</ext-link></p>
+                </fn>
+                <fn id="FN24">
+                    <label>24</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:311" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:311</ext-link></p>
+                </fn>
+                <fn id="FN25">
+                    <label>25</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:474" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:474</ext-link></p>
+                </fn>
+                <fn id="FN26">
+                    <label>26</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:21300" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:21300</ext-link></p>
+                </fn>
+                <fn id="FN27">
+                    <label>27</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:23221" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:23221</ext-link></p>
+                </fn>
+                <fn id="FN28">
+                    <label>28</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:452" xlink:type="simple">http://lsid.tdwg.org/urn:lsid:biosci.ohio-state.edu:osuc_pubs:452</ext-link></p>
+                </fn>
+                <fn id="FN29">
+                    <label>29</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="doi:10.1371/journal.pone.0015991" xlink:type="simple">doi:10.1371/journal.pone.0015991</ext-link></p>
+                </fn>
+                <fn id="FN30">
+                    <label>30</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644067" xlink:type="simple">http://www.morphbank.net/?id=644067</ext-link></p>
+                </fn>
+                <fn id="FN31">
+                    <label>31</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644072" xlink:type="simple">http://www.morphbank.net/?id=644072</ext-link></p>
+                </fn>
+                <fn id="FN32">
+                    <label>32</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644091" xlink:type="simple">http://www.morphbank.net/?id=644091</ext-link></p>
+                </fn>
+                <fn id="FN33">
+                    <label>33</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644092" xlink:type="simple">http://www.morphbank.net/?id=644092</ext-link></p>
+                </fn>
+                <fn id="FN34">
+                    <label>34</label>
+                    <p><ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/?id=644093" xlink:type="simple">http://www.morphbank.net/?id=644093</ext-link></p>
+                </fn>
+
+            </fn-group>
+        </sec><!--PageBreak-->
+				<app-group>
+        <app id="Appendix1"><title>Appendix 1</title>
+            <p>Correspondence between anatomical terms used and the Hymenoptera Anatomy Ontology. Identifiers may be resolved by appending them to the following URL: http://purl.obolibrary.org/obo/</p>
+            <table-wrap position="float" orientation="portrait">
+                <caption><p> Correspondence between anatomical terms used and the Hymenoptera Anatomy Ontology. Identifiers may be resolved by appending them to the following URL: http://purl.obolibrary.org/obo/</p></caption>
+                <table id="T1">
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">A1</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000908" xlink:type="simple">HAO_0000908</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">A2</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000706" xlink:type="simple">HAO_0000706</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">A3</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001148" xlink:type="simple">HAO_0001148</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">A7</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001885" xlink:type="simple">HAO_0001885</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">A12</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001884" xlink:type="simple">HAO_0001884</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">acetabular carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000292" xlink:type="simple">HAO_0000292</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">admedian line</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000128" xlink:type="simple">HAO_0000128</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">anteclypeus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000209" xlink:type="simple">HAO_0000209</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">antenna</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000101" xlink:type="simple">HAO_0000101</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">antennomere</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000107" xlink:type="simple">HAO_0000107</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">anterior margin of clypeus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001767" xlink:type="simple">HAO_0001767</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">area</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000146" xlink:type="simple">HAO_0000146</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">articulation</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001485" xlink:type="simple">HAO_0001485</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">axillula</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000160" xlink:type="simple">HAO_0000160</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">basal vein</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000170" xlink:type="simple">HAO_0000170</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">body</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000182" xlink:type="simple">HAO_0000182</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">bulla</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000184" xlink:type="simple">HAO_0000184</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000188" xlink:type="simple">HAO_0000188</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">central keel</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000109" xlink:type="simple">HAO_0000109</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">clava</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001185" xlink:type="simple">HAO_0001185</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">clavomere</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001186" xlink:type="simple">HAO_0001186</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">clypeus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000212" xlink:type="simple">HAO_0000212</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">compound eye</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000217" xlink:type="simple">HAO_0000217</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">corner</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000223" xlink:type="simple">HAO_0000223</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">coxa</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000228" xlink:type="simple">HAO_0000228</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">depression</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000241" xlink:type="simple">HAO_0000241</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">egg</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000286" xlink:type="simple">HAO_0000286</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">epomial carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000307" xlink:type="simple">HAO_0000307</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">eye</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000217" xlink:type="simple">HAO_0000217</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">felt field</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000322" xlink:type="simple">HAO_0000322</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">femur</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000327" xlink:type="simple">HAO_0000327</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">flagellum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000343" xlink:type="simple">HAO_0000343</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">fore wing</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000351" xlink:type="simple">HAO_0000351</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">fovea</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000241" xlink:type="simple">HAO_0000241</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">frons</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001523" xlink:type="simple">HAO_0001523</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">frontal shelf</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001886" xlink:type="simple">HAO_0001886</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">gena</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000371" xlink:type="simple">HAO_0000371</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">head</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000397" xlink:type="simple">HAO_0000397</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">hind coxa</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000587" xlink:type="simple">HAO_0000587</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">hind tibia</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000631" xlink:type="simple">HAO_0000631</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">hind tibial spur</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001121" xlink:type="simple">HAO_0001121</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">hind wing</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000400" xlink:type="simple">HAO_0000400</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">hyperoccipital carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000406" xlink:type="simple">HAO_0000406</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">inner orbit</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000419" xlink:type="simple">HAO_0000419</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">interantennal process</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000422" xlink:type="simple">HAO_0000422</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">labrum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000456" xlink:type="simple">HAO_0000456</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lateral face of pronotum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000483" xlink:type="simple">HAO_0000483</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lateral ocellus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000481" xlink:type="simple">HAO_0000481</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">laterotergite</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000493" xlink:type="simple">HAO_0000493</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">laterosternite</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001838" xlink:type="simple">HAO_0001838</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">line</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001586" xlink:type="simple">HAO_0001586</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lower frons striae</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001770" xlink:type="simple">HAO_0001770</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">malar sulcus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000504" xlink:type="simple">HAO_0000504</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mandible</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000506" xlink:type="simple">HAO_0000506</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mandibular tooth</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001019" xlink:type="simple">HAO_0001019</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">margin</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000510" xlink:type="simple">HAO_0000510</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">median longitudinal carina of S1</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001878" xlink:type="simple">HAO_0001878</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">median longitudinal carina on metasomal tergite</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001878" xlink:type="simple">HAO_0001878</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">median longitudinal carina of mesoscutellum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001878" xlink:type="simple">HAO_0001878</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mesopleural carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000559" xlink:type="simple">HAO_0000559</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mesopleural pit</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_00001358" xlink:type="simple">HAO_00001358</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mesopleuron</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000566" xlink:type="simple">HAO_0000566</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mesoscutellum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000574" xlink:type="simple">HAO_0000574</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mesoscutum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001490" xlink:type="simple">HAO_0001490</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mesosoma</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000576" xlink:type="simple">HAO_0000576</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">metapleuron</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000621" xlink:type="simple">HAO_0000621</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">metapostnotum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000622" xlink:type="simple">HAO_0000622</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">metascutellum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000625" xlink:type="simple">HAO_0000625</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">metasoma</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000626" xlink:type="simple">HAO_0000626</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">metasomal depression of propodeum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000627" xlink:type="simple">HAO_0000627</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mid coxa</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000635" xlink:type="simple">HAO_0000635</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mid tibial spur</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001120" xlink:type="simple">HAO_0001120</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">midlobe of mesoscutum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000520" xlink:type="simple">HAO_0000520</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">multiporous plate sensillum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000640" xlink:type="simple">HAO_0000640</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">netrion</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000644" xlink:type="simple">HAO_0000644</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">notauli (notaulus)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000647" xlink:type="simple">HAO_0000647</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">occipital carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000653" xlink:type="simple">HAO_0000653</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">occiput</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000658" xlink:type="simple">HAO_0000658</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ocellus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000661" xlink:type="simple">HAO_0000661</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ocular ocellar line</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000662" xlink:type="simple">HAO_0000662</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">orbit</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000672" xlink:type="simple">HAO_0000672</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">orbital carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000810" xlink:type="simple">HAO_0000810</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ovipositor</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000679" xlink:type="simple">HAO_0000679</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">palpomere</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001866" xlink:type="simple">HAO_0001866</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pit</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000718" xlink:type="simple">HAO_0000718</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">parapsidal line</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000694" xlink:type="simple">HAO_0000694</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">postclypeus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000743" xlink:type="simple">HAO_0000743</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">propodeal lateral projection</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000763" xlink:type="simple">HAO_0000763</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">process</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000822" xlink:type="simple">HAO_0000822</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">projection</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000829" xlink:type="simple">HAO_0000829</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pronotum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000853" xlink:type="simple">HAO_0000853</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">propodeum</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001248" xlink:type="simple">HAO_0001248</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">radial vein</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000888" xlink:type="simple">HAO_0000888</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">radicle</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000889" xlink:type="simple">HAO_0000889</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">scrobe</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000911" xlink:type="simple">HAO_0000911</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sculpture</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000913" xlink:type="simple">HAO_0000913</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">segment</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000929" xlink:type="simple">HAO_0000929</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">skaphion</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000940" xlink:type="simple">HAO_0000940</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sternaulus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001205" xlink:type="simple">HAO_0001205</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sternite</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001654" xlink:type="simple">HAO_0001654</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">submedian carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000973" xlink:type="simple">HAO_0000973</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sulcus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000978" xlink:type="simple">HAO_0000978</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tegula</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000993" xlink:type="simple">HAO_0000993</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tergite</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001783" xlink:type="simple">HAO_0001783</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tibia</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001017" xlink:type="simple">HAO_0001017</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">torulus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001022" xlink:type="simple">HAO_0001022</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">transscutal articulation</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001623" xlink:type="simple">HAO_0001623</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">transverse pronotal carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001031" xlink:type="simple">HAO_0001031</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">trochantellus</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001033" xlink:type="simple">HAO_0001033</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tyloid</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001199" xlink:type="simple">HAO_0001199</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">vein</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001095" xlink:type="simple">HAO_0001095</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">venation</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001096" xlink:type="simple">HAO_0001096</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">vertex</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001077" xlink:type="simple">HAO_0001077</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">vertical epomial carina</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0000307" xlink:type="simple">HAO_0000307</ext-link></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">wing</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/HAO_0001089" xlink:type="simple">HAO_0001089</ext-link></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </app>
+				</app-group>
+    </back>
+</article>

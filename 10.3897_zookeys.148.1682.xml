@@ -1,0 +1,490 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.148.1682</article-id>
+            <title-group>
+                <article-title>Family-group names for termites (Isoptera), redux</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Engel</surname>
+                        <given-names>Michael S.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Division of Entomology, Natural History Museum, and Department of Ecology &amp; Evolutionary Biology, 1501 Crestline Drive – Suite 140, University of Kansas, Lawrence, Kansas 66049-2811, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Michael S. Engel (<email xlink:type="simple">msengel@ku.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: D. Grimaldi</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>148</issue>
+            <fpage>171</fpage>
+            <lpage>184</lpage>
+            <history>
+                <date date-type="received">
+                    <day>8</day>
+                    <month>6</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>8</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Michael S. Engel</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Forty-eight family-group names are identified for insects among the <tp:taxon-name>Isoptera</tp:taxon-name> (termites), representing a nearly 19% increase since the last compilation less than 10 years ago. Accordingly, these names are newly catalogued, including various updates from the original summary. The name <tp:taxon-name>Reticulitermitidae</tp:taxon-name> is recognized as a <italic>nomen nudum</italic> while <tp:taxon-name>Caatingatermitinae</tp:taxon-name> is newly considered a <italic>nomen invalidum</italic>, and neither is available in zoological nomenclature. A catalogue of the suprafamilial names for <tp:taxon-name>Isoptera</tp:taxon-name> is appended. The name Xylophagodea is formally proposed for the <tp:taxon-name>Isoptera</tp:taxon-name> + <tp:taxon-name>Cryptocercidae</tp:taxon-name> clade.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><tp:taxon-name>Isoptera</tp:taxon-name></kwd>
+                <kwd>termites</kwd>
+                <kwd>nomenclature</kwd>
+                <kwd>classification</kwd>
+                <kwd>family-group names</kwd>
+                <kwd>type genera</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>During the last 25 years numerous efforts have been undertaken to document family-group names for insects and to provide their correct authorship, date, type genus, combining stem, and availability or validity (e.g., <xref ref-type="bibr" rid="B66">Michener 1986</xref>; <xref ref-type="bibr" rid="B89">Wahl and Mason 1995</xref>; <xref ref-type="bibr" rid="B64">Menke 1997</xref>; <xref ref-type="bibr" rid="B78">Sabrosky 1999</xref>; <xref ref-type="bibr" rid="B86">Speidel and Naumann 2004</xref>; <xref ref-type="bibr" rid="B19">Engel 2005</xref>; <xref ref-type="bibr" rid="B20">Engel and Haas 2007</xref>; <xref ref-type="bibr" rid="B65">Menke et al. 2008</xref>; <xref ref-type="bibr" rid="B67">Miller 2009</xref>; <xref ref-type="bibr" rid="B3">Bouchard et al. 2011</xref>). Seven years ago such an exercise was completed for the termites (<xref ref-type="bibr" rid="B23">Engel and Krishna 2004a</xref>) and it is remarkable that the number of names has grown significantly for this small insect lineage, of approximately 3500 species, such that a full 19% of the names known today were not included in that original account. Accordingly, I provide an updated list, in order of priority, for all family-group names proposed for termites through to <!--PageBreak-->the present day. The list is an updated and corrected version of that provided by <xref ref-type="bibr" rid="B23">Engel and Krishna (2004a)</xref>, incorporating the various new names and edits of subsequent works (e.g., <xref ref-type="bibr" rid="B24">Engel and Krishna 2004b</xref>, 2007; <xref ref-type="bibr" rid="B7">Cancello and DeSouza 2005</xref>; <xref ref-type="bibr" rid="B30">Engel et al. 2009</xref>). As in the earlier summary, all names are presented in their original forms, regardless of present day rank or suffix, with type genus and correct combining stem provided for each. Daggers (†) indicate names proposed for fossil taxa. The format generally follows that of <xref ref-type="bibr" rid="B23">Engel and Krishna (2004a)</xref>.</p>
+            <p>In addition I have included here for the first time a summary of all names applied for suprafamilial groups of termites (i.e., names above the family-group ranks and not regulated by the ICZN).</p>
+        </sec>
+        <sec sec-type="Catalog of Family-group names">
+            <title>Catalog of Family-group names</title>
+            <p>1.	<bold><tp:taxon-name>Termitina</tp:taxon-name></bold> Latreille, 1802: 293. Type genus: <italic><tp:taxon-name>Termes</tp:taxon-name></italic> Linnaeus, 1758. Combining stem: Termit–. Note: <xref ref-type="bibr" rid="B60">Latreille (1805</xref>, 1810) subsequently changed the name of his “famille” to <tp:taxon-name>Termitinae</tp:taxon-name> but the name was made first available in 1802 (<xref ref-type="bibr" rid="B47">ICZN 1999</xref>: Art. 11.7).</p>
+            <p>2.	<bold><tp:taxon-name>Calotermitinae</tp:taxon-name></bold> Froggatt, 1897: 516 [<italic>recte</italic> <tp:taxon-name>Kalotermitinae</tp:taxon-name>; in accordance with <xref ref-type="bibr" rid="B47">ICZN (1999)</xref> Art. 29.1 the name is automatically emended to <tp:taxon-name>Kalotermitinae</tp:taxon-name> Froggatt, 1897]. Type genus: <italic><tp:taxon-name>Kalotermes</tp:taxon-name></italic> Hagen, 1853 [<italic><tp:taxon-name>Calotermes</tp:taxon-name></italic> Hagen, 1858 is an unjustified emendation: <italic>vide</italic> <xref ref-type="bibr" rid="B21">Engel and Krishna 2001a</xref>; <xref ref-type="bibr" rid="B48">ICZN 2002</xref>]. Combining stem: Kalotermit–.</p>
+            <p>3.	<bold><tp:taxon-name>Glyptotermitinae</tp:taxon-name></bold> Froggatt, 1897: 518. Type genus: <italic><tp:taxon-name>Glyptotermes</tp:taxon-name></italic> Froggatt, 1897. Combining stem: Glyptotermit–.</p>
+            <p>4.	<bold><tp:taxon-name>Rhinotermitinae</tp:taxon-name></bold> Froggatt, 1897: 518. Type genus: <italic><tp:taxon-name>Rhinotermes</tp:taxon-name></italic> Hagen, 1858. Combining stem: Rhinotermit–.</p>
+            <p>5.	<bold><tp:taxon-name>Heterotermitinae</tp:taxon-name></bold> Froggatt, 1897: 550. Type genus: <italic><tp:taxon-name>Heterotermes</tp:taxon-name></italic> Froggatt, 1897. Combining stem: Heterotermit–.</p>
+            <p>6.	<bold><tp:taxon-name>Mastotermitinae</tp:taxon-name></bold> Desneux, 1904a: 284. Type genus: <italic><tp:taxon-name>Mastotermes</tp:taxon-name></italic> Froggatt, 1897. Combining stem: Mastotermit–.</p>
+            <p>7.	<bold><tp:taxon-name>Hodotermitini</tp:taxon-name></bold> Desneux, 1904c: 284. Type genus: <italic><tp:taxon-name>Hodotermes</tp:taxon-name></italic> Hagen, 1853. Combining stem: Hodotermit–.</p>
+            <p>8.	<bold><tp:taxon-name>Stolotermitinae</tp:taxon-name></bold> Holmgren, 1910a: 285. Type genus: <italic><tp:taxon-name>Stolotermes</tp:taxon-name></italic> Hagen, 1858. Combining stem: Stolotermit–. Note: <tp:taxon-name>Stolotermitinae</tp:taxon-name> has often been included in an expanded <tp:taxon-name>Termopsidae</tp:taxon-name> for which the latter name has been used for the combined grouping despite the priority of the name based on <italic><tp:taxon-name>Stolotermes</tp:taxon-name></italic>. A petition was submitted (<xref ref-type="bibr" rid="B29">Engel et al. 2003</xref>; <xref ref-type="bibr" rid="B25">Engel and Krishna 2004c</xref>) and approved (<xref ref-type="bibr" rid="B50">ICZN 2005</xref>) reversing priority in favor of <tp:taxon-name>Termopsidae</tp:taxon-name> whenever <italic><tp:taxon-name>Termopsis</tp:taxon-name></italic> and <italic><tp:taxon-name>Stolotermes</tp:taxon-name></italic> are placed within the same family group. However, in the present classification (<xref ref-type="bibr" rid="B30">Engel et al. 2009</xref> and <xref ref-type="table" rid="T1">table 1</xref> herein) stolotermitines are segregated into their own family.</p>
+            <p>9.	<bold><tp:taxon-name>Leucotermitinae</tp:taxon-name></bold> Holmgren, 1910a: 285. Type genus: <italic><tp:taxon-name>Leucotermes</tp:taxon-name></italic> Silvestri, 1901. Combining stem: Leucotermit–.<!--PageBreak--></p>
+            <p>10.	<bold><tp:taxon-name>Coptotermitinae</tp:taxon-name></bold> Holmgren, 1910a: 285. Type genus: <italic><tp:taxon-name>Coptotermes</tp:taxon-name></italic> Wasmann, 1896. Combining stem: Coptotermit–. Note: Proposed again as new in <xref ref-type="bibr" rid="B43">Holmgren (1910b)</xref>.</p>
+            <p>11.	<bold><tp:taxon-name>Serritermitinae</tp:taxon-name></bold> Holmgren, 1910a: 285. Type genus: <italic><tp:taxon-name>Serritermes</tp:taxon-name></italic> Wasmann, 1897. Combining stem: Serritermit–.</p>
+            <p>12.	<bold><tp:taxon-name>Termitogetoninae</tp:taxon-name></bold> Holmgren, 1910a: 286. Type genus: <italic><tp:taxon-name>Termitogeton</tp:taxon-name></italic> Desneux, 1904b. Combining stem: Termitogeton–.</p>
+            <p>13.	<bold><tp:taxon-name>Microcerotermitinae</tp:taxon-name></bold> Holmgren, 1910b: 145. Type genus: <italic><tp:taxon-name>Microcerotermes</tp:taxon-name></italic> Silvestri, 1901. Combining stem: Microcerotermit–.</p>
+            <p>14.	<bold><tp:taxon-name>Eutermitinae</tp:taxon-name></bold> Holmgren, 1910b: 146. Type genus: <italic><tp:taxon-name>Eutermes</tp:taxon-name></italic> Heer, 1849. Combining stem: Eutermit–. Note: Given the uncertainty in the application of the name <italic><tp:taxon-name>Eutermes</tp:taxon-name></italic>, and thereby the family-group name <tp:taxon-name>Eutermitinae</tp:taxon-name>, a petition to suppress proactively the name was submitted to the ICZN for consideration (<xref ref-type="bibr" rid="B26">Engel and Krishna 2005a</xref>) which, after discussion (<xref ref-type="bibr" rid="B74">Roisin 2005</xref>; <xref ref-type="bibr" rid="B27">Engel and Krishna 2005b</xref>), was not approved (<xref ref-type="bibr" rid="B51">ICZN 2007</xref>). The name is presently considered <italic>incertae sedis</italic>.</p>
+            <p>15.	<bold><tp:taxon-name>Termopsinae</tp:taxon-name></bold> Holmgren, 1911: 35. Type genus: <italic><tp:taxon-name>Termopsis</tp:taxon-name></italic> Heer, 1849. Combining stem: Termops–. Note: Refer to comments provided for <tp:taxon-name>Stolotermitinae</tp:taxon-name> (<italic>vide supra</italic>).</p>
+            <p>16.	<bold><tp:taxon-name>Psammotermitinae</tp:taxon-name></bold> Holmgren, 1911: 64. Type genus: <italic><tp:taxon-name>Psammotermes</tp:taxon-name></italic> Desneux, 1902. Combining stem: Psammotermit–.</p>
+            <p>17.	<bold><tp:taxon-name>Pseudomicrotermitinae</tp:taxon-name></bold> Holmgren, 1912: 5. Type genus: <italic><tp:taxon-name>Pseudomicrotermes</tp:taxon-name></italic> Holmgren, 1912. Combining stem: Pseudomicrotermit–.</p>
+            <p>18.	<bold><tp:taxon-name>Foraminitermitinae</tp:taxon-name></bold> Holmgren, 1912: 5. Type genus: <italic><tp:taxon-name>Foraminitermes</tp:taxon-name></italic> Holmgren, 1912. Combining stem: Foraminitermit–.</p>
+            <p>19.	<bold><tp:taxon-name>Stylotermitinae</tp:taxon-name></bold> Holmgren and Holmgren, 1917: 141. Type genus: <italic><tp:taxon-name>Stylotermes</tp:taxon-name></italic> Holmgren and Holmgren, 1917. Combining stem: Stylotermit–.</p>
+            <p>20.	†<bold><tp:taxon-name>Pliotermitinae</tp:taxon-name></bold> <xref ref-type="bibr" rid="B71">Pongrácz 1917</xref>: 28. Type genus: †<italic><tp:taxon-name>Pliotermes</tp:taxon-name></italic> Pongrácz, 1917. Combining stem: Pliotermit–.</p>
+            <p>21.	<bold><tp:taxon-name>Arrhinotermitinae</tp:taxon-name></bold> Sjöstedt, 1926: 8. Type genus: <italic><tp:taxon-name>Arrhinotermes</tp:taxon-name></italic> Wasmann, 1902. Combining stem: Arrhinotermit–.</p>
+            <p>22.	<bold><tp:taxon-name>Acanthotermitinae</tp:taxon-name></bold> Sjöstedt, 1926: 8. Type genus: <italic><tp:taxon-name>Acanthotermes</tp:taxon-name></italic> Sjöstedt, 1900. Combining stem: Acanthotermit–. Note: This name has priority over <tp:taxon-name>Macrotermitinae</tp:taxon-name>; however, a petition was submitted to conserve the usage of <tp:taxon-name>Macrotermitinae</tp:taxon-name> (<xref ref-type="bibr" rid="B22">Engel and Krishna 2001b</xref>) and was approved by the <xref ref-type="bibr" rid="B49">ICZN (2003)</xref>. <tp:taxon-name>Macrotermitinae</tp:taxon-name> is to be used whenever <italic><tp:taxon-name>Macrotermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Acanthotermes</tp:taxon-name></italic> are placed into the same family-group taxon.</p>
+            <p>23.	†<bold><tp:taxon-name>Miotermitinae</tp:taxon-name></bold> Pongrácz, 1926: 29 [chart]. Type genus: †<italic><tp:taxon-name>Miotermes</tp:taxon-name></italic> Rosen, 1913. Combining stem: Miotermit–.</p>
+            <p>24.	<bold><tp:taxon-name>Macrotermitinae</tp:taxon-name></bold> Kemner, 1934: 69. Type genus: <italic><tp:taxon-name>Macrotermes</tp:taxon-name></italic> Holmgren, 1909. Combining stem: Macrotermit–. Note: Refer to comments provided for <tp:taxon-name>Acanthotermitinae</tp:taxon-name> (<italic>vide supra</italic>).</p>
+            <p>25.	<bold><tp:taxon-name>Amitermitinae</tp:taxon-name></bold> Kemner, 1934: 110. Type genus: <italic><tp:taxon-name>Amitermes</tp:taxon-name></italic> Silvestri, 1901. Combining stem: Amitermit–.</p>
+            <!--PageBreak-->
+            <p>26.	<bold><tp:taxon-name>Miro-capritermitinae</tp:taxon-name></bold> Kemner, 1934: 166. Type genus: <italic><tp:taxon-name>Mirocapritermes</tp:taxon-name></italic> Holmgren, 1914. Combining stem: Mirocapritermit–. Note: Although <xref ref-type="bibr" rid="B52">Kemner (1934)</xref> hyphenated the name in its original spelling, the <xref ref-type="bibr" rid="B47">ICZN (1999)</xref> does not allow hyphenation and the family-group name must be considered a single word.</p>
+            <p>27.	<bold><tp:taxon-name>Nasutitermitinae</tp:taxon-name></bold> Hare, 1937. Type genus: <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> Dudley, 1890. Combining stem: Nasutitermit–.</p>
+            <p>28.	†<bold><tp:taxon-name>Electrotermitinae</tp:taxon-name></bold> Emerson, 1942: 10. Type genus: †<italic><tp:taxon-name>Electrotermes</tp:taxon-name></italic> Rosen, 1913. Combining stem: Electrotermit–.</p>
+            <p>29.	<bold><tp:taxon-name>Porotermitinae</tp:taxon-name></bold> Emerson, 1942: 10. Type genus: <italic><tp:taxon-name>Porotermes</tp:taxon-name></italic> Hagen, 1858. Combining stem: Porotermit–.</p>
+            <p>30.	<bold><tp:taxon-name>Apicotermitinae</tp:taxon-name></bold> Grassé and Noirot, 1954 [1955]: 360. Type genus: <italic><tp:taxon-name>Apicotermes</tp:taxon-name></italic> Holmgren, 1912. Combining stem: Apicotermit–.</p>
+            <p>31.	<bold><tp:taxon-name>Odontotermitini</tp:taxon-name></bold> Weidner, 1956: 82. Type genus: <italic><tp:taxon-name>Odontotermes</tp:taxon-name></italic> Holmgren, 1910a. Combining stem: Odontotermit–.</p>
+            <p>32.	<bold><tp:taxon-name>Cubitermitini</tp:taxon-name></bold> Weidner, 1956: 99. Type genus: <italic><tp:taxon-name>Cubitermes</tp:taxon-name></italic> Wasmann, 1906. Combining stem: Cubitermit–.</p>
+            <p>33.	<bold><tp:taxon-name>Mirotermitini</tp:taxon-name></bold> Weidner, 1956: 99. Type genus: <italic><tp:taxon-name>Mirotermes</tp:taxon-name></italic> Wasmann, 1897. Combining stem: Mirotermit–.</p>
+            <p>34.	<bold><tp:taxon-name>Capritermitini</tp:taxon-name></bold> Weidner, 1956: 100. Type genus: <italic><tp:taxon-name>Capritermes</tp:taxon-name></italic> Wasmann, 1897. Combining stem: Capritermit–.</p>
+            <p>35.	<bold><tp:taxon-name>Indotermitidae</tp:taxon-name></bold> Roonwal and Sen-Sarma <italic>In</italic> Roonwal, 1958: 81. Type genus: <italic><tp:taxon-name>Indotermes</tp:taxon-name></italic> Roonwal and Sen-Sarma <italic>In</italic> Roonwal, 1958. Stem: Indotermit–. Note: Proposed as new again in <xref ref-type="bibr" rid="B76">Roonwal and Sen-Sarma (1960)</xref>.</p>
+            <p>36.	†<bold><tp:taxon-name>Cretatermitinae</tp:taxon-name></bold> Emerson, 1967 [1968]: 278. Type genus: †<italic><tp:taxon-name>Cretatermes</tp:taxon-name></italic> Emerson, 1967 [1968]. Combining stem: Cretatermit–.</p>
+            <p>37.	<bold><tp:taxon-name>Prorhinotermitinae</tp:taxon-name></bold> Quennedey and Deligne, 1975: 265. Type genus: <italic><tp:taxon-name>Prorhinotermes</tp:taxon-name></italic> Silvestri, 1909. Combining stem: Prorhinotermit–.</p>
+            <p>38.	†<bold><tp:taxon-name>Lutetiatermitinae</tp:taxon-name></bold> Schlüter, 1989: 61. Type genus: †<italic><tp:taxon-name>Lutetiatermes</tp:taxon-name></italic> Schlüter, 1989. Combining stem: Lutetiatermit–.</p>
+            <p>39.	†<bold><tp:taxon-name>Carinatermitinae</tp:taxon-name></bold> Krishna and Grimaldi, 2000: 134. Type genus: †<italic><tp:taxon-name>Carinatermes</tp:taxon-name></italic> Krishna and Grimaldi, 2000. Combining stem: Carinatermit–.</p>
+            <p>40.	†<bold><tp:taxon-name>Archeorhinotermitinae</tp:taxon-name></bold> Krishna and Grimaldi, 2003: 2. Type genus: †<italic><tp:taxon-name>Archeorhinotermes</tp:taxon-name></italic> Krishna and Grimaldi, 2003. Combining stem: Archeorhinotermit–.</p>
+            <p>41.	<bold><tp:taxon-name>Reticulitermatidae</tp:taxon-name></bold> Szalanski, Austin, and Owen 2003: 1514, <italic>nomen imperfectum</italic> [<italic>recte</italic> <tp:taxon-name>Reticulitermitidae</tp:taxon-name>] <italic>et</italic> <italic>nomen nudum</italic>. Note: This name has appeared in several publications (e.g., <xref ref-type="bibr" rid="B85">Sobti et al. 2009</xref>) but has not been formally established. It would represent simply a junior synonym of <tp:taxon-name>Heterotermitinae</tp:taxon-name>.</p>
+            <p>42.	<bold><tp:taxon-name>Syntermitinae</tp:taxon-name></bold> Engel and Krishna, 2004a: 6. Type genus: <italic><tp:taxon-name>Syntermes</tp:taxon-name></italic> Holmgren, 1909. Combining stem: Syntermit–.</p>
+            <p>43.	<bold><tp:taxon-name>Sphaerotermitinae</tp:taxon-name></bold> Engel and Krishna, 2004a: 6. Type genus: <italic><tp:taxon-name>Sphaerotermes</tp:taxon-name></italic> Holmgren, 1912. Combining stem: Sphaerotermit–.<!--PageBreak--><!--PageBreak--></p>
+            <p>44.	<bold><tp:taxon-name>Cornitermitinae</tp:taxon-name></bold> Ensaf et al., 2004: 284, <italic>nomen nudum</italic>. Type genus: <italic><tp:taxon-name>Cornitermes</tp:taxon-name></italic> Wasmann, 1897. Combining stem: Cornitermit–.</p>
+            <p>45.	<bold><tp:taxon-name>Glossotermitinae</tp:taxon-name></bold> Cancello and DeSouza, 2005: 35. Type genus: <italic><tp:taxon-name>Glossotermes</tp:taxon-name></italic> Emerson, 1950. Combining stem: Glossotermit–.</p>
+            <p>46.	†<bold><tp:taxon-name>Caatingatermitinae</tp:taxon-name></bold> Martins-Neto, Ribeiro-Júnior, and Prezoto, 2006: 127, <italic>nomen invalidum</italic>. Note: I consider this name to be unavailable as the type genus was not explicitly indicated. <xref ref-type="bibr" rid="B47">ICZN (1999)</xref> Art. 16.2 requires that after 1999 all new family-group names must have the type genus precisely identified, not implied through the formation of the name. <xref ref-type="bibr" rid="B63">Martins-Neto et al. (2006)</xref> nowhere mention the type genus for their new subfamily and include two genera and two species within their grouping. Accordingly, this name fails to meet all of the criteria for availability.</p>
+            <p>47.	†<bold><tp:taxon-name>Cratomastotermitidae</tp:taxon-name></bold> Engel, Grimaldi, and Krishna, 2009: 9. Type genus: †<italic><tp:taxon-name>Cratomastotermes</tp:taxon-name></italic> Bechly, 2007. Combining stem: Cratomastotermit–.</p>
+            <p>48.	<bold><tp:taxon-name>Archotermopsidae</tp:taxon-name></bold> Engel, Grimaldi, and Krishna, 2009: 11. Type genus: <italic><tp:taxon-name>Archotermopsis</tp:taxon-name></italic> Desneux, 1904d. Combining stem: Archotermops–.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p> Hierarchical and synonymic outline of termite classification (modified after <xref ref-type="bibr" rid="B30">Engel et al. 2009</xref>). <italic>Nomina nuda</italic> and <italic>nomina invalida</italic> omitted.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="6">Infraorder <bold><tp:taxon-name>Isoptera</tp:taxon-name></bold> Brullé, 1832</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family †<tp:taxon-name>Cratomastotermitidae</tp:taxon-name> Engel et al., 2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="5">Parvorder <tp:taxon-name>Euisoptera</tp:taxon-name> Engel et al., 2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1"><italic>†<tp:taxon-name>Cretatermitinae</tp:taxon-name></italic> Emerson, 1967 [1968]</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1"><italic>†<tp:taxon-name>Lutetiatermitinae</tp:taxon-name></italic> Schlüter, 1989</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1"><italic>†<tp:taxon-name>Carinatermitinae</tp:taxon-name></italic> Krishna &amp; Grimaldi, 2000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Mastotermitidae</tp:taxon-name> Desneux, 1904a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic>†<tp:taxon-name>Pliotermitinae</tp:taxon-name></italic> Pongrácz, 1917</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic>†<tp:taxon-name>Miotermitinae</tp:taxon-name></italic> Pongrácz, 1926</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family †<tp:taxon-name>Termopsidae</tp:taxon-name> Holmgren, 1911</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Hodotermitidae</tp:taxon-name> Desneux, 1904c</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Archotermopsidae</tp:taxon-name> Engel et al., 2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Stolotermitidae</tp:taxon-name> Holmgren, 1910a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Porotermitinae</tp:taxon-name> Emerson, 1942</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Stolotermitinae</tp:taxon-name> Holmgren, 1910a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Kalotermitidae</tp:taxon-name> Froggatt, 1897</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Glyptotermitinae</tp:taxon-name></italic> Froggatt, 1897</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic>†<tp:taxon-name>Electrotermitinae</tp:taxon-name></italic> Emerson, 1942</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="2"></td>
+                            <td rowspan="1" colspan="4">Nanorder <tp:taxon-name>Neoisoptera</tp:taxon-name> Engel et al., 2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family †<tp:taxon-name>Archeorhinotermitidae</tp:taxon-name> Krishna &amp; Grimaldi, 2003</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Stylotermitidae</tp:taxon-name> Holmgren &amp; Holmgren, 1917</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Rhinotermitidae</tp:taxon-name> Froggatt, 1897</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Coptotermitinae</tp:taxon-name> Holmgren, 1910a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Arrhinotermitinae</tp:taxon-name></italic> Sjöstedt, 1926</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Heterotermitinae</tp:taxon-name> Froggatt, 1897</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Leucotermitinae</tp:taxon-name></italic> Holmgren, 1910a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Prorhinotermitinae</tp:taxon-name> Quennedey &amp; Deligne, 1975</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Psammotermitinae</tp:taxon-name> Holmgren, 1911</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Termitogetoninae</tp:taxon-name> Holmgren, 1910a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Rhinotermitinae</tp:taxon-name> Froggatt, 1897</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Serritermitidae</tp:taxon-name> Holmgren, 1910a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Glossotermitinae</tp:taxon-name></italic> Cancello and DeSouza, 2005</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="3"></td>
+                            <td rowspan="1" colspan="3">Family <tp:taxon-name>Termitidae</tp:taxon-name> Latreille, 1802</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Apicotermitinae</tp:taxon-name> Grassé &amp; Noirot, 1954 [1955]</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Indotermitidae</tp:taxon-name></italic> Roonwal &amp; Sen Sarma in Roonwal, 1958</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Foraminitermitinae</tp:taxon-name> Holmgren, 1912</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Pseudomicrotermitinae</tp:taxon-name></italic> Holmgren, 1912</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Sphaerotermitinae</tp:taxon-name> Engel &amp; Krishna, 2004a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Macrotermitinae</tp:taxon-name> Kemner, 1934, nomen protectum [<xref ref-type="bibr" rid="B49">ICZN 2003</xref>]</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Acanthotermitinae</tp:taxon-name></italic> Sjöstedt, 1926, nomen rejiciendum [<xref ref-type="bibr" rid="B49">ICZN 2003</xref>]</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Odontotermitini</tp:taxon-name></italic> Weidner, 1956</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Syntermitinae</tp:taxon-name> Engel &amp; Krishna, 2004a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Cornitermitinae</tp:taxon-name></italic> Ensaf et al., 2004, nomen nudum</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Nasutitermitinae</tp:taxon-name> Hare, 1937</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Cubitermitinae</tp:taxon-name> Weidner, 1956</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="4"></td>
+                            <td rowspan="1" colspan="2">Subfamily <tp:taxon-name>Termitinae</tp:taxon-name> Latreille, 1802</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Microcerotermitinae</tp:taxon-name></italic> Holmgren, 1910b</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Amitermitinae</tp:taxon-name></italic> Kemner, 1934</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Mirocapritermitinae</tp:taxon-name></italic> Kemner, 1934</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Mirotermitini</tp:taxon-name></italic> Weidner, 1956</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1">= <italic><tp:taxon-name>Capritermitini</tp:taxon-name></italic> Weidner, 1956</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="5"><italic>Incertae Sedis</italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="5"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Eutermitinae</tp:taxon-name> Holmgren, 1910b</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <sec sec-type="Catalog of Names above the Family Group">
+                <title>Catalog of Names above the Family Group</title>
+                <p>Here I provide a brief checklist of those names applied to termites above the family-group category. While I have included those supraordinal names which combined termites within an expanded taxon alongside one other group of insects (e.g., <tp:taxon-name>Aetioptera</tp:taxon-name> Enderlein, 1909), I have not listed those older names which united <tp:taxon-name>Isoptera</tp:taxon-name> with what are today recognized as numerous other orders (e.g., <tp:taxon-name>Platyptera</tp:taxon-name> Packard, 1883, for <tp:taxon-name>Isoptera</tp:taxon-name>, Embiodea, <tp:taxon-name>Plecoptera</tp:taxon-name>, and <tp:taxon-name>Psocoptera</tp:taxon-name>). In older literature it is often challenging to determine at what rank a particular name was intended or to what categorical level such a name might be equivalent to today. When it has appeared that a name was intended as a family or category loosely equivalent to today’s family group ranks, I have not included it here. For example, the ‘Termitida’ of <xref ref-type="bibr" rid="B35">Haeckel (1866)</xref> was as a family of his order <tp:taxon-name>Tocoptera</tp:taxon-name>, suborder <tp:taxon-name>Pseudoneuroptera</tp:taxon-name>, section Corrodentia, despite it having a termination reminiscent of that used in other litera<!--PageBreak-->ture as an ordinal, or other suprafamilial, suffix. Accordingly, I do not consider the Termitida of <xref ref-type="bibr" rid="B35">Haeckel (1866)</xref> to be the same as the <tp:taxon-name>Termitina</tp:taxon-name> or Termitida of <xref ref-type="bibr" rid="B54">Krausse (1906a</xref>, 1906b) and <xref ref-type="bibr" rid="B56">Krausse and Wolff (1919)</xref>, since the former was clearly a family-group name [and thereby a <italic>nomen translatum</italic>, whether intentional or not, of Latreille’s (1802) <tp:taxon-name>Termitina</tp:taxon-name>], while the latter two were explicitly employed as ordinal names. Lastly, despite the considerable biological significance of, and increasing reference in the literature to, the combined <tp:taxon-name>Isoptera</tp:taxon-name> + <tp:taxon-name>Cryptocercidae</tp:taxon-name> clade, a name has not formally been proposed for this lineage. Herein I offer the name Xylophagodea for this important biological grouping.</p>
+                <p>1.	<bold><tp:taxon-name>Isoptères</tp:taxon-name></bold> Brullé, 1832: 66 [Latinized by <xref ref-type="bibr" rid="B5">Brauer 1885</xref>].</p>
+                <p>2.	<bold><tp:taxon-name>Orthoptera socialia</tp:taxon-name></bold> Gerstaecker, 1863: 40. Originally deemed a ‘guild’ or ‘fraternity’ (“Zunft”, conceptually equivalent in his system to a suborder); equivalent to <tp:taxon-name>Isoptera</tp:taxon-name>.</p>
+                <p>3.	<bold><tp:taxon-name>Socialia</tp:taxon-name></bold> Börner, 1904: 526. Originally deemed a suborder; equivalent to <tp:taxon-name>Isoptera</tp:taxon-name> of today [Note: Börner’s ‘<tp:taxon-name>Isoptera</tp:taxon-name>’ included both Embiodea (as suborder Oligoneura Börner, 1904) and <tp:taxon-name>Isoptera</tp:taxon-name> (as Socialia <italic>auctorum</italic>)].</p>
+                <p>4.	<bold><tp:taxon-name>Termiten</tp:taxon-name></bold> Krausse, 1906a: 116. Originally deemed an order; equivalent to <tp:taxon-name>Isoptera</tp:taxon-name>.</p>
+                <p>5.	<bold><tp:taxon-name>Aetioptera</tp:taxon-name></bold> Enderlein, 1909: 171. Originally deemed a superorder; equivalent to <tp:taxon-name>Isoptera</tp:taxon-name> + Embiodea [as <tp:taxon-name>Embiidina</tp:taxon-name>].</p>
+                <p>6.	<bold><tp:taxon-name>Cryptoclidoptera</tp:taxon-name></bold> Enderlein, 1909: 171. Originally deemed a suborder; equivalent to all <tp:taxon-name>Isoptera</tp:taxon-name> excluding <tp:taxon-name>Mastotermitidae</tp:taxon-name>.</p>
+                <p>7.	<bold><tp:taxon-name>Hemiclidoptera</tp:taxon-name></bold> Enderlein, 1909: 172. Originally deemed a suborder; equivalent to <tp:taxon-name>Mastotermitidae</tp:taxon-name>.</p>
+                <p>8.	<bold><tp:taxon-name>Termitida</tp:taxon-name></bold> Krausse and Wolff, 1919: 159 [<italic>vide etiam</italic> <xref ref-type="bibr" rid="B73">Rohdendorf 1977</xref>]. Equivalent to <tp:taxon-name>Isoptera</tp:taxon-name>, a form simultaneously used and preferred by the authors.</p>
+                <p>9.	<bold><tp:taxon-name>Termitodea</tp:taxon-name></bold> Kevan, 1977: 12. Originally deemed a suborder; equivalent to <tp:taxon-name>Isoptera</tp:taxon-name> + <tp:taxon-name>Puknoblattinidea</tp:taxon-name> Kevan, 1977 [Note: The latter was simultaneously deemed an infraorder for “<tp:taxon-name>Puknoblattinidae</tp:taxon-name> Sellards, 1908”, although <xref ref-type="bibr" rid="B80">Sellards (1908)</xref> never established a family-group for his genus <italic><tp:taxon-name>Puknoblattina</tp:taxon-name></italic>. In considering this genus as the sister group to <tp:taxon-name>Isoptera</tp:taxon-name>, <xref ref-type="bibr" rid="B53">Kevan (1977)</xref> was apparently following the notion of <xref ref-type="bibr" rid="B88">Tillyard (1936)</xref>.].</p>
+                <p>10.	<bold><tp:taxon-name>Termitidea</tp:taxon-name></bold> Kevan, 1977: 12. Originally deemed an infraorder; equivalent to <tp:taxon-name>Isoptera</tp:taxon-name>.</p>
+                <p>11.	<bold><tp:taxon-name>Isopterodea</tp:taxon-name></bold> Boudreaux, 1979: 217. Originally deemed a superorder; equivalent to <tp:taxon-name>Isoptera</tp:taxon-name> as it was the only included order.</p>
+                <p>12.	<bold><tp:taxon-name>Afontanella</tp:taxon-name></bold> Myles, 1998: 334. Originally deemed a suborder; equivalent to <tp:taxon-name>Mastotermitidae</tp:taxon-name>, <tp:taxon-name>Termopsidae</tp:taxon-name> s.l., <tp:taxon-name>Hodotermitidae</tp:taxon-name>, and <tp:taxon-name>Kalotermitidae</tp:taxon-name> (obviously paraphyletic).</p>
+                <p>13.	<bold><tp:taxon-name>Fontanella</tp:taxon-name></bold> Myles, 1998: 334. Originally deemed a suborder; equivalent to <tp:taxon-name>Rhinotermitidae</tp:taxon-name>, <tp:taxon-name>Serritermitidae</tp:taxon-name>, and <tp:taxon-name>Termitidae</tp:taxon-name>.</p>
+                <p>14.	<bold><tp:taxon-name>Octatubula</tp:taxon-name></bold> Myles, 1998: 334. Originally deemed an infraorder; equivalent to <tp:taxon-name>Rhinotermitidae</tp:taxon-name> and <tp:taxon-name>Serritermitidae</tp:taxon-name>.<!--PageBreak--></p>
+                <p>15.	<bold><tp:taxon-name>Quadritubula</tp:taxon-name></bold> Myles, 1998: 334. Originally deemed an infraorder; equivalent to <tp:taxon-name>Termitidae</tp:taxon-name>.</p>
+                <p>16.	<bold><tp:taxon-name>Euisoptera</tp:taxon-name></bold> Engel, Grimaldi, and Krishna, 2009: 3. Originally rankless; equivalent to all <tp:taxon-name>Isoptera</tp:taxon-name> exclusive of <tp:taxon-name>Cratomastotermitidae</tp:taxon-name> and <tp:taxon-name>Mastotermitidae</tp:taxon-name>.</p>
+                <p>17.	<bold><tp:taxon-name>Neoisoptera</tp:taxon-name></bold> Engel, Grimaldi, and Krishna, 2009: 9. Originally rankless; equivalent to clade comprising <tp:taxon-name>Stylotermitidae</tp:taxon-name>, <tp:taxon-name>Rhinotermitidae</tp:taxon-name>, <tp:taxon-name>Serritermitidae</tp:taxon-name>, and <tp:taxon-name>Termitidae</tp:taxon-name>.</p>
+                <p>18.	<bold><tp:taxon-name>Xylophagodea</tp:taxon-name></bold>, herein. Originally rankless; equivalent to clade comprising <tp:taxon-name>Isoptera</tp:taxon-name> and <tp:taxon-name>Cryptocercidae</tp:taxon-name>.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>I am grateful for numerous years of fruitful and enjoyable collaboration with Prof. Kumar Krishna. Dr. David A. Grimaldi and an anonymous reviewer provided valuable input on the manuscript. This is a contribution of the Division of Entomology, University of Kansas Natural History Museum.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bechly</surname> <given-names>G</given-names></name></person-group> (<year>2007</year>)<source> Isoptera: Termites. In: Martill DM, Bechly G, Loveridge RF (Eds) The Crato Fossil Beds of Brazil: Window into an Ancient World. Cambridge University Press, Cambridge, 249–262 [total volume xvi+625 pp.]</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Börner</surname> <given-names>C</given-names></name></person-group> (<year>1904</year>)<article-title> Zur Systematik der Hexapoden.</article-title> <source>Zoologischer Anzeiger </source> <volume>27</volume>(<issue>16–17</issue>): <fpage>511</fpage>-<lpage>533</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bouchard</surname> <given-names>P</given-names></name><name name-style="western"><surname>Bousquet</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Davies</surname> <given-names>AE</given-names></name><name name-style="western"><surname>Alonso-Zarazaga</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Lawrence</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Lyal</surname> <given-names>CHC</given-names></name><name name-style="western"><surname>Newton</surname> <given-names>AF</given-names></name><name name-style="western"><surname>Reid</surname> <given-names>CAM</given-names></name><name name-style="western"><surname>Schmitt</surname> <given-names>M</given-names></name><name name-style="western"><surname>Ślipiński</surname> <given-names>A</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>ABT</given-names></name></person-group> (<year>2011</year>)<article-title> Family-group names in Coleoptera (Insecta).</article-title> <source>ZooKeys </source> <volume>88</volume>: <fpage>1</fpage>-<lpage>972</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.88.807" xlink:type="simple">10.3897/zookeys.88.807</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Boudreaux</surname> <given-names>HB</given-names></name></person-group> (<year>1979</year>)<source> Arthropod Phylogeny with Special Reference to Insects. Wiley and Sons; New York, NY; viii+320 pp.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brauer</surname> <given-names>F</given-names></name></person-group> (<year>1885</year>)<source> Systematisch-zoologische Studien. Sitzungberichte der Kaiserlichen Akademie der Wissenschaften, Matematisch-Naturwissenschaftliche Klasse, Abteilung 1, Mineralogie, Botanik, Zoologie, Anatomie, Geologie und Paläontologie 91(1): 237–413.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brullé</surname> <given-names>GA</given-names></name></person-group> (<year>1832</year>)<source> Expédition Scientifique de Morée. Section des Sciences Physiques. Tome III. Partie 1.</source> <publisher-name>Zoologie. Deuxième Section–Des Animaux Articulés. Levrault</publisher-name>, <publisher-loc>Paris</publisher-loc>, <lpage>400</lpage> pp.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cancello</surname> <given-names>EM</given-names></name><name name-style="western"><surname>DeSouza</surname> <given-names>O</given-names></name></person-group> (<year>2005</year>)<article-title> A new species of <italic>Glossotermes</italic> (Isoptera): Reappraisal of the generic status with transfer from the Rhinotermitidae to the Serritermitidae.</article-title> <source>Sociobiology </source> <volume>45</volume> (<issue>1</issue>): <fpage>31</fpage>-<lpage>51</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Constantino</surname> <given-names>R</given-names></name></person-group> (<year>2002</year>)<article-title> Notes on the type-species and synonymy of the genus <italic>Nasutitermes</italic> (Isoptera: Termitidae: Nasutitermitinae).</article-title> <source>Sociobiology </source> <volume>40</volume> (<issue>3</issue>): <fpage>533</fpage>-<lpage>537</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Desneux</surname> <given-names>J</given-names></name></person-group> (<year>1902</year>)<article-title> Termites du Sahara Algérien recueillis par M. le professeur Lameere.</article-title> <source>Annales de la Société Entomologique de Belgique </source> <volume>46</volume> (<issue>10</issue>): <fpage>436</fpage>-<lpage>440</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Desneux</surname> <given-names>J</given-names></name></person-group> (<year>1904a</year>)<source> A propos de la phylogénie des Termitides. Annales de la Société Entomologique de Belgique 48(8): 278–286. [Note: date of publication 2 September 1904].</source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Desneux</surname> <given-names>J</given-names></name></person-group> (<year>1904b</year>)<source> Rémarques critiques sur la phylogénie et la division systématique des Termitides (réponse à M. Wasmann). Annales de la Société Entomologique de Belgique 48(10): 372–378. [Note: date of publication 10 November 1904]</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Desneux</surname> <given-names>J</given-names></name></person-group> (<year>1904c</year>)<source> Isoptera, fam. Termitidae. In: P. Wytsman (editor), Genera Insectorum [Fascicle 25]. P. Wytsman, Bruxelles [Brussels], 1–52. [Note: date of publication 15 November 1904]</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Desneux</surname> <given-names>J</given-names></name></person-group> (<year>1904d</year>)<article-title> A new termite from India.</article-title> <source>Journal of the Bombay Natural History Society </source> <volume>15</volume>: <fpage>445</fpage>-<lpage>446</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dudley</surname> <given-names>PH</given-names></name></person-group> (<year>1890</year>)<source> The termites of the Isthmus of Panama – Part II. Transactions of the New York Academy of Sciences 9: 157–180. [Note: date of publication was June 1890, not 28 April 1890 as cited by Constantino (2002). The results of the 5 May 1890 meeting are published on same page as Dudley’s article and the date on the top of the facing page is the date of the previous Academy meeting, not of publication. The journal cover indicates an earliest possible publication date of June 1890.]</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Emerson</surname> <given-names>AE</given-names></name></person-group> (<year>1942</year>)<article-title> The relations of a relict South African termite (Isoptera: Hodotermitidae, <italic>Stolotermes</italic>).</article-title> <source>American Museum Novitates </source> <volume>1187</volume>: <fpage>1</fpage>-<lpage>12</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Emerson</surname> <given-names>AE</given-names></name></person-group> (<year>1950</year>)<article-title> Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae).</article-title> <source>American Museum Novitates </source> <volume>1444</volume>: <fpage>1</fpage>-<lpage>14</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Emerson</surname> <given-names>AE</given-names></name></person-group> (<year>1967 [1968]</year>)<article-title> Cretaceous insects from Labrador. 3. A new genus and species of termite (Isoptera: Hodotermitidae).</article-title> <source>Psyche </source> <volume>74</volume> (<issue>4</issue>): <fpage>276</fpage>-<lpage>289</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Enderlein</surname> <given-names>G</given-names></name></person-group> (<year>1909</year>)<article-title> Die Klassifikation der Embiidinen, nebst morphologischen und physiologischen Bemerkungen, besonders über das Spinnen derselben.</article-title> <source>Zoologischer Anzeiger </source> <volume>35</volume> (<issue>6</issue>): <fpage>166</fpage>-<lpage>191</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name></person-group> (<year>2005</year>)<article-title> Family-group names for bees (Hymenoptera: Apoidea).</article-title> <source>American Museum Novitates </source> <volume>3476</volume>: <fpage>1</fpage>-<lpage>33</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0082(2005)476[0001:FNFBHA]2.0.CO;2" xlink:type="simple">10.1206/0003-0082(2005)476[0001:FNFBHA]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Haas</surname> <given-names>F</given-names></name></person-group> (<year>2007</year>)<article-title> Family-group names for earwigs (Dermaptera).</article-title> <source>American Museum Novitates </source> <volume>3567</volume>: <fpage>1</fpage>-<lpage>20</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0082(2007)539[1:FNFED]2.0.CO;2" xlink:type="simple">10.1206/0003-0082(2007)539[1:FNFED]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2001a</year>)<article-title> <italic>Kalotermes</italic> Hagen, 1853 (Insecta, Isoptera): Proposed designation of <italic>Termes flavicollis</italic> Fabricius, 1793 as the type species.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>58</volume> (<issue>2</issue>): <fpage>100</fpage>-<lpage>104</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2001b</year>)<article-title> Macrotermitinae Kemner, 1934 (Insecta, Isoptera): Proposed precedence over Acanthotermitinae Sjöstedt, 1926.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>58</volume> (<issue>3</issue>): <fpage>206</fpage>-<lpage>209</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2004a</year>)<article-title> Family-group names for termites (Isoptera).</article-title> <source>American Museum Novitates </source> <volume>3432</volume>: <fpage>1</fpage>-<lpage>9</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0082(2004)432&lt;0001:FNFTI&gt;2.0.CO;2" xlink:type="simple">10.1206/0003-0082(2004)432&lt;0001:FNFTI&gt;2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2004b</year>)<source> An overlooked family-group name for termites (Isoptera). Entomological News 115(3): 168.</source></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2004c</year>)<article-title> Comment on the proposed conservation of prevailing usage of Termopsidae Holmgren, 1911, <italic>Termopsis</italic> Heer, 1849 and <italic>Miotermes</italic> Rosen, 1913 (Insecta, Isoptera).</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>61</volume> (<issue>3</issue>): <fpage>169</fpage>-<lpage>170</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2005a</year>)<article-title> <italic>Nasutitermes</italic> Dudley, 1890, <italic>Microcerotermes</italic> Silvestri, 1901 and Nasutitermitinae Hare, 1937 (Insecta, Isoptera): Proposed conservation.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>62</volume> (<issue>1</issue>): <fpage>8</fpage>-<lpage>13</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2005b</year>)<source> Comment on the proposed suppression of <italic>Eutermes</italic> Heer, 1849 to conserve the generic names <italic>Nasutitermes</italic> Dudley, 1890 and <italic>Microcerotermes</italic> Silvestri, 1901, and on the proposed designation of <italic>Eutermes costalis</italic> Holmgren, 1910 as type species of <italic>Nasutitermes</italic> Dudley, 1890 (Insecta, Isoptera). Bulletin of Zoological Nomenclature 62(4): 240.</source></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2007</year>)<article-title> Two overlooked family-group names for fossil termites (Isoptera: Mastotermitidae).</article-title> <source>Entomological News </source> <volume>118</volume> (<issue>1</issue>): <fpage>105</fpage>-<lpage>106</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3157/0013-872X(2007)118[105:TOFNFF]2.0.CO;2" xlink:type="simple">10.3157/0013-872X(2007)118[105:TOFNFF]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name><name name-style="western"><surname>Boyko</surname> <given-names>C</given-names></name></person-group> (<year>2003</year>)<article-title> Termopsidae Holmgren, 1911, <italic>Termopsis</italic> Heer, 1849 and <italic>Miotermes</italic> Rosen, 1913 (Insecta, Isoptera): proposed conservation of prevailing usage by the designation of <italic>Termopsis bremii</italic> Heer, 1849 as the type species of <italic>Termopsis</italic>.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>60</volume> (<issue>2</issue>): <fpage>119</fpage>-<lpage>123</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Grimaldi</surname> <given-names>DA</given-names></name><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name></person-group> (<year>2009</year>)<article-title> Termites (Isoptera): Their phylogeny, classification, and rise to ecological dominance.</article-title> <source>American Museum Novitates </source> <volume>3650</volume>: <fpage>1</fpage>-<lpage>27</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/651.1" xlink:type="simple">10.1206/651.1</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ensaf</surname> <given-names>A</given-names></name><name name-style="western"><surname>Garrouste</surname> <given-names>RE</given-names></name><name name-style="western"><surname>Betsch</surname> <given-names>J-M</given-names></name><name name-style="western"><surname>Nel</surname> <given-names>A</given-names></name></person-group> (<year>2004</year>)<article-title> <italic>Dolichorhinotermes longilabius</italic> (Emerson, 1925), new species for French Guiana, with a preliminary list of the termites in French Guiana.</article-title> <source>Mitteilungen der Schweizerischen Entomologischen Gesellschaft </source> <volume>77</volume>(<issue>3–4</issue>): <fpage>277</fpage>-<lpage>288</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Froggatt</surname> <given-names>WW</given-names></name></person-group> (<year>1897</year>)<article-title> Australian Termitidae, Part II.</article-title> <source>Proceedings of the Linnean Society of New South Wales </source> <volume>21</volume> (<issue>4</issue>): <fpage>510</fpage>-<lpage>552</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gerstaecker</surname> <given-names>CEA</given-names></name></person-group> (<year>1863</year>)<source> Arthropoda. In: Peters WCH, Carus JV, Gerstaecker CEA (Eds) Handbuch der Zoologie: Zweiter Band [Arthropoden (Gerstaecker), Raderthiere [sic], Würmer, Echinodermen, Coelenteraten und Protozoen (Carus)]. Engelmann, Leipzig, Germany, 1– viii+642+8 pp.</source></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grassé</surname> <given-names>P-P</given-names></name><name name-style="western"><surname>Noirot</surname> <given-names>C</given-names></name></person-group> (<year>1954 [1955]</year>)<source> <italic>Apicotermes arquieri</italic> (Isoptère): Ses constructions, sa biologie. Considérations générales sur la sous-famille des Apicotermitinae nov. Annales des Sciences Naturelles, Zoologie, Série 11 16(3–4): 345–388. [Note: date of publication February 1955]</source></mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haeckel</surname> <given-names>E</given-names></name></person-group> (<year>1866</year>)<source> Generelle Morphologie der Organismen. Allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von Charles Darwin reformirte Descendenz-Theorie. Zweiter Band: Allgemeine Entwickelungsgeschichte der Organismen. Reimer, Berlin, Germany, i–clx+1–462 pp.</source></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hagen</surname> <given-names>H</given-names></name></person-group> (<year>1853</year>)<article-title> Hr. Peters Berichtete über die von ihm gesammelten und von Hrn. Dr. Hermann Hagen bearbeiten Neuropteren aus Mossambique.</article-title> <source>Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königlichen Preussischen Akademie der Wissenschaften zu Berlin </source> <volume>18</volume>: <fpage>479</fpage>-<lpage>484</lpage>.</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hagen</surname> <given-names>H</given-names></name></person-group> (<year>1858</year>)<article-title> Monographie der Termiten.</article-title> <source>Linnaea Entomologica </source> <volume>12</volume>: <fpage>1</fpage>-<lpage>342</lpage>.</mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hare</surname> <given-names>L</given-names></name></person-group> (<year>1937</year>)<article-title> Termite phylogeny as evidenced by soldier mandible development.</article-title> <source>Annals of the Entomological Society of America </source> <volume>37</volume> (<issue>3</issue>): <fpage>459</fpage>-<lpage>486</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heer</surname> <given-names>O</given-names></name></person-group> (<year>1849</year>)<source> Die Insektenfauna der Tertiärgebilde von Oeningen und von Radoboj in Croatien. Zweiter Theil: Heuschrecken, Florfliegen, Aderflügler, Schmetterlinge und Fliegen. Engelmann, Leipzig, iv+264 pp.</source></mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>K</given-names></name><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1917</year>)<article-title> Report on a collection of termites from India.</article-title> <source>Memoirs of the Department of Agriculture in India </source> <volume>5</volume>: <fpage>137</fpage>-<lpage>171</lpage>.</mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1909</year>)<article-title> Termitenstudien: 1. Anatomische Untersuchungen.</article-title> <source>Kungliga Svenska Vetenskapsakademiens Handlingar </source> <volume>44</volume> (<issue>3</issue>): <fpage>1</fpage>-<lpage>215</lpage>.</mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1910a</year>)<source> Das System der Termiten. Zoologischer Anzeiger 35(9–10): 284–286. [Note: date of publication 4 January 1910]</source></mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1910b</year>)<source> Isoptera [The Percy Sladen Trust Expedition to the Indian Ocean in 1905 under the leadership of Mr. J. Stanley Gardiner]. Transactions of the Linnean Society of London, Series 2, Zoology 14(8): 135–148. [Note: date of publication November 1910]</source></mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1911</year>)<article-title> Termitenstudien: 2. Systematik der Termiten. Die Familien Protermitidae und Mesotermitidae.</article-title> <source>Kungliga Svenska Vetenskapsakademiens Handlingar </source> <volume>46</volume> (<issue>6</issue>): <fpage>1</fpage>-<lpage>86</lpage>.</mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1912</year>)<article-title> Termitenstudien: 3. Systematik der Termiten. Die Familie Metatermitidae.</article-title> <source>Kungliga Svenska Vetenskapsakademiens Handlingar </source> <volume>48</volume> (<issue>4</issue>): <fpage>1</fpage>-<lpage>166</lpage>.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname> <given-names>N</given-names></name></person-group> (<year>1914</year>)<article-title> Wissenschaftliche Ergebnisse einer Forschungsreise nach Ostindien, ausgeführt im Auftrage der Kgl. Preuss. Akademie der Wissenschaften zu Berlin von H. v. Buttel-Reepen. III. Termiten aus Sumatra, Java, Malacca und Ceylon. Gesammelt von Herrn Prof. Dr. v. Buttel-Reepen in den Jarhen 1911–1912.</article-title> <source>Zoologische Jahrbücher, Abteilung für Systematik, Geographie und Biologie der Tiere </source> <volume>36</volume>(<issue>2–3</issue>): <fpage>229</fpage>-<lpage>290</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname> <given-names>[ICZN]</given-names></name></person-group> (<year>1999</year>)<source> International Code of Zoological Nomenclature [Fourth Edition]. International Trust for Zoological Nomenclature, London, xix+306 pp.</source></mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname> <given-names>[ICZN]</given-names></name></person-group> (<year>2002</year>)<article-title> Opinion 2007: <italic>Kalotermes</italic> Hagen, 1853 (Insecta, Isoptera): <italic>Termes flavicollis</italic> Fabricius, 1793 designated as the type species.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>59</volume> (<issue>3</issue>): <fpage>209</fpage>-<lpage>210</lpage>.</mixed-citation></ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname> <given-names>[ICZN]</given-names></name></person-group> (<year>2003</year>)<article-title> Opinion 2038: Macrotermitinae Kemner, 1934 (Insecta, Isoptera): Given precedence over Acanthotermitinae Sjöstedt, 1926.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>60</volume> (<issue>2</issue>): <fpage>162</fpage>-<lpage>163</lpage>.</mixed-citation></ref>
+            <ref id="B50"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname> <given-names>[ICZN]</given-names></name></person-group> (<year>2005</year>)<article-title> Opinion 2124: Termopsidae Holmgren, 1911, <italic>Termopsis</italic> Heer, 1849 and <italic>Miotermes</italic> Rosen, 1913 (Insecta, Isoptera): Usage conserved by the designation of <italic>Termopsis bremii</italic> Heer, 1849 as the type species of <italic>Termopsis</italic> and the family-group name Termopsidae given precedence over Stolotermitinae Holmgren, 1910.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>62</volume> (<issue>3</issue>): <fpage>164</fpage>-<lpage>166</lpage>.</mixed-citation></ref>
+            <ref id="B51"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname> <given-names>[ICZN]</given-names></name></person-group> (<year>2007</year>)<article-title> Opinion 2168: <italic>Nasutitermes</italic> Dudley, 1890, <italic>Microcerotermes</italic> Silvestri, 1901 and Nasutitermitinae Hare, 1937 (Insecta, Isoptera): Application to conserve names not approved.</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>64</volume> (<issue>1</issue>): <fpage>73</fpage>-<lpage>74</lpage>.</mixed-citation></ref>
+            <ref id="B52"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kemner</surname> <given-names>NA</given-names></name></person-group> (<year>1934</year>)<article-title> Systematische und biologische Studien über die Termiten Javas und Celebes’.</article-title> <source>Kungliga Svenska Vetenskapsakademiens Handlingar </source> <volume>13</volume> (<issue>4</issue>): <fpage>1</fpage>-<lpage>241</lpage>.</mixed-citation></ref>
+            <ref id="B53"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kevan</surname> <given-names>DKM</given-names></name></person-group> (<year>1977</year>)<source> The higher classification of the orthopteroid insects [+ separately paginated appendix entitled: Suprafamilial classification of “orthopteroid” and related insects; a draft scheme for discussion and consideration]. Lyman Entomological Museum and Research Laboratory Memoir 4(Special Publication 12): 1–52+1–26 [appendix]</source></mixed-citation></ref>
+            <ref id="B54"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krausse</surname> <given-names>AH</given-names></name></person-group> (<year>1906a</year>)<article-title> Über die Systematik der Insekten.</article-title> <source>Insekten-Börse </source> <volume>23</volume> (<issue>29</issue>): <fpage>115</fpage>-<lpage>116</lpage>.</mixed-citation></ref>
+            <ref id="B55"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krausse</surname> <given-names>AH</given-names></name></person-group> (<year>1906b</year>)<source> Über die Systematik der Insekten. Insekten-Börse 23(30): 120.</source></mixed-citation></ref>
+            <ref id="B56"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krausse</surname> <given-names>AH</given-names></name><name name-style="western"><surname>Wolff</surname> <given-names>M</given-names></name></person-group> (<year>1919</year>)<article-title> Eine Übersicht über die bisher aufgestellten fossilen und rezenten Insektenordnungen.</article-title> <source>Archiv für Naturgeschichte, Abteilung A </source> <volume>85</volume> (<issue>3</issue>): <fpage>151</fpage>-<lpage>171</lpage>.</mixed-citation></ref>
+            <ref id="B57"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name><name name-style="western"><surname>Grimaldi</surname> <given-names>D</given-names></name></person-group> (<year>2000</year>)<source> A new subfamily, genus, and species of termite (Isoptera) from New Jersey Cretaceous amber. In: Grimaldi D (Ed) Studies on Fossils in Amber, with Particular Reference to the Cretaceous of New Jersey. Backhuys Publishers, Leiden, 133–140 [total volume viii+498 pp.]</source></mixed-citation></ref>
+            <ref id="B58"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krishna</surname> <given-names>K</given-names></name><name name-style="western"><surname>Grimaldi</surname> <given-names>DA</given-names></name></person-group> (<year>2003</year>)<article-title> The first Cretaceous Rhinotermitidae (Isoptera): A new species, genus, and subfamily in Burmese amber.</article-title> <source>American Museum Novitates </source> <volume>3390</volume>: <fpage>1</fpage>-<lpage>10</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0082(2003)390&lt;0001:TFCRIA&gt;2.0.CO;2" xlink:type="simple">10.1206/0003-0082(2003)390&lt;0001:TFCRIA&gt;2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B59"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Latreille</surname> <given-names>PA</given-names></name></person-group> (<year>1802</year>)<source> Histoire Naturelle, Générale et Particulière des Crustacés et des Insectes [Volume 3]. Dufart, Paris, xii+467 pp.</source></mixed-citation></ref>
+            <ref id="B60"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Latreille</surname> <given-names>PA</given-names></name></person-group> (<year>1805</year>)<source> Histoire Naturelle, Générale et Particulière des Crustacés et des Insectes [Volume 13].</source> <publisher-name>Dufart</publisher-name>, <publisher-loc>Paris</publisher-loc>, <lpage>432</lpage> pp.</mixed-citation></ref>
+            <ref id="B61"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Latreille</surname> <given-names>PA</given-names></name></person-group> (<year>1810</year>)<source> Considérations Générales sur l’ordre Naturel des Animaux composant les Classes des Crustacés, des Arachnides, et des Insectes; avec un tableau méthodique de leurs genres, disposés en familles.</source> <publisher-name>F. Schoell</publisher-name>, <publisher-loc>Paris</publisher-loc>, <lpage>444</lpage> pp.</mixed-citation></ref>
+            <ref id="B62"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Linnaeus</surname> <given-names>C</given-names></name></person-group> (<year>1758</year>)<source> Systema Naturae per Regna Tria Natura, Secundum Classes, Ordines, Genera, Species, cum Characteribus, Differentiis Synonymis, Locis [10th Edition, revised].</source> <publisher-name>Laurentii Salvii</publisher-name>, <publisher-loc>Holmiae [Stockholm]</publisher-loc>, <lpage>824</lpage> pp.</mixed-citation></ref>
+            <ref id="B63"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Martins-Neto</surname> <given-names>RG</given-names></name><name name-style="western"><surname>Ribeiro-Júnior</surname> <given-names>C</given-names></name><name name-style="western"><surname>Prezoto</surname> <given-names>F</given-names></name></person-group> (<year>2006</year>)<article-title> New fossils (Isoptera: Hodotermitidae), from the Santana Formation (Lower Cretaceous, Araripe Basin, northeast Brazil), with descriptions of new taxa including a new subfamily.</article-title> <source>Sociobiology </source> <volume>47</volume> (<issue>1</issue>): <fpage>125</fpage>-<lpage>134</lpage>.</mixed-citation></ref>
+            <ref id="B64"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Menke</surname> <given-names>AS</given-names></name></person-group> (<year>1997</year>)<article-title> Family-group names in Sphecidae (Hymenoptera: Apoidea).</article-title> <source>Journal of Hymenoptera Research </source> <volume>6</volume> (<issue>2</issue>): <fpage>243</fpage>-<lpage>255</lpage>.</mixed-citation></ref>
+            <ref id="B65"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Menke</surname> <given-names>AS</given-names></name><name name-style="western"><surname>Bouchard</surname> <given-names>P</given-names></name><name name-style="western"><surname>Buck</surname> <given-names>M</given-names></name></person-group> (<year>2008</year>)<source> Two overlooked family-group names in Sphecidae (Hymenoptera: Apoidea) and Tenebrionidae (Coleoptera: Tenebrionoidea). Proceedings of the Entomological Society of Washington 110(3): 816. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4289/0013-8797-110.3.816" xlink:type="simple">10.4289/0013-8797-110.3.816</ext-link></mixed-citation></ref>
+            <ref id="B66"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Michener</surname> <given-names>CD</given-names></name></person-group> (<year>1986</year>)<article-title> Family-group names among bees.</article-title> <source>Journal of the Kansas Entomological Society </source> <volume>59</volume> (<issue>2</issue>): <fpage>219</fpage>-<lpage>234</lpage>.</mixed-citation></ref>
+            <ref id="B67"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Miller</surname> <given-names>KB</given-names></name></person-group> (<year>2009</year>)<article-title> Genus- and family-group names in the order Embioptera (Insecta).</article-title> <source>Zootaxa </source> <volume>2055</volume>: <fpage>1</fpage>-<lpage>34</lpage>.</mixed-citation></ref>
+            <ref id="B68"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Myles</surname> <given-names>TG</given-names></name></person-group> (<year>1998</year>)<source> Phylogeny and taxonomy of the Isoptera. In: Schwarz MP, Hogendoorn K (Eds) Social Insects at the Turn of the Millennium. Flinders University Press, Adelaide, Australia, 334 [total volume [v]+535 pp.]</source></mixed-citation></ref>
+            <ref id="B69"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Packard</surname> <given-names>AS, Jr</given-names></name></person-group> (<year>1883</year>)<article-title> On the classification of the Linnæan orders of Orthoptera and Neuroptera.</article-title> <source>American Naturalist </source> <volume>17</volume> (<issue>8</issue>): <fpage>820</fpage>-<lpage>829</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B70"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pongrácz</surname> <given-names>A</given-names></name></person-group> (<year>1926</year>)<article-title> Über fossile Termiten Ungarns.</article-title> <source>Mitteilungen aus dem Jahrbuch der Königlichen Ungarischen Geologischen Anstalt </source> <volume>25</volume>: <fpage>23</fpage>-<lpage>30</lpage>.</mixed-citation></ref>
+            <ref id="B71"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pongrácz</surname> <given-names>S</given-names></name></person-group> (<year>1917</year>)<article-title> Új harmadidöszaki termeszfaj Radobojról.</article-title> <source>A Magyar Királyi Földtani Intézet Évkönyve </source> <volume>25</volume>: <fpage>23</fpage>-<lpage>36</lpage>.</mixed-citation></ref>
+            <ref id="B72"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Quennedey</surname> <given-names>A</given-names></name><name name-style="western"><surname>Deligne</surname> <given-names>J</given-names></name></person-group> (<year>1975</year>)<article-title> L’arme frontale des soldats de termites. I. Rhinotermitidae.</article-title> <source>Insectes Sociaux </source> <volume>22</volume> (<issue>3</issue>): <fpage>243</fpage>-<lpage>267</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02223076" xlink:type="simple">10.1007/BF02223076</ext-link></mixed-citation></ref>
+            <ref id="B73"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rohdendorf</surname> <given-names>BB</given-names></name></person-group> (<year>1977</year>)<article-title> The rationalization of names of higher taxa in zoology.</article-title> <source>Paleontologicheskiy Zhurnal </source> <volume>1977</volume> (<issue>2</issue>): <fpage>14</fpage>-<lpage>22</lpage>. [In Russian, with English translation in Paleontological Journal, 1977, 11(2): 149–155.]</mixed-citation></ref>
+            <ref id="B74"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roisin</surname> <given-names>Y</given-names></name></person-group> (<year>2005</year>)<article-title> Comment on the proposed conservation of <italic>Nasutitermes</italic> Dudley, 1980, <italic>Microcerotermes</italic> Silvestri, 1901 and Nasutitermitinae Hare, 1937 (Insecta, Isoptera).</article-title> <source>Bulletin of Zoological Nomenclature </source> <volume>62</volume> (<issue>3</issue>): <fpage>149</fpage>-<lpage>150</lpage>.</mixed-citation></ref>
+            <ref id="B75"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roonwal</surname> <given-names>ML</given-names></name></person-group> (<year>1958</year>)<article-title> Recent work on termite research in India (1947–57).</article-title> <source>Transactions of the Bose Research Institute </source> <volume>22</volume>: <fpage>77</fpage>-<lpage>100</lpage>.</mixed-citation></ref>
+            <ref id="B76"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roonwal</surname> <given-names>ML</given-names></name><name name-style="western"><surname>Sen-Sarma</surname> <given-names>PK</given-names></name></person-group> (<year>1960</year>)<source> Contributions to the systematics of Oriental termites. Indian Council of Agricultural Research Monograph 1: i–xiv+1–407.</source></mixed-citation></ref>
+            <ref id="B77"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rosen K</surname> <given-names>von</given-names></name></person-group> (<year>1913</year>)<source> Die fossilen Termiten: Eine kurze Zusammenfassung der bis jetzt bekannten Funde. Transactions of the Second International Congress of Entomology, Oxford (1912) 2: 318–335, +6 pls.</source></mixed-citation></ref>
+            <ref id="B78"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sabrosky</surname> <given-names>CW</given-names></name></person-group> (<year>1999</year>)<article-title> Family-group names in Diptera: An annotated catalog.</article-title> <source>Myia </source> <volume>10</volume>: <fpage>1</fpage>-<lpage>360</lpage>.</mixed-citation></ref>
+            <ref id="B79"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schlüter</surname> <given-names>T</given-names></name></person-group> (<year>1989</year>)<article-title> Neue Daten über harzkonservierte Arthropoden aus dem Cenomanium NW-Frankreichs.</article-title> <source>Documenta Naturae, München </source> <volume>56</volume> (<issue>5</issue>): <fpage>59</fpage>-<lpage>70</lpage>.</mixed-citation></ref>
+            <ref id="B80"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sellards</surname> <given-names>EH</given-names></name></person-group> (<year>1908</year>)<source> Cockroaches of the Kansas Coal Measures and of the Kansas Permian. University of Kansas Geological Survey Bulletin 9: 501–535, +14 pls.</source></mixed-citation></ref>
+            <ref id="B81"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Silvestri</surname> <given-names>F</given-names></name></person-group> (<year>1901</year>)<article-title> Nota preliminare sui Termitidi sud-americani.</article-title> <source>Bolletino dei Musei di Zoologia ed Anatomia comparata della Reale Università di Torino </source> <volume>16</volume>: <fpage>1</fpage>-<lpage>8</lpage>.</mixed-citation></ref>
+            <ref id="B82"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Silvestri</surname> <given-names>F</given-names></name></person-group> (<year>1909</year>)<source> Isoptera. In: Michaelsen W, Hartmeyer R (Eds) Die Fauna Südwest-Australiens. Ergebnisse der Hamburger südwest-australischen Forschungsreise 1905 [Volume 2, Part 17]. Gustav Fischer, Jena, 279–314 [total volume 314 pp.]</source></mixed-citation></ref>
+            <ref id="B83"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sjöstedt</surname> <given-names>Y</given-names></name></person-group> (<year>1900</year>)<source> Vorläufige Diagnosen einiger afrikanischen Termiten. Entomologisk Tidskrift 20(4): 278.</source></mixed-citation></ref>
+            <ref id="B84"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sjöstedt</surname> <given-names>Y</given-names></name></person-group> (<year>1926</year>)<article-title> Revision der Termiten Afrikas: 3. Monographie.</article-title> <source>Kungliga Svenska Vetenskapsakademiens Handlingar </source> <volume>3</volume> (<issue>3</issue>): <fpage>1</fpage>-<lpage>419</lpage>.</mixed-citation></ref>
+            <ref id="B85"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sobti</surname> <given-names>RC</given-names></name><name name-style="western"><surname>Kumari</surname> <given-names>M</given-names></name><name name-style="western"><surname>Sharma</surname> <given-names>VL</given-names></name><name name-style="western"><surname>Sodhi</surname> <given-names>M</given-names></name><name name-style="western"><surname>Mukesh</surname> <given-names>M</given-names></name><name name-style="western"><surname>Shouche</surname> <given-names>Y</given-names></name></person-group> (<year>2009</year>)<article-title> Sequence analysis of a few species of termites (order: Isoptera) on the basis of partial characterization of COII gene.</article-title> <source>Molecular and Cellular Biochemistry </source> <volume>331</volume>(<issue>1–2</issue>): <fpage>145</fpage>-<lpage>151</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s11010-009-0152-z" xlink:type="simple">10.1007/s11010-009-0152-z</ext-link></mixed-citation></ref>
+            <ref id="B86"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Speidel</surname> <given-names>W</given-names></name><name name-style="western"><surname>Naumann</surname> <given-names>CM</given-names></name></person-group> (<year>2004</year>)<article-title> A survey of family-group names in noctuoid moths (Insecta: Lepidoptera).</article-title> <source>Systematics and Biodiversity </source> <volume>2</volume> (<issue>2</issue>): <fpage>191</fpage>-<lpage>221</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S1477200004001409" xlink:type="simple">10.1017/S1477200004001409</ext-link></mixed-citation></ref>
+            <ref id="B87"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Szalanski</surname> <given-names>AL</given-names></name><name name-style="western"><surname>Austin</surname> <given-names>JW</given-names></name><name name-style="western"><surname>Owens</surname> <given-names>CB</given-names></name></person-group> (<year>2003</year>)<article-title> Identification of <italic>Reticulitermes</italic> spp. (Isoptera: Reticulitermatidae [sic]) from south central United States by PCR-RFLP.</article-title> <source>Journal of Economic Entomology </source> <volume>96</volume> (<issue>5</issue>): <fpage>1514</fpage>-<lpage>1519</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1603/0022-0493-96.5.1514" xlink:type="simple">10.1603/0022-0493-96.5.1514</ext-link></mixed-citation></ref>
+            <ref id="B88"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tillyard</surname> <given-names>RJ</given-names></name></person-group> (<year>1936</year>)<source> Are termites descended from true cockroaches? Nature 137(3468): 655. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/137655a0" xlink:type="simple">10.1038/137655a0</ext-link></mixed-citation></ref>
+            <ref id="B89"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wahl</surname> <given-names>DB</given-names></name><name name-style="western"><surname>Mason</surname> <given-names>WRM</given-names></name></person-group> (<year>1995</year>)<article-title> The family-group names of the Ichneumoninae (Hymenoptera: Ichneumonidae).</article-title> <source>Journal of Hymenoptera Research </source> <volume>4</volume>: <fpage>285</fpage>-<lpage>293</lpage>.</mixed-citation></ref>
+            <ref id="B90"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wasmann</surname> <given-names>E</given-names></name></person-group> (<year>1896</year>)<source> Viaggio di Leonardo Fea in Birmania e regioni vicine LXXII. Neue Termitophilen und Termiten aus Indien. I–III. Annali del Museo Civico di Storia Naturale di Genova, Serie 2 16: 613–630.</source></mixed-citation></ref>
+            <ref id="B91"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wasmann</surname> <given-names>E</given-names></name></person-group> (<year>1897</year>)<article-title> Termiten von Madagaskar und Ostafrika.</article-title> <source>Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft </source> <volume>21</volume> (<issue>1</issue>): <fpage>137</fpage>-<lpage>182</lpage>.</mixed-citation></ref>
+            <ref id="B92"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wasmann</surname> <given-names>E</given-names></name></person-group> (<year>1902</year>)<article-title> Termiten, Termitophilen und Myrmekophilen, gesammelt auf Ceylon von Dr. W. Horn 1899, mit anderm ostindischen Material bearbeitet.</article-title> <source>Zoologischer Jahrbücher, Abteilung für Systematik, Ökologie und Geographie der Tiere </source> <volume>17</volume>: <fpage>99</fpage>-<lpage>164</lpage>.</mixed-citation></ref>
+            <ref id="B93"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wasmann</surname> <given-names>E</given-names></name></person-group> (<year>1906</year>)<article-title> Beispiele rezenter Artenbildung bei Ameisengästen und Termitengästen.</article-title> <source>Biologisches Centralblatt </source> <volume>26</volume>(<issue>17–18</issue>): <fpage>565</fpage>-<lpage>580</lpage>.</mixed-citation></ref>
+            <ref id="B94"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weidner</surname> <given-names>H</given-names></name></person-group> (<year>1956</year>)<article-title> Beiträge zur Kenntnis der Termiten Angolas, hauptsächlich auf Grund der Sammlungen und Beobachtungen von A. de Barros Machado (I. Beitrag).</article-title> <source>Publicações Culturais da Companhia de Diamantes de Angola </source> <volume>29</volume>: <fpage>55</fpage>-<lpage>106</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

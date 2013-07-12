@@ -1,0 +1,954 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.130.1466</article-id>
+            <title-group>
+                <article-title>A molecular phylogeny of the Cephinae (Hymenoptera, Cephidae) based on mtDNA COI gene: a test of traditional classification</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Budak</surname>
+                        <given-names>Mahir</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Korkmaz</surname>
+                        <given-names>E. Mahir</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Basibuyuk</surname>
+                        <given-names>Hasan H.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biology, Faculty of Science, Cumhuriyet University, 58140-Sivas, Turkey
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Molecular Biology and Genetics, Faculty of Science, Cumhuriyet University, 58140-Sivas, Turkey
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Hasan H. Basibuyuk (<email xlink:type="simple">hbbuyuk@cumhuriyet.edu.tr</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Michael Sharkey</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>24</day>
+                <month>9</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>130</issue>
+            <fpage>363</fpage>
+            <lpage>378</lpage>
+            <history>
+                <date date-type="received">
+                    <day>2</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>26</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Mahir Budak, E. Mahir Korkmaz, Hasan H. Basibuyuk</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><tp:taxon-name>Cephinae</tp:taxon-name> is traditionally divided into three tribes and about 24 genera based on morphology and host utilization. There has been no study testing the monophyly of taxa under a strict phylogenetic criterion. A molecular phylogeny of <tp:taxon-name>Cephinae</tp:taxon-name> based on a total of 68 sequences of mtDNA COI gene, representing seven genera of <tp:taxon-name>Cephinae</tp:taxon-name>, is reconstructed to test the traditional limits and relationships of taxa. Monophyly of the traditional tribes is not supported. Monophyly of the genera are largely supported except for <italic><tp:taxon-name>Pachycephus</tp:taxon-name></italic>. A few host shift events are suggested based on phylogenetic relationships among taxa. These results indicate that a more robust phylogeny is required for a more plausible conclusion. We also report two species of <italic><tp:taxon-name>Cephus</tp:taxon-name></italic> for the first time from Turkey.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Hymenoptera</kwd>
+                <kwd>phylogeny</kwd>
+                <kwd>Cephidae</kwd>
+                <kwd>COI</kwd>
+                <kwd>host shift</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The <tp:taxon-name>Cephidae</tp:taxon-name> is a small family of <tp:taxon-name>Hymenoptera</tp:taxon-name> with a thin integument, usually black or dark colored and commonly with narrow yellow bands on the abdomen. It comprises approximately 160 species in three subfamilies and about 24 genera and is primarily Holarctic (<xref ref-type="bibr" rid="B4">Benson 1935</xref>, <xref ref-type="bibr" rid="B5">1946</xref>; <xref ref-type="bibr" rid="B49">Smith and Schmidt 2009</xref>; <xref ref-type="bibr" rid="B56">Taeger et al. 2010</xref>). Two of the subfamilies, <tp:taxon-name>Athetocephinae</tp:taxon-name> and <tp:taxon-name>Australcephinae</tp:taxon-name> are represented by only four species and are restricted to Madagascar and the Australian Region (<xref ref-type="bibr" rid="B4">Benson 1935</xref>, <xref ref-type="bibr" rid="B5">1946</xref>; <xref ref-type="bibr" rid="B50">Smith and Shinohara 2002a</xref>; <xref ref-type="bibr" rid="B49">Smith and Schmidt 2009</xref>). The majority of species are included in the Holarctic subfamily <tp:taxon-name>Cephinae</tp:taxon-name>. Although several faunal treatments (<xref ref-type="bibr" rid="B38">Ries 1937</xref>; <xref ref-type="bibr" rid="B29">Middlekauff 1969</xref>; <xref ref-type="bibr" rid="B65">Zhelochovtsev and Zinovjev 1988</xref>; <xref ref-type="bibr" rid="B10">Calmasur and Ozbek 2010</xref>; <xref ref-type="bibr" rid="B23">Korkmaz et al. 2010</xref>) and a single world review (<xref ref-type="bibr" rid="B32">Muche 1981</xref>) have been published, and a number of cephid species have been described in recent years (<xref ref-type="bibr" rid="B52">Smith and Solomon 1989</xref>; <xref ref-type="bibr" rid="B47">Smith 1997</xref>; <xref ref-type="bibr" rid="B50">Smith and Shinohara 2002a</xref>, <xref ref-type="bibr" rid="B51">b</xref>; <xref ref-type="bibr" rid="B48">Smith and Schiff 2005</xref>; <xref ref-type="bibr" rid="B61">Wei 2007</xref>; <xref ref-type="bibr" rid="B49">Smith and Schmidt 2009</xref>; <xref ref-type="bibr" rid="B62">Wei and Smith 2010</xref>), their phylogenetic relationships have not been investigated.</p>
+            <p><tp:taxon-name>Cephidae</tp:taxon-name> can be easily identified since they are morphologically intermediate between the hymenopteran suborders <tp:taxon-name>Symphyta</tp:taxon-name> and Aculeata. Because of several apocritan-like characters, such as a weak constriction between the first and second abdominal segments, the lack of cenchri and the rough area on fore wing, and the form of male genitalia, they were once considered as a likely sister group of Apocrita (<xref ref-type="bibr" rid="B24">Königsmann 1977</xref>). However, considerable evidence from both morphological and molecular data strongly support a sister group relationship between <tp:taxon-name>Orussidae</tp:taxon-name> and Apocrita, and the <tp:taxon-name>Cephoidea</tp:taxon-name>, containing the only family <tp:taxon-name>Cephidae</tp:taxon-name>, appears as to share a last common ancestor with a lineage leading to the <tp:taxon-name>Siricoidea</tp:taxon-name> (e.g., <xref ref-type="bibr" rid="B36">Rasnitsyn 1980</xref>, <xref ref-type="bibr" rid="B37">1988</xref>; <xref ref-type="bibr" rid="B3">Basibuyuk and Quicke 1995</xref>; <xref ref-type="bibr" rid="B59">Vilhelmsen 1997</xref>, <xref ref-type="bibr" rid="B60">2001</xref>; <xref ref-type="bibr" rid="B40">Ronquist et al. 1999</xref>; <xref ref-type="bibr" rid="B44">Schulmeister et al. 2002</xref>; <xref ref-type="bibr" rid="B45">Sharkey 2007</xref>).</p>
+            <p><xref ref-type="bibr" rid="B38">Ries (1937)</xref> suggested that <italic><tp:taxon-name>Janus</tp:taxon-name></italic> is the most primitive genus of <tp:taxon-name>Cephinae</tp:taxon-name> based on its filiform and many segmented antennae and tarsal claws. <xref ref-type="bibr" rid="B5">Benson (1946)</xref> divided the <tp:taxon-name>Cephinae</tp:taxon-name> into three tribes, <tp:taxon-name>Cephini</tp:taxon-name>, <tp:taxon-name>Hartigiini</tp:taxon-name> and <tp:taxon-name>Pachycephini</tp:taxon-name> based both on morphology and host utilization. The larvae of <tp:taxon-name>Cephini</tp:taxon-name> bore in the stems of <tp:taxon-name>Poaceae</tp:taxon-name>, those of <tp:taxon-name>Pachycephini</tp:taxon-name> live in the stems of <tp:taxon-name>Papaveraceae</tp:taxon-name> and <tp:taxon-name>Poaceae</tp:taxon-name>, and those of <tp:taxon-name>Hartigiini</tp:taxon-name> bore in the twigs of <tp:taxon-name>Rosaceae</tp:taxon-name> or other arborescent plant families (<xref ref-type="bibr" rid="B5">Benson 1946</xref>; <xref ref-type="bibr" rid="B29">Middlekauff 1969</xref>). Numerous morphological characters and color patterns that traditionally have been used for separation of the taxa within the family are claimed to be either variable or display phenotypic plasticity (<xref ref-type="bibr" rid="B38">Ries 1937</xref>; <xref ref-type="bibr" rid="B5">Benson 1946</xref>, <xref ref-type="bibr" rid="B7">1968</xref>; <xref ref-type="bibr" rid="B23">Korkmaz et al. 2010</xref>). Current classification is mainly based on morphology and host usage and therefore necessitates a close examination under the phylogenetic approaches.</p>
+            <p>Phylogenetic studies of taxa that exhibit adaptive phenotypic variation provide valuable insights into the evolutionary forces driving the origins of diversification (<xref ref-type="bibr" rid="B64">Zhang et al. 2008</xref>). Research on phytophagous insects has confirmed that adaptation and specialization to different plant species are central to generating diversific<!--PageBreak-->ation at all hierarchical levels (<xref ref-type="bibr" rid="B31">Mopper and Strauss 1998</xref>; <xref ref-type="bibr" rid="B8">Berlocher and Feder 2002</xref>; <xref ref-type="bibr" rid="B18">Funk et al. 2002</xref>; <xref ref-type="bibr" rid="B33">Nosil et al. 2002</xref>; <xref ref-type="bibr" rid="B16">Eubanks et al. 2003</xref>; <xref ref-type="bibr" rid="B27">Lozier et al. 2007</xref>). However, host specialization in the <tp:taxon-name>Cephinae</tp:taxon-name>, as observed in most phytophagous insect groups, might have led to evolutionary shift between higher taxonomic groups. Host shift probably has taken place many times at different periods, and therefore the classification based on host use may not reflect the true phylogenetic relationship within the <tp:taxon-name>Cephinae</tp:taxon-name>.</p>
+            <p>Here, we selected the mitochondrial cytochrome oxidase subunit I (COI) gene to reconstruct the phylogenetic relationships of the <tp:taxon-name>Cephinae</tp:taxon-name> and identify systematic position of its tribes and genera by applying phylogenetic inference methods. The selected COI gene region is informative for estimating relationships at both intra- and interspecies level due to possession of both completely conserved and variable regions and having a heterogeneous evolutionary rate across the gene (<xref ref-type="bibr" rid="B28">Lunt et al. 1996</xref>; <xref ref-type="bibr" rid="B14">Dowton and Austin 1997</xref>; <xref ref-type="bibr" rid="B11">Caterino et al. 2000</xref>; <xref ref-type="bibr" rid="B39">Roe and Sperling 2007</xref>; <xref ref-type="bibr" rid="B2">Bacci et al. 2009</xref>) This region is also utilized as DNA–based bio-identification system for animals at the global level (<xref ref-type="bibr" rid="B19">Hebert et al. 2003</xref>). <italic><tp:taxon-name>Cephus parvus</tp:taxon-name></italic> (Dovnar-Zapolskij, 1931) and <italic><tp:taxon-name>Cephus runcator</tp:taxon-name></italic> Konow, 1896, are recorded for the first time from Turkey.</p>
+        </sec>
+        <sec sec-type="material|methods"><title>Material and methods</title>
+            <p>Sixty-eight specimens representing three tribes and seven genera of the subfamily <tp:taxon-name>Cephinae</tp:taxon-name> were collected from localities presented in <xref ref-type="table" rid="T1">Table 1</xref>. All specimens are deposited in the Entomological Collection of Cumhuriyet University, Sivas (ECCUS). A specimen of <italic><tp:taxon-name>Arge</tp:taxon-name></italic> sp. (<tp:taxon-name>Argidae</tp:taxon-name>) was included as an outgroup in the phylogenetic analyses. Several keys were used to identify the specimens (<xref ref-type="bibr" rid="B5">Benson 1946</xref>, <xref ref-type="bibr" rid="B6">1951</xref>, <xref ref-type="bibr" rid="B7">1968</xref>; <xref ref-type="bibr" rid="B32">Muche 1981</xref>; <xref ref-type="bibr" rid="B65">Zhelochovtsev and Zinovjev 1988</xref>). The taxa names, the voucher specimens, and GenBank accession numbers are presented in <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p>List of taxa and voucher specimens used for sequencing.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Genus</th>
+                            <th rowspan="1" colspan="1">Species</th>
+                            <th rowspan="1" colspan="1">Voucher no.</th>
+                            <th rowspan="1" colspan="1">GenBank accession no.</th>
+                            <th rowspan="1" colspan="1">Location</th>
+                            <th rowspan="1" colspan="1">Col. date</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Arge</td>
+                            <td rowspan="1" colspan="1">Arge sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 201</td>
+                            <td rowspan="1" colspan="1"> JF901916</td>
+                            <td rowspan="1" colspan="1"> </td>
+                            <td rowspan="1" colspan="1"> </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Calameuta</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta filiformis</tp:taxon-name></italic> (Eversmann, 1847)</td>
+                            <td rowspan="1" colspan="1">ECCUS 210</td>
+                            <td rowspan="1" colspan="1"> JF901849</td>
+                            <td rowspan="1" colspan="1">İçel</td>
+                            <td rowspan="1" colspan="1">12.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta filiformis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 211</td>
+                            <td rowspan="1" colspan="1"> JF901850</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">04.06.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic> (Fabricius, 1781)</td>
+                            <td rowspan="1" colspan="1">ECCUS 212</td>
+                            <td rowspan="1" colspan="1"> JF901852</td>
+                            <td rowspan="1" colspan="1">Kütahya</td>
+                            <td rowspan="1" colspan="1">20.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 213</td>
+                            <td rowspan="1" colspan="1"> JF901853</td>
+                            <td rowspan="1" colspan="1">Isparta</td>
+                            <td rowspan="1" colspan="1">17.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 214</td>
+                            <td rowspan="1" colspan="1"> JF901855</td>
+                            <td rowspan="1" colspan="1">Kocaeli</td>
+                            <td rowspan="1" colspan="1">04.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 215</td>
+                            <td rowspan="1" colspan="1"> JF901856</td>
+                            <td rowspan="1" colspan="1">Kocaeli</td>
+                            <td rowspan="1" colspan="1">04.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 216</td>
+                            <td rowspan="1" colspan="1"> JF901857</td>
+                            <td rowspan="1" colspan="1">Bayburt</td>
+                            <td rowspan="1" colspan="1">05.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 217</td>
+                            <td rowspan="1" colspan="1"> JF901858</td>
+                            <td rowspan="1" colspan="1">Uşak</td>
+                            <td rowspan="1" colspan="1">19.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta haemorrhoidalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 218</td>
+                            <td rowspan="1" colspan="1"> JF901859</td>
+                            <td rowspan="1" colspan="1">Isparta</td>
+                            <td rowspan="1" colspan="1">17.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta idolon</tp:taxon-name></italic> (Rossi, 1794)</td>
+                            <td rowspan="1" colspan="1">ECCUS 219</td>
+                            <td rowspan="1" colspan="1"> JF901851</td>
+                            <td rowspan="1" colspan="1">Konya</td>
+                            <td rowspan="1" colspan="1">17.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta pallipes</tp:taxon-name></italic> (Klug, 1803)</td>
+                            <td rowspan="1" colspan="1">ECCUS 220</td>
+                            <td rowspan="1" colspan="1"> JF901854</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">13.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta pallipes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 221</td>
+                            <td rowspan="1" colspan="1"> JF901860</td>
+                            <td rowspan="1" colspan="1">Hakkari</td>
+                            <td rowspan="1" colspan="1">11.06.2003</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta pygmaea</tp:taxon-name></italic> (Poda, 1761)</td>
+                            <td rowspan="1" colspan="1">ECCUS 222</td>
+                            <td rowspan="1" colspan="1"> JF901848</td>
+                            <td rowspan="1" colspan="1">Hatay</td>
+                            <td rowspan="1" colspan="1">09.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calameuta</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 223</td>
+                            <td rowspan="1" colspan="1"> JF901861</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">17.06.2007</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus brachycercus</tp:taxon-name></italic> Thomson, 1871</td>
+                            <td rowspan="1" colspan="1">ECCUS 230</td>
+                            <td rowspan="1" colspan="1"> JF901871</td>
+                            <td rowspan="1" colspan="1">İstanbul</td>
+                            <td rowspan="1" colspan="1">08.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus brachycercus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 231</td>
+                            <td rowspan="1" colspan="1"> JF901872</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">10.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus fumipennis</tp:taxon-name></italic> Eversmann, 1847</td>
+                            <td rowspan="1" colspan="1">ECCUS 232</td>
+                            <td rowspan="1" colspan="1"> JF901873</td>
+                            <td rowspan="1" colspan="1">Ardahan</td>
+                            <td rowspan="1" colspan="1">07.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus nigrinus</tp:taxon-name></italic> Thomson, 1871</td>
+                            <td rowspan="1" colspan="1">ECCUS 233</td>
+                            <td rowspan="1" colspan="1"> JF901874</td>
+                            <td rowspan="1" colspan="1">İstanbul</td>
+                            <td rowspan="1" colspan="1">08.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus parvus</tp:taxon-name></italic> (Dovnar-Zapolskij, 1931)</td>
+                            <td rowspan="1" colspan="1">ECCUS 234</td>
+                            <td rowspan="1" colspan="1"> JF901875</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">17.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus parvus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 235</td>
+                            <td rowspan="1" colspan="1"> JF901876</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">26.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus pulcher</tp:taxon-name></italic> Tischbein, 1852</td>
+                            <td rowspan="1" colspan="1">ECCUS 236</td>
+                            <td rowspan="1" colspan="1"> JF901877</td>
+                            <td rowspan="1" colspan="1">Erzurum</td>
+                            <td rowspan="1" colspan="1">06.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus pygmeus</tp:taxon-name></italic> (Linné, 1767)</td>
+                            <td rowspan="1" colspan="1">ECCUS 237</td>
+                            <td rowspan="1" colspan="1"> JF901911</td>
+                            <td rowspan="1" colspan="1">Denizli</td>
+                            <td rowspan="1" colspan="1">18.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus pygmeus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 238</td>
+                            <td rowspan="1" colspan="1"> JF901912</td>
+                            <td rowspan="1" colspan="1">Hatay</td>
+                            <td rowspan="1" colspan="1">09.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus pygmeus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 239</td>
+                            <td rowspan="1" colspan="1"> JF901913</td>
+                            <td rowspan="1" colspan="1">Hatay</td>
+                            <td rowspan="1" colspan="1">09.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus pygmeus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 240</td>
+                            <td rowspan="1" colspan="1"> JF901914</td>
+                            <td rowspan="1" colspan="1">Bayburt</td>
+                            <td rowspan="1" colspan="1">07.06.2008</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus pygmeus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 241</td>
+                            <td rowspan="1" colspan="1"> JF901915</td>
+                            <td rowspan="1" colspan="1">Bayburt</td>
+                            <td rowspan="1" colspan="1">07.06.2008</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus rjabovi</tp:taxon-name></italic> Dovnar-Zapolskij, 1926</td>
+                            <td rowspan="1" colspan="1">ECCUS 242</td>
+                            <td rowspan="1" colspan="1"> JF901878</td>
+                            <td rowspan="1" colspan="1">Kırıkkale</td>
+                            <td rowspan="1" colspan="1">20.06.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus rjabovi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 243</td>
+                            <td rowspan="1" colspan="1"> JF901879</td>
+                            <td rowspan="1" colspan="1">Kırıkkale</td>
+                            <td rowspan="1" colspan="1">20.06.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus runcator</tp:taxon-name></italic> Konow, 1896</td>
+                            <td rowspan="1" colspan="1">ECCUS 244</td>
+                            <td rowspan="1" colspan="1"> JF901880</td>
+                            <td rowspan="1" colspan="1">Edirne</td>
+                            <td rowspan="1" colspan="1">07.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus runcator</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 245</td>
+                            <td rowspan="1" colspan="1"> JF901881</td>
+                            <td rowspan="1" colspan="1">Edirne</td>
+                            <td rowspan="1" colspan="1">07.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus sareptanus</tp:taxon-name></italic> Dovnar-Zapolskij, 1928</td>
+                            <td rowspan="1" colspan="1">ECCUS 246</td>
+                            <td rowspan="1" colspan="1"> JF901882</td>
+                            <td rowspan="1" colspan="1">Erzurum</td>
+                            <td rowspan="1" colspan="1">06.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus sareptanus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 247</td>
+                            <td rowspan="1" colspan="1"> JF901883</td>
+                            <td rowspan="1" colspan="1">Erzurum</td>
+                            <td rowspan="1" colspan="1">06.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 248</td>
+                            <td rowspan="1" colspan="1"> JF901884</td>
+                            <td rowspan="1" colspan="1">Bilecik</td>
+                            <td rowspan="1" colspan="1">05.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 249</td>
+                            <td rowspan="1" colspan="1"> JF901885</td>
+                            <td rowspan="1" colspan="1">Bilecik</td>
+                            <td rowspan="1" colspan="1">05.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 250</td>
+                            <td rowspan="1" colspan="1"> JF901886</td>
+                            <td rowspan="1" colspan="1">Çanakkale</td>
+                            <td rowspan="1" colspan="1">06.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 251</td>
+                            <td rowspan="1" colspan="1"> JF901887</td>
+                            <td rowspan="1" colspan="1">Amasya</td>
+                            <td rowspan="1" colspan="1">02.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 252</td>
+                            <td rowspan="1" colspan="1"> JF901888</td>
+                            <td rowspan="1" colspan="1">Amasya</td>
+                            <td rowspan="1" colspan="1">02.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 253</td>
+                            <td rowspan="1" colspan="1"> JF901889</td>
+                            <td rowspan="1" colspan="1">Tekirdağ</td>
+                            <td rowspan="1" colspan="1">08.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 254</td>
+                            <td rowspan="1" colspan="1"> JF901890</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">18.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 255</td>
+                            <td rowspan="1" colspan="1"> JF901891</td>
+                            <td rowspan="1" colspan="1">Erzurum</td>
+                            <td rowspan="1" colspan="1">06.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 256</td>
+                            <td rowspan="1" colspan="1"> JF901892</td>
+                            <td rowspan="1" colspan="1">Kars</td>
+                            <td rowspan="1" colspan="1">07.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 257</td>
+                            <td rowspan="1" colspan="1"> JF901893</td>
+                            <td rowspan="1" colspan="1">Kars</td>
+                            <td rowspan="1" colspan="1">07.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 258</td>
+                            <td rowspan="1" colspan="1"> JF901894</td>
+                            <td rowspan="1" colspan="1">Bolu</td>
+                            <td rowspan="1" colspan="1">04.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Trachelus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus iudaicus</tp:taxon-name></italic> (Konow, 1907)</td>
+                            <td rowspan="1" colspan="1">ECCUS 260</td>
+                            <td rowspan="1" colspan="1"> JF901865</td>
+                            <td rowspan="1" colspan="1">Bayburt</td>
+                            <td rowspan="1" colspan="1">05.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus iudaicus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 261</td>
+                            <td rowspan="1" colspan="1"> JF901866</td>
+                            <td rowspan="1" colspan="1">Bayburt</td>
+                            <td rowspan="1" colspan="1">05.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus libanensis</tp:taxon-name></italic> (André, 1881)</td>
+                            <td rowspan="1" colspan="1">ECCUS 262</td>
+                            <td rowspan="1" colspan="1"> JF901867</td>
+                            <td rowspan="1" colspan="1">İçel</td>
+                            <td rowspan="1" colspan="1">13.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus libanensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 263</td>
+                            <td rowspan="1" colspan="1"> JF901868</td>
+                            <td rowspan="1" colspan="1">İçel</td>
+                            <td rowspan="1" colspan="1">13.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 264</td>
+                            <td rowspan="1" colspan="1"> JF901862</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">12.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 265</td>
+                            <td rowspan="1" colspan="1"> JF901863</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">30.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus tabidus</tp:taxon-name></italic> (Fabricius, 1775)</td>
+                            <td rowspan="1" colspan="1">ECCUS 266</td>
+                            <td rowspan="1" colspan="1"> JF901869</td>
+                            <td rowspan="1" colspan="1">İçel</td>
+                            <td rowspan="1" colspan="1">12.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus tabidus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 267</td>
+                            <td rowspan="1" colspan="1"> JF901870</td>
+                            <td rowspan="1" colspan="1">Çanakkale</td>
+                            <td rowspan="1" colspan="1">06.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelus troglodyta</tp:taxon-name></italic> (Fabricius, 1787)</td>
+                            <td rowspan="1" colspan="1">ECCUS 268</td>
+                            <td rowspan="1" colspan="1"> JF901864</td>
+                            <td rowspan="1" colspan="1">Zonguldak</td>
+                            <td rowspan="1" colspan="1">03.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Hartigia</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia linearis</tp:taxon-name></italic> (Schrank, 1781)</td>
+                            <td rowspan="1" colspan="1">ECCUS 270</td>
+                            <td rowspan="1" colspan="1"> JF901896</td>
+                            <td rowspan="1" colspan="1">Ardahan</td>
+                            <td rowspan="1" colspan="1">07.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia linearis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 271</td>
+                            <td rowspan="1" colspan="1"> JF901897</td>
+                            <td rowspan="1" colspan="1">Kırşehir</td>
+                            <td rowspan="1" colspan="1">03.06.2003</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia linearis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 272</td>
+                            <td rowspan="1" colspan="1"> JF901898</td>
+                            <td rowspan="1" colspan="1">Kırşehir</td>
+                            <td rowspan="1" colspan="1">03.06.2003</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia nigra</tp:taxon-name></italic> (M. Harris, 1779)</td>
+                            <td rowspan="1" colspan="1">ECCUS 273</td>
+                            <td rowspan="1" colspan="1"> JF901899</td>
+                            <td rowspan="1" colspan="1">Konya</td>
+                            <td rowspan="1" colspan="1">17.05.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 274</td>
+                            <td rowspan="1" colspan="1"> JF901900</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">17.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 275</td>
+                            <td rowspan="1" colspan="1"> JF901901</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">13.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia xanthostoma</tp:taxon-name></italic> (Eversmann, 1847)</td>
+                            <td rowspan="1" colspan="1">ECCUS 276</td>
+                            <td rowspan="1" colspan="1"> JF901902</td>
+                            <td rowspan="1" colspan="1">Zonguldak</td>
+                            <td rowspan="1" colspan="1">03.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hartigia xanthostoma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 277</td>
+                            <td rowspan="1" colspan="1"> JF901903</td>
+                            <td rowspan="1" colspan="1">Zonguldak</td>
+                            <td rowspan="1" colspan="1">03.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Syrista</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Syrista parreyssii</tp:taxon-name></italic> (Spinola, 1843)</td>
+                            <td rowspan="1" colspan="1">ECUUS 280</td>
+                            <td rowspan="1" colspan="1"> JF901906</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">26.05.2007</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Syrista parreyssii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECUUS 281</td>
+                            <td rowspan="1" colspan="1"> JF901907</td>
+                            <td rowspan="1" colspan="1">Adana</td>
+                            <td rowspan="1" colspan="1">05.06.2003</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Characopygus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Characopygus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 290</td>
+                            <td rowspan="1" colspan="1"> JF901895</td>
+                            <td rowspan="1" colspan="1">İçel</td>
+                            <td rowspan="1" colspan="1">13.04.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="6"><italic><tp:taxon-name>Pachycephus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pachycephus cruentatus</tp:taxon-name></italic> (Eversmann, 1847)</td>
+                            <td rowspan="1" colspan="1">ECCUS 300</td>
+                            <td rowspan="1" colspan="1"> JF901904</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">06.06.2009</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pachycephus smyrnensis</tp:taxon-name></italic> J.P.E.F. Stein, 1876</td>
+                            <td rowspan="1" colspan="1">ECCUS 301</td>
+                            <td rowspan="1" colspan="1"> JF901908</td>
+                            <td rowspan="1" colspan="1">Edirne</td>
+                            <td rowspan="1" colspan="1">07.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pachycephus smyrnensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 302</td>
+                            <td rowspan="1" colspan="1"> JF901909</td>
+                            <td rowspan="1" colspan="1">Edirne</td>
+                            <td rowspan="1" colspan="1">07.05.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pachycephus smyrnensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">ECCUS 303</td>
+                            <td rowspan="1" colspan="1"> JF901910</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">11.06.2010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pachycephus</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">ECCUS 304</td>
+                            <td rowspan="1" colspan="1"> JF901905</td>
+                            <td rowspan="1" colspan="1">Sivas</td>
+                            <td rowspan="1" colspan="1">12.06.2010</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <sec sec-type="DNA extraction, amplification, and sequencing"><title>DNA extraction, amplification, and sequencing</title>
+                <p>Alcohol-preserved specimens were allowed to dry on filter paper, and DNA was extracted from left legs of the specimens using the High Pure PCR Template Preparation Kit (Roche Diagnostics, Mannheim, Germany) following the protocol for DNA isolation from mammalian tissue. Each DNA sample was dissolved in 200 µl elution buffer and stored at -20°C. The partial mitochondrial COI gene (750 bp) was amplified by using the conserved COI primers with the following sequence: COI–s1859, 5’ – GGAACIGGATGAACWGTTTAYCCICC – 3’ and COI–a2590 5’ – GCTCCTATTGATARWACATARTGRAAATG – 3’ (<xref ref-type="bibr" rid="B46">Simon et al. 1994</xref>). PCR reactions were conducted with 10 µl of extracted DNA in 50 µl reaction mixture. Amplification conditions were as follows: denaturation for 5 min at 94°C, followed by 37 cycles of denaturation at 94°C for 30 s, annealing at 59°C for 45 s, extension at 72°C for 30 s <!--PageBreak--><!--PageBreak--><!--PageBreak-->and a 5 min final extension at 72°C. The purification and sequencing of amplification products were performed using a commercial sequencing company (Macrogen Ltd., Seoul, Korea.). Sequencing reactions were carried out in both directions using the same primers as in PCR reactions. The forward and reverse nucleotide sequences were assembled and edited by eye using the CodonCode Aligner v 3.5.6 (CodonCode Corporation) and aligned by using CLUSTAL W version 1.83 (<xref ref-type="bibr" rid="B58">Thompson et al. 1994</xref>), using the default parameters of the program. Finally, all the sequences obtained are deposited in GenBank (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            </sec>
+            <sec sec-type="Data analysis"><title>Data analysis</title>
+                <p>Estimates of evolutionary divergence analyses were conducted in MEGA5 (<xref ref-type="bibr" rid="B57">Tamura et al. 2007</xref>) using the Kimura 2-parameter model (<xref ref-type="bibr" rid="B22">Kimura 1980</xref>) over sequence pairs between genera. The rate variation among sites was modeled with a gamma distribution (shape parameter = 0.87). The presence of substitution saturation was determined with DAMBE version 4.5.18 (<xref ref-type="bibr" rid="B63">Xia and Xie 2001</xref>). The genetic distance versus the number of transitions and transversions at first, second and third codon position in all taxa was plotted to examine the saturation at a partial COI gene sequences.</p>
+                <p>In order to investigate the phylogenetic relationship of <tp:taxon-name>Cephinae</tp:taxon-name>, phylogenetic trees were constructed using maximum parsimony (MP), maximum likelihood (ML) and Bayesian inference (BI) methods. <tp:taxon-name>Nucleotides</tp:taxon-name> were used as discrete and unordered characters. The best-fit model of DNA substitution and the parameter estimates used for tree constructions were chosen according to the Akaike Information Criterion (AIC) as implemented in Modeltest version 3.7 (<xref ref-type="bibr" rid="B34">Posada and Crandall 1998</xref>). The phylogenetic signal in the data partitions was estimated by maximum likelihood mapping method (<xref ref-type="bibr" rid="B54">Strimmer and von Haeseler 1997</xref>) using TREE-PUZZLE version 5.2 program (<xref ref-type="bibr" rid="B42">Schmidt et al. 2002</xref>). MP phylogenies were estimated, with characters unordered and equally weighted, under the heuristic search algorithms ‘simple’ and ‘TBR’ using PAUP version 4.0b10 (<xref ref-type="bibr" rid="B55">Swofford 2002</xref>). Bootstrap estimates were calculated from 100 replicates under the above search options. This whole procedure was also applied to the data after removal of the third codon position. ML analyses (<xref ref-type="bibr" rid="B17">Felsenstein 1981</xref>) were conducted using RAxML-VI-HPC v. 4.0.0 (<xref ref-type="bibr" rid="B53">Stamatakis 2006</xref>)f. The AIC results from Modeltest provided the GTR + I + G model as the best-ﬁt for substitution model. BI analysis was performed with the software BEAST v. 1.5.2 (<xref ref-type="bibr" rid="B15">Drummond and Rambaut 2007</xref>). The analysis was run with four chains for 5 × 10<sup>7</sup> generations, sampling from the chain every 5.000 generations. This generated an output of 10<sup>4</sup> trees. All analyses were performed assuming a Yule process of diversification. In order to confirm that the chains had achieved stationary, we evaluated ‘‘burn-in” plots by plotting log-likelihood scores and tree lengths against generation number using the software Tracer v. 1.5 (<xref ref-type="bibr" rid="B15">Drummond and Rambaut 2007</xref>). After determining convergence, we discarded all samples obtained during the first five <!--PageBreak-->millions generations as ‘‘burn-in”. The percentage of samples recovering any particular clade in a BI analysis represents that posterior probability of a clade (<xref ref-type="bibr" rid="B20">Huelsenbeck and Ronquist 2001</xref>). A majority rule consensus tree (Bayesian tree) was then calculated from the posterior distribution of trees, and the posterior probabilities calculated as the percentage of samples recovering any particular clade. The BI tree built with TREEANNOTATOR, discarding the initial 10% of samples as burn-in [Fig-TREE v. 1.3.1] (<xref ref-type="bibr" rid="B35">Rambaut 2008</xref>) was used to visualize the results. For the sake of a better presentation, branches representing individuals belonging to same species were collapsed if the species is recovered as monophyletic (<xref ref-type="fig" rid="F4">Fig. 4</xref>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <p>Evaluation of the material collected after publication of <xref ref-type="bibr" rid="B23">Korkmaz et al. (2010)</xref> and <xref ref-type="bibr" rid="B10">Calmasur and Ozbek (2010)</xref> revealed that there are two additional species of <italic><tp:taxon-name>Cephus</tp:taxon-name></italic> occur in Turkey. The examined material is presented below.</p>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cephus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">parvus</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>(Dovnar-Zapolskij, 1931)</tp:taxon-authority>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p>Turkey: Sivas [<named-content content-type="dwc:verbatimCoordinates">39°42.71'N, 37°01.30'E</named-content>] 1300 m, 26.05.2010, 1♀, 17.05.2010, 1♂.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>Palearctic region.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cephus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">runcator</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Konow, 1896</tp:taxon-authority>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p>Turkey: Edirne [<named-content content-type="dwc:verbatimCoordinates">40°39.32'N, 26°17.82'E</named-content>] 50 m, 07.05.2010, 6♀, 1♂.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>Turkey, S. E. Europe.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion">
+                    <p>The complete alignment of the partial mitochondrial COI gene sequences from 68 cephid specimens, including representatives of these two new records, resulted in a fragment containing 658 base pairs, among which 287 nucleotide positions were variable and 223 sites of which were parsimony-informative. The analyzed sequences correspond to a functional mitochondrial gene region because of the presence of singular peaks in each chromatograph and absence of in–del and premature stop codons, and presence of the highest nucleotide substitutions at the third codon position (<xref ref-type="bibr" rid="B1">Avise 1994</xref>). The percentages of nucleotide composition at each codon position are variable (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The mean frequency of COI sequences used in the analyses showed a bias of A + T (T 37.0%, C 15.2%, A 33.9% and G 16.0%), which is similar to other <!--PageBreak-->reported members of <tp:taxon-name>Hymenoptera</tp:taxon-name> (<xref ref-type="bibr" rid="B21">Jermiin and Crozier 1994</xref>, <xref ref-type="bibr" rid="B13">Dowton and Austin 1995</xref>, <xref ref-type="bibr" rid="B14">1997</xref>, <xref ref-type="bibr" rid="B26">Leys et al. 2000</xref>, <xref ref-type="bibr" rid="B12">Danforth et al. 2003</xref>). The A + T content at the third, second and first codon positions are 90.7%, 59.8%, and 61.9%, respectively. The nucleotide G has lowest (1.0%) and the A highest content (52.8%) at the third codon positions. The distribution of polymorphic sites for all cephid species shows that the majority of substitutions are at synonymous sites. The vast majority of synonymous substitutions are also found at third codon positions with a rate of 87.88% for the <tp:taxon-name>Cephinae</tp:taxon-name>. The first and the second positions are relatively more conserved in comparison with the third position.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p>Percentage of nucleotide composition at each codon position.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-363-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <p>The numbers of base substitutions per site from averaging over all sequence pairs between genera are shown in <xref ref-type="table" rid="T2">Table 2</xref>. The least diverged genera appears to be <italic><tp:taxon-name>Characopygus</tp:taxon-name></italic><!--PageBreak--><!--PageBreak--> and <italic><tp:taxon-name>Pachycephus</tp:taxon-name></italic> (p= 0.062) and, the most are <italic><tp:taxon-name>Hartigia</tp:taxon-name></italic> and <italic><tp:taxon-name>Syristra</tp:taxon-name></italic> (p= 0.161) also with highest standard error value of 0.017.</p>
+                    <table-wrap id="T2" position="float" orientation="portrait">
+                        <label>Table 2.</label>
+                        <caption><p>Estimates of evolutionary divergence over sequence pairs between genera. The number of base substitutions per site from averaging over all sequence pairs between groups are shown. Standard error estimates are shown above the diagonal.</p></caption>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1">Genera</th>
+                                    <th rowspan="1" colspan="1">1</th>
+                                    <th rowspan="1" colspan="1">2</th>
+                                    <th rowspan="1" colspan="1">3</th>
+                                    <th rowspan="1" colspan="1">4</th>
+                                    <th rowspan="1" colspan="1">5</th>
+                                    <th rowspan="1" colspan="1">6</th>
+                                    <th rowspan="1" colspan="1">7</th>
+                                    <th rowspan="1" colspan="1">8</th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">1. <italic><tp:taxon-name>Calameuta</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.010</td>
+                                    <td rowspan="1" colspan="1">0.011</td>
+                                    <td rowspan="1" colspan="1">0.010</td>
+                                    <td rowspan="1" colspan="1">0.013</td>
+                                    <td rowspan="1" colspan="1">0.012</td>
+                                    <td rowspan="1" colspan="1">0.015</td>
+                                    <td rowspan="1" colspan="1">0.025</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">2. <italic><tp:taxon-name>Trachelus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">0.110</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.010</td>
+                                    <td rowspan="1" colspan="1">0.009</td>
+                                    <td rowspan="1" colspan="1">0.013</td>
+                                    <td rowspan="1" colspan="1">0.012</td>
+                                    <td rowspan="1" colspan="1">0.014</td>
+                                    <td rowspan="1" colspan="1">0.025</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">3. <italic><tp:taxon-name>Cephus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">0.108</td>
+                                    <td rowspan="1" colspan="1">0.119</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.007</td>
+                                    <td rowspan="1" colspan="1">0.013</td>
+                                    <td rowspan="1" colspan="1">0.010</td>
+                                    <td rowspan="1" colspan="1">0.016</td>
+                                    <td rowspan="1" colspan="1">0.026</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">4. <italic><tp:taxon-name>Characopygus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">0.078</td>
+                                    <td rowspan="1" colspan="1">0.094</td>
+                                    <td rowspan="1" colspan="1">0.069</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.012</td>
+                                    <td rowspan="1" colspan="1">0.007</td>
+                                    <td rowspan="1" colspan="1">0.012</td>
+                                    <td rowspan="1" colspan="1">0.028</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">5. <italic><tp:taxon-name>Hartigia</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">0.136</td>
+                                    <td rowspan="1" colspan="1">0.146</td>
+                                    <td rowspan="1" colspan="1">0.143</td>
+                                    <td rowspan="1" colspan="1">0.114</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.013</td>
+                                    <td rowspan="1" colspan="1">0.017</td>
+                                    <td rowspan="1" colspan="1">0.029</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">6. <italic><tp:taxon-name>Pachycephus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">0.116</td>
+                                    <td rowspan="1" colspan="1">0.125</td>
+                                    <td rowspan="1" colspan="1">0.113</td>
+                                    <td rowspan="1" colspan="1">0.062</td>
+                                    <td rowspan="1" colspan="1">0.137</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.013</td>
+                                    <td rowspan="1" colspan="1">0.029</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">7. <italic><tp:taxon-name>Syrista</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">0.124</td>
+                                    <td rowspan="1" colspan="1">0.145</td>
+                                    <td rowspan="1" colspan="1">0.156</td>
+                                    <td rowspan="1" colspan="1">0.102</td>
+                                    <td rowspan="1" colspan="1">0.161</td>
+                                    <td rowspan="1" colspan="1">0.125</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">0.030</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">8. Outgrup</td>
+                                    <td rowspan="1" colspan="1">0.248</td>
+                                    <td rowspan="1" colspan="1">0.263</td>
+                                    <td rowspan="1" colspan="1">0.256</td>
+                                    <td rowspan="1" colspan="1">0.249</td>
+                                    <td rowspan="1" colspan="1">0.292</td>
+                                    <td rowspan="1" colspan="1">0.278</td>
+                                    <td rowspan="1" colspan="1">0.279</td>
+                                    <td rowspan="1" colspan="1"> </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <p>All three codon positions in the partial COI gene were analyzed for saturation, achieved by plotting the number of observed substitutions against the model TN93 genetic distance estimates. The scattergrams (<xref ref-type="fig" rid="F2">Fig. 2a–c</xref>) showed that transitions and transversions for the first, second and third codons of the partial COI gene increased with the genetic distance, but considerable scattering was also observed. In addition, a similar plot of the third codon transition of the COI gene (<xref ref-type="fig" rid="F2">Fig. 2d</xref>) suggested that saturation of transition occurred between certain pairs of the taxa, which may lead to higher levels of homoplasy (<xref ref-type="bibr" rid="B25">Kumar et al. 2001</xref>; <xref ref-type="bibr" rid="B64">Zhang et al. 2008</xref>).</p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>Saturation plots of transversion and transition rates against JC69 distance at <bold>a</bold> first codon position <bold>b</bold> second codon position <bold>c</bold> third codon position, and <bold>d</bold> sum of data.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-363-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <p>Result of likelihood mapping is presented in <xref ref-type="fig" rid="F3">Fig. 3</xref>. High dichotomic phylogenetic signal was detected in the dataset. The percentage of the quartets suggesting a star- or network- like phylogeny is 9.9%, indicating that data are reliable for a dichotomic phylogenetic analysis (<xref ref-type="bibr" rid="B43">Schmidt 2009</xref>). For ML analysis GTR+I+G models showed a significantly better fit than the other less complicated models for the COI dataset. Maximum likelihood analyses under the same model of evolution resulted in topologies with lnL = – 5570.6831 in RAxML, which were very close to the BI tree. Bayesian inference under the GTR+I+G model resulted in a topology with mean lnL = – 5347.963. Posterior probability values from the BI were congruent with ML bootstrap support. ML and BI analyses generated a tree with almost the same overall topology (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Equally weighted parsimony analysis of the 287 parsimony-informative characters produced 12 most parsimonious trees with a length of 1065 steps (Homoplasy Index = 0.608, Retention Index = 0.392 and Consistency Index = 0.392). These equally parsimonious solutions were due to differences in terminal branches. However, the branching pattern of bootstrap tree was comb-like and recovered almost no original branches. Considering that this may be due to many synonymous changes in the third codon position, we run an analysis excluding the third codon position from the data. The analysis produced 60 equally parsimonious trees with a length of 200 and the bootstrap application was also resulted with no support to branching pattern of original trees. This may be partly attributed to the nature of data and relatively a short sequence not sufficient to detect phylogenetic signal under parsimony interference. Therefore, we do not present any MP trees here.</p>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Likelihood mapping analysis of the sequence alignments of COI gene present in the <tp:taxon-name>Cephinae</tp:taxon-name>. The regions at the corners of the triangles correspond to the three possible tree topologies for a quartet; the lateral regions to partly resolved trees and the central region to unresolved trees. The numbers indicate the percentage of quartets falling in each region.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-363-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p>Bayesian interface tree based on the mitochondrial COI gene sequences of the <tp:taxon-name>Cephinae</tp:taxon-name>. Host plants are indicated in parentheses. Numbers at nodes indicate the posterior values.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-363-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p>Currently, the <tp:taxon-name>Cephinae</tp:taxon-name> is divided into three tribes based on morphology and feeding habits of larvae. The recovered mitochondrial gene trees substantially conflict with the current taxonomic arrangement, particularly the tribe level. Trees constructed under ML and BI methods supported monophyly of each genus except <italic><tp:taxon-name>Pachycephus</tp:taxon-name></italic> but failed to recover monophyly of any tribes. However, it should be noted that monophyly of most genera were supported by low posterior values (<xref ref-type="fig" rid="F4">Fig. 4</xref>). This is probably due to the strongly biased nucleotide composition and the saturation at the third codon posi<!--PageBreak--><!--PageBreak-->tion (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The BI tree suggests that the most basal clade of <tp:taxon-name>Cephinae</tp:taxon-name> is the genus <italic><tp:taxon-name>Cephus</tp:taxon-name></italic> making the <tp:taxon-name>Cephini</tp:taxon-name> paraphyletic with respect to rest of <tp:taxon-name>Cephini</tp:taxon-name> and other tribes. Occurrence of <italic><tp:taxon-name>Syrista</tp:taxon-name></italic> within <tp:taxon-name>Pachycephini</tp:taxon-name> rather than <tp:taxon-name>Hartigiini</tp:taxon-name> makes both tribes polyphyletic and paraphyletic respectively (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Otherwise, <tp:taxon-name>Pachycephini</tp:taxon-name> and <tp:taxon-name>Hartigiini</tp:taxon-name> appear as sister groups. However, we do not propose a new classification as the present phylogeny is generated from a single gene fragment.</p>
+            <p>Evolution of phytophagy has occurred many times in insects, and is often accompanied by a significant increase in rates of speciation (<xref ref-type="bibr" rid="B30">Mitter et al. 1988</xref>). Phytophagous insects are also notable for their high degree of host-plant specialization; probably over 75% of species feed only on members of one plant family (<xref ref-type="bibr" rid="B9">Bernays and Chapman 1994</xref>), and many insect species feed only on a single plant species (<xref ref-type="bibr" rid="B41">Scheffer and Wiegmann 2000</xref>). <italic><tp:taxon-name>Syrista</tp:taxon-name></italic> which is considered in the tribe <tp:taxon-name>Hartigiini</tp:taxon-name>, occurred within <tp:taxon-name>Pachycephini</tp:taxon-name> clade (see <xref ref-type="fig" rid="F4">Fig. 4</xref>) and this placement is questionable as larvae of <italic><tp:taxon-name>Syristra</tp:taxon-name></italic> feed on <italic><tp:taxon-name>Rosa</tp:taxon-name></italic>. However, if this placement is considered to be true than it suggests a host shift event from <tp:taxon-name>Papaveraceae</tp:taxon-name> to <tp:taxon-name>Rosaceae</tp:taxon-name>. Occurrence of <italic><tp:taxon-name>Cephus</tp:taxon-name></italic> at most basal clades also suggests two later shifts from <tp:taxon-name>Poaceae</tp:taxon-name> to <tp:taxon-name>Rosaceae</tp:taxon-name> and <tp:taxon-name>Papaveraceae</tp:taxon-name> (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Considering relationships among genera and species of <tp:taxon-name>Cephini</tp:taxon-name> inferred from the present phylogenetic hypothesis, several host shift events are also evident. However, we are reluctant for further discussion until a more robust phylogeny become available derived from analyses of several gene sequences of both nuclear and mitochondrial genomes.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank Mahir Yildirim and Burcu Temel for accompanying us on some of our field trips and collecting specimens. This research was funded by Cumhuriyet University via research grants provided to the project CÜBAP F-224. We are grateful to Dr. Donald L.J. Quicke (Imperial College, London) and the other anonymous reviewer for their valuable comments on the early version of the manuscript.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Avise</surname><given-names>JC</given-names></name></person-group> (<year>1994</year>)<source> Molecular markers, natural history and evolution.</source> <publisher-name>Chapman and Hall, New York</publisher-name>, <publisher-loc>NY</publisher-loc>, <lpage>511</lpage> pp.<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/978-1-4615-2381-9" xlink:type="simple">doi: 10.1007/978-1-4615-2381-9</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bacci</surname><given-names>M</given-names></name><name name-style="western"><surname>Solomon</surname><given-names>SE</given-names></name><name name-style="western"><surname>Mueller</surname><given-names>UG</given-names></name><name name-style="western"><surname>Martins</surname><given-names>VG</given-names></name><name name-style="western"><surname>Carvalho</surname><given-names>AOR</given-names></name><name name-style="western"><surname>Vieira</surname><given-names>LGE</given-names></name><name name-style="western"><surname>Silva-Pinhati</surname><given-names>ACO</given-names></name></person-group> (<year>2009</year>)<article-title> Phylogeny of leafcutter ants in the genus <italic>Atta</italic> Fabricius (Formicidae: Attini) based on mitochondrial and nuclear DNA sequences.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>51</volume>: <fpage>427</fpage>-<lpage>437</lpage>. doi:10.1016/j.ympev.2008.11.005</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Basibuyuk</surname><given-names>HH</given-names></name><name name-style="western"><surname>Quicke</surname><given-names>DLJ</given-names></name></person-group> (<year>1995</year>)<article-title> Morphology of the antenna cleaner in the Hymenoptera with particular reference to non-aculeate families (Insecta).</article-title> <source>Zoologica Scripta </source> <volume>24</volume>: <fpage>157</fpage>-<lpage>177</lpage>. doi:10.1111/j.1463-6409.1995.tb00397.x</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Benson</surname><given-names>RB</given-names></name></person-group> (<year>1935</year>)<article-title> On the genera of the Cephidae, and the erection of a new family Syntexidae (Hymenoptera, Symphyta).</article-title> <source>The Annals and Magazine of Natural History, including Zoology, Botany, and Geology </source> <volume>16</volume> (<issue>10</issue>): <fpage>535</fpage>-<lpage>553</lpage>. doi:10.1111/j.1365-2311.1946.tb00445.x</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Benson</surname><given-names>RB</given-names></name></person-group> (<year>1946</year>)<article-title> Classification of the Cephidae (Hymenoptera Symphyta).</article-title> <source>Transactions of the Royal Entomological Society of London </source> <volume>96</volume>: <fpage>89</fpage>-<lpage>108</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2311.1946.tb00445.x" xlink:type="simple">doi: 10.1111/j.1365-2311.1946.tb00445.x</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Benson</surname><given-names>RB</given-names></name></person-group> (<year>1951</year>)<source> Hymenoptera, Symphyta. Handbooks for the Identification of British Insects 6(2a), 49 pp.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Benson</surname><given-names>RB</given-names></name></person-group> (<year>1968</year>)<article-title> Hymenoptera from Turkey, Symphyta.</article-title> <source>Bulletin of the British Museum (Natural History) Entomology </source> <volume>22</volume>: <fpage>111</fpage>-<lpage>207</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berlocher</surname><given-names>SH</given-names></name><name name-style="western"><surname>Feder</surname><given-names>JL</given-names></name></person-group> (<year>2002</year>)<source> Sympatric speciation in phytophagous insects: moving beyond controversy? Annual Review of Entomology 47: 773–815. </source>doi:10.1146/annurev.ento.47.091201.145312</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bernays</surname><given-names>EA</given-names></name><name name-style="western"><surname>Chapman</surname><given-names>RF</given-names></name></person-group> (<year>1994</year>)<source> Host-plant selection by phytophagous insects.</source> <publisher-name>Chapman &amp; Hall</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>312</lpage> pp.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Calmasur</surname><given-names>O</given-names></name><name name-style="western"><surname>Ozbek</surname><given-names>H</given-names></name></person-group> (<year>2010</year>)<article-title> Distribution data on the Cephidae (Hymenoptera: Symphyta) fauna of Turkey.</article-title> <source>Zoology in the Middle East </source> <volume>50</volume>: <fpage>144</fpage>-<lpage>146</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Caterino</surname><given-names>MS</given-names></name><name name-style="western"><surname>Cho</surname><given-names>S</given-names></name><name name-style="western"><surname>Sperling</surname><given-names>FAH</given-names></name></person-group> (<year>2000</year>)<article-title> The current state of insect molecular systematics: A thriving Tower of Babel.</article-title> <source>Annual Review of Entomology </source> <volume>45</volume>: <fpage>1</fpage>-<lpage>54</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1146/annurev.ento.45.1.1" xlink:type="simple">doi: 10.1146/annurev.ento.45.1.1</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Danforth</surname><given-names>BN</given-names></name><name name-style="western"><surname>Conway</surname><given-names>L</given-names></name><name name-style="western"><surname>Ji</surname><given-names>S</given-names></name></person-group> (<year>2003</year>)<article-title> Phylogeny of eusocial <italic>Lasioglossum</italic> reveals multiple losses of eusociality within a primitively eusocial clade of bees (Hymenoptera: Halictidae).</article-title> <source>Systematic Biology </source> <volume>52</volume>: <fpage>23</fpage>-<lpage>36</lpage>. doi:10.1080/10635150390132687</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dowton</surname><given-names>M</given-names></name><name name-style="western"><surname>Austin</surname><given-names>AD</given-names></name></person-group> (<year>1995</year>)<article-title> Increased genetic diversity in mitochondrial genes is correlated with the evolution of parasitism in the Hymenoptera.</article-title> <source>Journal of Molecular Evolution </source> <volume>41</volume>: <fpage>958</fpage>-<lpage>965</lpage>. doi:10.1007/BF00173176</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dowton</surname><given-names>M</given-names></name><name name-style="western"><surname>Austin</surname><given-names>AD</given-names></name></person-group> (<year>1997</year>)<article-title> Evidence for AT-transversion bias in wasp (Hymenoptera: Symphyta) mitochondrial genes and its implications for the origin of parasitism.</article-title> <source>Journal of Molecular Evolution </source> <volume>44</volume>: <fpage>398</fpage>-<lpage>405</lpage>. doi:10.1007/PL00006159</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drummond</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name></person-group> (<year>2007</year>)<source> BEAST: Bayesian evolutionary analysis by sampling trees. Bmc Evolutionary Biology 7: 214. </source>doi:10.1186/1471-2148-7-214</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eubanks</surname><given-names>MD</given-names></name><name name-style="western"><surname>Blair</surname><given-names>CP</given-names></name><name name-style="western"><surname>Abrahamson</surname><given-names>WG</given-names></name></person-group> (<year>2003</year>)<article-title> One host shift leads to another? Evidence of host-race formation in a predaceous gall-boring beetle.</article-title> <source>Evolution </source> <volume>57</volume>: <fpage>168</fpage>-<lpage>172</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Felsenstein</surname><given-names>J</given-names></name></person-group> (<year>1981</year>)<article-title> Evolutionary trees from DNA sequences: a maximum likelihood approach.</article-title> <source>Journal of Molecular Evolution </source> <volume>17</volume>: <fpage>368</fpage>-<lpage>376</lpage>. doi:10.1007/BF01734359</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Funk</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Filchak</surname><given-names>KE</given-names></name><name name-style="western"><surname>Feder</surname><given-names>JL</given-names></name></person-group> (<year>2002</year>)<article-title> Herbivorous insects: model systems for the comparative study of speciation ecology.</article-title> <source>Genetica </source> <volume>116</volume>: <fpage>251</fpage>-<lpage>267</lpage>. doi:10.1023/A:1021236510453</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hebert</surname><given-names>PD</given-names></name><name name-style="western"><surname>Ratnasingham</surname><given-names>S</given-names></name><name name-style="western"><surname>de Waard</surname><given-names>JR</given-names></name></person-group> (<year>2003</year>)<source> Barcoding animal life: cytochrome c oxidase subunit 1 divergences among closely related species. Proceedings of the Royal Society B 270(Suppl 1): S96-S99. </source>doi:10.1098/rsbl.2003.0025</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name></person-group> (<year>2001</year>)<article-title> MRBAYES: Bayesian inference of phylogenetic trees.</article-title> <source>Bioinformatics </source> <volume>17</volume>: <fpage>754</fpage>-<lpage>755</lpage>. doi:10.1093/bioinformatics/17.8.754</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jermiin</surname><given-names>LS</given-names></name><name name-style="western"><surname>Crozier</surname><given-names>RH</given-names></name></person-group> (<year>1994</year>)<article-title> The cytochrome b region in the mitochondrial DNA of the ant <italic>Tetraponera rufoniger</italic>: sequence divergence in Hymenoptera may be associated with nucleotide content.</article-title> <source>Journal of Molecular Evolution </source> <volume>38</volume>: <fpage>282</fpage>-<lpage>294</lpage>. doi:10.1007/BF00176090</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kimura</surname><given-names>M</given-names></name></person-group> (<year>1980</year>)<article-title> A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences.</article-title> <source>Journal of Molecular Evolution </source> <volume>16</volume>: <fpage>111</fpage>-<lpage>120</lpage>. doi:10.1007/BF01731581</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Korkmaz</surname><given-names>EM</given-names></name><name name-style="western"><surname>Budak</surname><given-names>M</given-names></name><name name-style="western"><surname>Orgen</surname><given-names>SH</given-names></name><name name-style="western"><surname>Bagda</surname><given-names>E</given-names></name><name name-style="western"><surname>Gencer</surname><given-names>L</given-names></name><name name-style="western"><surname>Ulgenturk</surname><given-names>S</given-names></name><name name-style="western"><surname>Basibuyuk</surname><given-names>HH</given-names></name></person-group> (<year>2010</year>)<article-title> New records and a checklist of Cephidae (Hymenoptera: Insecta) of Turkey with a short biogeographical consideration.</article-title> <source>Turkish Journal of Zoology </source> <volume>34</volume>: <fpage>203</fpage>-<lpage>211</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Königsmann</surname><given-names>E</given-names></name></person-group> (<year>1977</year>)<article-title> Das phylogenetische System der Hymenoptera Teil. 2: Symphyta.</article-title> <source>Deutsche Entomologische Zeitschrift </source> <volume>24</volume>: <fpage>1</fpage>-<lpage>40</lpage>. doi:10.1002/mmnd.19770240102</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kumar</surname><given-names>S</given-names></name><name name-style="western"><surname>Tamura</surname><given-names>K</given-names></name><name name-style="western"><surname>Jakobsen</surname><given-names>IB</given-names></name><name name-style="western"><surname>Nei</surname><given-names>M</given-names></name></person-group> (<year>2001</year>)<article-title> MEGA2: molecular evolutionary genetics analysis software.</article-title> <source>Bioinformatics </source> <volume>17</volume>: <fpage>1244</fpage>-<lpage>1245</lpage>. doi:10.1093/bioinformatics/17.12.1244</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Leys</surname><given-names>R</given-names></name><name name-style="western"><surname>Cooper</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Schwarz</surname><given-names>MP</given-names></name></person-group> (<year>2000</year>)<source> Molecular phylogeny of the large carpenter bees, genus <italic>Xylocopa</italic> (Hymenoptera: apidae), based on mitochondrial DNA sequences. Molecular Phylogenetics and Evolution 17: 407–418. doi:10.1006/mpev.2000.0851 </source>doi:10.1006/mpev.2000.0851</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lozier</surname><given-names>JD</given-names></name><name name-style="western"><surname>Roderick</surname><given-names>GK</given-names></name><name name-style="western"><surname>Mills</surname><given-names>NJ</given-names></name></person-group> (<year>2007</year>)<article-title> Genetic evidence from mitochondrial, nuclear, and endosymbiont markers for the evolution of host plant associated species in the aphid genus <italic>Hyalopterus</italic> (Hemiptera: Aphididae).</article-title> <source>Evolution </source> <volume>61</volume>: <fpage>1353</fpage>-<lpage>1367</lpage>. doi:10.1111/j.1558-5646.2007.00110.x</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lunt</surname><given-names>DH</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>DX</given-names></name><name name-style="western"><surname>Szymura</surname><given-names>JM</given-names></name><name name-style="western"><surname>Hewitt</surname><given-names>GM</given-names></name></person-group> (<year>1996</year>)<article-title> The insect cytochrome oxidase I gene: Evolutionary patterns and conserved primers for phylogenetic studies.</article-title> <source>Insect Molecular Biology </source> <volume>5</volume>: <fpage>153</fpage>-<lpage>165</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2583.1996.tb00049.x" xlink:type="simple">doi: 10.1111/j.1365-2583.1996.tb00049.x</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Middlekauff</surname><given-names>WW</given-names></name></person-group> (<year>1969</year>)<article-title> The Cephid stem borers of California (Hymenoptera: Cephidae).</article-title> <source>Bulletin of the California Insect Survey </source> <volume>11</volume>: <fpage>1</fpage>-<lpage>19</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mitter</surname><given-names>C</given-names></name><name name-style="western"><surname>Farrell</surname><given-names>B</given-names></name><name name-style="western"><surname>Wiegmann</surname><given-names>B</given-names></name></person-group> (<year>1988</year>)<article-title> The phylogenetic study of adaptive zones - has phytophagy promoted insect diversification.</article-title> <source>American Naturalist </source> <volume>132</volume>: <fpage>107</fpage>-<lpage>128</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1086/284840" xlink:type="simple">doi: 10.1086/284840</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mopper</surname><given-names>S</given-names></name><name name-style="western"><surname>Strauss</surname><given-names>SY</given-names></name></person-group> (<year>1998</year>)<source> Genetic structure and local adaptation in natural insect populations: effects of ecology, life history, and behavior.</source> <publisher-name>Chapman &amp; Hall, New York, London</publisher-name>, <publisher-loc>xix</publisher-loc>, <lpage>449</lpage> pp.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Muche</surname><given-names>H</given-names></name></person-group> (<year>1981</year>)<article-title> Die Cephidae der Erde (Hymenoptera: Cephidae).</article-title> <source>Deutsche Entomologische Zeitschrift </source> <volume>28</volume>: <fpage>239</fpage>-<lpage>295</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/mmnd.19810280405" xlink:type="simple">doi: 10.1002/mmnd.19810280405</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nosil</surname><given-names>P</given-names></name><name name-style="western"><surname>Crespi</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Sandoval</surname><given-names>CP</given-names></name></person-group> (<year>2002</year>)<article-title> Host-plant adaptation drives the parallel evolution of reproductive isolation.</article-title> <source>Nature </source> <volume>417</volume>: <fpage>440</fpage>-<lpage>443</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/417440a" xlink:type="simple">doi: 10.1038/417440a</ext-link></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname><given-names>D</given-names></name><name name-style="western"><surname>Crandall</surname><given-names>KA</given-names></name></person-group> (<year>1998</year>)<article-title> MODELTEST: testing the model of DNA substitution.</article-title> <source>Bioinformatics </source> <volume>14</volume>: <fpage>817</fpage>-<lpage>818</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/14.9.817" xlink:type="simple">doi: 10.1093/bioinformatics/14.9.817</ext-link></mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name></person-group> (<year>2008</year>)<source> FigTree v1.2. Available from: http://tree.bio.ed.ac.uk/software/ FigTree/</source></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rasnitsyn</surname><given-names>AP</given-names></name></person-group> (<year>1980</year>)<article-title> Origin and evolution of Hymenoptera.</article-title> <source>Transactions of the Paleontological Institute of the Academy of Sciences of the USSR </source> <volume>174</volume>: <fpage>1</fpage>-<lpage>192</lpage>.</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rasnitsyn</surname><given-names>AP</given-names></name></person-group> (<year>1988</year>)<article-title> An outline of evolution of hymenopterous insects (order Vespida).</article-title> <source>Oriental Insects </source> <volume>22</volume>: <fpage>115</fpage>-<lpage>145</lpage>.<!--PageBreak--></mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ries</surname><given-names>DT</given-names></name></person-group> (<year>1937</year>)<article-title> Revision of the Nearctic Cephidae.</article-title> <source>Transactions of the American Entomological Society </source> <volume>63</volume>: <fpage>259</fpage>-<lpage>324</lpage>.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roe</surname><given-names>AD</given-names></name><name name-style="western"><surname>Sperling</surname><given-names>FAH</given-names></name></person-group> (<year>2007</year>)<article-title> Patterns of evolution of mitochondrial cytochrome c oxidase I and II DNA and implications for DNA barcoding.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>44</volume>: <fpage>325</fpage>-<lpage>345</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2006.12.005" xlink:type="simple">doi: 10.1016/j.ympev.2006.12.005</ext-link></mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name><name name-style="western"><surname>Rasnitsyn</surname><given-names>AP</given-names></name><name name-style="western"><surname>Roy</surname><given-names>A</given-names></name><name name-style="western"><surname>Eriksoon</surname><given-names>K</given-names></name><name name-style="western"><surname>Lindgren</surname><given-names>M</given-names></name></person-group> (<year>1999</year>)<article-title> Phylogeny of the Hymenoptera: a cladistic reanalysis of Rasnitsyn’s (1988) data.</article-title> <source>Zoologica Scripta </source> <volume>28</volume>: <fpage>13</fpage>-<lpage>50</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1463-6409.1999.00023.x" xlink:type="simple">doi: 10.1046/j.1463-6409.1999.00023.x</ext-link></mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Scheffer</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Wiegmann</surname><given-names>BM</given-names></name></person-group> (<year>2000</year>)<article-title> Molecular phylogenetics of the holly leaf miners (Diptera: Agromyzidae: Phytomyza): Species limits, speciation, and dietary specialization.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>17</volume>: <fpage>244</fpage>-<lpage>255</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/mpev.2000.0830" xlink:type="simple">doi: 10.1006/mpev.2000.0830</ext-link></mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmidt</surname><given-names>HA</given-names></name><name name-style="western"><surname>Strimmer</surname><given-names>K</given-names></name><name name-style="western"><surname>Vingron</surname><given-names>M</given-names></name><name name-style="western"><surname>von Haeseler</surname><given-names>A</given-names></name></person-group> (<year>2002</year>)<article-title> TREE-PUZZLE: maximum likelihood phylogenetic analysis using quartets and parallel computing.</article-title> <source>Bioinformatics </source> <volume>18</volume>: <fpage>502</fpage>-<lpage>504</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/18.3.502" xlink:type="simple">doi: 10.1093/bioinformatics/18.3.502</ext-link></mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmidt</surname><given-names>HA</given-names></name></person-group> (<year>2009</year>)<article-title> Testing tree topologies.</article-title> In: <person-group><name name-style="western"><surname>Lemey</surname><given-names>P</given-names></name><name name-style="western"><surname>Salemi</surname><given-names>M</given-names></name><name name-style="western"><surname>Vandamme</surname><given-names>AM</given-names></name></person-group> (<role>Eds</role>). <issue-title>The Phylogenetic Handbook: a Practical Approach to Phylogenetic Analysis and Hypothesis Testing.</issue-title> <source>Cambridge University Press, Cambridge</source>: <fpage>381</fpage>-<lpage>404</lpage>.</mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schulmeister</surname><given-names>S</given-names></name><name name-style="western"><surname>Wheeler</surname><given-names>WC</given-names></name><name name-style="western"><surname>Carpenter</surname><given-names>JM</given-names></name></person-group> (<year>2002</year>)<article-title> Simultaneous analysis of the basal lineages of Hymenoptera (Insecta) using sensitivity analysis.</article-title> <source>Cladistics </source> <volume>18</volume>: <fpage>455</fpage>-<lpage>484</lpage>.</mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sharkey</surname><given-names>MJ</given-names></name></person-group> (<year>2007</year>)<article-title> Phylogeny and classification of Hymenoptera.</article-title> <source>Zootaxa </source> <volume>1668</volume>: <fpage>521</fpage>-<lpage>548</lpage>.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Simon</surname><given-names>C</given-names></name><name name-style="western"><surname>Frati</surname><given-names>F</given-names></name><name name-style="western"><surname>Beckenbach</surname><given-names>A</given-names></name><name name-style="western"><surname>Crespi</surname><given-names>B</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Flook</surname><given-names>P</given-names></name></person-group> (<year>1994</year>)<article-title> Evolution, weighting, and phylogenetic utility of mitochondrial gene-sequences and a compilation of conserved polymerase chain-reaction primers.</article-title> <source>Annals of the Entomological Society of America </source> <volume>87</volume>: <fpage>651</fpage>-<lpage>701</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name></person-group> (<year>1997</year>)<article-title> A new species of <italic>Janus</italic> (Hymenoptera: Cephidae) from Indonesia.</article-title> <source>Entomological News </source> <volume>108</volume>: <fpage>24</fpage>-<lpage>28</lpage>.</mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name><name name-style="western"><surname>Schiff</surname><given-names>NM</given-names></name></person-group> (<year>2005</year>)<article-title> A new western Nearctic species of <italic>Calameuta</italic> Konow (Hymenoptera: Cephidae).</article-title> <source>Proceedings of the Entomological Society of Washington </source> <volume>107</volume>: <fpage>864</fpage>-<lpage>868</lpage>.</mixed-citation></ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name><name name-style="western"><surname>Schmidt</surname><given-names>S</given-names></name></person-group> (<year>2009</year>)<article-title> A new subfamily, genus, and species of Cephidae (Hymenoptera) from Australia.</article-title> <source>Zootaxa </source> <volume>2034</volume>: <fpage>56</fpage>-<lpage>60</lpage>.</mixed-citation></ref>
+            <ref id="B50"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name><name name-style="western"><surname>Shinohara</surname><given-names>A</given-names></name></person-group> (<year>2002a</year>)<article-title> A new genus and new species of Cephidae (Hymenoptera) from Sulawesi Utara, Indonesia.</article-title> <source>Proceedings of the Entomological Society of Washington </source> <volume>104</volume>: <fpage>624</fpage>-<lpage>628</lpage>.</mixed-citation></ref>
+            <ref id="B51"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name><name name-style="western"><surname>Shinohara</surname><given-names>A</given-names></name></person-group> (<year>2002b</year>)<article-title> The stem-boring sawfly genus <italic>Cephus</italic> Latreille (Hymenoptera: Cephidae) in Japan.</article-title> <source>Proceedings of the Entomological Society of Washington </source> <volume>104</volume>: <fpage>479</fpage>-<lpage>484</lpage>.</mixed-citation></ref>
+            <ref id="B52"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name><name name-style="western"><surname>Solomon</surname><given-names>JD</given-names></name></person-group> (<year>1989</year>)<article-title> A new <italic>Janus</italic> (Hymenoptera, Cephidae) from <italic>Quercus</italic>, and key to North American species.</article-title> <source>Entomological News </source> <volume>100</volume>: <fpage>1</fpage>-<lpage>5</lpage>.</mixed-citation></ref>
+            <ref id="B53"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stamatakis</surname><given-names>A</given-names></name></person-group> (<year>2006</year>)<article-title> RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models.</article-title> <source>Bioinformatics </source> <volume>22</volume>: <fpage>2688</fpage>-<lpage>2690</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btl446" xlink:type="simple">doi: 10.1093/bioinformatics/btl446</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B54"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Strimmer</surname><given-names>K</given-names></name><name name-style="western"><surname>von Haeseler</surname><given-names>A</given-names></name></person-group> (<year>1997</year>)<article-title> Likelihood-mapping: A simple method to visualize phylogenetic content of a sequence alignment.</article-title> <source>Proceedings of the National Academy of Sciences of the United States of America </source> <volume>94</volume>: <fpage>6815</fpage>-<lpage>6819</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.94.13.6815" xlink:type="simple">doi: 10.1073/pnas.94.13.6815</ext-link></mixed-citation></ref>
+            <ref id="B55"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname><given-names>DL</given-names></name></person-group> (<year>2002</year>)<source> PAUP* Phylogenetic analysis using parsimony (*and other methods). Version 4.0b10 ed. Sinauer Associates, Sunderland, Massachusetts.</source></mixed-citation></ref>
+            <ref id="B56"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Taeger</surname><given-names>A</given-names></name><name name-style="western"><surname>Blank</surname><given-names>SM</given-names></name><name name-style="western"><surname>Liston</surname><given-names>AD</given-names></name></person-group> (<year>2010</year>)<article-title> World Catalog of Symphyta (Hymenoptera).</article-title> <source>Zootaxa </source> <volume>2580</volume>: <fpage>1</fpage>-<lpage>1064</lpage>.</mixed-citation></ref>
+            <ref id="B57"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname><given-names>K</given-names></name><name name-style="western"><surname>Dudley</surname><given-names>J</given-names></name><name name-style="western"><surname>Nei</surname><given-names>M</given-names></name><name name-style="western"><surname>Kumar</surname><given-names>S</given-names></name></person-group> (<year>2007</year>)<article-title> MEGA4: Molecular evolutionary genetics analysis (MEGA) software version 4.0.</article-title> <source>Molecular Biology and Evolution </source> <volume>24</volume>: <fpage>1596</fpage>-<lpage>1599</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msm092" xlink:type="simple">doi: 10.1093/molbev/msm092</ext-link></mixed-citation></ref>
+            <ref id="B58"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>JD</given-names></name><name name-style="western"><surname>Higgins</surname><given-names>DG</given-names></name><name name-style="western"><surname>Gibson</surname><given-names>TJ</given-names></name></person-group> (<year>1994</year>)<article-title> CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice.</article-title> <source>Nucleic Acids Research </source> <volume>22</volume>: <fpage>4673</fpage>-<lpage>4680</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/22.22.4673" xlink:type="simple">doi: 10.1093/nar/22.22.4673</ext-link></mixed-citation></ref>
+            <ref id="B59"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vilhelmsen</surname><given-names>L</given-names></name></person-group> (<year>1997</year>)<article-title> The phylogeny of lower Hymenoptera (Insecta), with a summary of the early evolutionary history of the order.</article-title> <source>Journal of Zoological Systematics and Evolutionary Research </source> <volume>35</volume>: <fpage>49</fpage>-<lpage>70</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1439-0469.1997.tb00404.x" xlink:type="simple">doi: 10.1111/j.1439-0469.1997.tb00404.x</ext-link></mixed-citation></ref>
+            <ref id="B60"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vilhelmsen</surname><given-names>L</given-names></name></person-group> (<year>2001</year>)<article-title> Phylogeny and classification of the extant basal lineages of the Hymenoptera (Insecta).</article-title> <source>Zoological Journal of the Linnean Society </source> <volume>131</volume>: <fpage>393</fpage>-<lpage>442</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-3642.2001.tb01320.x" xlink:type="simple">doi: 10.1111/j.1096-3642.2001.tb01320.x</ext-link></mixed-citation></ref>
+            <ref id="B61"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wei</surname><given-names>MC</given-names></name></person-group> (<year>2007</year>)<article-title> On the genus <italic>Syrista</italic> Konow, with the description of a new species from China (Hymenoptera : Cephidae).</article-title> <source>Entomological News </source> <volume>118</volume>: <fpage>450</fpage>-<lpage>458</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3157/0013-872X(2007)118[450:OTGSKW]2.0.CO;2" xlink:type="simple">doi: 10.3157/0013-872X(2007)118[450:OTGSKW]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B62"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wei</surname><given-names>MC</given-names></name><name name-style="western"><surname>Smith</surname><given-names>DR</given-names></name></person-group> (<year>2010</year>)<article-title> Review of <italic>Syrista</italic> Konow (Hymenoptera: Cephidae).</article-title> <source>Proceedings of the Entomological Society of Washington </source> <volume>112</volume>: <fpage>302</fpage>-<lpage>316</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4289/0013-8797-112.2.302" xlink:type="simple">doi: 10.4289/0013-8797-112.2.302</ext-link></mixed-citation></ref>
+            <ref id="B63"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Xia</surname><given-names>X</given-names></name><name name-style="western"><surname>Xie</surname><given-names>Z</given-names></name></person-group> (<year>2001</year>)<article-title> DAMBE: Software package for data analysis in molecular biology and evolution.</article-title> <source>Journal of Heredity </source> <volume>92</volume>: <fpage>371</fpage>-<lpage>373</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/jhered/92.4.371" xlink:type="simple">doi: 10.1093/jhered/92.4.371</ext-link></mixed-citation></ref>
+            <ref id="B64"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhang</surname><given-names>M</given-names></name><name name-style="western"><surname>Zhong</surname><given-names>Y</given-names></name><name name-style="western"><surname>Cao</surname><given-names>TW</given-names></name><name name-style="western"><surname>Geng</surname><given-names>YP</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jin</surname><given-names>K</given-names></name><name name-style="western"><surname>Ren</surname><given-names>ZM</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>R</given-names></name><name name-style="western"><surname>Guo</surname><given-names>YP</given-names></name><name name-style="western"><surname>Ma</surname><given-names>EB</given-names></name></person-group> (<year>2008</year>)<article-title> Phylogenetic relationship and morphological evolution in the subfamily Limenitidinae (Lepidoptera: Nymphalidae).</article-title> <source>Progress in Natural Science </source> <volume>18</volume>: <fpage>1357</fpage>-<lpage>1364</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.pnsc.2008.03.025" xlink:type="simple">doi: 10.1016/j.pnsc.2008.03.025</ext-link></mixed-citation></ref>
+            <ref id="B65"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhelochovtsev</surname><given-names>AN</given-names></name><name name-style="western"><surname>Zinovjev</surname><given-names>AG</given-names></name></person-group> (<year>1988</year>)<source> [Suborder Symphyta (Chalastogastra) –Sawflies and Horntails]. In: Zhelochovtsev AN, Tobias VI, Kozlov MA (Eds) [Keys to the Insects of the European Part of the USSR. Volume 3, Hymenoptera. Part 6.] Nauka, Leningrad, 7–234. [English translation: Medvedev GS (1994) Keys to the Insects of the European Part of the USSR. Vol 3. Part 6 Symphyta, E.J. Brill, Leiden. xviii, 432 pp.]</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

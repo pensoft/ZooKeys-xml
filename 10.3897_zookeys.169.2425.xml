@@ -1,0 +1,771 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.169.2425</article-id>
+            <title-group>
+                <article-title>A new species of 
+                    <italic>Orobdella</italic> (Hirudinida, Arhynchobdellida, Gastrostomobdellidae) and redescription of 
+                    <italic>Orobdella kawakatsuorum</italic> from Hokkaido, Japan with the phylogenetic position of the new species
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Nakano</surname>
+                        <given-names>Takafumi</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:FE6B9521-5C9E-43C5-B492-08B0D0590E1B</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Zoology, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Takafumi Nakano (<email xlink:type="simple">nakano@zoo.zool.kyoto-u.ac.jp</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: F. Govedich</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>2</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>169</issue>
+            <fpage>9</fpage>
+            <lpage>30</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>31</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Takafumi Nakano</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:8F79801C-30DA-4F85-8CFF-4CEF42732286</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new quadrannulate <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> Oka, 1895 species, <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> <bold>sp. n.</bold>, is described on the basis of six specimens collected from Hokkaido, Japan. In addition, an emended description of quadrannulate <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975 is also provided. <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> differs from other quadrannulate species of <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> in possessing the following combination of characters: color dorsally brown, IV uniannulate, male gonopore at XI b6, gastropore and female gonopore at XIII a1, 1/2 + 4 + 1/2 between gonopores, XXV triannulate, tubular but bulbous at junctions with gastropore and crop gastroporal duct, epididymides in XVII to XIX, and atrial cornua ovate. The phylogenetic position of the newly described species is estimated using mitochondrial COI, tRNA<sup>Cys</sup>, tRNA<sup>Met</sup>, 12S rDNA, tRNA<sup>Val</sup> and 16S rDNA markers. <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> is a sister taxon of <italic><tp:taxon-name>Orobdella kakawatsuorum</tp:taxon-name></italic> according to the molecular phylogenetic analyses.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Hirudinida</kwd>
+                <kwd>Hirudinea</kwd>
+                <kwd>Gastrostomobdellidae</kwd>
+                <kwd><italic>Orobdella kawakatsuorum</italic></kwd>
+                <kwd>new species</kwd>
+                <kwd>molecular phylogeny</kwd>
+                <kwd>Japan</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> Oka, 1895 consists of terrestrial gastroporous leeches in East Asia (<xref ref-type="bibr" rid="B28">Sawyer 1986</xref>). The species diversity of <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> has been revised recently, and now this genus includes eight species (<xref ref-type="bibr" rid="B19">Nakano 2010</xref>, <xref ref-type="bibr" rid="B20">2011a</xref><xref ref-type="bibr" rid="B21">, b</xref>). Among these species, only one quadrannulate species, <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, has been known from Hokkaido, Japan (<xref ref-type="bibr" rid="B26">Richardson 1975</xref>). This species was described based on the two specimens collected from Sapporo, and its holotype has been deposited at the National Museum of Nature and Science, Tokyo (NSMT). <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> is characterized especially by its possession of six annuli between gonopores and a simple tubular gastroporal duct.</p>
+            <p>Quadrannulate <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> specimens were recently obtained from various places in Hokkaido. Most of these specimens were identified as <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>. However, several specimens differ from not only <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>, but also the other quadrannulate species, <italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic> Nakano, 2010, <italic><tp:taxon-name>Orobdella tsushimensis</tp:taxon-name></italic> Nakano, 2011, and <italic><tp:taxon-name>Orobdella whitmani</tp:taxon-name></italic> Oka, 1895, in several characterisics. Therefore, they are described as a new species herein. In addition, an emended description of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> is presented on the basis of its holotype and newly collected materials. The phylogenetic position of the new species is also estimated using mitochondrial COI, tRNA<sup>Cys</sup>, tRNA<sup>Met</sup>, 12S rDNA, tRNA<sup>Val</sup> and 16S rDNA sequence data.</p>
+        </sec>
+        <sec sec-type="materials|methods"><title>Materials and methods</title>
+            <p>For the taxonomic study, leeches were collected from Hokkaido, Japan (<xref ref-type="fig" rid="F1">Fig. 1</xref>), under rocks along mountain or forest trails. Altitude and coordinates for localities were obtained using a Garmin eTrex GPS unit.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p> Map showing the collection localities of <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n. and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975. Black triangles indicate the localities of <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic>; black circles indicate those of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> <bold>1</bold> type locality of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>; and <bold>2</bold> type locality of <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic>.</p></caption>
+                <graphic xlink:href="ZooKeys-169-009-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p> The preparation of the collected materials for the morphological and molecular analyses follows <xref ref-type="bibr" rid="B21">Nakano (2011b)</xref>. Two measurements were taken: body length (BL) from the anterior margin of the oral sucker to the posterior margin of the caudal sucker, and maximum body width (BW). Examination, dissection, and drawing of the specimens were accomplished under stereoscopic microscopes with drawing tubes (Leica S6E, M125 and WILD HEERBRUGG TYP 308700).</p>
+            <p>The numbering convention is based on <xref ref-type="bibr" rid="B17">Moore (1927)</xref>: body somites are denoted by Roman numerals and annuli in each somite are given alphanumeric designations.</p>
+            <p>For the molecular phylogenetic analyses, the sequence data of nine <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species were newly obtained (<xref ref-type="table" rid="T1">Table 1</xref>). As outgroup, three <tp:taxon-name>Erpobdelliformes</tp:taxon-name> leeches, <italic><tp:taxon-name>Gastrostomobdella monticola</tp:taxon-name></italic> Moore, 1929 (<tp:taxon-name>Gastrostomobdellidae</tp:taxon-name>), <italic><tp:taxon-name>Erpobdella japonica</tp:taxon-name></italic> Pawłowski, 1962 (<tp:taxon-name>Erpobdellidae</tp:taxon-name>), and <italic><tp:taxon-name>Mimobdella japonica</tp:taxon-name></italic> Blanchard, 1897 (<tp:taxon-name>Salifidae</tp:taxon-name>), were included.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p> Samples used for the phylogenetic analyses. The information on voucher, collection locality, and GenBank accession numbers are indicated.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Species</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Voucher</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Locality</bold></th>
+                            <th rowspan="1" colspan="1"><bold>COI</bold></th>
+                            <th rowspan="1" colspan="1"><bold>12S</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z29 Holotype</td>
+                            <td rowspan="1" colspan="1">Kumamoto, Japan (<named-content content-type="dwc:verbatimCoordinates">32°48.60'N, 130°38.48'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679664</td>
+                            <td rowspan="1" colspan="1">AB679665</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z170</td>
+                            <td rowspan="1" colspan="1">Ikinoshima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">33°44.47'N, 129°42.25'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679666</td>
+                            <td rowspan="1" colspan="1">AB679667</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z120 Holotype</td>
+                            <td rowspan="1" colspan="1">Amamioshima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">28°17.18'N, 129°18.93'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679680</td>
+                            <td rowspan="1" colspan="1">AB679681</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella dolichopahrynx</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z122</td>
+                            <td rowspan="1" colspan="1">Kinsakubaru, Amamioshima Isl., Japan</td>
+                            <td rowspan="1" colspan="1">AB679682</td>
+                            <td rowspan="1" colspan="1">AB679683</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella ijimai</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z110 Topotype</td>
+                            <td rowspan="1" colspan="1">Tochigi, Japan (<named-content content-type="dwc:verbatimCoordinates">36°46.98'N, 139°34.93'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679672</td>
+                            <td rowspan="1" colspan="1">AB679673</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella ijimai</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z188</td>
+                            <td rowspan="1" colspan="1">Nagano, Japan (<named-content content-type="dwc:verbatimCoordinates">36°12.44'N, 138°37.74'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679674</td>
+                            <td rowspan="1" colspan="1">AB679675</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z148</td>
+                            <td rowspan="1" colspan="1">Toyotomi, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">45°13.22'N, 141°41.07'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679692</td>
+                            <td rowspan="1" colspan="1">AB679693</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z150</td>
+                            <td rowspan="1" colspan="1">Richirito Isl., Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">45°11.99'N, 141°14.26'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679694</td>
+                            <td rowspan="1" colspan="1">AB679695</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z152</td>
+                            <td rowspan="1" colspan="1">Shari, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">44°06.09'N, 145°06.09'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679696</td>
+                            <td rowspan="1" colspan="1">AB679697</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z153</td>
+                            <td rowspan="1" colspan="1">Ashoro, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">43°23.70'N, 143°59.23'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679698</td>
+                            <td rowspan="1" colspan="1">AB679699</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z154</td>
+                            <td rowspan="1" colspan="1">Kamikawa, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">43°43.55'N, 142°57.53'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679700</td>
+                            <td rowspan="1" colspan="1">AB679701</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z159</td>
+                            <td rowspan="1" colspan="1">Kyowa, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">42°56.17'N, 140°35.57'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679702</td>
+                            <td rowspan="1" colspan="1">AB679703</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z167</td>
+                            <td rowspan="1" colspan="1">Sapporo, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">43°03.15'N, 141°18.71'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679704</td>
+                            <td rowspan="1" colspan="1">AB679705</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z145</td>
+                            <td rowspan="1" colspan="1">Hiratori, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">42°40.82'N, 142°25.44'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679684</td>
+                            <td rowspan="1" colspan="1">AB679685</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z146</td>
+                            <td rowspan="1" colspan="1">Shinhidaka, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">42°42.86'N, 142°38.30'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679686</td>
+                            <td rowspan="1" colspan="1">AB679687</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z156 Holotype</td>
+                            <td rowspan="1" colspan="1">Kamikawa, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">43°43.36'N, 142°56.85'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679688</td>
+                            <td rowspan="1" colspan="1">AB679689</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z158</td>
+                            <td rowspan="1" colspan="1">Mashike, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">43°46.23'N, 141°30.63'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679690</td>
+                            <td rowspan="1" colspan="1">AB679691</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella octonaria</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z177</td>
+                            <td rowspan="1" colspan="1">Tokyo, Japan (<named-content content-type="dwc:verbatimCoordinates">35°42.94'N, 139°12.20'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679706</td>
+                            <td rowspan="1" colspan="1">AB679707</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella octonaria</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z181 Topotype</td>
+                            <td rowspan="1" colspan="1">Kanagawa, Japan (<named-content content-type="dwc:verbatimCoordinates">35°14.06'N, 139°04.21'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679708</td>
+                            <td rowspan="1" colspan="1">AB679709</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z128 Holotype</td>
+                            <td rowspan="1" colspan="1">Okinawajima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">26°49.08'N, 128°16.90'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679676</td>
+                            <td rowspan="1" colspan="1">AB679677</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z138</td>
+                            <td rowspan="1" colspan="1">Okinawajima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">26°40.20'N, 128°11.20'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679678</td>
+                            <td rowspan="1" colspan="1">AB679679</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella tsushimensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z133</td>
+                            <td rowspan="1" colspan="1">Tsushimajima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">34°34.66'N, 129°22.49'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679660</td>
+                            <td rowspan="1" colspan="1">AB679661</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella tsushimensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z134 Holotype</td>
+                            <td rowspan="1" colspan="1">Tsushimajima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">34°15.29'N, 129°17.28'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679662</td>
+                            <td rowspan="1" colspan="1">AB679663</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella whitmani</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z45 Topotype</td>
+                            <td rowspan="1" colspan="1">Gifu, Japan (<named-content content-type="dwc:verbatimCoordinates">35°25.65'N, 136°46.91'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679668</td>
+                            <td rowspan="1" colspan="1">AB679669</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella whitmani</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z191</td>
+                            <td rowspan="1" colspan="1">Shiga, Japan (<named-content content-type="dwc:verbatimCoordinates">35°39.63'N, 136°11.30'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679670</td>
+                            <td rowspan="1" colspan="1">AB679671</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Erpobdella japonica</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z178</td>
+                            <td rowspan="1" colspan="1">Nagano, Japan (<named-content content-type="dwc:verbatimCoordinates">36°12.43'N, 138°36.93'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679654</td>
+                            <td rowspan="1" colspan="1">AB679655</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrostomobdella monticola</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">UNIMAS/A03/BH01/10</td>
+                            <td rowspan="1" colspan="1">Kuching, Malaysia</td>
+                            <td rowspan="1" colspan="1">AB679656</td>
+                            <td rowspan="1" colspan="1">AB679657</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mimobdella japonica</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">KUZ Z179</td>
+                            <td rowspan="1" colspan="1">Amamioshima Isl., Japan (<named-content content-type="dwc:verbatimCoordinates">28°26.53'N, 129°33.60'E</named-content>)</td>
+                            <td rowspan="1" colspan="1">AB679658</td>
+                            <td rowspan="1" colspan="1">AB679659</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Voucher specimens used in this study have been deposited in the National Museum of Nature and Science, Tokyo (NSMT), the Universiti Malaysia Sarawak (UNIMAS), and the Zoological Collection of Kyoto University (KUZ).</p>
+            <!--PageBreak-->
+            <!--PageBreak-->
+            <sec sec-type="PCR and DNA sequencing"><title>PCR and DNA sequencing</title>
+                <p>Genomic DNA was extracted from botryoidal tissues preserved in 99% ethanol using a modification of the method in <xref ref-type="bibr" rid="B23">Okamoto et al. (2006)</xref>. After digestion of botryoidal tissues with proteinase K (100 μg/ml) at 37°C for eight–ten hours, DNA was extracted two times with phenol and one time with 25:24:1 phenol/chloroform/isoamyl-alcohol, and precipitated in two volumes of 99% ethanol with one-tenth volume of 3.0 M <!--PageBreak-->sodium acetate (pH 5.2). Precipitated samples were dried and stored in TE buffer (10 mM Tris-HCl and 1 mM EDTA [pH 8.0]). Primer sets used in this study are listed in <xref ref-type="table" rid="T2">Table 2</xref>: for COI, LCO1490 and HCO2198 (<xref ref-type="bibr" rid="B7">Folmer et al. 1994</xref>), and LCO-in and HCO-out; for tRNA<sup>Cys</sup>, tRNA<sup>Met</sup>, 12S, tRNA<sup>Val</sup> and 16S (abbreviated 12S), 12SA-out and 12SB-in, and 12SA-in and 12SB-out. All amplification reactions were performed in a GeneAmp PCR System 2700 (Applied Biosystems) or a MyCycler (Bi-Rad Laboratories) using an Ex <italic>Taq</italic> Polymerase Kit (Takara Bio Inc.). Reaction mixtures were heated to 94°C for 5 min, followed by 35 cycles of 94°C (10 s), 42.5°C (20 s), and 72°C (1 min 13 s for COI, and 1 min for 12S) and a final extension at 72°C for 6 min. The amplified DNA fragments were purified using polyethylene glycol (20% PEG 6000) precipitation.</p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <label>Table 2.</label>
+                    <caption><p> PCR and cycle sequencing (CS) primers used in this study.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Gene</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Primer name</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Reaction</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Primer sequence (5’→ 3’)</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Source</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">COI</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">LCO1490</td>
+                                <td rowspan="1" colspan="1">PRC &amp; CS</td>
+                                <td rowspan="1" colspan="1">GGTCAACAAATCATAAAGATATTGG</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B7">Folmer et al. (1994)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">HCO2198</td>
+                                <td rowspan="1" colspan="1">CS</td>
+                                <td rowspan="1" colspan="1">TAAACTTCAGGGTGACCAAAAAATCA</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B7">Folmer et al. (1994)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">LCO-in</td>
+                                <td rowspan="1" colspan="1">CS</td>
+                                <td rowspan="1" colspan="1">TCCAGAACGTATTCCATTATTTG</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">HCO-out</td>
+                                <td rowspan="1" colspan="1">PCR &amp; CS</td>
+                                <td rowspan="1" colspan="1">TCTGGGTAGTCAGAATATCG</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="4">tRNA<sup>Cys</sup>, tRNA<sup>Met</sup>, 12S rDNA, tRNA<sup>Val</sup> and 16S rDNA</td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">12SA-out</td>
+                                <td rowspan="1" colspan="1">PCR &amp; CS</td>
+                                <td rowspan="1" colspan="1">TTGATGAACAACATTAAATTGC</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">12SB-in</td>
+                                <td rowspan="1" colspan="1">CS</td>
+                                <td rowspan="1" colspan="1">TAAGCTGCACTTTGACCTGA</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">12SA-in</td>
+                                <td rowspan="1" colspan="1">CS</td>
+                                <td rowspan="1" colspan="1">AATTAAAACAAGGATTAGATACCC</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">12SB-out</td>
+                                <td rowspan="1" colspan="1">PCR &amp; CS</td>
+                                <td rowspan="1" colspan="1">AACCCATAATGCAAAAGGTAC</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <!--PageBreak-->
+                <p>All samples were sequenced in both directions. Sequencing reactions were performed using a BigDye Terminator v3.1 Cycle Sequencing Kit (Applied Biosystems). Each sequencing reaction mixture was incubated at 96°C for 2 min, followed by 40 cycles of 96°C (10 s), 50°C (5 s), and 60°C (45 s for COI, and 40 s for 12S). The products were collected by ethanol precipitation and sequenced on an ABI 3130xl Genetic Analyzer (Applied Biosystems). Obtained sequences were edited using DNA BASER (Heracle Biosoft S.R.L.). These sequence data were deposited in GenBank.</p>
+            </sec>
+            <sec sec-type="Phylogenetic analyses"><title>Phylogenetic analyses</title>
+                <p>COI sequences were aligned by eye since there were no indels. Mitochondrial 12S sequences were aligned using MAFFT X-INS-i (<xref ref-type="bibr" rid="B10">Hofacker et al. 2002</xref>, <xref ref-type="bibr" rid="B13">Katoh and Toh 2008</xref>, <xref ref-type="bibr" rid="B16">McCaskill 1990</xref>, <xref ref-type="bibr" rid="B30">Tabei et al. 2008</xref>) taking into account RNA secondary structure information, and then refined with GBLOCKS (<xref ref-type="bibr" rid="B4">Castresana 2000</xref>). The length of aligned sequences of COI was 1266 bp, and that of 12S was 718 bp. Prior to phylogenetic analyses, transition/transversion (ti/tv) rate ratios for each gene sequence was calculated using MEGA5 (<xref ref-type="bibr" rid="B31">Tamura et al. 2011</xref>) to test for saturation in base substitutions. It was confirmed that COI and 12S did not show any signs of saturation (ti/tv rate ration of COI was 1.02, and that of 12S was 1.07). Therefore, the concatenated sequences yielded a total of 1984 bp positions.</p>
+                <p>Phylogenetic tree were constructed using maximum likelihood (ML) and Bayesian inference (BI). Pairwise comparisons of Kimura-2 parameter (K2p) distance (<xref ref-type="bibr" rid="B14">Kimura 1980</xref>) were also calculated using MEGA5. ML phylogenies were calculated using TREEFINDER v October 2008 (<xref ref-type="bibr" rid="B12">Jobb et al. 2004</xref>) with the tool package PHYLOGEARS v 2.0 (<xref ref-type="bibr" rid="B32">Tanabe 2008</xref>), and then non-parametric bootstrapping (<xref ref-type="bibr" rid="B6">Felsenstein 1985</xref>) was conducted with 500 replicates. The best-fit models for each partition were selected using the Akaike Information Criterion (<xref ref-type="bibr" rid="B1">Akaike 1974</xref>) by using KAKUSAN4 (<xref ref-type="bibr" rid="B33">Tanabe 2011</xref>). For the 1st position of COI, the Tamura-Nei model (TN93) with gamma distribution (+G) and proportion of invariant sites (+I) was selected. The transversion model (TVM)+I was selected for the 2nd position, the transition model (TIM)+G for the 3rd position of COI, and the general time reversal model (GTR)+G for 12S. BI and Bayesian posterior probabilities (BPPs) were estimated using the MPI version of MRBAYES v 3.1.2 (<xref ref-type="bibr" rid="B2">Altekar et al. 2004</xref>, <xref ref-type="bibr" rid="B11">Huelsenbeck et al. 2001</xref>, <xref ref-type="bibr" rid="B27">Ronquist and Huelsenbeck 2003</xref>). The best-fit models for each partition were identified using the Bayesian Information Criterion (<xref ref-type="bibr" rid="B29">Schwarz 1978</xref>) also by using KAKUSAN4: for COI 1st position, GTR+G+I; the Felsenstein 1981 model (F81)+I for COI 2nd position; the Hasegawa-Kishino-Yano model (HKY85)+G for COI 3rd position; and GTR+G for 12S. Two independent runs for four Markov chains were conducted for 1.5 million generations and the tree was sampled every 100 generations. Based on checking the parameter estimates and convergence using TRACER v 1.5 (<xref ref-type="bibr" rid="B25">Rambaut and Drummond 2009</xref>), the first 5,001 trees were discarded.</p>
+                <p>The nodes with bootstrap value (BS) higher than 70% were regarded as sufficiently resolved (<xref ref-type="bibr" rid="B9">Hillis and Bull 1993</xref>). Nodes with BPP higher than 95% were considered statistically significant (<xref ref-type="bibr" rid="B15">Leaché and Reeder 2002</xref>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <sec sec-type="Taxonomy"><title>Taxonomy</title>
+                <p><bold>Genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> Oka, 1895</bold></p>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Orobdella</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">koikei</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:7DBE6F21-E4C3-4CBF-9469-2B13121F56D4</object-id>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Orobdella_koikei</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F1">Figs 2</xref>
+                        <xref ref-type="fig" rid="F3"></xref>
+                        <xref ref-type="fig" rid="F4"></xref>
+                        <xref ref-type="fig" rid="F5">–5</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                        <p> In life, dorsal surface brown. Somites III and IV uniannulate, somites VIII–XXIV quadrannulate, somites XXV and XXVI triannulate. Pharynx reaching to XIV. Gastropore conspicuous at XIII a1 (slightly posterior to middle of annulus). Gastroporal<!--PageBreak--> duct, tubular, but bulbous at junction with gastropore and at junction with crop. Male gonopore at XI b6, female gonopore at XIII a1 (slightly posterior to middle of annulus), gonopores separated by 1/2 + 4 + 1/2. Paired epididymides in XVI/XVII–XVII a2 to XIX a2/b5. Atrial cornua ovate.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Type materials"><title>Type materials.</title>
+                        <p> KUZ Z156, <bold>holotype</bold>, dissected, collected from under a rock along a mountain trail at Sounkyo, Kamikawa, Hokkaido, Japan (<named-content content-type="dwc:verbatimCoordinates">43°43.36'N, 142°56.85'E</named-content>; Alt. 712 m), by Naoki Koike on 17 August, 2010.</p>
+                        <p>Five <bold>paratypes</bold> collected from Hokkaido, Japan. Two specimens from the type locality (<named-content content-type="dwc:verbatimCoordinates">43°43.36'N, 142°56.85'E</named-content>; Alt. 712 m): KUZ Z157, dissected, by Naoki Koike on 17 August, 2010, and KUZ Z186, by TN on 19 September, 2011. KUZ Z145, dissected, from Hiratori (<named-content content-type="dwc:verbatimCoordinates">42°40.82'N, 142°25.44'E</named-content>; Alt. 220 m), by Naoki Koike on 2 August, 2010. KUZ Z146, dissected, from Mt. Pisenaiyama, Shinhidaka (<named-content content-type="dwc:verbatimCoordinates">42°42.86'N, 142°38.30'E</named-content>; Alt. 981 m), by Naoki Koike on 3 August, 2010. KUZ Z158, dissected, from Mt. Shokanbetsudake, Mashike (<named-content content-type="dwc:verbatimCoordinates">43°46.23'N, 141°30.63'E</named-content>; Alt. 288 m), by Naoki Koike on 18 August, 2010.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                        <p> The specific name is a noun in the genitive case formed directly from the name of Mr Naoki Koike, who collected many valuable specimens of <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> leeches from Hokkaido.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description of holotype.</title>
+                        <p> Body firm, muscular, elongated, gaining regularly in width in caudal direction, dorso-ventral depressed, sides nearly parallel from mid length to point just anterior to caudal sucker, BL 30.5 mm, BW 2.5 mm (<xref ref-type="fig" rid="F2">Fig. 2</xref>). Caudal sucker ventral, oval, its diameter smaller than BW (<xref ref-type="fig" rid="F2">Figs 2B</xref>, <xref ref-type="fig" rid="F3">3D</xref>). In life, dorsal surface brown, ventral surface grayish white. Color faded in preservative, without any dark lines (<xref ref-type="fig" rid="F2">Fig. 2</xref>)</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figure 2.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n., holotype, KUZ Z156 <bold>A</bold> Dorsal and <bold>B</bold> ventral views. Scale bar, 5 mm.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <p>Somite I completely merged with prostomium (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). Somites II–IV uniannulate (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). Somite V biannulate, (a1+a2) = a3 (<xref ref-type="fig" rid="F3">Fig. 3A</xref>), V a3 forming posterior margin of oral sucker (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). Somites VI and VII triannulate (<xref ref-type="fig" rid="F3">Fig. 3A–B</xref>). Somites VIII–XXIV quadrannulate, a1 = a2 = b5 = b6 (<xref ref-type="fig" rid="F3">Fig. 3A–B, E</xref>). Somites XXV and XXVI triannulate (<xref ref-type="fig" rid="F3">Fig. 3C–D</xref>), XXVI a3 being last complete annulus on venter (<xref ref-type="fig" rid="F3">Fig. 3D</xref>). Somite XXVII uniannulate with one slight furrow on dorsal; anus behind it with no post-anal annulus (<xref ref-type="fig" rid="F3">Fig. 3C</xref>).</p>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figure 3.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n., holotype, KUZ Z156 <bold>A</bold> Dorsal view of somites I–VIII <bold>B</bold> ventral view of somites I–VIII <bold>C</bold> dorsal view of somites XXV–XXVII and caudal sucker <bold>D</bold> ventral view of somites XXV–XXVII and caudal sucker <bold>E</bold> ventral view of somites XI–XIII <bold>F</bold> ventral view of gastroporal duct; and <bold>G</bold> ventral view of gastropore and female gonopore. Scale bars, 0.5 mm (<bold>A–F</bold>) and 0.25 mm (<bold>G</bold>). Abbreviations: af, annular furrow; an, anus; cp, crop; fp, female gonopore; gd, gastroporal duct; gp, gastropore; mp, male gonopore; np, nephridiopore; and ph, pharynx.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <!--PageBreak-->
+                        <p>Anterior ganglionic mass in VI a2 and a3. Ganglion VII in a2. Ganglion VIII in a2 and b5. Ganglion IX in a2. Ganglia X–XII in a2 and b5 of each somite (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). Ganglion XIII in b5 (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). Ganglia XIV and XV in a2 and b5 of each somite (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). Ganglia XVI–XXI in a2 of each somite (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). Ganglia XXII–XXIV in a1 and a2 of each somite. Ganglia XXV and XXVI in a1 of each somite. Posterior ganglionic mass in XXVII a2 and a3.</p>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Figure 4.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n., holotype, KUZ Z156 <bold>A</bold> Dorsal view of reproductive system including ventral nervous system <bold>B</bold> dorsal view of male atrium <bold>C</bold> lateral view of male atrium <bold>D</bold> ventral view of male atrium; and <bold>E</bold> dorsal view of female reproductive system including position of ganglion XIII. Scale bars, 1mm (<bold>A</bold>) and 0.25 mm (<bold>B–E</bold>). Abbreviations: ac, atrial cornu; at, atrium; cod, common oviduct; ed, ejaculatory duct; ep, epididymis; gp, gastropore; o, ovisac; od, oviduct; and ts, testisac.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <p>Eyes two pairs, first pair dorsally on posterior margin of II, second pair dorsolaterally on middle of V (a1 + a2) (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). Nephridiopores in 17 pairs, ventrally at <!--PageBreak-->posterior margin of a1 of each somite of VIII–XXIV (<xref ref-type="fig" rid="F3">Fig. 3A, E</xref>). Papillae numerous, minute, hardly visible, one row on every annulus.</p>
+                        <p>Pharynx agnathous, euthylaematous, reaching to XIII/XIV (<xref ref-type="fig" rid="F3">Fig. 3F</xref>). Crop tubular, acaecate, in XIII/XIV to XIX b5/b6. Gastropore conspicuous, ventral, located<!--PageBreak--> slightly posterior to middle of XIII a2 (<xref ref-type="fig" rid="F3">Fig. 3E, G</xref>). Gastroporal duct, winding and bulbous at junction with gastropore, tubular but bulbous at junction with crop, joining with crop in XIV a1 (<xref ref-type="fig" rid="F3">Fig. 3F</xref>). Intestine tubular, acaecate, in XIX b5/b6 to XXIII a2. Rectum, tubular, thin-walled.</p>
+                        <p>Male gonopore at middle of XI b6 (<xref ref-type="fig" rid="F3">Fig. 3E</xref>). Female gonopore located slightly posterior to middle of XIII a2, inconspicuous, located behind gastropore (<xref ref-type="fig" rid="F3">Fig. 3G</xref>). Gonopores separated by 1/2 + 4 + 1/2 annuli (<xref ref-type="fig" rid="F3">Fig. 3E</xref>). Testisacs multiple, one or two testisacs on each side in each annulus, in XIX a2/b5 to XXIV a1 (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). Paired epididymides in XVI a2/b5 to XIX a2/b5 (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). Ejaculatory bulbs absent. Ejaculatory ducts in XI a2/b5 to XVI a2/b5, loosely coiled, each winding from each junction with epididymis, narrowing at junction with atrial cornu, then turning sharply inward toward atrial cornu without pre-atrial loop (<xref ref-type="fig" rid="F4">Fig. 4A–D</xref>). Pair of atrial cornua in XI b5 and b6, muscular, ovate (<xref ref-type="fig" rid="F4">Fig. 4B</xref>). Atrium short, muscular, globular in XI b6 (<xref ref-type="fig" rid="F4">Fig. 4B–D</xref>). Penis sheath and penis absent. Ovisacs one pair, thin-walled, globular, in XIII a2 and b5 (<xref ref-type="fig" rid="F4">Fig. 4A, E</xref>). Oviducts thin-walled, left oviduct crossing ventrally beneath nerve cord, both oviducts converging into common oviduct in XIII a2 (<xref ref-type="fig" rid="F4">Fig. 4A, E</xref>). Common oviduct thin-walled, short, directly ascending to female gonopore (<xref ref-type="fig" rid="F4">Fig. 4E</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Variation"><title>Variation.</title>
+                        <p> In life, color generally same as holotype (<xref ref-type="fig" rid="F5">Fig. 5</xref>). Somite III with slight furrow on dorsal (KUZ Z146). Somite IV with slight furrow on dorsal (KUZ Z158), or biannulate (KUZ Z146). Somite XXVI incomplete triannulate. Pharynx reaching to XIII b5/b6–XIV a1. Crop reaching to XIX b5–XX a1. Gastropore at middle of XIII. Gastroporal duct simple tubular (KUZ Z145 and Z146). Intestine reaching to XXIII a1–XXIV a2. Female gonopore at middle of XIII. Testisacs in XVIII a1–XIX a2/b5 to XXIII a2/b5. <tp:taxon-name>Epididymides</tp:taxon-name> in XVI/XVII–XVII a2 to XIX a2/b5. Right or left oviduct crossing ventrally beneath nerve cord.</p>
+                        <fig id="F5" position="float" orientation="portrait">
+                            <label>Figure 5.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n., paratype, KUZ Z186, taken of live animal, dorsal view.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                        <p> Known in mountainous regions of the central part of Hokkaido, Japan (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                        <p> The specimens examined in this study consist of small individuals. However, testisacs and ovisacs of the holotype, of which BL is 30.5 mm, are developed. In immature <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> specimens, testiscas are usually undeveloped, and hardly detected (Nakano pers. obs.). Therefore, there is a possibility that the holotype of this species is a mature leech.</p>
+                        <p><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> is syntopic with <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> at Sounkyo (Locality No. 2 in <xref ref-type="fig" rid="F1">Fig. 1</xref>). Specimens of <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> collected from Sounkyo were clearly distinguished from those of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> in Sounkyo by the number of annuli between the <!--PageBreak-->gonopores, annulation of XXV, morphology of the gastroporal duct and male atrium, and the length of epididymides. Therefore, <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> can be treated as a distinct new species from Hokkaido.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Orobdella</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">kawakatsuorum</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Orobdella_kawakatsuorum</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Richardson, 1975</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F6">Figs 6</xref>
+                        <xref ref-type="fig" rid="F7"></xref>
+                        <xref ref-type="fig" rid="F8"></xref>
+                        <xref ref-type="fig" rid="F9"></xref>
+                        <xref ref-type="fig" rid="F10"></xref>
+                        <xref ref-type="fig" rid="F11">–11</xref>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name><comment> Richardson, 1975: 42–51, figs 1, 2; <xref ref-type="bibr" rid="B28">Sawyer 1986</xref>: 680, 747.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                        <p> In life, dorsal surface grayish blue. Somites III and IV biannulate, somites VIII–XXV quadrannulate, somite XXVI triannulate, clitellum from X b5 to XIII a2. Pharynx reaching to XIV. Gastropore conspicuous in furrow of XIII a1/a2. Gastroporal duct, simple tubular. Male gonopore in furrow of XI b5/b6, female gonopore in furrow of XIII a1/a2, gonopores separated by 6 annuli. Paired epididymides in XVI a2/b5–XVII b5 to XVI b5–XVII b6. Atrial cornua, coniform, undeveloped.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> NSMT-An 53, <bold>holotype</bold>, dissected by Richardson, LR, collected from a home garden of Professor Masaharu Kawakatsu, Sapporo, Hokkaido, Japan, by Tetsuya Kawakatsu and Miyuki Kawakatsu on 1 June, 1974.</p>
+                        <p>Additional materials. 22 specimens collected from Hokkaido, Japan. Six specimens collected from Maruyama–koen Park, Chuo–ku, Sapporo: KUZ Z24, dissected, and Z140 (<named-content content-type="dwc:verbatimCoordinates">43°03.12'N, 141°18.53'E</named-content>; Alt. 50 m) by Naoyuki Nakahama on 14 June, 2009; KUZ Z166, Z167, dissected (<named-content content-type="dwc:verbatimCoordinates">43°03.15'N, 141°18.71'E</named-content>; Alt. 34 m), Z168 and Z169, dissected (<named-content content-type="dwc:verbatimCoordinates">43°03.15'N, 141°18.61'E</named-content>; Alt. 29m), by TN on 5 October, 2010. Six specimens from Sounkyo, Kamikawa: KUZ Z154, dissected, and Z155 (<named-content content-type="dwc:verbatimCoordinates">43°43.55'N, 142°57.53'E</named-content>; Alt. 705 m), by Naoki Koike on 16 August, 2010; KUZ Z183 (<named-content content-type="dwc:verbatimCoordinates">43°43.45'N, 142°56.86'E</named-content>; Alt. 674 m), Z184 and Z185 (<named-content content-type="dwc:verbatimCoordinates">43°43.39'N, 142°56.88'E</named-content>; Alt. 678 m), and Z187 (<named-content content-type="dwc:verbatimCoordinates">43°43.29'N, 142°56.87'E</named-content>; Alt. 758 m), by TN on 19 September, 2011. Two specimens from Mt. Asahidake, Higashikawa by Naoyuki Nakahama: KUZ Z141, dissected (<named-content content-type="dwc:verbatimCoordinates">43°38.82'N, 142°47.73'E</named-content>; Alt. 1090 m) on 16 June, 2009, and KUZ Z142 (<named-content content-type="dwc:verbatimCoordinates">43°39.12'N, 142°48.10'E</named-content>; Alt. 1120 m) on 17 June, 2009. Two specimens from near the Kabutonuma Pond, Toyotomi (<named-content content-type="dwc:verbatimCoordinates">45°13.22'N, 141°41.07'E</named-content>; Alt. 16 m), by Naoki Koike on 6 August, 2010: KUZ Z147 and Z148, dissected. Two specimens from Mt. Rishirizan, Rishirifuji (Rishirito Island) (<named-content content-type="dwc:verbatimCoordinates">45°11.99'N, 141°14.26'E</named-content>; Alt. 914 m), by Naoki Koike on 8 August, 2010: KUZ Z149 and Z150, dissected. KUZ Z143, dissected, from Nukabira, Kamishihoro (<named-content content-type="dwc:verbatimCoordinates">43°22.05'N, 143°11.62'E</named-content>; Alt. 490 m), by Naoyuki Nakahama on 18 June, 2009. KUZ Z152, dissected, from Mt. Rausudake, Shari (<named-content content-type="dwc:verbatimCoordinates">44°06.09'N, 145°06.09'E</named-content>; Alt. 630 m), by Naoki Koike on 13 August, 2010. KUZ Z153, dissected, from Mt. Meakandake, Ashoro (<named-content content-type="dwc:verbatimCoordinates">43°23.70'N, 143°59.23'E</named-content>; Alt. 755 m), by Naoki Koike on 15 August, 2010. KUZ Z159, dissected, from near the Shinsennuma Pond, Kyowa (<named-content content-type="dwc:verbatimCoordinates">42°56.17'N, 140°35.57'E</named-content>; Alt. 781 m), by Naoki Koike on 19 August, 2010.</p>
+                        <!--PageBreak-->
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Emended description.</title>
+                        <p> Body firm, muscular, elongated, gaining regularly in width in caudal direction, dorso-ventral depressed, sides nearly parallel from mid length to point just anterior of caudal sucker (<xref ref-type="fig" rid="F6">Figs 6</xref><xref ref-type="fig" rid="F7">, 7</xref>), maximu BL 111.64 (KUZ Z142), maximun BW 8.19 (KUZ Z154). Caudal sucker ventral, ova, its diameter smaller than BW (<xref ref-type="fig" rid="F6">Figs 6</xref><xref ref-type="fig" rid="F7">, 7</xref><xref ref-type="fig" rid="F9">, 9D</xref><xref ref-type="fig" rid="F10">, 10D</xref>). In life, dorsal surface grayish blue, ventral surface bluish white (<xref ref-type="fig" rid="F8">Fig. 8</xref>). Color faded in preservative, without any dark lines (<xref ref-type="fig" rid="F6">Figs 6</xref><xref ref-type="fig" rid="F7">, 7</xref>).</p>
+                        <fig id="F6" position="float" orientation="portrait">
+                            <label>Figure 6.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, holotype, NSMT-An 53 <bold>A</bold> Dorsal and <bold>B</bold> ventral views. Scale bar, 5 mm.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F7" position="float" orientation="portrait">
+                            <label>Figure 7.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, collected from near the type locality, KUZ Z167 <bold>A</bold> Dorsal and <bold>B</bold> ventral views. Scale bar, 5 mm</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F8" position="float" orientation="portrait">
+                            <label>Figure 8.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, collected from near the type locality, KUZ Z167, taken of live animal, dorsal view.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <p>Somite I completely merged with prostomium (<xref ref-type="fig" rid="F10">Fig. 10A</xref>). Somite II uniannulate (<xref ref-type="fig" rid="F9">Figs 9A</xref><xref ref-type="fig" rid="F10">, 10A</xref>). Somite III uniannulate in small specimens, biannulate in large specimens (<xref ref-type="fig" rid="F9">Figs 9A</xref><xref ref-type="fig" rid="F10">, 10A</xref>). Somite IV generally biannulate (<xref ref-type="fig" rid="F9">Figs 9A</xref><xref ref-type="fig" rid="F10">, 10A</xref>), but uniannulate in a few small specimens. Somite V biannulate, (a1 + a2) = a3, V a3 forming posterior margin of oral sucker (<xref ref-type="fig" rid="F9">Figs 9A–B</xref><xref ref-type="fig" rid="F10">, 10A–B</xref>). Somites VI and VII triannulate, a1 = a2 = a3 (<xref ref-type="fig" rid="F9">Figs 9A–B</xref><xref ref-type="fig" rid="F10">, 10A–B</xref>). Somites VIII–XXV quadrannulate, a1 = a2 = b5 = b6 (<xref ref-type="fig" rid="F9">Figs 9A–E</xref><xref ref-type="fig" rid="F10">, 10A–E</xref>); X b5 being first annulus of clitellum, XIII a2 being last annulus of clitellum. Somite XXVI triannulate, a1 = a2 = a3, a3 being last complete annulus on venter (<xref ref-type="fig" rid="F9">Figs 9C–D</xref><xref ref-type="fig" rid="F10">, 10C–D</xref>); a3 with furrow on dorsal in large specimens (<xref ref-type="fig" rid="F10">Fig. 10C</xref>). <!--PageBreak-->Somite XXVII uniannulate, or biannulate; anus behind it with no post-anal annulus (<xref ref-type="fig" rid="F9">Fig. 9C</xref><xref ref-type="fig" rid="F10">, 10C</xref>).</p>
+                        <fig id="F9" position="float" orientation="portrait">
+                            <label>Figure 9.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, holotype, NSMT-An 53 <bold>A</bold> Dorsal view of somites I–IX <bold>B</bold> ventral view of somites I–IX <bold>C</bold> dorsal view of somites XXV–XXVII and caudal sucker <bold>D</bold> ventral view of somites XXV–XXVII and caudal sucker <bold>E</bold> ventral view of somites XI–XIII; and <bold>F</bold> ventral view of gastropore and female gonopore. Scale bars, 1 mm (<bold>A–E</bold>) and 0.25 mm (<bold>F</bold>). Abbreviations, see Fig. 3.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F10" position="float" orientation="portrait">
+                            <label>Figure 10.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, collected from near the type locality, KUZ Z167 <bold>A</bold> Dorsal view of somites I–VIII <bold>B</bold> ventral view of somites I–VIII <bold>C</bold> dorsal view of somites XXV–XXVII and caudal sucker <bold>D</bold> ventral view of somites XXV–XXVII and caudal sucker <bold>E</bold> ventral view of somites XI–XIII <bold>F</bold> ventral view of gastroporal duct; and <bold>G</bold> ventral view of gastropore and female gonopore. Scale bars, 1 mm (<bold>A–F</bold>) and 0.25 mm (<bold>G</bold>). Abbreviations, see Fig. 3.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <p>Anterior ganglionic mass in VI a2– VII a1. Ganglion VII in a2, a2 and a3, or a3. Ganglia VIII–XV mainly in a2 of each somite, but also a2 and b5, or b5 in several specimens (<xref ref-type="fig" rid="F11">Fig. 11A</xref>). Ganglion XVI in a2 (<xref ref-type="fig" rid="F11">Fig. 11A</xref>). Ganglia XVII–XXIV generally in a2 of each somite (<xref ref-type="fig" rid="F11">Fig. 11A</xref>), but rarely in a1 and a2, or a2 and b5. Ganglion XXV generally in a1, but also a1 and a2, or a2 in several specimens. Ganglion XXVI<!--PageBreak--> in a1, XXV b6, XXV b6 and XXVI a1, or XXVI a2. Posterior ganglionic mass in XXVI a1–a3.</p>
+                        <fig id="F11" position="float" orientation="portrait">
+                            <label>Figure 11.</label>
+                            <caption><p> <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975, collected from near the type locality, KUZ Z167 <bold>A</bold> Dorsal view of reproductive system including ventral nervous system <bold>B</bold> dorsal view of male atrium <bold>C</bold> lateral view of male atrium <bold>D</bold> ventral view of male atrium; and <bold>E</bold> dorsal view of female reproductive system including position of ganglion XIII. Scale bars, 1mm (<bold>A</bold>) and 0.5 mm (<bold>B–E</bold>). Abbreviations, see Fig. 4.</p></caption>
+                            <graphic xlink:href="ZooKeys-169-009-g011.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <p>Eyes three pairs, first pair dorsally on posterior margin of II, second and third pairs dorsolaterally on posterior margin of V (a1 + a2) (<xref ref-type="fig" rid="F10">Fig. 10A</xref>); eyes one pair in several large specimens, dorsally on posterior margin of II. Nephridiopores in 17 pairs, ventrally at posterior margin of a1 of each somite of VIII–XXIV (<xref ref-type="fig" rid="F10">Fig. 10B, E</xref>); rarely in 18 pairs at a1 of each somite of VIII–XXV (NSMT-An 53, KUZ Z24, Z143, and Z155) (<xref ref-type="fig" rid="F9">Fig. 9B, D–E</xref>). Papillae numerous, minute, hardly visible, one row on every annulus.</p>
+                        <!--PageBreak-->
+                        <p>Pharynx agnathous, euthylaematous, reaching to XIV a2–XIV/XV (<xref ref-type="fig" rid="F10">Fig. 10F</xref>). Crop tubular, acaecate, in XIVa2–XIV/XV to XX b5/b6–XXI a1/a2. Gastropore conspicuous, ventral, generally in furrow of XIII a1/a2 (<xref ref-type="fig" rid="F9">Figs 9E–F</xref><xref ref-type="fig" rid="F10">, 10E, G</xref>). Gastroporal duct, simple tubular, thin-walled, joining with crop in XIV a2–XIV/XV (<xref ref-type="fig" rid="F10">Fig. 10F</xref>).<!--PageBreak--> Intestine tubular, acaecate, in XIV a2–XIV/XV to XXIII b5–XIV b5/b6. Rectum, tubular, thin-walled.</p>
+                        <p>Male gonopore generally in furrow of XI b5/6, or at anterior part of XI b6 (<xref ref-type="fig" rid="F9">Figs 9E</xref><xref ref-type="fig" rid="F10">, 10E</xref>). Female gonopore in furrow of XIII a1/a2, located behind gastropore (<xref ref-type="fig" rid="F9">Figs 9F</xref><xref ref-type="fig" rid="F10">, 10G</xref>). Gonopores separated by six annuli (<xref ref-type="fig" rid="F9">Figs 9E</xref><xref ref-type="fig" rid="F10">, 10E</xref>). Testisacs multiple, two or three testisacs on each side in each annulus, in XVI b5–XVII b6 to XXIII a1–XXV b6 (<xref ref-type="fig" rid="F11">Fig. 11A</xref>). Paired epididymides in XVI a2/b5–XVII b5 to XVI b5–XVII b6 (<xref ref-type="fig" rid="F11">Fig. 11A</xref>). Ejaculatory bulbs absent. Ejaculatory ducts in XI b5 to XVI a2/b5–XVII b5, loosely coiled, each winding from each junction with epididymis, narrowing at junction with atrial cornu, then turning inward toward atrial cornu without pre-atrial loop (<xref ref-type="fig" rid="F11">Fig. 11A–D</xref>). Pair of atrial cornua in XI b5 and b6, undeveloped, coniform (<xref ref-type="fig" rid="F11">Fig. 11B</xref>). Atrium short, muscular, globular in XI b5 and b6 (<xref ref-type="fig" rid="F11">Fig. 11B–D</xref>). Ovisacs one pair, thin-walled, globular, in XIII a2 and b5 (<xref ref-type="fig" rid="F11">Fig. 11A, E</xref>). Oviducts thin-walled, right or left oviduct crossing ventrally beneath nerve cord, both oviducts converging into common oviduct in XIII a2 (<xref ref-type="fig" rid="F11">Fig. 11A, E</xref>). Common oviduct thin-walled, short, directly ascending to female gonopore (<xref ref-type="fig" rid="F11">Fig. 11E</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                        <p> Known in mountainous regions of Hokkaido, Japan (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                        <p> <xref ref-type="bibr" rid="B26">Richardson (1975)</xref> described that a gastropore of the holotype opened at the middle of XIII a1, and the female gonopore in the furrow of XIII a1/a2. However, both the gastropore and the female gonopore of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> are in the furrow of XIII a1/a2 on the basis of examination of the holotype and newly collected specimens. A gastropore of this species is coincident with a female gonopore. Richardson also noted that a pair of nephririopores opened in XXV (XXIV in his paper). But it is rare for <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> to possess 18 pairs of nephridiopores.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="Phylogenetic relationships"><title>Phylogenetic relationships</title>
+                <p>The ML tree with ln <italic>L</italic> = -12757.40 (<xref ref-type="fig" rid="F12">Fig. 12</xref>) was nearly identical to the obtained BI tree (not shown). Monophyly of the genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> was well supported (BS = 99%, BPP = 100%). Two <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species from Hokkaido, <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>, formed a monophyletic group (BS = 100%, BPP = 100%). This clade was a sister taxon of the other <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species. Monophyly of <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> was well supported (<italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic>: BS = 94%, BPP = 100%; <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>: BS = 97%, BPP = 100%).</p>
+                <fig id="F12" position="float" orientation="portrait">
+                    <label>Figure 12.</label>
+                    <caption><p> The ML tree of 1984 bp of mitochondrial COI, tRNA<sup>Cys</sup>, tRNA<sup>Met</sup>, 12S rDNA, tRNA<sup>Val</sup> and 16S rDNA. The numbers associated with the nodes represent the bootstrap values for ML (BS)/ and Baysian posterior probabilities (BPPs). BS higher than 70% and/or BPP higher than 95% are indicated.</p></caption>
+                    <graphic xlink:href="ZooKeys-169-009-g012.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+              <p>The COI sequence divergence between <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> was between 8.1–9.9% (mean = 9.0%). Intraspecific variation of COI sequences ranged between 4.8–8.1% (mean = 7.1%) in <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic>, and 0.30–4.9% (mean = 3.7%) in <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>. Sequence divergence of 12S between these two species was between 3.3–5.5% (mean = 4.3%). It was between 2.8–4.8% (mean = 3.9%) within <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic>, and 0–1.1% (mean = 0.71%) within <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>. Interspecific genetic distance of COI between <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> had a significantly higher mean divergence as compared to the intraspecific variation of <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> (<italic>t</italic>-test with unequal <!--PageBreak-->variance, <italic>p</italic> = 0.0096), but that of 12S did not have a significantly higher mean divergence (<italic>t</italic>-test with unequal variance, <italic>p</italic> = 0.22).</p>
+              <p>Monophyly of seven <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species distributed in areas south of Hokkaido was recovered (BS = 95%, BPP = 100%). Monophyly of <italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic> + <italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic> + <italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic> received strong support (BS = 95%, BPP = 100%), and that of <italic><tp:taxon-name>Orobdella jimai</tp:taxon-name></italic> + <italic><tp:taxon-name>Orobdella octonaria</tp:taxon-name></italic> was also recovered (BS = 92%, BPP = 100%).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+          <p><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> differs from the four other quadrannulate species of the genus, <italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic>, <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>, <italic><tp:taxon-name>Orobdella tsushimensis</tp:taxon-name></italic>, and <italic><tp:taxon-name>Orobdella whitmani</tp:taxon-name></italic>, in the following combination of characteristics (<xref ref-type="table" rid="T3">Table 3</xref>): 1) dorsal surface brown ; 2) IV uniannulate; 3) male gonopore at XI b6; 4) gastropore nad female gonopore at XIII a1; 5) gonopores separated by 1/2 + 4 + 1/2 annuli; 6) XXV triannulate; 7) gastroporal duct, tubular, but bulbous at junctions with gastropore and crop; 8) epididymides in XVII to XIX; and 9) atrial cornua ovate. <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> is easily distinguished from <italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic> Nakano, 2011, <italic><tp:taxon-name>Orobdella ijimai</tp:taxon-name></italic> Oka, 1895, <italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic> Nakano, 2011, and <italic><tp:taxon-name>Orobdella octonaria</tp:taxon-name></italic> Oka, 1895, in having mid-body somites that are quadrannulate; they are sexannulate in <italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic>, <italic><tp:taxon-name>Orobdella ijimai</tp:taxon-name></italic>, and <italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic>, and octannulate in <italic><tp:taxon-name>Orobdella octonaria</tp:taxon-name></italic>.</p>
+            <table-wrap id="T3" position="float" orientation="portrait">
+                <label>Table 3.</label>
+                <caption><p> Comparisons of morphological characters between <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n. and four quadrannulate congeneric species.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Character</bold></th>
+                            <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n.</bold></th>
+                            <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic></bold></th>
+                            <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic></bold></th>
+                            <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Orobdella tsushimensis</tp:taxon-name></italic></bold></th>
+                            <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Orobdella whitmani</tp:taxon-name></italic></bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Color</td>
+                            <td rowspan="1" colspan="1">brownish</td>
+                            <td rowspan="1" colspan="1">bluish</td>
+                            <td rowspan="1" colspan="1">bluish</td>
+                            <td rowspan="1" colspan="1">yellowish</td>
+                            <td rowspan="1" colspan="1">yellowish</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Annulation of IV</td>
+                            <td rowspan="1" colspan="1">uniannulate</td>
+                            <td rowspan="1" colspan="1">uniannulate</td>
+                            <td rowspan="1" colspan="1">biannulate</td>
+                            <td rowspan="1" colspan="1">unianulate</td>
+                            <td rowspan="1" colspan="1">uni- or biannulate</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Number of annuli between gonopores</td>
+                            <td rowspan="1" colspan="1">1/2 + 4 + 1/2</td>
+                            <td rowspan="1" colspan="1">2/3 + 4 + 1/3</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">1/2 + 5</td>
+                            <td rowspan="1" colspan="1">1/2 + 4 + 1/2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Annulation of XXV</td>
+                            <td rowspan="1" colspan="1">triannulate</td>
+                            <td rowspan="1" colspan="1">quadrannulate</td>
+                            <td rowspan="1" colspan="1">quadrannulate</td>
+                            <td rowspan="1" colspan="1">quadrannulate</td>
+                            <td rowspan="1" colspan="1">quadrannulate</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Gastroporal duct</td>
+                            <td rowspan="1" colspan="1">tubular, but bulbous at junctions with gastropore and crop</td>
+                            <td rowspan="1" colspan="1">tubular, but bulbous at junction with gastropore</td>
+                            <td rowspan="1" colspan="1">simple tubular</td>
+                            <td rowspan="1" colspan="1">bottle-shaped</td>
+                            <td rowspan="1" colspan="1">bulbiform</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Epididymides</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">XVII to XIX</td>
+                            <td rowspan="1" colspan="1">XVI to XX</td>
+                            <td rowspan="1" colspan="1">XVI to XVII</td>
+                            <td rowspan="1" colspan="1">XVI to XIX</td>
+                            <td rowspan="1" colspan="1">XVI to XVIII</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Atrial cornua</td>
+                            <td rowspan="1" colspan="1">ovate</td>
+                            <td rowspan="1" colspan="1">ovate</td>
+                            <td rowspan="1" colspan="1">undeveloped</td>
+                            <td rowspan="1" colspan="1">coniform</td>
+                            <td rowspan="1" colspan="1">ovate</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The phylogenetic tree showed that the clade, which includes <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species in Hokkaido, was a sister taxon of the other <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species. This result is also recovered by the other phylogenetic analyses based on nucleic 18S and 28S sequences<!--PageBreak--> (<xref ref-type="bibr" rid="B22">Nakano et al. in press</xref>). According to the phylogenetic analyses, several characteristics are considered to have evolved in parallel. Each of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic> possess a tubular gastroporal duct (<xref ref-type="bibr" rid="B19">Nakano 2010</xref>). However, these two species are phylogenetically distant. The mid-body somite annulation of <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> leeches does not indicate phylogenetic relationships either. In the genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic>, it is clear that the quadrannulate mid-body somite is a plesiomorphic character. Sexannulate mid-body somite, which <italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic>, <italic><tp:taxon-name>Orobdella ijimai</tp:taxon-name></italic>, and <italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic> possess, evolved in parallel. <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>, and two species from Ryukyu Archipelago, Japan, <italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic>, possess rudimentary male atrial cornua (<xref ref-type="bibr" rid="B21">Nakano 2011b</xref>). However, undeveloped male atrial cornua do not indicate any phylogenetic relationships between <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> and Ryukyu <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species. These characters are not useful for estimating phylogenetic relationships in the genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic>, although they are suitable for the species level classification.</p>
+            <p>Species delimitation in leeches based on genetic analyses, especially using COI DNA-barcode locus, has been discussed in many papers (see <xref ref-type="bibr" rid="B5">DeSalle et al. 2005</xref> for review). The average sequence divergence of COI between <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> was 9.0%, and that of 12S was 4.3%. Interspecific genetic divergence of COI between these two species showed a significantly higher value than that of the intraspecific variation, although the intraspecific genetic divergence of 12S sequences in <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> (2.8–4.8%) was overlapped to a large extent with the interspecific divergence of 12S (3.3–5.5%). Thus, only the genetic distance of COI (mean = 9.0%) can be used as an indicator for deciding whether leeches are distinct species or not in the genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic>, since <italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> and <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> are distributed syntopically at Sounkyo (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+          <p><xref ref-type="bibr" rid="B8">Gilyarov et al. (1969)</xref> reported quadrannulate <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species from Primorsky Krai, Russia, as <italic><tp:taxon-name>Orobdella whitmani</tp:taxon-name></italic>. Although they did not describe the detailed internal <!--PageBreak-->anatomy of the specimen, the photograph of the ventral surface of their specimen (fig. 1 in their paper) clearly shows that the male gonopore opened in the furrow of XI/XII and the female gonopore was at XIII a1. Thus, the number of annuli between the gonopores was 4 + 1/2. This characteristic is not identical to those of the other known quadrannulate <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species. There is a strong possibility that the quadrannulate <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> species distributed in Primorsky Krai is an undescribed species. Primorsky Krai is located at the same latitude as Hokkaido, Japan. Clarifying the taxonomic status and phylogenetic position of <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> in Primorsky Krai will help to reveal the species diversity and the evolutionary history of the genus <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic>.</p>
+            <sec sec-type="Key to the known species of the genus Orobdella"><title>Key to the known species of the genus <tp:taxon-name>Orobdella</tp:taxon-name></title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">Mid-body somites more than quadrannulate</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Mid-body somites quadrannulate</td>
+                                <td rowspan="1" colspan="1">5</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">Mid-body somites sexannulate</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Mid-body somites octannulate</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella octonaria</tp:taxon-name></italic> Oka, 1895</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">Pharynx reaching to XVI</td>
+                                <td rowspan="1" colspan="1">4</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Pharynx reaching to XIV, gonopores separated by 1/2 + 7 + 1/2 annuli</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella ijimai</tp:taxon-name></italic> Oka, 1895</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">Gonopores separated by 8 annuli</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella dolichopharynx</tp:taxon-name></italic> Nakano, 2011</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Gonopores separated by 9 annuli</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella shimadae</tp:taxon-name></italic> Nakano, 2011</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">Color yellowish</td>
+                                <td rowspan="1" colspan="1">6</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Color grayish blue or brown</td>
+                                <td rowspan="1" colspan="1">7</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">Gonopores separated by 1/2 + 5 annuli, gastroporal duct bottle-shaped</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella tsushimensis</tp:taxon-name></italic> Nakano, 2011</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Gonopores separated by 1/2 + 4 + 1/2 annuli, gastroporal duct bulbiform</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella whimtani</tp:taxon-name></italic> Oka, 1895</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">Color grayish blue</td>
+                                <td rowspan="1" colspan="1">8</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Color brown, gonopores separated by 1/2 + 4 + 1/2 annuli</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella koikei</tp:taxon-name></italic> sp. n.</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">8</td>
+                                <td rowspan="1" colspan="1">Gonopores separated by 2/3 + 4 + 1/3 annuli, gastroporal duct tubular, but bulbous at junction with gastropore</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella esulcata</tp:taxon-name></italic> Nakano, 2010</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Gonopores separated by 6 annuli, gastroporal duct simple tubular</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic> Richardson, 1975</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The author is grateful to Naoki Koike and Naoyuki Nakahama for sending me valuable <italic><tp:taxon-name>Orobdella</tp:taxon-name></italic> specimens from Hokkaido, to Dr Hironori Komatsu (NSMT) for allowing me to examine the holotype of <italic><tp:taxon-name>Orobdella kawakatsuorum</tp:taxon-name></italic>, and to Professor Tsutomu Hikida (Kyoto University; KU) for his helpful comments and suggestions to improve this<!--PageBreak--> manuscript. I am also grateful to Dr Zainnudin Ramlah (UNIMAS) for permitting me to use the <italic><tp:taxon-name>Gastrostomobdella</tp:taxon-name></italic> specimen for molecular analyses, to Koshiro Eto, Masahiro Nishi (Amami Mongoosebusters), Dr Kanto Nishikawa (KU) and Taku Shimada (Ant Room) for providing specimens, to Dr Elizabeth Nakajima (KU) for checking the English of this text, to two anonymous reviewers and Dr Fredric R. Govedich (Southern Utah University) for their constructive comments for this manuscript, and to Eri Kawaguchi (KU) for her technical support. I also express my sincere thanks to Ekgachai Jeratthitikul, Nobuto Kikukawa and Kazuki Kurita for their help in collecting specimens in the field. This study was financially support in part by a Grant-in Aid for Biodiversity and Evolutionary Research of Global COE (A06) from MEXT, Japan, to Kyoto University.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Akaike</surname><given-names>H</given-names></name></person-group> (<year>1974</year>)<article-title> A new look at the statistical model identification.</article-title> <source>IEEE Transactions on Automatic Control </source> <volume>19</volume>: <fpage>716</fpage>-<lpage>723</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1109/TAC.1974.1100705" xlink:type="simple">doi: 10.1109/TAC.1974.1100705</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Altekar</surname><given-names>G</given-names></name><name name-style="western"><surname>Dwarkadas</surname><given-names>S</given-names></name><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name></person-group> (<year>2004</year>)<article-title> Parallel Metropolis coupled Markov chain Monte Carlo for Bayesian phylogenetic inference.</article-title> <source>Bioinformatics </source> <volume>20</volume>: <fpage>407</fpage>-<lpage>415</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btg427" xlink:type="simple">doi: 10.1093/bioinformatics/btg427</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blanchard</surname><given-names>R</given-names></name></person-group> (<year>1897</year>)<article-title> Hirudinées du Musée de Leyde.</article-title> <source>Notes from the Leyden Museum </source> <volume>19</volume>: <fpage>73</fpage>-<lpage>113</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Castresana</surname><given-names>J</given-names></name></person-group> (<year>2000</year>)<article-title> Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.</article-title> <source>Molecular Biology and Evolution </source> <volume>17</volume>: <fpage>540</fpage>-<lpage>552</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>DeSalle</surname><given-names>R</given-names></name><name name-style="western"><surname>Egan</surname><given-names>MG</given-names></name><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name></person-group> (<year>2005</year>)<article-title> The unholy trinitiy: taxonomy, species delimitation and DNA barcoding.</article-title> <source>Philosophical Transactions of the Royal Society of London B Biological Sciences </source> <volume>360</volume>: <fpage>1905</fpage>-<lpage>1916</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rstb.2005.1722" xlink:type="simple">doi: 10.1098/rstb.2005.1722</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Felsenstein</surname><given-names>J</given-names></name></person-group> (<year>1985</year>)<article-title> Confidence limits on phylogenies: an approach using the bootstrap.</article-title> <source>Evolution </source> <volume>39</volume>: <fpage>783</fpage>-<lpage>791</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2408678" xlink:type="simple">doi: 10.2307/2408678</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Folmer</surname><given-names>O</given-names></name><name name-style="western"><surname>Black</surname><given-names>M</given-names></name><name name-style="western"><surname>Hoeh</surname><given-names>W</given-names></name><name name-style="western"><surname>Lutz</surname><given-names>R</given-names></name><name name-style="western"><surname>Vrijenhoek</surname><given-names>R</given-names></name></person-group> (<year>1994</year>)<article-title> DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates.</article-title> <source>Molecular Marine Biology and Biotechnology </source> <volume>3</volume>: <fpage>294</fpage>-<lpage>299</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gilyarov</surname><given-names>MS</given-names></name><name name-style="western"><surname>Lukin</surname><given-names>EI</given-names></name><name name-style="western"><surname>Perel</surname><given-names>TS</given-names></name></person-group> (<year>1969</year>)<article-title> The first terrestrial leech in fauna of the USSR, <italic>Orobdella</italic> <italic>whitmani</italic> Oka (Hirudinea, Herpobdellidae), a Tertiary relict of forests of the southern Maritime Region.</article-title> <source>Doklady Akademii Nauk SSSR </source> <volume>188</volume>: <fpage>235</fpage>-<lpage>237</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hillis</surname><given-names>DM</given-names></name><name name-style="western"><surname>Bull</surname><given-names>JJ</given-names></name></person-group> (<year>1993</year>)<article-title> An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis.</article-title> <source>Systematic Biology </source> <volume>42</volume>: <fpage>182</fpage>-<lpage>192</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hofacker</surname><given-names>IL</given-names></name><name name-style="western"><surname>Fekete</surname><given-names>M</given-names></name><name name-style="western"><surname>Stadler</surname><given-names>PF</given-names></name></person-group> (<year>2002</year>)<article-title> Secondary structure prediction for aligned RNA sequences.</article-title> <source>Journal of Molecular Biology </source> <volume>319</volume>: <fpage>1059</fpage>-<lpage>1066</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0022-2836(02)00308-X" xlink:type="simple">doi: 10.1016/S0022-2836(02)00308-X</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name><name name-style="western"><surname>Nielsen</surname><given-names>R</given-names></name><name name-style="western"><surname>Bollback</surname><given-names>JP</given-names></name></person-group> (<year>2001</year>)<article-title> Bayesian inference of phylogeny and its impact on evolutionary biology.</article-title> <source>Science </source> <volume>294</volume>: <fpage>2310</fpage>-<lpage>2314</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1065889" xlink:type="simple">doi: 10.1126/science.1065889</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jobb</surname><given-names>G</given-names></name><name name-style="western"><surname>von Haeseler</surname><given-names>A</given-names></name><name name-style="western"><surname>Strimmer</surname><given-names>K</given-names></name></person-group> (<year>2004</year>)<source> TREEFINDER: a powerful graphical analysis environment for molecular phylogenetics. BMC Evolutionary Biology 4: 18. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2148-4-18" xlink:type="simple">doi: 10.1186/1471-2148-4-18</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Katoh</surname><given-names>K</given-names></name><name name-style="western"><surname>Toh</surname><given-names>H</given-names></name></person-group> (<year>2008</year>)<source> Improved accuracy of multiple ncRNA alignment by incorporating structural information into a MAFFT-based framework. BMC Bioinformatics 9: 212. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2105-9-212" xlink:type="simple">doi: 10.1186/1471-2105-9-212</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kimura</surname><given-names>M</given-names></name></person-group> (<year>1980</year>)<article-title> A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences.</article-title> <source>Journal of Molecular Evolution </source> <volume>16</volume>: <fpage>111</fpage>-<lpage>120</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF01731581" xlink:type="simple">doi: 10.1007/BF01731581</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Leaché</surname><given-names>AD</given-names></name><name name-style="western"><surname>Reeder</surname><given-names>TW</given-names></name></person-group> (<year>2002</year>)<article-title> Molecular systematics of the eastern fence lizard (<italic>Sceloporus</italic> <italic>undulatus</italic>): a comparison of parsimony, likelihood, and Bayesian approaches.</article-title> <source>Systematic Biology </source> <volume>51</volume>: <fpage>44</fpage>-<lpage>68</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/106351502753475871" xlink:type="simple">doi: 10.1080/106351502753475871</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCaskill</surname><given-names>JS</given-names></name></person-group> (<year>1990</year>)<article-title> The equilibrium partition function and base pair binding probabilities for RNA secondary structure.</article-title> <source>Biopolymers </source> <volume>29</volume>: <fpage>1105</fpage>-<lpage>1119</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/bip.360290621" xlink:type="simple">doi: 10.1002/bip.360290621</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<year>1927</year>)<article-title> The segmentation (metamerism and annulation) of the Hirudinea.</article-title> In: <person-group><name name-style="western"><surname>Harding</surname><given-names>WA</given-names></name><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<role>Eds</role>). <issue-title>The Fauna of British India, including Ceylon and Burma Hirudinea.</issue-title> <source>Taylor and Francis, London</source>: <fpage>1</fpage>-<lpage>12</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<year>1929</year>)<article-title> Leeches from Borneo with descriptions of new species.</article-title> <source>Proceedings of the Academy of Natural Sciences of Philadelphia </source> <volume>81</volume>: <fpage>267</fpage>-<lpage>295</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nakano</surname><given-names>T</given-names></name></person-group> (<year>2010</year>)<article-title> A new species of the genus <italic>Orobdella</italic> (Hirudinida: Arhynchobdellida: Gastrostomobdellidae) from Kumamoto, Japan, and a redescription of <italic>O</italic>. <italic>whitmani</italic> with the designation of the lectotype.</article-title> <source>Zoological Science </source> <volume>27</volume>: <fpage>880</fpage>-<lpage>887</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2108/zsj.27.880" xlink:type="simple">doi: 10.2108/zsj.27.880</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nakano</surname><given-names>T</given-names></name></person-group> (<year>2011a</year>)<article-title> A new species of <italic>Orobdella</italic> (Hirudinida: Arhynchobdellida: Gastrostomobdellidae) from Tsushima Island, Japan.</article-title> <source>Species Diversity </source> <volume>16</volume>: <fpage>39</fpage>-<lpage>47</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nakano</surname><given-names>T</given-names></name></person-group> (<year>2011b</year>)<article-title> Redescription of <italic>Orobdella</italic> <italic>ijimai</italic> (Hirudinida: Arhynchobdellida: Gastrostomobdellidae), and two new species of <italic>Orobdella</italic> from the Ryukyu Archipelago, Japan.</article-title> <source>Zootaxa </source> <volume>2998</volume>: <fpage>1</fpage>-<lpage>15</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nakano</surname><given-names>T</given-names></name><name name-style="western"><surname>Ramlah</surname><given-names>Z</given-names></name><name name-style="western"><surname>Hikida</surname><given-names>T</given-names></name></person-group> (<year>in press</year>)<source> Phylogenetic position of gastrostomobdellid leeches (Hirudinida, Arhynchobdellida, Erpobdelliformes) and a new family for the genus <italic>Orobdella</italic>. Zoologica Scripta. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1463-6409.2011.00506.x" xlink:type="simple">doi: 10.1111/j.1463-6409.2011.00506.x</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Okamoto</surname><given-names>T</given-names></name><name name-style="western"><surname>Motokawa</surname><given-names>J</given-names></name><name name-style="western"><surname>Toda</surname><given-names>M</given-names></name><name name-style="western"><surname>Hikida</surname><given-names>T</given-names></name></person-group> (<year>2006</year>)<article-title> Parapatric distribution of the lizards <italic>Plestiodon</italic> (formerly <italic>Eumeces</italic>) <italic>latiscutatus</italic> and <italic>P</italic>.</article-title> <source><italic>japonicus</italic> (Reptilia: Scinidae) around the Izu Peninsula, central Japan, and its biogeographic implications Zoological Science </source> <volume>23</volume>: <fpage>419</fpage>-<lpage>425</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2108/zsj.23.419" xlink:type="simple">doi: 10.2108/zsj.23.419</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pawłowski</surname><given-names>LK</given-names></name></person-group> (<year>1962</year>)<article-title> O występowaniu pijawki <italic>Erpobdella</italic> <italic>octoculata</italic> (L.) w Japonii.</article-title> <source>Zeszyty Naukowe Uniwersytetu Łódzkiego Nauki Matematiczno-przyrodnicze Seria II </source> <volume>12</volume>: <fpage>127</fpage>-<lpage>136</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name><name name-style="western"><surname>Drummond</surname><given-names>AJ</given-names></name></person-group> (<year>2009</year>)<source> Tracer. 1.5: http<ext-link ext-link-type="uri" xlink:href="://tree.bio.ed.ac.uk/software/tracer/" xlink:type="simple">://tree.bio.ed.ac.uk/software/tracer/</ext-link></source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Richardson</surname><given-names>LR</given-names></name></person-group> (<year>1975</year>)<article-title> A new species of terricolous leeches in Japan (Gastrostomobdellidae, <italic>Orobdella</italic>).</article-title> <source>Bulletin of the National Science Museum Series A (Zoology) </source> <volume>1</volume>: <fpage>39</fpage>-<lpage>56</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name></person-group> (<year>2003</year>)<article-title> MrBayes 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics </source> <volume>19</volume>: <fpage>1572</fpage>-<lpage>1574</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btg180" xlink:type="simple">doi: 10.1093/bioinformatics/btg180</ext-link></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sawyer</surname><given-names>RT</given-names></name></person-group> (<year>1986</year>)<source> Leech Biology and Behaviour.</source> <publisher-name>Clarendon Press</publisher-name>, <publisher-loc>Oxford</publisher-loc>, <lpage>1065</lpage> pp.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schwarz</surname><given-names>G</given-names></name></person-group> (<year>1978</year>)<article-title> Estimating the dimension of a model.</article-title> <source>The Annals of Statistics </source> <volume>6</volume>: <fpage>461</fpage>-<lpage>464</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1214/aos/1176344136" xlink:type="simple">doi: 10.1214/aos/1176344136</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tabei</surname><given-names>Y</given-names></name><name name-style="western"><surname>Kiryu</surname><given-names>H</given-names></name><name name-style="western"><surname>Kin</surname><given-names>T</given-names></name><name name-style="western"><surname>Asai</surname><given-names>K</given-names></name></person-group> (<year>2008</year>)<source> A fast structural multiple alignment method for long RNA sequences. BMC Bioinformatics 9: 33. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2105-9-33" xlink:type="simple">doi: 10.1186/1471-2105-9-33</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname><given-names>K</given-names></name><name name-style="western"><surname>Peterson</surname><given-names>D</given-names></name><name name-style="western"><surname>Peterson</surname><given-names>N</given-names></name><name name-style="western"><surname>Stecher</surname><given-names>G</given-names></name><name name-style="western"><surname>Nei</surname><given-names>M</given-names></name><name name-style="western"><surname>Kumar</surname><given-names>S</given-names></name></person-group> (<year>2011</year>)<article-title> MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods.</article-title> <source>Molecular Biology and Evolution </source> <volume>28</volume>: <fpage>2731</fpage>-<lpage>2739</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msr121" xlink:type="simple">doi: 10.1093/molbev/msr121</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tanabe</surname><given-names>AS</given-names></name></person-group> (<year>2008</year>)<source> Phylogears. 2.0: <ext-link ext-link-type="uri" xlink:href="http://www.fifthdimension.jp/" xlink:type="simple">http://www.fifthdimension.jp/</ext-link></source></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tanabe</surname><given-names>AS</given-names></name></person-group> (<year>2011</year>)<article-title> Kakusan4 and Aminosan: two programs for comparing nonpartitioned, proportional and separate models for combined molecular phylogenetic analyses of multilocus sequence data.</article-title> <source>Molecular Ecology Resources </source> <volume>11</volume>: <fpage>914</fpage>-<lpage>921</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1755-0998.2011.03021.x" xlink:type="simple">doi: 10.1111/j.1755-0998.2011.03021.x</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

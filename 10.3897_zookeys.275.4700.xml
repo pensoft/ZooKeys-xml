@@ -1,0 +1,506 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.275.4700</article-id>
+            <title-group>
+                <article-title>Description of a new species of 
+                    <italic>Distenia</italic> (Coleoptera, Disteniidae, Disteniini) from Southeastern China, with records and diagnoses of similar species
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bi</surname>
+                        <given-names>Wen-Xuan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:B53A211A-4D87-4478-8629-20DC127DA964</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lin</surname>
+                        <given-names>Mei-Ying</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:4725CAC1-80E0-442D-BAFD-D5723AE41B6B</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beichen West Road, Chaoyang Dist., Beijing, 100101, China
+            </aff>
+            <aff id="A2">
+                <label>2</label>Room 401, No. 2, Lane 155, Lianhua South Road, Shanghai, 201100 China
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Mei-Ying Lin (<email xlink:type="simple">linmeiying@ioz.ac.cn</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: S. Lingafelter</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>4</day>
+                <month>3</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>275</issue>
+            <fpage>77</fpage>
+            <lpage>89</lpage>
+            <history>
+                <date date-type="received">
+                    <day>17</day>
+                    <month>1</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>1</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Wen-Xuan Bi, Mei-Ying Lin</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:3BF23495-F804-4F63-B1C9-FD569153F1B5</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new species, <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> <bold>sp. n.</bold> is described from Southeastern China. It was misidentified as <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (Blessig, 1872) but can be separated from the latter by the color of antennae and legs, structure differences on scape, maxillary palp, pronotum, tibiae, punctures on elytra, etc. Three related species are carefully diagnosed and treated.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Distenia orientalis</italic>
+                </kwd>
+                <kwd>new species</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>Oriental region</kwd>
+                <kwd>Disteniidae
+<!--PageBreak--></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>During research on the fauna of Tianmushan, the first author, Wenxuan Bi, experienced difficulties with identification of <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (<italic>sensu</italic> <xref ref-type="bibr" rid="B5">Gressitt 1951</xref>; <xref ref-type="bibr" rid="B2">Chen et al. 1959</xref>). The fresh material he collected from Tianmushan of Zhejiang Province seems very different from that from Northeastern China and continental Russia. After studying further material from different localities, we conclude that there are three species among the specimens hitherto identified as <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>: <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (Blessig, 1872),<italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> Bates, 1873 and <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n.
+            </p>
+            <p>Material studied is deposited in the following institutions and private collections:</p>
+            <p><bold>CBWX</bold>	Collection of Wenxuan Bi, Shanghai, China
+            </p>
+            <p><bold>CCCC</bold>	Collection of Chang-chin Chen, Tianjin, China
+            </p>
+            <p><bold>CJM</bold>	Collection of Ming Jin, Shanghai, China
+            </p>
+            <p><bold>CYZZ</bold>	Collection of Zhizhou Yu, Shanghai, China
+            </p>
+            <p><bold>CZDY</bold>	Collection of Deyao Zhou, Shanghai, China
+            </p>
+            <p><bold>IZAS</bold>	Institute of Zoology, Chinese Academy of Sciences, Beijing, China
+            </p>
+            <p><bold>MD</bold>	Collection of Mikhail L. Danilevsky, Moscow, Russia
+            </p>
+            <p><bold>NHML</bold>	The Natural History Museum, London, UK
+            </p>
+            <p><bold>SNUC</bold>	The Insect Collection of Shanghai Normal University, Shanghai, China
+            </p>
+            <p><bold>ZMAS</bold>	Museum of Zoology, Academy of Sciences, Saint-Petersburg, Russia
+            </p>
+            <p><bold>ZMMU</bold>	Zoological Museum of Moscow University, Moscow, Russia
+            </p>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Distenia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">gracilis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Distenia_gracilis</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Blessig, 1872)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1</xref>
+                    <xref ref-type="fig" rid="F2"></xref>
+                    <xref ref-type="fig" rid="F3">–15</xref>
+                    <xref ref-type="fig" rid="F7">37–38</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Apheles gracilis</tp:taxon-name><comment> Blessig, 1872: 168, pl. VIII, fig. 1; Ganglbauer 1887: 131.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia gracilis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B8">Kraatz 1879</xref>: 91; <xref ref-type="bibr" rid="B13">Plavilstshikov 1936</xref>: 105, 492, fig. 70; <xref ref-type="bibr" rid="B5">Gressitt 1951</xref>: 45 [part]; <xref ref-type="bibr" rid="B2">Chen et al. 1959</xref>: 32, Pl. III, fig. 16 [part]; <xref ref-type="bibr" rid="B9">Lee 1987</xref>: 9, pl. I, fig. 1; <xref ref-type="bibr" rid="B14">Švácha and Danilevsky 1987</xref>: 38 [part]; <xref ref-type="bibr" rid="B3">Cherepanov 1990</xref>: 68; <xref ref-type="bibr" rid="B6">Hua 2002</xref>: 189 [part]; <xref ref-type="bibr" rid="B7">Hua et al. 2009</xref>: 448 [part]; <xref ref-type="bibr" rid="B10">Lin et al. 2010</xref>: 120 [part]; <xref ref-type="bibr" rid="B4">Danilevsky 2012</xref>: 902.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Host plant">
+                    <title>Host plant.</title>
+                    <p><italic><tp:taxon-name>Alnus</tp:taxon-name></italic> sp. (BETULACEAE), <italic><tp:taxon-name>Chosenia</tp:taxon-name></italic> sp. (SALICACEAE) (<xref ref-type="bibr" rid="B4">Danilevsky 2012</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>This species was first recorded from Northeastern China (Manchuria) by <xref ref-type="bibr" rid="B13">Plavilstshikov (1936)</xref>. <xref ref-type="bibr" rid="B5">Gressitt (1951)</xref> cited this information and added Zhejiang (Tianmushan) as a new locality, which was the first misidentification. Then, <xref ref-type="bibr" rid="B2">Chen et al. (1959)</xref> followed <xref ref-type="bibr" rid="B5">Gressitt (1951)</xref> and made a drawing based on specimens from Tianmushan, which misled subsequent Chinese longicornists to misidentify <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n. as <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>. Therefore, the record from Zhejiang and Jiangxi <!--PageBreak-->is incorrect, as it was based on misidentification of <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n. The records from Hubei and Anhui are doubtful and may also be based on misidentification of <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n. (or another species) but we did not have specimens available from these <!--PageBreak-->two provinces. Chou (2004) didn’t include <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> in his book on Taiwanese fauna. Records of <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> from Japan were based on misidentification of <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic>.
+                    </p>
+                    <p>We did not have specimens from Korea for study. We consider the record by Ganglbauer (1887) and <xref ref-type="bibr" rid="B9">Lee (1987)</xref> correct based on the pictures by <xref ref-type="bibr" rid="B9">Lee (1987)</xref>.
+                    </p>
+                    <p>The holotype of <italic><tp:taxon-name>Apheles gracilis</tp:taxon-name></italic> Blessig, 1872 is a male from Russia, Sibérie (Amurland), collected by P. Wulffius. It was supposed to be deposited in ZMAS. We could not reach the curators in ZMAS. According to personal communication by Mikhail Danilevsky, he could not find the type in the collection of ZMAS.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>North China (Heilongjiang, Jilin, Liaoning), Korea (including South Korea and North Korea), Russia (Far East).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Specimens examined">
+                    <title>Specimens examined.</title>
+                    <p><bold>China, Liaoning:</bold> 2 females, Benxi, Guanmenshan, 2011.VIII.21, coll. Xinlei Huang (IZAS); 1 male 1 female, Dandong, Saima, Wendong, 2006.IX.1, 3, coll. Haicheng Shan (IZAS, ex CCCC); 2 males, Dandong, Saima, Pushihe, 2008.VII.30, coll. Haicheng Shan (CBWX).
+                    </p>
+                    <p><bold>Russia, Far East:</bold> 1 male, Arsenyev env., <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44°7'27&quot;N, 133°20'00&quot;E</named-content>, 2007.VII.21, coll. S. Ivanov (MD); 1 male, Primorie Reg., Chernigovka distr., Merkushevka Env., <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44°22'2.52&quot;N, 132°48'0.42&quot;E</named-content>, 2011.VII.28–30, coll. S. Ivanov (MD).
+                    </p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figures 1–4.</label>
+                        <caption><p><italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (Blessig, 1872). <bold>1</bold> male, from Far East Russia <bold>2</bold> female, from Far East Russia <bold>3</bold> male, from Liaoning, China <bold>a</bold> dorsal view <bold>b</bold> ventral view <bold>4</bold> female, from Liaoning, China. Scale 5 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figures 5–11.</label>
+                        <caption><p>Genitalia of <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (Blessig, 1872). <bold>5–9</bold> male, from Far East Russia <bold>5</bold> median lobe <bold>6</bold> rods of endophallus <bold>7</bold> hair-like thin rod of ejaculatory duct <bold>8</bold> tegmen <bold>a</bold> ventral view <bold>b</bold> lateral view. <bold>c</bold> dorsal view <bold>9</bold> tergite VIII in dorsal view <bold>10–11</bold> female, spermathecal capsule, both from Liaoning, China. <bold>A–B</bold> from different sides. Scale 1 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figures 12–15.</label>
+                        <caption><p>Genitalia of <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (Blessig, 1872), male, from Liaoning, China <bold>12</bold> median lobe <bold>13</bold> rods of endophallus, including hair-like thin rod of ejaculatory duct <bold>14</bold> tegmen <bold>a</bold> ventral view <bold>b</bold> lateral view <bold>c</bold> dorsal view <bold>15</bold> tergite VIII in dorsal view. Scale 1 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Distenia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">japonica</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Distenia_japonica</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Bates, 1873</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F4">Figs 16</xref>
+                    <xref ref-type="fig" rid="F5">–24</xref>
+                    <xref ref-type="fig" rid="F8">39–40</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia japonica</tp:taxon-name><comment> Bates, 1873: 155.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia gracilis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B8">Kraatz 1879</xref>: 91; <xref ref-type="bibr" rid="B14">Švácha and Danilevsky 1987</xref>: 38 [part]; <xref ref-type="bibr" rid="B10">Lin et al. 2010</xref>: 120 [part].</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia gracilis gracilis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B12">Ohbayashi and Niisato 2007</xref>: 335, pl. 1, figs 1 (male) &amp; 2 (female) [Fauna].</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia japonica</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B4">Danilevsky 2012</xref>: 902.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Host plant">
+                    <title>Host plant.</title>
+                    <p>It is polyphagous with the following host plants recorded under <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (confused with <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic>): <italic><tp:taxon-name>Acer</tp:taxon-name></italic> sp. (ACERACEAE), <italic><tp:taxon-name>Abies sachalinensis</tp:taxon-name></italic> Masters (PINACEAE), <italic><tp:taxon-name>Alnus</tp:taxon-name></italic> sp. (BETULACEAE), <italic><tp:taxon-name>Betula</tp:taxon-name></italic> sp. (BETULACEAE), <italic><tp:taxon-name>Chosenia</tp:taxon-name></italic> sp. (SALICACEAE), <italic><tp:taxon-name>Picea</tp:taxon-name></italic> sp. (PINACEAE), <italic><tp:taxon-name>Pinus</tp:taxon-name></italic> sp. (PINACEAE), <italic><tp:taxon-name>Quercus</tp:taxon-name></italic> sp. (FAGACEAE), <italic><tp:taxon-name>Salix</tp:taxon-name></italic> sp. (SALICACEAE), <italic><tp:taxon-name>Ulmus</tp:taxon-name></italic> sp. (ULMACEAE).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>According to <xref ref-type="bibr" rid="B4">Danilevsky (2012)</xref>, <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> Blessig, 1872 (mainland and Sakhalin) and <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> Bates, 1873 (islands) are different vicariant species, very easily distinguished by narrow scapus in <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic>. Further differences are shown in <xref ref-type="table" rid="T1">Table 1</xref>.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>This species was first described by <xref ref-type="bibr" rid="B1">Bates (1873)</xref> based on syntypes from Japan, Honshu (Hyogo Prefecture), Maiyasan, collected by George Lewis. <xref ref-type="bibr" rid="B8">Kraatz (1879)</xref> synonymized it with <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>, which was widely followed by subsequent authors until <xref ref-type="bibr" rid="B4">Danilevsky (2012)</xref> resurrected it.
+                    </p>
+                    <p><xref ref-type="bibr" rid="B14">Švácha and Danilevsky (1987)</xref> pointed out the habit differences between the mailand population and island population, and suspected “it is possible that we are facing two separate taxa”. “However, reliable larval morphological differences have <!--PageBreak-->not been found.” (<xref ref-type="bibr" rid="B14">Švácha and Danilevsky 1987</xref>). According to <xref ref-type="bibr" rid="B4">Danilevsky (2012)</xref>, <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> (mainland and Sakhalin) develops underground on healthy roots of living <italic><tp:taxon-name>Chosenia</tp:taxon-name></italic> (personal observation in Kedrovaya Pad) and on <italic><tp:taxon-name>Alnus</tp:taxon-name></italic>, but <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> lives under the old dead bark of many different trees (personal observation on Kunashir), often together with <italic><tp:taxon-name>Eutetrapha</tp:taxon-name></italic>. Therefore, the host plants recorded under <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> could actually be host plants of <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic>.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>Japan, Russia (Far East, Islands).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Specimens examined">
+                    <title>Specimens examined.</title>
+                    <p><bold>Japan:</bold> 1 male, syntype, Japan (NHML, ex collection G. Lewis, examined through pictures); 1 male, Japan, Iwate Prefecture, Niisato-mura, Genbeidaira, 1982.VII.31, coll. N. Ohbayashi (CBWX); 1 female, Japon, Iwate Prefecture, Niisato-mura, Genbeidaira, 1982.VII.31, coll. N. Ohbayashi (CBWX); 1 male 1 female, Kyoto, Kibone, 1932.VII.1, coll. S. Yie (IZAS); 1 female, Tokushima, Mt. Tsurugi, 1971.VII.11, coll. H. Toshima (IZAS); 1 female, Tottori Pref., Mt. Hokki-Daisan, 1958.VII.22, coll. H. Toshima (IZAS).
+                    </p>
+                    <table-wrap position="float" orientation="portrait" id="T1">
+                        <label>Table 1.</label>
+                        <caption><p>Differences of <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>, <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> and <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n.</p>
+                        </caption>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1">Species / Character</th>
+                                    <th rowspan="1" colspan="1"><italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n.
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Antennal segment extending beyond tip of elytra</td>
+                                    <td rowspan="1" colspan="1">in male 8<sup>th</sup>, in female 9<sup>th</sup>
+                                    </td>
+                                    <td rowspan="1" colspan="1">in male 8<sup>th</sup>, in female 9<sup>th</sup>
+                                    </td>
+                                    <td rowspan="1" colspan="1">in male 7<sup>th</sup>, in female 8<sup>th</sup>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Color of antennae and legs </td>
+                                    <td rowspan="1" colspan="1">uniformly black-brown</td>
+                                    <td rowspan="1" colspan="1">Uniformly brown</td>
+                                    <td rowspan="1" colspan="1">Mostly black-brown, with several orange-red rings </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scape in male</td>
+                                    <td rowspan="1" colspan="1">With basal grooves, punctures coarser</td>
+                                    <td rowspan="1" colspan="1">With basal grooves, punctures finer</td>
+                                    <td rowspan="1" colspan="1">Without basal grooves, with rugose punctures</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scape length / maximum width</td>
+                                    <td rowspan="1" colspan="1">ca.3.0 in male, ca. 2.8 in female</td>
+                                    <td rowspan="1" colspan="1">ca.3.5 in male, ca. 3.0 in female</td>
+                                    <td rowspan="1" colspan="1">ca.3.1 in male, ca. 3.4 in female</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Last segment of maxillary palp</td>
+                                    <td rowspan="1" colspan="1">Stouter, length / maximum width &lt; 2.5 in male, &lt; 2.6 in female (Figs 37a, 38a)</td>
+                                    <td rowspan="1" colspan="1">Stoutest, length / maximum width &lt; 2.1 in male, &lt; 2.4 in female (Figs 39a, 40a)</td>
+                                    <td rowspan="1" colspan="1">Slender, length / maximum width &gt; 2.5 in male, &gt; 3.0 in female (Figs 41a, 42a)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Pronotum </td>
+                                    <td rowspan="1" colspan="1">Without transverse rugae, swelling indistinct (Figs 37c, 38c)</td>
+                                    <td rowspan="1" colspan="1">Without transverse rugae, swelling more distinct (Figs 39c, 40c)</td>
+                                    <td rowspan="1" colspan="1">With some transverse rugae (Figs 41c, 42c)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Mosotibiae of male</td>
+                                    <td rowspan="1" colspan="1">Apical protruding lobe very distinct (Fig. 37f )</td>
+                                    <td rowspan="1" colspan="1">Apical protruding lobe distinct (Fig. 39f)</td>
+                                    <td rowspan="1" colspan="1">Without apical protruding lobe (Fig. 41f)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Punctures on elytra</td>
+                                    <td rowspan="1" colspan="1">With distinct longitudinal rows, the row near suture not very dense (Figs 37d, 38d)</td>
+                                    <td rowspan="1" colspan="1">With distinct longitudinal rows, the row near suture very dense (Figs 39d, 40d)</td>
+                                    <td rowspan="1" colspan="1">Longitudinal rows indistinct, the row near suture very sparse (Figs 41d, 42d)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Sternite VII (ventrite V)</td>
+                                    <td rowspan="1" colspan="1">Figs 37e, 38e</td>
+                                    <td rowspan="1" colspan="1">Figs 39e, 40e</td>
+                                    <td rowspan="1" colspan="1">Figs 41e, 42e</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Median lobe</td>
+                                    <td rowspan="1" colspan="1">Figs 5, 12</td>
+                                    <td rowspan="1" colspan="1">Figs 19</td>
+                                    <td rowspan="1" colspan="1">Figs 29</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Spermathecal capsule</td>
+                                    <td rowspan="1" colspan="1">Figs 10–11</td>
+                                    <td rowspan="1" colspan="1">Figs 24</td>
+                                    <td rowspan="1" colspan="1">Figs 34–36</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figures 16–18.</label>
+                        <caption><p><italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> Bates, 1873. <bold>16</bold> male, from Iwate, Japan <bold>17</bold> syntype, male, from Hyogo, Japan <bold>18</bold> female, from Iwate, Japan <bold>a</bold> dorsal view <bold>b</bold> ventral view. Scale 5 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figures 19–24.</label>
+                        <caption><p>Genitalia of <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> Bates, 1873. <bold>19–23</bold> male, from Kyoto, Japan <bold>19</bold> median lobe <bold>20</bold> rods of endophallus <bold>21</bold> hair-like thin rod of ejaculatory duct <bold>22</bold> tegmen. <bold>a</bold> ventral view <bold>b</bold> lateral view <bold>c</bold> dorsal view <bold>23</bold> tergite VIII in dorsal view <bold>24</bold> female, spermathecal capsule, from Kyoto, Japan. <bold>A–B</bold> from different sides. Scale 1 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Distenia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">japonica</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="subspecies">yakushimana</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Distenia_japonica_yakushimana</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Yokoyama, 1966</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia gracilis yakushimana</tp:taxon-name><comment> Yokoyama, 1966: 54, pl. 6, fig. 1.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia gracilis yakushimana</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B12">Ohbayashi and Niisato 2007</xref>: 336, pl. 1, fig. 3 (male) [Fauna].</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia japonica yakushimana</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B4">Danilevsky 2012</xref>: 902.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>According to <xref ref-type="bibr" rid="B15">Yokoyama (1966)</xref>: “This subspecies differs from the typical species (<italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic>), in having the following points: body smaller and more blackish, sparsely covered with shorter brownish yellow pubescence, which is sparser on head and prothorax. Clypeus longer, vertex less punctured. Prothorax weakly irregularly wrinkled, lateral tubercles less developed, not acute at apex. Terminal joint of maxillary palpus rounded at apex (instead of truncate).”
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>This subspecies was described based on the female holotype from Japan, Ryukyu island, Mt. Miyanouradake (alt. 1200 m), collected by Hajime Yokoyama on August 3, 1962. It is deposited in Osaka Museum of Natural History. We did not examine the holotype or other specimens but followed <xref ref-type="bibr" rid="B12">Ohbayashi and Niisato (2007)</xref> and <xref ref-type="bibr" rid="B4">Danilevsky (2012)</xref> in treating this form as a subspecies.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>Japan (Yaku-shima).</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Distenia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">orientalis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:14814F4C-97D8-4C2C-9125-7AA5DEDACFA6</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Distenia_orientalis</object-id>
+								</tp:taxon-name>
+								<tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F6">Figs 25</xref>
+                    <xref ref-type="fig" rid="F7">–36</xref>
+                    <xref ref-type="fig" rid="F8">41–42</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Distenia gracilis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B5">Gressitt 1951</xref>: 45 [part]; <xref ref-type="bibr" rid="B2">Chen et al. 1959</xref>: 32, Pl. III, fig. 16; <xref ref-type="bibr" rid="B6">Hua 2002</xref>: 189 [part]; <xref ref-type="bibr" rid="B7">Hua et al. 2009</xref>: 448 [part]; <xref ref-type="bibr" rid="B10">Lin et al. 2010</xref>: 120 [part].</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Male: body length 18.7–25.5 mm, width at humeri 4.0–6.0 mm. Female: body length 22.0–26.6 mm, width at humeri 5.0–6.5 mm. Body uniformly black-brown, with rusty tinge (especially in male), except bases of tibiae (about 1/3 to 1/2), tips of antennal segments IV-XI (increasing from IV to XI), and extreme tips of last segments of maxillary and labial palps which are reddish-brown, and ventral side of tarsi and base of mandible being brown.</p>
+                    <p>Body elongate, slender. Head with dense rugose punctures, with mouthparts turned forward and somewhat downward. Last segment of maxillary palp expanded and obliquely truncate apically. Frons between eyes with narrow interrupted longitudinal suture. Antennae long; scape very thick in male and more slender in female, without a groove on basal half, in male with coarse rugose punctures (<xref ref-type="fig" rid="F8">Fig. 41a</xref>), in female not rugose but with finer punctures (<xref ref-type="fig" rid="F8">Fig. 42a</xref>); scape not reaching midlength of pronotum in either sex; pedicel very small; subsequent segments slender; in male 7<sup>th</sup>, in female 8<sup>th</sup> segment extends beyond tip of elytra; antennal segments with recumbent long hairs beneath. The relative length of antennal segments, male: 10.6:1:12.9:13.2:13.1:12.5:11.9:11.1:9.7:8.7:8.8 (variable in narrow range); female: 9.9:1:10.2:10.3:10.3:10.1:9.5:8.5:7.4:6.5:6.3 (variable in narrow range).
+                    </p>
+                    <p>Pronotum broadest in middle, with acute conical lateral spines, near posterior and anterior margins with slight transverse constriction, with rugae on disc, and with dense minute punctures and dense gray pubescence. Scutellum not longer than width at base, apically rounded, with yellowish pubescence.</p>
+                    <p>Elytra narrow, taper uniformly toward apex, length 3.0–3.4 times the total width at humeri, and anterior half with deep punctures forming several indistinct longitudinal rows. Abdominal ventrite V in female (<xref ref-type="fig" rid="F6">Figs 26b</xref>, <xref ref-type="fig" rid="F7">34d</xref>) elongate, gently rounded posteriorly; in male (<xref ref-type="fig" rid="F6">Figs 28b</xref>, <xref ref-type="fig" rid="F7">33d</xref>) distinctly emarginate, with minute tender closely recumbent hairs. Legs long and slender, mesotibiae (of both male and female) without apical protruding lobe.
+                    </p>
+                    <p><bold>Male terminalia</bold> (<xref ref-type="fig" rid="F7">Figs 29–33</xref>)<bold>:</bold> Tegmen (<xref ref-type="fig" rid="F7">Fig. 32</xref>) approximately 5.0 mm in length; lateral lobes slender, length about 5 times the width, ventral side and apex with short setae; median lobe plus median struts (<xref ref-type="fig" rid="F7">Fig. 29</xref>) slightly curved, longer than tegmen; the median struts less than 1/8 of the whole median lobe in length; apex of ventral plate bluntly pointed; internal sac bearing a basal armature (<xref ref-type="fig" rid="F7">Fig. 29b</xref>) and two median rods of endophallus (<xref ref-type="fig" rid="F7">Figs 30, 31</xref>), of which the strongly sclerotized one (coming from the gonopore) connected to a very long (much longer than the median rods) hair-like rod (inside ejaculatory duct, <xref ref-type="fig" rid="F7">Fig. 30</xref>). Tergite VIII (<xref ref-type="fig" rid="F7">Fig. 33</xref>) longer than broad, narrowed apically from middle, with rounded apex, apical half bearing short dorsal setae.
+                    </p>
+                    <p><!--PageBreak--><bold>Female terminalia</bold> (<xref ref-type="fig" rid="F7">Figs 34</xref>–36)<bold>:</bold> Paraproct moderate in size, its baculi thick and long, straight and not bifurcate at base; valvifer indistinct; coxite with rough surface, each baculum very thick at base and narrowed towards apex; coxite lobes sclerotized <!--PageBreak-->at each inner part, with tactile hairs; stylus articulated to the tip of each coxite lobe (slightly laterally), sclerotized except for apex and bearing tactile hairs; dorsal baculi sinuate and longer than paraproct baculi; proctiger baculi long and almost straight. Spermathecal capsule (<xref ref-type="fig" rid="F7">Figs 34</xref>–36) large, heavily sclerotized and of very intricate structure, its apical part narrow, strongly bent at middle and basally with a protrusion (in shape of a question mark “?”), basal part irregularly twisted and with rather broad protrusion to which attaches the spermathecal gland at the middle part. Tignum much shorter than half of abdomen. In one measured specimen, tignum was 4.4 mm for an adult with 12.0 mm abdomen length in ventral view.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>The differences of the three species are shown in <xref ref-type="table" rid="T1">Table 1</xref>.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>The name of the new species refers to its distribution in southeast China, instead of northeast China (which is the distribution of <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>This species has been misidentified as <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic> since<xref ref-type="bibr" rid="B5">Gressitt (1951)</xref>.
+                    </p>
+                    <p>It is the 29<sup>th</sup> recorded species for the Chinese <tp:taxon-name>Disteniidae</tp:taxon-name> fauna (<xref ref-type="bibr" rid="B10">Lin et al. 2010</xref>; <xref ref-type="bibr" rid="B11">Lin and Murzin 2012</xref>).
+                    </p>
+                    <p>One female from Mt. Wutaishan of Shanxi Province shows a strange dot on the distributional map. We believe that the distribution region will be extended after further survey.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>China: Zhejiang Prov., Fujian Prov., Guangdong Prov., Jiangxi Prov., Shanxi Prov.</p>
+                    <!--PageBreak-->
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Specimens examined">
+                    <title>Specimens examined.</title>
+                    <p><bold>Holotype</bold>, male, Zhejiang, Xitianmushan, alt. 1200 m, 2008.VII.2, coll. Hao Huang (SNUC, ex CBWX). <bold>Paratypes: China, Zhejiang:</bold> 1 male, Xitianmushan, alt. 1300 m, 2009.IV.19 (larva), 2009.V.14 (adult), coll. Wenxuan Bi (CBWX); 1 male, Xitianmushan, alt. 1100 m, 2008.III.1 (larva), 2008.V.27 (adult), coll. Wenxuan Bi (CBWX); 1 female, Tianmushan nature reserve, alt. 1100 m, 2008.VII.30, coll. Yongxiang Wu (CJM); 1 female, China, Chekiang, Tien-mu-shan, 1937.VI.30, coll. E. Surnson (ZMMU); 1 female, Xitianmushan, alt. 1000m, 2012.VII.11, coll. Deyao Zhou (CZDY); 1 female, Tienmushan, 1937.VIII.3 (IZAS, IOZ(E)1859289); 2 males, same data (IZAS, IOZ(E)1859290-91); 2 males, same data but 1937.VIII.4 (IZAS, IOZ(E)1859292-93); 1 male, same data but 1937.VII.21 (IZAS, IOZ(E)1859288); 1 female, Longquan, Fengyangshan, Lu'ao village, alt. 1100 m, 2008.VII.31, coll. Wenxuan Bi (CBWX); Qingyuan county, Baishanzu nature reserve, alt. 1000 m, 2009.VII.25-VIII.5, coll. Zhizhou Yu (CYZZ). <bold>China, Fujian:</bold> 1 male, Chong’an, Sangang, 1979.VIII.14 (IZAS, IOZ(E)1859287); 1 male, Fujian, Wuyishan nature reserve, 2009.VII.10–15. coll. Ming Jin (CJM). <bold>China, Jiangxi:</bold> 1 female, Wuyishan nature reserve, Yejiachang station, alt. 900 m, 2004.VIII.2 (CCCC). <bold>China, Guangdong:</bold> 1 female, Ruyuan county, Nanling nature reserve, 2008-2009, coll. Lei Gao (CCCC).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimen examined">
+                    <title>Additional specimen examined.</title>
+                    <p><bold>China, Shanxi:</bold> 1 female, Wutaishan, alt. 2000 m, 1996.VII.17, coll. Wenzhu Li (IZAS, IOZ(E)1859062).
+                    </p>
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figures 25–28.</label>
+                        <caption><p><italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n. <bold>25</bold> holotype, male, from Xitianmushan, Zhejiang, China <bold>26</bold> paratype, female, from Tianmushan, Zhejiang, China <bold>27</bold> paratype, female, from Fengyangshan, Zhejiang, China <bold>28</bold> paratype, male, from Wuyishan, Fujian, China <bold>a</bold> dorsal view <bold>b</bold> ventral view. Scale 5 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figures 29–36.</label>
+                        <caption><p>Genitalia of <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n. <bold>29–33</bold> male, from Xitianmushan, Zhejiang, China <bold>29</bold> median lobe <bold>30</bold> rods of endophallus and hair-like thin rod of ejaculatory duct <bold>31</bold> whole median lobe, showing the position of rods of endophallus, not to scale <bold>32</bold> tegmen <bold>a</bold> ventral view <bold>b</bold> lateral view <bold>c</bold> dorsal view <bold>33</bold> tergite VIII in dorsal view <bold>34–36</bold> female, spermathecal capsule <bold>35</bold> from Fengyangshan, Zhejiang, China <bold>34</bold> &amp; <bold>36</bold> from Tianmushan, Zhejiang, China. <bold>A</bold> &amp; <bold>B</bold> from different sides. Scale 1 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figures 37–42.</label>
+                        <caption><p>Six important characters of <italic><tp:taxon-name>Distenia</tp:taxon-name></italic> spp. not to scale. <bold>37–38</bold> <italic><tp:taxon-name>Distenia gracilis</tp:taxon-name></italic>. <bold>37</bold> male from Far East, Russia <bold>38</bold> female from Liaoning, China <bold>39–40</bold> <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> <bold>39</bold> male from Kyoto, Japan <bold>40</bold> female from Kyoto, Japan <bold>41–42</bold> <italic><tp:taxon-name>Distenia orientalis</tp:taxon-name></italic> sp. n. <bold>41</bold> male from Tianmushan, China <bold>42</bold> female from Tianmushan, China <bold>a</bold> last segment of maxillary palp, showing the tip and the ration of length to width <bold>b</bold> scape <bold>c</bold> pronotum <bold>d</bold> basal part of elytron <bold>e</bold> ventrite V <bold>f</bold> mesotibia of male, showing the apical protruding lobe.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-275-077-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We wish to express our sincere thanks to Yulong Lin (Taiwan, China) for the meaningful discussion at the beginning of this research, to Steven W. Lingafelter (National Museum of Natural History, Smithsonian Institution, Washington, USA), Mikhail Danilevsky (IEER) and Michiaki Hasegawa (Toyohashi Museum of Natural History, Aichi, Japan) for improving this manuscript. Our special thanks are due to Alexey Gusakov (ZMMU), Changchin Chen (CCCC), Deyao Zhou (CZDY) and Zhizhou Yu (CYZZ) for giving us the permission to use the related collections and for providing material and information. We thank Paul Hurst and Sharon L. Shute (NHML) for taking the syntype pictures of <italic><tp:taxon-name>Distenia japonica</tp:taxon-name></italic> Bates for us, and thank Wenzhu Li (IZAS) for making the pictures of maxillary palpi and mesotibiae. Special thanks are due to Jennifer Hammock and Steven W. Lingafelter (Smithsonian Institution, National Museum of Natural History, Washington, USA) for their kindly improving the English. This research was supported by a grant (No. O529YX5105) from the Key Laboratory of the Zoological Systematics and Evolution of the Chinese Academy of Sciences, and by NSFC program J1210002 and 31000967.
+            </p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bates</surname> <given-names>HW</given-names></name></person-group> (<year>1873</year>)<source> On the Longicorn Coleoptera of Japan. The Annals and Magazine of Natural History, London (4) 12(68): 148–156.</source></mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Chen</surname> <given-names>S</given-names></name><name name-style="western"><surname>Xie</surname> <given-names>YZ</given-names></name><name name-style="western"><surname>Deng</surname> <given-names>GF</given-names></name></person-group> (<year>1959</year>)<source> Economic insect fauna of China Vol.</source> <publisher-name>I Coleoptera: Cerambycidae. Science Press</publisher-name>, <publisher-loc>Beijing</publisher-loc>, <lpage>120</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cherepanov</surname> <given-names>AI</given-names></name></person-group> (<year>1990</year>)<source> Cerambycidae of Northern Asia, volume 1, Prioninae, Disteniinae, Lepturinae, Aseminae.</source> <publisher-name>Pauls Press</publisher-name>, <publisher-loc>New Delhi</publisher-loc>, <lpage>642</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Danilevsky</surname> <given-names>ML</given-names></name></person-group> (<year>2012</year>)<article-title> Additions and corrections to the new Catalogue of Palaearctic Cerambycidae (Coleoptera) edited by I. Löbl and A. Smetana, 2010. Part. VI. Humanity Space.</article-title> <source>International Almanac </source> <volume>1</volume> (<issue>4</issue>): <fpage>900</fpage>-<lpage>943</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gressitt</surname> <given-names>JL</given-names></name></person-group> (<year>1951</year>)<source> Longicornia Volume II: Longicorn Beetles of China.</source> <publisher-name>Paul Lechevalier</publisher-name>, <publisher-loc>Paris</publisher-loc>, <lpage>667</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hua</surname> <given-names>LZ</given-names></name></person-group> (<year>2002</year>)<source> List of Chinese Insects Vol.</source> <publisher-name>II. Zhongshan (Sun Yat-sen) University Press</publisher-name>, <publisher-loc>Guangzhou</publisher-loc>, <lpage>612</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hua</surname> <given-names>LZ</given-names></name><name name-style="western"><surname>Nara</surname> <given-names>H</given-names></name><name name-style="western"><surname>Samuelson</surname> <given-names>GA</given-names></name><name name-style="western"><surname>Lingafelter</surname> <given-names>SW</given-names></name></person-group> (<year>2009</year>)<source> Iconography of Chinese Longicorn Beetles (1406 Species) in Color.</source> <publisher-name>Series Publications of Museum of Biology Sun Yat-sen University. Sun Yat-sen University Press</publisher-name>, <publisher-loc>Guangzhou</publisher-loc>, <lpage>474</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kraatz</surname> <given-names>G.</given-names></name></person-group> (<year>1879</year>)<article-title> Ueber die Bockkäfer Ost-Sibiriens, namentlich die von Christoph am Amur gesammelten.</article-title> <source>Deutsche entomologische Zeitschrift </source> <volume>23</volume> (<issue>1</issue>): <fpage>77</fpage>-<lpage>117</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lee</surname> <given-names>SM</given-names></name></person-group> (<year>1987</year>)<source> The Longicorn Beetles of Korean Peninsula.</source> <publisher-name>National Science Museum, Seoul</publisher-name>, <publisher-loc>Korea</publisher-loc>, <lpage>287</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lin</surname> <given-names>MY</given-names></name><name name-style="western"><surname>Liu</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Bi</surname> <given-names>WX</given-names></name></person-group> (<year>2010</year>)<article-title> Newly recorded species of Disteniidae (Coleoptera) from China, with a catalogue of Chinese Disteniidae.</article-title> <source>Entomotaxonomia </source> <volume>32</volume> (<issue>2</issue>): <fpage>116</fpage>-<lpage>128</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lin</surname> <given-names>MY</given-names></name><name name-style="western"><surname>Murzin</surname> <given-names>SV</given-names></name></person-group> (<year>2012</year>)<article-title> A study on the apterous genus <italic>Clytomelegena</italic> Pic, 1928 (Coleoptera, Disteniidae).</article-title> <source>ZooKeys </source> <volume>216</volume>: <fpage>13</fpage>-<lpage>21</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.216.3769" xlink:type="simple">10.3897/zookeys.216.3769</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ohbayashi</surname> <given-names>N</given-names></name><name name-style="western"><surname>Niisato</surname> <given-names>T</given-names></name></person-group> (<year>2007</year>)<source> Longicorn Beetles of Japan.</source> <publisher-name>Tokai University Press</publisher-name>, <publisher-loc>Kanagawa</publisher-loc>, <lpage>818</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Plavilstshikov</surname> <given-names>NN</given-names></name></person-group> (<year>1936</year>)<article-title> Faune de l'URSS. Insectes Coléoptères. Cerambycidae (P. 1). Moscou–Leningrad.</article-title> <source>Fauna SSSR </source> <volume>21</volume> (<issue>1</issue>): <fpage>1</fpage>-<lpage>611</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Švácha</surname> <given-names>P</given-names></name><name name-style="western"><surname>Danilevsky</surname> <given-names>ML</given-names></name></person-group> (<year>1987</year>)<article-title> Cerambycoid larvae of Europe and Soviet Union (Coleoptera, Cerambycoidea). Part I.</article-title> <source>Acta Universitatis Carolinae (Biologica) </source> <volume>30</volume>: <fpage>1</fpage>-<lpage>176</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yokoyama</surname> <given-names>H</given-names></name></person-group> (<year>1966</year>)<article-title> The Cerambycidae from Ryukyu and Satsunan Islands, I. (Coleoptera).</article-title> <source>The Entomological Review of Japan </source> <volume>18</volume> (<issue>2</issue>): <fpage>54</fpage>-<lpage>59</lpage>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,506 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.104.906</article-id>
+            <title-group>
+                <article-title>Key to the Tribes and Genera of Deltocephaline Leafhoppers (Auchenorrhyncha, Hemiptera, Cicadellidae) of Pakistan</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Khatri</surname>
+                        <given-names>Imran</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"/>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Rustamani</surname>
+                        <given-names>Maqsood Anwar</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"/>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label/>Department of Entomology Sindh Agriculture University Tando Jam, Pakistan
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Imran Khatri (<email xlink:type="simple">imrankhatri.agri@gmail.com</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Mick Webb</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>6</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>104</issue>
+            <fpage>67</fpage>
+            <lpage>76</lpage>
+            <history>
+                <date date-type="received">
+                    <day>13</day>
+                    <month>1</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>28</day>
+                    <month>4</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Imran Khatri, Maqsood Anwar Rustamani</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>A key with accompanying figures is provided for the 14 tribes and 35 genera of <tp:taxon-name>Deltocephalinae</tp:taxon-name> (<tp:taxon-name>Cicadellidae</tp:taxon-name>) from Pakistan.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Deltocephalinae</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>morphology</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><tp:taxon-name>Deltocephalinae</tp:taxon-name> is the largest and most diverse subfamily of <tp:taxon-name>Cicadellidae</tp:taxon-name> with 6200 described species placed in over 850 genera (<xref ref-type="bibr" rid="B20">McKamey, in press</xref>), in 36 tribes (<xref ref-type="bibr" rid="B33">Zahniser and Dietrich 2010</xref>). Members of the subfamily are also important vectors of plant diseases (<xref ref-type="bibr" rid="B30">Weintraub and Beanland 2006</xref>) and account for 117 of the 151 cicadellid vector species listed by <xref ref-type="bibr" rid="B21">Nielson (1968)</xref>.</p>
+            <p>Early leafhopper taxonomic work in Pakistan (from 1960 onwards) focused on <tp:taxon-name>Typhlocybinae</tp:taxon-name>. Work on <tp:taxon-name>Deltocephalinae</tp:taxon-name> was scattered in various publications (<xref ref-type="bibr" rid="B1">Ahmed 1986</xref>, <xref ref-type="bibr" rid="B2">Ahmed and Aziz 1988</xref>, <xref ref-type="bibr" rid="B4">Ahmed and Rao 1986</xref>, <xref ref-type="bibr" rid="B3">Ahmed et al. 1988</xref>, <xref ref-type="bibr" rid="B5">Ara and Ahmed 1988</xref>, <xref ref-type="bibr" rid="B9">Fatima et al. 1995</xref>, <xref ref-type="bibr" rid="B10">1997</xref>, <xref ref-type="bibr" rid="B11">1998</xref>, <xref ref-type="bibr" rid="B14">Mahmood 1979</xref>, <xref ref-type="bibr" rid="B15">1980</xref>, <xref ref-type="bibr" rid="B16">Mahmood and Aziz 1979</xref>, <xref ref-type="bibr" rid="B17">Mahmood and Meher 1973</xref>, <xref ref-type="bibr" rid="B18">Mahmood et al. 1972</xref>), but a thorough review <!--PageBreak-->of this literature was given by <xref ref-type="bibr" rid="B12">Khatri and Webb (2010)</xref>. These authors also provided a checklist, new combinations, new species, new synonymy and new record and a key to the 14 tribes.</p>
+            <p>In the present paper we revise the above tribal key to include <tp:taxon-name>Mukariini</tp:taxon-name>, following its recent discovery in Pakistan (<xref ref-type="bibr" rid="B13">Khatri and Webb 2011</xref>) and its inclusion in the subfamily by <xref ref-type="bibr" rid="B33">Zahniser and Dietrich (2010)</xref>, together with <tp:taxon-name>Drabescini</tp:taxon-name> (<tp:taxon-name>Paraboloponina</tp:taxon-name>) and <tp:taxon-name>Penthimiini</tp:taxon-name>, also included by <xref ref-type="bibr" rid="B33">Zahniser and Dietrich (2010)</xref>. <tp:taxon-name>Drabescini</tp:taxon-name> is represented in Pakistan by <italic><tp:taxon-name>Dryadomorpha pallida</tp:taxon-name></italic> Kirkaldy (1906: 336), recorded from Pakistan as <italic><tp:taxon-name>Rhombopsis viridis</tp:taxon-name></italic> Pruthi see (<xref ref-type="bibr" rid="B28">Webb 1981</xref>) and <tp:taxon-name>Penthimiini</tp:taxon-name>, represented by <italic><tp:taxon-name>Neodartus acocephaloides</tp:taxon-name></italic> Melichar (1903: 163), from Hafizabad and <italic><tp:taxon-name>Penthimia compacta</tp:taxon-name></italic> Walker (1851: 842) from Murree Hills (National Pusa Collection, IARI, New Delhi, pers. com. Dr. C.A. Viraktamath).</p>
+            <p>An additional genus and species, omitted by <xref ref-type="bibr" rid="B12">Khatri and Webb (2010)</xref>, is also included: <italic><tp:taxon-name>Gurawa minorcephala</tp:taxon-name></italic> <xref ref-type="bibr" rid="B22">Pruthi (1930: 29</xref>) (described from Pakistan: Murree Hills) and following <xref ref-type="bibr" rid="B31">Zahniser (2008)</xref> is placed in <tp:taxon-name>Chiasmini</tp:taxon-name>. We here follow Khatri and Webb’s (2010) broad concept of <tp:taxon-name>Athysanini</tp:taxon-name> to include <italic><tp:taxon-name>Osbornellus</tp:taxon-name></italic> Ball and <italic><tp:taxon-name>Scaphoideus</tp:taxon-name></italic> Uhler which were left unplaced to tribe by <xref ref-type="bibr" rid="B33">Zahniser and Dietrich (2010)</xref>.</p>
+            <p>One other species, <italic><tp:taxon-name>Hengchunia pakistanica</tp:taxon-name></italic> <xref ref-type="bibr" rid="B6">Asche &amp; Webb 1994</xref> (from India) was erroneously recorded from Pakistan.</p>
+            <p>In total 35 known genera are included in the key. Figures are also provided and additional figures can be found in <xref ref-type="bibr" rid="B12">Khatri and Webb (2010)</xref>.</p>
+        </sec>
+        <sec sec-type="Key to Deltocephalinae tribes and genera from Pakistan">
+            <title>Key to <tp:taxon-name>Deltocephalinae</tp:taxon-name> tribes and genera from Pakistan</title>
+            <p>Note: The characters given in the key will separate the Pakistan genera but not necessarily the tribes on a wider distribution. As the genera in the following key are grouped by tribe and as some of these are based only on the male genitalia, several genera in the latter part of the key are based only on the male.</p>
+            <table-wrap content-type="key" position="float" orientation="portrait">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">Anterior margin of head with transverse striations or carinae (<xref ref-type="fig" rid="F1">Figs 1j, l</xref>)</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Anterior margin of head smooth or shagreen</td>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">Clypellus elongate, extending beyond margin of genae, tapered to apex and slightly bent subapically under head.</td>
+                            <td rowspan="1" colspan="1">(<tp:taxon-name>Grypotini</tp:taxon-name>).....3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Clypellus short not extending beyond margin of genae</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">Vertex of head medially longer than next to eyes; ocelli equidistant between eye and median line of head; 5–6 mm in length</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sohipona</tp:taxon-name></italic> Ghauri &amp; Viraktamath</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Vertex of head of uniform length; ocelli placed slightly closer to eye than to median line; less than 5 mm in length</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinopona</tp:taxon-name></italic> Viraktamath &amp; Sohi</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">Antennae very long, extending beyond midlength of body, situated at upper corner of eyes (<xref ref-type="fig" rid="F1">Fig. 1k</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Drabescini</tp:taxon-name> (<tp:taxon-name>Paraboloponina</tp:taxon-name>) <italic><tp:taxon-name>Dryadomorpha</tp:taxon-name></italic> Kirkaldy<!--PageBreak--></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennae short, not reaching midlength of body, situated below upper corner of eyes</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">Ocelli on foremargin of head bound both dorsally and ventrally by at least one carina (<xref ref-type="fig" rid="F1">fig. 1j</xref>)</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Ocelli located before foremargin of head, with carinae only ventrally</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Penthimiini</tp:taxon-name> <italic><tp:taxon-name>Penthimia</tp:taxon-name></italic> Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">Head depressed anteriorly (<xref ref-type="fig" rid="F1">Fig. 1j</xref>); forewing venation reticulate; aedeagus with one shaft</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Penthimiini</tp:taxon-name> <italic><tp:taxon-name>Neodartus</tp:taxon-name></italic> Melichar</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head not depressed anteriorly, forewing venation not reticulate; aedeagus with two shafts (<xref ref-type="fig" rid="F3">Fig. 3b</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Mukariini</tp:taxon-name> (<italic><tp:taxon-name>Mukaria</tp:taxon-name></italic> Distant)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">Robust species; vertex distinctly broader than long and only slightly longer medially than next to eyes (<xref ref-type="fig" rid="F1">Fig. 1b</xref>); forewing appendix extending to outer apical cell (<xref ref-type="fig" rid="F1">Fig. 1r</xref>); subgenital plates fused to each other and to valve (<xref ref-type="fig" rid="F2">Fig. 2m</xref>); style apical process expanded apically; aedeagus fused to connective (<xref ref-type="fig" rid="F3">Fig. 3e</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Goniagnathini</tp:taxon-name> (<italic><tp:taxon-name>Goniagnathus</tp:taxon-name></italic> Fieber)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Without the above combination of characters</td>
+                            <td rowspan="1" colspan="1">8</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">Genae of face broad (<xref ref-type="fig" rid="F1">Fig. 1h</xref>), visible in dorsal view (<xref ref-type="fig" rid="F1">Fig. 1a</xref>).</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Scaphytopiini</tp:taxon-name>.....9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Genae of face narrow, not visible dorsally</td>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">Forewing obliquely truncate at apex; green species with red longitudinal stripes on head, thorax and forewings (<xref ref-type="fig" rid="F1">Fig. 1e</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varta</tp:taxon-name></italic> Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Forewing rounded at apex (<xref ref-type="fig" rid="F1">Fig. 1o</xref>); colour not as above</td>
+                            <td rowspan="1" colspan="1">10</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">Pronotum with lateral carina</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Grammacephalus</tp:taxon-name></italic> Haupt</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotum without lateral carina</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Masiripius</tp:taxon-name></italic> Dlabola</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">Face with laterofrontal sutures directed mediad of and terminating distad of corresponding ocelli (<xref ref-type="fig" rid="F1">Fig. 1g</xref>). Head, particularly in female, somewhat spatulate. Ovipositor with second valvulae, lacking teeth (<xref ref-type="fig" rid="F3">Fig. 3l</xref>).</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Hecalini</tp:taxon-name>.....12</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Without the above combination of characters</td>
+                            <td rowspan="1" colspan="1">13</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">Green species, male pygofer without caudal marginal stout setae (<xref ref-type="fig" rid="F2">Fig. 2d</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hecalus</tp:taxon-name></italic> Stål</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Brown species; male pygofer with caudal marginal stout setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Glossocratus</tp:taxon-name></italic> Fieber</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">Vertex narrow basally (<xref ref-type="fig" rid="F1">Fig. 1f</xref>). Male pygofer elongate, without a membranous laterobasal slit, with a lateroposterior triangular process (<xref ref-type="fig" rid="F2">Fig. 2f</xref>); valve long; subgenital plate short; connective with stem two pronged apically, arms parallel (<xref ref-type="fig" rid="F2">Fig. 2o</xref>); aedeagal shaft whip-like (<xref ref-type="fig" rid="F3">Fig. 3d</xref>). Ovipositor with second valvulae lacking teeth (<xref ref-type="fig" rid="F3">Fig. 3m</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Stenometopiini</tp:taxon-name> (<italic><tp:taxon-name>Stirellus</tp:taxon-name></italic> Osborn &amp; Ball)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Without the above combination of characters</td>
+                            <td rowspan="1" colspan="1">14</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">Forewing brachypterous or if macropterous then appendix (when present) extending to fourth (outer) apical cell (<xref ref-type="fig" rid="F1">Fig. 1m</xref>). Aedeagal shaft hinged (<xref ref-type="fig" rid="F3">Fig. 3a</xref>) or not hinged; connective with arms looped (<xref ref-type="fig" rid="F2">Fig. 2n</xref>). Ovipositor with sculpture granular, not extending to dorsal margin (<xref ref-type="fig" rid="F3">Fig. 3n</xref>).</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Chiasmini</tp:taxon-name>.....15<!--PageBreak--></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Forewing appendix extending to second apical cell (<xref ref-type="fig" rid="F1">Fig. 1n</xref>). Aedeagal shaft not hinged; connective with arms looped or divergent. Ovipositor with sculpture reticulate, extending to dorsal margin</td>
+                            <td rowspan="1" colspan="1">19</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">Forewing with two subapical cells (<xref ref-type="fig" rid="F1">Figs 1m</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aconurella</tp:taxon-name></italic> Ribaut</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Forewing with three subapical cells (Figs ln, o)</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">Head margin depressed in lateral view</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head margin rounded in lateral view</td>
+                            <td rowspan="1" colspan="1">18</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">Forewing lacking appendix. Aedeagal shaft not hinged at base with atrium; compressed in apical region with serrated margin</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gurawa</tp:taxon-name></italic> Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Forewing when well developed, with appendix. Aedeagal shaft hinged at base with atrium (<xref ref-type="fig" rid="F3">Fig. 3a</xref>), shaft cylindrical and lacking serration</td>
+                            <td rowspan="1" colspan="1">	<italic><tp:taxon-name>Chiasmus</tp:taxon-name></italic> Mulsant &amp; Rey</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">Predominantly green species</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nephotettix</tp:taxon-name></italic> Matsumura</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Predominantly pale brown species</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Exitianus</tp:taxon-name></italic> Ball</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">Forewing with two subapical cells (<xref ref-type="fig" rid="F1">Fig. 1q</xref>). Connective with arms divergent.</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Macrostelini</tp:taxon-name>.....20</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Forewing with three subapical cells (<xref ref-type="fig" rid="F1">Fig. 1n, o</xref>), sometimes outer subapical cell subdivided (<xref ref-type="fig" rid="F1">Fig. 1s</xref>), or if two subapical cells connective with arms convergent apically</td>
+                            <td rowspan="1" colspan="1">22</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">Vertex of head short, of uniform length, more than 4 times wider than long (<xref ref-type="fig" rid="F1">Fig. 1c</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Balclutha</tp:taxon-name></italic> Kirkaldy</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Vertex longer medially than next to eyes, twice or less as wide as medial length</td>
+                            <td rowspan="1" colspan="1">21</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">Head and thorax golden yellow, vertex with two round dark brown spots (<xref ref-type="fig" rid="F1">Fig. 1d</xref>). Male pygofer with long, slender hook-like process; without marginal comb-like serrations (<xref ref-type="fig" rid="F2">Fig. 2a</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cicadulina</tp:taxon-name></italic> China</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head and thorax not as above. Male pygofer without above process; with comb-like serrations on caudal margin (<xref ref-type="fig" rid="F2">Fig. 2b</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Macrosteles</tp:taxon-name></italic> Fieber</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1">Aedeagus with two shafts.</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Opsiini</tp:taxon-name>.....23</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Aedeagus with one shaft</td>
+                            <td rowspan="1" colspan="1">25</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">Aedeagal shafts fused in basal half, then divergent describing a circle (<xref ref-type="fig" rid="F3">Figs 3c</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Neoaliturus</tp:taxon-name></italic> (<italic><tp:taxon-name>Circulifer</tp:taxon-name></italic>) Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Aedeagal shafts separate at base (<xref ref-type="fig" rid="F3">Figs 3g, 3h</xref>)</td>
+                            <td rowspan="1" colspan="1">24</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">Aedeagal shaft with ventral pair of processes (<xref ref-type="fig" rid="F3">Figs 3g, 3j</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Opsius</tp:taxon-name></italic> Fieber</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Aedeagal shaft without ventral pair of processes (<xref ref-type="fig" rid="F3">Fig. 3h</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orosius</tp:taxon-name></italic> Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">Connective with arms divergent (<xref ref-type="fig" rid="F2">Fig. 2k</xref>).</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Athysanini</tp:taxon-name>.....26</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Connective with arms at most only divergent basally, convergent apically</td>
+                            <td rowspan="1" colspan="1">32</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">Vertex acutely pointed, disc depressed; forewing venation reticulate (<xref ref-type="fig" rid="F1">Fig. 1s</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platymetopius</tp:taxon-name></italic> Burmeister</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Vertex and forewings not as above</td>
+                            <td rowspan="1" colspan="1">27</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">Three to four cross veins from outer apical cell reaching costal margin (<xref ref-type="fig" rid="F1">Fig. 1n</xref>)</td>
+                            <td rowspan="1" colspan="1">28</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">At most two cross veins from outer apical cell reaching costal margin</td>
+                            <td rowspan="1" colspan="1">29<!--PageBreak--></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">28</td>
+                            <td rowspan="1" colspan="1">Male connective with paraphyses (<xref ref-type="fig" rid="F2">Fig. 2g</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphoideus</tp:taxon-name></italic> Uhler</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Male connective without paraphyses (<xref ref-type="fig" rid="F2">Fig. 2k</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bampurius</tp:taxon-name></italic> Dlabola</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">Male subgenital plates with mesal sclerotized process (<xref ref-type="fig" rid="F2">Fig. 2h</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Neolimnus</tp:taxon-name></italic> Linnavuori</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Male subgenital plates without mesal sclerotized process</td>
+                            <td rowspan="1" colspan="1">30</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">30</td>
+                            <td rowspan="1" colspan="1">Aedeagal shaft without basal processes, apophysis of style long, subequal to length of aedeagal shaft (<xref ref-type="fig" rid="F2">Fig. 2e</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudosubhimalus</tp:taxon-name></italic> Ghauri</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Aedeagal shaft with basal pair of dorsal (<xref ref-type="fig" rid="F3">Fig. 3i</xref>) or ventral (<xref ref-type="fig" rid="F3">Fig. 3k</xref>) processes, apophysis of style shorter than aedeagal shaft</td>
+                            <td rowspan="1" colspan="1">31</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1">Aedeagal shaft with basal processes arising on dorsal surface of shaft (<xref ref-type="fig" rid="F3">Fig. 3i</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Monobazus</tp:taxon-name></italic> Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Aedeagal shaft with basal process arising on ventro-lateral surface of shaft (<xref ref-type="fig" rid="F3">Fig. 3k</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Osbornellus</tp:taxon-name></italic> Ball</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">Connective fused to aedeagus (<xref ref-type="fig" rid="F3">Fig. 3f</xref>).</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Deltocephalini</tp:taxon-name>.....33</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Connective not fused to aedeagus (<xref ref-type="fig" rid="F2">Fig. 2i</xref>).</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Paralimnini</tp:taxon-name>.....34</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">Vertex with transverse black stripe; pygofer with dorsal marginal appendage</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Paramesodes</tp:taxon-name></italic> Ishihara</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Vertex without transverse black stripe; pygofer without appendage (<xref ref-type="fig" rid="F2">Fig. 2c</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Maiestas</tp:taxon-name></italic> Distant</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">34</td>
+                            <td rowspan="1" colspan="1">Male subgenital plates short (<xref ref-type="fig" rid="F2">Fig. 2i</xref>); mesal arm of style longer than outer arm (<xref ref-type="fig" rid="F2">Fig. 2j</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Psammotettix</tp:taxon-name></italic> Haupt</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Male subgenital plate longer; mesal arm of style shorter than outer arm (<xref ref-type="fig" rid="F2">Fig. 2l</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Jilinga</tp:taxon-name></italic> Ghauri</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p><bold>a–f, i</bold> (head and thorax dorsal view); <bold>g, h, k</bold> (face); <bold>j, l</bold> (head and thorax lateral view); <bold>m–s</bold> (right forewing) <bold>A</bold> <italic><tp:taxon-name>Grammacephalus indicus</tp:taxon-name></italic> Viraktamath &amp; Murthy <bold>B</bold> <italic><tp:taxon-name>Goniagnathus (T.) quadripinnatus</tp:taxon-name></italic> Dash &amp; Viraktamath <bold>C</bold> B<italic>alclutha incisa</italic> (Matsumura, 1902) <bold>D</bold> <italic><tp:taxon-name>Cicadulina bipunctata</tp:taxon-name></italic> Ghauri <bold>E</bold> <italic><tp:taxon-name>Varta rubrofasciata</tp:taxon-name></italic> Distant <bold>F</bold> <italic><tp:taxon-name>Stirellus lahorensis</tp:taxon-name></italic> (Distant) <bold>G</bold> <italic><tp:taxon-name>Hecalus sindhensis</tp:taxon-name></italic> (Ahmed &amp; Aziz) <bold>H</bold> <italic><tp:taxon-name>Grammacephalus indicus</tp:taxon-name></italic> Viraktamath &amp; Murthy <bold>I</bold> <italic><tp:taxon-name>Mukaria splendida</tp:taxon-name></italic> Distant <bold>J</bold> <italic><tp:taxon-name>Neodartus acocephaloides</tp:taxon-name></italic> Melichar <bold>K, L</bold> <italic><tp:taxon-name>Dryadomorpha pallida</tp:taxon-name></italic> Kirkaldy <bold>M</bold> <italic><tp:taxon-name>Aconurella prolixa</tp:taxon-name></italic> (Lethierry) <bold>N</bold> <italic><tp:taxon-name>Bampurius pakistanicus</tp:taxon-name></italic> Khatri &amp; Webb <bold>O</bold> <italic><tp:taxon-name>Grammacephalus indicus</tp:taxon-name></italic> Viraktamath &amp; Murthy <bold>P</bold> <italic><tp:taxon-name>Chiasmus</tp:taxon-name></italic> sp. <bold>Q</bold> <italic><tp:taxon-name>Macrosteles indrina</tp:taxon-name></italic> (Pruthi) <bold>R</bold> <italic><tp:taxon-name>Goniagnathus (T.) quadripinnatus</tp:taxon-name></italic> Dash &amp; Viraktamath <bold>S</bold> <italic><tp:taxon-name>Platymetopius</tp:taxon-name></italic> sp.</p></caption>
+                <graphic xlink:href="ZooKeys-104-067-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p><bold>a–o</bold> male genitalia. <bold>a, c, d, f</bold> (genital capsule); <bold>b</bold> (pygofer, caudal view); <bold>e</bold> (genital capsule, internal view); <bold>g</bold> (connective and style); <bold>h, i, n, o</bold> (valve, style and connective, dorsal view). <bold>j</bold> (style); <bold>k</bold> (connective); <bold>l</bold> (valve, styles, subgenital plates, connective and base of aedeagus); <bold>m</bold> (fused subgenital plates and valve (setae omitted), styles and base of connective). <bold>A</bold> <italic><tp:taxon-name>Cicadulina bipunctata</tp:taxon-name></italic>  Ghauri <bold>B</bold> <italic><tp:taxon-name>Macrosteles indrina</tp:taxon-name></italic> (Pruthi) <bold>C</bold> <italic><tp:taxon-name>Maiestas pruthii</tp:taxon-name></italic> (Metcalf) <bold>D</bold> <italic><tp:taxon-name>Hecalus sindhensis</tp:taxon-name></italic> (Ahmed &amp; Aziz) <bold>E</bold> <italic><tp:taxon-name>Pseudosubhimalus bicolor</tp:taxon-name></italic> Pruthi <bold>F</bold> <italic><tp:taxon-name>Stirellus lahorensis</tp:taxon-name></italic> (Distant) <bold>G</bold> <italic><tp:taxon-name>Scaphoideus harlani</tp:taxon-name></italic> Kitbamroong &amp; Freytag <bold>H</bold> <italic><tp:taxon-name>Neolimnus quadricornis</tp:taxon-name></italic> Khatri &amp; Webb <bold>I, J</bold> <italic><tp:taxon-name>Psammotettix emarginata</tp:taxon-name></italic> Singh <bold>K</bold> <italic><tp:taxon-name>Bampurius pakistanicus</tp:taxon-name></italic> Khatri &amp; Webb <bold>L</bold> <italic><tp:taxon-name>Jilinga gopii</tp:taxon-name></italic> (Pruthi) <bold>M</bold> <italic><tp:taxon-name>Goniagnathus (T.) quadripinnatus</tp:taxon-name></italic> Dash &amp; Viraktamath <bold>N</bold> <italic><tp:taxon-name>Aconurella prolixa</tp:taxon-name></italic> (Lethierry) <bold>O</bold> <italic><tp:taxon-name>Stirellus lahorensis</tp:taxon-name></italic> (Distant).</p></caption>
+                <graphic xlink:href="ZooKeys-104-067-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p><bold>a–n</bold> male and female genitalia; <bold>a, d, g–j</bold> (aedeagus); <bold>b–c, e–f</bold> (aedeagus and connective); <bold>k</bold> aedeagus, apex of connective and pygofer; <bold>l, n</bold> (first valvulae); <bold>m</bold> (second valvulae). <bold>A</bold> <italic><tp:taxon-name>Aconurella prolixa</tp:taxon-name></italic> (Lethierry) <bold>B</bold> <italic><tp:taxon-name>Mukaria splendida</tp:taxon-name></italic> Distant <bold>C</bold> <italic><tp:taxon-name>Neoaliturus (Circulifer) tenellus</tp:taxon-name></italic> (Baker) <bold>D</bold> <italic><tp:taxon-name>Stirellus lahorensis</tp:taxon-name></italic> (Distant, 1918) <bold>E</bold> <italic><tp:taxon-name>Goniagnathus (T.) quadripinnatus</tp:taxon-name></italic> Dash &amp; Viraktamath, 2001 <bold>F</bold> <italic><tp:taxon-name>Maiestas tareni</tp:taxon-name></italic> (Dash &amp; Viraktamath) <bold>G</bold> <italic><tp:taxon-name>Opsius versicolor</tp:taxon-name></italic> (Distant) <bold>H</bold> <italic><tp:taxon-name>Orosius albicinctus</tp:taxon-name></italic> Distant <bold>I</bold> <italic><tp:taxon-name>Monobazus dissimilis</tp:taxon-name></italic> (Distant) <bold>J</bold> <italic><tp:taxon-name>Opsius versicolor</tp:taxon-name></italic> (Distant) <bold>K</bold> <italic><tp:taxon-name>Osbornellus (Mavromoustaca) macchiae</tp:taxon-name></italic> (Lindberg) <bold>L</bold> <italic><tp:taxon-name>Hecalus sindhensis</tp:taxon-name></italic> (Ahmad &amp; Aziz) <bold>M</bold> <italic><tp:taxon-name>Stirellus lahorensis</tp:taxon-name></italic> (Distant) <bold>N</bold> <italic><tp:taxon-name>Aconurella prolixa</tp:taxon-name></italic> (Lethierry).</p></caption>
+                <graphic xlink:href="ZooKeys-104-067-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We are thankful to the Dr. C. A. Viraktamath, University of Agricultural Sciences, Bangalore, India and Mr. M. D. Webb, The Natural History Museum, London, for their help in preparation of the manuscript. We are also thankful to the authorities of Zootaxa for permission to reproduce some of the figures.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name></person-group> (<year>1986</year>)<article-title> Some investigations of leafhoppers of grasslands and allied crops in Pakistan.</article-title> <source>Proceedings Pakistan Congress of Zoology</source> <volume>6</volume>:<fpage>51</fpage>-<lpage>62</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name><name name-style="western"><surname>Aziz</surname> <given-names>A</given-names></name></person-group> (<year>1988</year>)<article-title> Two new species of grassland leafhoppers (Cicadellidae: Homoptera) in lower Sind, Pakistan.</article-title> <source>Sarhad Journal of Agriculture</source> <volume>4</volume>:<fpage>805</fpage>-<lpage>811</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name><name name-style="western"><surname>Murtaza</surname> <given-names>B</given-names></name><name name-style="western"><surname>Malik</surname> <given-names>KF</given-names></name></person-group> (<year>1988</year>)<article-title> Some new Aphrodine leafhoppers from grasslands of Karachi, Pakistan.</article-title> <source>Pakistan Journal of Zoology</source> <volume>20</volume>:<fpage>409</fpage>-<lpage>421</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name><name name-style="western"><surname>Rao</surname> <given-names>S</given-names></name></person-group> (<year>1986</year>)<article-title> Some commonly found leaf and planthoppers on vegetable plants in the suburbs of Peshawar N.W.F.P., Pakistan.</article-title> <source>Proceedings Pakistan Congress of Zoology</source> <volume>6</volume>:<fpage>73</fpage>-<lpage>80</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ara</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name></person-group> (<year>1988</year>)<article-title> Some new species of leafhoppers (Cicadellidae: Homoptera) from Pakistan.</article-title> <source>Pakistan Journal of Zoology</source> <volume>20</volume>:<fpage>289</fpage>-<lpage>297</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Asche</surname> <given-names>M</given-names></name><name name-style="western"><surname>Webb</surname> <given-names>MD</given-names></name></person-group> (<year>1994</year>)<article-title> Review of the Southern Palaearctic and Palaeotropical leafhopper genus <italic>Hengchunia</italic> Vilbaste (Homoptera, Cicadellidae).</article-title> <source>Tijdschrift voor Entomologie</source> <volume>137</volume>:<fpage>143</fpage>-<lpage>154</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dietrich</surname> <given-names>CH</given-names></name></person-group> (<year>2005</year>)<article-title> Keys to the Families of Cicadomorpha and Subfamilies and Tribes of Cicadellidae (Hemiptera: Auchenorrhyncha).</article-title> <source>Florida Entomologist</source> <volume>88</volume>:<fpage>502</fpage>-<lpage>517</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1653/0015-4040(2005)88[502:KTTFOC]2.0.CO;2">10.1653/0015-4040(2005)88[502:KTTFOC]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Distant</surname> <given-names>WL</given-names></name></person-group> (<year>1908</year>)<article-title> Rhynchota-Homoptera.</article-title> <source>The Fauna of British India including Ceylon and Burma</source> <volume>4</volume>:<fpage>1</fpage>-<lpage>501</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fatema</surname> <given-names>A</given-names></name><name name-style="western"><surname>Naqvi</surname> <given-names>SNH</given-names></name><name name-style="western"><surname>Ahmed</surname> <given-names>I</given-names></name><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name></person-group> (<year>1995</year>)<article-title> Occurrence of some commonly found leafhoppers from various host plants in NWFP.</article-title> <source>Proceedings Pakistan Congress of Zoology</source> <volume>15</volume>:<fpage>253</fpage>-<lpage>255</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fatema</surname> <given-names>A</given-names></name><name name-style="western"><surname>Naqvi</surname> <given-names>SNH</given-names></name><name name-style="western"><surname>Tabassum</surname> <given-names>R</given-names></name><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name></person-group> (<year>1997</year>)<article-title> Population studies of Cicadellids of grasslands of Karachi.</article-title> <source>Proceedings Pakistan Congress of Zoology</source> <volume>17</volume>:<fpage>145</fpage>-<lpage>151</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fatema</surname> <given-names>A</given-names></name><name name-style="western"><surname>Naqvi.</surname> <given-names>SNH</given-names></name><name name-style="western"><surname>Ahmad</surname> <given-names>I</given-names></name><name name-style="western"><surname>Ahmed</surname> <given-names>M</given-names></name></person-group> (<year>1998</year>)<article-title> Population studies of grassland leafhoppers in different areas of Baluchistan.</article-title> <source>Proceedings Pakistan Congress of Zoology</source> <volume>18</volume>:<fpage>19</fpage>-<lpage>23</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Khatri</surname> <given-names>I</given-names></name><name name-style="western"><surname>Webb</surname> <given-names>MD</given-names></name></person-group> (<year>2010</year>)<article-title> The Deltocephalinae leafhoppers of Pakistan (Hemiptera, Cicadellidae).</article-title> <source>Zootaxa</source> <volume>2365</volume>:<fpage>1</fpage>-<lpage>47</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Khatri</surname> <given-names>I</given-names></name><name name-style="western"><surname>Webb</surname> <given-names>MD</given-names></name></person-group> (<year>2011</year>)<article-title> On the identity of Benglebra Mahmood &amp; Ahmad, and other Mukariini (Hemiptera: Cicadellidae: Deltocephalinae) from Bangladesh and Pakistan.</article-title> <source>Zootaxa</source> <volume>2885</volume>:<fpage>14</fpage>-<lpage>22</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mahmood</surname> <given-names>SH</given-names></name></person-group> (<year>1979</year>)<source> A Revision of the leafhoppers (Cicadellidae: Homoptera) of Pakistan and adjoining countries of the Oriental region. Department of Zoology (Entomology) University of Karachi, Karachi (Pakistan), 103 pp.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mahmood</surname> <given-names>SH</given-names></name></person-group> (<year>1980</year>)<source> Faunistic studies of Cicadellidae (Homoptera) of the Indo-Pakistan region. Proceedings Pakistan Congress of Zoology: 157–172.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mahmood</surname> <given-names>SH</given-names></name><name name-style="western"><surname>Aziz</surname> <given-names>S</given-names></name></person-group> (<year>1979</year>)<article-title> Taxonomic studies of genus <italic>Nephotettix</italic> (Homoptera-Cicadellidae) from Pakistan and Bangladesh.</article-title> <source>Proceedings Pakistan Academy of Science</source> <volume>16</volume>:<fpage>53</fpage>-<lpage>69</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mahmood</surname> <given-names>SH</given-names></name><name name-style="western"><surname>Meher</surname> <given-names>K</given-names></name></person-group> (<year>1973</year>)<article-title> A new species of <italic>Paramesodes</italic> Ishihara from Pakistan (Hemiptera: Cicadellidae).</article-title> <source>Transactions Shikoku Entomological Society</source> <volume>11</volume>:<fpage>135</fpage>-<lpage>137</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mahmood</surname> <given-names>SH</given-names></name><name name-style="western"><surname>Sultan</surname> <given-names>S</given-names></name><name name-style="western"><surname>Waheed</surname> <given-names>A</given-names></name></person-group> (<year>1972</year>)<article-title> Two new species of <italic>Stirellus</italic> Osborn and Ball (Homoptera. Cicadellidae, Deltocephalinae) from West Pakistan.</article-title> <source>Pakistan Journal of Zoology</source> <volume>4</volume>:<fpage>79</fpage>-<lpage>84</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McKamey</surname> <given-names>SH</given-names></name></person-group> (<year>2005</year>)<source> Checklist of Leafhopper Species 1758–1955 (Hemiptera: Membracoidea: Cicadellidae and Myserslopiidae) with synonymy and distribution [Catalogue of the Homoptera, Fascicle 6, Abridged]</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McKamey</surname> <given-names>SH</given-names></name></person-group> (<year>In press</year>)<source> Taxonomic Catalogue of the Leafhoppers (Membracoidea), Part 2, Deltocephalinae and Related Subfamilies.</source><!--PageBreak--></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nielson</surname> <given-names>MW</given-names></name></person-group> (<year>1968</year>)<source> The leafhopper Vectors of Phytopathogenic Viruses (Homoptera, Cicadellidae). Taxonomy, Biology and Virus Transmission. US Department of Agriculture Technical Bulletin No. 1-1382 pp.</source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pruthi</surname> <given-names>HS</given-names></name></person-group> (<year>1930</year>)<article-title> Studies on Indian Jassidae (Homoptera). Part I. Introduction and description of some new genera and species.</article-title> <source>Memoirs of the Indian Museum</source> <volume>11</volume>:<fpage>1</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pruthi</surname> <given-names>HS</given-names></name></person-group> (<year>1934</year>)<article-title> Studies on Indian Jassidae (Homoptera). Part II. Description of genotypes of some of the genera founded by W.L. Distant, with a revision of the genus <italic>Moonia</italic> Distant.</article-title> <source>Memoirs of the Indian Museum</source> <volume>11</volume>:<fpage>69</fpage>-<lpage>99</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pruthi</surname> <given-names>HS</given-names></name></person-group> (<year>1936</year>)<article-title> Studies on Indian Jassidae (Homoptera). Part III. Descriptions of some new genera and species, with first records of some known species from India.</article-title> <source>Memoirs of the Indian Museum</source> <volume>11</volume>:<fpage>101</fpage>-<lpage>131</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Viraktamath</surname> <given-names>CA</given-names></name></person-group> (<year>2005a</year>)<article-title> Key to the subfamilies and tribes of leafhoppers (Hemiptera: Cicadellidae) of the Indian Subcontinent.</article-title> <source>Bionotes</source> <volume>7</volume>:<fpage>20</fpage>-<lpage>24</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Viraktamath</surname> <given-names>CA</given-names></name></person-group> (<year>2005b</year>)<article-title> Key to the subfamilies and tribes of leafhoppers (Hemiptera: Cicadellidae) of the Indian Subcontinent.</article-title> <source>Bionotes</source> <volume>7</volume>:<fpage>24</fpage>-<lpage>49</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Viraktamath</surname> <given-names>CA</given-names></name><name name-style="western"><surname>Gnaneswaran</surname> <given-names>R</given-names></name></person-group> (<year>2009</year>)<article-title> Three new species of <italic>Goniagnathus</italic> (Hemiptera: Cicadellidae) from the Indian subcontinent with description of a new subgenus.</article-title> <source>Zootaxa</source> <volume>2224</volume>:<fpage>51</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Webb</surname> <given-names>MD</given-names></name></person-group> (<year>1981</year>)<article-title> The Asian, Australasian and Pacific Paraboloponinae (Homoptera: Cicadellidae) A taxonomic revision with a key to all known genera of the subfamily.</article-title> <source>Bulletin of the British Museum (Natural History), Entomology Series</source> <volume>43</volume> (<issue>2</issue>):<fpage>39</fpage>-<lpage>76</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Webb</surname> <given-names>MD</given-names></name><name name-style="western"><surname>Viraktamath</surname> <given-names>CA</given-names></name></person-group> (<year>2009</year>)<article-title> Annotated checklist, generic key and new species of Old World Deltocephalini leafhoppers with nomenclatorial changes in the <italic>Deltocephalus</italic> group and other Deltocephalinae (Hemiptera, Auchenorrhyncha, Cicadellidae).</article-title> <source>Zootaxa</source> <volume>2163</volume>:<fpage>1</fpage>-<lpage>64</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weintraub</surname> <given-names>PG</given-names></name><name name-style="western"><surname>Beanland</surname> <given-names>L</given-names></name></person-group> (<year>2006</year>)<article-title> Insect vectors of phytoplasmas.</article-title> <source>Annual Review of Entomology</source> <volume>51</volume>:<fpage>91</fpage>-<lpage>111</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1146/annurev.ento.51.110104.151039">10.1146/annurev.ento.51.110104.151039</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zahniser</surname> <given-names>JN</given-names></name></person-group> (<year>2008</year>)<article-title> Seven new species and new distributions of Old World Chiasmini (Hemiptera: Cicadellidae: Deltocephalinae), with a redescription. Key to genera and species checklist for the tribe.</article-title> <source>Zootaxa</source> <volume>1808</volume>:<fpage>1</fpage>-<lpage>32</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zahniser</surname> <given-names>JN</given-names></name><name name-style="western"><surname>Dietrich</surname> <given-names>CH</given-names></name></person-group> (<year>2008</year>)<article-title> Phylogeny of the leafhopper subfamily Deltocephalinae (Insecta: Auchenorrhyncha: Cicadellidae) and related subfamilies based on morphology.</article-title> <source>Systematics and Biodiversity</source> <volume>6</volume>:<fpage>1</fpage>-<lpage>24</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S1477200007002617">10.1017/S1477200007002617</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zahniser</surname> <given-names>JN</given-names></name><name name-style="western"><surname>Dietrich</surname> <given-names>CH</given-names></name></person-group> (<year>2010</year>)<article-title> Phylogeny of the leafhopper subfamily Deltocephalinae (Hemiptera: Cicadellidae) based on molecular and morphological data with a revised family-group classification.</article-title> <source>Systematic Entomology</source> <volume>35</volume>:<fpage>489</fpage>-<lpage>511</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-3113.2010.00522.x">10.1111/j.1365-3113.2010.00522.x</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,697 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.179.2583</article-id>
+            <title-group>
+                <article-title>New Coleoptera records from New Brunswick, Canada: Mordellidae and Ripiphoridae</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Webster</surname>
+                        <given-names>Reginald P.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Sweeney</surname>
+                        <given-names>Jon D.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>DeMerchant</surname>
+                        <given-names>Ian</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Natural Resources Canada, Canadian Forest Service - Atlantic Forestry Centre, 1350 Regent St., P.O. Box 4000, Fredericton, NB, Canada E3B 5P7
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Reginald P. Webster (<email xlink:type="simple">reginaldwebster@rogers.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: J. Klimaszewski</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>4</day>
+                <month>4</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>179</issue>
+            <fpage>243</fpage>
+            <lpage>256</lpage>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>23</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Reginald P. Webster, Jon D. Sweeney, Ian DeMerchant</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Eleven species of <tp:taxon-name>Mordellidae</tp:taxon-name> are newly recorded for New Brunswick, Canada. Six of these, <italic><tp:taxon-name>Falsomordellistena discolor</tp:taxon-name></italic> (Melsheimer), <italic><tp:taxon-name>Falsomordellistena pubescens</tp:taxon-name></italic> (Fabricius), <italic><tp:taxon-name>Mordellistena ornata</tp:taxon-name></italic> (Melsheimer), <italic><tp:taxon-name>Mordellaria undulata</tp:taxon-name></italic> (Melsheimer), <italic><tp:taxon-name>Tomoxia inclusa</tp:taxon-name></italic> LeConte, and <italic><tp:taxon-name>Yakuhananomia bidentata</tp:taxon-name></italic> (Say)are new for the Maritime provinces. <italic><tp:taxon-name>Falsomordellistena pubescens</tp:taxon-name></italic> is new to Canada. <italic><tp:taxon-name>Pelecotoma flavipes</tp:taxon-name></italic> Melsheimer (family <tp:taxon-name>Ripiphoridae</tp:taxon-name>) is reported for the first time for New Brunswick and the Maritime provinces. Collection and habitat data are presented for all these species.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><tp:taxon-name>Mordellidae</tp:taxon-name></kwd>
+                <kwd><tp:taxon-name>Ripiphoridae</tp:taxon-name></kwd>
+                <kwd>new records</kwd>
+                <kwd>Canada</kwd>
+                <kwd>New Brunswick</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>This paper treats new <tp:taxon-name>Coleoptera</tp:taxon-name> records from New Brunswick, Canada, of the families <tp:taxon-name>Mordellidae</tp:taxon-name> and <tp:taxon-name>Ripiphoridae</tp:taxon-name>. A general overview of the <tp:taxon-name>Mordellidae</tp:taxon-name> (tumbling flower beetles) was provided by <xref ref-type="bibr" rid="B11">Jackman and Lu (2002)</xref>. Adults feed on pollen and are often found on flowers of umbelliferous (<tp:taxon-name>Apiaceae</tp:taxon-name>) and composite (<tp:taxon-name>Asteraceae</tp:taxon-name>) species. Larvae feed mainly in living herbaceous stems, decaying wood, and fungi, depending on the species (<xref ref-type="bibr" rid="B11">Jackman and Lu 2002</xref>). <xref ref-type="bibr" rid="B8">Ford and Jackman (1996)</xref> summarized the known larval host plants of North American species of this family. The North American species were <!--PageBreak-->revised by <xref ref-type="bibr" rid="B12">Liljeblad (1945)</xref>, and <xref ref-type="bibr" rid="B3">Bright (1986)</xref> provided a catalog of North American species. Later, <xref ref-type="bibr" rid="B9">Jackman (1991)</xref> made additions and corrections to the catalog, and <xref ref-type="bibr" rid="B10">Jackman and Lu (2001)</xref> and <xref ref-type="bibr" rid="B15">Lisberg (2003)</xref> made additional taxonomic changes to North American species. <xref ref-type="bibr" rid="B19">McNamara (1991)</xref> reported 14 mordellid species and subspecies for New Brunswick. <xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref>, in a review of the <tp:taxon-name>Mordellidae</tp:taxon-name> of the Maritime provinces (New Brunswick, Nova Scotia, Prince Edward Island), reported another six species for New Brunswick and removed <italic><tp:taxon-name>Mordella atrata lecontei</tp:taxon-name></italic> Csiki, bringing the total number of known species to 19. Here, we add 11 species to the faunal list of the province.</p>
+            <p><xref ref-type="bibr" rid="B7">Falin (2002)</xref> provided a general review of the <tp:taxon-name>Ripiphoridae</tp:taxon-name> (the ripiphorid beetles) of North America, including an overview of the biology and life history of various members of this family. Members of this family are unusual among <tp:taxon-name>Coleoptera</tp:taxon-name> in that they are endoparasitoids on insects such as aculeate <tp:taxon-name>Hymenoptera</tp:taxon-name>, <tp:taxon-name>Coleoptera</tp:taxon-name> (<tp:taxon-name>Anobiidae</tp:taxon-name>, <tp:taxon-name>Cerambycidae</tp:taxon-name>), and <tp:taxon-name>Orthoptera</tp:taxon-name> (<tp:taxon-name>Blattidae</tp:taxon-name>) (<xref ref-type="bibr" rid="B7">Falin 2002</xref>). Species occurring in the Maritime provinces are parasitoids of insects such as aculeate <tp:taxon-name>Hymenoptera</tp:taxon-name> (<tp:taxon-name>Apidae</tp:taxon-name>, <tp:taxon-name>Halictidae</tp:taxon-name>) (<italic><tp:taxon-name>Ripiphorus</tp:taxon-name></italic> sp.) and beetles in the genus <italic><tp:taxon-name>Ptilinus</tp:taxon-name></italic> (<italic><tp:taxon-name>Pelecotoma</tp:taxon-name></italic>) (<xref ref-type="bibr" rid="B14">Linsley et al. 1952</xref>; <xref ref-type="bibr" rid="B21">Svácha 1994</xref>; <xref ref-type="bibr" rid="B7">Falin 2002</xref>). <xref ref-type="bibr" rid="B5">Campbell (1991)</xref> reported 10 species of <tp:taxon-name>Ripiphoridae</tp:taxon-name> from Canada but none from the Maritime provinces. <xref ref-type="bibr" rid="B17">Majka et al. (2006)</xref> reported <italic><tp:taxon-name>Ripiphorus fasciatus</tp:taxon-name></italic> (Say) for the first time for New Brunswick and Nova Scotia and the Maritime provinces. William McIntosh (former director of the New Brunswick Museum) in an unpublished manuscript reported a specimen of <italic><tp:taxon-name>Ripiphorus zeschii</tp:taxon-name></italic> (LeConte) (determined by W. H. Harrington) from Saint John, collected sometime between 1898 and 1907 (<xref ref-type="bibr" rid="B17">Majka et al. 2006</xref>). To date, no specimen has been found to support this record and this record is considered questionable. Here, we report another species of <tp:taxon-name>Ripiphoridae</tp:taxon-name> for New Brunswick and the Maritime provinces.</p>
+        </sec>
+        <sec sec-type="Methods and conventions">
+            <title>Methods and conventions</title>
+            <p>The following records are based on specimens collected during a general survey by the first author to document the <tp:taxon-name>Coleoptera</tp:taxon-name> fauna of New Brunswick and from by-catch samples obtained during a study to develop a general attractant for the detection of invasive species of <tp:taxon-name>Cerambycidae</tp:taxon-name>. Additional records were obtained from specimens contained in the collection belonging to Natural Resources Canada, Canadian Forest Service - Atlantic Forestry Centre, Fredericton, New Brunswick.</p>
+            <sec sec-type="Collection methods">
+                <title>Collection methods</title>
+                <p>Many specimens of <tp:taxon-name>Mordellidae</tp:taxon-name> were collected by sweeping vegetation or flowers. Others were collected from Lindgren 12-funnel trap samples during a study to develop a general attractant for the detection of invasive species of <tp:taxon-name>Cerambycidae</tp:taxon-name>. These traps visually mimic tree trunks and are often effective for sampling species of <tp:taxon-name>Coleoptera</tp:taxon-name> that live in microhabitats associated with standing trees (<xref ref-type="bibr" rid="B13">Lindgren 1983</xref>). See <xref ref-type="bibr" rid="B22">Webster et al. (in press)</xref> for details of the methods used for trap deployment and sample collection. A description of the habitat was recorded for all specimens collected during this survey. Locality and habitat data are presented exactly as on labels for each record. This information, as well as additional collecting notes, is summarized and discussed in the collection and habitat data section for each species.</p>
+            </sec>
+            <sec sec-type="Distribution">
+                <title>Distribution</title>
+                <p>Distribution maps, created using ArcMap and ArcGIS, are presented for each species in New Brunswick. Every species is cited with current distribution in Canada and Alaska, using abbreviations for the state, provinces, and territories. New records for New Brunswick are indicated in bold under Distribution in Canada and Alaska. The following abbreviations are used in the text:</p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>AK</bold></td>
+                                <td rowspan="1" colspan="1">Alaska</td>
+                                <td rowspan="1" colspan="1"><bold>MB</bold></td>
+                                <td rowspan="1" colspan="1">Manitoba</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>YT</bold></td>
+                                <td rowspan="1" colspan="1">Yukon Territory</td>
+                                <td rowspan="1" colspan="1"><bold>ON</bold></td>
+                                <td rowspan="1" colspan="1">Ontario</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>NT</bold></td>
+                                <td rowspan="1" colspan="1">Northwest Territories</td>
+                                <td rowspan="1" colspan="1"><bold>QC</bold></td>
+                                <td rowspan="1" colspan="1">Quebec</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>NU</bold></td>
+                                <td rowspan="1" colspan="1">Nunavut</td>
+                                <td rowspan="1" colspan="1"><bold>NB</bold></td>
+                                <td rowspan="1" colspan="1">New Brunswick</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>BC</bold></td>
+                                <td rowspan="1" colspan="1">British Columbia</td>
+                                <td rowspan="1" colspan="1"><bold>PE</bold></td>
+                                <td rowspan="1" colspan="1">Prince Edward Island</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>AB</bold></td>
+                                <td rowspan="1" colspan="1">Alberta</td>
+                                <td rowspan="1" colspan="1"><bold>NS</bold></td>
+                                <td rowspan="1" colspan="1">Nova Scotia</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>SK</bold></td>
+                                <td rowspan="1" colspan="1">Saskatchewan</td>
+                                <td rowspan="1" colspan="1"><bold>NF &amp; LB</bold></td>
+                                <td rowspan="1" colspan="1">Newfoundland and Labrador</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Acronyms of collections examined or where specimens reside referred to in this study are as follows:</p>
+                <p><bold>AFC</bold>	Atlantic Forestry Centre, Natural Resources Canada, Canadian Forest Service, Fredericton, New Brunswick, Canada</p>
+                <p><bold>CGMC</bold>	Christopher G. Majka Collection, Halifax, Nova Scotia, Canada</p>
+                <p><bold>CNC</bold>	Canadian National Collection of Insects, Arachnids and Nematodes, Agriculture and Agri-Food Canada, Ottawa, Ontario</p>
+                <p><bold>NBM</bold>	New Brunswick Museum, Saint John, New Brunswick, Canada</p>
+                <p><bold>RWC</bold>	Reginald P. Webster Collection, Charters Settlement, New Brunswick, Canada</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Species accounts">
+                <title>Species accounts</title>
+                <p>All records below are species newly recorded for New Brunswick, Canada. Species followed by ** are newly recorded from the Maritime provinces of Canada.</p>
+                <p>The classification of the <tp:taxon-name>Mordellidae</tp:taxon-name> and <tp:taxon-name>Ripiphoridae</tp:taxon-name> follows <xref ref-type="bibr" rid="B2">Bouchard et al. (2011)</xref>.</p>
+            </sec>
+            <sec sec-type="Family Mordellidae Latreille, 1802">
+                <title>Family <tp:taxon-name>Mordellidae</tp:taxon-name> Latreille, 1802</title>
+                <p><xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref> newly reported six species of <tp:taxon-name>Mordellidae</tp:taxon-name> for the province of New Brunswick and removed <italic><tp:taxon-name>Mordella atrata lecontei</tp:taxon-name></italic> Csiki, bringing the total number of known species to 19. Eleven more species are reported here (<xref ref-type="table" rid="T1">Table 1</xref>). <italic><tp:taxon-name>Mordellaria undulata</tp:taxon-name></italic> (Melsheimer), <italic><tp:taxon-name>Tomoxia inclusa</tp:taxon-name></italic> LeConte, <italic><tp:taxon-name>Yakuhananomia bidentata</tp:taxon-name></italic> (Say), <italic><tp:taxon-name>Falsomordellistena discolor</tp:taxon-name></italic> (Melsheimer), <italic><tp:taxon-name>Falsomordellistena pubescens</tp:taxon-name></italic> (Fabricius), and <italic><tp:taxon-name>Mordellistena ornata</tp:taxon-name></italic> (Melsheimer)are new for the Maritime provinces.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Species of <tp:taxon-name>Tenebrionidae</tp:taxon-name> and <tp:taxon-name>Zopheridae</tp:taxon-name> recorded from New Brunswick, Canada.</p></caption>
+                <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Family <tp:taxon-name>Mordellidae</tp:taxon-name> Latreille</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Subfamily <tp:taxon-name>Mordellinae</tp:taxon-name> Latreille</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Tribe <tp:taxon-name>Mordellini</tp:taxon-name> Latreille</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordella atrata atrata</tp:taxon-name></italic> Melsheimer</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordella marginata marginata</tp:taxon-name></italic> Melsheimer</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordella melaena</tp:taxon-name></italic> Germar</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellaria borealis</tp:taxon-name></italic> (LeConte)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellaria serval</tp:taxon-name></italic> (Say)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellaria undulata</tp:taxon-name></italic> (Melsheimer)**</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tomoxia inclusa</tp:taxon-name></italic> LeConte**</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tomoxia lineella</tp:taxon-name></italic> LeConte</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Yakuhananomia bidentata</tp:taxon-name></italic> (Say)**</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Tribe <tp:taxon-name>Mordellistenini</tp:taxon-name> Ermisch</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Falsomordellistena discolor</tp:taxon-name></italic> (Melsheimer)**</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Falsomordellistena pubescens</tp:taxon-name></italic> (Fabricius)***</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Glipostenoda ambusta</tp:taxon-name></italic> (LeConte)*</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellina ancilla</tp:taxon-name></italic> (LeConte)*</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellina infima</tp:taxon-name></italic> (LeConte)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellina nigricans</tp:taxon-name></italic> (Melsheimer)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellina pustulata</tp:taxon-name></italic> (Mlesheimer)*</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena aspersa</tp:taxon-name></italic> (Melsheimer)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena cervicalis</tp:taxon-name></italic> LeConte</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena errans</tp:taxon-name></italic> Fall</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena frosti</tp:taxon-name></italic> Liljeblad</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena fuscipennis</tp:taxon-name></italic> (Melsheimer)*</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena indistincta</tp:taxon-name></italic> Smith</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena limbalis</tp:taxon-name></italic> (Melsheimer)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena marginalis</tp:taxon-name></italic> (Say)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena ornata</tp:taxon-name></italic> (Melsheimer)**</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena picilabris</tp:taxon-name></italic> Helmuth*</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena syntaenia</tp:taxon-name></italic> Liljeblad</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena tosta</tp:taxon-name></italic> LeConte</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellistena trifasciata</tp:taxon-name></italic> (Say)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mordellochroa scapularis</tp:taxon-name></italic> (Say)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Family <tp:taxon-name>Rhipiphoridae</tp:taxon-name> Gemminger</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Subfamily <tp:taxon-name>Pelecotominae</tp:taxon-name> Seidlitz</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pelecotoma flavipes</tp:taxon-name></italic> Melsheimer**</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Subfamily <tp:taxon-name>Ripiphorinae</tp:taxon-name> Gemminger</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Tribe <tp:taxon-name>Ripiphorini</tp:taxon-name> Gemminger</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ripiphorus fasciatus</tp:taxon-name></italic> (Say)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <fn>
+                            <p><bold>Notes:</bold> *New to province; **New to Maritime provinces.</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Subfamily Mordellinae Latreille, 1802">
+                <title>Subfamily <tp:taxon-name>Mordellinae</tp:taxon-name> Latreille, 1802</title>
+                <p><bold>Tribe <tp:taxon-name>Mordellini</tp:taxon-name> Latreille, 1802</bold></p>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Mordellaria</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">undulata</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Mordellaria_undulata</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Melsheimer, 1846)**</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F1">Map 1</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Queens Co.</bold>, Cranberry Lake P.N.A. (Protected Natural Area), <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.1125°N, 65.6075°W</named-content>, 4–18.VIII.2011, M. Roy &amp; V. Webster, Lindgren funnel traps in forest canopy (2, RWC).</p>
+                        <fig id="F1" position="float" orientation="portrait">
+                            <label>Map 1.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Mordellaria undulata</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>The adults in New Brunswick were captured in Lindgren funnel traps deployed in the forest canopy in a red oak (<italic><tp:taxon-name>Quercus rubra</tp:taxon-name></italic> L.) forest. Adults were collected during July and August. This species has been beaten from dead limbs of various species of hardwoods in Indiana (<xref ref-type="bibr" rid="B6">Downie and Arnett 1996</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>ON, <bold>NB</bold> (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Tomoxia</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">inclusa</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Tomoxia_inclusa</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>LeConte, 1862**</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F2">Map 2</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Queens Co.</bold>, Cranberry Lake P.N.A, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.1125°N, 65.6075°W</named-content>, 6.VIII.2009, M.-A. Giguère, old red oak forest, on flowers of <italic><tp:taxon-name>Spiraea alba</tp:taxon-name></italic> (1, AFC); same locality data and forest type, 13–20.VII.2011, M. Roy &amp; V. Webster, Lindgren funnel trap in forest canopy (1, RWC). <bold>Sunbury Co.</bold>, Acadia Research Forest, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.9866°N, 66.3841°W</named-content>, 21–29.VII.2009, R. Webster &amp; M.-A. Giguère, mature (110-year-old) red spruce forest with scattered red maple and balsam fir, Lindgren funnel trap (1, AFC). <bold>York Co.</bold>, Charters Settlement, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8267°N, 66.7343°W</named-content>, 8.VII.2005, R. P. Webster, mixed forest, on recently cut spruce log (1, RWC); same locality and collector but <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8331°N, 66.7410°W</named-content>, 23.VII.2005, sedge marsh on flowers of <italic><tp:taxon-name>Spiraea alba</tp:taxon-name></italic> (1, RWC).</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Map 2.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Tomoxia inclusa</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p><italic><tp:taxon-name>Tomoxia inclusa</tp:taxon-name></italic> was found in an old red oak forest, a mixed forest, and a mature red spruce (<italic><tp:taxon-name>Picea rubens</tp:taxon-name></italic> Sarg.) forest. Adults were collected from flowers of meadowsweet (<italic><tp:taxon-name>Spiraea alba</tp:taxon-name></italic> Du Roi), on a recently cut spruce (<italic><tp:taxon-name>Picea</tp:taxon-name></italic> sp.) log, and in Lindgren funnel traps. This species was collected during July in New Brunswick. This species has been reared from <italic><tp:taxon-name>Tilia</tp:taxon-name></italic> sp. (<xref ref-type="bibr" rid="B4">Brimley 1951</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>ON, QC, <bold>NB</bold> (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Yakuhananomia</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">bidentata</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Yakuhananomia_bidentata</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Say, 1824)**</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F3">Map 3</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Queens Co.</bold>, Grand Lake Meadows P.N.A., <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8227°N, 66.1209°W</named-content>, 5–19.VII.2011, 19.VII-5.VIII.2011, M. Roy &amp; V. Webster, old silver maple forest and seasonally flooded marsh, Lindgren funnel traps in forest canopy (4, RWC).</p>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Map 3.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Yakuhananomia bidentata</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>In New Brunswick, adults of this large species were captured during July and August in Lindgren funnel traps in the forest canopy in a silver maple (<italic><tp:taxon-name>Acer saccharinum</tp:taxon-name></italic> L.) swamp. <xref ref-type="bibr" rid="B6">Downie and Arnett (1996)</xref> reported this species from boles of dead and dying hickory (<italic><tp:taxon-name>Carya</tp:taxon-name></italic> sp.) trees in Indiana and New York.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>ON, QC, <bold>NB</bold> (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>).<!--PageBreak--></p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="Tribe Mordellistenini Ermisch, 1941">
+                <title>Tribe <tp:taxon-name>Mordellistenini</tp:taxon-name> Ermisch, 1941</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Falsomordellistena</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">discolor</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Falsomordellistena_discolor</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Melsheimer, 1846)**</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F4">Map 4</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Queens Co.</bold>, Cranberry Lake P.N.A, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.1125°N, 65.6075°W</named-content>, 28.VII-6.VIII.2009, R. Webster &amp; M.-A. Giguère, old red oak forest, Lindgren funnel traps (2, RWC); same locality data and forest type, 29.VI–7.VII.2011, 7–14.VII.2011, 20.VII–4.VIII.2011, M. Roy &amp; V. Webster, Lindgren funnel traps in forest canopy (29, AFC, NBM, RWC). <bold>York Co.</bold>, Charters Settlement, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8300°N, 66.7347°W</named-content>, 29.VIII.2004, R. P. Webster, regenerating mixed forest, on foliage (1, RWC).</p>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Map 4.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Falsomordellistena discolor</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>A large series of this species was captured in Lindgren funnel traps deployed in the forest canopy of an old red oak forest. One individual was found on foliage in a regenerating (20-year-old) mixed forest. Adults were captured during July and August. In Wisconsin, this species was captured in flight intercept traps and malaise traps in sandy oak barrens and a mixed southern forest (<xref ref-type="bibr" rid="B16">Lisberg and Young 2003</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska. </title>
+                        <p>ON, <bold>NB</bold> (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Falsomordellistena</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">pubescens</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Falsomordellistena_pubescens</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Fabricius, 1798)***</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F5">Map 5</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>Canada, New Brunswick,</bold> <bold>York Co.</bold>, Rt. 645 at Beaver Brook, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.6830°N, 66.8679°W</named-content>, 8.VII.2008, R. P. Webster, red maple and alder swamp, on flowers of <italic><tp:taxon-name>Ilex verticiliata</tp:taxon-name></italic> (winter berry) (18, NBM, RWC).</p>
+                        <fig id="F5" position="float" orientation="portrait">
+                            <label>Map 5.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Falsomordellistena pubescens</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>A large series of this species was collected from flowers of winter berry (<italic><tp:taxon-name>Ilex verticiliata</tp:taxon-name></italic> (L.) Gray) in a red maple (<italic><tp:taxon-name>Acer rubrum</tp:taxon-name></italic> L.) and alder (<italic><tp:taxon-name>Alnus</tp:taxon-name></italic> sp.) swamp. Adults were captured during early July. In Wisconsin, this species was captured in malaise traps on the margin of a southern mixed deciduous hardwood forest (<xref ref-type="bibr" rid="B16">Lisberg and Young 2003</xref>). <xref ref-type="bibr" rid="B6">Downie and Arnett (1996)</xref> reported this species as common on various wild flowers in Indiana.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p><bold>NB</bold> (new Canadian record).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Glipostenoda</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">ambusta</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Glipostenoda_ambusta</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(LeConte, 1862)</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F6">Map 6</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Carleton Co.</bold>,Jackson Falls,Bell Forest, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.2200°N, 67.7231°W</named-content>, 19–28.VII.2008, R. P. Webster, mature hardwood forest, Lindgren funnel trap (1, RWC).</p>
+                        <fig id="F6" position="float" orientation="portrait">
+                            <label>Map 6.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Glipostenoda ambusta</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>One individual of this species was captured during July in a Lindgren funnel trap in a mature hardwood forest with sugar maple (<italic><tp:taxon-name>Acer saccharum</tp:taxon-name></italic> Marsh.), American beech (<italic><tp:taxon-name>Fagus grandifolia</tp:taxon-name></italic> Ehrh.), and white ash (<italic><tp:taxon-name>Fraxinus americana</tp:taxon-name></italic> L.). Elsewhere, <xref ref-type="bibr" rid="B16">Lisberg and Young (2003)</xref> collected one specimen of this species from Queen Anne’s lace (<italic><tp:taxon-name>Daucus carota</tp:taxon-name></italic> L.) and others from flight intercept and<!--PageBreak--> malaise traps in an oak barrens adjacent to a sand barrens and field. <xref ref-type="bibr" rid="B6">Downie and Arnett (1996)</xref> reported this species from basswood (<italic><tp:taxon-name>Tilia americana</tp:taxon-name></italic> L.) in Indiana.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>BC, ON, QC, <bold>NB,</bold> NS (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>; <xref ref-type="bibr" rid="B18">Majka and Jackman 2006</xref>). <xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref> reported this species for the first time in the Maritime provinces from Nova Scotia.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Mordellina</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">ancilla</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Mordellina_ancilla</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(LeConte, 1862)</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F7">Map 7</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, York Co.</bold>, Charters Settlement, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8430°N, 66.7275°W</named-content>, 27.VI.2004, R. P. Webster, regenerating mixed forest, sweeping foliage in brushy opening (1, RWC).</p>
+                        <fig id="F7" position="float" orientation="portrait">
+                            <label>Map 7.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Mordellina ancilla</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>One individual of this species was swept from foliage in a brushy opening of a regenerating (20-year-old) mixed forest during late June. This species was reared from <italic><tp:taxon-name>Gleditsia triacanthos</tp:taxon-name></italic> L. (<tp:taxon-name>Fabaceae</tp:taxon-name>) (larvae feed inside the thorns) in Tennessee, USA (<xref ref-type="bibr" rid="B8">Ford and Jackman 1996</xref>), but undoubtedly uses other hosts in New Brunswick as this host species does not occur in the province.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>ON, <bold>NB,</bold> NS (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>; <xref ref-type="bibr" rid="B18">Majka and Jackman 2006</xref>). <italic><tp:taxon-name>Mordellina ancilla</tp:taxon-name></italic> was newly recorded from Nova Scotia and the Maritime provinces by <xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref>.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Mordellina</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">pustulata</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Mordellina_pustulata</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Melsheimer, 1846)</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F8">Map 8</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Carleton Co.</bold>, Meduxnekeag Valley Nature Preserve, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.1931°N, 67.6825°W</named-content>, 13.VII.2004, K. Bredin, J. Edsall, &amp; R. Webster, river margin, sweeping foliage (1, RWC). <bold>York Co.</bold>, Charters Settlement, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8430°N, 66.7275°W</named-content>, 20.VII.2008, R. P. Webster, old field within regenerating mixed forest, sweeping flowers of <italic><tp:taxon-name>Aralia hispida</tp:taxon-name></italic> (5, RWC); same locality data and collector but 30.VII.2008, regenerating mixed forest, sweeping foliage in brushy opening (1, RWC). <bold>Sunbury Co.</bold>, ca. 2.5 km S of Beaver Dam, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.7703°N, 66.6867°W</named-content>, 26.VI.2007, R. P. Webster, mixed forest with red pine, along power-line cut, sweeping foliage (1, RWC).</p>
+                        <fig id="F8" position="float" orientation="portrait">
+                            <label>Map 8.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Mordellina pustulata</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>In New Brunswick, <italic><tp:taxon-name>Mordellina pustulata</tp:taxon-name></italic> adults were swept from foliage along a river margin, in a regenerating (20-year-old) mixed forest, and along a power-line right-of-way through a mixed forest. Adults were also swept from flowers of bristly sarsaparilla (<italic><tp:taxon-name>Aralia hispida</tp:taxon-name></italic> Vent.) in a small old field within a regenerating (20-year-old) mixed forest. This species was collected during late June and July. Elsewhere, <italic><tp:taxon-name>Mordellina pustulata</tp:taxon-name></italic> has been reared from stems of <italic><tp:taxon-name>Gentiana andrewsii</tp:taxon-name></italic> Griseb. <!--PageBreak-->(<tp:taxon-name>Gentianaceae</tp:taxon-name>), <italic><tp:taxon-name>Veronia altissima</tp:taxon-name></italic> Nutt. (<tp:taxon-name>Scrophulariaceae</tp:taxon-name>), and 19 species of <tp:taxon-name>Asteraceae</tp:taxon-name> (<xref ref-type="bibr" rid="B8">Ford and Jackman 1996</xref>; <xref ref-type="bibr" rid="B16">Lisberg and Young 2003</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>BC, AB, SK, MB, ON, QC, <bold>NB</bold>, NS (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>; <xref ref-type="bibr" rid="B18">Majka and Jackman 2006</xref>).This species was newly recorded from Nova Scotia and the Maritime provinces by <xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref>.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Mordellistena</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">fuscipennis</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Mordellistena_fuscipennis</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Melsheimer, 1846)</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F9">Map 9</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined. </title>
+                        <p><bold>New Brunswick, Carleton Co.</bold>,Jackson Falls,Bell Forest, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.2200°N, 67.7231°W</named-content>, 19–28.VII.2008, 28.VII-6.VIII.2008, 6–14.VIII.2008, R. P. Webster, mature hardwood forest, Lindgren funnel traps (5, AFC, RWC); same locality and forest type, 31.VII-7.VIII.2009, 7–12.VIII.2009, R. Webster &amp; M.-A. Giguère, Lindgren funnel trap (2, RWC). <bold>Queens Co.</bold>, Cranberry Lake P.N.A, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.1125°N, 65.6075°W</named-content>, 28.VII-6.VIII.2009, 6–14.VIII.2009, R. Webster &amp; M.-A. Giguère, old red oak forest, Lindgren funnel traps (2, AFC, RWC). <bold>Restigouche Co.</bold>, Dionne Brook P.N.A., <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">47.9030°N, 68.3503°W</named-content>, 9–23.VIII.2011, M. Roy &amp; V. Webster, old-growth northern hardwood forest, Lindgren funnel trap (1, NBM); same locality and collectors but <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">47.9064°N, 68.3441°W</named-content>, 28.VII-9.VIII.2011, old-growth white spruce and balsam fir forest, Lindgren funnel trap (1, NBM). <bold>Sunbury Co.</bold>, Acadia Research Forest, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.9866°N, 66.3841°W</named-content>, 21–29.VII.2009, R. Webster &amp; M.-A. Giguère, mature (110-year-old) red spruce forest with scattered red maple and balsam fir, Lindgren funnel trap (1, AFC). <bold>York Co.</bold>, Charters Settlement, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8430°N, 66.7275°W</named-content>, 28.VIII.2004, R. P. Webster, mixed forest, on goldenrod (1, RWC); same locality and collector, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8395°N, 66.7391°W</named-content>, 23.VII.2007, 5.VIII.2009, mixed forest, u.v. light and Lindgren funnel traps (3, NBM, RWC); 15 km W of Tracy off Rt. 645, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.6848°N, 66.8821°W</named-content>, 20–29.VII.2009, R. Webster &amp; M.-A. Giguère, old red pine forest, Lindgren funnel trap (1, AFC); 14 km WSW of Tracy, S of Rt. 645, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.6741°N, 66.8661°W</named-content>, 13–27.VII.2010, R. Webster &amp; C. MacKay, old mixed forest with red and white spruce, red and white pine, balsam fir, eastern white cedar, red maple, and <italic><tp:taxon-name>Populus</tp:taxon-name></italic> sp., Lindgren funnel trap (1, AFC).</p>
+                        <fig id="F9" position="float" orientation="portrait">
+                            <label>Map 9.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Mordellistena fuscipennis</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>In Wisconsin, adults of <italic><tp:taxon-name>Mordellistena fuscipennis</tp:taxon-name></italic> were collected at a black light and from flight intercept and malaise traps in various hardwood forests (<xref ref-type="bibr" rid="B16">Lisberg and Young 2003</xref>). In Nova Scotia, adults were collected from deciduous and mixed coniferous forests (<xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref>. This species was also found in various deciduous and conifer forest types in New Brunswick. Adults were captured in Lindgren funnel traps in a mature hardwood forest with sugar maple, American beech, and white ash, an old red oak forest, an old-growth northern hardwood forest with sugar maple and yellow birch (<italic><tp:taxon-name>Betula alleghaniensis</tp:taxon-name></italic> Britt.), in old and mature mixed forests, in an old red pine (<italic><tp:taxon-name>Pinus resinosa</tp:taxon-name></italic> Ait.) forest, in a mature red spruce forest, and in an old-growth white spruce (<italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> (Moench) and balsam fir (<italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic><!--PageBreak--> (L.) Mill.) forest. The only adult with specific micro-habitat data was collected from goldenrod (<italic><tp:taxon-name>Solidago</tp:taxon-name></italic> sp.) flowers. Two individuals were collected at an ultraviolet light near a mixed forest. Adults were collected during July and August.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>ON, QC, <bold>NB</bold>, PE, NS, (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>; <xref ref-type="bibr" rid="B18">Majka and Jackman 2006</xref>).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Mordellistena</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">ornata</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Mordellistena_ornata</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Melsheimer, 1846)**</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F10">Map 10</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick,</bold> <bold>Carleton Co.</bold>,Jackson Falls,Bell Forest, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.2152°N, 67.7190°W</named-content>, 12.VII.2004, K. Bredin, J. Edsall, &amp; R. Webster, river margin, sweeping foliage (1, RWC). <bold>Queens Co.</bold>, Grand Lake Meadows P.N.A., <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8227°N, 66.1209°W</named-content>, 15–29.VI.2009, R. Webster &amp; C. MacKay, old silver maple forest with green ash and seasonally flooded marsh, Lindgren funnel trap (1, AFC).</p>
+                        <fig id="F10" position="float" orientation="portrait">
+                            <label>Map 10.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Mordellistena ornata</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>In Wisconsin, <italic><tp:taxon-name>Mordellistena ornata</tp:taxon-name></italic> was collected from sumac (<italic><tp:taxon-name>Rhus</tp:taxon-name></italic> sp.), poplar (<italic><tp:taxon-name>Populus</tp:taxon-name></italic> sp.), <italic><tp:taxon-name>Ceanothus</tp:taxon-name></italic> sp., and flowers of two <italic><tp:taxon-name>Cornus</tp:taxon-name></italic> species (<xref ref-type="bibr" rid="B16">Lisberg and Young 2003</xref>). Adults were also captured in flight intercept and malaise traps in oak forests, and in southern and northern hardwood forests. In New Brunswick, this species was swept from foliage along a river margin and captured in a Lindgren funnel trap deployed in an old silver maple swamp. Adults were captured during June and July.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>SK, MB, ON, QC, <bold>NB</bold> (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Mordellistena</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">picilabris</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Mordellistena_picilabris</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Helmuth, 1864</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F11">Map 11</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Albert Co.</bold>, Mary’s Point, 21.V.2005, C. G. Majka, salt marsh, on flowers (1, CGMC). <bold>Restigouche Co.</bold>, Blackland, 22.VIII.2007, J. S. McIvor, in grass (1, CGMC). <bold>Sunbury Co.</bold>, 9.5 km NE of jct. 101 &amp; 645, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.7586°N, 66.6755°W</named-content>, 17.VII.2008, R. P. Webster, old field with open sandy areas, sweeping foliage (1, RWC). <bold>York Co.</bold>, Charters Settlement, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8340°N, 66.7450°W</named-content>, 10.VII.2005, R. P. Webster, old field, sweeping (1, RWC); same locality and collector but <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.8430°N, 66.7275°W</named-content>, 20.VII.2008, old field within regenerating (20 years-old) mixed forest, seeping flowers of <italic><tp:taxon-name>Aralia hispida</tp:taxon-name></italic> (1, RWC).</p>
+                        <fig id="F11" position="float" orientation="portrait">
+                            <label>Map 11.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Mordellistena picilabris</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g011.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>In New Brunswick, <italic><tp:taxon-name>Mordellistena picilabris</tp:taxon-name></italic> was collected from flowers in a salt marsh, from grass, and by sweeping foliage and <italic><tp:taxon-name>Aralia hispida</tp:taxon-name></italic> in old fields. Adults were captured during May, July, and August.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>MB, <bold>NB</bold>, NS, PE (<xref ref-type="bibr" rid="B19">McNamara 1991</xref>; <xref ref-type="bibr" rid="B18">Majka and Jackman 2006</xref>). <xref ref-type="bibr" rid="B18">Majka and Jackman (2006)</xref> reported this species as newly recorded for New Brunswick, Nova Scotia, and Prince Edward Island in <xref ref-type="table" rid="T1">Table 1</xref> of their list of species of the Maritime provinces but inadvertently included no supporting data for the New Brunswick record. Here, we include this record and additional records that establish the presence of this species for New Brunswick.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="Family Rhipiphoridae Gemminger, 1870">
+                <title>Family <tp:taxon-name>Rhipiphoridae</tp:taxon-name> Gemminger, 1870</title>
+                <p><xref ref-type="bibr" rid="B17">Majka et al. (2006)</xref> reported <italic><tp:taxon-name>Ripiphorus fasciatus</tp:taxon-name></italic> (Say) and the family <tp:taxon-name>Rhipiphoridae</tp:taxon-name> for the first time for New Brunswick, Nova Scotia, and the Maritime provinces. Here, we report another species of <tp:taxon-name>Ripiphoridae</tp:taxon-name>, <italic><tp:taxon-name>Pelecotoma flavipes</tp:taxon-name></italic> Melsheimer, for the first time for New Brunswick and the Maritime provinces (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            </sec>
+            <sec sec-type="Subfamily Pelecotominae Seidlitz, 1875">
+                <title>Subfamily <tp:taxon-name>Pelecotominae</tp:taxon-name> Seidlitz, 1875</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Pelecotoma</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">flavipes</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Pelecotoma_flavipes</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Melsheimer, 1846**</tp:taxon-authority>
+                        <xref ref-type="fig" rid="F12">Map 12</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p><bold>New Brunswick, Queens Co.</bold>, Cranberry Lake P.N.A, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.1125°N, 65.6075°W</named-content>, 10–15.VII.2009, R. Webster &amp; M.-A. Giguère, old red oak forest, Lindgren funnel traps (2, RWC); same locality data and forest type, 7–13.VII.2011, 13–20.VII.2011, M. Roy &amp; V. Webster, Lindgren funnel traps in forest canopy (13, AFC, NBM, RWC). <bold>Victoria Co.</bold>, Arthurette, (no day given).III.1959, C. C. Smith, emerged from barn timbers (1, AFC). <bold>York Co.</bold>, 15 km W of Tracy off Rt. 645, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.6848°N, 66.8821°W</named-content>, 30.VI–13.VII.2010, R. Webster &amp; K. Burgess, old red pine forest, Lindgren funnel trap (in forest canopy) (1, AFC).</p>
+                        <fig id="F12" position="float" orientation="portrait">
+                            <label>Map 12.</label>
+                            <caption><p>Collection localities in New Brunswick, Canada of <italic><tp:taxon-name>Pelecotoma flavipes</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-179-243-g012.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Collection and habitat data">
+                        <title>Collection and habitat data.</title>
+                        <p>A large series of this species was captured in Lindgren funnel traps in an old red oak forest. Most individuals were captured in traps in the forest canopy. One individual was captured in a Lindgren funnel trap in the canopy of a red pine in an old red pine forest; another emerged from barn timbers. Adults were captured during July. This species is a parasitoid of <italic><tp:taxon-name>Ptilinus ruficornis</tp:taxon-name></italic> (Say) (<tp:taxon-name>Anobiidae</tp:taxon-name>) and is found on exposed dead wood of sugar maples, American beech, and oak (<xref ref-type="bibr" rid="B20">Stephens 1968</xref>; <xref ref-type="bibr" rid="B1">Acciavatti and Simone 1976</xref>) and probably has a life history similar to that of <italic><tp:taxon-name>Pelecotoma fennica</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B21">Svácha 1994</xref>). <italic><tp:taxon-name>Ptilinus ruficornis</tp:taxon-name></italic> was common at both localities where <italic><tp:taxon-name>Pelecotoma flavipes</tp:taxon-name></italic> was collected.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution in Canada and Alaska.</title>
+                        <p>ON, QC, <bold>NB</bold> (<xref ref-type="bibr" rid="B5">Campbell 1991</xref>)<!--PageBreak--><!--PageBreak--></p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>We thank Caroline Simpson for editing this manuscript and Christopher Majka and an anonymous reviewer for reviewing it. Serge Laplante (Agriculture and Agri-Food Canada (CNC), Ottawa) is thanked for determining species and other invaluable assistance. Christopher Majka is thanked for providing records of <italic><tp:taxon-name>Mordellistena picilabris</tp:taxon-name></italic>. We thank Nichole Brawn, Kate Bredin, Katie Burgess, Marie-Andrée Giguère, Jim Edsall, Nancy Harn, Cory Hughes, Rob Johns, Marsell Laity, Colin MacKay, Wayne MacKay, Jessica Price, Michelle Roy, Dwayne Sabine, and Vincent Webster for technical assistance and collecting specimens. Natural Resources Canada - Canadian Forest Service; the Canadian Food Inspection Agency; and the USDA APHIS are thanked for funding the study on early detection of invasive cerambycids, which provided many specimens collected in Lindgren funnel traps. We thank the New Brunswick Environmental Trust Fund and New Brunswick Wildlife Trust Fund for funding various insect surveys over the past 7 years and the Meduxnekeag River Association for permission to sample beetles at the Meduxnekeag Valley Nature Preserve (which includes the Bell Forest). The New Brunswick Department of Natural Resources (Fish and Wildlife Branch) is thanked for issuing permits for sampling in the Protected Natural Areas and for providing logistical support.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Acciavatti</surname> <given-names>RE</given-names></name><name name-style="western"><surname>Simone</surname> <given-names>JB</given-names></name></person-group> (<year>1976</year>)<article-title> The occurrence of anobiid species in a northern hardwood forest and the emergence, flight and host selection behaviour of <italic>Ptilinus ruficornis</italic> (Say) (Coleoptera: Anobiidae).</article-title> <source>Material und Organismen </source> <volume>3</volume>: <fpage>419</fpage>-<lpage>427</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bouchard</surname> <given-names>P</given-names></name><name name-style="western"><surname>Bousquet</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Davies</surname> <given-names>AE</given-names></name><name name-style="western"><surname>Alonso-Zarazaga</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Lawrence</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Lyal</surname> <given-names>CHC</given-names></name><name name-style="western"><surname>Newton</surname> <given-names>AF</given-names></name><name name-style="western"><surname>Reid</surname> <given-names>CAM</given-names></name><name name-style="western"><surname>Schmitt</surname> <given-names>M</given-names></name><name name-style="western"><surname>Ślipiński</surname> <given-names>SA</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>ABT</given-names></name></person-group> (<year>2011</year>)<article-title> Family-group names in Coleoptera (Insecta).</article-title> <source>ZooKeys </source> <volume>88</volume>: <fpage>1</fpage>-<lpage>972</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.88.807" xlink:type="simple">10.3897/zookeys.88.807</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bright</surname> <given-names>DE</given-names></name></person-group> (<year>1986</year>)<source> A catalog of the Coleoptera of America north of Mexico, Family Mordellidae. USDA, ARS, Agriculture Handbook 529–125, 22 pp.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brimley</surname> <given-names>JF</given-names></name></person-group> (<year>1951</year>)<article-title> Mordellidae of Prince Edward County, Ontario, (Coleoptera).</article-title> <source>The Canadian Entomologist </source> <volume>83</volume>: <fpage>278</fpage>-<lpage>279</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent83278-10" xlink:type="simple">10.4039/Ent83278-10</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Campbell</surname> <given-names>JM</given-names></name></person-group> (<year>1991</year>)<article-title> Family Rhipiphoridae: wedge-shaped beetles.</article-title> In: <person-group><name name-style="western"><surname>Bousquet</surname> <given-names>Y</given-names></name></person-group> (<role>Ed</role>). <issue-title>Checklist of Beetles of Canada and Alaska.</issue-title> <source>Publication 1861/E, Agriculture Canada, Research Branch, Ottawa, Ontario</source>: <fpage>250</fpage>-<lpage>251</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Downie</surname> <given-names>NM</given-names></name><name name-style="western"><surname>Arnett</surname> <given-names>RH Jr.</given-names></name></person-group> (<year>1996</year>)<source> The Beetles of Northeastern North America, Volumes 1 and 2.</source> <publisher-name>Sandhill Crane Press</publisher-name>, <publisher-loc>Gainesville</publisher-loc>, <lpage>1721</lpage> pp.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Falin</surname> <given-names>ZH</given-names></name></person-group> (<year>2002</year>)<article-title> Family 102. Ripiphoridae Gemminger and Harold 1870 (1853).</article-title> In: <person-group><name name-style="western"><surname>Arnett</surname> <given-names>RH Jr</given-names></name><name name-style="western"><surname>Thomas</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Skelley</surname> <given-names>PE</given-names></name><name name-style="western"><surname>Frank</surname> <given-names>JH</given-names></name></person-group> (<role>Eds</role>). <issue-title>American Beetles.</issue-title> <source>Volume 2. Polyphaga: Scarabaeoidea through Curculionoidea, CRC Press, Boca Raton, Florida</source>: <fpage>431</fpage>-<lpage>444</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ford</surname> <given-names>EJ</given-names></name><name name-style="western"><surname>Jackman</surname> <given-names>JA</given-names></name></person-group> (<year>1996</year>)<article-title> New larval host plant data associations of tumbling flower beetles (Coleoptera: Mordellidae) in North America.</article-title> <source>The Coleopterists Bulletin </source> <volume>50</volume>: <fpage>361</fpage>-<lpage>368</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jackman</surname> <given-names>JA</given-names></name></person-group> (<year>1991</year>)<article-title> Notes on the nomenclature of Mordellidae of America north of Mexico.</article-title> <source>The Coleopterists Bulletin </source> <volume>45</volume>: <fpage>323</fpage>-<lpage>330</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jackman</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Lu</surname> <given-names>W</given-names></name></person-group> (<year>2001</year>)<article-title> Nomenclatural changes for Mordellidae (Coleoptera) in North America.</article-title> <source>Insecta Mundi </source> <volume>15</volume>: <fpage>31</fpage>-<lpage>34</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jackman</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Lu</surname> <given-names>W</given-names></name></person-group> (<year>2002</year>)<article-title> Family 101. Mordellidae Latreille 1802.</article-title> In: <person-group><name name-style="western"><surname>Arnett</surname> <given-names>RH Jr</given-names></name><name name-style="western"><surname>Thomas</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Skelley</surname> <given-names>PE</given-names></name><name name-style="western"><surname>Frank</surname> <given-names>JH</given-names></name></person-group> (<role>Eds</role>). <issue-title>American Beetles.</issue-title> <source>Volume 2. Polyphaga: Scarabaeoidea through Curculionoidea, CRC Press, Boca Raton, Florida</source>: <fpage>423</fpage>-<lpage>430</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liljeblad</surname> <given-names>E</given-names></name></person-group> (<year>1945</year>)<source> Monograph of the family Mordellidae (Coleoptera) of North America, north of Mexico. University of Michigan Museum of Zoology Miscellaneous Publication 62, 229 pp.</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindgren</surname> <given-names>BS</given-names></name></person-group> (<year>1983</year>)<article-title> A multiple funnel trap for scolytid beetles (Coleoptera).</article-title> <source>The Canadian Entomologist </source> <volume>115</volume>: <fpage>299</fpage>-<lpage>302</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent115299-3" xlink:type="simple">10.4039/Ent115299-3</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Linsley</surname> <given-names>EG</given-names></name><name name-style="western"><surname>Macswain</surname> <given-names>JW</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>RF</given-names></name></person-group> (<year>1952</year>)<article-title> The life history and development of <italic>Rhipiphorus smithi</italic> with notes on their phylogenetic significance.</article-title> <source>University of California Publications in Entomology </source> <volume>9</volume>: <fpage>291</fpage>-<lpage>314</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lisberg</surname> <given-names>AE</given-names></name></person-group> (<year>2003</year>)<article-title> Taxonomic changes for fifteen species of North American Mordellidae (Coleoptera).</article-title> <source>Insecta Mundi </source> <volume>17</volume>: <fpage>191</fpage>-<lpage>194</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lisberg</surname> <given-names>AE</given-names></name><name name-style="western"><surname>Young</surname> <given-names>DK</given-names></name></person-group> (<year>2003</year>)<article-title> An annotated checklist of Wisconsin Mordellidae (Coleoptera).</article-title> <source>Insecta Mundi </source> <volume>17</volume>: <fpage>195</fpage>-<lpage>202</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Majka</surname> <given-names>CG</given-names></name><name name-style="western"><surname>Chandler</surname> <given-names>DS</given-names></name><name name-style="western"><surname>Sheffield</surname> <given-names>CS</given-names></name><name name-style="western"><surname>Webster</surname> <given-names>RP</given-names></name></person-group> (<year>2006</year>)<article-title> New records of Ripiphoridae (Coleoptera) from the Maritime provinces of Canada.</article-title> <source>The Coleopterists Bulletin  </source> <volume>60</volume> (<issue>4</issue>): <fpage>299</fpage>-<lpage>303</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1649/0010-065X(2006)60[299:NRORCF]2.0.CO;2" xlink:type="simple">10.1649/0010-065X(2006)60[299:NRORCF]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Majka</surname> <given-names>CG</given-names></name><name name-style="western"><surname>Jackman</surname> <given-names>JA</given-names></name></person-group> (<year>2006</year>)<article-title> The Mordellidae (Coleoptera) of the Maritime provinces of Canada.</article-title> <source>The Canadian Entomologist </source> <volume>138</volume>: <fpage>292</fpage>-<lpage>304</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/n05-080" xlink:type="simple">10.4039/n05-080</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McNamara</surname> <given-names>J</given-names></name></person-group> (<year>1991</year>)<article-title> Family Mordellidae: tumbling flower beetles.</article-title> In: <person-group><name name-style="western"><surname>Bousquet</surname> <given-names>Y</given-names></name></person-group> (<role>Ed</role>). <issue-title>Checklist of Beetles of Canada and Alaska.</issue-title> <source>Publication 1861/E, Agriculture Canada, Research Branch, Ottawa, Ontario</source>: <fpage>248</fpage>-<lpage>250</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stephens</surname> <given-names>K</given-names></name></person-group> (<year>1968</year>)<source> Observations on <italic>Pelecotoma flavipes</italic> Melsheimer (Coleoptera: Rhipiphoridae). The Coleopterists Bulletin 22: 30.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Svácha</surname> <given-names>P</given-names></name></person-group> (<year>1994</year>)<article-title> Bionomics, behaviour, and immature stages of <italic>Pelecotoma fennica</italic> (Paykull) (Coleoptera: Rhipiphoridae).</article-title> <source>Journal of Natural History </source> <volume>28</volume>: <fpage>585</fpage>-<lpage>618</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/00222939400770271" xlink:type="simple">10.1080/00222939400770271</ext-link></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Webster</surname> <given-names>RP</given-names></name><name name-style="western"><surname>Smetana</surname> <given-names>A</given-names></name><name name-style="western"><surname>Sweeney</surname> <given-names>JD</given-names></name><name name-style="western"><surname>DeMerchant</surname> <given-names>I</given-names></name></person-group> (<year>in press</year>)<source> New Staphylinidae (Coleoptera) records with new collection data from New Brunswick and an addition to the fauna of Quebec: Staphylininae. In: Klimaszewski J, Anderson R (Eds) Biodiversity, Biosystematics and Ecology of Canadian Staphylinidae (Coleoptera) II. ZooKeys.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

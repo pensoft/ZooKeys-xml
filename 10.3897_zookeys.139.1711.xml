@@ -1,0 +1,736 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.139.1711</article-id>
+            <title-group>
+                <article-title>Three species of land leeches from Taiwan, 
+                    <italic>Haemadipsa rjukjuana</italic> comb. n., a new record for 
+                    <italic>Haemadipsa picta</italic> Moore, and an updated description of 
+                    <italic>Tritetrabdella taiwana</italic> (Oka)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lai</surname>
+                        <given-names>Yi-Te</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Nakano</surname>
+                        <given-names>Takafumi</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Chen</surname>
+                        <given-names>Jiun-Hong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Institute of Zoology, National Taiwan University, No. 1, Roosevelt Road, Section 4, Taipei 106, Taiwan
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Biology, University of Eastern Finland, P. O. Box 111, FI 80101 Joensuu, Finland
+            </aff>
+            <aff id="A3">
+                <label>3</label>Laboratory of Systematic Zoology, Department of Zoology, Graduate school of Science, Kyoto University, Kitashirakawa-Oiwakecho, Sakyo-ku, Kyoto 606-8502, Japan
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Jiun-Hong Chen (<email xlink:type="simple">chenjh@ntu.edu.tw</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: F. Govedich</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>25</day>
+                <month>10</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>139</issue>
+            <fpage>1</fpage>
+            <lpage>22</lpage>
+            <history>
+                <date date-type="received">
+                    <day>13</day>
+                    <month>6</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Yi-Te Lai, Takafumi Nakano, Jiun-Hong Chen</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Three species of land leeches, including a new combination <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> <bold>comb. n.</bold>, a new record for <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> Moore, as well as an updated description for <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> (Oka), are reported in this study. Morphological characters and DNA barcode analysis were used to identify these species. In addition, since <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> had been regarded as a variety of the Japanese land leech <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> for a century, morphological differences between these two species were also compared.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Land leech</kwd>
+                <kwd><italic>Haemadipsa rjukjuana</italic></kwd>
+                <kwd><italic>Haemadipsa picta</italic></kwd>
+                <kwd><italic>Tritetrabdella taiwana</italic></kwd>
+                <kwd><italic>Haemadipsa japonica</italic></kwd>
+                <kwd>Taxonomy</kwd>
+                <kwd>Taiwan</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>Land leeches are generally referred to a group of sanguivorous species belonging to different genera that mainly live in the Indo-Pacific. These species are adapted <!--PageBreak-->to terrestrial life, but are restricted to damp forests with high humidity; hence, the majority of species are distributed in tropical and subtropical areas (<xref ref-type="bibr" rid="B25">Sawyer 1986</xref>). Because of their bloodfeeding habit, land leeches have been observed and collected in damp forests during surveys, and many of these species have been described in the last century. According to <xref ref-type="bibr" rid="B29">Sket and Trontelj (2008)</xref>, there are about 60 described land leech species, of which 50 belong to the Family <tp:taxon-name>Haemadipsidae</tp:taxon-name>, while the rest are in the Family <tp:taxon-name>Xerobdellidae</tp:taxon-name>. However, the taxonomy of these bloodfeeding land leeches remained complicated and ambiguous for decades prior to the advent of molecular phylogenetic research at the end of the last century. <xref ref-type="bibr" rid="B25">Sawyer (1986)</xref> suggested that the single family <tp:taxon-name>Haemadipsidae</tp:taxon-name>, which comprises a total of 17 genera divided into the duognathous (two jaws) and trignathous (three jaws) series, should include all the land leech species. However, <xref ref-type="bibr" rid="B17">Moore (1946)</xref>, (<xref ref-type="bibr" rid="B22">Ringuelet (1953</xref>, <xref ref-type="bibr" rid="B23">1972</xref>, <xref ref-type="bibr" rid="B24">1982</xref>) and (<xref ref-type="bibr" rid="B20">Richardson (1975</xref>, <xref ref-type="bibr" rid="B21">1978</xref>) suggested dividing about 30 genera into several families (including <tp:taxon-name>Haemadipsidae</tp:taxon-name>), to distinguish between bloodfeeding land leeches from the Indo-Pacific, which only have two jaws, and other regions. Ultimately, the controversial higher-level taxonomy of bloodfeeding land leeches was resolved through a series of molecular phylogenetic studies (<xref ref-type="bibr" rid="B32">Trontelj et al. 1999</xref>; <xref ref-type="bibr" rid="B4">Borda and Siddall 2004</xref>; <xref ref-type="bibr" rid="B11">Kutschera et al. 2007</xref>; <xref ref-type="bibr" rid="B3">Borda et al. 2008</xref>). Based on these studies, bloodfeeding land leeches are separated into two families, <tp:taxon-name>Haemadipsidae</tp:taxon-name> and <tp:taxon-name>Xerobdellidae</tp:taxon-name>, using both morphological characteristics and molecular analysis. However, despite recently published conclusions about the higher taxonomic level of bloodfeeding land leeches, the species-level taxonomy of these groups has been largely ignored. Therefore, a land leech species, such as <italic><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name></italic> Whitman, for which many subspecies or varieties have been described, has not been critically investigated.</p>
+            <p>DNA barcoding is a system of species identification that uses DNA sequences (<xref ref-type="bibr" rid="B7">Hebert et al. 2003</xref>). Mitochondrial cytochrome <italic>c</italic> oxidase subunit 1 (COI) sequences have been selected as the DNA barcode for most animal phyla (<xref ref-type="bibr" rid="B7">Hebert et al. 2003</xref>). Recently, the need for DNA barcoding in the species identification of leeches has been widely discussed (<xref ref-type="bibr" rid="B1">Bely and Weisblat 2006</xref>; <xref ref-type="bibr" rid="B28">Siddall et al. 2007</xref>). <xref ref-type="bibr" rid="B1">Bely and Weisblat (2006)</xref> found that the laboratory isolates of <italic><tp:taxon-name>Helobdella</tp:taxon-name></italic> used for developmental biological studies, which had previously been identified as <italic><tp:taxon-name>Haemadipsa triserialis</tp:taxon-name></italic> Blanchard and <italic><tp:taxon-name>Haemadipsa robusta</tp:taxon-name></italic> Shankland et al., represented five distinct species, including at least two cryptic species. By using the same DNA technique, <xref ref-type="bibr" rid="B27">Siddall and Budinoff (2005)</xref> identified the widespread introduction of <italic><tp:taxon-name>Helobdella europaea</tp:taxon-name></italic> Kutschera into Australia, New Zealand, South Africa, and Hawaii. In Taiwan, <xref ref-type="bibr" rid="B13">Lai et al. (2009)</xref> also identified <italic><tp:taxon-name>Haemadipsa europaea</tp:taxon-name></italic> through DNA barcoding analysis, as well as two new <italic><tp:taxon-name>Helobdella</tp:taxon-name></italic> species, <italic><tp:taxon-name>Haemadipsa octatestisaca</tp:taxon-name></italic> Lai and Chang and <italic><tp:taxon-name>Haemadipsa melananus</tp:taxon-name></italic> Lai and Chang. However, the DNA barcoding of bloodfeeding leeches has only been used to identify different species of commercially available medical leeches, in addition to resolving the taxonomy of these leeches (<xref ref-type="bibr" rid="B33">Trontelj and Utevsky 2005</xref>; <xref ref-type="bibr" rid="B28">Siddall et al. 2007</xref>), rather than for taxonomic studies of bloodfeeding land leeches.<!--PageBreak--></p>
+            <p>This study presents the first case where DNA barcoding is applied to assist with new species descriptions for bloodfeeding land leeches. Here, we present a report on two <italic><tp:taxon-name>Haemadipsa</tp:taxon-name></italic> leeches, including a new combination, which was regarded as a variety of <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> for a century, and a new record of a species in Taiwan. In this study, we compare this new combination against <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic>. In addition, we also include descriptions and molecular analysis of a rarely described haemadipsoid species, <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> (Oka).</p>
+        </sec>
+        <sec sec-type="methods"><title>Methods</title>
+            <sec sec-type="Sample collection and preservation"><title>Sample collection and preservation</title>
+                <p>From 2001 to 2009, we collected leeches in the suburban hills and mountains around Taiwan. Collection strategies involved walking along forest trails and streams, as well as searching through damp undergrowth, to attract leeches. We also received leech specimens collected by other field surveyors and friends. Specimens were anesthetized and relaxed in 10% ethanol solution, followed by fixation in 10% formalin solution for 24 h. The specimens were then preserved in 70% ethanol solution for morphological inspection and dissection, or were directly preserved in 75% ethanol solution for DNA extraction and barcoding analyses. All specimens were deposited in the Invertebrate Zoology and Cell Biology Lab, Department of Life Science in National Taiwan University, Taipei, Taiwan.</p>
+            </sec>
+            <sec sec-type="DNA extraction, PCR, and DNA sequencing"><title>DNA extraction, PCR, and DNA sequencing</title>
+                <p>Tissue from the caudal sucker was used to minimize the possibility of contamination from host/prey DNA found in gastric and intestinal regions. The Genomic DNA Mini Kit (Tissue) (IBI Scientific, Iowa, USA) was used for tissue lysis and DNA puriﬁcation. The extracted DNA was stored at -20 °C.</p>
+                <p>A 658 bp mitochondrial cytochrome <italic>c</italic> oxidase subunit I (COI) DNA fragment was amplified using the universal primers LCO1490 (5’-GGT CAA CAA ATC ATA AAG ATA TTG G-3’) and HCO2198 (5’-TAA ACT TCA GGG TGA CCA AAA AAT CA-3’) (<xref ref-type="bibr" rid="B6">Folmer et al. 1994</xref>). PCR amplifications were carried out in a 50 μl total volume using 1 cycle at 94 °C for 1 min, followed by 6 cycles of denaturation for 30 s at 94 °C, annealing for 30 s at 45 °C, and extension for 50 s at 72 °C, and later by 35 cycles of denaturation for 30 s at 94 °C, annealing for 30 s at 54 °C, and extension for 50 s at 72 °C, with a final extension at 72 °C for 10 min.</p>
+                <p>The PCR products were checked using 1.0% agarose gel electrophoresis and sequenced in both directions using the same primers as in the PCR. Sequencing was performed with the ABI PRISM BigDye Terminator Cycle Sequencing Ready Reaction <!--PageBreak-->Kit, V3.1 (Applied Biosystems, CA, USA). Products were analysed with a ABI 3730 XL DNA Analyzer (Applied Biosystems).</p>
+            </sec>
+            <sec sec-type="DNA barcoding analyses"><title>DNA barcoding analyses</title>
+                <p>COI sequences of haemadipsoid leeches reported by <xref ref-type="bibr" rid="B26">Siddall and Burreson (1998)</xref>, <xref ref-type="bibr" rid="B4">Borda and Siddall (2004)</xref>, and <xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref> were retrieved from GenBank. Sequences of xerobdellid leeches reported by <xref ref-type="bibr" rid="B4">Borda and Siddall (2004)</xref> and <xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref> were also retrieved from GenBank and used as outgroups. All sequences used were aligned using the default settings of Clustal X 1.81 (<xref ref-type="bibr" rid="B31">Thompson et al. 1997</xref>). A homologous fragment of 604 bp of the COI sequence was used in this study. The sequences obtained were submitted to GenBank (<xref ref-type="table" rid="T1">Table 1</xref>). Phylogenetic analyses were conducted using MEGA 3.1 (<xref ref-type="bibr" rid="B10">Kumar et al. 2004</xref>). Neighbor joining (NJ) analyses were performed using Kimura’s two–parameter model (<xref ref-type="bibr" rid="B9">Kimura 1980</xref>). A bootstrap analysis with 1,000 pseudo–replicates was conducted to evaluate the robustness of the clades.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Collection localities and GenBank accession numbers of haemadipsoid leeches used in the phylogenetic analyses.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1">Taxon </th>
+                                <th rowspan="1" colspan="1">Locality</th>
+                                <th rowspan="1" colspan="1">GenBank accession No.</th>
+                                <th rowspan="1" colspan="1">Reference</th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic>Ingroup</italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chtonobdella bilineata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Australia</td>
+                                <td rowspan="1" colspan="1">AF003267</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B26">Siddall and Burreson (1998)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chtonobdella whitmani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Australia</td>
+                                <td rowspan="1" colspan="1">EU100087</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa interrupta</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Thailand</td>
+                                <td rowspan="1" colspan="1">EU100091</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa hainana</tp:taxon-name></italic> L00153A</td>
+                                <td rowspan="1" colspan="1">Hainan Island, China</td>
+                                <td rowspan="1" colspan="1">HQ322473</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Japan</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B5">Borda and Siddall (2011)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> </td>
+                                <td rowspan="1" colspan="1">Borneo</td>
+                                <td rowspan="1" colspan="1">AY425445</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B4">Borda and Siddall (2004)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> L00151A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322470</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> L00100A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322471</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> L00152A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322472</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00112A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322438</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00111A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322439</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00110A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322440</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00114A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322441</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00113A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322442</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00115A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322443</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00116A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322444</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00117A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322445</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00118A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322446</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00119A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322447</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00120A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322448</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00121A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322449</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00122A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322450</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00123A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322451</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00125A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322452</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00126A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322453</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00127A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322454</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00129A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322455</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00131A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322456</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00132A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322457</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00133A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322458</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00135A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322459</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00136A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322460</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00138A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322461</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> L00098A</td>
+                                <td rowspan="1" colspan="1">Ryukyu Islands, Japan</td>
+                                <td rowspan="1" colspan="1">HQ322462</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa sumatrana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Borneo</td>
+                                <td rowspan="1" colspan="1">AY425446</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B4">Borda and Siddall (2004)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haemadipsa sylvestris</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Vietnam</td>
+                                <td rowspan="1" colspan="1">AF003266</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B26">Siddall and Burreson (1998)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Idiobdella seychellensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Seychelle Islands</td>
+                                <td rowspan="1" colspan="1">EU100094</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Malagabdella fallax</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Madagascar</td>
+                                <td rowspan="1" colspan="1">EU100096</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nesophilaemon skottsbergii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Juan Fernandez Islands</td>
+                                <td rowspan="1" colspan="1">EU100098</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00141A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322463</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00142A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322464</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00143A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322465</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00144A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322466</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00146A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322467</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00147A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322468</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> L00150A</td>
+                                <td rowspan="1" colspan="1">Taiwan</td>
+                                <td rowspan="1" colspan="1">HQ322469</td>
+                                <td rowspan="1" colspan="1">This study</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic>Outgroup</italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Diestecostoma magna</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Mexico</td>
+                                <td rowspan="1" colspan="1">EU100088</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Diestecostoma mexicana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Mexico</td>
+                                <td rowspan="1" colspan="1">EU100089</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Diestecostoma trujillensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Mexico</td>
+                                <td rowspan="1" colspan="1">EU100090</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mesobdella gemmata</tp:taxon-name></italic> (1)</td>
+                                <td rowspan="1" colspan="1">Chile</td>
+                                <td rowspan="1" colspan="1">AY425454</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B4">Borda and Siddall (2004)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mesobdella gemmata</tp:taxon-name></italic> (2)</td>
+                                <td rowspan="1" colspan="1">Chile</td>
+                                <td rowspan="1" colspan="1">EU100097</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Xerobdella lecomtei</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Slovenia</td>
+                                <td rowspan="1" colspan="1">EU100099</td>
+                                <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B3">Borda et al. (2008)</xref></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <sec sec-type="Species descriptions"><title>Species descriptions</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Haemadipsa</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">rjukjuana</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Haemadipsa_rjukjuana</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Oka, 1910) Lai, Nakano &amp; Chen, 2011</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">comb. n.</tp:taxon-status>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>rjukjuana</italic> Oka, 1910. Annot. Zool. Jap. 7: 165–183</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name><comment> Takahashi, 1934. Rep. Jpn. Sci. Assoc. 10: 744–749</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name><comment> var. Moore, 1938. B. Raffles. Mus. 14: 64–80</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>rjukjuana</italic> Keegan &amp; Toshioka, 1968. Biomed. Rep. 406 Med. Lab. No. 16. United States Army Medical Commend, Japan.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name><comment> Wu, 1979. Quart. J. Taiwan Mus. 32: 193–207</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> Yang, 1996. Fauna Sinica, <tp:taxon-name>Annelida</tp:taxon-name>: Hirudinea. Science Press, Beijing, China.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>ryukyuana</italic> Lai &amp; Chen, 2005. Note Newsl. Wildlifers 9: 10–14</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>ryukyuana</italic> Lai et al., 2009. Zootaxa 2068: 27–46</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p>L00062 &amp; L00063 collected at 21<sup>st</sup> Sept. 2003 in the mountain in Yilan County.; L00064 collected at 16<sup>th</sup> Mar. 2002 in the Fushan Botanical Garden in Yilan County; L00101 collected at 23<sup>rd</sup> Apr. 2005 in the Fushan Botanical Garden in Yilan County; L00102 collected at 20<sup>th</sup> Jan. 2002 in the Fushan Botanical Garden in Yilan County; L00103 collected at 21<sup>st</sup> May 2005 in the Fushan Botanical<!--PageBreak--><!--PageBreak--> Garden in Yilan County. L00026 collected at 20<sup>th</sup> Jan. 2002 in the Fushan Botanical Garden in Yilan County; L00027 collected at 19<sup>th</sup> Feb. 2002 in the Fushan Botanical Garden in Yilan County; L00098A (two specimens) collected at 16<sup>th</sup> Mar. 2009 in Mt. Otake, Akuseki-jima, Tokara Islands, Japan (<named-content content-type="dwc:verbatimCoordinates">29°27'56"N, 129°35'40"E</named-content>); L00104 (three specimens) collected at 30<sup>th</sup> May 2005 in Wufong Town, Hsinchu County; L00105 collected at 16<sup>th</sup> Mar. 2002 in the Fushan Botanical Garden in Yilan County; L00106 collected at 20<sup>th</sup> Jan. 2002 in the Fushan Botanical Garden in Yilan County; L00107 collected at 27<sup>th</sup> Mar. 2004 in Hsoulin Town, Hualien County; and L00108 (two specimens) collected at 4<sup>th</sup> Aug. 2004 in the mountain in Yilan County.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                        <p>This species can be recognized by the reddish, yellowish, or grayish brown dorsum that is blotched with elongated irregular black spots that are more or less connected, and the absence of a distinct median stripe (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). The nearly solid black venter with irregular margins clearly distinguishes this species from other land leech species (<xref ref-type="fig" rid="F1">Fig. 1B</xref>).</p>
+                        <fig id="F1" position="float" orientation="portrait">
+                            <label>Figure 1.</label>
+                            <caption><p><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic>. <bold>A</bold> Dorsum. <bold>B</bold> Venter. <bold>C</bold> Dorsal head. <bold>D</bold> Venter of caudal sucker. <bold>E</bold> Reproductive system. atr. Atrium; cod. Common oviduct; eb. Ejaculatory bulb; ep. Epididymis; od. Oviduct; ov. Ovary; te. Testisacs; vad. Vaginal duct; vd. Vas deferens; vs. Vaginal sac. XI and XVI indicate the orders of the ganglia. Each scale indicates 1 mm in the Figure respectively. </p></caption>
+                            <graphic xlink:href="ZooKeys-139-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="External characters"><title>External characters.</title>
+                        <p>Body length 14–37 mm, maximum body width 2.5–5.3 mm, up to 10.5 mm in specimen filled with blood; anterior sucker diameter 1.2–2.4 mm, posterior sucker diameter 2.6–5.6 mm. Body elongated, slenderly cylindrical, with dorsum moderately depressed from the end of body to the head; venter more or less flat in relaxed specimens. Head of dorsal anterior sucker with usual sub-triangular outline (<xref ref-type="fig" rid="F1">Fig. 1C</xref>), venter of lip with the broad median field marked by narrow, longitudinal ridges and a deep median fissure. Anterior sucker deep, wide, triangularly cupuliform with well-developed lateral buccal lobes and frill. Posterior sucker nearly <!--PageBreak--><!--PageBreak-->circular, slightly longer than wide, diameter equal to or a little larger than maximum body width, with a definite anterior median prominence but no sharply hooked papilla. Auricles large, white or even translucent, trilobate with the middle lobe smallest, and conspicuous by their color in contrast with the body color.</p>
+                        <p>Dorsum strongly tessellated, with three pairs of paramedian, intermediate and supramarginal lines of prominently elevated, translucent-tipped sensillae, and also scattered areas bearing smaller semi-transparent tipped sensillae on annuli in addition to the sensory one. Venter tessellated less and more smooth than dorsum, with white or translucent tipped sensillae in arrangement as those on the dorsum. Dorsum of posterior sucker tessellated, with five or six irregular circles of polygonal areas. Venter of posterior sucker with rays 71 or 72, with strongly flattened ridges terminated in little rounded lobes at the margin, and not penetrated into the relatively large central areolated region (<xref ref-type="fig" rid="F1">Fig. 1D</xref>).</p>
+                        <p>When alive, dorsum reddish, yellowish, or grayish brown, with scattered elongated, more or less connected lateral-posteriorly, irregular black spots. No distinct median stripe on the dorsum, but in some specimens the mid-dorsum less blotched by spots, sometimes similar to an indistinct pale mid-dorsal stripe (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). In lateral body, the region around the sensillae lacking in spots, sometimes similar as a broken pale lateral stripe. Venter uniform, solid black, with highly irregular lateral margins which usually connected with the irregular spots from the lateral body (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). Dorsum of posterior sucker the same but more or less brighter in color than dorsum, with scattered black spots (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). Venter of posterior sucker fawn, sometimes with few scattered dark spots (<xref ref-type="fig" rid="F1">Fig. 1D</xref>).</p>
+                        <p>Eyes five pairs, punctiform, arranged respectively at II (2<sup>nd</sup> annulus), III (3<sup>rd</sup> annulus), IV (4<sup>th</sup> annulus), V (5<sup>th</sup> annulus) and VI (8<sup>th</sup> annulus) in parabolic arc (<xref ref-type="fig" rid="F1">Fig. 1C</xref>).</p>
+                        <p>Ninety-seven annuli in total. I, II and III uniannulate, with irregular areas divided and with sensillae in the interocular region. IV uniannulate and the interocular region being divided into irregular areas with sensillae in two transverse rows. V biannulate dorsally ((a1a2)&gt;a3) and uniannulate ventrally, with the a3 as the oral margin of the buccal ring and also the first perfectly definite annulus. VI triannulate with the three annuli approximately equal. VII triannulate with the three annuli of the same length. VIII quadrannulate (a1=a2=b5&gt;b6). IX–XXII midbody somite and quinquannulate, with the five annuli of the same length and a2 projecting above the surface. XXIII quadrannulate (b1=b2=a2&gt;a3). XXIV triannulate (a2&gt;a1=a3). XXV biannulate ((a1a2)=a3), each annulus bearing the first and second auricular lobes at the margins. XXVI uniannulate and bearing the third auricular lobe at the margins. XXVII uniannulate. Anus a small longitudinal slit in XXVII (97<sup>th</sup> annulus). Gonoporesseparated by five annuli; male at XI b5/b6 (30<sup>th</sup>/31<sup>st</sup> annulus); female at XII b5/b6 (35<sup>th</sup>/36<sup>th</sup> annulus); both small transverse slits with pale and projecting margins strictly within furrows.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Internal characters"><title>Internal characters.</title>
+                        <p>Jaws three, crescent shaped, moderate size and highly prominent, with 78–80 teeth; one mid-dorsally, the other paired ones ventro-laterally, all in deep buccal chamber beyond the velum. Pharynx in VII–VIII, short, bulbous; with si<!--PageBreak-->x muscular ridges of spongy wall in which three continuous with the three jaws and the other three intermediately between the formers and surrounded by numerous unicellular salivary glands. Crop in VIII–XIX; with 12 pairs of caeca in VIII–XIX respectively; first nine pairs simple, unlobed, with the first two pairs small and indistinct; while the last pair of caeca in XIX elongated posteriorly to XXIII and lateral to intestine. Intestine in XIX–XXIII, no caeca, ventral to rectum in XXIII. Rectum short, wide, tapered towards anus.</p>
+                        <p>Ten pairs of testisacs at XIII/XIV–XXII/XXIII. Vas deferens enters epididymis in XII/XIII or XIII. Epididymis in XII/XIII–XVI, in some cases even to XVIII; asymmetrical, one side of which more massive, located between atrium and vaginal sac, and usually covered the ovisacs and oviducts, while the other side extended posteriorly beyond the vaginal sac, elongated, less massive, and with major part covering on or being covered by the vaginal sac. Ejaculatory bulbs moderately large, elongated ellipsoid, lying at a much lower level by the sides of the atrium, connected by slender ejaculatory ducts with a sharp turning backwards into atrium in XI. Atrium large, rounded, conspicuous, rising well dorsad of the level of the nerve cord passing along in the right side. Prostate glands a layer of loosely compact. Ovisacs in XII, large, connected with long and curled common oviduct. Vaginal sac in XIV–XVI, cephalic end sometimes in XIII and the caudal end extended to XVII; elongated egg-shape, bubble-like with thin wall usually, connected with long and thick vaginal stalk extended anteriorly into female gonopore in XII (<xref ref-type="fig" rid="F1">Fig. 1E</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                        <p><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> is only recorded in East and South East Asia, including the Indo-Chinese Peninsula, Malay Peninsula, Indonesia, Ryukyu Islands of Japan, and Taiwan. In Taiwan, we recorded this species during recent surveys in the moist forests of low- and middle-elevation mountains in Taipei, Hsinchu, Taichung, Nantou, Pingtung, Yilan, Hualien, and Taitung (<xref ref-type="fig" rid="F4">Fig. 4</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Habitat"><title>Habitat.</title>
+                        <p>Commonly inhabits the bottom of moist forests. It attaches onto leaf litter, grasses, and low bushes.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Host"><title>Host.</title>
+                        <p>Primarily medium- or large-sized mammals, including humans.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                        <p><italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> had previously been recorded with other synonyms, with variable taxonomic status that has rarely been clarified over the last century. <xref ref-type="bibr" rid="B19">Oka (1910)</xref> described a new land leech collected from Taiwan, and named it <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> var. <italic>rjukjuana</italic> based on a brief inspection of the external color pattern. After two decades, <xref ref-type="bibr" rid="B30">Takahashi (1934)</xref> refered to all the land leeches in Taiwan as <italic><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name></italic>, which is a variable land leech species widely distributed in South and South-East Asia. Later, <xref ref-type="bibr" rid="B16">Moore (1938)</xref> recorded a land leech specimen from the Malay Peninsula, and illustrated both dorsal and ventral color patterns (<xref ref-type="fig" rid="F5">Fig. 5</xref>, Plate IV in <xref ref-type="bibr" rid="B16">Moore 1938</xref>). The scattered spots on the dorsum and the solid black venter with irregular lateral margins indicate that it is very similar to the specimens inspected in this study; thus, it could tentatively be confirmed as <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic>. However, Moore only recognized it as <italic><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name></italic> var., despite conspicuous differences in external color patterns, and only provided a few external descriptions, instead of a detailed inspection and investigation on its taxonomic status. In addition, <xref ref-type="bibr" rid="B16">Moore (1938)</xref> also <!--PageBreak-->mentioned that this variety resembled one of the land leeches illustrated, but not described, by <xref ref-type="bibr" rid="B2">Blanchard (1917)</xref>. Thirty years later, <xref ref-type="bibr" rid="B8">Keegan et al. (1968)</xref> described this variety in more detail. They provided the first description of its reproductive system, and compared it against other varieties of <italic><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name></italic>. However, in addition to the external color patterns, they stated that there were no differences in the reproductive system between this variety and the subspecies <italic><tp:taxon-name>Haemadipsa zeylanica japonica</tp:taxon-name></italic>, i.e., the species <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> in our study. At the end of the 1970s, <xref ref-type="bibr" rid="B34">Wu (1979)</xref> reviewed the previous studies of the leech fauna in Taiwan, and only referred to the land leech species of <italic><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name></italic> in his list. About two decades later, <xref ref-type="bibr" rid="B35">Yang (1996)</xref> mentioned that only <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> was present in Taiwan, as the other common land leech species in Taiwan, <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic>, which had been described as a new combination by <xref ref-type="bibr" rid="B25">Sawyer (1986)</xref>, had been mistakenly included. Finally, in the first decade of this century, Lai and his colleborators (<xref ref-type="bibr" rid="B12">Lai and Chen 2005</xref>; <xref ref-type="bibr" rid="B13">Lai et al. 2009</xref>) stated the uncertain taxonomic status of this variety, and suggested the necessity of further studies. By comparing the morphology of <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> var. <italic>rjukjuana</italic> specimens against <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic>, we found significant and consistent differences in both external and internal characteristics (<xref ref-type="table" rid="T2">Table 2</xref>). Therefore, its taxonomic status should be considered as a new species rather than subspecies or variety.</p>
+                        <table-wrap id="T2" position="float" orientation="portrait">
+                            <label>Table 2.</label>
+                            <caption><p>Comparison of diagnostic morphological characters between <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> and <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic>.</p></caption>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th rowspan="2" colspan="1">Morphological character</th>
+                                        <th rowspan="1" colspan="2">Species</th>
+                                    </tr>
+                                    <tr>
+                                        <th rowspan="1" colspan="1">Haemadipsa rjukjuana</th>
+                                        <th rowspan="1" colspan="1">Haemadipsa japonica</th>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Color pattern, spots and stripes on dorsum</td>
+                                        <td rowspan="1" colspan="1">Dorsum reddish, yellowish, or grayish brown, with scattered elongated, more or less connected lateral-posteriorly, irregular black spots, no stripe.</td>
+                                        <td rowspan="1" colspan="1">Dorsum red brownish, with a mid-dorsal longitudinal dark stripe and a wide, yellowish mid-dorsal region bordered by two paramedian longitudinal dark stripe, no spot.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Marginal stripe</td>
+                                        <td rowspan="1" colspan="1">Sometimes a broken pale stripe formed by a series of pale region around the sensillae.</td>
+                                        <td rowspan="1" colspan="1">A continuous, longitudinal pale yellowish stripe.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Color pattern on venter</td>
+                                        <td rowspan="1" colspan="1">Uniformly black with highly irregular lateral margins.</td>
+                                        <td rowspan="1" colspan="1">Uniformly dark yellowish or red brownish.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Number of transverse rows in interocular region in III</td>
+                                        <td rowspan="1" colspan="1">Two</td>
+                                        <td rowspan="1" colspan="1">One</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Number of rays on venter of posterior sucker</td>
+                                        <td rowspan="1" colspan="1">Mostly 71–72</td>
+                                        <td rowspan="1" colspan="1">Mostly 74–76</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Epididymis morphology and location</td>
+                                        <td rowspan="1" colspan="1">Separated, highly asymmetrical. One side more massive, located between atrium and vaginal sac, usually covered the ovisacs and oviducts; while the other side elongated, less massive, usually extended posteriorly beyond the vaginal sac and with major part covering on or being covered by the vaginal sac.</td>
+                                        <td rowspan="1" colspan="1">Rarely separated, less asymmetrical. Both of the posterior ends highly massive, folded, curled together or extremely close to each other. The main part located between atrium and vaginal sac.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Haemadipsa</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">picta</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Haemadipsa_picta</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Moore, 1929</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa picta</tp:taxon-name><comment> Moore, 1929.P. Acad. Nat. Sci. Philadelphia 81: 267–295.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa picta</tp:taxon-name><comment> Moore, 1935. B. Raffles Mus. 10: 67–78.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa picta</tp:taxon-name><comment> Keegan et al., 1968. Biomed. Rep. 406 Med. Lab. No. 16. United States Army Medical Commend, Japan.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa picta</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Ngamprasertwong et al. 2007</xref>.Nat. Hist. J. Chulalongkorn U. 7: 155–159.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p>L00099 collected at 18<sup>th</sup> Sept. 2005 in Hsoulin Town, Hualien County; L00100A collected at 12<sup>th</sup> Sept. 2004 in Hualien County; L00151A collected at 15<sup>th</sup> Oct. 2006 in Hsoulin Town, Hualien County; and L00152A collected at 31<sup>st</sup> Aug. 2003 in Hualien County.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                        <p>This species can be recognized by the longitudinally striped color pattern on the reddish brown dorsum, with a broad, bluish-gray, yellow-greenish, or multicolored median-paramedian field that contains three to five black or dark brown broken stripes inside (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). It has a white or pale yellowish longitudinal marginal stripe with dark-spotted borders, as well as a uniformly yellowish brown venter, which distinguishes this species from other land leech species in Taiwan.</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figure 2.</label>
+                            <caption><p><italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic>. <bold>A</bold> Dorsum. <bold>B</bold> Dorsal head. <bold>C</bold> Reproductive system. atr. Atrium; eb. Ejaculatory bulb; ed. Ejaculatory duct; ep. Epididymis; ov. Ovary; te. Testisacs; vad. Vaginal duct; vd. Vas deferens; vs. Vaginal sac. XI and XV indicate the orders of the ganglia. Each scale indicates 1 mm in the figure respectively.</p></caption>
+                            <graphic xlink:href="ZooKeys-139-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="External morphology"><title>External morphology.</title>
+                        <p>Body length 13–33 mm, maximum body width 3.0–5.5 mm, anterior sucker diameter 1.3–2.5 mm, posterior sucker diameter 2.5–3.7 mm. Body elongated, slenderly cylindrical, with dorsum moderately depressed from the<!--PageBreak--> end of body to the head; venter more or less flat in relaxed specimens. Head of dorsal anterior sucker with usual sub-triangular outline (<xref ref-type="fig" rid="F2">Fig. 2B</xref>); venter of lip with the broad median field marked by narrow, longitudinal ridges and a deep median fissure. Anterior sucker deep, wide, triangularly cupuliform with well-developed lateral buccal lobes and frill. Posterior sucker nearly circular, slightly longer than wide, diameter equal to or a little larger than maximum body width, with a definite anterior median prominence but no sharply hooked papilla. Auricles large, white, trilobate with the middle lobe smallest, and conspicuous by their color in contrast with the body color.</p>
+                        <p>Dorsum strongly tessellated, with areas bearing semi-transparent tipped sensillae in addition to the sensory annuli of each somite. Venter tessellated less and more smooth than dorsum. Dorsum of posterior sucker tessellated, with five or six irregular circles of polygonal areas. Venter of posterior sucker with rays 67 to 72, mostly 71, which in strongly flattened ridges terminating in little rounded lobes at the margin, and not penetrating into the central areolated region.</p>
+                        <p>When alive, body color of reddish brown, or yellow brown in some specimens. Dorsum with three to five longitudinal, black or dark broken stripes of more or less partially and mutually connecting by dark spots in a broad, bluish gray, yel<!--PageBreak-->low–greenish, or multicolored median–paramedian field (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). In lateral body, white, pale yellowish, or dusty yellow–greenish marginal stripes bordered by a series of black spots submarginally and supramarginally, especially in half-posterior body. Venter uniform, yellowish brown or resembling color brighter than that in the dorsum, without any spots or stripes. Dorsum of posterior sucker yellow–greenish or yellowish brown, similar to the venter body. Venter of posterior sucker fawn, brighter than venter body.</p>
+                        <p>Eyes five pairs, punctiform, arranging respectively at II (2<sup>nd</sup> annulus), III (3<sup>rd</sup> annulus), IV (4<sup>th</sup> annulus), V (6<sup>th</sup> annulus) and VI (9<sup>th</sup> annulus) in parabolic arc (<xref ref-type="fig" rid="F2">Fig. 2B</xref>).<!--PageBreak--></p>
+                        <p>Ninety seven annuli. I, II and III uniannulate, with irregular areas divided and with sensillae in the interocular region. IV biannulate ((a1a2)&gt;a3) and the interocular region being divided into irregular areas with sensillae in two transverse and sometimes oblique rows. V biannulate dorsally ((a1a2)&gt;a3) and uniannulate ventrally, with the a3 as the oral margin of the buccal ring and also the first perfectly definite annulus. VI triannulate (a2&gt;a1&gt;a3). VII triannulate with the three annuli approximately equal. VIII quadrannulate (a1=a2&gt;b5=b6). IX quinquannulate (a2&gt;b1=b2=b5=b6). X–XXII midbody somite and quinquannulate, with the five annuli of the same length and a2 projecting slightly above the surface. XXIII quadrannulate (a2&gt;a1= b5&gt;b6). XXIV triannulate (b1=b2&lt;a2), with b1 &amp; b2 united at the margins and much reduced ventrally, and a2 bearing the first auricular lobe. XXV and XXVI uniannulate, each bearing the second and third auricular lobes at the margins. XXVII uniannulate. Anus in the furrow between XXVII (97<sup>th</sup> annulus) and the posterior sucker. Gonoporesseparated by five annuli; male at XI b5/b6 (31<sup>st</sup>/32<sup>nd</sup> annulus); female at XII b5/b6 (36<sup>th</sup>/37<sup>th</sup> annulus); both moderately large transverse slits strictly within furrows.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Internal morphology"><title>Internal morphology.</title>
+                        <p>Jaws three, crescent-shaped, small and less prominent, with 78–80 teeth; one mid-dorsally, the other paired ones ventro-laterally, all in deep buccal chamber beyond the velum. Pharynx in VII–VIII, short, bulbous; with spongy muscular walls bearing many radiating fibers and surrounded by numerous unicellular salivary glands; extended into crop in IX. Crop in IX–XIX; with 11 pairs of caeca in each somite respectively; first 10 pairs simple and unlobed, while the tenth pair of caeca in XIX elongated posteriorly to XXIII and lateral to intestine. Intestine in XIX–XXIII, no caeca, with sharp sigmoid flexure and ventral to rectum in XXIII. Rectum short, sharply tapered towards anus.</p>
+                        <p>Ten pairs of testisacs at XIII/XIV–XXII/XXIII. Vas deferens enters epididymis in XIII. Epididymis in XII–XIII, massive, convoluted together, totally posterior to the atrium and covered on a small part of the cephalic end of the vaginal sac. Ejaculatory bulbs of moderate size and form, lying at a low level by the sides of the atrium, and connected by slender ejaculatory ducts to atrium in XI. Atrium large, conspicuous, rising well dorsad of the level of the nerve cord passing along in the left side. Prostate glands a layer of highly compact. Ovisacs in XII/XIII, on which with common oviduct long, sigmoid and slender. Vaginal stalk distinctly shorter than vaginal sac, which of an elongated egg-shape with the small apical end directed caudad in XIV–XVI (<xref ref-type="fig" rid="F2">Fig. 2C</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                        <p>This species is only recorded in South East Asia, including the Indo-Chinese Peninsula and Borneo. In Taiwan, it is a newly recorded species, and was collected in the moist forests of low- and middle-elevation mountains in Yilan, Hualien and Taitung during our recent surveys (<xref ref-type="fig" rid="F4">Fig. 4</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Habitat"><title>Habitat.</title>
+                        <p>Commonly found on bushes about 1 m above the ground in moist forests.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Host"><title>Host.</title>
+                        <p>Primarily medium- or large-sized mammals, including humans.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                        <p>Unlike many other land leech species which remain on the ground and grass below knee-level, this species usually climbs and waits on bushes and grasses at about 1 m above the ground, and attaches to the hands, arms, shoulders and even neck of passers-by (<xref ref-type="bibr" rid="B8">Keegan et al. 1968</xref>). This species has been known to fall onto hikers <!--PageBreak-->from higher bushes or leaves (Chun-Chia Huang, pers. comm.). In comparison to other land leech species, the bites of this species are much more painful and difficult-to-heal; thus, <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> has been given the common name “stinging land leech” (<xref ref-type="bibr" rid="B14">Moore 1929</xref>). Such painful and difficult-to-heal bites were also confirmed by a friend who collected specimens of <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> for us (Chun-Chia Huang, pers. comm.). However, this common name should be shared with another similar species, <italic><tp:taxon-name>Haemadipsa ornata</tp:taxon-name></italic> Moore, because it also has a similarly painful bite to <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> (Moore, 1929). Nevertheless, this common name is rarely used for <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic>, while the name, “tiger leech”, has been more commonly used, which refers to the colorful striped pattern (i.e., “picta” in the scientific name).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Tritetrabdella</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">taiwana</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Tritetrabdella_taiwana</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Oka, 1910)</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>taiwana</italic> Oka, 1910. Annot. Zool. Jap. 7: 165–183</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa zeylanica</tp:taxon-name><comment> Takahashi, 1934. Rep. Jpn. Sci. Assoc. 10: 744–749</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>taiwana</italic> Keegan et al., 1968. Biomed. Rep. 406 Med. Lab. No. 16. United States Army Medical Commend, Japan.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> var. <italic>taiwana</italic> Wu, 1979. Quart. J. Taiwan Mus. 32: 193–207</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name><comment> Sawyer, 1986. Leech Biol. Behav. Clarendon Press, Oxford, United Kindom.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Haemadipsa japonica</tp:taxon-name><comment> Yang, 1996. Fauna Sinica, <tp:taxon-name>Annelida</tp:taxon-name>: Hirudinea. Science Press, Beijing, China.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name><comment> Lai and Chen, 2005. Note Newsl. Wildlifers 9: 10–14</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name><comment> Lai et al., 2009. Zootaxa 2068: 27–46</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p>L00084 collected at 9<sup>th</sup> Jun. 2002 in Wulai Town, Taipei County; L00085 collected at 11<sup>th</sup> Oct. 2003 in Nantou County; L00086 &amp; L00087 collected at 1<sup>st</sup> Jun. 2004 in Taipei Zoo, Taipei City; and L00109 collected at 15<sup>th</sup> Feb. 2007 in Taipei City.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                        <p>This species can be recognized by the yellowish dorsum with three dark or black bordered brown stripes, in which the supramarginal pair is simple, and the mid-dorsal one has a few irregular, asymmetrical, elongated circles or loops that extend laterally between two stripes. These circles or loops are either connected the mid-dorsal and the supramarginal stripes, or are disconnected from the stripes to form isolated brown spots with a dark border between the two stripes (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). A mid-body somite with four annuli, rather than the usual five annuli of other land leech species in Taiwan, is also an easily recognized characteristic of this species.</p>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figure 3.</label>
+                            <caption><p><italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic>. <bold>A</bold> Dorsum. <bold>B</bold> Dorsal head. <bold>C</bold> Reproductive system. atr. Atrium; eb. Ejaculatory bulb; ep. Epididymis; ov. Ovary; vs. Vaginal sac. XI and XIX indicate the orders of the ganglia. Each scale indicates 1 mm in the Figure respectively.</p></caption>
+                            <graphic xlink:href="ZooKeys-139-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="External morphology"><title>External morphology.</title>
+                        <p>Body length 12–25 mm, maximum body width 2–4 mm in relaxed specimens and 4–6 mm in specimens filled with blood; anterior sucker diameter 2.0–2.6 mm, posterior sucker diameter 3.0–4.5 mm. Body elongated, slenderly cylindrical, with dorsum depressed moderately from the end to the head; venter<!--PageBreak--> flat. Clitellum usually conspicuously wider and thicker. Head of dorsal anterior sucker with broadly rounded, less sub-triangular outline (<xref ref-type="fig" rid="F3">Fig. 3B</xref>); venter of lip soft and finely granular, with no permanent furrows anteriorly but a median fissure posteriorly continuing forward the median velar sinus. Anterior sucker deep, wide, triangularly cupuliform with well-developed lateral buccal lobes and frill. On the sides and floor of the buccal chamber are four pairs of folds or lobes reaching to the membranous velum, through the triangular opening of which the three jaws are visible. Posterior sucker large, broadly ovate, slightly longer than wide, diameter larger than maximum body width, with a definite anterior median prominence but no sharply hooked papilla. Auricles obscure, small, white, and trilobate with the middle lobe smallest.</p>
+                        <p><!--PageBreak--><!--PageBreak-->Dorsum strongly tessellated and areolated, with areas bearing semi-transparent tipped and inconspicuous sensillae on each somite. Venter tessellated less, nearly smooth. Dorsum of posterior sucker tessellated, with four or five irregular circles of polygonal areas. Venter of posterior sucker with rays 57 to 61, not extending into the center and leaving a depressed, faintly tessellated circular central area.</p>
+                        <p>Dorsum yellowish, with three broad, dark or black bordered brown stripes, in which the supramarginal pair simple, and the mid-dorsal one with a few irregular, asymmetrical, elongated circles or loops extending laterally between two stripes. Sometimes these circles or loops either connect the mid-dorsal and the supramarginal stripes, or disconnected from stripes and become isolated brown spots with dark border between two stripes. These stripes differ in exact form and position on each individual. In long preserved specimens, however, color of brown stripes has faded, leaving only longitudinal irregular and asymmetrical black borders on the dorsum (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). Venter uniformly yellowish as the dorsum. Dorsum of posterior sucker yellowish; venter of posterior sucker yellowish, or paler than venter body.</p>
+                        <p>Eyes five pairs, punctiform, large and conspicuous (especially the 1<sup>st</sup> and 2<sup>nd</sup> pairs), arranging respectively at II (2<sup>nd</sup> annulus), III (3<sup>rd</sup> annulus), IV (4<sup>th</sup> annulus), V (5<sup>th</sup> annulus) and VI (8<sup>th</sup> annulus) in parabolic arc (<xref ref-type="fig" rid="F3">Fig. 3B</xref>).</p>
+                        <p>Eighty-two annuli. I uniannulate, with two rows of areola in which the anterior row much smaller and like those of the ventral face of the lip. II and III uniannulate, with the interocular region being divided into two areas in III. IV uniannulate, with the interocular region being divided into four areas. V biannulate dorsally ((a1a2)&gt;a3) with six interocular areas in the first annulus of this somite in dorsum; uniannulate ventrally as the buccal ring. VI triannulate dorsally (a2&gt;a3&gt;a1) and biannulate ventrally ((a1a2)&gt;a3). VII triannulate (a1=a2&lt;a3). VIII quadrannulate (a1=a2&gt;b5=b6). IX–XXII midbody somite and quadrannulate, with the four annuli of the same length. XXIII triannulate (a1=a2&gt;a3), with a1 &amp; a2 partly united ventrally. XXIV triannulate with the three annuli of the same length. XXV biannulate ((a1a2)&gt;a3), with annuli being divided into irregular polygonal areas, and each annulus bearing the first and second auricular lobes at the margins. XXVI uniannulate, being divided into irregular polygonal areas and with the third auricular lobe at the margins. XXVII uniannulate, being divided into irregular polygonal areas. Anus in XXVII (82<sup>nd</sup> annulus). Clitellum from X b5 (23<sup>rd</sup> annulus) to XIII a2 (34<sup>th</sup> annulus). Gonoporesseparated by three and a half annuli; male at XI b5/b6 (27<sup>th</sup>/28<sup>th</sup> annulus); female at XII b5 (31<sup>st</sup> annulus).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Internal morphology"><title>Internal morphology.</title>
+                        <p>Jaws three, crescent shaped, small and very prominent, with about 45 teeth of the usual form and no salivary papillae. Pharynx in VII–IX, long and wide with spongy wall. Crop in X–XIX; with 10 pairs of caeca in each segment respectively; first nine pairs simple and unlobed, while the last pair of caeca in XIX elongated posteriorly toXXIV and lateral to intestine. Intestine in XIX–XXIV, without caeca,tapered sharply to rectum in XXIV. Rectum large and wide, tapered towards anus in XXVII.</p>
+                        <p>Ten pairs of testisacs at XIII/XIV–XXII/XXIII. Vas deferens enters epididymis in XV and XVI. Epididymis always posterior beyond the vaginal sac, located variably i<!--PageBreak-->n XV–XVII, in some cases from XIII to XIV with a long tail-like caudal part extending from XIV to XXVIII,; moderately to slightly massive, entangled with each other as a whole mass, and with the anterior part of the mass usually covering on or covered by the vaginal sac. Ejaculatory bulbs large, elongated ellipsoid, lying at about the same level lateral-posteriorly or even totally posteriorly to the atrium, and connected by thick and short ejaculatory ducts to atrium in XI. Atrium moderate or small sized, round, rising dorsad of the level of the nerve cord passing along in the right side. Prostate glands of a thick layer covered on the atrium, ejaculatory duct, and anterior part of the ejaculatory bulbs. Ovisacs in XII, with very short oviduct joined into a short, slender, and curled common oviduct. Vaginal sac located variably in XII–XV, elongated ovate, with a very short vaginal stalk extended ventro-anteriorly into female gonopore in XII (<xref ref-type="fig" rid="F3">Fig. 3C</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                        <p>This species is only recorded in East and South East Asia, including the Indo-Chinese Peninsula, Ryukyu Islands of Japan, and Taiwan. In Taiwan, this species is recorded in the moist forests of low- and middle-elevation mountains around the island. In our recent surveys, it was collected in Taipei, Nantou, Pingtung, Yilan, and Hualien (<xref ref-type="fig" rid="F4">Fig. 4</xref>).</p>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Figure 4.</label>
+                            <caption><p>The distribution map of collecting sites for the specimens of the three land leech species collected in recent surveys.</p></caption>
+                            <graphic xlink:href="ZooKeys-139-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Habitat"><title>Habitat.</title>
+                        <p>Commonly found on the ground in moist forests. It attaches to leaf litter, grasses, and bushes on the ground.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Host"><title>Host.</title>
+                      <p>Amphibians and medium- or large-sized mammals. The amphibian is probably the primary host, as this species has been frequently recorded parasitizing frogs and toads in Taiwan, including the common toad <italic><tp:taxon-name>Bufo bankorensis</tp:taxon-name></italic> Barbour, the Taipei green tree frog <italic><tp:taxon-name>Rhacophorus taipeianus</tp:taxon-name></italic> Liang &amp; Wang, the temple tree frog <italic><tp:taxon-name>Chirixalus idiootocus</tp:taxon-name></italic> Kuramato &amp; Wang, Swinhoe’s frog <italic><tp:taxon-name>Rana swinhoana</tp:taxon-name></italic> Boulengeer, and the olive frog <italic><tp:taxon-name>Rana adenopleura</tp:taxon-name></italic> Boulengeer.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                        <p>Although <xref ref-type="bibr" rid="B19">Oka (1910)</xref> recorded that <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> causes a considerable amount of injury by taking blood meals in the nasopharyngeal region of mammals, such as dogs and humans, there is doubt about such parasitic behavior in this species. <xref ref-type="bibr" rid="B19">Oka (1910)</xref> mentioned that the leeches of this species enter the nostrils of dogs and men to feed on blood by fastening to the mucous membranes of the nasal passages. However, based on <xref ref-type="bibr" rid="B8">Keegan et al. (1968)</xref> and our direct observations of the movement and attaching ability of this species, we argue that the leeches recorded as parasitic in the nasal cavities of mammals may in fact be the nasal leech <italic><tp:taxon-name>Dinobdella ferox</tp:taxon-name></italic> (Blanchard), which is a notorious leech species that specifically parasitizes the nasopharyngeal region of mammal hosts for fast growth before maturation, rather than <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic>.</p>
+                        <p>In addition, because <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> was the only land leech species that has been recorded feeding on frog and toad hosts, sometimes even in groups, it is possible that this species mainly acquires blood from amphibian hosts, whereas mammals covered in body hair are not a primary diet choice. This suggestion may also explain that, while <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> is as widely distributed as other land leech species in Taiwan, such as <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic>, there are fewer records of <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> attacking hikers.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="DNA barcoding analyses"><title>DNA barcoding analyses</title>
+                <p>The neighbor-joining tree of haemadipsoid COI genes has high bootstrap support values for the monophyly of each of <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic>, <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic>, <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic>,and <italic><tp:taxon-name>Mesobdella gemmata</tp:taxon-name></italic> (<xref ref-type="fig" rid="F5">Fig. 5</xref>). The barcoding results also strongly support that <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic> is genetically distinct from <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic>, with the occurrence of <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> in Taiwan also being confirmed. In addition, the phylogenetic relationship of <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> as a member of the haemadipsoid leech is also revealed. Our analysis shows that, as a trignathous species, <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> is phylogenetically more closely related to duognathous land leech species as opposed to other trignathous species (<xref ref-type="fig" rid="F5">Fig. 5</xref>). This result was also found in a recent study (Borda &amp; Siddall, 2011), in which the authors suggested the establishment of a new subfamily, <tp:taxon-name>Tritetrabdellinae</tp:taxon-name>, for the newly identified trignathous clade of the genus <italic><tp:taxon-name>Tritetrabdella</tp:taxon-name></italic>.</p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>Neighbor joining tree of bloodfeeding land leeches based on COI sequences. Bootstrap values above 50 are shown. Specimens of <italic><tp:taxon-name>Haemadipsa rjukjuana</tp:taxon-name></italic>, <italic><tp:taxon-name>Haemadipsa picta</tp:taxon-name></italic> and <italic><tp:taxon-name>Tritetrabdella taiwana</tp:taxon-name></italic> from Taiwan are marked in bold.</p></caption>
+                    <graphic xlink:href="ZooKeys-139-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank Mark Siddall and Elizabeth Borda for their generosity in sharing the sequence of <italic><tp:taxon-name>Haemadipsa japonica</tp:taxon-name></italic> with us. We deeply appreciate Chun-Chia Huang, Huei-Ping Shen, Yu-Chang Yang, Yung-Hui Hsu, Ya-Ling Lin, Hao-Chih Kuo, Yin-Chang Huang, Yi-Hsiang Lin, Chi-Yen Hsu, Miao-Hsien Chen, and Professor I-Shiung Chen of the Institute of Marine Biology, National Taiwan Ocean University, for their generous and enthusiastic contributions to specimen collection and donation. We also appreciate Chih-Han Chang for his conduction, suggestion and consultation about DNA extraction, barcoding and phylogenetic analysis in this study; as well as Wen-Jay Chih for his help in DNA extraction, amplification and sequencing. We would also like to thank two anonymous reviewers deeply for their patient and helpful comments and suggestions to this manuscript.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bely</surname><given-names>AE</given-names></name><name name-style="western"><surname>Weisblat</surname><given-names>DA</given-names></name></person-group> (<year>2006</year>)<article-title> Lessons from leeches: a call for DNA barcoding in the lab.</article-title> <source>Evolution &amp; Developement </source> <volume>8</volume>: <fpage>491</fpage>-<lpage>501</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1525-142X.2006.00122.x" xlink:type="simple">doi: 10.1111/j.1525-142X.2006.00122.x</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blanchard</surname><given-names>R</given-names></name></person-group> (<year>1917</year>)<article-title> Monographie des Hemadipsines (Sangsues terrestres).</article-title> <source>Bulletin De La Societe De Pathologie Exotique </source> <volume>10</volume>: <fpage>640</fpage>-<lpage>676</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borda</surname><given-names>E</given-names></name><name name-style="western"><surname>Oceguera-Figueroa</surname><given-names>A</given-names></name><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name></person-group> (<year>2008</year>)<article-title> On the classification, evolution and biogeography of terrestrial haemadipsoid leeches (Hirudinida: Arhynchobdellida: Hirudiniformes).</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>46</volume>: <fpage>142</fpage>-<lpage>154</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2007.09.006" xlink:type="simple">doi: 10.1016/j.ympev.2007.09.006</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borda</surname><given-names>E</given-names></name><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name></person-group> (<year>2004</year>)<article-title> Arhynchobdellida (Annelida: Oligochaeta: Hirudinida): phylogenetic relationships and evolution.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>30</volume>: <fpage>213</fpage>-<lpage>225</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2003.09.002" xlink:type="simple">doi: 10.1016/j.ympev.2003.09.002</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borda</surname><given-names>E</given-names></name><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name></person-group> (<year>2011</year>)<article-title> Insights into the evolutionary history of Indo-Pacific bloodfeeding terrestrial leeches (Hirudinida: Arhynchobdellida: Haemadipisdae).</article-title> <source>Invertebrate Systematics </source> <volume>24</volume>: <fpage>456</fpage>-<lpage>472</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1071/IS10013" xlink:type="simple">doi: 10.1071/IS10013</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Folmer</surname><given-names>O</given-names></name><name name-style="western"><surname>Back</surname><given-names>M</given-names></name><name name-style="western"><surname>Hoeh</surname><given-names>W</given-names></name><name name-style="western"><surname>Lutz</surname><given-names>R</given-names></name><name name-style="western"><surname>Vrijenhoek</surname><given-names>R</given-names></name></person-group> (<year>1994</year>)<article-title> DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates.</article-title> <source>Molecular Marine Biology and Biotechnology </source> <volume>3</volume>: <fpage>294</fpage>-<lpage>299</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hebert</surname><given-names>PDN</given-names></name><name name-style="western"><surname>Cywinski</surname><given-names>A</given-names></name><name name-style="western"><surname>Ball</surname><given-names>SL</given-names></name><name name-style="western"><surname>deWaard</surname><given-names>JR</given-names></name></person-group> (<year>2003</year>)<article-title> Biological identifications through DNA barcodes.</article-title> <source>Proceedings of the Royal Society B: Biological Sciences </source> <volume>270</volume>: <fpage>313</fpage>-<lpage>321</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2002.2218" xlink:type="simple">doi: 10.1098/rspb.2002.2218</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Keegan</surname><given-names>HL</given-names></name><name name-style="western"><surname>Toshioka</surname><given-names>S</given-names></name><name name-style="western"><surname>Suzuki</surname><given-names>H</given-names></name></person-group> (<year>1968</year>)<source> Blood sucking Asian leeches of Families Hirudinidae and Haemadipsidae. Biomedical Reports of the 406 Medical Laboratory No. 16. United States Army Medical Commend, Japan.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kimura</surname><given-names>M</given-names></name></person-group> (<year>1980</year>)<article-title> A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequence.</article-title> <source>Journal of Molecular Evolution </source> <volume>16</volume>: <fpage>111</fpage>-<lpage>120</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF01731581" xlink:type="simple">doi: 10.1007/BF01731581</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kumar</surname><given-names>S</given-names></name><name name-style="western"><surname>Tamura</surname><given-names>K</given-names></name><name name-style="western"><surname>Nei</surname><given-names>M</given-names></name></person-group> (<year>2004</year>)<article-title> MEGA3: Integrated Software for Molecular Evolutionary Genetics Analysis and Sequence Alignment.</article-title> <source>Brief Bioinform </source> <volume>5</volume>: <fpage>150</fpage>-<lpage>163</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bib/5.2.150" xlink:type="simple">doi: 10.1093/bib/5.2.150</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kutschera</surname><given-names>U</given-names></name><name name-style="western"><surname>Pfeiffer</surname><given-names>I</given-names></name><name name-style="western"><surname>Ebermann</surname><given-names>E</given-names></name></person-group> (<year>2007</year>)<article-title> The European land leech: biology and DNA-based taxonomy of a rare species that is threatened by climate warming.</article-title> <source>Naturwissenschaften </source> <volume>94</volume>: <fpage>967</fpage>-<lpage>974</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00114-007-0278-3" xlink:type="simple">doi: 10.1007/s00114-007-0278-3</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lai</surname><given-names>Y-T</given-names></name><name name-style="western"><surname>Chen</surname><given-names>J-H</given-names></name></person-group> (<year>2005</year>)<article-title> A review and prospective of the leech research in Taiwan.</article-title> <source>Notes and Newsletter of Wildlifers </source> <volume>9</volume>: <fpage>10</fpage>-<lpage>14</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lai</surname><given-names>Y-T</given-names></name><name name-style="western"><surname>Chang</surname><given-names>C-H</given-names></name><name name-style="western"><surname>Chen</surname><given-names>J-H</given-names></name></person-group> (<year>2009</year>)<article-title> Two new species of <italic>Helobdella</italic> Blanchard, 1896 (Hirudinida: Rhynchobdellida: Glossiphoniidae) from Taiwan, with a checklist of Hirudinea fauna of the island.</article-title> <source>Zootaxa </source> <volume>2068</volume>: <fpage>27</fpage>-<lpage>46</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<year>1929</year>)<article-title> Leeches from Borneo with descriptions of new species.</article-title> <source>Proceedings of the Academy of Natural Sciences of Philadelphia </source> <volume>81</volume>: <fpage>267</fpage>-<lpage>295</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<year>1935</year>)<article-title> Leeches from Borneo and the Malay Peninsula.</article-title> <source>Bulletin of the Raffles Museum </source> <volume>10</volume>: <fpage>67</fpage>-<lpage>78</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<year>1938</year>)<article-title> Leeches (Hirudinea) principally from the Malay Peninsula, with descriptions of new species.</article-title> <source>Bulletin of the Raffles Museum </source> <volume>14</volume>: <fpage>64</fpage>-<lpage>80</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>JP</given-names></name></person-group> (<year>1946</year>)<article-title> Leeches (Hirudinea) from the Hawaiian Islands, and two new species from the Paciﬁc region in the Bishop Museum collection. Occasional Papers of Bernice P.</article-title> <source>Bishop Museum </source> <volume>18</volume>: <fpage>171</fpage>-<lpage>191</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ngamprasertwong</surname><given-names>T</given-names></name><name name-style="western"><surname>Thirakhupt</surname><given-names>K</given-names></name><name name-style="western"><surname>Panha</surname><given-names>S</given-names></name></person-group> (<year>2007</year>)<article-title> Two New Species of Land Leeches from Thailand (Hirudiniformes: Haemadipsidae).</article-title> <source>The Natural History Journal of Chulalongkorn University </source> <volume>7</volume>: <fpage>155</fpage>-<lpage>159</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Oka</surname><given-names>A</given-names></name></person-group> (<year>1910</year>)<article-title> Synopsis der jepanischen Hirudineen, mit diagnosen der neuen speices.</article-title> <source>Annotationes Zoologicae Japonensis </source> <volume>7</volume>: <fpage>165</fpage>-<lpage>183</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Richardson</surname><given-names>RL</given-names></name></person-group> (<year>1975</year>)<article-title> A contribution to the general zoology of the land leeches (Hirudinoidea: Haemadipsoidea superfam. nov).</article-title> <source>Acta Zoologica Academiae Scientiarum Hungaricae </source> <volume>21</volume>: <fpage>119</fpage>-<lpage>152</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Richardson</surname><given-names>RL</given-names></name></person-group> (<year>1978</year>)<article-title> On the zoological nature of land-leeches in the Seychelle Islands, and a consequential revision of the status of land- leeches in Madagascar (Hirudinea: Haemadipsoidea).</article-title> <source>Revue de Zoologie Africaine </source> <volume>92</volume>: <fpage>837</fpage>-<lpage>866</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ringuelet</surname><given-names>RA</given-names></name></person-group> (<year>1953</year>)<article-title> Notas sobre hirudíneos neotropicales VII. Un Nuevo Hemadípsido del género <italic>Mesobdella</italic>. Blanch. Notas del Museo de Eva Perón.</article-title> <source>Zoología </source> <volume>16</volume>: <fpage>185</fpage>-<lpage>193</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ringuelet</surname><given-names>RA</given-names></name></person-group> (<year>1972</year>)<article-title> Nuevos taxia de hirudineos neotropicos con la redeﬁnicion de Semiscolecidae y la descripcion de Cylicobdellidae fam. Nov. y Mesobdellidae fam. Nov.</article-title> <source>Physis </source> <volume>31</volume>: <fpage>193</fpage>-<lpage>201</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ringuelet</surname><given-names>RA</given-names></name></person-group> (<year>1982</year>)<article-title> Nesophilaemonidae nov. fam. de Hirudiniformes Haemadipsoidea.</article-title> <source>Neotropica </source> <volume>28</volume>: <fpage>3</fpage>-<lpage>6</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sawyer</surname><given-names>RT</given-names></name></person-group> (<year>1986</year>)<source> Leech Biology and Behaviour. Clarendon Press, Oxford, United Kingdom.</source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name><name name-style="western"><surname>Burreson</surname><given-names>EM</given-names></name></person-group> (<year>1998</year>)<article-title> Phylogeny of leeches (Hirudinea) based on mitochondrial cytochrome c oxidase subunit I.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>9</volume>: <fpage>156</fpage>-<lpage>162</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/mpev.1997.0455" xlink:type="simple">doi: 10.1006/mpev.1997.0455</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name><name name-style="western"><surname>Budinoff</surname><given-names>RB</given-names></name></person-group> (<year>2005</year>)<article-title> DNA-barcoding evidence for widespread introductions of a leech from the South American <italic>Helobdella triserialis</italic> complex.</article-title> <source>Conservation Genetics </source> <volume>6</volume>: <fpage>467</fpage>-<lpage>472</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10592-005-4986-y" xlink:type="simple">doi: 10.1007/s10592-005-4986-y</ext-link></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Siddall</surname><given-names>ME</given-names></name><name name-style="western"><surname>Trontelj</surname><given-names>P</given-names></name><name name-style="western"><surname>Utevsky</surname><given-names>SY</given-names></name><name name-style="western"><surname>Nkamany</surname><given-names>M</given-names></name><name name-style="western"><surname>Macdonald KS</surname><given-names>III</given-names></name></person-group> (<year>2007</year>)<article-title> Diverse molecular data demonstrate that commercially available medicinal leeches are not <italic>Hirudo medicinalis</italic>.</article-title> <source>Proceedings of the Royal Society B: Biological Sciences </source> <volume>274</volume>: <fpage>1481</fpage>-<lpage>1487</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2007.0248" xlink:type="simple">doi: 10.1098/rspb.2007.0248</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sket</surname><given-names>B</given-names></name><name name-style="western"><surname>Trontelj</surname><given-names>P</given-names></name></person-group> (<year>2008</year>)<article-title> Global diversity of leeches (Hirudinea) in freshwater.</article-title> <source>Hydrobiology </source> <volume>595</volume>: <fpage>129</fpage>-<lpage>137</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10750-007-9010-8" xlink:type="simple">doi: 10.1007/s10750-007-9010-8</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Takahashi</surname><given-names>S</given-names></name></person-group> (<year>1934</year>)<article-title> On the distribution and ecology of Taiwan leeches.</article-title> <source>Report of Japanese Scientific Association </source> <volume>10</volume>: <fpage>744</fpage>-<lpage>749</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>JD</given-names></name><name name-style="western"><surname>Gibson</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Plewniak</surname><given-names>F</given-names></name><name name-style="western"><surname>Jeanmougin</surname><given-names>F</given-names></name><name name-style="western"><surname>Higgins</surname><given-names>DG</given-names></name></person-group> (<year>1997</year>)<article-title> The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools.</article-title> <source>Nucleic Acids Research </source> <volume>25</volume>: <fpage>4876</fpage>-<lpage>4882</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/25.24.4876" xlink:type="simple">doi: 10.1093/nar/25.24.4876</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Trontelj</surname><given-names>P</given-names></name><name name-style="western"><surname>Sket</surname><given-names>B</given-names></name><name name-style="western"><surname>Steinbruck</surname><given-names>G</given-names></name></person-group> (<year>1999</year>)<article-title> Molecular phylogeny of leeches: congruence of nuclear and mitochondrial rDNA data sets and the origin of bloodsucking.</article-title> <source>Journal of Zoological Systematics and Evolutionary Research </source> <volume>37</volume>: <fpage>141</fpage>-<lpage>147</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Trontelj</surname><given-names>P</given-names></name><name name-style="western"><surname>Utevsky</surname><given-names>SY</given-names></name></person-group> (<year>2005</year>)<article-title> Celebrity with a neglected taxonomy: molecular systematics of the medicinal leech (genus <italic>Hirudo</italic>).</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>34</volume>: <fpage>616</fpage>-<lpage>624</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2004.10.012" xlink:type="simple">doi: 10.1016/j.ympev.2004.10.012</ext-link></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wu</surname><given-names>S-K</given-names></name></person-group> (<year>1979</year>)<article-title> The leeches (Annelida: Hirudinea) of Taiwan, Part 1. Introduction and descriptions of two hirudinid species.</article-title> <source>Quarterly Journal of Taiwan Museum </source> <volume>32</volume>: <fpage>193</fpage>-<lpage>207</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yang</surname><given-names>T</given-names></name></person-group> (<year>1996</year>)<source> Fauna Sinica, Annelida: Hirudinea. Science Press, Beijing, China.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

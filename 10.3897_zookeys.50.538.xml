@@ -1,0 +1,497 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+
+<front>
+			<journal-meta>
+					<journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+					<issn pub-type="ppub">1313-2989</issn>
+					<issn pub-type="epub">1313-2970</issn>
+					<publisher>
+						<publisher-name>Pensoft Publishers</publisher-name>
+					</publisher>
+			</journal-meta>
+
+		<article-meta>
+			<article-id pub-id-type="doi">10.3897/zookeys.50.538</article-id>
+			<title-group><article-title>Semantic tagging of and semantic enhancements to systematics papers: ZooKeys working examples</article-title></title-group>
+                                      
+      <contrib-group>
+				<contrib contrib-type="author">
+						<name>
+							<surname>Penev</surname>
+							<given-names>Lyubomir</given-names>
+						</name>
+						<aff>Bulgarian Academy of Sciences &amp; Pensoft Publishers, 13a Geo Milev Str., Sofia, Bulgaria</aff>
+						</contrib>
+						
+				<contrib contrib-type="author">
+						<name>
+							<surname>Agosti</surname>
+							<given-names>Donat</given-names>
+						</name>
+						<aff>Plazi, Zinggstrasse 16, Bern, Switzerland</aff>
+						</contrib>
+						
+				<contrib contrib-type="author">
+					<name>
+						<surname>Georgiev</surname>
+						<given-names>Teodor</given-names>
+					</name>
+					<aff>Pensoft Publishers, 13a Geo Milev Str., Sofia, Bulgaria</aff>
+					</contrib>
+					
+				<contrib contrib-type="author">
+					<name>
+						<surname>Catapano</surname>
+						<given-names>Terry</given-names>
+					</name>
+					<aff>Plazi, Zinggstrasse 16, Bern, Switzerland</aff>
+					</contrib>
+					
+				<contrib contrib-type="author">
+					<name>
+						<surname>Miller</surname>
+						<given-names>Jeremy</given-names>
+					</name>
+					<aff>Nationaal Natuurhistorisch Museum Naturalis, Netherlands</aff>
+					</contrib>
+				
+				<contrib contrib-type="author">
+					<name>
+						<surname>Blagoderov</surname>
+						<given-names>Vladimir</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+				
+				<contrib contrib-type="author">
+					<name>
+						<surname>Roberts</surname>
+						<given-names>David</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+				
+				<contrib contrib-type="author">
+					<name>
+						<surname>Smith</surname>
+						<given-names>Vincent S.</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Brake</surname>
+						<given-names>Irina</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Ryrcroft</surname>
+						<given-names>Simon</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+					
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Scott</surname>
+						<given-names>Ben</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+					
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Johnson</surname>
+						<given-names>Norman F.</given-names>
+					</name>
+					<aff>The Ohio State University, Columbus, OH, USA</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Morris</surname>
+						<given-names>Robert A.</given-names>
+					</name>
+					<aff>University of Massachusetts, Boston, USA &amp; Plazi, Zinggstrasse 16, Bern, Switzerland</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Sautter</surname>
+						<given-names>Guido</given-names>
+					</name>
+					<aff>IPD Bohm, Karlsruhe Institute of Technology, Germany &amp; Plazi, Zinggstrasse 16, Bern, Switzerland</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Chavan</surname>
+						<given-names>Vishwas</given-names>
+					</name>
+					<aff>Global Biodiversity Information Facility, Copenhagen, Denmark</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Robertson</surname>
+						<given-names>Tim</given-names>
+					</name>
+					<aff>Global Biodiversity Information Facility, Copenhagen, Denmark</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Remsen</surname>
+						<given-names>David</given-names>
+					</name>
+					<aff>Global Biodiversity Information Facility, Copenhagen, Denmark</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Stoev</surname>
+						<given-names>Pavel</given-names>
+					</name>
+					<aff>National Museum of Natural History, 1 Tsar Osvoboditel blvd., Sofia, Bulgaria</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Parr</surname>
+						<given-names>Cynthia</given-names>
+					</name>
+					<aff>Encyclopedia of Life, Washington, DC, USA</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Knapp</surname>
+						<given-names>Sandra</given-names>
+					</name>
+					<aff>The Natural History Museum, Cromwell Road, London, UK</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Kress</surname>
+						<given-names>W. John</given-names>
+					</name>
+					<aff>Smithsonian Institution, Washington, DC, USA</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Thompson</surname>
+						<given-names>Christian F.</given-names>
+					</name>
+					<aff>Smithsonian Institution, Washington, DC, USA</aff>
+					</contrib>
+					
+					<contrib contrib-type="author">
+					<name>
+						<surname>Erwin</surname>
+						<given-names>Terry</given-names>
+					</name>
+					<aff>Smithsonian Institution, Washington, DC, USA</aff>
+					</contrib>
+									
+			</contrib-group>
+
+			<author-notes>
+			<fn fn-type="corresp"><p>Corresponding author: Lyubomir Penev (<email>info@pensoft.net</email>).</p></fn>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>30</day>
+				<month>6</month>
+				<year>2010</year>
+			</pub-date>
+			
+			<issue>50</issue>
+			<fpage>1</fpage>
+			<lpage>16</lpage>
+			<history>
+				<date date-type="received">
+					<day>20</day>
+					<month>5</month>
+					<year>2010</year>
+				</date>
+				<date date-type="accepted">
+					<day>22</day>
+					<month>6</month>
+					<year>2010</year>
+				</date>
+			</history>
+			
+			<permissions>
+				<copyright-statement>Copyright Lyubomir Penev et al.</copyright-statement>
+				<license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0">
+			<license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+				</license>
+			</permissions>
+
+
+
+
+
+
+
+		<abstract><label>Abstract</label>
+			<p>The concept of semantic tagging and its potential for semantic enhancements to taxonomic papers is outlined and illustrated by four exemplar papers published in the present issue of ZooKeys. The four papers were created in different ways: (i) written in Microsoft Word and submitted as non-tagged manuscript (doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.504);">10.3897/zookeys.50.504);</ext-link> (ii) generated from Scratchpads and submitted as XML-tagged manuscripts (doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.505">10.3897/zookeys.50.505</ext-link> and doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.506);">10.3897/zookeys.50.506);</ext-link> (iii) generated from an author’s database (doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.485)">10.3897/zookeys.50.485)</ext-link> and submitted as XML-tagged manuscript. XML tagging and semantic enhancements were implemented during the editorial process of ZooKeys using the Pensoft Mark Up Tool (PMT), specially designed for this purpose. The XML schema used was TaxPub, an extension to the Document Type Definitions (DTD) of the US National Library of Medicine Journal Archiving and Interchange Tag Suite (NLM). The following innovative methods of tagging, layout, <!--PageBreak-->publishing and disseminating the content were tested and implemented within the ZooKeys editorial workflow: (1) highly automated, fine-grained XML tagging based on TaxPub; (2) final XML output of the paper validated against the NLM DTD for archiving in PubMedCentral; (3) bibliographic metadata embedded in the PDF through XMP (Extensible Metadata Platform); (4) PDF uploaded after publication to the Biodiversity Heritage Library (BHL); (5) taxon treatments supplied through XML to Plazi; (6) semantically enhanced HTML version of the paper encompassing numerous internal and external links and linkouts, such as: (i) vizualisation of main tag elements within the text (e.g., taxon names, taxon treatments, localities, etc.); (ii) internal cross-linking between paper sections, citations, references, tables, and figures; (iii) mapping of localities listed in the whole paper or within separate taxon treatments; (v) taxon names autotagged, dynamically mapped and linked through the Pensoft Taxon Profile (PTP) to large international database services and indexers such as Global Biodiversity Information Facility (GBIF), National Center for Biotechnology Information (NCBI), Barcode of Life (BOLD), Encyclopedia of Life (EOL), ZooBank, Wikipedia, Wikispecies, Wikimedia, and others; (vi) GenBank accession numbers autotagged and linked to NCBI; (vii) external links of taxon names to references in PubMed, Google Scholar, Biodiversity Heritage Library and other sources. With the launching of the working example, ZooKeys becomes the first taxonomic journal to provide a complete XML-based editorial, publication and dissemination workflow implemented as a routine and cost-efficient practice. It is anticipated that XML-based workflow will also soon be implemented in botany through PhytoKeys, a forthcoming partner journal of ZooKeys. The semantic markup and enhancements are expected to greatly extend and accelerate the way taxonomic information is published, disseminated and used.</p></abstract>
+		
+		<kwd-group><label>Keywords</label>
+			<kwd>Semantic tagging</kwd>
+			<kwd>semantic enhancements</kwd>
+			<kwd>systematics</kwd>
+			<kwd>taxonomy</kwd>
+		</kwd-group>
+
+</article-meta></front>
+
+
+<body>
+	<sec sec-type="Introduction"><title>Introduction</title>
+		<p>“Adapt or die” is certainly one of the most well-known fundamental principles of the theory of natural selection. If we want to paraphrase this principle so that it applies to the dynamic and challenging world of academic publishing, it seems that we have to progress from the recently popular “go online or die” to the rapidly emerging “link yourself or die”. Within just the past few years, several important components of the Semantic Web, such as cross-linking, semantic tagging, data publication, data sharing, data aggregation, etc., have become ordinary components in the vocabulary of the biodiversity scientists. Moreover, we have already several prototypes of the “articles of the future” published in the form of exemplar papers (e.g., <xref ref-type="bibr" rid="B17">Pyle et al. 2008</xref>, <xref ref-type="bibr" rid="B10">Johnson et al. 2008</xref>, <xref ref-type="bibr" rid="B9">Fisher et al. 2008</xref>, <xref ref-type="bibr" rid="B21">Shotton et al. 2009</xref>, <xref ref-type="bibr" rid="B12">Miller et al. 2009</xref>, <xref ref-type="bibr" rid="B19">Sharkey et al. 2009</xref>). </p>
+		
+		<p>The history of semantic enhancements to biodiversity papers is short but dynamic, starting perhaps as far back as the beginning of the present decade, exemplified by the articles of <xref ref-type="bibr" rid="B8">Erwin and Johnson (2000)</xref>, <xref ref-type="bibr" rid="B13">Page (2006)</xref>, <xref ref-type="bibr" rid="B20">Shotton (2009)</xref> and others. Perhaps the first taxonomic article to show how embedded hyperlinks may bring vital additional information to a published taxonomic text (i.e., to enhance it) is the famous “<tp:taxon-name>Chromis</tp:taxon-name> article” of <xref ref-type="bibr" rid="B17">Pyle et al. (2008)</xref>. Shortly after its publication, use of hyperlinks to external resources, such as Zoobank (<ext-link ext-link-type="uri" xlink:href="http://www.zoobank.org">http://www.zoobank.org</ext-link>), Morphbank (<ext-link ext-link-type="uri" xlink:href="http://www.morphbank.org">http://www.morphbank.org</ext-link>), Genbank (<ext-link ext-link-type="uri" xlink:href="http://www.genbank.org">http://www.genbank.org</ext-link>), and others, started to become,<!--PageBreak--> if not ordinary, a relatively unremarkable feature of taxonomic papers (e.g., <xref ref-type="bibr" rid="B12">Miller et al. 2009</xref>, <xref ref-type="bibr" rid="B25">Talamas et al. 2009</xref>, <xref ref-type="bibr" rid="B11">Mengual and Ghorpadé 2010</xref>). The hyperlinking of text strings has often been enriched through additional enhancements, such as publication of datasets (<xref ref-type="bibr" rid="B7">Costello 2009</xref>, <xref ref-type="bibr" rid="B22">Smith 2009</xref>, <xref ref-type="bibr" rid="B6">Chavan and Ingwersen 2009</xref>, <xref ref-type="bibr" rid="B12">Miller et al. 2009</xref>, <xref ref-type="bibr" rid="B15">Penev et al. 2009a</xref>) and interactive keys (<xref ref-type="bibr" rid="B19">Sharkey et al. 2009</xref>, <xref ref-type="bibr" rid="B16">Penev et al. 2009b</xref>).</p>
+		
+		<p>Hyperlinking of text strings within a paper or links to external sources are useful and widely used methods, however they can no longer be considered a “cutting edge” feature of text processing and publishing practices. A completely new world of data mining and processing of taxonomic texts through semantic XML mark up has been recently advanced by the efforts of a group of enthusiasts around Plazi (<ext-link ext-link-type="uri" xlink:href="http://www.plazi.org">http://www.plazi.org</ext-link>, see also <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/Plazi">http://en.wikipedia.org/wiki/Plazi</ext-link> and <xref ref-type="bibr" rid="B1">Agosti and Egloff 2009</xref>). Plazi articulated some truly innovative concepts and tools, such as an electronic form of the “taxon treatment” concept (<xref ref-type="bibr" rid="B18">Sautter et al. 2007</xref>, <xref ref-type="bibr" rid="B2">Agosti et al. 2007</xref>), TaxonX and TaxPub XML schemas for either marking up legacy literature (<ext-link ext-link-type="uri" xlink:href="http://www.taxonx.org">http://www.taxonx.org</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxonx">http://sourceforge.net/projects/taxonx</ext-link>), or to serve prospective publishing (<ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxpub">http://sourceforge.net/projects/taxpub</ext-link>), respectively. A special software tool, GoldenGATE, was also developed by Plazi (together with IPD Böhm at the Karlsruhe Institute of Technology, Germany) to facilitate the process of marking up of published taxonomic works (<ext-link ext-link-type="uri" xlink:href="http://plazi.org/?q=GoldenGATE">http://plazi.org/?q=GoldenGATE</ext-link>). Major efforts in this direction were also invested by the Literature Working Group of TDWG (<ext-link ext-link-type="uri" xlink:href="http://wiki.tdwg.org/Literature">http://wiki.tdwg.org/Literature</ext-link>) to elaborate the TaXMLit schema as a future TDWG standard (see also (<ext-link ext-link-type="uri" xlink:href="http://www.sil.si.edu/digitalcollections/bca/documentation/taxmlitv1-3intro.pdf">http://www.sil.si.edu/digitalcollections/bca/documentation/taxmlitv1-3intro.pdf</ext-link>). </p>
+		
+		<p>The rapid development of bioinformatics thanks mostly to the efforts of enthusiastic groups of people and organisations, e.g., the Taxonomic Database Working Group or TDWG (<ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org">http://www.tdwg.org</ext-link>), the Global Biodiversity Information Facility, or GBIF (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">http://www.gbif.org</ext-link>), GenBank (<ext-link ext-link-type="uri" xlink:href="http://www.genbank.org">http://www.genbank.org</ext-link>), ZooBank (<ext-link ext-link-type="uri" xlink:href="http://www.zoobank.org">http://www.zoobank.org</ext-link>), Morphbank (<ext-link ext-link-type="uri" xlink:href="http://www.morphbank.org">http://www.morphbank.org</ext-link>), Encyclopedia of Life, or EOL (<ext-link ext-link-type="uri" xlink:href="http://www.eol.org">http://www.eol.org</ext-link>), Biodiversity Heritage Library, or BHL (<ext-link ext-link-type="uri" xlink:href="http://www.biodiversitylibrary.org">http://www.biodiversitylibrary.org</ext-link>), as well as of the so-called “bottom-up” initiatives, such as Wikipedia (<ext-link ext-link-type="uri" xlink:href="http://www.wikipedia.org">http://www.wikipedia.org</ext-link>), Wikispecies (<ext-link ext-link-type="uri" xlink:href="http://www.species.wikimedia.org">http://www.species.wikimedia.org</ext-link>), Wikimedia (<ext-link ext-link-type="uri" xlink:href="http://www.wikimedia.org">http://www.wikimedia.org</ext-link>) and others has led to some “technological lagging” in applying new technologies by the publishing industry. Publishers have not adapted so quickly to the active developments of bioinformatics tools. Nevertheless, during the last few years, some innovative exemplar papers started to elucidate the essence of the next generation of journal articles in taxonomy. Two of them have greatly inspired the ZooKeys team to pursue new approaches to publication and dissemination and have had a substantial impact on the current paper. These are the “Neglected disease” semantically enhanced exemplar paper by <xref ref-type="bibr" rid="B21">Shotton et al. (2009)</xref> and the “Elsevier Grand Challenge” paper by <xref ref-type="bibr" rid="B14">Page (2010)</xref> and our model incorporates some elements from these. Other sources of inspiration include some web-based projects and tools, particularly uBio (<ext-link ext-link-type="uri" xlink:href="http://www.ubio.org">http://www.ubio.org</ext-link>) and iSpecies (<ext-link ext-link-type="uri" xlink:href="http://www.ispecies.org">http://www.ispecies.org</ext-link>).</p>
+		
+		<p>The aim of the present paper is to briefly describe semantic tagging and semantic enhancement concepts and their application to publishing in biological systematics.</p>
+		
+		<p><!--PageBreak-->It describes the editorial workflow pioneered by ZooKeys to make the process of tagging, linking and proper dissemination of taxonomic texts technologically and economically viable. We also will demonstrate the great advantages that these new methods provide not only to biodiversity publishing efficiencies, but also to better retrieval, use and future re-use of published content.</p></sec>
+
+
+	<sec sec-type="Semantic tagging and semantic enhancements in systematics"><title>Semantic tagging and semantic enhancements in systematics</title>
+		<p>Semantic tagging is generally considered to be a method of assigning markers, or tags, to text strings to identify their meaning so that the string and its meaning can be made discoverable and readable not only by humans but also by computers. There are several computer languages developed to provide semantic tagging, the most popular of them being the eXtensible Markup Language (XML) (see next section). Special machine-readable XML documents called “XML schemas” constrain the valid use of each tag, and so provide the background for semantic tagging. For example, in basic XML one can tag the name <tp:taxon-name><tp:taxon-name-part taxon-name-part-type="genus">Drosophila</tp:taxon-name-part> <tp:taxon-name-part taxon-name-part-type="species">melanogaster</tp:taxon-name-part></tp:taxon-name> with the tag TaxonName. Provided users’ tools take care to uniformly use this for an actual taxon name, there will be no semantic discord among or within documents about what is a taxon name, and software tools can easily be built to exploit these implicit community agreements about meaning. Special languages, namely XML-Schema and the XML Document Type Definition (DTD) can express syntactic restrictions on documents that enforce some context on the use of community-designed controlled vocabulary. When documents comply with these restrictions, it is then possible to write and support software to perform meaningful searches within or across documents, to transform documents from one form to another (e.g. from XML to PDF or HTML), or to facilitate a standardised way for archiving and computer retrieval of the whole document. </p>
+		
+		<p>At the forefront of informatics research, visions of a fully Semantic Web are advancing (<ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/SemanticWeb">http://en.wikipedia.org/wiki/SemanticWeb</ext-link>) but these seem to remain over the horizon for robust scientific publishing. It is beyond the scope of the present paper to cover in fine detail the vast and extremely dynamic area of semantic tagging, even in the sense we use it. We illustrate how tagging works in taxonomic publications with the following simple example (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Thanks to tagging, computers can recognise portions delimited between the start and end tags to have a certain meaning, thus they can retrieve tagged texts, extract information from them, direct elements to databases and so on. </p>
+		
+		<p>Semantic tagging is often related to semantic enhancements providing a good basis for the latter. The terms, however, are not identical. Semantic enhancement to scientific texts can be determined as “anything that enhances the meaning of a published journal article, facilitates its automated discovery, enables its linking to semantically related articles, provides access to data within the article in actionable form, or facilitates integration of data between articles” (<xref ref-type="bibr" rid="B21">Shotton et al. 2009</xref>). </p>
+		
+<fig id="F1">
+							<label>Figure 1.</label>
+							<caption><p>Conventional layout of a standard taxonomic publication in PDF format (A) and the same portion of text in XML-tagged format (B).</p>
+							<p>Explanations: The sign “&lt;” incidates the start tag and the symbol “&lt;/” indicates the end tag; the tag &lt;tp:taxon-treatment&gt; denotes the start of the treatment and the tag &lt;/tp:taxon-treatment&gt; (not visible here) marks up the end of the treatment within the text of the paper. The tags &lt;tp:treatment-sec&gt; and &lt;/tp:treatment-sec&gt; denote the start and end of a particular section of the treatment, in this case the type material data (labelled as &lt;title&gt; Type material.&lt;/title&gt;)</p></caption>
+							<graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/538/supp/01.jpg"/>
+						</fig>
+		
+		<p>In the current mature XML technologies, semantic enhancements are typically used for a better visualization and utilization of published text through various hyperlinks,<!--PageBreak--> either within the text or to external resources, while tagging is mostly used to transform a text into a computer-readable form. Tagged text could be presented in a simple, “non-enhanced” form, and vice versa, semantically enhanced papers need not necessarily be based on XML-tagged text. Important new and rapidly developing areas of semantic enhancements include the so-called “mashup” and “linkout” technologies created to utilize data from different online resources (e.g., mapping geographical localities of a taxon harvested from different articles, datasets and websites. Linkout software tools locate strings or identifiers within certain Web resources (e.g., through a taxon name or its persistent identifier), receive back the information (often in XML or JavaScript Object Notation [JSON] formats) and represent a summary of that information on a resulting webpage. Harvesting web resources with the help of so-called “scraper” or “harvester” software can be made dynamically, that is in real time (mostly through APIs, Application Programming Interfaces, when these are available on the source website) or by search/provide functions. </p>
+
+		</sec><!--PageBreak-->
+
+
+	<sec sec-type="The “taxon treatment” concept, TaxonX and TaxPub"><title>The “taxon treatment” concept, TaxonX and TaxPub</title>
+		<p>The concept of “taxon treatment” is exploited by the Plazi team to model taxonomic publications and explore how much of the text tagging can be done by machine either before or after publication. Following taxonomic paper publishing traditions, an initial definition for the electronic form (<xref ref-type="bibr" rid="B18">Sautter et al. 2007</xref>), a taxon treatment can include a formal description of a taxon including sections on nomenclature, morphological characteristics, behavior, ecology, distribution, and specimens examined. </p>
+		
+		<p>The launch of the electronic taxon treatment concept played a key role in the development of taxonomic tagging methodology. Moreover, it is expected that its influence will increase in the near future. Thus, we consider it necessary to describe the concept here in more detail. </p>
+		
+		<p>From the text-processing perspective, a taxon treatment is any “block of text” containing information on a given taxon, that can be delimited from other taxon treatments within the same document by specifying the treatment’s start and end tags. From the viewpoint of the publishing tradition in systematics, the treatment is a block of information on a given taxon that may include some elements of the following: </p>
+		
+		
+		
+		<p>1.	New taxon description</p>
+		
+		<p>2.	Change of a nomenclatorial status of a taxon (a nomenclatural act)</p>
+		
+		<p>3.	Summary of all previous knowledge on a taxon from literature sources, usually structured in logical pieces, e.g., nomenclature, morphological description, distribution, ecology, biology</p>
+		
+		<p>4.	Summary of all previous knowledge plus newly published data on the same taxon, e.g., localities, ecological/biological observations</p>
+		
+		<p>5.	Summary of newly published data on an already known taxon</p>
+		
+		<p>6.	Summary of treatments of subordinated taxa, for instance a revision or catalog of a genus listing treatments of ALL or SOME of its species is a treatment of that genus</p>
+		
+		<p>7.	Listing of subordinated taxa, e.g., a checklist of a family from a region forms a treatment of that family.</p>
+		
+		
+		<p>Taxon treatments usually have the form of published conventional texts that could be enhanced by a wide array of tags and external links. More importantly, taxon treatments may be archived, searched, harvested, or linked as separate pieces of information directly related to their respective taxa.</p>
+		
+		<p>A publication may consist of one or many treatments of different taxa of different taxonomic ranks. One taxon may have more than one treatment within a publication, although the tradition of systematics publishing usually assumes one “core” treatment per taxon within a document.</p>
+		
+		<p>Taxon profiles generated “on the fly” or extracted through web “scrapers” have several features of treatments (e.g., EOL, NCBI, Wikipedia, or ispecies.org taxon profiles). To be called treatments, however, they have to be published in a static<!--PageBreak--> and citable form. It seems necessary to distinguish these two types of taxon profiles (published and dynamic, generated on the fly), although the border between them may sometimes seem vague. The essential feature of a treatment is that it encompasses information published in accordance with both present-day publishing standards and the requirements of nomenclatural codes.</p>
+		
+		
+		
+		<p>What is not a taxon treatment?</p>
+		
+		
+		<p>1.	A citation of a taxon name within a text, although such a citation usually holds information linked to the particular taxon. For instance, listing of a species within a “plain” checklist cannot be a treatment of that species; a sentence within a text paragraph stating that “taxon X is parasitic on taxon Y” is neither a treatment of taxon X nor of taxon Y</p>
+		
+		<p>2.	A key, because in some cases keys are constructed for related taxa that do not form a taxon (they may form a “species-group” or “taxa-group”, but this is not a taxon unless a name is given to that group). Identification keys, even they are exhaustive for a named taxon, are usually tagged separately from taxon treatments.</p>
+		
+		<p>3.	A single picture or group of pictures of a taxon</p>
+		
+		<p>4.	A single map or group of maps of a taxon</p>
+		
+		<p>5.	Gene sequence(s) of a taxon</p>
+		
+		<p>6.	SDD (Structured Descriptive Data) (or any) matrices, or raw data, or databases. Treatments can be relatively easily generated from databases, however, information on a taxon becomes a treatment when (a) it is published, and (b) corresponds to the aforementioned definition of taxon treatment. </p>
+		
+		
+		
+		<p>The TaxonX schema and the TaxPub DTD largely follow the above restrictions which arise from a community of practice rooted in paper publishing. In the electronic era, broader notions of a treatment can easily be added to the electronic forms by simple extension of the schema or DTD, in ways that do not make useless publications with the narrower form. </p>
+		
+		<p>Why are taxonomic treatments important? What role do they play in various disciplines? Taxonomic treatments are important because they allow “atomising” taxonomic texts, that is they permit labelling and delimiting a piece of information (e.g., a block of text) linked to a taxon within a document from other similar pieces of information, linked to other taxa. Taxonomic treatments allow a rapid transition from conventional, article-level publishing in the biodiversity science, to treatment-level (or content- or data-level) taxonomic publishing. XML encoded taxonomic treatments facilitate future use, re-use and collation (harvesting and indexing, mashups, linkouts) of data, because computers can recognise data elements within treatments and relate such data to taxon names.</p>
+		
+		<p>Taxonomic treatments are important because they allow mobilization, retrieval and re-use of any and all taxonomic data published not only in the present day, but also <!--PageBreak-->in historical taxonomic literature. Recent and historical treatments can be interlinked through taxon names.</p>
+		
+		<p>Finally, treatments are important because in a straightforward way they relate information on organisms to the oldest and most widely used identifiers in the history of biology – the taxonomic names of organisms. Through names, and especially through the recently developed global index of taxon names (Global Names Architecture, or GNA, Global Names Index, or GNI, Global Names Usage Bank, or GNUB, see <ext-link ext-link-type="uri" xlink:href="http://www.globalnames.org">http://www.globalnames.org</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">http://www.gbif.org</ext-link>) treatments may be linked to any other information in any other branch of science that uses taxonomic names. </p>
+		
+		<p>To facilitate “atomizing” of taxonomic texts into retrievable and machine-readable forms, we need a computer language and sets of rules and protocols in taxonomic publishing, such as XML (see above for more details). TaxonX is a light markup XML schema developed to encode historical, or legacy, taxonomic literature. It is therefore robust enough to retrieve a great variety of styles used in such literature. TaxPub was developed as an extension of the general Document Type Definitions (DTD) format of the National Library of Medicine of the US (NLM, <ext-link ext-link-type="uri" xlink:href="http://dtd.nlm.nih.gov">http://dtd.nlm.nih.gov</ext-link>) to facilitate markup of prospective taxonomic publishing. </p>
+		
+		<p>The ZooKeys working examples (<xref ref-type="bibr" rid="B23">Stoev et al. 2010</xref>, <xref ref-type="bibr" rid="B4">Blagoderov et al. 2010b</xref>, <xref ref-type="bibr" rid="B5">Brake and von Tschirnhaus 2010</xref>, <xref ref-type="bibr" rid="B24">Taekul et al. 2010</xref>) are entirely based on revision #123 available from the SVN trunk of TaxPub (<ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxpub">http://sourceforge.net/projects/taxpub</ext-link>). In fact, the present exemplar papers are the first published TaxPub articles in biodiversity science, intended to demonstrate the advantages of the XML-based markup and editorial workflow in the way biodiversity information is being published and disseminated.</p></sec>
+
+
+	<sec sec-type="Implementation of tagging and external linking in the editorial process"><title>Implementation of tagging and external linking in the editorial process</title>
+		<p>The overall workflow of implementation of tagging of taxonomic texts, either published in legacy literature or within a prospective, XML-based editorial process, is shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>. Tagging of taxonomic text is a quite laborious task, mostly because of the specificity of the domain, e.g., the great variety in use of publishing styles, taxon names (synonymy, homonymy, spelling errors, different concepts for a particular taxon name, etc.), listings of localities (long lists of terms describing a particular locality or collecting event), etc. In most cases, this is being done manually or semi-manually, which may explain why finer granularity mark up has not been used by taxonomic journals thus far. There are two possible ways to solve this problem and optimize the mark up process so that it becomes economically viable.</p>
+		
+		
+	<fig id="F2">
+							<label>Figure 2.</label>
+							<caption><p>Four stages of an XML-based editorial, publication and dissemination workflow applied in ZooKeys (stages 1, 2, 4) and/or Plazi (stages 3, 4). Forms in blue are either implemented or prototyped, forms in red are in a process of development.</p></caption>
+							<graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/538/supp/02.jpg"/>
+						</fig>
+		
+		
+		<p>A straightforward way is to have manuscripts tagged before submission through (i) exports from databases, such as Scratchpads (<ext-link ext-link-type="uri" xlink:href="http://www.scratchpads.eu">http://www.scratchpads.eu</ext-link>), GBIF or authors’ personal/institutional databases, or by using (ii) HTML submission forms, or through (iii) TaxPub or other XML Schema based plugins of MS Word or Open Office text processors. The latter method will help authors to write extensive manuscripts of a more complicated structure than those generated from databases or submitted through<!--PageBreak--> HTML forms. None of these methods is widely used, to say the least, and (ii) and (iii) simply do not exist yet. There is no doubt, however, that we can anticipate a quick transformation to “automated” generation and submission of manuscripts within the coming years, and surely within the lifespan of the present-day generations of active taxonomists. </p>
+		
+		<p>The second route to the same output is for publishers to find a way to apply XML tagging within their editorial workflows. As far as it concerns the general article structure, such as title, authors, abstract, introduction, etc., this is not a problem and most major publishers do it. However, once we decide to go to a finer mark up, that is to tag taxon names, taxon treatments, sections within a taxon treatments (nomenclature, morphological description, distribution, type material, examined material with data on localities and specimens, etc.), the difficulties appear hardly surmountable and there is no current working solution for them in biodiversity science, to the best of our knowledge. </p>
+		
+		<p><!--PageBreak-->The exemplar papers published in the present issue demonstrate three different approaches to manuscript preparation and submission, ending at the same time in unified semantically enhanced outputs in a form of HTML papers, their XML files intended for computer retrieval and archiving in PubMedCentral, as well as in standard PDF (and print) formats. The paper by <xref ref-type="bibr" rid="B23">Stoev et al. (2010)</xref> was submitted as an ordinary Microsoft Word file and all the process of semantic tagging and enhancements were performed in ZooKeys’ Editorial office using the Pensoft Mark Up tool (PMT). The papers of <xref ref-type="bibr" rid="B4">Blagoderov et al. (2010b)</xref> and <xref ref-type="bibr" rid="B5">Brake and von Tschirnhaus (2010)</xref> were generated and submitted as XML-tagged files by the Scratchpads websites (<ext-link ext-link-type="uri" xlink:href="http://www.sciaroidea.info">http://www.sciaroidea.info</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://milichiidae.info">http://milichiidae.info</ext-link>); the pre-submisison XML tagging facilitated text processing, which was revised using the same PMT software to create a fully laid out and linked out HTML paper (see also <xref ref-type="bibr" rid="B3">Blagoderov et al. (2010a)</xref> for description of the process). Similarly, the paper of <xref ref-type="bibr" rid="B24">Taekul et al. (2010)</xref> was submitted as XML-tagged file, generated from the Proctotrupoidea web-based database (<ext-link ext-link-type="uri" xlink:href="http://www.vsyslab.osu.edu">http://www.vsyslab.osu.edu</ext-link>).</p>
+		
+		<p>To implement the two aforementioned routes for XML mark up in prospective taxonomic publishing, we have designed and developed the Pensoft Mark Up Tool (PMT) (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The tool provides the following operations:</p>
+		
+		
+<fig id="F3">
+							<label>Figure 3.</label>
+							<caption><p>Flowchart of an integrated, XML-based editorial, publishing and dissemination process applied in ZooKeys through the Pensoft Mark Up Tool (PMT).</p></caption>
+							<graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/538/supp/03.jpg"/>
+						</fig>
+		
+		
+		<p>1.	Importation and retrieval of XML, HTML and InDesign files</p>
+		
+		<p>2.	Interlinking options between PMT and InDesign allowing simultaneous mark up and editorial work </p>
+		
+		<p>3.	Tagging and autotagging at different granularity levels, according to TaxPub or any other XML schema designed for such purpose</p>
+		
+		<p>4.	Cross-linking of citations within the text and reference list</p>
+		
+		<p>5.	Cross-linking of citations of figures and tables in the text</p>
+		
+		<p>6.	Finding and linking taxon names through <ext-link ext-link-type="uri" xlink:href="http://www.uBio.org">http://www.uBio.org</ext-link> and PMT’s own web harvester</p>
+		
+		<p>7.	Providing links to various external sources</p>
+		
+		<p>8.	Exporting the text to a semantically enhanced HTML version of the paper, vizualizing some of the important tag elements, as well as the literature references cited in the text and external links to them (when available)</p>
+		
+		<p>9.	Mapping localities listed in the paper or within separate taxon treatments</p>
+		
+		<p>10.	Generating the Taxon Pensoft Profile page for each taxon name cited in a paper, providing the reader with a quick and up-to-date summary of information on a taxon from certified external sources</p>
+		
+		<p>11.	Offering a possibility to the reader to create their own taxon profiles for taxa of interest</p>
+		
+		<p>12.	Export to a TaxPub XML file, validated for archiving in PubMedCentral and indexing in PubMed</p>
+		
+		<p>13.	XML export of new species descriptions to Encyclopedia of Life, using elements drawn from Dublin Core, TDWG Darwin Core, and TDWG Species Profile Model schemas<!--PageBreak--></p>
+		
+		<p>14.	XML export of treatments or any other tagged information in various formats acceptable by aggregators and indexers, Plazi taken as an example.</p>
+		
+			
+		<p>A special feature of the PMT is to dynamically harvest selected web resources and present the information linked to a certain taxon name on a separate webpage called the Pensoft Taxon Profile (PTP). The PTP module uses uBio (<ext-link ext-link-type="uri" xlink:href="http://www.uBio.org">http://www.uBio.org</ext-link>) as a source of taxon names and links them to either the uBio-harvested web resources <!--PageBreak-->or through PMT’s own web harvester. The PMT creates profiles of any taxon name mentioned in a paper, independent of its rank or nomenclatural status. An example of a PTP page created for an oak species, <tp:taxon-name><tp:taxon-name-part taxon-name-part-type="genus">Quercus</tp:taxon-name-part> <tp:taxon-name-part taxon-name-part-type="species">suber</tp:taxon-name-part></tp:taxon-name>, cited in a zoological paper (<xref ref-type="bibr" rid="B23">Stoev et al. 2010</xref>) is shown in <xref ref-type="fig" rid="F4">Fig. 4</xref>. This aggregation into taxon pages is similar to that of other projects such as EOL, Scratchpads, iSpecies, BioLib, and iNaturalist.org. </p>
+		
+		<p>Two classes of selected websites are targeted by the PTP: (1) pillars of biodiversity informatics online (e.g., GBIF, NCBI, EOL, Barcode of Life, Wikipedia, BHL, and others) have dedicated windows showing results for a particular taxon name, or reporting that no results were found (because the lack of results from key online resources could itself be an important finding), and (2) taxon-oriented websites, from which results are displayed only if a particular taxon name was found (e.g., ZooBank, International Plant Name Index, diptera.org and others). </p>
+		
+		<fig id="F4">
+							<label>Figure 4.</label>
+							<caption><p>Pensoft Taxon Profile created dynamically by PMT and available through a link to any taxon name mentioned within a paper. In this case, this is the oak species <tp:taxon-name>Quercus suber</tp:taxon-name> L., cited in a zoological paper (<xref ref-type="bibr" rid="B23">Stoev et al. 2010</xref>). The red arrow indicates the “Create your own taxon profile” option, that may be used by the reader to create profiles of any taxon name or to improve search results for taxonomic names cited in the paper.</p></caption>
+							<graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/538/supp/04.jpg"/>
+						</fig>
+		
+		<p>While new information on the Earth’s biodiversity is added to the World Wide Web every day, many species are still not well represented online. In such cases, the PTP offers the option to “Create your own taxon profile,” which allows users to add, organize, and correct information for particular species (<xref ref-type="fig" rid="F4">Fig. 4</xref>, red arrow).</p>
+		
+		<p>There is certainly room for many more linking options and modules to be added to PMT so that it makes the process of taxonomic publishing and reading a true pleasure. At the same time, applying tools of this kind may solve long-standing problems with taxonomic mark up and make it cost-efficient and widely used. </p>
+		
+		</sec>
+
+
+	<sec sec-type="Four different formats of taxonomic papers and their archiving"><title>Four different formats of taxonomic papers and their archiving</title>
+		<p>The exemplar and forum papers are published in four different formats: (1) print, provide archiving on paper in libraries and to comply with the current requirements of the International Code of Zoological Nomenclature (ICZN), (2) PDF to provide an electronic version identical to the printed one from the publisher’s website, to be archived in PubMedCentral, Biodiversity Heritage Library, as well as in other institutional or personal archives; (3) HTML to provide numerous links to external resources and semantic enhancements to published texts to facilitate interactive reading, as well as to be permanently available on the publisher’s website and through its persistent identifier, the doi number; (4) XML based on the TaxPub DTD to provide an archiving document format for PubMedCentral and a machine-readable copy of the contents to facilitate future data mining.</p>
+		
+		<p>For reference, we recommend to use either the print or PDF version (the latter provided also through a persistent online identifier, the doi number) and the respective disclaimer is displayed in the beginning of the HTML version.</p>
+		
+		<p>We consider PubMedCentral as the most appropriate place to archive open access e-versions of taxonomic publications because the whole content of a paper is being stored in both XML and PDF versions. In addition, the figures are archived as separate files. Archiving of the PDF version on BHL provides an additional and very useful cross-link to historical literature through taxon names. Naturally, under the open<!--PageBreak--><!--PageBreak--> access model, the online versions of a paper can be disseminated and stored in an unpredictable number of institutional or personal archives. </p></sec>
+
+
+	<sec sec-type="Use and dissemination"><title>Use and dissemination</title>
+		<p>We are convinced that the Semantic Web will soon bring entirely new models of publishing and dissemination in systematics and biodiversity science in general. Text tagging and semantic enhancements are certainly not provided for the pleasure and convenience of readers only. The properly tagged texts will be easily harvested and indexed by computers and imported into databases without any human intervention. At any point in the world, taxonomists, ecologists, conservationists and any user will be able to pick up quickly and efficiently most essential information about a taxon, or locality, or even a specimen, such as descriptions, images, maps, keys, gene sequences and references. It only remains for us to act to realize our dream that all this information is available through open access with no barriers to anyone to read and use! The goal of ZooKeys for animal systematics, and soon of PhytoKeys for botanical disciplines is to make this dream a reality.</p></sec></body>
+
+
+<back>
+	<ack><label>Acknowledgments</label>
+
+	<p>Our thanks are due to a number of institutions and persons for the encouragement, valuable comments and useful discussions on the process of semantic tagging and enhancements at various occasions during the last year: Scott Federhen (NCBI), Jeff Beck and Carol Myers (NLM), Richard Pyle (Bishop Museum, Honolulu and ZooBank), Roderick Page (University of Glasgow), Chris Freeland and Phil Cryer (Biodiversity Heritage Library), Patrick Leary (Encylopedia of Life), David Shotton (University of Oxford), Robert Mesibov (University of Tasmania), Ivailo Stoyanov (Pensoft Publishers, Sofia), Ivan Trenkov and Alexander Pochinkov (Sofia), Brian Fisher (Californian Academy of Sciences), Donald Hobern (Atlas of Living Australia and TDWG), Lee Belbin (TDWG), Greg Riccardi and Deb Paul (Morphbank).</p></ack>
+
+
+
+	<ref-list><title>References</title>
+
+		<ref id="B1"><mixed-citation><person-group><name><surname>Agosti</surname><given-names>D</given-names></name><name><surname>Egloff</surname><given-names>W</given-names></name></person-group>(<year>2009</year>)<article-title> Taxonomic information exchange and copyright: the Plazi approach.</article-title> <source>BMC Research Notes</source> <volume>2</volume>: <lpage>53</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1186/1756-0500-2-53">10.1186/1756-0500-2-53</ext-link> </mixed-citation></ref>
+		
+		<ref id="B2"><mixed-citation><person-group><name><surname>Agosti</surname><given-names>D</given-names></name><name><surname>Klingenberg</surname><given-names>C</given-names></name><name><surname>Sautter</surname><given-names>G</given-names></name><name><surname>Johnson</surname><given-names>N</given-names></name><name><surname>Stephenson</surname><given-names>C</given-names></name><name><surname>Catapano</surname><given-names>T</given-names></name></person-group>(<year>2007</year>)<article-title> Why not let the computer save you time by reading the taxonomic papers for you?</article-title> <source>Biológico</source>, São Paulo <volume>69</volume> (suplemento 2): <fpage>545</fpage>-<lpage>548</lpage>.</mixed-citation></ref>
+		
+		<ref id="B3"><mixed-citation><person-group><name><surname>Blagoderov</surname><given-names>V</given-names></name><name><surname>Brake</surname><given-names>I</given-names></name><name><surname>Georgiev</surname><given-names>T</given-names></name><name><surname>Penev</surname><given-names>L</given-names></name><name><surname>Roberts</surname><given-names>D</given-names></name><name><surname>Rycroft</surname><given-names>S</given-names></name><name><surname>Scott</surname><given-names>B</given-names></name><name><surname>Agosti</surname><given-names>D</given-names></name><name><surname>Catapano</surname><given-names>T</given-names></name><name><surname>Smith</surname><given-names>VS</given-names></name></person-group>(<year>2010a</year>)<article-title> Streamlining taxonomic publication: a working example with Scratchpads and ZooKeys.</article-title> <source>ZooKeys</source> <volume>50</volume>: <fpage>17</fpage>–<lpage>28</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.539">10.3897/zookeys.50.539</ext-link></mixed-citation></ref>
+		
+		<ref id="B4"><mixed-citation><person-group><name><surname>Blagoderov</surname><given-names>V</given-names></name><name><surname>Hippa</surname><given-names>H</given-names></name><name><surname>Nel</surname><given-names>A</given-names></name></person-group>(<year>2010b</year>)<article-title> Parisognoriste, a new genus of Lygistorrhinidae (Diptera, Sciaroidea) from the Oise amber with redescription of Palaeognoriste Meunier.</article-title> <source>ZooKeys</source> <volume>50</volume>: <fpage>79</fpage>–<lpage>90</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.506">10.3897/zookeys.50.506</ext-link></mixed-citation></ref>
+		
+		<ref id="B5"><mixed-citation><person-group><name><surname>Brake</surname><given-names>I</given-names></name><name><surname>von Tschirnhaus</surname><given-names>M</given-names></name></person-group>(<year>2010</year>)<article-title> Stomosis arachnophila sp.. n., a new kleptoparasitic species of freeloader flies (Diptera, Milichiidae).</article-title> <source>ZooKeys</source> <volume>50</volume>: <fpage>91</fpage>–<lpage>96</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.505">10.3897/zookeys.50.505</ext-link></mixed-citation></ref>
+		
+		<ref id="B6"><mixed-citation><person-group><name><surname>Chavan</surname><given-names>VS</given-names></name><name><surname>Ingwersen</surname><given-names>P</given-names></name></person-group>(<year>2009</year>)<article-title> Towards a data publishing framework for primary biodiversity data: challenges and potentials for the biodiversity informatics community.</article-title> <source>BMC Bioinformatics</source> <volume>2009</volume>, <issue>10</issue> (Suppl 14): S2. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1186/1471-2105-10-S14-S2">10.1186/1471-2105-10-S14-S2</ext-link></mixed-citation></ref>
+		
+		<ref id="B7"><mixed-citation><person-group><name><surname>Costello</surname><given-names>MJ</given-names></name></person-group>(<year>2009</year>)<article-title> Motivating online publication of data.</article-title> <source>BioScience</source> <volume>59</volume>: <fpage>418</fpage>-<lpage>427</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1525/bio.2009.59.5.9.">10.1525/bio.2009.59.5.9.</ext-link></mixed-citation></ref>
+		
+		<ref id="B8"><mixed-citation><person-group><name><surname>Erwin</surname><given-names>TL</given-names></name><name><surname>Johnson</surname><given-names>PJ</given-names></name></person-group>(<year>2000</year>)<article-title> Naming species, a new paradigm for crisis management in taxonomy: rapid journal validation of scientific names enhanced with more complete description on the Internet.</article-title> <source>The Coleopterists Bulletin</source> <volume>54</volume> (<issue>3</issue>):<fpage>269</fpage>-<lpage>278</lpage>.</mixed-citation></ref>
+		
+		<ref id="B9"><mixed-citation><person-group><name><surname>Fisher</surname><given-names>BL</given-names></name><name><surname>Smith</surname><given-names>MA</given-names></name></person-group>(<year>2008</year>)<article-title> A Revision of Malagasy Species of Anochetus Mayr and Odontomachus Latreille (Hymenoptera: Formicidae).</article-title> <source>PLoS ONE</source> <volume>3</volume>(<issue>5</issue>): e1787. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1371/journal.pone.0001787">10.1371/journal.pone.0001787</ext-link></mixed-citation></ref>
+		
+		<ref id="B10"><mixed-citation><person-group><name><surname>Johnson</surname><given-names>NF</given-names></name><name><surname>Masner</surname><given-names>L</given-names></name><name><surname>Musetti</surname><given-names>L</given-names></name><name><surname>van Noort</surname><given-names>S</given-names></name><name><surname>Rajmohana</surname><given-names>K</given-names></name><name><surname>Darling</surname><given-names>DC</given-names></name><name><surname>Guidotti</surname><given-names>A</given-names></name><name><surname>Polaszek</surname><given-names>A</given-names></name></person-group>(<year>2008</year>)<article-title> Revision of world species of the genus Heptascelio Kieffer (Hymenoptera: Platygastroidea, Platygastridae).</article-title> <source>Zootaxa</source> <volume>1776</volume>:<fpage>1</fpage>-<lpage>51</lpage>.</mixed-citation></ref>
+		
+		<ref id="B11"><mixed-citation><person-group><name><surname>Mengual</surname><given-names>X</given-names></name><name><surname>Ghorpadé</surname><given-names>K</given-names></name></person-group>(<year>2010</year>)<article-title> The flower fly genus Eosphaerophoria Frey (Diptera, Syrphidae).</article-title> <source>ZooKeys</source> <volume>33</volume>: <fpage>39</fpage>–<lpage>80</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.33.298">10.3897/zookeys.33.298</ext-link></mixed-citation></ref>
+		
+		<ref id="B12"><mixed-citation><person-group><name><surname>Miller</surname><given-names>JA</given-names></name><name><surname>Griswold</surname><given-names>CE</given-names></name><name><surname>Yin</surname><given-names>CM</given-names></name></person-group>(<year>2009</year>)<article-title> The symphytognathoid spiders of the Gaoligongshan, Yunnan, China (Araneae, Araneoidea): Systematics and diversity of micro-orbweavers.</article-title> <source>ZooKeys</source> <volume>11</volume>: <fpage>9</fpage>-<lpage>195</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.11.160">10.3897/zookeys.11.160</ext-link></mixed-citation></ref>
+		
+		<ref id="B13"><mixed-citation><person-group><name><surname>Page</surname><given-names>RDM</given-names></name></person-group>(<year>2006</year>)<article-title> Taxonomic names, metadata, and the Semantic Web.</article-title> <source>Biodiversity Informatics</source> <volume>3</volume>:<fpage>1</fpage>-<lpage>15</lpage>.</mixed-citation></ref>
+		
+		<ref id="B14"><mixed-citation><person-group><name><surname>Page</surname><given-names>RDM</given-names></name></person-group>(<year>2010</year>)<article-title> Enhanced display of scientific articles using extended metadata.</article-title> <source>Web Semantics: Science Service Agents World Wide Web.</source> doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1016/j.websem.2010.03.004">10.1016/j.websem.2010.03.004</ext-link></mixed-citation></ref>
+		
+		<ref id="B15"><mixed-citation><person-group><name><surname>Penev</surname><given-names>L</given-names></name><name><surname>Erwin</surname><given-names>T</given-names></name><name><surname>Miller</surname><given-names>J</given-names></name><name><surname>Chavan</surname><given-names>V</given-names></name><name><surname>Moritz</surname><given-names>T</given-names></name><name><surname>Griswold</surname><given-names>C</given-names></name></person-group>(<year>2009a</year>)<article-title> Publication and dissemination of datasets in taxonomy: ZooKeys working example.</article-title> <source>ZooKeys</source> <volume>11</volume>: <fpage>1</fpage>-<lpage>8</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.11.210">10.3897/zookeys.11.210</ext-link></mixed-citation></ref>
+		
+		<ref id="B16"><mixed-citation><person-group><name><surname>Penev</surname><given-names>L</given-names></name><name><surname>Sharkey</surname><given-names>M</given-names></name><name><surname>Erwin</surname><given-names>T</given-names></name><name><surname>van Noort</surname><given-names>S</given-names></name><name><surname>Buffington</surname><given-names>M</given-names></name><name><surname>Seltmann</surname><given-names>K</given-names></name><name><surname>Johnson</surname><given-names>N</given-names></name><name><surname>Taylor</surname><given-names>M</given-names></name><name><surname>Thompson</surname><given-names>FC</given-names></name><name><surname>Dallwitz</surname><given-names>MJ</given-names></name></person-group>(<year>2009b</year>)<article-title> Data publication and dissemination of interactive keys under the open access model: ZooKeys working example.</article-title> <source>ZooKeys</source> <volume>21</volume>: <fpage>1</fpage>–<lpage>17</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.21.274">10.3897/zookeys.21.274</ext-link></mixed-citation></ref>
+		
+		<ref id="B17"><mixed-citation><person-group><name><surname>Pyle</surname><given-names>RL</given-names></name><name><surname>Earle</surname><given-names>JL</given-names></name><name><surname>Greene</surname><given-names>BD</given-names></name></person-group>(<year>2008</year>)<article-title> Five new species of the damselfish genus Chromis (Perciformes: Labroidei: Pomacentridae) from deep coral reefs in the tropical western Pacific.</article-title> <source>Zootaxa</source> <volume>1671</volume>:<fpage>3</fpage>-<lpage>31</lpage>.</mixed-citation></ref>
+		
+		<ref id="B18"><mixed-citation><person-group><name><surname>Sautter</surname><given-names>G</given-names></name><name><surname>Böhm</surname><given-names>K</given-names></name><name><surname>Agosti</surname><given-names>D</given-names></name></person-group>(<year>2007</year>)<article-title> A Quantitative Comparison of XML Schemas for Taxonomic Publications.</article-title> <source>Biodiversity Informatics</source> <volume>4</volume>: <fpage>1</fpage>–<lpage>13</lpage>. <ext-link ext-link-type="uri" xlink:href="https://journals.ku.edu/index.php/jbi/article/view/36">https://journals.ku.edu/index.php/jbi/article/view/36</ext-link></mixed-citation></ref>
+		
+		<ref id="B19"><mixed-citation><person-group><name><surname>Sharkey</surname><given-names>MJ</given-names></name><name><surname>Yu</surname><given-names>DS</given-names></name><name><surname>van Noort</surname><given-names>S</given-names></name><name><surname>Seltmann</surname><given-names>K</given-names></name><name><surname>Penev</surname><given-names>L</given-names></name></person-group>(<year>2009</year>)<article-title> Revision of the Oriental genera of Agathidinae (Hymenoptera: Braconidae) with an emphasis on Thailand including interactive keys to genera published in three different formats.</article-title> <source>ZooKeys</source> <volume>21</volume>: <fpage>19</fpage>–<lpage>54</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.21.271">10.3897/zookeys.21.271</ext-link></mixed-citation></ref>
+		
+		<ref id="B20"><mixed-citation><person-group><name><surname>Shotton</surname><given-names>D</given-names></name></person-group>(<year>2009</year>)<article-title> Semantic Publishing: the coming revolution in scientific journal publishing.</article-title> <source>Learned Publishing</source> <volume>22</volume>(<issue>2</issue>): <fpage>85</fpage>–<lpage>94</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1087/2009202">10.1087/2009202</ext-link></mixed-citation></ref>
+		
+		<ref id="B21"><mixed-citation><person-group><name><surname>Shotton</surname><given-names>D</given-names></name><name><surname>Portwin</surname><given-names>K</given-names></name><name><surname>Klyne</surname><given-names>G</given-names></name><name><surname>Miles</surname><given-names>A</given-names></name></person-group>(<year>2009</year>)<article-title> Adventures in Semantic Publishing: Exemplar Semantic Enhancements of a Research Article.</article-title> <source>PLoS Comput Biol</source> <volume>5</volume>(<issue>4</issue>): e1000361. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1371/journal.pcbi.1000361">10.1371/journal.pcbi.1000361</ext-link></mixed-citation></ref>
+		
+		<ref id="B22"><mixed-citation><person-group><name><surname>Smith</surname><given-names>V</given-names></name></person-group>(<year>2009</year>)<article-title> Data publication: towards a database of everything.</article-title> <source>BMC research Notes</source> <volume>2</volume>: <lpage>113</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.1186/1756-0500-2-113">10.1186/1756-0500-2-113</ext-link></mixed-citation></ref>
+		
+		<ref id="B23"><mixed-citation><person-group><name><surname>Stoev</surname><given-names>P</given-names></name><name><surname>Akkari</surname><given-names>N</given-names></name><name><surname>Zapparoli</surname><given-names>M</given-names></name><name><surname>Porco</surname><given-names>D</given-names></name><name><surname>Enghoff</surname><given-names>H</given-names></name><name><surname>Edgecombe</surname><given-names>GD</given-names></name><name><surname>Georgiev</surname><given-names>T</given-names></name><name><surname>Penev</surname><given-names>L</given-names></name></person-group>(<year>2010</year>)<article-title> The centipede genus Eupolybothrus Verhoeff, 1907 (Chilopoda: Lithobiomorpha: Lithobiidae) in North Africa, a cybertaxonomic revision, with a key to all species in the genus and the first use of DNA barcoding for the group.</article-title> <source>ZooKeys</source> <volume>50</volume>: <fpage>29</fpage>–<lpage>77</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.504">10.3897/zookeys.50.504</ext-link></mixed-citation></ref>
+		
+		<ref id="B24"><mixed-citation><person-group><name><surname>Taekul</surname><given-names>C</given-names></name><name><surname>Johnson</surname><given-names>NF</given-names></name><name><surname>Masner</surname><given-names>L</given-names></name><name><surname>Polaszek</surname><given-names>A</given-names></name><name><surname>Rajmohana</surname><given-names>K.</given-names></name></person-group>(<year>2010</year>)<article-title> World species of the genus Platyscelio Kieffer (Hymenoptera, Platygastridae).</article-title> <source>ZooKeys</source> <volume>50</volume>: <fpage>97</fpage>–<lpage>126</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.50.485">10.3897/zookeys.50.485</ext-link></mixed-citation></ref>
+		
+		<ref id="B25"><mixed-citation><person-group><name><surname>Talamas</surname><given-names>EJ</given-names></name><name><surname>Johnson</surname><given-names>NF</given-names></name><name><surname>van Noort</surname><given-names>S</given-names></name><name><surname>Masner</surname><given-names>L</given-names></name><name><surname>Polaszek</surname><given-names>A</given-names></name></person-group>(<year>2009</year>)<article-title> Revision of world species of the genus Oreiscelio Kieff er (Hymenoptera, Platygastroidea, Platygastridae).</article-title> <source>ZooKeys</source> <volume>6</volume>: <fpage>1</fpage>-<lpage>68</lpage>. doi: <ext-link ext-link-type="uri" xlink:href=" http://dx.doi.org/10.3897/zookeys.6.67">10.3897/zookeys.6.67</ext-link></mixed-citation></ref>
+		
+		<ref id="B26"><mixed-citation><institution>TDWG</institution> (<year>2007</year> onwards)<source> TDWG: standards. Biodiversity Information Standards.</source> <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/standards/">http://www.tdwg.org/standards/</ext-link> [accessed 31.VIII.2009].</mixed-citation></ref></ref-list></back></article>

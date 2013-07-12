@@ -1,0 +1,170 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3115</article-id>
+            <title-group>
+                <article-title>DScan – a high-performance digital scanning system for entomological collections</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Schmidt</surname>
+                        <given-names>Stefan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Balke</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lafogler</surname>
+                        <given-names>Stefan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Zoologische Staatssammlung, Münchhausenstr. 21, 81247 Germany
+            </aff>
+            <aff id="A2">
+                <label>2</label>Technisches Büro München, Thierschstr. 20, 80538 München, Germany
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Stefan Schmidt (<email xlink:type="simple">hymenoptera@zsm.mwn.de</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>183</fpage>
+            <lpage>191</lpage>
+            <history>
+                <date date-type="received">
+                    <day>22</day>
+                    <month>3</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>5</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Stefan Schmidt, Michael Balke, Stefan Lafogler</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Here we describe a high-performance imaging system for creating high-resolution images of whole insect drawers. All components of the system are industrial standard and can be adapted to meet the specific needs of entomological collections. A controlling unit allows the setting of imaging area (drawer size), step distance between individual images, number of images, image resolution, and shooting sequence order through a set of parameters. The system is highly configurable and can be used with a wide range of different optical hardware and image processing software.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>
+Entomology</kwd>
+                <kwd>insect collection</kwd>
+                <kwd>insect drawer</kwd>
+                <kwd>CNC technology</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>Natural history collections are nature’s treasure houses. About 80 million objects are deposited in German natural history collections alone, including about 65 million insects (<xref ref-type="bibr" rid="B1">Brake and Lampe 2004</xref>). The Zoologische Staatssammlung in Munich, Germany (ZSM) holds about 25 million zoological objects. About 90% of the collection are insects, including 10 million <tp:taxon-name>Lepidoptera</tp:taxon-name>, 3-4 million <tp:taxon-name>Coleoptera</tp:taxon-name>, and about three million <tp:taxon-name>Hymenoptera</tp:taxon-name>, stored in about 100,000 standard sized drawers (51 × 42 cm).</p>
+            <p>The material deposited in natural history collections like the ZSM is principally held and intended to support research purposes. Natural history collections are indis<!--PageBreak-->pensable scientific resources that play a central role in biodiversity research (<xref ref-type="bibr" rid="B2">Wheeler et al. 2012</xref>). However, the level of documentation of entomological collections is very low, and even basic data about specimens or metadata about collections are often completely missing (<xref ref-type="bibr" rid="B1">Brake and Lampe 2004</xref>). Moreover, digitisation of natural history specimens is labour-intensive and usually proceeds at a very slow pace. This is partly due to a regrettable lack of personnel, a situation that is not going to change in the foreseeable future. Technical solutions have the potential to aid our digitisation efforts by reducing the need for extensive human resources. However, these solutions need to be developed. Our aim is to use innovative approaches to develop new methods for the rapid digitisation of entomological collection drawers, and the subsequent extraction of relevant metadata from drawer images.</p>
+            <p>DScan is a prototype scanning machine and the foundation of a digitisation system that allows fast and efficient digitisation of entomological drawers. Our primary aim is the optimisation of this system for on-demand-digitisation requirements. Because the contents of and arrangement of specimens within drawers will change if they are part of an active research collection, re-scanning of drawers needs to be as fast and as easy as possible.</p>
+            <p>The resulting images allow inspection of insect specimens at high resolution without the need to access the collection itself physically. The level of detail can be adjusted as required, for instance in relation to the size of the insect specimens, and, is in most cases sufficient for specialists to recognize the taxon at genus or even species level.</p>
+        </sec>
+        <sec sec-type="Mechanics of the drawer scanning system"><title>Mechanics of the drawer scanning system</title>
+            <p>DScan is made of a sturdy, industrial standard aluminium frame (LWH = 1080 × 1080 × 1500 mm) with linear units as used by Computer Numerical Control (CNC) positioning machines (<xref ref-type="fig" rid="F1">Fig. 1</xref>, and YouTube video under youtu.be/zyT7l-CZego). Servo drives and precision ball screw spindles allow a minimum step distance of 0.02 mm at a maximum speed of 100 mm/s. Effective travel ranges are 600 × 600 mm horizontally (x- and y-axis) and 200 mm vertically (z-axis). The system is operated by a PC-controlled console (netbook) with ProNC software (DNC Software Ltd, <ext-link ext-link-type="uri" xlink:href="http://www.pronc.com">www.pronc.com</ext-link>). The left and right sides and back of the scanner are covered by white panels. The front is closed by a curtain with a reflective inner surface that is closed during scan operations.</p>
+            <sec sec-type="Optics"><title>Optics</title>
+                <p>Choice and selection of the optical components of the drawer scanning system are largely unconstrained by the mechanics of the positioning components of the DScan mechanism. A wide range of different camera systems can be adapted to work with the DScan, provided that the camera has remote control capability because the shutter release needs to be triggered by the control unit. Currently the best option includes a digital single-lens reflex (DSLR) camera, although the recent introduction of mi<!--PageBreak-->rrorless system cameras with interchangeable lenses and comparatively large sensors will increase the range of suitable optical equipment. In addition, mirrorless cameras employing electronic shutter mechanisms avoid the wear that can be significant when using a DSLR for creating large numbers of images.</p>
+                <p>Our current system comprises a Nikon D300 DSLR camera equipped with a 12 megapixel APSC sensor, attached to a Voigtländer 90 mm Apo-Lanthar macro lens. As light sources we use two studio flash lights that are placed inside the scanner compartment. The white inner surfaces of the top and side panels, and the white front curtain are highly reflective and allow for maximum lighting efficiency. The flashes are directed toward the side and top panels to achieve an even and non-reflective illumination of specimens. The indirect lighting reduces the risk of blown-out highlights caused by reflections from insects with smooth surfaces and exceedingly high contrast. Typically, these effects are caused by direct, punctual lighting when photographing insects with strongly sculptured and shining, in particular metallic, surfaces.</p>
+            </sec>
+            <sec sec-type="Scanning process"><title>Scanning process</title>
+                <p>The system takes images of a single drawer in a sequential order as determined by the controlling unit. The shooting order is customizable and can be configured by modifying parameters of the control program. The best results are achieved when each photograph overlaps its neighbours by about 30-40%, which enables the stitching software to gener<!--PageBreak-->ate smooth transitions between images. The number of images per drawer can be adjusted by changing the distance between drawer and camera (z-axis). A lower z-distance results in a larger number of images and a larger size and higher resolution of the final megapixel image. A full scan of a standard sized drawer (51 × 42 cm) at a distance of 60 cm takes about 2.5 minutes and produces a set of 56 images (see the DScan in action on YouTube, youtu.be/zyT7l-CZego). At a distance of 52 cm, which is the minimum distance of the macro lens we are using without close-up lens, a scan comprises 99 images and the scanning process takes about 4.2 minutes.</p>
+            </sec>
+            <sec sec-type="Image processing"><title>Image processing</title>
+                <p>To obtain the final high-resolution image, the captured images from each drawer need to be assembled or “stitched” using dedicated stitching or panorama software. For this purpose, we use AutoPano Giga (Kolor, <ext-link ext-link-type="uri" xlink:href="http://www.kolor.com">www.kolor.com</ext-link>). Images are captured in RAW format, developed using Capture NX2 (<ext-link ext-link-type="uri" xlink:href="http://www.capturenx.com">www.capturenx.com</ext-link>) and saved as 8- or 16-bit TIFF images. Alternatively, images can be captured in JPEG (<xref ref-type="fig" rid="F2">Figs 2a</xref>; <xref ref-type="fig" rid="F3">3a, d, g</xref>) or TIFF format (<xref ref-type="fig" rid="F2">Figs 2b</xref>; <xref ref-type="fig" rid="F3">3b, e, h</xref>) and directly assembled without the need of image development. Using JPG format reduces the post processing effort but produces images of slightly inferior quality compared to RAW (cf. <xref ref-type="fig" rid="F3">Fig. 3a</xref>, d, g vs <xref ref-type="fig" rid="F3">3c, f, i</xref>, for high resolution versions of <xref ref-type="fig" rid="F2">Figures 2</xref> and <xref ref-type="fig" rid="F3">3</xref> see media.zsm-entomology.de/suppl/zookeys_mass_digitisation_volume/Fig_2.png and media.zsm-entomology.de/suppl/zookeys_mass_digitisation_volume/Fig_3.png).</p>
+                <p>With 56 images per drawer, the final stitched image has a size of ca. 300 megapixels, whereas images that are assembled from 99 photographs result in pictures of about 500 megapixels. The resulting images are far too large for display in a web browser and need to be made “zoomable” by tiling and creating a low resolution version of the original image. This can be achieved by dedicated software such as Zoomify (Zoomify, Inc., <ext-link ext-link-type="uri" xlink:href="http://www.zoomify.com">www.zoomify.com</ext-link>) or Krpano (krpano GmbH, krpano.com). During this process, tiles are created at different resolutions, allowing zoom-and-pan viewing of the drawer image so that if parts of a drawer image are enlarged, the corresponding tiles are loaded, thus avoiding the need to load the full high-resolution image before it can be viewed. Sample images are available online at zsm-entomology.de and show insect drawers containing <tp:taxon-name>Coleoptera</tp:taxon-name> (zsm-entomology.de/wiki/Drawer_Digitization_Project_-_Coleoptera), <tp:taxon-name>Hymenoptera</tp:taxon-name> (zsm-entomology.de/wiki/Drawer_Digitization_Project_-_Hymenoptera), and <tp:taxon-name>Lepidoptera</tp:taxon-name> (zsm-entomology.de/wiki/Drawer_Digitization_Project_-_Lepidoptera).</p>  
+        <fig id="F1" position="float" orientation="portrait">
+            <label>Figure 1.</label>
+            <caption><p>Schematic drawing of the DScan system. Flashes (not shown) are placed inside the scanner.</p></caption>
+            <graphic xlink:href="ZooKeys-209-183-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+        <fig id="F2" position="float" orientation="portrait">
+            <label>Figure 2.</label>
+            <caption><p>Partial drawer images taken at the same position using three different file formats: captured as JPEG (<bold>a</bold>), captured as TIFF (<bold>b</bold>), and TIFF converted from RAW (<bold>c</bold>). A high resolution version of the image is available under media.zsm-entomology.de/suppl/zookeys_mass_digitisation_volume/Fig_2.png </p></caption>
+            <graphic xlink:href="ZooKeys-209-183-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+        <fig id="F3" position="float" orientation="portrait">
+            <label>Figure 3.</label>
+            <caption><p>Enlargements of drawer images from Fig. 1 to show quality differences between image file formats. Each of the three specimens was captured in JPEG (<bold>a, d, g</bold>), TIFF (<bold>b, e, h</bold>), and RAW (<bold>c, f, i</bold>). A high resolution version of the image is available under media.zsm-entomology.de/suppl/zookeys_mass_digitisation_volume/Fig_3.png</p></caption>
+            <graphic xlink:href="ZooKeys-209-183-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+            </sec>
+            <sec sec-type="Performance"><title>Performance</title>
+                <p>With an optimised workflow in place, from capturing individual images of a single drawer to the final megapixel image, processing of about 100 insect drawers per day<!--PageBreak--><!--PageBreak--><!--PageBreak--> seems technically possible. This assumes a scan rate of 20 drawers per hour plus 10 hours for processing the images in batch mode, which can be done overnight. Image processing (developing, stitching, and image adjustment) depends largely on the computer hardware used. Using a workstation equipped with two Intel Xeon processors with 12 MB cache and a speed of 2.26 Ghz each, 24 MB of RAM, and a high-end graphic card, the stitching process of 56 individual TIFF images using the software AutoPano Giga takes about 4.5 minutes. The subsequent generation of multi-resolution images in jpeg format using Krpano takes an additional 1.5 minutes, resulting in a total of about 6 minutes for the computational part of the scanning process, starting from a set of individual images to high-resolution, zoomable images that are ready for dissemination on the internet.</p>
+            </sec>
+            <sec sec-type="Costs"><title>Costs</title>
+                <p>The costs for the CNC system itself without optics, computer hardware, and software amount to about USD $25,000. The camera system, i.e. a digital SLR with macro lens and studio flash lights, comes to about $2,000–$3,500, adding up to about $30,000 in total for the system including software (AutoPano Giga, krpano) but without computer hardware for image processing and storage. However, as mentioned before, available hardware can be used and a range of suitable cameras can be fitted to the system, requiring only minor modifications to the controlling unit and cable connectors. Standard computer hardware can be used for the stitching of images although the processing will take longer than with a dedicated workstation.</p>
+            </sec>
+            <sec sec-type="Further developments and prospects"><title>Further developments and prospects</title>
+                <p>The DScan system aims to achieve rapid digitisation of entomological collections. The high-resolution images of insect drawers themselves contain a wealth of information. However, additional processing is required to extract that information from the images and make computable metadata about the drawer content available and searchable. Currently, we generate basic metadata associated with each drawer manually, including taxon information and geographic coverage. Several ways to extract metadata from drawer images are currently being explored and evaluated:</p>
+                <p>•	Counting the number of specimens in a drawer and at the same time assigning numbers to each specimen using image analysis software like ImageJ (<ext-link ext-link-type="uri" xlink:href="http://rsbweb.nih.gov/ij/">http://rsbweb.nih.gov/ij/</ext-link>) (<xref ref-type="fig" rid="F4">Fig. 4</xref>). The number and position of each specimen can be exported and used, for instance, for image analysis purposes. For example, the position (x-, y-coordinates) of specimens can be used to automatically crop an image around the position of a specimen. This would allow to create individual images of specimens in a drawer.</p>
+                <p><!--PageBreak-->•	Adding a clickable “hot spot” to individual specimens in a drawer that shows, when selected, specimen- or species-related information, for example, type data. The trigger can also be used to open a text box, open an external web site, or submit a database query.</p>
+                <p>•	There could be an option for users to interactively mark certain specimens, for example taxonomists who would like to borrow certain specimens for closer examination. Additionally, users may be given the opportunity to add information to specimens, e.g., identifications.</p>
+                <p>•	Metadata could be extracted using Optical Character Recognition software.</p>
+                <p>•	Specimens with a Quick Response (QR) code label that is visible from above can be tracked in a collection.</p>
+                <p>•	Cutting out individual specimens from the drawer image and associating metadata with them will bridge the gap between digitisation at drawer and at specimen level.</p>
+                <p>•	Extended depth-of-field photography to avoid parts of the image (e.g. bottom labels) being out of focus. This is particularly important when depth-of-field becomes very short at close object distance.<!--PageBreak--></p>
+                <p>The above list includes only some ideas that seem worthy of exploration in the future. More applications and analysis methods will surely emerge once the system is used routinely, provided that funding opportunities permit further development.</p>  
+        <fig id="F4" position="float" orientation="portrait">
+            <label>Figure 4.</label>
+            <caption><p>Automatic numbering of specimens using ImageJ. For details see text.</p></caption>
+            <graphic xlink:href="ZooKeys-209-183-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We particularly thank Katja Neven (ZSM Entomology) for patiently testing the D-Scan, despite frequent modifications of the system, and for assisting in producing the sample drawer images. The DScan system was developed as part of the joint project “Kompetenzzentren innovativer Datenmobilisierung” (Competence Centres for innovative Data Mobilization, grant 01 LI 1001 B), funded by the Federal Ministry of Education and Research (BMBF). The project is part of the German Global Biodiversity Information Facility (GBIF-D) through the Evertebrata II node.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brake</surname> <given-names>I</given-names></name><name name-style="western"><surname>Lampe</surname> <given-names>K-H</given-names></name></person-group> (<year>2004</year>)<article-title> ZEFOD - Zentralregister biologischer Forschungssammlungen in Deutschland. Ergebnisse des Teilprojektes über zoologische Sammlungen an Museen und Universitäten.</article-title> <source>Mitteilungen der deutschen Gesellschaft für allgemeine und angewandte Entomologie </source> <volume>14</volume>: <fpage>475</fpage>-<lpage>478</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wheeler</surname> <given-names>QD</given-names></name><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>Stevenson</surname> <given-names>DW</given-names></name><name name-style="western"><surname>Stevenson</surname> <given-names>J</given-names></name><name name-style="western"><surname>Blum</surname> <given-names>SD</given-names></name><name name-style="western"><surname>Boom</surname> <given-names>BM</given-names></name><name name-style="western"><surname>Borisy</surname> <given-names>GG</given-names></name><name name-style="western"><surname>Buizer</surname> <given-names>JL</given-names></name><name name-style="western"><surname>De Carvalho</surname> <given-names>MR</given-names></name><name name-style="western"><surname>Cibrian</surname> <given-names>A</given-names></name><name name-style="western"><surname>Donoghue</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Doyle</surname> <given-names>V</given-names></name><name name-style="western"><surname>Gerson</surname> <given-names>EM</given-names></name><name name-style="western"><surname>Graham</surname> <given-names>CH</given-names></name><name name-style="western"><surname>Graves</surname> <given-names>P</given-names></name><name name-style="western"><surname>Graves</surname> <given-names>SJ</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>RP</given-names></name><name name-style="western"><surname>Hamilton</surname> <given-names>AL</given-names></name><name name-style="western"><surname>Hanken</surname> <given-names>J</given-names></name><name name-style="western"><surname>Law</surname> <given-names>W</given-names></name><name name-style="western"><surname>Lipscomb</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Lovejoy</surname> <given-names>TE</given-names></name><name name-style="western"><surname>Miller</surname> <given-names>H</given-names></name><name name-style="western"><surname>Miller</surname> <given-names>JS</given-names></name><name name-style="western"><surname>Naeem</surname> <given-names>S</given-names></name><name name-style="western"><surname>Novacek</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Page</surname> <given-names>LM</given-names></name><name name-style="western"><surname>Platnick</surname> <given-names>NI</given-names></name><name name-style="western"><surname>Porter-Morgan</surname> <given-names>H</given-names></name><name name-style="western"><surname>Raven</surname> <given-names>PH</given-names></name><name name-style="western"><surname>Solis</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Valdecasas</surname> <given-names>AG</given-names></name><name name-style="western"><surname>Van Der Leeuw</surname> <given-names>S</given-names></name><name name-style="western"><surname>Vasco</surname> <given-names>A</given-names></name><name name-style="western"><surname>Vermeulen</surname> <given-names>N</given-names></name><name name-style="western"><surname>Vogel</surname> <given-names>J</given-names></name><name name-style="western"><surname>Walls</surname> <given-names>RL</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>EO</given-names></name><name name-style="western"><surname>Woolley</surname> <given-names>JB</given-names></name></person-group> (<year>2012</year>)<article-title> Mapping the biosphere: exploring species to understand the origin, organization and sustainability of biodiversity.</article-title> <source>Systematics and Biodiversity </source> <volume>10</volume> (<issue>1</issue>): <fpage>1</fpage>-<lpage>20</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/14772000.2012.665095">10.1080/14772000.2012.665095</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

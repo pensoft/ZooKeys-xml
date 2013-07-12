@@ -1,0 +1,687 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+	
+    <front>
+
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.56.531</article-id>
+            <title-group>
+                <article-title>
+                    Mitochondrial phylogenies in the light of pseudogenes and 
+                        Wolbachia: re-assessment of a bark beetle dataset
+                </article-title>
+            </title-group>
+	
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Arthofer</surname>
+                        <given-names>Wolfgang</given-names>
+                    </name>
+            	                    <aff>
+			                
+                        Molecular Ecology Group, Institute of Ecology, University of Innsbruck, Technikerstrasse 25, 6020 Innsbruck, Austria
+			                               </aff>			           	
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>N. Avtzis</surname>
+                        <given-names>Dimitrios</given-names>
+                    </name>
+            	                    <aff>
+			                
+                        NAGREF-Forest Research Institute, 570 06 Vassilika-Thessaloniki, Greece
+			                               </aff>			           	
+                </contrib>   
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Riegler</surname>
+                        <given-names>Markus</given-names>
+                    </name>
+            	                    <aff>
+			                
+                        Centre for Plants and the Environment, School of Natural Sciences, University of Western Sydney, Locked Bag 1797, Penrith South DC NSW 1797, Australia
+			                               </aff>			           	
+                </contrib>   
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Stauffer</surname>
+                        <given-names>Christian</given-names>
+                    </name>
+            	                    <aff>
+			                
+                        Institute of Forest Entomology, Forest Pathology and Forest Protection Department of Forest - &amp; Soil Sciences, Boku, University of Natural Resources and Applied Life Sciences, Hasenauerstrasse 38, 1190 Vienna, Austria
+			                               </aff>			           	
+                </contrib>                  
+            </contrib-group>
+
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Christian Stauffer (<email xlink:type="simple">christian.stauffer@boku.ac.at</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: B.H. Jordal</p>
+                </fn>
+            </author-notes>
+
+            <pub-date pub-type="epub">
+                <day>17</day>
+                <month>9</month>
+                <year>2010</year>
+            </pub-date>
+            <issue>56</issue>
+            <fpage>269</fpage>
+            <lpage>280</lpage>
+
+            <history>
+                <date date-type="received">
+                    <day>10</day>
+                    <month>9</month>
+                    <year>2009</year>
+                </date>
+                <date date-type="accepted">
+                    <day>11</day>
+                    <month>1</month>
+                    <year>2010</year>
+                </date>
+            </history>
+
+            <permissions>
+                <copyright-statement>Authors</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            
+            <abstract>
+                <label>Abstract</label>
+                <p>Phylogenetic studies based on mtDNA become increasingly questioned because of potential pitfalls due to mitochondrial pseudogenes and mitochondrial selective sweeps. While the inclusion of nuclear markers should preferentially be considered for future studies, there is no need to abandon mtDNA as long as tests for the known mtDNA artefacts are performed. In this study we presentadditionaldata and test previous phylogeographical studies of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name>. We did not detect nuclear copies (numts) of the previously used mitochondrial markers by performing a combined long range/nested PCR of the COI gene and by an in silico analysis of the COI sequence data. This confirms the robustness of our previous phylogenetic study of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name>. Results of an in-situ hybridization of <tp:taxon-name>Wolbachia</tp:taxon-name> in <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> confirm the presence of this endosysmbiont in this species. However, we did not detect a correlation between infection status, geographical region and mtDNA haplotypes. The hybridisation data also support a previous hypothesis that infections do not result from parasitoids or parasitic nematodes, insect surface or laboratory contaminations and are hence a true infection of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name>. We conclude that the deep structure found in mitochondrial populations of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> indeed represents the evolutionary history of European populations.</p>
+            </abstract>
+	
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Wolbachia</kwd>
+                <kwd>Scolytinae</kwd>
+                <kwd>pseudogenes</kwd>
+                <kwd>numts</kwd>
+                <kwd>mtDNA</kwd>
+                <kwd>phylogeny</kwd>
+                <kwd>phylogeography</kwd>
+            </kwd-group>
+
+        </article-meta>
+    </front>
+
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>In the last two decades several phylogeographic (e.g. <xref ref-type="bibr" rid="B28">Stauffer et al. 1999</xref>) and phylogenetic (e.g. <xref ref-type="bibr" rid="B11">Cognato and Sun 2007</xref>) studies on scolytines were presented and most of them used mitochondrial DNA (mtDNA) as one of, or the only genetic marker. Analyses of the mitochondrial genome pioneered the era of molecular ecology due to its small size, uniparental mode of inheritance, ease of isolation, and conserved simple structure, allowing the development of universal primers spanning several classes of Metazoa (e.g. <xref ref-type="bibr" rid="B16">Lunt et al. 1999</xref>). However, its potential for resolving the evolutionary history of organisms was gradually questioned when factors influencing the reliability of mtDNA derived phylogenies were identified, namely (i) nuclear non-functional copies of mitochondrial genes (e.g. <xref ref-type="bibr" rid="B5">Bensasson et al. 2001</xref>), (ii) maternally inherited endosymbionts (<xref ref-type="bibr" rid="B13">Hurst and Jiggins 2005</xref>), (iii) positive selection on mitochondrial genomes (<xref ref-type="bibr" rid="B17">Meiklejohn et al. 2007</xref>) and (iv) mitochondrial introgression as a consequence of hybridisation (<xref ref-type="bibr" rid="B22">Petit and Excoffier 2009</xref>).</p>
+            <p>Mitochondria originated from the endosymbiosis of α-proteobacteria in ancestral eukaryotic cells. Mitochondrial genomes contain fewer genes than those of free-living α-proteobacteria, due to a loss of genes during their evolutionary history. This gene loss is explained by (1) the functional redundancy of mitochondrial genes with pre-existing nuclear genes and (2) the functional transfer of mitochondrial genes to the nucleus. The transfer of mtDNA derived sequences to the nucleus is an ongoing process in eukaryotes and mitochondrial pseudogenes have been identified in the nuclear genome of many species (<xref ref-type="bibr" rid="B32">Timmis et al. 2004</xref>). Such nuclear mitochondrial (numt) pseudogenes can derive from any part of the mtDNA and occur typically as single copies at dispersed genomic locations. Numts are usually less than 1 kb in size (<xref ref-type="bibr" rid="B23">Richy and Leister 2004</xref>). Larger fragments as well as tandemly repeated numts have been reported in mammals (e.g. <xref ref-type="bibr" rid="B5">Bensasson et al. 2001</xref>). Phylogenies derived solely from mtDNA sequences may hence be erroneous due to numts being co-amplified by universal mitochondrial primers.</p>
+            <p>A set of strategies is available in order to avoid numt based errors, including in silico analysis of sequences to detect an eventual increased number of non-synonymous base substitutions, frameshifts, additional stop codons and reduced transition/transversion ratios (<xref ref-type="bibr" rid="B5">Bensasson et al. 2001</xref>). Positive results should raise doubt on the mitochondrial origin of the retrieved sequences. Furthermore, long PCR techniques can be utilized because most numt sequences are shorter than 1000 base pairs (<xref ref-type="bibr" rid="B23">Richy and Leister 2004</xref>).</p>
+            <p>A specific feature of mtDNA is its strict maternal inheritance in most insects. Due to this asymmetrical inheritance within a species the marker only reflects the female part of the species’ genealogy. Hence, mtDNA transmission will be influenced by any selection for maternally transmitted genes or other maternally selective traits. Several maternally transmitted endosymbionts are well known in invertebrates, with <tp:taxon-name>Wolbachia</tp:taxon-name> as the most prominent one (<xref ref-type="bibr" rid="B34">Werren et al. 2008</xref>). <tp:taxon-name>Wolbachia</tp:taxon-name> was also detected in <tp:taxon-name>Ips typographus</tp:taxon-name> (<xref ref-type="bibr" rid="B27">Stauffer et al. 1997</xref>), <tp:taxon-name>Hypothenemus hamperi</tp:taxon-name> (<xref ref-type="bibr" rid="B33">Vega et al. 2002</xref>), <tp:taxon-name>Xylosandrus germanus</tp:taxon-name> (<xref ref-type="bibr" rid="B21">Peer and Taborsky 2005</xref>) and <tp:taxon-name>Coccotrypes dactyliperda</tp:taxon-name> (<xref ref-type="bibr" rid="B35">Zchori-Fein et al. 2006</xref>). Recently, <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> was found infected with two <tp:taxon-name>Wolbachia</tp:taxon-name> strains wCha1 and wCha2 (<xref ref-type="bibr" rid="B2">Arthofer et al. 2009a</xref>). Both strains occur in low titre not accessible by conventional PCR detection methods.</p>
+            <p>While some <tp:taxon-name>Wolbachia</tp:taxon-name> infections do not alter host physiology and reproduction, such effects have been found in others. Reproductive fitness traits range from cytoplasmatic incompatibility (CI) to male-killing, feminisation and the induction of thelytokous parthenogenesis (see <xref ref-type="bibr" rid="B34">Werren et al. 2008</xref> for a review). In a population infected with CI-inducing <tp:taxon-name>Wolbachia</tp:taxon-name>, the mtDNA associated with the initially infected females will hitchhike through the population and replace the original haplotypes (<xref ref-type="bibr" rid="B13">Hurst and Jiggins 2005</xref>). From a phylogenetic point of view this selective sweep may easily be mistaken for a population bottleneck or a founder effect. On the other hand, old and established <tp:taxon-name>Wolbachia</tp:taxon-name> infections within a population might maintain mitochondrial isolation in spite of nuclear gene flow. In such cases, deep mtDNA structure may contradict homogenous nuclear phylogenies. Thus, the presence of <tp:taxon-name>Wolbachia</tp:taxon-name> must be checked when mtDNA based phylogenies and phylogeographies are established. This is usally done by conventional PCR using the <tp:taxon-name>Wolbachia</tp:taxon-name> specific primers for wsp (<xref ref-type="bibr" rid="B37">Zhou et al. 1998</xref>) or 16S rDNA (<xref ref-type="bibr" rid="B20">O’Neill et al. 1992</xref>). More sophisticated methods include high sensitivity detection (<xref ref-type="bibr" rid="B2">Arthofer et al. 2009a</xref>, <xref ref-type="bibr" rid="B3">b</xref>) or in situ hybridization which offers a possibility to detect <tp:taxon-name>Wolbachia</tp:taxon-name> directly in infected tissues (<xref ref-type="bibr" rid="B10">Chen et al. 2005</xref>). The latter method reduces the risk of false positive results due to contamination with infected parasitoids, parasitic nematodes or prey in the gut content of predators.</p>
+            <p>In this study we show that numts do not influence the phylogenetic pattern of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> (<xref ref-type="bibr" rid="B4">Avtzis et al. 2008</xref>) by performing a combined long range/nested PCR of the COI gene and by an in silico analysis of the COI sequence data. Furthermore, we present results of an in-situ hybridization of <tp:taxon-name>Wolbachia</tp:taxon-name> in <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> confirming the presence of the endosysmbiont in tissues of this species.</p>
+        </sec>
+        
+        <sec sec-type="Material and methods"><title>Material and methods</title>
+            <sec sec-type="Numt search"><title>Numt search</title>
+                <p>Mitogenomic sequences of the coleopteran species <tp:taxon-name>Pyrocoelia rufa</tp:taxon-name> (<tp:taxon-name>Lampyridae</tp:taxon-name>), <tp:taxon-name>Tribolium castanaeum</tp:taxon-name> (<tp:taxon-name>Tenebrionidae</tp:taxon-name>) and <tp:taxon-name>Crioceris duodecimpunctata</tp:taxon-name> (<tp:taxon-name>Chrysomelidae</tp:taxon-name>) were obtained from GeneBank (for accession numbers see <xref ref-type="table" rid="T1">table 1</xref>) and aligned using Clustal X (<xref ref-type="bibr" rid="B31">Thompson et al. 1997</xref>). To facilitate identification of conserved regions sequences of <tp:taxon-name>Apis mellifera</tp:taxon-name> (<tp:taxon-name>Apidae</tp:taxon-name>), <tp:taxon-name>Bombyx mori</tp:taxon-name> (<tp:taxon-name>Bombycidae</tp:taxon-name>) and <tp:taxon-name>Drospohila simulans</tp:taxon-name> (<tp:taxon-name>Drosophilidae</tp:taxon-name>) were included in the alignment. Conserved regions were selected for primer design (<xref ref-type="table" rid="T1">Table 1</xref>). Occasional variable nucleotide positions within the conserved regions required the selection of primer sequences characteristic for coleopterans. Developed primers were Met/F 5’ gctwhtgggttcataccc 3’ located in the methionin tRNA region and CO2/R 5’ caaatttctgaacattg 3’ located in CO2. This primer pair amplifies a stretch of about 3463bp.</p>
+                <!--PageBreak-->
+
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Primer sequences of Met/F and CO2/R for <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> amplifying 3463bp: alignments and GenBank accession numbers.</p></caption>
+                    <table>
+	                        <tbody>
+		                            <tr>
+                                <th colspan="2" rowspan="1">Met/F</th>
+                                <th rowspan="1" colspan="1">5'</th>
+                                <th rowspan="1" colspan="1">g</th>
+                                <th rowspan="1" colspan="1">c</th>
+                                <th rowspan="1" colspan="1">t</th>
+                                <th rowspan="1" colspan="1">w</th>
+                                <th rowspan="1" colspan="1">h</th>
+                                <th rowspan="1" colspan="1">t</th>
+                                <th rowspan="1" colspan="1">g</th>
+                                <th rowspan="1" colspan="1">g</th>
+                                <th rowspan="1" colspan="1">g</th>
+                                <th rowspan="1" colspan="1">t</th>
+                                <th rowspan="1" colspan="1">t</th>
+                                <th rowspan="1" colspan="1">c</th>
+                                <th rowspan="1" colspan="1">a</th>
+                                <th rowspan="1" colspan="1">t</th>
+                                <th rowspan="1" colspan="1">a</th>
+                                <th rowspan="1" colspan="1">c</th>
+                                <th rowspan="1" colspan="1">c</th>
+                                <th rowspan="1" colspan="1">c</th>
+                                <th rowspan="1" colspan="1">3'</th>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Crioceris duodecimpunctata</td>
+                                <td rowspan="1" colspan="1">NC_003372</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Pyrocoelia rufa</td>
+                                <td rowspan="1" colspan="1">NC_003970</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Tribolium castaneum</td>
+                                <td rowspan="1" colspan="1">NC_003081</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Apis mellifera ligustica</td>
+                                <td rowspan="1" colspan="1">NC_001566</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">c</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Bombyx mori</td>
+                                <td rowspan="1" colspan="1">NC_002355</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">c</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Drosophila simulans</td>
+                                <td rowspan="1" colspan="1">NC_005781</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">c</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td colspan="2" rowspan="1">CO2/R</td>
+                                <td rowspan="1" colspan="1">5'</td>
+                                <td rowspan="1" colspan="1">c</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">c</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">g</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">c</td>
+                                <td rowspan="1" colspan="1">a</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">t</td>
+                                <td rowspan="1" colspan="1">g</td>
+                                <td rowspan="1" colspan="1">3'</td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Crioceris duodecimpunctata</td>
+                                <td rowspan="1" colspan="1">NC_003372</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Pyrocoelia rufa</td>
+                                <td rowspan="1" colspan="1">NC_003970</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">g</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Tribolium castaneum</td>
+                                <td rowspan="1" colspan="1">NC_003081</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Apis mellifera ligustica</td>
+                                <td rowspan="1" colspan="1">NC_001566</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Bombyx mori</td>
+                                <td rowspan="1" colspan="1">NC_002355</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Drosophila simulans</td>
+                                <td rowspan="1" colspan="1">NC_005781</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1">.</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+	                        </tbody>
+                    </table>
+                </table-wrap>
+
+                <p>Fourteen DNA extracts of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> representing all clades were selected for analysis. Thermocycling was performed in a Primus 25 advanced thermocycler (peqlab, Germany). Full length PCR was performed in 10 µl reactions using 0.4 µM of each Met/F and CO2/R primer, 6 mM magnesium sulphate, 200 µM dNTPs, 0.4 U Taq DNA polymerase (Sigma, USA), 0.01 U Sawady Pwo polymerase (peqlab) and 1 µl DNA template in the buffer provided with the Pwo polymerase. Cycling conditions were 3 min initial denaturation at 94° C followed by 32 cycles of 94° C (30 sec), 55° C (1 min) and 68° C (2.5 min) and a final extension step at 68° C (10 min). Products were diluted 1:10,000 with sterile distilled water and 1 µl diluted amplicon was used as template for the nested PCR. Dilution series were carried out to prove that the carry over of genomic DNA from the full length to the nested PCR reaction was small enough to avoid detectable amounts of amplicon. Nested PCR was done in 25 μl reactions containing 3.75 mM magnesium chloride, 125 μM dNTPs (Fermentas, Lithuania), 0.5 μM of each K698 (<xref ref-type="bibr" rid="B9">Caterino and Sperling 1999</xref>) and UEA10 (<xref ref-type="bibr" rid="B16">Lunt et al. 1999</xref>) primer and 1U Taq polymerase (Sigma, USA). Cycling conditions contained an initial denaturation step of 3 min at 94° C followed by 33 cycles of 94° C (30 sec), 48° C (60 sec) and 68° C (1.5 min) and a final extension step at 68° C (10 min). Amplicon size was checked by gel electrophoresis, products were purified with the QiaQuick PCR purification kit (Qiagen, USA) and Sanger sequencing was performed using nested PCR primers by a commercial provider.</p>
+                <!--PageBreak-->
+                <p>An in-silco analysis was performed on 262 sequences of the original study (<xref ref-type="bibr" rid="B4">Avtzis et al. 2008</xref>) representing 58 European haplotypes of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> (DQ515997-DQ516054) to identify non-synonymous base substitutions, additional stop codons, insertions and deletions, frameshifts and the transition:transversion ratio. Eleven molecular traits listed in <xref ref-type="table" rid="T2">table 2</xref> were selected to discriminate numt and mtDNA which are extensively discussed in the results section.</p>
+
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <label>Table 2.</label>
+                    <caption><p>In silico analysis of CO1 mutations of data presented in <xref ref-type="bibr" rid="B4">Avtzis et al. (2008)</xref>. Total number and relative amount of mutational patterns observed in a 1557 bp stretch of n=262 individuals is compared with expected values for authentic mtDNA.</p></caption>
+                    <table>
+	                        <tbody>
+		                            <tr>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1">Total</th>
+                                <th rowspan="1" colspan="1">Relative (%)</th>
+                                <th rowspan="1" colspan="1">Expected value for mthNA <sup>a</sup></th>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Single base substitutions</td>
+                                <td rowspan="1" colspan="1">125</td>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1">-</td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">1<sup>st</sup> codon position substitutions</td>
+                                <td rowspan="1" colspan="1">15</td>
+                                <td rowspan="1" colspan="1">12.0</td>
+                                <td rowspan="1" colspan="1">14.9 ± 9.4% <sup>b</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">2<sup>nd</sup> codon position substitutions</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1.6</td>
+                                <td rowspan="1" colspan="1">4.5 ± 3.5% <sup>b</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">3<sup>rd</sup> codon position substitutions</td>
+                                <td rowspan="1" colspan="1">108</td>
+                                <td rowspan="1" colspan="1">86.4</td>
+                                <td rowspan="1" colspan="1">80.6 ± 21% <sup>b</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Nonsynonymous substitutions</td>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">10.4</td>
+                                <td rowspan="1" colspan="1">7.47 ± 5.4% <sup>c</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">C › T substitutions</td>
+                                <td rowspan="1" colspan="1">25</td>
+                                <td rowspan="1" colspan="1">20.0</td>
+                                <td rowspan="1" colspan="1">-</td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">GC › GT substitutions</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">12.0 <sup>d</sup></td>
+                                <td rowspan="1" colspan="1">25 ± 14.0% <sup>e</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Insertions</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">none <sup>f</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Deletions</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">none <sup>f</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Additional stop-codons</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">none <sup>f</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Transitions (3<sup>rd</sup> codon position)</td>
+                                <td rowspan="1" colspan="1">95</td>
+                                <td rowspan="1" colspan="1">88.0 <sup>g</sup></td>
+                                <td rowspan="1" colspan="1">84.9% ± 18.1% <sup>h</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Transversions (3<sup>rd</sup> codon position)</td>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">12.0 <sup>g</sup></td>
+                                <td rowspan="1" colspan="1">15.1 ± 7.6% <sup>h</sup></td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">Trasition-transversion ratio</td>
+                                <td rowspan="1" colspan="1">7.31</td>
+                                <td rowspan="1" colspan="1">-</td>
+                                <td rowspan="1" colspan="1">-</td>
+                            </tr>
+		                            <tr>
+                                <td rowspan="1" colspan="1">GC content</td>
+                                <td rowspan="1" colspan="1">-</td>
+                                <td rowspan="1" colspan="1">34.6</td>
+                                <td rowspan="1" colspan="1">28.66 ± 10.5% <sup>i</sup></td>
+                            </tr>
+	                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+		                         <fn id="tfn2">
+                            <p><sup>a</sup> expected relative values as given in reference ± χ
+                            <sup>2</sup> confidence interval at α=0.05 (<xref ref-type="bibr" rid="B24">Sachs 1999</xref>), 
+                            <sup>b</sup> 
+                            <xref ref-type="bibr" rid="B7">Blouin et al. (1998)</xref>, 
+                            <sup>c</sup> 
+                            <xref ref-type="bibr" rid="B25">Shoemaker et al. (2004)</xref>, data of 
+                            
+                                <tp:taxon-name>Drosophila subquinaria</tp:taxon-name>, 
+                            <sup>d</sup> percentage GC › GT substitutions of total C › T substitutions, 
+                            <sup>e</sup> 
+                            <xref ref-type="bibr" rid="B8">Bulmer (1986)</xref>, 
+                            <xref ref-type="bibr" rid="B5">Bensasson et al. (2001)</xref>, 
+                            <sup>f</sup> 
+                            <xref ref-type="bibr" rid="B36">Zhang and Hewitt (1996)</xref>, 
+                            <sup>g</sup> percentage of total transitions/transversions on 3
+                            <sup>rd</sup> codon position, 
+                            <sup>h</sup> 
+                            <xref ref-type="bibr" rid="B30">Tamura (1992)</xref>, 
+                            <sup>i</sup> 
+                            <xref ref-type="bibr" rid="B15">Lin and Danforth (2004)</xref>, data for CO1 genes</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+            </sec>
+            
+            <sec sec-type="Identification of Wolbachia infections by in situ hybridization"><title>Identification of Wolbachia infections by in situ hybridization</title>
+                <p>In situ hybridization followed a slightly modified protocol of <xref ref-type="bibr" rid="B10">Chen et al. (2005)</xref>. Insects from locations with elevated <tp:taxon-name>Wolbachia</tp:taxon-name> prevalence were dissected under a stereo microscope using sterile forceps and scalpel blades. Ovarial tissue was recovered, transferred onto microscope slides, pre-fixed with a drop of methanol and air-dried over night. Final fixation was carried out in a drop of 0.4% formaldehyde at 4° C for 5 min. Slides were washed twice by pipetting 2 ml buffer 1 (100 mM Tris.HCl, 150 mM sodium chloride, pH=7.4) on the tissue. The buffer was kept on the tissue for 30 sec and was then decanted. After 10 min air-drying 10 µl of a hybridization solution containing 1 ng/µl of a DIG-labelled wsp specific probe, 5% (w/v) dextrane sulphate, 2% (v/v) denatured salmon sperm, 1x SSC, 1x Denhart’s reagent and 50% (v/v) formamide were placed on the slide under a cover slip. Tissue was denatured for 5 min at 96° C, cooled on ice and hybridized over night at 42° C in a humid chamber. The cover slip was removed and the slide washed two times 5 min with 2x SSC at room temperature and once 5 min with 0.1x SSC at 42° C. All subsequent steps were carried out at room temperature. The slide was exposed to buffer 2 (100 mM Tris.HCl, 150 mM sodium chloride, 0.5% (w/v) blocking reagent (Roche), pH=7.4) for 15 min, briefly washed with buffer 1 and air-dried for 10 min. 10 µl Anti-DIG antibody conjugated to alkaline phosphatase (Roche, 1:500 in buffer 2) were placed atop each tissue specimen and incubation was performed for one h in a humid chamber. Slides were washed two times 5 min in buffer 1 and equilibrated 5 min in buffer 3 (100 mM Tris.HCl, 150 mM sodium chloride, 1% (w/v) BSA, 0.3% (v/v) Triton X-100, pH=7.4). Staining was performed with 20 µl NBT/BCIP solution (Amresco, USA) in the dark under a cover slide. As soon as a purple colour became visible (30 min up to several h) the cover slip was removed, the sample washed briefly with distilled water, mounted, and microscopy was performed to detect cells infected with <tp:taxon-name>Wolbachia</tp:taxon-name>. For positive and negative control <tp:taxon-name>Drosophila simulans</tp:taxon-name> strains were used.</p>
+                <!--PageBreak-->
+            </sec>
+        </sec>
+        
+        <sec sec-type="Results and discussion"><title>Results and discussion</title>
+            <p>Phylogeographic analysis of European <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> populations revealed a deep genetic structure between the most diverged haplotypes with three major clades and an estimated divergence time of 100,000 years before present (<xref ref-type="bibr" rid="B4">Avtzis et al. 2008</xref>). Recently, low titre infections of two <tp:taxon-name>Wolbachia</tp:taxon-name> strains were detected in more than 30% of the analysed specimens (<xref ref-type="bibr" rid="B2">Arthofer et al. 2009a</xref>). Thus, tests for integrity of the mtDNA based phylogeny in the light of numts and endosymbiont infection were mandatory. Here we present a data set demonstrating that the phylogeny of <xref ref-type="bibr" rid="B4">Avtzis et al. (2008)</xref> is not influenced by numt pseudogenes. <xref ref-type="bibr" rid="B2">Arthofer et al. (2009a)</xref> have detected <tp:taxon-name>Wolbachia</tp:taxon-name> in all major <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> clades in a pattern that is unlikely to be caused by CI inducing strains. Here we prove the presence of the endosymbiontdirectly in ovarial cells of the beetle, excluding positive <tp:taxon-name>Wolbachia</tp:taxon-name> detection by PCR due to contamination.</p>
+            <sec sec-type="Long/nested PCR and in silico analysis for presence of numts"><title>Long/nested PCR and in silico analysis for presence of numts</title>
+                <p>Alignment of mitochondrial genomes of three coleopteran and three non-coleopteran insect species resulted in six candidate primers (data not shown), of which one primer pair (<xref ref-type="table" rid="T1">Table 1</xref>), after extensive optimization of PCR conditions, amplified a clear band from <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> DNA extracts. Dilution series of genomic DNA gave no visible bands in dilutions of more than 1:1,000, ensuring that all amplicons produced in the nested PCR originated solely from the full length PCR product and not from genomic carry-over (data not shown). After nested PCR extensive products of the expected size could be obtained from almost all haplotypes of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> examined. Even templates without visible amplification in the full length PCR had formed enough product to be amplified in the subsequent nested reaction. Comparison of the NJ trees derived from direct PCR sequences (<xref ref-type="bibr" rid="B4">Avtzis et al. 2008</xref>) and from nested PCR sequences of 14 representative haplotypes of the major clades showed identical topologies (data not shown).</p>
+                <!--PageBreak-->
+                <p>PCR conditions were chosen to remove any numt shorter than 3.4 kb, i.e. three times longer than the largest numts ever observed in insects. Both direct and long/nested PCR sequences were identical, and so were the phylogenetic trees. With our test, co-amplification of numts in the direct PCR approach would have led to discrepancies in tree topology between direct and long PCR sequences.</p>
+                <p>In order to extend numt screening to 262 individual sequences representing 58 different haplotypes, an in silico analysis was performed targeting characteristic differences between mtDNA and numt sequence composition. Eleven numerical traits were analyzed independently and all of them resulted in values within 5% confidence intervals for authentic mtDNA (<xref ref-type="table" rid="T2">Table 2</xref>). Thus, presence of numts in the analyzed populations of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> can be excluded.</p>
+                <p>Several strategies to avoid numt co-amplifications are known. The purification of mtDNA by caesium chloride gradient centrifugation (<xref ref-type="bibr" rid="B19">Nishiguchi et al. 2002</xref>) prevents the isolation of numts but is inapplicable when the amounts of source DNA are limited. Beside this, the procedure is slow and laboursome and therefore not suitable for the screening of large populations. Other enrichment techniques provide a DNA that may still be contaminated with some nuclear sequences. In cases where the sequences of authentic mtDNA and the corresponding pseudogenes are known the development of target-specific primers may be recommended (<xref ref-type="bibr" rid="B36">Zhang and Hewitt 1996</xref>). The long PCR approach utilized in this study should exclude any amplicons derived from nuclear DNA. Furthermore, mtDNA shows some characteristics in base composition and mutational patterns that are different from the nuclear genome. Most obvious, mtDNA is strongly AT biased (<xref ref-type="bibr" rid="B14">Lewis et al. 1995</xref>) and evolves faster than single copy nuclear genes (<xref ref-type="bibr" rid="B12">Galtier et al. 2009</xref>). Most probably this fast evolution is explained by inefficient repair mechanisms at the mitochondrial replication complex. More recent studies have shown substantial rate heterogeneity between different species and mitochondrial genes (e.g. <xref ref-type="bibr" rid="B18">Mueller 2006</xref>). After transfer into the nucleus, a mitochondrial sequence will evolve with the typical patterns of a pseudogene. Compared to the authentic sequence which is under some selective constraint there will be less codon position bias and a higher proportion of nonsynonymous base replacements (<xref ref-type="bibr" rid="B29">Sunnucks and Hales 1996</xref>). Transition-transversion ratio is significantly higher in mtDNA than in corresponding pseudogenes (<xref ref-type="bibr" rid="B1">Arctander 1995</xref>). The GC dinucleotide is often methylated in nuclear DNA and 5-methylcytosine mutates abnormally often to T (<xref ref-type="bibr" rid="B6">Bird 1980</xref>). Therefore the rate of GC › GT mutations among the four possible nC › nT combinations is highly overrepresented in the nucleus but not in mtDNA where methylation does not occur (<xref ref-type="bibr" rid="B8">Bulmer 1986</xref>).</p>
+                <!--PageBreak-->
+                <p>While we consider the long/nested PCR approach as very reliable to exclude any numt from a genetic analysis, it requires additional handling time, costs for PCR consumables and high quality DNA allowing the amplification of &gt;3kb products. Especially the latter condition will not be given when long term stored specimens have to be analyzed that might have degraded DNA. The in silico approach presented here can be readily applied to individual haplotypes within any mtDNA alignment and does not require additional manipulations in the laboratory. It is thus suitable for a re-check of existing mtDNA based phylogenies.</p>
+            </sec>
+            
+            <sec sec-type="Detection of Wolbachia by in situ hybridization"><title>Detection of Wolbachia by in situ hybridization</title>
+                <p>The principial functionality of a modified protocol for <tp:taxon-name>Wolbachia</tp:taxon-name> detection by in situ hybridization with DIG labelled probes was tested using ovarial tissue of <tp:taxon-name>Wolbachia</tp:taxon-name> free <tp:taxon-name>Drospohila simulans</tp:taxon-name> STC and <tp:taxon-name>Drospohila simulans</tp:taxon-name> flies infected with wRi. Differences in colouration were clearly distiguishable between infected and uninfected <tp:taxon-name>Drospohila simulans</tp:taxon-name> (<xref ref-type="fig" rid="F1">Fig. 1 A, B</xref>).</p>
+                <p>Compared to wRi in <tp:taxon-name>Drospohila simulans</tp:taxon-name>, <tp:taxon-name>Wolbachia</tp:taxon-name> titre in <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> was low, and in average only 35.5% of the individuals were infected (<xref ref-type="bibr" rid="B2">Arthofer et al. 2009a</xref>). The ovarial tissue of several individuals analysed showed staining patterns at different intensities, comparable to the <tp:taxon-name>Drospohila simulans</tp:taxon-name> positive controls (<xref ref-type="fig" rid="F1">Fig. 1C</xref>).</p>
+
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>in situ hybridization with wsp specific probe and staining with NBT/BCIP solution on uninfected A and <tp:taxon-name>Wolbachia</tp:taxon-name> infected <tp:taxon-name>Drosophila simulans</tp:taxon-name> B. An accumulation of dark color is observed only in ovarioles of <tp:taxon-name>Wolbachia</tp:taxon-name> infected <tp:taxon-name>Drospohila simulans</tp:taxon-name>. C Results of in situ hybridization of ovarial tissue excised from one <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> individual with accumulation of dark color (arrows). Three specimens were analysed. All ictures taken with 40-fold magnification.</p></caption>
+                    <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/531/supp/ZooKeys-056-269-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+
+            </sec>
+        </sec>
+        
+        <sec sec-type="Conclusion"><title>Conclusion</title>
+            <p>Evidence of a range of selective forces on mtDNA markers make phylogenetic studies that are purely based on mtDNA less reliable. While the inclusion of nuclear markers like microsatellites or AFLP should preferentially be considered for future studies, there is no need to completely abandon mtDNA as long as tests for the potential manipulation of mtDNA sequences are performed. Such tests should also be included in ongoing efforts to barcode the tree of life based on mtDNA (<xref ref-type="bibr" rid="B26">Song et al. 2008</xref>). Here, we confirm that the data of the previous phylogeographic analysis by <xref ref-type="bibr" rid="B4">Avtzis et al. (2008)</xref> are not caused by numts. It can be concluded that the deep structure found in mtDNA populations of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> indeed represents the evolutionary history at least of the female branch of European populations</p>
+            <p>Furthermore, we have detected <tp:taxon-name>Wolbachia</tp:taxon-name> in <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name> cells in low titre by in situ hybridisation. Our results confirm earlier work that used a highly sensitive PCR method (<xref ref-type="bibr" rid="B2">Arthofer et al. 2009a</xref>). Such an approach can be prone to false positive results due to contamination, as it was found in one extract that carried a uniquely isolated <tp:taxon-name>Wolbachia</tp:taxon-name> sequence, that most likely derived from co-isolated DNA of a parasitoid (<xref ref-type="bibr" rid="B2">Arthofer et al. 2009a</xref>). The previous work showed that two strains are present in this beetle in low titre and low frequency, without any correlation between infection status, geographical region and mtDNA haplotype. Despite the inability to differentiate both strains with the presented hybridisation technique, the new data support that infections do not result from parasitoids, parasitic nematodes or laboratory contaminations and are hence true <tp:taxon-name>Wolbachia</tp:taxon-name> infections of <tp:taxon-name>Pityogenes chalcographus</tp:taxon-name>. In general, additional tests for presence of numts and endosymbionts are laborious and time consuming. However they are required for species that exhibit deep mtDNA divergences in order to exclude potential misinterpretation of mtDNA sequence data.</p>
+            <!--PageBreak-->
+        </sec>
+    </body>
+    
+    <back>
+        <ack>
+            <label>Acknowledgements</label>
+            <p>We wish to thank Wolfgang Miller for providing <tp:taxon-name>Drosophila</tp:taxon-name> strains, Andrea Stradner for her help in the <tp:taxon-name>Wolbachia</tp:taxon-name> work and the Austrian Science Foundation (FWF) for financial support.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arctander</surname> <given-names>P</given-names></name></person-group> (<year>1995</year>)<article-title> Comparison of a mitochondrial gene and a corresponding nuclear pseudogene.</article-title> <source>Proceedings of the Royal Society of London, B</source> <volume>262</volume>:<fpage>13</fpage>-<lpage>19</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arthofer</surname> <given-names>W</given-names></name><name name-style="western"><surname>Avtzis</surname> <given-names>DN</given-names></name><name name-style="western"><surname>Riegler</surname> <given-names>M</given-names></name><name name-style="western"><surname>Stauffer</surname> <given-names>C</given-names></name></person-group> (<year>2009a</year>)<article-title> Low titer Wolbachia infection of mitochondrial defined European Pityogenes chalcographus (Coleoptera, Scolytinae) populations.</article-title> <source>Environmental Microbiology</source> <volume>11</volume>:<fpage>1923</fpage>-<lpage>1933</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arthofer</surname> <given-names>W</given-names></name><name name-style="western"><surname>Riegler</surname> <given-names>M</given-names></name><name name-style="western"><surname>Schneider</surname> <given-names>D</given-names></name><name name-style="western"><surname>Miller</surname> <given-names>WJ</given-names></name><name name-style="western"><surname>Stauffer</surname> <given-names>C</given-names></name></person-group> (<year>2009b</year>)<article-title> Hidden Wolbachia diversity in field populations of the European cherry fruit fly, Rhagoletis cerasi (Diptera, Tephritidae).</article-title> <source>Molecular Ecology,</source> <volume>18</volume>:<fpage>3816</fpage>-<lpage>3839</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Avtzis</surname> <given-names>DN</given-names></name><name name-style="western"><surname>Arthofer</surname> <given-names>W</given-names></name><name name-style="western"><surname>Stauffer</surname> <given-names>C</given-names></name></person-group> (<year>2008</year>)<article-title> Sympatric occurrence of diverged mtDNA lineages of Pityogenes chalcographus (Coleoptera, Scolytinae) in Europe.</article-title> <source>Biological Journal of the Linnaean Society</source> <volume>94</volume>:<fpage>331</fpage>-<lpage>340</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bensasson</surname> <given-names>D</given-names></name><name name-style="western"><surname>Zhang</surname> <given-names>DX</given-names></name><name name-style="western"><surname>Hartl</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Hewitt</surname> <given-names>GM</given-names></name></person-group> (<year>2001</year>)<article-title> Mitochondrial pseudogenes: evolution’s misplaced witnesses.</article-title> <source>Trends in Ecology and Evolution</source> <volume>16</volume>:<fpage>314</fpage>-<lpage>321</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bird</surname> <given-names>AP</given-names></name></person-group> (<year>1980</year>)<article-title> DNA methylation and the frequency of CpG in animal DNA.</article-title> <source>Nucleic Acids Research</source> <volume>8</volume>:<fpage>1499</fpage>-<lpage>1504</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blouin</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Yowell</surname> <given-names>CA</given-names></name><name name-style="western"><surname>Courtney</surname> <given-names>CH</given-names></name><name name-style="western"><surname>Dame</surname> <given-names>JB</given-names></name></person-group> (<year>1998</year>)<article-title> Substitution bias, rapid saturation, and the use of mtDNA for nematode systematics.</article-title> <source>Molecular Biology and Evolution</source> <volume>15</volume>:<fpage>1719</fpage>-<lpage>1727</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bulmer</surname> <given-names>M</given-names></name></person-group> (<year>1986</year>)<article-title> Neighboring base effects on substitution rates in pseudogenes.</article-title> <source>Molecular Biology and Evolution</source> <volume>3</volume>:<fpage>322</fpage>-<lpage>329</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Caterino</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Sperling</surname> <given-names>FAH</given-names></name></person-group> (<year>1999</year>)<article-title> Papilio phylogeny based on mitochondrial cytochrome oxidase I and II genes.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>11</volume>:<fpage>122</fpage>-<lpage>137</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chen</surname> <given-names>WJ</given-names></name><name name-style="western"><surname>Tsai</surname> <given-names>KH</given-names></name><name name-style="western"><surname>Cheng</surname> <given-names>SL</given-names></name><name name-style="western"><surname>Huang</surname> <given-names>CG</given-names></name><name name-style="western"><surname>Wu</surname> <given-names>WJ</given-names></name></person-group> (<year>2005</year>)<article-title> Using in situ hybridization to detect endosymbiont Wolbachia in dissected tissues of mosquito host.</article-title> <source>Journal of Medical Entomology</source> <volume>42</volume>:<fpage>120</fpage>-<lpage>124</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cognato</surname> <given-names>AI</given-names></name><name name-style="western"><surname>Sun</surname> <given-names>JH</given-names></name></person-group> (<year>2007</year>)<article-title> DNA based cladograms augment the discovery of a new Ips species from China (Coleoptera : Curculionidae : Scolytinae).</article-title> <source>Cladistics</source> <volume>23</volume>:<fpage>539</fpage>-<lpage>551</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Galtier</surname> <given-names>N</given-names></name><name name-style="western"><surname>Jobson</surname> <given-names>RW</given-names></name><name name-style="western"><surname>Nabholz</surname> <given-names>B</given-names></name><name name-style="western"><surname>Glémin</surname> <given-names>S</given-names></name><name name-style="western"><surname>Blier</surname> <given-names>PU</given-names></name></person-group> (<year>2009</year>)<article-title> Mitochondrial whims: metabolic rate, longevity and the rate of molecular evolution.</article-title> <source>Biology Letters</source> <volume>5</volume>:<fpage>413</fpage>-<lpage>416</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hurst</surname> <given-names>GDD</given-names></name><name name-style="western"><surname>Jiggins</surname> <given-names>FM</given-names></name></person-group> (<year>2005</year>)<article-title> Problems with mitochondrial DNA as a marker in population, phylogeographic and phylogenetic studies: the effect of inherited symbionts.</article-title> <source>Proceedings of the Royal Society of London, B</source> <volume>272</volume>:<fpage>1525</fpage>-<lpage>1534</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lewis</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Farr</surname> <given-names>CL</given-names></name><name name-style="western"><surname>Kaguni</surname> <given-names>LS</given-names></name></person-group> (<year>1995</year>)<article-title> Drosophila melanogaster mitochondrial DNA: completion of the nucleotide sequence and evolutionary comparisons.</article-title> <source>Insect Molecular Biology</source> <volume>4</volume>:<fpage>263</fpage>-<lpage>278</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lin</surname> <given-names>C-P</given-names></name><name name-style="western"><surname>Danforth</surname> <given-names>BN</given-names></name></person-group> (<year>2004</year>)<article-title> How do insect nuclear and mitochondrial gene substitution patterns differ? Insights from Bayesian analyses of combined datasets.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>30</volume>:<fpage>686</fpage>-<lpage>702</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lunt</surname> <given-names>DH</given-names></name><name name-style="western"><surname>Hutchinson</surname> <given-names>WF</given-names></name><name name-style="western"><surname>Carvalho</surname> <given-names>GR</given-names></name></person-group> (<year>1999</year>)<article-title> An efficient method for PCR-based isolation of microsatellite arrays (PIMA).</article-title> <source>Molecular Ecology</source> <volume>1999</volume>:<fpage>891</fpage>-<lpage>894</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Meiklejohn</surname> <given-names>CD</given-names></name><name name-style="western"><surname>Montooth</surname> <given-names>KL</given-names></name><name name-style="western"><surname>Rand</surname> <given-names>DM</given-names></name></person-group> (<year>2007</year>)<article-title> Positive and negative selection on the mitochondrial genome.</article-title> <source>Trends in Genetics</source> <volume>23</volume>:<fpage>259</fpage>-<lpage>263</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mueller</surname> <given-names>RL</given-names></name></person-group> (<year>2006</year>)<article-title> Evolutionary rates, divergence dates, and the performance of mitochondrial genes in Bayesian phylogenetic analysis.</article-title> <source>Systematic Biology</source> <volume>55</volume>:<fpage>289</fpage>-<lpage>300</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nishiguchi</surname> <given-names>MK</given-names></name><name name-style="western"><surname>Doukakis</surname> <given-names>P</given-names></name><name name-style="western"><surname>Egan</surname> <given-names>M</given-names></name><name name-style="western"><surname>Kizirian</surname> <given-names>D</given-names></name><name name-style="western"><surname>Phillips</surname> <given-names>A</given-names></name><name name-style="western"><surname>Prendini</surname> <given-names>L</given-names></name><name name-style="western"><surname>Rosenbaum</surname> <given-names>HC</given-names></name><name name-style="western"><surname>Torres</surname> <given-names>E</given-names></name><name name-style="western"><surname>Wyner</surname> <given-names>Y</given-names></name><name name-style="western"><surname>DeSalle</surname> <given-names>R</given-names></name><name name-style="western"><surname>Giribet</surname> <given-names>G</given-names></name></person-group> (<year>2002</year>) <article-title>DNA isolation procedures.</article-title> In: <person-group><name name-style="western"><surname>DeSalle</surname> <given-names>R</given-names></name><name name-style="western"><surname>Giribet</surname> <given-names>G</given-names></name><name name-style="western"><surname>Wheeler</surname> <given-names>WC</given-names></name></person-group> (<role>Eds</role>) <source>Methods and Tools in Biosciences and Medicine. Techniques in Molecular Evolution  and Systematics</source>, <fpage>249</fpage>–<lpage>287</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>O’Neill</surname> <given-names>SL</given-names></name><name name-style="western"><surname>Giordano</surname> <given-names>R</given-names></name><name name-style="western"><surname>Colbert</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Karr</surname> <given-names>TL</given-names></name><name name-style="western"><surname>Robertson</surname> <given-names>HM</given-names></name></person-group> (<year>1992</year>) <article-title>16S rRNA phylogenetic analysis of the bacterial endosymbionts associated with cytoplasmic incompatibility in insects.</article-title> <source>Proceedings of the National Academy of Sciences</source> <volume>897</volume>: <fpage>2699</fpage>–<lpage>2702</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Peer</surname> <given-names>K</given-names></name><name name-style="western"><surname>Taborsky</surname> <given-names>M</given-names></name></person-group> (<year>2005</year>)<article-title> Outbreeding depression, but no inbreeding depression in haplodiploid ambrosia beetles with regular sibling mating.</article-title> <source>Evolution</source> <volume>59</volume>:<fpage>317</fpage>-<lpage>323</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Petit</surname> <given-names>RJ</given-names></name><name name-style="western"><surname>Excoffier</surname> <given-names>L</given-names></name></person-group> (<year>2009</year>)<article-title> Gene flow and species delimitation.</article-title> <source>Trends in Ecology and Evolution</source> <volume>24</volume>:<fpage>386</fpage>-<lpage>393</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Richy</surname> <given-names>E</given-names></name><name name-style="western"><surname>Leister</surname> <given-names>D</given-names></name></person-group> (<year>2004</year>) <article-title>NUMTs in Sequenced Eukaryotic Genomes.</article-title> <source>Molecular Biology and Evolution</source> <volume>21</volume>: <fpage>1081</fpage>–<lpage>1084</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sachs</surname> <given-names>L</given-names></name></person-group> (<year>1999</year>) <source>Angewandte Statistik.</source> <publisher-name>Springer Verlag</publisher-name>, <publisher-loc>Berlin</publisher-loc>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shoemaker</surname> <given-names>DDW</given-names></name><name name-style="western"><surname>Dyer</surname> <given-names>KA</given-names></name><name name-style="western"><surname>Ahrens</surname> <given-names>M</given-names></name><name name-style="western"><surname>McAbee</surname> <given-names>K</given-names></name><name name-style="western"><surname>Jaenike</surname> <given-names>J</given-names></name></person-group> (<year>2004</year>)<article-title> Decreased diversity but increased substitution rate in host mtDNA as a consequence of Wolbachia endosymbiont infection.</article-title> <source>Genetics</source> <volume>168</volume>:<fpage>2049</fpage>-<lpage>2058</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Song</surname> <given-names>H</given-names></name><name name-style="western"><surname>Buhay</surname> <given-names>JE</given-names></name><name name-style="western"><surname>Whiting</surname> <given-names>MF</given-names></name><name name-style="western"><surname>Crandall</surname> <given-names>KA</given-names></name></person-group> (<year>2008</year>)<article-title> Many species in one: DNA barcoding overestimates the number of species when nuclear mitochondrial pseudogenes are coamplified.</article-title> <source>Proceedings of the National Academy of Sciences</source> <volume>105</volume>:<fpage>13486</fpage>-<lpage>13491</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stauffer</surname> <given-names>C</given-names></name><name name-style="western"><surname>van Meer</surname> <given-names>MMM</given-names></name><name name-style="western"><surname>Riegler</surname> <given-names>M</given-names></name></person-group> (<year>1997</year>)<article-title> The presence of the proteobacteria Wolbachia in European Ips typograhus (Col., Scolytidae) populations and the consequences for genetic data.</article-title> <source>Proceedings of the German Society for General and Applied Entomology</source> <volume>11</volume>:<fpage>709</fpage>-<lpage>711</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stauffer</surname> <given-names>C</given-names></name><name name-style="western"><surname>Lakatos</surname> <given-names>F</given-names></name><name name-style="western"><surname>Hewitt</surname> <given-names>GM</given-names></name></person-group> (<year>1999</year>)<article-title> Phylogeography and postglacial colonization routes of Ips typographus (Col., Scolytidae).</article-title> <source>Molecular Ecology</source> <volume>8</volume>:<fpage>763</fpage>-<lpage>774</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sunnucks</surname> <given-names>P</given-names></name><name name-style="western"><surname>Hales</surname> <given-names>DF</given-names></name></person-group> (<year>1996</year>)<article-title> Numerous transposed sequences of mitochondrial cytochrome oxidase I-II in aphids of the genus Sitobion (Hemiptera: Aphididae).</article-title> <source>Molecular Biology and Evolution</source> <volume>13</volume>:<fpage>510</fpage>-<lpage>524</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname> <given-names>K</given-names></name></person-group> (<year>1992</year>)<article-title> The rate and pattern of nucleotide substitution in Drosophila mitochondrial DNA.</article-title> <source>Molecular Biology and Evolution</source> <volume>9</volume>:<fpage>814</fpage>-<lpage>825</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname> <given-names>JD</given-names></name><name name-style="western"><surname>Gibson</surname> <given-names>TJ</given-names></name><name name-style="western"><surname>Plewniak</surname> <given-names>F</given-names></name><name name-style="western"><surname>Jeanmougin</surname> <given-names>F</given-names></name><name name-style="western"><surname>Higgins</surname> <given-names>DG</given-names></name></person-group> (<year>1997</year>)<article-title> The ClustalX windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools.</article-title> <source>Nucleic Acids Research</source> <volume>24</volume>:<fpage>4876</fpage>-<lpage>4882</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Timmis</surname> <given-names>JN</given-names></name><name name-style="western"><surname>Ayliffe</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Huang</surname> <given-names>CY</given-names></name><name name-style="western"><surname>Martin</surname> <given-names>W</given-names></name></person-group> (<year>2004</year>)<article-title> Endosymbiotic gene transfer: Organelle genomes forge eucaryotic chromosomes.</article-title> <source>Nature Reviews: Genetics</source> <volume>5</volume>:<fpage>123</fpage>-<lpage>135</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vega</surname> <given-names>FE</given-names></name><name name-style="western"><surname>Benavides</surname> <given-names>P</given-names></name><name name-style="western"><surname>Stuart</surname> <given-names>JA</given-names></name><name name-style="western"><surname>O’Neill</surname> <given-names>S</given-names></name></person-group> (<year>2002</year>)<article-title> Wolbachia Infection in the Coffee Berry Borer (Coleoptera: Scolytidae).</article-title> <source>Annals of the Entomological Society of America</source> <volume>95</volume>:<fpage>374</fpage>-<lpage>378</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Werren</surname> <given-names>JH</given-names></name><name name-style="western"><surname>Baldo</surname> <given-names>L</given-names></name><name name-style="western"><surname>Clark</surname> <given-names>ME</given-names></name></person-group> (<year>2008</year>) <article-title>Wolbachia: master manipulators of invertebrate biology.</article-title> <source>Nature Reviews: Microbiology</source> <volume>6</volume>: <fpage>741</fpage>–<lpage>751</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zchori-Fein</surname> <given-names>E</given-names></name><name name-style="western"><surname>Borad</surname> <given-names>C</given-names></name><name name-style="western"><surname>Harari</surname> <given-names>AR</given-names></name></person-group> (<year>2006</year>)<article-title> Oogenesis in the date stone beetle, Coccotrypes dactyliperda, depends on symbiotic bacteria.</article-title> <source>Physiological Entomology</source> <volume>31</volume>:<fpage>164</fpage>-<lpage>169</lpage>.</mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhang</surname> <given-names>DX</given-names></name><name name-style="western"><surname>Hewitt</surname> <given-names>GM</given-names></name></person-group> (<year>1996</year>)<article-title> Nuclear integrations: challenges for mitochondrial DNA markers.</article-title> <source>Trends in Ecology and Evolution</source> <volume>11</volume>:<fpage>247</fpage>-<lpage>251</lpage>.</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhou</surname> <given-names>W</given-names></name><name name-style="western"><surname>Rousset</surname> <given-names>F</given-names></name><name name-style="western"><surname>O’Neill</surname> <given-names>S</given-names></name></person-group> (<year>1998</year>)<article-title> Phylogeny and PCR-based classification of Wolbachia strains using wsp gene sequences.</article-title> <source>Proceedings of the Royal Society of London, B</source> <volume>265</volume>:<fpage>509</fpage>-<lpage>515</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

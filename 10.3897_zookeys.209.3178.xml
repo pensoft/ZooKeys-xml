@@ -1,0 +1,467 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3178</article-id>
+            <title-group>
+                <article-title>No specimen left behind: industrial scale digitization of natural history collections</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Blagoderov</surname>
+                        <given-names>Vladimir</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kitching</surname>
+                        <given-names>Ian J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Livermore</surname>
+                        <given-names>Laurence</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Simonsen</surname>
+                        <given-names>Thomas J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Smith</surname>
+                        <given-names>Vincent S.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Life Sciences, Natural History Museum, Cromwell Road, London, SW7 5BD, UK
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Vladimir Blagoderov (<email xlink:type="simple">v.blagoderov@nhm.ac.uk</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Lyubomir Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>133</fpage>
+            <lpage>146</lpage>
+            <history>
+                <date date-type="received">
+                    <day>8</day>
+                    <month>5</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>22</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Vladimir Blagoderov, Ian J. Kitching, Laurence Livermore, Thomas J. Simonsen, Vincent S. Smith</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Traditional approaches for digitizing natural history collections, which include both imaging and metadata capture, are both labour- and time-intensive. Mass-digitization can only be completed if the resource-intensive steps, such as specimen selection and databasing of associated information, are minimized. Digitization of larger collections should employ an “industrial” approach, using the principles of automation and crowd sourcing, with minimal initial metadata collection including a mandatory persistent identifier. A new workflow for the mass-digitization of natural history museum collections based on these principles, and using SatScan® tray scanning system, is described.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Digitization</kwd>
+                <kwd>imaging</kwd>
+                <kwd>specimen metadata</kwd>
+                <kwd>natural history collections</kwd>
+                <kwd>biodiversity informatics</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Natural history collections are of immense scientific and cultural importance. Specimens in public museums and herbaria and their associated data represent a potentially vast repository of information on biodiversity, ecosystems and natural resources for the widest range of stakeholders, from governments and NGOs to schools and private individuals. Numerous examples of the uses to which biodiversity data derived from natural history collections have been put in research on evolution and genetics, nature conservation and resource management, public health and safety, and education are widely available (summarized in <!--PageBreak--><xref ref-type="bibr" rid="B6">Chapman 2005</xref>, <xref ref-type="bibr" rid="B2">Baird 2010</xref>). The universe of natural history collection data has been estimated to be between 1.2 and 2.1 × 10<sup>9</sup> units (specimens, lots and collections) (<xref ref-type="bibr" rid="B1">Ariño 2010</xref>). To ensure efficient access, dissemination and exploitation of such an immense wealth of biodiversity relevant data, it is evident that a well-coordinated and streamlined approach to global digitization is required, in particular because it is absolutely essential for the scientific value of the generated data that the outputs (images, metadata, etc.) are linked together and also back to the original specimens via unique identifiers (uIDs).
+            </p>
+            <p>In recent years, substantial efforts and resources have been invested into the digitization of natural history collections, with museums and herbaria routinely employing specimen level collection databases to replace older, paper-based card indexes and ledgers. In theory, this should make dissemination of specimen data through biodiversity informatics portals such as the Global Biodiversity Information Facility (GBIF; <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/" xlink:type="simple">http://www.gbif.org/</ext-link>) very simple and straightforward. However, the truth is that natural history collections are almost as far from complete digitization as they were 20 years ago. <xref ref-type="bibr" rid="B1">Ariño (2010)</xref> estimated that no more than 3% of biological specimen data is web-accessible through GBIF, the largest source of biodiversity information. Consequently, there is neither a central database of collection holdings, nor a complete collection index available to users. The reason for this deficiency is partly the immense effort it would take to digitize the vast number of collections units involved (Vollmar et al. 2010). The cost of traditional digitization workflows is vast, both in financial and human terms. Our simple calculations have shown that complete databasing of the ~30 million insect specimens housed in the entomological collection of the Natural History Museum, London, would require 23 years of continuous work from the entire departmental staff to complete (65 people). Depending on the particular collections and curatorial practices used, estimates vary from US$0.50 to several dollars per specimen to capture full label data (<xref ref-type="bibr" rid="B8">Heidorn 2011</xref>). The cost of traditional imaging and databasing of every natural history object in all European museums was recently estimated as €73.44 per object (<xref ref-type="bibr" rid="B12">Poole 2010</xref>). Thus, the complete digitization of all natural history collections may cost as much as €150,000 million, and take as long as 1,500 years.
+            </p>
+            <p>The most common solution proposed to overcome the enormous cost of digitization is prioritization based on user demand (<xref ref-type="bibr" rid="B3">Berents et al. 2010</xref>). Currently, most digitization projects concentrate their efforts on obtaining high quality images of selected specimens accompanied by high quality data (e.g., comprehensive and expertly interpreted label information) rather than total collections coverage. Such specimen-centric digitization efforts are thus inevitably fragmented into numerous small-scale and labour-intensive projects that usually image single specimens, one at a time.</p>
+            <p>To solve the problem of cost, as well as the inherent fragmentation in collection based biodiversity informatics, new, industrial-scale approaches to digitization are clearly needed. The larger a digitization project becomes, the lower are the transaction costs and thus the lower is the cost per specimen. Such an industrial-scale process must necessarily fulfil certain standardized criteria if it is to be of use to and adopted by a wide spectrum of natural history collections:<!--PageBreak--></p>
+            <p>–	As much as possible of the procedure must be automated, except when physical handling of specimens is necessary.</p>
+            <p>–	The approach should, whenever possible, focus on “wall-to-wall” total digitization of entire collections, because it is faster to digitize an entire collection than to select individual specimens or drawers of particular interest.</p>
+            <p>–	Complicated labour-intensive procedures must be divided into a series of  separate, shorter steps, each with a distinct outcome. For example, preparation of specimens for imaging should be a separate step from the imaging itself; and unique specimen identifiers can be assigned simultaneously to all specimens in a drawer rather than individually and sequentially. Such a modularised process can then be more easily crowd-sourced among the professional and volunteer communities. Properly organized crowd-sourcing projects would be able to mobilise the efforts of thousands of enthusiasts around the world (<xref ref-type="bibr" rid="B9">Hill et al. 2012</xref>).
+            </p>
+            <p>–	Collection of metadata must be simplified and standardized. In most cases, digital representation of the specimen and minimal metadata (uID, specimen location in the collection) is sufficient for collection management purposes. Only minimal information should be collected when initially digitizing an entire  collection, but in such a way that it can be amended and expanded upon later.</p>
+            <p>Here we describe a new method for “wall-to-wall” mass-digitization of natural history museum collections based on the SatScan® tray scanning system. The method allows for standardized scanning of museum collection trays of the highest image quality possible, followed by simplified (and easily expandable) collection of metadata.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>The Natural History Museum (NHM), London, has been working with SmartDrive Limited (<ext-link ext-link-type="uri" xlink:href="http://www.smartdrive.co.uk/" xlink:type="simple">http://www.smartdrive.co.uk/</ext-link>) since 2009 on the development of one of the company’s products, the SatScan® collection scanner (<xref ref-type="fig" rid="F1">Fig. 1</xref>). From this collaboration, we have developed a workflow that we consider meets our needs for the industrial-scale digitization of a significant part of the NHM’s collections. The system is particularly suited to the digitization of multiple, uniformly mounted or laid out specimens, such as pinned insects and smaller geological or mineralogical objects in standardized collection drawers, horizontally-stored microscope slides and herbarium sheets.
+            </p>
+            <p>The digitization workflow envisioned for the NHM (<xref ref-type="fig" rid="F2">Fig. 2</xref>) comprises three steps:
+            </p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>SatScan imaging: <bold>a</bold> SatScan machine <bold>b</bold> specimens being imaged <bold>c</bold> individual frames aligned <bold>d</bold> fragment of a stitched image; final resolution of the stitched image ~11 lines/mm.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-209-133-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Image based digitization workflow consisting of four stages: Imaging, Metadata capture, Institutional databading and Publication.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-209-133-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <sec sec-type="Imaging">
+                <title>Imaging</title>
+                <p>The SatScan® collection scanner is capable of producing high-resolution images of entire collection drawers (see <xref ref-type="table" rid="T1">Table 1</xref>, <xref ref-type="bibr" rid="B5">Blagoderov et al. 2010</xref>, <xref ref-type="bibr" rid="B11">Mantle et al. 2012</xref>). The specific configuration of the system has changed somewhat from that described in <!--PageBreak-->the report, such that now a USB CMOS UEye-SE camera (model # UI-1480SE-C-HQ, 2560×1920 resolution) is used in combination with Edmund Optics telecentric TML lenses of 0.3× (#58428) and 0.16× TML (#56675). A camera with attached lens is moved in two dimensions along precision-engineered rails positioned above the object to be imaged. A combination of hardware and software provides automated capture of high resolution images of small regions of interest, which are then assembled (“stitched”) into a larger panoramic image, generating the final image of the entire drawer. This method maximizes depth of field of the captured images and minimizes distortion and parallax artefacts. Analogous solutions for large-area imaging which have been developed independently include GigaPan (<xref ref-type="bibr" rid="B4">Bertone et al. 2012</xref>), MicroGigaPan (<xref ref-type="bibr" rid="B10">Longson et al. 2010</xref>) and DScan (<xref ref-type="bibr" rid="B13">Schmidt et al. 2012</xref>).
+                </p>
+                <table-wrap position="float" orientation="portrait" id="T1">
+                    <label>Table 1.</label>
+                    <caption><p>Resolution and depth of field of the system as compared with a Canon EOS450D DSLR camera using a Canon MP E-65 macrolens (USAF: the smallest resolvable element on 1951 US Air Force resolution test chart; MRD: minimal resolved distance, size of the smallest visible object on image)</p>
+                    </caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="2" colspan="1">Objective</th>
+                                <th rowspan="2" colspan="1">Sensor Resolution</th>
+                                <th rowspan="2" colspan="1">Aperture</th>
+                                <th rowspan="2" colspan="1">Depth of Field, mm</th>
+                                <th rowspan="1" colspan="3">Resolution</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="1" colspan="1">USAF</th>
+                                <th rowspan="1" colspan="1">Lines/mm</th>
+                                <th rowspan="1" colspan="1">MRD, μm</th>
+                            </tr>
+                            <tr>
+                                <td rowspan="6" colspan="1">SatScan 0.16× lens</td>
+                                <td rowspan="3" colspan="1">1280×960</td>
+                                <td rowspan="1" colspan="1">Open</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">3–4</td>
+                                <td rowspan="1" colspan="1">11.3</td>
+                                <td rowspan="1" colspan="1">44</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Dot</td>
+                                <td rowspan="1" colspan="1">10</td>
+                                <td rowspan="1" colspan="1">3–4</td>
+                                <td rowspan="1" colspan="1">11.3</td>
+                                <td rowspan="1" colspan="1">44</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Closed</td>
+                                <td rowspan="1" colspan="1">&gt;70</td>
+                                <td rowspan="1" colspan="1">2–5</td>
+                                <td rowspan="1" colspan="1">6.35</td>
+                                <td rowspan="1" colspan="1">79</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3" colspan="1">2560×1920</td>
+                                <td rowspan="1" colspan="1">Open</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">4–3</td>
+                                <td rowspan="1" colspan="1">20.16</td>
+                                <td rowspan="1" colspan="1">25</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Dot</td>
+                                <td rowspan="1" colspan="1">14</td>
+                                <td rowspan="1" colspan="1">4–1</td>
+                                <td rowspan="1" colspan="1">16.0</td>
+                                <td rowspan="1" colspan="1">31</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Closed</td>
+                                <td rowspan="1" colspan="1">&gt;70</td>
+                                <td rowspan="1" colspan="1">3–2</td>
+                                <td rowspan="1" colspan="1">8.89</td>
+                                <td rowspan="1" colspan="1">56</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="6" colspan="1">SatScan 0.3× lens</td>
+                                <td rowspan="3" colspan="1">1280×960</td>
+                                <td rowspan="1" colspan="1">Open</td>
+                                <td rowspan="1" colspan="1">2.5</td>
+                                <td rowspan="1" colspan="1">4–2</td>
+                                <td rowspan="1" colspan="1">17.95</td>
+                                <td rowspan="1" colspan="1">28</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Dot</td>
+                                <td rowspan="1" colspan="1">4.5</td>
+                                <td rowspan="1" colspan="1">4–2</td>
+                                <td rowspan="1" colspan="1">17.95</td>
+                                <td rowspan="1" colspan="1">28</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Closed</td>
+                                <td rowspan="1" colspan="1">30</td>
+                                <td rowspan="1" colspan="1">3–4</td>
+                                <td rowspan="1" colspan="1">11.3</td>
+                                <td rowspan="1" colspan="1">44</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3" colspan="1">2560×1920</td>
+                                <td rowspan="1" colspan="1">Open</td>
+                                <td rowspan="1" colspan="1">1.5</td>
+                                <td rowspan="1" colspan="1">5–3</td>
+                                <td rowspan="1" colspan="1">40.3</td>
+                                <td rowspan="1" colspan="1">12</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Dot</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">5–2</td>
+                                <td rowspan="1" colspan="1">36.0</td>
+                                <td rowspan="1" colspan="1">14</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Closed</td>
+                                <td rowspan="1" colspan="1">35</td>
+                                <td rowspan="1" colspan="1">3–5</td>
+                                <td rowspan="1" colspan="1">12.7</td>
+                                <td rowspan="1" colspan="1">39</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">Canon MP-E65 lens, 1×</td>
+                                <td rowspan="2" colspan="1">4272×2848</td>
+                                <td rowspan="1" colspan="1">2.8</td>
+                                <td rowspan="1" colspan="1">0.5</td>
+                                <td rowspan="1" colspan="1">5–6</td>
+                                <td rowspan="1" colspan="1">57</td>
+                                <td rowspan="1" colspan="1">8.8</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">16</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">-</td>
+                                <td rowspan="1" colspan="1">-</td>
+                                <td rowspan="1" colspan="1">-</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">Canon MP-E65 lens, 5×</td>
+                                <td rowspan="2" colspan="1">4272×2848</td>
+                                <td rowspan="1" colspan="1">2.8</td>
+                                <td rowspan="1" colspan="1">&lt;0.3</td>
+                                <td rowspan="1" colspan="1">8–1</td>
+                                <td rowspan="1" colspan="1">256</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">16</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">6–2</td>
+                                <td rowspan="1" colspan="1">71.8</td>
+                                <td rowspan="1" colspan="1">7</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Metadata capture">
+                <title>Metadata capture</title>
+                <p>A prototype software program, Metadata Creator, has been designed to allow fast capture of specimen data and associating these with the image of the specimen (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Users can mark individual specimens on the panoramic image by drawing rectangular boxes around them, selecting these areas and annotating them individually or in batches. Methods for marking the specimen, editing regions of interest and selection of multiple specimens are analogous to those used in many common graphic applications and so will be familiar, even to inexperienced users.
+                </p>
+                <p>Specimen metadata is captured in a series of fields that are compatible with the Darwin Core 1.4.1 schema (<ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/" xlink:type="simple">http://rs.tdwg.org/dwc/</ext-link>) and which can be customized to particular user requirements. To maximize throughput, only basic metadata are  collected at this stage. These will generally include a unique collection number of every specimen (see below, barcodes), collection identification (to the available curatorial level, e.g. to species/subspecies for the “Main Collection” and family/order for unsorted accessions), and, if possible, biogeographic region/country. Taxon names are looked up from an index derived from the NHM Collections Management Database. A completed project comprises a folder with an archival image of the drawer, full-res<!--PageBreak--><!--PageBreak--><!--PageBreak-->olution images of individual specimens cut-out from the drawer image, and an XML file containing annotations and links to specimen images (Appendix 1). Trials have demonstrated that 10–20 seconds per specimen is required to capture basic metadata using the Metadata Creator Software. A unique ID for the drawer is also recorded. As the NHM Collection Management System already includes a complete collections index (a brief description of the content of every drawer), no additional information is required.
+                </p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Metadata Creator software: <bold>a–c</bold> working areas <bold>a</bold> drawer image <bold>b</bold> specimen records <bold>c</bold> annotation fields <bold>d</bold> tool selector <bold>e</bold> unique IDs.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-133-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Assigning uIDs">
+                <title>Assigning uIDs</title>
+                <p>Every specimen is assigned a unique number under which it will be registered in the NHM Collections Management Database. It is a requirement of collections management procedures that a label bearing the specimen’s uID is attached to the specimen. To streamline this part of the process, it is subdivided into the following steps:</p>
+                <p>1.	A sequence of unique numbers is generated from the NHM Collections Management Database.</p>
+                <p>2.	Labels that include both a human-readable number and a machine-readable barcode are printed.</p>
+                <p>3.	The operator labels the specimens by selecting a specimen on the drawer image, pinning a label under the specimen, and scanning the barcode, thereby adding the uID into the corresponding field of Metadata Creator. Barcodes can be pinned facing up or down depending on curatorial practice; the former has the advantage of visibility on the image. In this case imaging, of course, has to take place after assigning uIDs. Images of individual specimens for which the metadata have been collected and individual numbers assigned are automatically marked on the drawer image with a grey spot, allowing easy visualization of progress.</p>
+                <p>4.	When all specimens have been labelled and recorded, the XML file and corresponding specimen images are imported into the NHM Collections Management Database.</p>
+                <p>We must emphasize that Metadata Creator is a prototype software application; much more development is needed for to perfect its functionality, user interface, and integration with the Museum’s information systems.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>A preliminary assessment of the SatScan® system was undertaken and reported upon by <xref ref-type="bibr" rid="B5">Blagoderov et al. (2010)</xref>. Based on their findings, a series of recommendations were made for improvements and possible longer term developments to the hardware, software, imaging system and ergonomics. An updated system was delivered to the NHM in September 2011 and further trials were then conducted. This newer version of SatScan® <!--PageBreak-->provides non-extrapolated resolution of the final images from 11.3 to 40.3 lines/mm and a minimum resolved distance of 79 to 12μm, depending on the lens and sensor settings employed (<xref ref-type="table" rid="T1">Table 1</xref>). The maximum depth of field has been increased slightly from 80mm to 85mm. Although focus stacking is implemented in the current version of the system, in most cases it is not necessary. For the majority of collections drawers, specimens are presented at a more-or-less uniform height and within the available depth of field; focus stacking is really only necessary for those drawers where specimens are pinned at markedly different heights or are particularly deep (e.g. fossils and mineralogical samples). The average time to scan a typical collection drawer without focus stacking is between four and six minutes, depending upon size (eight to ten minutes including logistics, <xref ref-type="table" rid="T2">Table 2</xref>). This generally translates to about two seconds per specimen. Thus, in a working day, an operator could image up to 70 drawers. These would then be stitched into the final images using an overnight batch process (see average figures in <xref ref-type="table" rid="T2">Table 2</xref>). The resulting images vary in size from 0.3 Gpx to 5 Gpx (10<sup>9</sup> pixels; 250 MB – 3 GB compressed TIFF files) depending on the imaging area, lens and resolution used. However, use of the highest resolution in mass digitization projects may not always be practical. We did not conduct extensive tests with the highest resolution of camera/higher magnification of lens because a 64-bit version of software is needed to handle the stitching process for files of this size, and this was not available at the time of trials.
+            </p>
+            <p>The part of the process that involves marking of specimens and metadata capture using Metadata Creator has not been as thoroughly tested and we have yet to trial the part of the procedure that produces barcode labels and attaches these to specimens. However, preliminary results involving mock elements indicate that it will take about ten seconds per specimen. This time will be extended for those specimens that already have a human-readable uID (a “BMNH(E)” number, for example) but no barcode label, because then the former will have to be manually entered into Metadata Creator and a new barcode label printed. However, relatively few NHM insect specimens (about 1.2%) have so far been databased and assigned a uID.</p>
+            <p>The entomology collections of the NHM have about 30 million insect specimens, mostly pinned, housed in 135,000 collections drawers. Assuming that 80% of the collection is appropriate to be imaged using the SatScan® system, rough calculations based on the above figures suggest that the entire collection could be imaged and basic metadata captured in 18 person-years.<!--PageBreak--></p>
+            <table-wrap position="float" orientation="portrait" id="T2">
+                <label>Table 2.</label>
+                <caption><p>Scanning and stitching times for different types of drawers.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Drawer type</th>
+                            <th rowspan="1" colspan="1">Number of drawers in trials</th>
+                            <th rowspan="1" colspan="1">Dimensions, mm</th>
+                            <th rowspan="1" colspan="1">Number of frames</th>
+                            <th rowspan="1" colspan="1">Average scanning time (including logistics), min</th>
+                            <th rowspan="1" colspan="1">Average stitching time, min</th>
+                            <th rowspan="1" colspan="1">File size, Mb</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Main collection and accessions</td>
+                            <td rowspan="1" colspan="1">236</td>
+                            <td rowspan="1" colspan="1">500×400  or  470×450</td>
+                            <td rowspan="1" colspan="1">17×14  or 16×15</td>
+                            <td rowspan="1" colspan="1">8.52</td>
+                            <td rowspan="1" colspan="1">12.65±1.54</td>
+                            <td rowspan="1" colspan="1">488.20±30.21</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Rothschild and Rhopalocera</td>
+                            <td rowspan="1" colspan="1">144</td>
+                            <td rowspan="1" colspan="1">560x540  or  570x 555</td>
+                            <td rowspan="1" colspan="1">21×17  or  22×17</td>
+                            <td rowspan="1" colspan="1">10.13</td>
+                            <td rowspan="1" colspan="1">25.41±4.21</td>
+                            <td rowspan="1" colspan="1">715.90±89.58</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Although images acquired through an industrial digitization process might be considered to be of limited use for taxonomic purposes, because they feature only one aspect of the specimens and may not contain necessary morphological details or label data, they could prove very useful for a variety of other purposes. Obvious collection management applications include improved collection audit and security, as well as improving accessibility of the collection. For research purposes, such acquired images could prove very valuable in morphometric analyses and phenological population studies. In addition, the public engagement aspect of industrial digitization activities should not be underestimated. Online public access to high resolution images and metadata will likely enhance public awareness of the importance of local and national collections (as well as engendering a sense of shared ownership). Moreover, high quality images will open up the possibility for fast and reliable automated or semi-automated specimen identification and thus encourage environmental “citizen-science”, such as recording distributional or abundance changes of key species.</p>
+            <p>Major problems remaining with the described approach are largely concerned with the time taken to scan specimens/samples and to collect metadata. Even with a simple approach, scanning a specimen takes approximately two to four seconds followed by 10–20s for annotation and/or barcoding. Furthermore, only basic metadata are collected under the scenario described above. Indeed, in the worst case, say a drawer of unidentified mixed organisms from several phyla, only a uID will be associated with each of the specimens. It may then be argued that this will compel museums and  herbaria to create essentially incomplete records with which to populate their collection databases. However, such records are comparable to stub pages in Wikipedia, empty at the moment but capable of being filled and edited in due course. Indeed, there is a case to be made for the opposite viewpoint, that there is no point collecting complete metadata if these are not going to be used for any purpose. Finally, it should be noted that the industrial digitization process described above only works relatively seamlessly for more-or-less uniformly preserved and presented specimens, such pinned insects in drawers and herbarium sheets. It is unlikely to be satisfactory for pickled specimens in jars of ethanol. These collections may have to be digitized using a different protocol.</p>
+            <p>Approximately 90% of the time required for digitization is spent on capturing metadata and labelling specimens. While the latter involves physical handling of the specimens and must be performed by experienced staff, selection of specimens in the drawer images and annotation thereof can be undertaken in a virtual environment. In many cases, the basic information to be collected can be seen in the drawer image. Implementing an open source web application that duplicates the functions of Metadata Creator and publication of drawer images using algorithms involving a pyramid of tiles (produced using Zoomify™ (<ext-link ext-link-type="uri" xlink:href="http://www.zoomify.com/" xlink:type="simple">http://www.zoomify.com/</ext-link>) or Google Maps (<ext-link ext-link-type="uri" xlink:href="http://maps.google.com/" xlink:type="simple">http://maps.google.com/</ext-link>), for example) will allow volunteers from around the world to participate in digitization of the collection and will decrease the time needed to process a specimen by at least 50%.
+            </p>
+            <p><!--PageBreak-->The next step in facilitating the digitization process might be to undertake “virtual curation”. Here, uIDs are assigned to each specimen, records are created in the collection management database and corresponding specimen images linked to these records, but the specimens themselves are not labelled until it becomes necessary to handle the specimen physically for some other purpose (curation, loan, identification, dissection, etc.). Of course, these procedural changes would require a major cultural shift for Collections Management staff.</p>
+            <p>Revised, though still simplistic, calculations now show that the entire NHM  collection of insects could be imaged in 12.88 person-years and completely digitized without crowd-sourcing in 118 person-years. Collecting basic information and attaching a barcode to a specimen would take approximately 10-30 seconds. Per-specimen cost under the current (2012) economic climate would thus be as low as £0.12. If we limit SatScan-based digitization to large and medium-size insects (up to 5 mm in length), the total time required is 58 man-years. This effort does not seem insuperable considering that the NHM insect collection is managed by 26 permanent curatorial staff, assisted by a number of people in short-term contracts and volunteers.</p>
+            <p>Despite the potential perceived drawbacks, image-based basic digitization can nevertheless mobilize hundreds of millions of biological specimens in a relatively short period of time. It is estimated that entomological specimens constitute up to 40% of all natural history specimens (<xref ref-type="bibr" rid="B1">Ariño 2010</xref>). Some palaeontological, zoological and mineralogical specimens, including microscopic slides, are also stored in collection drawers and trays that are amenable to simultaneous imaging. Thus, the majority of natural history specimens could potentially be digitized using industrial imaging.
+            </p>
+            <p>The return on investment in total collection digitization will be enormous. It will open up collections to the world, facilitating their use, and help create a global collection index that can be used to set priorities for further digitization. Basic digitization of all the world’s holdings of insects (800 million specimens) could be completed in less than 4000 person-years. This may sound like a huge figure, but divided among approximately 1,300 collections and potentially tens of thousands of professionals and volunteers, the work could be completed much quicker, perhaps in only a few years. &quot;Furthermore, emerging technologies in the near future will undoubtedly decrease time and costs, while increasing data quality. Complete image-based basic  digitization of insect and plant collections would produce at least 30 Pb (10<sup>15</sup> bytes) of data, which constitutes ~0.0006% of the current data hosted on the Internet. At £0.2 per specimen, the cost of digitizing 2,000 million natural history specimens may appear to be an eye-wateringly high figure of £400 million. However, divided among ~4,000 natural history collections, this reduces to an average project cost of £100,000, which is equivalent to the size of a relatively modest research grant. To this the cost of imaging equipment must be added. At present, a SatScan system costs between £25,000 and £60,000, depending on the options to be implemented and the service agreement chosen, but less expensive alternative solutions are also being developed (<xref ref-type="bibr" rid="B4">Bertone et al. 2012</xref>, <xref ref-type="bibr" rid="B7">Dietrich et al. 2012</xref>, <xref ref-type="bibr" rid="B13">Schmidt et al. 2012</xref>).<!--PageBreak-->
+            </p>
+            <p>Regardless of the technology used, mass digitization will nevertheless follow the same general approach, which includes mechanisms that enrich digital media with specimen-level metadata. This enrichment will:</p>
+            <p>1.	Facilitate open dissemination of data so that it can be discovered and accessed by stakeholders, reducing both the need for physical access to collections and the number of loans;</p>
+            <p>2.	Enable large-scale manipulation and integration of collection data, supporting stakeholders in their monitoring and management of information on ecosystems, biodiversity and natural resources;</p>
+            <p>3.	Enhance curatorial activities, allowing the condition of loans to be tracked and reduce identification inaccuracies;</p>
+            <p>4.	Protect biodiversity heritage by reducing the need to handle irreplaceable specimens;</p>
+            <p>5.	Improve collections security by providing base-line images against which  damage and thefts can be monitored;</p>
+            <p>6.	Support disaster management, such that should the worst happen to a collection, its digital representation will continue to provide a valuable resource;</p>
+            <p>7.	Raise natural history collections profiles, resulting in improved resources for further research;</p>
+            <p>8.	Contribute beyond the traditional remit of museums and herbaria into new areas of interest, particularly education and public understanding of science; and</p>
+            <p>9.	Support biodiversity legislation and data repatriation, which is an increasing requirement under both the 1992 Convention on Biological Diversity and the subsequent 2010 Nagoya Protocol on Access and Benefit-sharing.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors are very grateful to Dennis Murphy, Dave Freer, and Mike Broderick (SmartDrive Ltd.) for fruitful and ongoing collaboration; Chris Raper for help with testing the system and development of software; and two reviewers, in particular Matt Yoder, whose comments and suggestions greatly improved original version of the manuscript.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ariño</surname> <given-names>AH</given-names></name></person-group> (<year>2010</year>)<article-title> Approaches to estimating the universe of natural History collections data.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>81</fpage>-<lpage>92</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Baird</surname> <given-names>R</given-names></name></person-group> (<year>2010</year>)<article-title> Leveraging the fullest potential of scientific collections through digitization.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>130</fpage>-<lpage>136</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Berents</surname> <given-names>P</given-names></name><name name-style="western"><surname>Hamer</surname> <given-names>M</given-names></name><name name-style="western"><surname>Chavan</surname> <given-names>V</given-names></name></person-group> (<year>2010</year>)<article-title> Towards demand-driven publishing: approaches to the prioritization of digitization of natural history collections data.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>113</fpage>-<lpage>119</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bertone</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Blinn</surname> <given-names>RL</given-names></name><name name-style="western"><surname>Stanfield</surname> <given-names>TM</given-names></name><name name-style="western"><surname>Dew</surname> <given-names>KJ</given-names></name><name name-style="western"><surname>Seltmann</surname> <given-names>KC</given-names></name><name name-style="western"><surname>Deans</surname> <given-names>AR</given-names></name></person-group> (<year>2012</year>)<article-title> Results and insights from the NCSU Insect Museum GigaPan project.</article-title> In: <person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<role>Ed</role>). <issue-title> No specimen left behind: mass digitization of natural history collections.</issue-title> <source>ZooKeys </source> <volume>209</volume>: <fpage>115</fpage>–<lpage>132</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3083" xlink:type="simple">10.3897/zookeys.209.3083</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Kitching</surname> <given-names>I</given-names></name><name name-style="western"><surname>Simonsen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>V</given-names></name></person-group> (<year>2010</year>)<source> Report on trial of SatScan tray scanner system by SmartDrive Ltd.</source> Available from Nature Precedings <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/10101/npre.2010.4486.1" xlink:type="simple">http://hdl.handle.net/10101/npre.2010.4486.1</ext-link></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>A</given-names></name></person-group> (<year>2005</year>) <source>Uses of Primary Species Occurrence Data, version 1.0.</source> <publisher-name>Global Biodiversity Information Facility</publisher-name>, <publisher-loc>Copenhagen</publisher-loc>, <lpage>106</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dietrich</surname> <given-names>CH</given-names></name><name name-style="western"><surname>Hart</surname> <given-names>J</given-names></name><name name-style="western"><surname>Raila</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ravaioli</surname> <given-names>U</given-names></name><name name-style="western"><surname>Sobh</surname> <given-names>N</given-names></name><name name-style="western"><surname>Sobh</surname> <given-names>O</given-names></name><name name-style="western"><surname>Taylor</surname> <given-names>C</given-names></name></person-group> (<year>2012</year>)<article-title> InvertNet: a new paradigm for digital access to invertebrate collections.</article-title> In: <person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<role>Ed</role>). <issue-title> No specimen left behind: mass digitization of natural history collections.</issue-title> <source>ZooKeys </source> <volume>209</volume>: <fpage>165</fpage>–<lpage>181</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3571" xlink:type="simple">10.3897/zookeys.209.3571</ext-link></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heidorn</surname> <given-names>PB</given-names></name></person-group> (<year>2011</year>)<article-title> Biodiversity Informatics.</article-title> <source>Bulletin of the American Society for Information Science and Technology </source> <volume>37</volume> (<issue>6</issue>): <fpage>38</fpage>-<lpage>44</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/bult.2011.1720370612" xlink:type="simple">10.1002/bult.2011.1720370612</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hill</surname> <given-names>A</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>R</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>A</given-names></name><name name-style="western"><surname>Sallans</surname> <given-names>A</given-names></name><name name-style="western"><surname>Gillespie</surname> <given-names>R</given-names></name><name name-style="western"><surname>Denslow</surname> <given-names>M</given-names></name><name name-style="western"><surname>Gross</surname> <given-names>J</given-names></name><name name-style="western"><surname>Murrell</surname> <given-names>Z</given-names></name><name name-style="western"><surname>Conyers</surname> <given-names>T</given-names></name><name name-style="western"><surname>Oboyski</surname> <given-names>P</given-names></name><name name-style="western"><surname>Ball</surname> <given-names>J</given-names></name><name name-style="western"><surname>Thomer</surname> <given-names>A</given-names></name><name name-style="western"><surname>Prys-Jones</surname> <given-names>R</given-names></name><name name-style="western"><surname>de la Torre</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kociolek</surname> <given-names>P</given-names></name><name name-style="western"><surname>Fortson</surname> <given-names>L</given-names></name></person-group> (<year>2012</year>)<article-title> The notes from nature tool for unlocking biodiversity records from museum records through citizen science.</article-title> In: <person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<role>Ed</role>). <issue-title> No specimen left behind: mass digitization of natural history collections.</issue-title> <source>ZooKeys </source> <volume>209</volume>: <fpage>219</fpage>–<lpage>233</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3472" xlink:type="simple">10.3897/zookeys.209.3472</ext-link></mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Longson</surname> <given-names>J</given-names></name><name name-style="western"><surname>Cooper</surname> <given-names>G</given-names></name><name name-style="western"><surname>Gibson</surname> <given-names>R</given-names></name><name name-style="western"><surname>Gibson</surname> <given-names>M</given-names></name><name name-style="western"><surname>Rawlins</surname> <given-names>J</given-names></name><name name-style="western"><surname>Sargent</surname> <given-names>R</given-names></name></person-group> (<year>2010</year>)<article-title> Adapting Traditional Macro and Micro Photography for Scientific Gigapixel Imaging</article-title>. <source>Proceedings of the Fine International Conference on Gigapixel Imaging for Science, November 11–13 2010</source>. <ext-link ext-link-type="uri" xlink:href="http://repository.cmu.edu/gigapixel/1" xlink:type="simple">http://repository.cmu.edu/gigapixel/1</ext-link></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mantle</surname> <given-names>BL</given-names></name><name name-style="western"><surname>La Salle</surname> <given-names>J</given-names></name><name name-style="western"><surname>Fisher</surname> <given-names>N</given-names></name></person-group> (<year>2012</year>)<article-title> Whole-drawer imaging for digital management and curation of a large entomological collection.</article-title> In: <person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<role>Ed</role>). <issue-title> No specimen left behind: mass digitization of natural history collections.</issue-title> <source>ZooKeys </source> <volume>209</volume>: <fpage>147</fpage>–<lpage>163</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3169" xlink:type="simple">10.3897/zookeys.209.3169</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Poole</surname> <given-names>N</given-names></name></person-group> (<year>2010</year>)<source> The Cost of Digitising Europe’s Cultural Heritage</source>. <publisher-name>Collections Trust</publisher-name>. <ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/information_society/activities/digital_libraries/doc/refgroup/annexes/digiti_report.pdf" xlink:type="simple">http://ec.europa.eu/information_society/activities/digital_libraries/doc/refgroup/annexes/digiti_report.pdf</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmidt</surname> <given-names>S</given-names></name><name name-style="western"><surname>Balke</surname> <given-names>M</given-names></name><name name-style="western"><surname>Lafogler</surname> <given-names>S</given-names></name></person-group> (<year>2012</year>)<article-title> DScan – a high-performance digital scanning system for entomological collections.</article-title> In: <person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<role>Ed</role>). <issue-title> No specimen left behind: mass digitization of natural history collections.</issue-title> <source>ZooKeys </source> <volume>209</volume>: <fpage>183</fpage>–<lpage>191</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3115" xlink:type="simple">10.3897/zookeys.209.3115</ext-link></mixed-citation>
+            </ref>
+        </ref-list>
+        <app-group>
+        <app>
+            <title/>
+            <sec sec-type="Appendix 1"><title>Appendix 1</title>
+            <p>An example of XML output of Metadata Creator.</p>
+            <p>&lt;?xml version=”1.0” encoding=”utf-8”?&gt;</p>
+            <p>&lt;Project xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance” xmlns:xsd=”http://www.w3.org/2001/XMLSchema”&gt;</p>
+            <p>&lt;Templates&gt;</p>
+            <p>&lt;key&gt;BMNHID&lt;/key&gt;</p>
+            <p>&lt;value&gt;A unique identifier for the British Natural History Museum&lt;/value&gt;</p>
+            <p>&lt;key&gt;GlobalUniqueIdentifier&lt;/key&gt;</p>
+            <p>&lt;value&gt;A Uniform Resource Name (URN) as a unique identifier for the specimen or observation record. In the absence of a persistent global unique identifier, construct one in the form: [InstitutionCode]:[CollectionCode]: [CatalogNumber] Examples: 1) urn:lsid:nhm.ku.edu:Herps:32 2) FMNH:Mammal:145732&lt;/value&gt;</p>
+            <p>&lt;key&gt;DateLastModified&lt;/key&gt;</p>
+            <p>&lt;value&gt;The last date-time of publication when any of the data for the record were modified from the previous publication of that record. When publishing a record for the first time, use the publication date-time. Returns values as ISO 8601 date and time&lt;/value&gt;</p>
+            <p>&lt;key&gt;BasisOfRecord&lt;/key&gt;</p>
+            <p>&lt;value&gt;A descriptive term indicating whether the record represents an object or observation.</p>
+            <p>&lt;/value&gt;</p>
+            <p>&lt;/Templates&gt;</p>
+            <p>&lt;Specimens&gt;</p>
+            <p>&lt;Specimen&gt;</p>
+            <p>&lt;DarwinCoreData&gt;</p>
+            <p>&lt;key&gt;ImageURL&lt;/key&gt;</p>
+            <p>&lt;value&gt;E:\test\T3\specimens\G1_2_0000.jpg&lt;/value&gt;</p>
+            <p>&lt;key&gt;BMNHID&lt;/key&gt;</p>
+            <p>&lt;value&gt; &lt;/value&gt;</p>
+            <p>&lt;key&gt;GlobalUniqueIdentifier&lt;/key&gt;</p>
+            <p>&lt;value&gt; &lt;/value&gt;</p>
+            <p>&lt;key&gt;DateLastModified&lt;/key&gt;</p>
+            <p>&lt;value&gt; &lt;/value&gt;</p>
+            <p>&lt;key&gt;BasisOfRecord&lt;/key&gt;</p>
+            <p>&lt;value&gt;preserved specimen&lt;/value&gt;</p>
+            <p>&lt;/DarwinCoreData&gt;</p>
+            <p>&lt;SpecimenIndex&gt;0&lt;/SpecimenIndex&gt;</p>
+            <p>&lt;ImageDimensions&gt;</p>
+            <p>&lt;Left&gt;519.635599159075&lt;/Left&gt;</p>
+            <p>&lt;Top&gt;1490.562857142857&lt;/Top&gt;</p>
+            <p><!--PageBreak-->&lt;Width&gt;2247.9887876664334&lt;/Width&gt;</p>
+            <p>&lt;Height&gt;3511.8564285714283&lt;/Height&gt;</p>
+            <p>&lt;/ImageDimensions&gt;</p>
+            <p>&lt;/Specimen&gt;</p>
+            <p>&lt;Specimen&gt;</p>
+            <p>…………………………………………………………………………………………………………………………………………………………………………………………………………………………………..</p>
+            <p>&lt;/Specimen&gt;</p>
+            <p>&lt;/Specimens&gt;</p>
+            <p>&lt;/Project&gt;</p>
+            </sec>
+        </app>
+        </app-group>
+    </back>
+</article>

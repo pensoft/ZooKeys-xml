@@ -1,0 +1,734 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.147.2098</article-id>
+            <title-group>
+                <article-title>Landscape patterns of species-level association between ground-beetles and overstory trees in boreal forests of western Canada (Coleoptera, Carabidae)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bergeron</surname>
+                        <given-names>J. A. Colin</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Spence</surname>
+                        <given-names>John R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Volney</surname>
+                        <given-names>W. Jan A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Renewable Resources, University of Alberta, 751 General Services Building, Edmonton, Alberta, Canada T6G 2H1
+            </aff>
+            <aff id="A2">
+                <label>2</label>Natural Resources Canada, Northern Forestry Centre, 5320 122 Street Northwest, Edmonton, Alberta, Canada T6H 3S5
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: J. A. Colin Bergeron (<email xlink:type="simple">cb1@ualberta.ca</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: T. Erwin</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>147</issue>
+            <fpage>577</fpage>
+            <lpage>600</lpage>
+            <history>
+                <date date-type="received">
+                    <day>15</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>20</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>J. A. Colin Bergeron, John R. Spence, W. Jan A. Volney</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Spatial associations between species of trees and ground-beetles (<tp:taxon-name>Coleoptera</tp:taxon-name>: <tp:taxon-name>Carabidae</tp:taxon-name>) involve many indirect ecological processes, likely reflecting the function of numerous forest ecosystem components. Describing and quantifying these associations at the landscape scale is basic to the development of a surrogate-based framework for biodiversity monitoring and conservation. In this study, we used a systematic sampling grid covering 84 km<sup>2</sup> of boreal mixedwood forest to characterize the ground-beetle assemblage associated with each tree species occurring on this landscape. Projecting the distribution of relative basal area of each tree species on the beetle ordination diagram suggests that the carabid community is structured by the same environmental factors that affects the distribution of trees, or perhaps even by trees <italic>per se</italic>. Interestingly beetle species are associated with tree species of the same rank order of abundance on this landscape, suggesting that conservation of less abundant trees will concomitantly foster conservation of less abundant beetle species. Landscape patterns of association described here are based on characteristics that can be directly linked to provincial forest inventories, providing a basis that is already available for use of tree species as biodiversity surrogates in boreal forest land management.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Landscape ecology</kwd>
+                <kwd>Carabidae</kwd>
+                <kwd>Trees</kwd>
+                <kwd>Forest canopy mosaic</kwd>
+                <kwd>Biodiversity surrogates</kwd>
+                <kwd>Regional conservation
+<!--PageBreak--></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Although some ground-beetle species are recognized as forest habitat specialists (<xref ref-type="bibr" rid="B17">Lindroth 1961-69</xref>, <xref ref-type="bibr" rid="B25">Niemelä et al. 1992</xref>), the potential influence of ecological linkage between carabids and particular tree species has not been much studied. Adult or larval carabids may use deadwood as shelter, oviposition or overwintering sites (<xref ref-type="bibr" rid="B9">Goulet 1974</xref>). They may feed on prey or vegetative items that are associated with trees and the related forest floor (e.g., <xref ref-type="bibr" rid="B14">Koivula et al. 1992</xref>), or use particular understory forest plants as food or shelter. Some carabid species may require a certain amount of shade or specific forest floor conditions that are best provided by certain tree species. Ground-beetle assemblages are known to vary generally with stand canopy cover (<xref ref-type="bibr" rid="B25">Niemelä et al. 1992</xref>; <xref ref-type="bibr" rid="B29">Pearce et al. 2003</xref>; <xref ref-type="bibr" rid="B8">Gandhi et al. 2008</xref>; <xref ref-type="bibr" rid="B39">Work et al. 2010</xref>), and it is frequently assumed that this reflects strong relationships between tree cover and local edaphic conditions (<xref ref-type="bibr" rid="B30">Perry et al. 2008</xref>). Nonetheless, connections of these patterns of association to the indirect ecological interactions mentioned above remain largely undescribed. We do not know much about the specific elements of forest stands that affect the structure of carabid assemblages.
+            </p>
+            <p>Associations between forest composition and ground-beetle species could involve a host of indirect processes, reflecting the ecological interactions of numerous forest ecosystem components (e.g., <xref ref-type="bibr" rid="B1">Allegro and Sciaky 2003</xref>). In a practical sense, modelling patterns of association between specific tree species and ground-beetles would reflect a more restricted subset of these processes but still include the state of many biotic and abiotic elements that are difficult or impossible to observe directly. Beetles of the family <tp:taxon-name>Carabidae</tp:taxon-name> are a group of choice for forest health assessment at local scales (<xref ref-type="bibr" rid="B40">Work et al. 2008</xref>), given the well developed taxonomic resources to facilitate species-level identification, the simplicity of sampling them, the fact that suitable habitat (i.e., the litter and upper soil layers) is not removed by forest harvest, and the microscale at which carabids interact with their environment making them sensitive indicators of change. Understanding their associations with particular trees species could increase their usefulness as indicators of human impact on forest landscapes. More importantly, as is our focus here, if such relationships between carabid and tree species can be defined, commonly available data about forest inventories could provide surrogates for at least this element of biodiversity. This, in turn, would be quite valuable in the context of monitoring requirements associated with forest certification and sustainable forest management.
+            </p>
+            <p>As it is impossible to appropriately assess biodiversity of entire forested landscapes, implementation of practical conservation strategies must be based to some extent on biodiversity surrogates (<xref ref-type="bibr" rid="B35">Spence et al. 2008</xref>). Trees are easier to survey over large areas than are most of the small and often cryptic organisms that constitute the majority of biodiversity. Thus, trees have the potential to be excellent biodiversity surrogates for forest land, if their spatial arrangement shows concomitant variation with that of other living organisms. In fact, tight associations between tree and beetle species are central to the first well known scientifically based estimate of the global number of insect species (<xref ref-type="bibr" rid="B6">Erwin 1982</xref>) and community structure of herbivorous arthropods is well known<!--PageBreak--> to differ among tree species (<xref ref-type="bibr" rid="B34">Southwood et al. 1982</xref>). Knowing relationships between tree species cover and the ground-beetle community living in a forest may support useful broad-scale characterization of biodiversity and ecosystem function based on simple elaboration of tree species distribution. Mapping tree species distributions is easily achieved via remote sensing. Knowledge of relationships between these distributions and biodiversity could prompt more effective and efficient conservation efforts over wide areas by ensuring maintenance of suitable volumes of non-commercial and rare tree species on managed landscapes.
+            </p>
+            <p>In the boreal forest, studies of carabid-tree relationships have been mainly based on stand-level categorization of canopy cover (e.g., conifer vs deciduous or spruce dominated vs aspen dominated) (e.g., <xref ref-type="bibr" rid="B25">Niemelä et al. 1992</xref>; <xref ref-type="bibr" rid="B29">Pearce et al. 2003</xref>; <xref ref-type="bibr" rid="B13">Jacobs et al. 2008</xref>; <xref ref-type="bibr" rid="B39">Work et al. 2010</xref>) and thus do not consider the individual contribution of each tree species present. We hypothesize that many insects, including ground-beetles, perceive the forested landscape as a combination of multiple spatial gradients that supply the resources they require. As such, we predict that the structure of carabid assemblages should change along a forest transect in relation to the relative importance of every tree species included in providing resources or fostering conditions used by the beetles. In this context, ground-beetle assemblages might not be best viewed as Clementsian entities tightly associated to certain environmental conditions, but rather as one big Gleasonian community in which species abundances vary independently with environmental conditions. In this study, we assess patterns of association between ground-beetles and mature tree species on a northern forested landscape level using a systematic sampling design.
+            </p>
+        </sec>
+        <sec sec-type="materials|methods">
+            <title>Materials and methods</title>
+            <sec sec-type="Study area">
+                <title>Study area</title>
+                <p>The study was conducted at the EMEND (Ecosystem Management Emulating Natural Disturbance) research site in the boreal mixedwood forest of northwestern Alberta, Canada. The approximate project centre is at <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">56°46'13&quot;N, 118°22'28&quot;W</named-content>, ~90 km northwest of Peace River, (see <xref ref-type="bibr" rid="B41">Work et al. 2004</xref> for the location of the site on Alberta map). The elevation varies between 677 and 880 m asl. The forest is a varying mixture of <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> (Moench), <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic> Michx., <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> L., combined with <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> (Mill.) BSP and <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> (Du Roi) K. Kock in wetter sites, with occasional <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> (L.) Mill., <italic><tp:taxon-name>Betula papyrifera</tp:taxon-name></italic> Marsh and <italic><tp:taxon-name>Pinus contorta</tp:taxon-name></italic> Loudon, representing the boreal-montane transitional nature of the lower foothill ecoregion. <italic><tp:taxon-name>Viburnum edule</tp:taxon-name></italic> (Michx.) Raf., <italic><tp:taxon-name>Rosa acicularis</tp:taxon-name></italic> Lindl., <italic><tp:taxon-name>Sherpherdia canadensis</tp:taxon-name></italic> (L.) Nutt., <italic><tp:taxon-name>Alnus crispa</tp:taxon-name></italic> (Ait.) Purch, <italic><tp:taxon-name>Alnus tenufolia</tp:taxon-name></italic> Nutt., and <italic><tp:taxon-name>Ledum groenlandicum</tp:taxon-name></italic> Oeder are common forest understory plants, and open meadows, fens, and bogs sometimes dominated by willow (<italic><tp:taxon-name>Salix</tp:taxon-name></italic> spp.) or alder (<italic><tp:taxon-name>Alnus</tp:taxon-name></italic> spp.) shrubs are interspersed on this typical boreal landscape.
+                </p>
+            </sec>
+            <sec sec-type="Sampling design">
+                <title>Sampling design</title>
+                <p>In the summer of 2002, a systematic grid of 200 sites covering 84 km<sup>2</sup> (<xref ref-type="fig" rid="F1">Fig. 1</xref>) of forested land was established in order to describe landscape patterns of ecological association between ground-beetles and overstory trees. At every site, we recorded diameter at breast height (dbh) and species identity for the 25 stems over 5cm dbh closest to our sample centre. We also documented the dbh and species of one stem for tree species present within a 50 meters radius but not recorded among the 25 stems encompassed in the original plots. This allowed us to consider the potential influence of proximal tree species on the beetle assemblages that were not included among the 25 stems. Drainage was recorded from two soil pits dug at 10 meters east and west from the plot centre. Drainage was categorized using a system of 11 classes, as modified from <xref ref-type="bibr" rid="B3">Beckingham et al. (1996)</xref>, to classify sites that showed characteristics of two adjacent classes. In the systematic grid, sites were located approximately 640 m apart. However, grid position of sites was constrained by two conditions: all sites had to be at least 40 meters from any 1) anthropogenic disturbance or 2) natural area without trees larger than 5 cm dbh. These conditions focused our study on possible relationships between the epigaeic fauna and mature forest heterogeneity. As is typical of boreal landscapes, the EMEND site includes wet areas, peatlands and much local variation in forest cover. Therefore, in 57 cases where the above criteria were not met, the actual site location was moved further than 40 meters and placed in the nearest forest stand. Thus, the sampling grid illustrated in <xref ref-type="fig" rid="F1">Fig. 1</xref> is not perfectly regular. Two sites in an extensive harvest block were omitted because relocated sites would have been further from the original gridpoint than the nearest neighboring site.
+                </p>
+                <p>The following summer (2003), we installed three pitfall traps in each of the same 200 sites (600 traps total). Traps were located at 0º (North), 120°, and 240° on a circle 15 m in diameter centred on the previously established site. Pitfall traps were a plastic cup (11 cm diameter by 13 cm depth), containing a plastic inner collecting cup and covered by a 14 cm<sup>2</sup> of plywood supported over the trap by two nails (see <xref ref-type="bibr" rid="B37">Spence and Niemelä 1994</xref>). Traps were operated during the frost-free season (i.e., from early May until the end of August), providing a potential total of 100 trapping days. We also sampled the epigaeic fauna in the two grid sites omitted from tree samples that were located in large harvest blocks and established an extra trapping site in the only naturally burnt forest encountered on the landscape. Four sites established in year 1 were not sampled for beetles because they were harvested over the intervening winter. Hence, we collected beetle data in a total of 197 sites (<xref ref-type="fig" rid="F1">Fig. 1</xref>). All beetles from the family <tp:taxon-name>Carabidae</tp:taxon-name> were identified to the species level using <xref ref-type="bibr" rid="B17">Lindroth (1960</xref><xref ref-type="bibr" rid="B18"/><xref ref-type="bibr" rid="B19"/><xref ref-type="bibr" rid="B20"/>-<xref ref-type="bibr" rid="B21">1969</xref>). Nomenclature follows <xref ref-type="bibr" rid="B4">Bousquet (1991)</xref>, and voucher specimens are deposited in the E. H. Strickland Entomological Museum (University of Alberta) in Edmonton, Canada and the Spence Laboratory Collection.<!--PageBreak--><!--PageBreak-->
+                </p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 1.</bold> Map of the sampling sites. Squares represent destroyed sites, open circles represent harvested sites, triangle represents the outlier, and the star represents the burnt site.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-147-577-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Statistical analyses">
+                <title>Statistical analyses</title>
+                <p>As a first step in linking within-stand canopy heterogeneity to ground-beetle assemblages, we calculated the relative basal area for each tree species in every site. Basal area is directly related to canopy cover (<xref ref-type="bibr" rid="B38">Spurr 1960</xref>) and, thus, appropriately represents the canopy influence of each tree species at a particular site. For each site, beetles from the three traps were pooled and their abundance divided by the sum of effective trapping days. This procedure allowed us to standardize beetle catches in relation to effective sampling effort. Although we report the abundance of beetle species collected in all 197 sites for entomological interest, the following statistical treatments were based only on the 194 grid sites located in forest with mature trees. This allowed us to focus on the effect of canopy heterogeneity on the beetle community.
+                </p>
+                <p>In order to visualize how the assemblage of ground-beetles was arrayed on the EMEND landscape, we performed a non metric multidimentional scaling (NMS) ordination of 194 sites based on the standardized abundance of the beetle species. We used the Bray-Curtis dissimilarity index to build the distance matrix and chose the highest number of dimensions providing a reduction of five in the stress (<xref ref-type="bibr" rid="B22">McCune and Grace 2002</xref>). The NMS was calculated using a random start configuration, with a maximum of 20 iterations on the real data. Initial inspection of the resulting ordination showed that one site was a clear outlier and the ordination was recalculated without this site. This site was located in a small ellipse of trees left in a harvest block and had been disturbed in a similar way as the 3 other sites that had been previously removed from the analysis. For the 16 most abundant beetle species and all the tree species, we calculated centroids to represent average location of the species' position in the ordination space. Contribution of each site to centroid calculation was weighted by the standardized abundance (or relative abundance in case of trees) of this species in each site. The general relation between drainage and ground-beetle assemblage was illustrated by projecting vectors of influence on the ordination diagram.
+                </p>
+                <p>Beetle assemblage response to forest canopy was more clearly illustrated by plotting the relative basal area of tree species for every site on the beetle ordination diagram. This procedure was undertaken because interesting ecological trends were obscured by the sole use of centroids or vectors. Centroid calculation, vector projection, and ordination were performed using the vegan package (<xref ref-type="bibr" rid="B26">Oksanen et al. 2011</xref>) within the R statistical language (<xref ref-type="bibr" rid="B32">R development core team 2010</xref>).
+                </p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>We collected and identified 9,845 individual ground-beetles representing 48 species (<xref ref-type="table" rid="T1">Table 1</xref>). <italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic> (Dejean), <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic> (LeConte) and <italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic> Eschscholtz accounted for over 70% of catches, and together with the next seven most abundant species [<italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic> (Say), <italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic> Dejean, <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic> (Randall), <italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic> LeConte, <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic> <!--PageBreak--><!--PageBreak-->Dejean, <italic><tp:taxon-name>Patrobus foveocollis</tp:taxon-name></italic> (Eschscholtz), and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> (Kirby)], accounted for 95% of the beetle catch. Nine beetle species (<italic><tp:taxon-name>Agonum cupreum</tp:taxon-name></italic> Dejean, <italic><tp:taxon-name>Amara laevipennis</tp:taxon-name></italic> Kirby, <italic><tp:taxon-name>Amara patruelis</tp:taxon-name></italic> Dejean, <italic><tp:taxon-name>Cymindis unicolor</tp:taxon-name></italic> Kirby, <italic><tp:taxon-name>Dyschirius hiemalis</tp:taxon-name></italic> (Bousquet), <italic><tp:taxon-name>Elaphrus clairvillei</tp:taxon-name></italic> Kirby, <italic><tp:taxon-name>Notiophilus semistriatus</tp:taxon-name></italic> Say, <italic><tp:taxon-name>Poecilus lucublandus</tp:taxon-name></italic> (Say) and <italic><tp:taxon-name>Trichocellus mannerheimii</tp:taxon-name></italic> (R.F. Sahlberg)) were trapped only in the 4 disturbed sites.
+            </p>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Species of the family <tp:taxon-name>Carabidae</tp:taxon-name> collected in 197 sites during the summer of 2003 in boreal Alberta, Canada. n= sample size.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Species</th>
+                            <th rowspan="1" colspan="1">Catches</th>
+                            <th rowspan="1" colspan="1">% catch</th>
+                            <th rowspan="1" colspan="1">n sites</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic> (Dejean)</td>
+                            <td rowspan="1" colspan="1">2830</td>
+                            <td rowspan="1" colspan="1">28.63</td>
+                            <td rowspan="1" colspan="1">164</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic> (LeConte)</td>
+                            <td rowspan="1" colspan="1">2665</td>
+                            <td rowspan="1" colspan="1">26.96</td>
+                            <td rowspan="1" colspan="1">150</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic> Eschscholtz</td>
+                            <td rowspan="1" colspan="1">1427</td>
+                            <td rowspan="1" colspan="1">14.44</td>
+                            <td rowspan="1" colspan="1">127</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic> Dejean</td>
+                            <td rowspan="1" colspan="1">607</td>
+                            <td rowspan="1" colspan="1">6.14</td>
+                            <td rowspan="1" colspan="1">118</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic> (Say)</td>
+                            <td rowspan="1" colspan="1">529</td>
+                            <td rowspan="1" colspan="1">5.35</td>
+                            <td rowspan="1" colspan="1">114</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic> (Randall)</td>
+                            <td rowspan="1" colspan="1">421</td>
+                            <td rowspan="1" colspan="1">4.26</td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic> LeConte</td>
+                            <td rowspan="1" colspan="1">349</td>
+                            <td rowspan="1" colspan="1">3.53</td>
+                            <td rowspan="1" colspan="1">78</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic> Dejean</td>
+                            <td rowspan="1" colspan="1">285</td>
+                            <td rowspan="1" colspan="1">2.88</td>
+                            <td rowspan="1" colspan="1">78</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Patrobus foveocollis</tp:taxon-name></italic> (Eschscholtz)</td>
+                            <td rowspan="1" colspan="1">223</td>
+                            <td rowspan="1" colspan="1">2.26</td>
+                            <td rowspan="1" colspan="1">76</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> (Kirby)</td>
+                            <td rowspan="1" colspan="1">172</td>
+                            <td rowspan="1" colspan="1">1.74</td>
+                            <td rowspan="1" colspan="1">71</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus chamissonis</tp:taxon-name></italic> Fisher von Waldheim</td>
+                            <td rowspan="1" colspan="1">159</td>
+                            <td rowspan="1" colspan="1">1.61</td>
+                            <td rowspan="1" colspan="1">69</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic> (Mannerheim)</td>
+                            <td rowspan="1" colspan="1">48</td>
+                            <td rowspan="1" colspan="1">0.49</td>
+                            <td rowspan="1" colspan="1">20</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> (Dejean)</td>
+                            <td rowspan="1" colspan="1">34</td>
+                            <td rowspan="1" colspan="1">0.34</td>
+                            <td rowspan="1" colspan="1">18</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus pensylvanicus</tp:taxon-name></italic> LeConte</td>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">0.23</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trechus apicalis</tp:taxon-name></italic> Motschulsky</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">0.14</td>
+                            <td rowspan="1" colspan="1">12</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum sordens</tp:taxon-name></italic> Kirby</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">0.11</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nebria gyllenhali</tp:taxon-name></italic> Kirby</td>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">0.08</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion grapii</tp:taxon-name></italic> Gyllenhal</td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">0.07</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum cupreum</tp:taxon-name></italic> Dejean</td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">0.07</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Notiophilus directus</tp:taxon-name></italic> Casey</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">0.06</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Synuchus impunctatus</tp:taxon-name></italic> (Say)</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">0.06</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichocellus mannerheimii</tp:taxon-name></italic> (R.F. Sahlberg)</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">0.05</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus riparius</tp:taxon-name></italic> (Dejean)</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">0.05</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichocellus cognatus</tp:taxon-name></italic> (Gyllenhal)</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">0.05</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara erratica</tp:taxon-name></italic> (Duftschmid)</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">0.05</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Patrobus septentrionis</tp:taxon-name></italic> Dejean</td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">0.04</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calosoma frigidum</tp:taxon-name></italic> Kirby</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">0.03</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Elaphrus clairvillei</tp:taxon-name></italic> Kirby</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0.02</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Notiophilus borealis</tp:taxon-name></italic> T.W. Harris</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0.02</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cymindis unicolor</tp:taxon-name></italic> Kirby</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0.02</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Loricera pilicornis</tp:taxon-name></italic> (Fabricius)</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0.02</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion rupicola</tp:taxon-name></italic> (Kirby)</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0.02</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara lunicollis</tp:taxon-name></italic> Shiødte</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0.02</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara laevipennis</tp:taxon-name></italic> Kirby</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum placidum</tp:taxon-name></italic> (Say)</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum superioris</tp:taxon-name></italic> Lindroth</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara littoralis</tp:taxon-name></italic> Mannerheim</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara patruelis</tp:taxon-name></italic> Dejean</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Badister obtusus</tp:taxon-name></italic> LeConte</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dyschirius hiemalis</tp:taxon-name></italic> (Bousquet)</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Elaphrus lapponicus</tp:taxon-name></italic> Gyllenhal</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus fulvilabris</tp:taxon-name></italic> Mannerheim</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus laevipes</tp:taxon-name></italic> Zetterstedt</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Miscodera arctica</tp:taxon-name></italic> (Paykull)</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Notiophilus semistriatus</tp:taxon-name></italic> Say</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Poecilus lucublandus</tp:taxon-name></italic> (Say)</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sericoda quadripunctata</tp:taxon-name></italic> (DeGeer)</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Elaphrus americanus</tp:taxon-name></italic> Dejean</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.01</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Total</td>
+                            <td rowspan="1" colspan="1">9885</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">n species</td>
+                            <td rowspan="1" colspan="1">48</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Among tree species, <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> was found in the highest number of sites followed by <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic>, <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic>, <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic>, <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>, and <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> (<xref ref-type="table" rid="T2">Table 2</xref>). <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> was also the most abundant species, and <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> was the second most abundant, accounting for twice as many stems as <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic>, even if <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> was found in fewer sites. More modest but still notable numbers of <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic>, <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>, and <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> were encountered on the grid, but these species were found in a more restricted number of sites. <italic><tp:taxon-name>Pinus contorta</tp:taxon-name></italic> Loudon and <italic><tp:taxon-name>Betula papyrifera</tp:taxon-name></italic> Marsh. were found in only 16 and 10 sites respectively and contributed to less than 1% of the total basal area on this landscape.
+            </p>
+            <table-wrap position="float" orientation="portrait" id="T2">
+                <label>Table 2.</label>
+                <caption><p>Total and relative basal area for species of tree recorded in 194 sites for comparison with beetle assemblage in boreal Alberta, Canada. n= sample size.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Tree species</th>
+                            <th rowspan="1" colspan="1">Basal area (m2)</th>
+                            <th rowspan="1" colspan="1">% basal area</th>
+                            <th rowspan="1" colspan="1">n trees</th>
+                            <th rowspan="1" colspan="1">n sites</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">82.2298</td>
+                            <td rowspan="1" colspan="1">44.8</td>
+                            <td rowspan="1" colspan="1">1720</td>
+                            <td rowspan="1" colspan="1">133</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">42.6206</td>
+                            <td rowspan="1" colspan="1">23.2</td>
+                            <td rowspan="1" colspan="1">831</td>
+                            <td rowspan="1" colspan="1">91</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">16.8314</td>
+                            <td rowspan="1" colspan="1">9.2</td>
+                            <td rowspan="1" colspan="1">1655</td>
+                            <td rowspan="1" colspan="1">83</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">36.4818</td>
+                            <td rowspan="1" colspan="1">19.9</td>
+                            <td rowspan="1" colspan="1">541</td>
+                            <td rowspan="1" colspan="1">57</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1.0901</td>
+                            <td rowspan="1" colspan="1">0.6</td>
+                            <td rowspan="1" colspan="1">103</td>
+                            <td rowspan="1" colspan="1">20</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">3.1918</td>
+                            <td rowspan="1" colspan="1">1.7</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus contorta</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0.9776</td>
+                            <td rowspan="1" colspan="1">0.5</td>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Betula papyrifera</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0.2231</td>
+                            <td rowspan="1" colspan="1">0.1</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">10</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>A two dimensional NMS solution arrayed the carabid assemblages collected from 193 sites in four quadrants (<xref ref-type="fig" rid="F2">Fig. 2</xref>) with a stress of 15.1. One third of the sites clustered in the upper right quadrant in which values on both NMS axes were positive. The centroids for 
+            , <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> were concentrated in this first quadrant of the ordination diagram, even though these species were captured at a broad range of sites. Centroids for the largest number of abundant species were concentrated in quadrant IV, which included about 25% of the sites. Species in quadrant IV were: <italic><tp:taxon-name>Carabus chamissonis</tp:taxon-name></italic> Fisher von Waldheim, <italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic>, <italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic>, and with increasingly negative values on axis 2, <italic><tp:taxon-name>Patrobus foveocollis</tp:taxon-name></italic>, <italic><tp:taxon-name>Pterostichus pensylvanicus</tp:taxon-name></italic> LeConte, <italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic>, <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic>, <italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic> and <italic><tp:taxon-name>Agonum sordens</tp:taxon-name></italic> Kirby. Another 25% of the sites were distributed in quadrant II, along with the centroid for <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic> and the vector for increasing wetness of drainage classes. This vector indicates a concentration of sites with poorly drained soils in the second quadrant. Only 15% of the sites were located in the quadrant III along with the centroids for <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic> (Mannerheim) and <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> (Dejean). The centroid for <italic><tp:taxon-name>Trechus apicalis</tp:taxon-name></italic> Motschulsky was also placed in quadrant III, although sites with <italic><tp:taxon-name>Trechus apicalis</tp:taxon-name></italic> were also widely distributed in the second and fourth quadrant<!--PageBreak-->.
+            </p>
+            <fig id="F2" position="float" orientation="portrait">
+                <caption><p><bold>Figure 2.</bold> NMS ordination of the 193 sites (grey dots) with weighted centroid for beetle (crosses) and tree species (dark dots), stress = 15.1. Vector direction indicates sites with increasingly poor drainage. The abbreviations of the beetle species are as follow: Agograt: <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic>, Agoretr: <italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic>, Agosord: <italic><tp:taxon-name>Agonum sordens</tp:taxon-name></italic>, Caladve: <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic>, Calingr: <italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic>, Carcham: <italic><tp:taxon-name>Carabus chamissonis</tp:taxon-name></italic>, Patfove: <italic><tp:taxon-name>Patrobus foveocollis</tp:taxon-name></italic>, Pladece: <italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic>, Plamann: <italic><tp:taxon-name>Platynus mannerheimmi</tp:taxon-name></italic>, Pteads: <italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic>, Ptebrev: <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic>, Ptepens: <italic><tp:taxon-name>Pterostichus pensylvanicus</tp:taxon-name></italic>, Ptepunc: <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic>, Stehaem: <italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic>, Treapic: <italic><tp:taxon-name>Trechus</tp:taxon-name></italic> apicalis, Trechal: <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic>. Abbreviations for the tree species are; Aw: <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic>, Fb: <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>, Lx: <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic>, Pb: <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic>, Sb: <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic>, and Sw: <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic>.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>Despite the fact that this ordination was calculated strictly from the beetle data, relative basal area of each tree species is organized in an interpretable pattern when projected into the ordination space of <xref ref-type="fig" rid="F2">Fig. 2</xref>. A detailed depiction of the fit for each tree species is provided in <xref ref-type="fig" rid="F1">Figs 3</xref><xref ref-type="fig" rid="F4"></xref><xref ref-type="fig" rid="F5"></xref><xref ref-type="fig" rid="F6"></xref><xref ref-type="fig" rid="F7"></xref> to <xref ref-type="fig" rid="F8">8</xref>. For example, the highest values of relative basal area for the most abundant tree species, <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> (<xref ref-type="fig" rid="F3">Fig. 3</xref>), were clearly concentrated in the first quadrant together with those for <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> (<xref ref-type="fig" rid="F4">Fig. 4</xref>), which was more restricted in relation to beetle sites. Sites with maximum values of relative basal area for <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> (<xref ref-type="fig" rid="F5">Fig. 5</xref>) were concentrated mainly in the lower part of the fourth quadrant of the ordination, but some intermediate and low values were also encountered in the first quadrant. <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic> was mostly distributed on the right side of the ordination biplot and seems to perform best when sites are defined by beetles that are characteristic of the first quadrant (<xref ref-type="fig" rid="F6">Fig. 6</xref>). The highest values of relative basal area for <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> occurredtoward the negative end of the x-axis, especially in the second quadrant (<xref ref-type="fig" rid="F7">Fig. 7</xref>). A few wetter sites placed in the third quadrant were dominated by <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> (<xref ref-type="fig" rid="F3">Fig. 3</xref>) and <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> (<xref ref-type="fig" rid="F8">Fig. 8</xref>).
+            </p>
+            <p><xref ref-type="fig" rid="F9">Fig. 9</xref> provides a clear depiction of the drainage classes for each site on the ordination diagram. Sites on the right site of the ordination are generally better drained than sites on the left side of the ordination. Among the sites concentrated on the right side of the ordination, drier sites are mostly found below the x axis while mesic sites are found above the x axis.
+            </p>
+            <fig id="F3" position="float" orientation="portrait">
+                <caption><p><bold>Figure 3.</bold> Relative basal area of <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> for the 193 sites plotted on the beetle ordination of figure 2.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <caption><p><bold>Figure</bold> <bold>4.</bold> Relative basal area of <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> for the 193 sites plotted on the beetle ordination of figure 2.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F5" position="float" orientation="portrait">
+                <caption><p><bold>Figure</bold> <bold>5.</bold> Relative basal area of <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> for the 193 sites plotted on the beetle ordination of figure 2.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F6" position="float" orientation="portrait">
+                <caption><p><bold>Figure</bold> <bold>6.</bold> Relative basal area of <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic> for the 193 sites plotted on the beetle ordination of figure 2.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F7" position="float" orientation="portrait">
+                <caption><p><bold>Figure</bold> <bold>7.</bold> Relative basal area of <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> for the 193 sites plotted on the beetle ordination of figure 2.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F8" position="float" orientation="portrait">
+                <caption><p><bold>Figure</bold> <bold>8.</bold> Relative basal area of <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> for the 193 sites plotted on the beetle ordination of figure 2.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F9" position="float" orientation="portrait">
+                <caption><p><bold>Figure</bold> <bold>9.</bold> Drainage values for the 193 sites plotted on the beetle ordination of figure 2. High drainage values represent poorly drained sites.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-577-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Ground-beetles were collected in all sites, and in numbers large enough to allow robust statistical analysis. This feature alone contributes to the suitability of this beetle family as useful biodiversity indicators for the mixedwood boreal forest mosaic (<xref ref-type="bibr" rid="B31">Rainio and Niemelä 2003</xref>). All of the species caught in more than 10 sites (<xref ref-type="table" rid="T1">Table 1</xref>) are common in and apparently well-adapted to boreal forest conditions; many of them are characteristic of mature and late successional forests (<xref ref-type="bibr" rid="B24">Niemelä et al. 1993</xref>; <xref ref-type="bibr" rid="B36">Spence et al. 1996</xref>; <xref ref-type="bibr" rid="B13">Jacobs et al. 2008</xref>) in Alberta. This result is to be expected, given our sampling design <!--PageBreak-->that focused on mature forest that has never been harvested. The ordination data presented here suggest that variation in composition of the forest-associated carabid community is structured by the same environmental factors that affect distribution of the trees, or perhaps is even by the trees <italic>per se</italic>.<!--PageBreak-->
+            </p>
+            <p>Eight of the species trapped only at the disturbed sites (all except <italic><tp:taxon-name>Elaphrus clairvillei</tp:taxon-name></italic>) are characteristic of open habitats (<xref ref-type="bibr" rid="B17">Lindroth 1961-69</xref>, <xref ref-type="bibr" rid="B15">Larochelle and Larivière 2003</xref>). We captured many additional species also characteristic of open habitats but which constituted less than 0.1% of the total beetle catch (<xref ref-type="table" rid="T1">Table 1</xref>). Thus, even on boreal landscapes that may be characterized as ‘forested', ample source populations of these species are available to respond to natural forest gaps that become available through disturbance. The EMEND landscape is embedded in a mosaic of harvested and burnt sites that could support such populations, and it seems that individuals of these species even wander into areas that are mainly mature well developed forest.
+            </p>
+            <p>The main ordination (<xref ref-type="fig" rid="F2">Fig. 2</xref>) represents the landscape according to what portion of the overall beetle assemblage is found in each site. The fact that relative basal area of tree species shows a level of organization in ordination space (<xref ref-type="fig" rid="F2">Fig. 2</xref>) suggests that as the ground-beetle assemblage shifts, the species included exploit different resources, and that availability of these resources vary with presence of particular tree species. It is also interesting to note that tree species group in the ordinations according to ecological similarities documented for these trees. Tree cover on the right side of the ordination, for example, is dominated by a combination of <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic>, <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic>, <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic>, and <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>. These species are characteristic of uplands in the lower foothills ecoregion of northwestern Alberta, occurring mainly in mesic to well-drained sites either in mixture or pure stands (<xref ref-type="bibr" rid="B3">Beckingham et a. 1996</xref>). On the other hand, high relative basal areas of <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> and <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic>, species that typically colonize wet lowlands, are found mostly on the left side of the ordination. The drainage vector projected on the ordination diagram (<xref ref-type="fig" rid="F2">Fig. 2</xref>) confirms this major ecological difference between species on the right and left side of the ordination. All eleven carabid species representing over one percent of the collection (<xref ref-type="table" rid="T1">Table 1</xref>) have their centroids located on the right side of the ordination, except <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>). This underscores the general inhospitality of very poorly drained sites for ground-beetles, an interesting generalization from this study. Organization of the beetle community seems to follow general ecological requirements of tree species, and thus, soil drainage is one of the factor that drives the distribution of both tree and beetle species.
+            </p>
+            <p>The distribution of carabids on the landscape may be explained in even more detail by isolating the connections to particular tree species in relation to what is known about habitat use of these carabids. For example, the beetle species arrayed around the centroid for <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> (<italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic>, <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic>, <italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic>, <italic><tp:taxon-name>Patrobus foveocollis</tp:taxon-name></italic>, and <italic><tp:taxon-name>Pterostichus pensylvanicus</tp:taxon-name></italic>; see <xref ref-type="fig" rid="F2">Fig. 2</xref>) typically prefer moderately moist ground (<xref ref-type="bibr" rid="B15">Larochelle and Larivière 2003</xref>). In contrast, these authors note that beetle species located near the centroid for <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic> (<italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic>) in <xref ref-type="fig" rid="F2">Fig. 2</xref> prefer drier ground than the aforementioned species. Despite similar ecology, <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> occupies wetter sites than <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B5">Burns and Honkala 1990</xref>) and this is reflected in the distribution of their relative basal areas according to beetle species (<xref ref-type="fig" rid="F2">Fig. 2</xref>). Changes in the beetle assemblage along this gradient are strong enough to suggest differential influences on the structure of ground-beetle community by these two ecologically similar tree species.
+            </p>
+            <p><!--PageBreak--><italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic> are considered as habitat generalists in non-riparian areas of the boreal zone (<xref ref-type="bibr" rid="B24">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B28">Pearce and Venier 2006</xref>) and are found here along most of the deciduous-coniferous gradient on the right side of the ordination. The highest abundances of <italic><tp:taxon-name>Carabus chamissonis</tp:taxon-name></italic> are also found to occur on drier grounds. Being characteristic of mixed and coniferous forest (<xref ref-type="bibr" rid="B15">Larochelle and Larivière 2003</xref>), most <italic><tp:taxon-name>Carabus chamissonis</tp:taxon-name></italic> were trapped at transitions between the deciduous and coniferous components of this gradient (<xref ref-type="fig" rid="F2">Fig. 2</xref>), a new finding in this study.
+            </p>
+            <p>Sites located in the first quadrant are dominated by high values of relative basal area for <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> and <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>, and are associated with high abundances of <italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic>, <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic>, and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>). All three of these species are regularly associated with coniferous forest (<xref ref-type="bibr" rid="B36">Spence et al. 1996</xref>, <xref ref-type="bibr" rid="B7">Gandhi et al. 2001</xref>, <xref ref-type="bibr" rid="B41">Work et al. 2004</xref>). <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic> is most frequently trapped in the forest, but both <italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> may occur in more open spruce bogs or heaths with ericaceous vegetation characteristic of higher altitude and latitude (<xref ref-type="bibr" rid="B19">Lindroth 1966</xref>). This explains why in our ordination, the centroids for these two later species are located closer to the y-axis, where the presence of <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> and <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> overlap (<xref ref-type="fig" rid="F3">Fig. 3</xref> and <xref ref-type="fig" rid="F7">7</xref>). Despite the fact that <italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> may occur in habitat where black spruce grow, they are normally encountered on drier ground than is <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic>.
+            </p>
+            <p>Highest abundances of <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic> are concentrated in the second quadrant together with the highest relative basal area values for <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>). <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic>, <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic>, and <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> are all recognized to occur in coniferous forest (<xref ref-type="bibr" rid="B19">Lindroth 1966</xref>, <xref ref-type="bibr" rid="B15">Larochelle and Larivière 2003</xref>), especially that dominated by <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B12">Holliday 1991</xref>, <xref ref-type="bibr" rid="B25">Niemelä et al. 1992</xref>, <xref ref-type="bibr" rid="B29">Pearce et al. 2003</xref>, <xref ref-type="bibr" rid="B27">Paquin 2008</xref>). However, both <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> and <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic> are especially common in wet productive sphagnum bogs, swamps and lowland forested sites dominated by <italic><tp:taxon-name>Picea</tp:taxon-name></italic> and <italic><tp:taxon-name>Larix</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B15">Larochelle and Larivière 2003</xref>). In the lower foothills of northwestern Alberta, <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> tends to occur in lowlands together with <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic>; however presence of tamarack indicates productive sites where nutrients are more available (<xref ref-type="bibr" rid="B3">Beckingham et al. 1996</xref>). Composition of the beetle assemblage seems to reflect this ecological difference as high abundances of <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> and <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic> are located in the third quadrant overlapping strongly with the highest relative basal area values of <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic>.
+            </p>
+            <p><xref ref-type="bibr" rid="B18">Lindroth (1963)</xref> characterizes <italic><tp:taxon-name>Trechus apicalis</tp:taxon-name></italic> as a eurytopic species with affinities for <italic><tp:taxon-name>Sphagnum</tp:taxon-name></italic>. Although, catches of this beetle are widely distributed on the ordination diagram, most catches occurred to the left side of the ordination (<xref ref-type="fig" rid="F2">Fig. 2</xref>) together with <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic>, the tree species that dominates <italic><tp:taxon-name>Sphagnum</tp:taxon-name></italic> bogs in the area (<xref ref-type="bibr" rid="B3">Beckingham et al. 1996</xref>).
+            </p>
+            <p><italic><tp:taxon-name>Agonum sordens</tp:taxon-name></italic> is characterized as hygrophilous (<xref ref-type="bibr" rid="B19">Lindroth 1966</xref>), often occurring close to water especially eutrophic marshes. It was placed in the lower part of the fourth quadrant of the ordination together with beetle species characteristic of moist soils and significant cover of <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic>. However, sites with <italic><tp:taxon-name>Agonum sordens</tp:taxon-name></italic> also occurred in the third quadrant together with populations of <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic> and <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> where beetle assemblage is more characteristic of wet areas. These sites also included beetles more characteristic of upland forest such as <italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic>, <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic>.<!--PageBreak--> These species are characteristic of ‘old growth' forest in Alberta (<xref ref-type="bibr" rid="B36">Spence et al. 1996</xref>, <xref ref-type="bibr" rid="B23">Niemelä 1997</xref>), and the fact that tree cover at these sites consists of a mix of <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic>, <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic> and <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> likely reflects that a fine-grained mix of upland mesic and lowland wet sites is common to boreal stands in this region. Such subtle local variation certainly contributes to the diversity of epigaeic invertebrates in naturally occurring boreal stands. Maintaining such subtle variation is not an obvious feature of silvicultural practices used to regenerate boreal stands. This also speaks to the need to account for variation in physiography within stands in designing systems to conserve biodiversity.
+            </p>
+            <p>Despite the fact that ecological linkage between the beetle assemblage and the canopy trees is well depicted using species centroids projected on the beetle ordination (<xref ref-type="fig" rid="F2">Fig. 2</xref>), much ecological information remains hidden. Examination of <xref ref-type="fig" rid="F3">Figs 3</xref><xref ref-type="fig" rid="F4"></xref><xref ref-type="fig" rid="F5"></xref> to <xref ref-type="fig" rid="F6">6</xref> reveals that <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic>, <italic><tp:taxon-name>Populus tremuloides</tp:taxon-name></italic>, <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic>, and <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>, each occupies a wide range of sites on the right side of the ordination corresponding to upland forest. In the boreal mixedwood forest, the beetle community seems not to respond to the habitat as a mixture of pure coniferous and deciduous stands, but rather, as stands supporting a gradual mixture of conifer and deciduous tree species. In the ordination space, sites for coniferous, mixed and deciduous forest are not tightly grouped according to these categories but are evenly dispersed along this gradient. This provides evidence that the ground-beetle community dynamics on this sort of landscape behaves more like one loosely integrated Gleasonian community instead of tight Clementsian species groups showing similar responses to resource distribution.
+            </p>
+            <p>There is additional evidence that projecting centroids onto the ordination diagram fails to capture some significant ecological patterns. A few sites with high values of relative basal area for <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> also group together at the lowest values of the x axis of the NMS ordination (<xref ref-type="fig" rid="F3">Fig. 3</xref>). This is intriguing as these sites seem to host a very different beetle assemblage than most sites with high relative basal area of white spruce. The beetle catches were dominated by <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic> and <italic><tp:taxon-name>Agonum gratiosum</tp:taxon-name></italic>, but did not include either <italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic> or <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic>, species that were characteristic of all other sites with high relative basal area of <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>). In these exceptional sites, <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> (<xref ref-type="fig" rid="F3">Fig. 3</xref>) grows with <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> (<xref ref-type="fig" rid="F8">Fig. 8</xref>) but the presence of <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> that generally supports a beetle community characteristic of wet sites is less important (<xref ref-type="fig" rid="F7">Fig. 7</xref>). In these circumstances, the carabid community is more typical of wet productive sites. <xref ref-type="fig" rid="F9">Figure 9</xref> combined with the results shown in <xref ref-type="fig" rid="F3">Figure 3</xref> confirm that white spruce occurring in the most poorly drained sites support a different assemblage than white spruce occurring on moderately to well-drained sites. Following the widely used approach of projecting <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> distribution onto the ordination with a vector or, simply projecting the centroid for this species on the ordination diagram (<xref ref-type="fig" rid="F2">Fig. 2</xref>), does not reveal this pattern. We suggest that this is evidence that non-linear gradients can affect arthropod community structure. Before such gradients can be studied and understood, they must be first revealed, something accomplished here by ordination in relation to basal area.
+            </p>
+            <p>Patterns of association between beetle community structure and uncommon tree species having a restricted distribution on the landscape are of special interest in a conservation context. For example, <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> is at the northwestern edge of its continen<!--PageBreak-->tal range at EMEND and stands are scattered and restricted to narrow habitats (<xref ref-type="bibr" rid="B10">Halliday and Brown 1943</xref>, <xref ref-type="bibr" rid="B2">Bakuzis and Hansen 1965</xref>), often located in areas “skipped” repeatedly by historical fires (<xref ref-type="bibr" rid="B33">Sirois 1997</xref>). The carabid assemblage associated with this tree is a subset of that characteristic of <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic> stands (<xref ref-type="fig" rid="F3">Fig. 3</xref> and <xref ref-type="fig" rid="F4">4</xref>). Both of these tree species are shade tolerant and typical of late-successional forest (<xref ref-type="bibr" rid="B5">Burns and Honkala 1990</xref>). Accordingly, two species of beetle that occur together with <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> in the first quadrant (<italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic>, <xref ref-type="fig" rid="F2">Fig. 2</xref>) are characteristic of old-growth forest (<xref ref-type="bibr" rid="B24">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B13">Jacobs et al. 2008</xref>). Furthermore, <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> appears to be restricted to moist and cool forest areas, such as the interior of sites skipped by fire (<xref ref-type="bibr" rid="B36">Spence et al. 1996</xref>). In our ordination, <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> also occurs more marginally in the lower part of the fourth quadrant where the beetle assemblage is characteristic of sites dominated by <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> (<xref ref-type="fig" rid="F4">Fig. 4</xref>). This may be attributed to the fact that <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> grows on moist sites (<xref ref-type="bibr" rid="B5">Burns and Honkala 1990</xref>), a feature rendering these<!--PageBreak--> sites more likely to escape fire and develop the specific edaphic conditions required by <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic>. It is interesting to note that these sites also support populations of <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic> and <italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic>, species also recognized as typical of old forest (<xref ref-type="bibr" rid="B36">Spence et al. 1996</xref>). This interesting trend would also not have been detected simply by plotting centroids or projecting vectors.
+            </p>
+            <p>A similar pattern of association appears between <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> and <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>), both of which are uncommon species of the EMEND landscape (<xref ref-type="table" rid="T1">Table 1</xref> and <xref ref-type="table" rid="T2">2</xref>). <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> is generally recognized in both North America and Scandinavia as being an uncommon element of the boreal beetle community, having narrow microhabitat requirements and being locally restricted to mires, old wet forests and fire skips (<xref ref-type="bibr" rid="B23">Niemelä 1997</xref>, <xref ref-type="bibr" rid="B11">Haila et al. 1994</xref>, <xref ref-type="bibr" rid="B25">Niemelä et al. 1992</xref>, <xref ref-type="bibr" rid="B27">Paquin 2008</xref>, <xref ref-type="bibr" rid="B7">Gandhi et al. 2001</xref>). The strong association between uncommon tree and beetle species suggests that more careful consideration of the distribution and abundance of rare tree species on <!--PageBreak-->a landscape would be useful as a coarse-filter for conservation efforts to manage some elements of boreal biodiversity. Presence of these tree species should not be dismissed as ‘noise' in managing a landscape mosaic of commercially important species valued for fiber.
+            </p>
+            <p>In general, associations between carabid and tree species, as described previously, match species of the same rank order of abundance on the EMEND landscape (<xref ref-type="table" rid="T1">Table 1</xref> and <xref ref-type="table" rid="T2">2</xref>). For example, the beetle species collected in the highest number of sites (<italic><tp:taxon-name>Stereocerus haematopus</tp:taxon-name></italic> and <italic><tp:taxon-name>Calathus advena</tp:taxon-name></italic>) were associated with <italic><tp:taxon-name>Picea glauca</tp:taxon-name></italic>, the tree species similarly recorded from the highest number of sites. This is also true for the association between the carabids <italic><tp:taxon-name>Pterostichus adstrictus</tp:taxon-name></italic> and <italic><tp:taxon-name>Calathus ingratus</tp:taxon-name></italic> and the tree species, <italic><tp:taxon-name>P .tremuloides</tp:taxon-name></italic> (second highest number of sites). <italic><tp:taxon-name>Pterostichus punctatissimus</tp:taxon-name></italic>, the sixth most common carabid, was associated with <italic><tp:taxon-name>Picea mariana</tp:taxon-name></italic> (noted at the third highest number of sites). Likewise <italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic><!--PageBreak-->, <italic><tp:taxon-name>Trechus chalybeus</tp:taxon-name></italic>, and <italic><tp:taxon-name>Patrobus foveocollis</tp:taxon-name></italic> were associated with <italic><tp:taxon-name>Populus balsamifera</tp:taxon-name></italic> (fourth highest number of sites), and <italic><tp:taxon-name>Pterostichus brevicornis</tp:taxon-name></italic> and <italic><tp:taxon-name>Carabus chamissonis</tp:taxon-name></italic> were predominately collected at sites with <italic><tp:taxon-name>Abies balsamea</tp:taxon-name></italic> (fifth highest number of sites). As outlined above, <italic><tp:taxon-name>Agonum retractum</tp:taxon-name></italic> and <italic><tp:taxon-name>Platynus mannerheimii</tp:taxon-name></italic> were associated with <italic><tp:taxon-name>Larix laricina</tp:taxon-name></italic> (recorded at the sixth highest number of sites). We suggest that each tree species indicates its own set of edaphic and perhaps even broader environmental conditions. If so, beetle species requiring conditions related to the most frequent tree encountered on a landscape will also be the most commonly encountered in systematic sampling efforts to the extent that beetle population sizes follow that of tree species. If a habitat is less frequent on a landscape, the beetle requiring this habitat should also be less frequently collected, and this is what we observed. Thus, including all tree species in stand-level forest inventories can have real practical value in developing regional conservation strategies.
+            </p>
+        </sec>
+        <sec sec-type="Conclusion">
+            <title>Conclusion</title>
+            <p>Despite the indirect nature of potential links between distributions of tree and ground-beetle species, the ecological features associated with their distributions appear to be similar, allowing us to discern surprisingly clear patterns of association. Variation in carabid assemblages over this section of the boreal forest reflects the specific presence of all tree species present on this landscape. It is unknown at present the extent to which these associations simply reflect a response to common features or if, perhaps, the trees themselves contribute to conditions (e.g., through quality of litter) that promote success of particular invertebrate species. Furthermore, although associations between ground-beetle and tree species are strong and interpretable, the potential implication for predicting distribution of other invertebrate taxa remains to be investigated.<!--PageBreak--></p>
+            <p>Nevertheless, these observations are of interest for regional conservation purposes. Because the boreal forest covers vast areas, it is impossible in cost-effective practice to assess biodiversity reliably, and thus surrogates are needed (<xref ref-type="bibr" rid="B35">Spence et al. 2008</xref>). Our results support developing an approach that uses details of forest inventory as a possible surrogate for arthropod biodiversity in conservation planning. Extensive Canadian forest surveys already include evaluation of canopy cover (<xref ref-type="bibr" rid="B16">Leckie and Gillis 1995</xref>), and this can be directly related to basal area (<xref ref-type="bibr" rid="B38">Spurr 1960</xref>) as used in this study. Our study emphasizes that accuracy of forest surveys and inventories is crucial to their use in conservation planning because uncommon carabid species are clearly associated with uncommon tree species. It will be important to include records of these uncommon tree species in all inventories and to ensure that methods employed in regeneration of forests managed extensively permit such trees to establish themselves in a rather natural manner, even when they are commercially unimportant.
+            </p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>We thank D. Lysk, D. Jensen, B. Shaughnessy, K. Cryer, I. Phillips, D. Hartley, J.P.Z. Bergeron as well as the EMEND field crew for their help in the field and in the laboratory. Discussions with T. Vinge, T.T Work, J.M. Jacobs, T.P. Cobb and D. W. Langor greatly contributed to the development of the ideas and concepts discussed in this paper.</p>
+            <p>We take special pleasure in dedicating this paper to Ross and Joyce Bell as part of the Bell Fest. We think it is an example of the detailed approach to finding relationships between carabids and their environment that they practiced and taught. The work was supported financially by our industrial forestry partners, Canadian Forest Products, Ltd. and Daishowa-Marubeni International, Ltd., as well as Alberta Sustainable Resource Development, the Sustainable Forest Management Network, the Canadian Forest Service and the Natural Sciences and Engineering Research Council of Canada (NSERC).<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Allegro</surname><given-names>G</given-names></name><name name-style="western"><surname>Sciaky</surname><given-names>R</given-names></name></person-group> (<year>2003</year>)<article-title> Assessing the potential role of ground beetles (Coleoptera, Carabidae) as bioindicators in poplar stands, with a newly proposed ecological index (FAI).</article-title> <source>Forest Ecology and Management </source> <volume>175</volume>: <fpage>275</fpage>-<lpage>284</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0378-1127(02)00135-4" xlink:type="simple">doi: 10.1016/S0378-1127(02)00135-4</ext-link></mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bakuzis</surname><given-names>EV</given-names></name><name name-style="western"><surname>Hansen</surname><given-names>HL</given-names></name></person-group> (<year>1965</year>)<source> Balsam fir, a monographic review.</source> <publisher-name>The University of Minnesota Press</publisher-name>, <publisher-loc>Minneapolis</publisher-loc>, <lpage>445</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Beckingham</surname><given-names>JD</given-names></name><name name-style="western"><surname>Corns</surname><given-names>IGW</given-names></name><name name-style="western"><surname>Archibald</surname><given-names>JH</given-names></name></person-group> (<year>1996</year>)<source> Field guide to ecosites of west-central Alberta. Natural Resources Canada, Canadian Forest Service, Northwest Region, Northern Forestry Centre, Edmonton, AB, Special Report 9.
+</source></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bousquet</surname><given-names>Y</given-names></name></person-group> (<year>1991</year>)<source> Carabidae. In: Bousquet Y (Ed) Checklist of beetles of Canada and Alaska. Research Branch, Agriculutre Canada, Publication 1861/E., Ottawa.
+</source></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Burns</surname><given-names>RM</given-names></name><name name-style="western"><surname>Honkala</surname><given-names>BH</given-names></name></person-group> (<year>1990</year>)<source> Silvics of North America: 1. Conifers; 2. Hardwoods, Agriculture Handbook 654, U.S. Department of Agriculture, Forest Service, Washington, DC.
+</source></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1982</year>)<article-title> Tropical forests: Their richness in Coleoptera and other arthropod species.</article-title> <source>The Coleopterists Bulletin </source> <volume>36</volume>: <fpage>74</fpage>-<lpage>75</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gandhi</surname><given-names>KJK</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Langor</surname><given-names>DW</given-names></name><name name-style="western"><surname>Morgantini</surname><given-names>LE</given-names></name></person-group> (<year>2001</year>)<article-title> Fire residuals as habitat reserve for epigaeic beetles (Coleoptera: Carabidae and Staphylinidae).</article-title> <source>Biological Conservation </source> <volume>102</volume>: <fpage>131</fpage>-<lpage>141</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0006-3207(01)00099-4" xlink:type="simple">doi: 10.1016/S0006-3207(01)00099-4</ext-link></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gandhi</surname><given-names>KJK</given-names></name><name name-style="western"><surname>Gilmore</surname><given-names>DW</given-names></name><name name-style="western"><surname>Katovich</surname><given-names>SA</given-names></name><name name-style="western"><surname>Mattson</surname><given-names>WJ</given-names></name><name name-style="western"><surname>Zasada</surname><given-names>JC</given-names></name><name name-style="western"><surname>and Seybold</surname><given-names>SJ</given-names></name></person-group> (<year>2008</year>)<article-title> Catastrophic windstorm and fuel-reduction treatments alter ground beetle (Coleoptera: Carabidae) assemblages in a North American sub-boreal forest.</article-title> <source>Forest Ecology and Management </source> <volume>256</volume>: <fpage>1104</fpage>-<lpage>1123</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.foreco.2008.06.011" xlink:type="simple">doi: 10.1016/j.foreco.2008.06.011</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goulet</surname><given-names>H</given-names></name></person-group> (<year>1974</year>)<article-title> Biology and Relationships of <italic>Pterostichus adstrictus</italic> Eschscholtz and <italic>Pterostichus pensylvanicus</italic> LeConte (Coleoptera: Carabidae).</article-title> <source>Quaestiones Entomologicae </source> <volume>10</volume>: <fpage>3</fpage>-<lpage>34</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Halliday</surname><given-names>WED</given-names></name><name name-style="western"><surname>Brown</surname><given-names>AWA</given-names></name></person-group> (<year>1943</year>)<article-title> The distribution of some important forest trees in Canada.</article-title> <source>Ecology </source> <volume>24</volume>: <fpage>353</fpage>-<lpage>373</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1930537" xlink:type="simple">doi: 10.2307/1930537</ext-link></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haila</surname><given-names>Y</given-names></name><name name-style="western"><surname>Hanski</surname><given-names>IK</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name><name name-style="western"><surname>Puntila</surname><given-names>P</given-names></name><name name-style="western"><surname>Ravio</surname><given-names>S</given-names></name><name name-style="western"><surname>Tukia</surname><given-names>H</given-names></name></person-group> (<year>1994</year>)<article-title> Forestry and boreal fauna: matching management with natural forest dynamics.</article-title> <source>Annales of Zoologici Fennici </source> <volume>31</volume>: <fpage>187</fpage>-<lpage>202</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holliday</surname><given-names>NJ</given-names></name></person-group> (<year>1991</year>)<article-title> Species responses of carabid beetles (Coleoptera: Carabidae) during post-fire regeneration of boreal forest.</article-title> <source>The Canadian Entomologist </source> <volume>123</volume>: <fpage>1369</fpage>-<lpage>1389</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent1231369-6" xlink:type="simple">doi: 10.4039/Ent1231369-6</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jacobs</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name></person-group> (<year>2008</year>)<source> Influences of succession and harvest intensity on ground beetle (Coleoptera: Carabidae) populations in the boreal mixedwood forests of Alberta, Canada: species matter. In: Penev L, Erwin T, Assmann T (Eds) Back to the Roots or Back to the Future? Towards a New Synthesis between Taxonomic, Ecological and Biogeographical Approaches in Carabidology. Proceedings of the XIII European Carabidologists Meeting, Blagoevgrad, Bulgaria, August 20–24 2007.</source> <publisher-name>Pensoft Publishers</publisher-name>, <publisher-loc>Sofia-Moscow</publisher-loc>, <lpage>509</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Koivula</surname><given-names>M</given-names></name><name name-style="western"><surname>Puntilla</surname><given-names>P</given-names></name><name name-style="western"><surname>Haila</surname><given-names>Y</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name></person-group> (<year>1992</year>)<article-title> Leaf litter and the small-scale distribution of carabid beetles (Coleoptera, Carabidae) in the boreal forest.</article-title> <source>Ecogaphy </source> <volume>22</volume>: <fpage>424</fpage>-<lpage>435</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1600-0587.1999.tb00579.x" xlink:type="simple">doi: 10.1111/j.1600-0587.1999.tb00579.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Larochelle</surname><given-names>A</given-names></name><name name-style="western"><surname>Larivière</surname><given-names>M-C</given-names></name></person-group> (<year>2003</year>)<source> A Natural History of the Ground-Beetles (Coleoptera: Carabidae) of America north of Mexico.</source> <publisher-name>Pensoft</publisher-name>, <publisher-loc>Sofia-Moscow</publisher-loc>, <lpage>583</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Leckie</surname><given-names>DG</given-names></name><name name-style="western"><surname>Gillis</surname><given-names>MD</given-names></name></person-group> (<year>1995</year>)<article-title> Forest inventory in Canada with emphasis on map production.</article-title> <source>The Forestry Chronicle </source> <volume>71</volume> (<issue>1</issue>): <fpage>74</fpage>-<lpage>88</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname><given-names>CH</given-names></name></person-group> (<year>1961</year>)<source> The ground-beetles of Canada and Alaska. Opuscula Entomologica, Supplementum XX: 1–200.
+</source></mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname><given-names>CH</given-names></name></person-group> (<year>1963</year>)<source> The ground-beetles of Canada and Alaska. Opuscula Entomologica, Supplementum XXIV: 201–408.
+</source></mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname><given-names>CH</given-names></name></person-group> (<year>1966</year>)<source> The ground-beetles of Canada and Alaska. Opuscula Entomologica, Supplementum XXIX: 409–648.
+</source></mixed-citation>
+            </ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname><given-names>CH</given-names></name></person-group> (<year>1968</year>)<source> The ground-beetles of Canada and Alaska. Opuscula Entomologica, Supplementum XXXIII: 649–944.
+</source></mixed-citation>
+            </ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname><given-names>CH</given-names></name></person-group> (<year>1969</year>)<source> The ground-beetles of Canada and Alaska. Opuscula Entomologica, Supplementum XXXIV: 945–1192.
+</source></mixed-citation>
+            </ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCune</surname><given-names>B</given-names></name><name name-style="western"><surname>Grace</surname><given-names>JB</given-names></name></person-group> (<year>2002</year>)<source> Analysis of Ecological Communities. MjM Software Design, Gleneden Beach, Oregon, USA.
+</source></mixed-citation>
+            </ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name></person-group> (<year>1997</year>)<article-title> Invertebrates and Boreal Forest Management.</article-title> <source>Conservation Biology </source> <volume>11</volume> (<issue>3</issue>): <fpage>601</fpage>-<lpage>610</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1523-1739.1997.06008.x" xlink:type="simple">doi: 10.1046/j.1523-1739.1997.06008.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name><name name-style="western"><surname>Langor</surname><given-names>DW</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name></person-group> (<year>1993</year>)<article-title> Effects of clear-cut harvesting on boreal ground-beetles assemblages (Coleoptera: Carabidae) in Western Canada.</article-title> <source>Conservation Biology </source> <volume>7</volume> (<issue>3</issue>): <fpage>551</fpage>-<lpage>561</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1523-1739.1993.07030551.x" xlink:type="simple">doi: 10.1046/j.1523-1739.1993.07030551.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Spence</surname><given-names>DH</given-names></name></person-group> (<year>1992</year>)<article-title> Habitat associations and seasonal activity of ground-beetles (Coleoptera, Carabidae) in central Alberta.</article-title> <source>The Canadian Entomologist </source> <volume>124</volume>: <fpage>521</fpage>-<lpage>540</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent124521-3" xlink:type="simple">doi: 10.4039/Ent124521-3</ext-link></mixed-citation>
+            </ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Oksanen</surname><given-names>J</given-names></name><name name-style="western"><surname>Blanchet</surname><given-names>FG</given-names></name><name name-style="western"><surname>Kindt</surname><given-names>R</given-names></name><name name-style="western"><surname>Legendre</surname><given-names>P</given-names></name><name name-style="western"><surname>O'Hara</surname><given-names>RB</given-names></name><name name-style="western"><surname>Simpson</surname><given-names>GL</given-names></name><name name-style="western"><surname>Solymos</surname><given-names>P</given-names></name><name name-style="western"><surname>Henry</surname><given-names>M</given-names></name><name name-style="western"><surname>Stevens</surname><given-names>H</given-names></name><name name-style="western"><surname>Wagner</surname><given-names>H</given-names></name></person-group> (<year>2011</year>)<source> [Vegan: Community Ecology Package. R package version 1.17–9. available from: <ext-link ext-link-type="uri" xlink:href="http://CRAN.R-project.org/package=vegan">http://CRAN.R-project.org/package=vegan</ext-link>]
+</source></mixed-citation>
+            </ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Paquin</surname><given-names>P</given-names></name></person-group> (<year>2008</year>)<article-title> Carabid beetle (Coleoptera: Carabidae) diversity in the black spruce succession of Eastern Canada.</article-title> <source>Biological Conservation </source> <volume>141</volume>: <fpage>261</fpage>-<lpage>275</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2007.10.001" xlink:type="simple">doi: 10.1016/j.biocon.2007.10.001</ext-link></mixed-citation>
+            </ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pearce</surname><given-names>JL</given-names></name><name name-style="western"><surname>Venier</surname><given-names>LA</given-names></name></person-group> (<year>2006</year>)<article-title> The use of ground beetles (Coleoptera: Carabidae) and spiders (Araneae) as bioindicators or sustainable forest management: A review.</article-title> <source>Ecological Indicators </source> <volume>6</volume>: <fpage>780</fpage>-<lpage>793</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ecolind.2005.03.005" xlink:type="simple">doi: 10.1016/j.ecolind.2005.03.005</ext-link></mixed-citation>
+            </ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pearce</surname><given-names>JL</given-names></name><name name-style="western"><surname>Venier</surname><given-names>LA</given-names></name><name name-style="western"><surname>McKee</surname><given-names>J</given-names></name><name name-style="western"><surname>Pedlar</surname><given-names>J</given-names></name><name name-style="western"><surname>McKenny</surname><given-names>D</given-names></name></person-group> (<year>2003</year>)<article-title> Influence of habitat and microhabitat on carabid (Coleoptera: Carabidae) assemblages in four stand types.</article-title> <source>The Canadian Entomologist </source> <volume>135</volume> (<issue>3</issue>): <fpage>337</fpage>-<lpage>357</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/n02-031" xlink:type="simple">doi: 10.4039/n02-031</ext-link></mixed-citation>
+            </ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Perry</surname><given-names>DA</given-names></name><name name-style="western"><surname>Oren</surname><given-names>R</given-names></name><name name-style="western"><surname>Hart</surname><given-names>SC</given-names></name></person-group> (<year>2008</year>)<source> Forest Ecosystems, Second Edition.</source> <publisher-name>John Hopkins University Press</publisher-name>, <publisher-loc>Baltimore</publisher-loc>, <lpage>632</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rainio</surname><given-names>J</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name></person-group> (<year>2003</year>)<article-title> Ground beetles (Coleoptera: Carabidae) as bioindicators.</article-title> <source>Biodiversity and Conservation </source> <volume>12</volume> (<issue>3</issue>): <fpage>487</fpage>-<lpage>506</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1022412617568" xlink:type="simple">doi: 10.1023/A:1022412617568</ext-link></mixed-citation>
+            </ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>R Development Core</surname><given-names>Team</given-names></name></person-group> (<year>2010</year>)<source> R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.  [available from: <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link>]
+</source></mixed-citation>
+            </ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sirois</surname><given-names>L</given-names></name></person-group> (<year>1997</year>)<article-title> Distribution and dynamics of balsam fir (Abies balsamea [L.] Mill.) at its northern limit in the James Bay area.</article-title> <source>Écoscience </source> <volume>4</volume>: <fpage>340</fpage>-<lpage>352</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Southwood</surname><given-names>TRE</given-names></name><name name-style="western"><surname>Moran</surname><given-names>VC</given-names></name><name name-style="western"><surname>Kennedy</surname><given-names>CEJ</given-names></name></person-group> (<year>1982</year>)<article-title> The Richness, Abundance and Biomass of the Arthropod Communities on Trees.</article-title> <source>Journal of Animal Ecology </source> <volume>51</volume> (<issue>2</issue>): <fpage>635</fpage>-<lpage>649</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3988" xlink:type="simple">doi: 10.2307/3988</ext-link></mixed-citation>
+            </ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Langor</surname><given-names>DW</given-names></name><name name-style="western"><surname>Jacobs</surname><given-names>JM</given-names></name><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Volney</surname><given-names>WJ</given-names></name></person-group> (<year>2008</year>)<article-title> Conservation of forest-dwelling arthropod species: simultaneous management of many heterogeneous risks.</article-title> <source>The Canadian Entomologist </source> <volume>140</volume>: <fpage>510</fpage>-<lpage>525</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/n07-LS05" xlink:type="simple">doi: 10.4039/n07-LS05</ext-link></mixed-citation>
+            </ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Langor</surname><given-names>DW</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Cárcamo</surname><given-names>HC</given-names></name><name name-style="western"><surname>Currie</surname><given-names>CR</given-names></name></person-group> (<year>1996</year>)<article-title> Northern forestry and carabids: the case for concern about old growth species.</article-title> <source>Annales Zoologici Fennici </source> <volume>33</volume>: <fpage>173</fpage>-<lpage>184</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent126881-3" xlink:type="simple">doi: 10.4039/Ent126881-3</ext-link></mixed-citation>
+            </ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name></person-group> (<year>1994</year>)<source> Sampling carabid assemblages with pitfall traps: the madness and the method. The Canadian Entomologist 126: 881–894.</source></mixed-citation>
+            </ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spurr</surname><given-names>SH</given-names></name></person-group> (<year>1960</year>)<source> Photogrammetry and photo-interpretation, Second edition.</source> <publisher-name>The Ronald Press Company</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>472</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Jacobs</surname><given-names>JM</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Volney</surname><given-names>WJ</given-names></name></person-group> (<year>2010</year>)<article-title> High levels of green-tree retention are required to preserve ground beetle biodiversity in boreal mixedwood forests.</article-title> <source>Ecological Applications </source> <volume>20</volume>: <fpage>741</fpage>-<lpage>751</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1890/08-1463.1" xlink:type="simple">doi: 10.1890/08-1463.1</ext-link></mixed-citation>
+            </ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Koivula</surname><given-names>M</given-names></name><name name-style="western"><surname>Klimaszewski</surname><given-names>J</given-names></name><name name-style="western"><surname>Langor</surname><given-names>D</given-names></name><name name-style="western"><surname>Spence</surname><given-names>J</given-names></name><name name-style="western"><surname>Sweeney</surname><given-names>J</given-names></name><name name-style="western"><surname>Hébert</surname><given-names>C</given-names></name></person-group> (<year>2008</year>)<article-title> Evaluation of carabid beetles as indicators of forest change in Canada.</article-title> <source>The Canadian Entomologist </source> <volume>140</volume>: <fpage>393</fpage>-<lpage>414</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/n07-LS07" xlink:type="simple">doi: 10.4039/n07-LS07</ext-link></mixed-citation>
+            </ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Shorthouse</surname><given-names>DP</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Volney</surname><given-names>WJ</given-names></name><name name-style="western"><surname>Langor</surname><given-names>DW</given-names></name></person-group> (<year>2004</year>)<article-title> Stand composition and structure of the boreal mixedwood and epigaeic arthropods of the Ecosystem Management Emulating Natural Disturbance (EMEND) landbase in northwestern Alberta.</article-title> <source>Canadian Journal of Forest Research </source> <volume>34</volume>: <fpage>417</fpage>-<lpage>430</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/x03-238" xlink:type="simple">doi: 10.1139/x03-238</ext-link></mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

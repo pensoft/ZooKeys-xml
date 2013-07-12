@@ -1,0 +1,891 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.261.4269</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Gastrocopta</italic> (Mollusca, Gastropoda, Pupillidae) in the Pilbara region of Western Australia
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Whisson</surname>
+                        <given-names>Corey S.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Köhler</surname>
+                        <given-names>Frank</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Western Australian Museum, Locked Bag 49, Welshpool, WA 6106
+            </aff>
+            <aff id="A2">
+                <label>2</label>Australian Museum, 6 College Street, Sydney, NSW 2010
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Corey S. Whisson (<email xlink:type="simple">corey.whisson@museum.wa.gov.au</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: E. Neubert</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>24</day>
+                <month>1</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>261</issue>
+            <fpage>15</fpage>
+            <lpage>39</lpage>
+            <history>
+                <date date-type="received">
+                    <day>8</day>
+                    <month>11</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>20</day>
+                    <month>12</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Corey S. Whisson, Frank Köhler</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Six species of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> have been identified from the Pilbara region, Western Australia, by means of comparative analyses of shell and mtDNA variation. Three of these species, <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic>, have been recorded in the Pilbara for the first time. <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 is probably new to science and might be endemic to the region. By contrast, <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> are shown to be widespread.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Australia</kwd>
+                <kwd>Pupilloidea</kwd>
+                <kwd>Pulmonata</kwd>
+                <kwd>16S</kwd>
+                <kwd>COI</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> Wollaston, 1878 is the most speciose pupillid genus in Australia with twelve recorded species (<xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>). Its members are found throughout most of Australia except for the humid south-west and south-east corners of the continent (<xref ref-type="bibr" rid="B24">Solem 1991</xref>; <xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>; <xref ref-type="bibr" rid="B26">Stanisic et al. 2010</xref>). The Australian taxa have most recently been revised based on comparative shell morphology by <xref ref-type="bibr" rid="B22">Solem (1986</xref>, <xref ref-type="bibr" rid="B23">1989</xref>) and <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref>. Both works disagree on some details, mainly the morphological separation of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> and the taxonomic distinctness within the size-variable <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> complex. Molecular studies that might help to resolve the taxonomic discrepancies have remained unavailable.
+            </p>
+            <p>Previous works have focussed mainly on the northern, eastern and southern parts of coastal Australia and to a lesser degree on the mid-west and central parts of Australia <!--PageBreak-->(<xref ref-type="bibr" rid="B18">Pilsbry 1917</xref>; <xref ref-type="bibr" rid="B11">Iredale 1939</xref>; <xref ref-type="bibr" rid="B22">Solem 1986</xref>, <xref ref-type="bibr" rid="B23">1989</xref>, <xref ref-type="bibr" rid="B24">1991</xref>; <xref ref-type="bibr" rid="B20">Slack-Smith 1993</xref>; <xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>; <xref ref-type="bibr" rid="B13">Köhler et al. 2012</xref>) while the fauna in Western Australian has remained poorly documented. In Western Australia most pupillid specimens have been collected along main roads of the more coastal areas and along major inland roads, but the interior of Western Australia has so far been widely neglected. Being of small size (maximum dimension less than 6mm) and cryptic in nature, pupillids are often ignored when documenting land snail diversity (<xref ref-type="bibr" rid="B15">Nekola 2009</xref>). The lack of specimens from inland areas of Western Australia has made it difficult to determine the relationships between west coastal specimens and those from central and eastern Australia.
+            </p>
+            <p><xref ref-type="bibr" rid="B18">Pilsbry (1917)</xref> in his world monograph on the subfamily <tp:taxon-name>Gastrocoptinae</tp:taxon-name> had little Australian material, except of a few types and vouchers received from Tate (from Central Australia) and Hedley (mostly from Eastern Australia). <xref ref-type="bibr" rid="B22">Solem (1986)</xref> was the first author to revise the Australian fauna more comprehensively. He examined the <tp:taxon-name>Pupillidae</tp:taxon-name> from the south and mid-west coasts of Western Australia and later (<xref ref-type="bibr" rid="B23">Solem 1989</xref>) the non-camaenid families (including <tp:taxon-name>Pupillidae</tp:taxon-name>) from the Kimberley, Northern Territory and Red Centre regions. A second major revision by <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> extended the area of review in Western Australia only slightly, because only a small amount of additional material from the Western Australian Museum was studied (just 9 lots) and probably because the collection was little expanded since <xref ref-type="bibr" rid="B22">Solem (1986)</xref> examined the collections.
+            </p>
+            <p>Since Pokryszko’s (<xref ref-type="bibr" rid="B19">1996</xref>) revision, the Western Australian Museum collection of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> in the Pilbara region has greatly expanded. Most of this collecting has been associated with expanding mineral operations in the region and improved vehicle access to remote areas. A Western Australian Museum fieldtrip during August 2009 visited the eastern Pilbara area, collected macro- and micro- non-marine molluscs and significantly increased the pupillid collection in that region.
+            </p>
+            <p>This paper (1) presents new data on <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> in the Pilbara, establishing new records and range extensions; (2) tests the taxonomic significance of morphological characters commonly used for the identification and delimitation of species by using a mitochondrial phylogeny; (3) provides comparative remarks on shell morphology of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species; (4) indicates systematic issues that require clarification by further studies. For detailed comparative analyses of shell characters we refer to <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> and <xref ref-type="bibr" rid="B22">Solem (1986</xref>, <xref ref-type="bibr" rid="B23">1989</xref>).
+            </p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>All <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> material from the Pilbara in the malacological collections of the Western Australian Museum was examined. Additional specimens from the private collection of Mr Vince Kessner and from the collection of the Field Museum of Natural History, Chicago were also included. In total 545 <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> lots were studied with distributional maps being plotted by use of the online vector map software available at <ext-link ext-link-type="uri" xlink:href="http://www.planiglobe.com" xlink:type="simple">www.planiglobe.com</ext-link>.
+            </p>
+            <p>Species identifications were based on shell characters, with particular emphasise on the size, shape and quantity of apertural barriers. Specimens were photographed <!--PageBreak-->and measured using a Leica MZ16A microscope with Leica DFC500 camera. DNA was extracted from entire specimens taken from their shell by use of a QIAGEN DNA extraction kit for animal tissue following the standard procedure of the manual. Fragments of the mitochondrial 16S rRNA (16S) and of the COI genes were amplified by PCR using the primer pairs: 16Sar and 16Sbr (<xref ref-type="bibr" rid="B17">Palumbi et al. 1991</xref>), and L1490 and H2198 (<xref ref-type="bibr" rid="B3">Folmer et al. 1994</xref>), respectively. Reactions were performed under standard conditions with an annealing step of 60 s at 55 °C for 16S and at 50 °C for COI. Both strands of purified PCR fragments were cycle sequenced by use of the PCR primers. Electropherograms were manually corrected for misreads, if necessary, and forward and reverse strands were merged into one sequence file using CodonCode Aligner v. 3.6.1 (CodonCode Corporation, Dedham, MA). Sequences have been deposited in GenBank (CO1: KC143966-KC143993, 16S: KC143994-KC144020). Sequence alignments were generated using MUSCLE as implemented in MEGA5 (<xref ref-type="bibr" rid="B28">Tamura et al. 2011</xref>). Uncorrected pair-wise genetic distances were calculated using MEGA5 under the option ‘pair-wise deletion of gaps’. Prior to the model-based phylogenetic analyses, the best-fit model of nucleotide substitution was identified for each gene fragment using the model proposal function of MEGA5. To infer phylogenetic relationships, we performed Maximum Likelihood (ML) analyses using MEGA5 with Nearest-Neighbor-Interchange (NNI) as heuristic method and automatic generation of the initial tree. Two-hundred ML bootstrap replicates were performed to assess the topology support.
+            </p>
+            <p>Abbreviations used for depositories of material are: FMNH, Field Museum of Natural History, Chicago, United States; VK, Vince Kessner Private Collection, Adelaide River, Australia; WAM, Western Australian Museum, Perth, Australia. For shell aperture barrier terminology we followed <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref>, reproduced here in <xref ref-type="fig" rid="F1">Fig. 1</xref>.
+            </p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1. </label>
+                <caption><p>Apertural barriers of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> (clockwise in aperture). <bold>IPAR</bold> Infraparietal Tooth <bold>PAR</bold> Parietoangular Tooth <bold>ANG</bold> Angular Tooth <bold>SPAL</bold> Suprapalatal Tooth <bold>UPAL</bold> Upper Palatal Tooth <bold>INP</bold> Interpalatal Tooth <bold>LPAL</bold> Lower Palatal Tooth <bold>IPAL</bold> Infrapalatal Tooth <bold>BAS</bold> Basal Tooth <bold>COL</bold> Columellar Tooth.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-261-015-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Taxonomic part">
+            <title>Taxonomic part</title>
+            <p>Six species of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> were recorded from the Pilbara region (<xref ref-type="table" rid="T1">Table 1</xref>). Four species are endemic to Australia, one species is introduced and one species requires further investigation (<italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1). Another species, <italic><tp:taxon-name>Gastrocopta bannertonensis</tp:taxon-name></italic> was only collected from the inner mid-west region of Western Australia and was not discussed in this paper.
+            </p>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Mean maximum shell height and width of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species from the Pilbara region.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Species</bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold>N</bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold>Mean max. shell height (mm)</bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold>Mean max. shell width (mm)</bold>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic>
+                            </td>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">2.273</td>
+                            <td rowspan="1" colspan="1">1.115</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> (Kalgan Pool)
+                            </td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">2.311</td>
+                            <td rowspan="1" colspan="1">1.042</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> (ovate)
+                            </td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">2.278</td>
+                            <td rowspan="1" colspan="1">1.251</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> (cylindrical)
+                            </td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">2.212</td>
+                            <td rowspan="1" colspan="1">1.064</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>
+                            </td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">2.017</td>
+                            <td rowspan="1" colspan="1">1.014</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (Pilbara)
+                            </td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">2.128</td>
+                            <td rowspan="1" colspan="1">0.955</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (SWA)
+                            </td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">2.466</td>
+                            <td rowspan="1" colspan="1">1.128</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1
+                            </td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1"> 1.664</td>
+                            <td rowspan="1" colspan="1"> 0.895</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic>
+                            </td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">2.255</td>
+                            <td rowspan="1" colspan="1">1.070</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>1.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gastrocopta</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">hedleyi</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Gastrocopta_hedleyi</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Pilsbry, 1917</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F2">Fig. 2B</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916-1918]: 166-167, pl. 27, figs 1–4; <xref ref-type="bibr" rid="B24">Solem 1991</xref>: 250; <xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>: 1104, fig. 18; <xref ref-type="bibr" rid="B25">Stanisic 1998</xref>: fig. 17.42e; <xref ref-type="bibr" rid="B26">Stanisic et al. 2010</xref>: 102–103.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula hedleyi</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1937a</xref>: 301.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type locality">
+                    <title>Type locality.</title>
+                    <p>Narrabri, New South Wales.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>Western Australia: Abydos (64km W of Marblebar): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1343°S, 119.1259°E</named-content> (WAM S64439). Burrup Peninsula: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6080°S, 116.7670°E</named-content> (WAM S60089); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6141°S, 116.7548°E</named-content> (WAM S60226); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6066°S, 116.7681°E</named-content> (WAM S60227); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.5833°S, 116.8000°E</named-content> (WAM S60228, WAM S60230, WAM S60349, WAM S61117-21); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6102°S, 116.7607°E</named-content> (WAM S60353); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6232°S, 116.7784°E</named-content> (WAM S60402); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6166°S, 116.7833°E</named-content> (WAM S60475); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6119°S, 116.7587°E</named-content> (WAM S60477); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6238°S, 116.7777°E</named-content> (WAM S60480); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6300°S, 116.7800°E</named-content> (WAM S65167); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.5858°S, 116.8044°E</named-content> (WAM S65168). Cloud Break area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2997°S, 119.3737°E</named-content> (WAM S60416). Hope Downs: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0865°S, 119.3184°E</named-content> (WAM S42661); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0379°S, 119.2124°E</named-content> (WAM S42663); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0952°S, 119.2022°E</named-content> (WAM S59553); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1030°S, 119.2917°E</named-content> (WAM S59555). Kalgan <!--PageBreak-->Pool area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1872°S, 119.6958°E</named-content> (WAM S58079); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1877°S, 119.6965°E</named-content> (WAM S58091). Kangeenarina Gorge: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0588°S, 117.8549°E</named-content> (WAM S60085). Karajini National Park: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4782°S, 118.5598°E</named-content> (WAM S65307); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9797°S, 118.5891°E</named-content> (WAM S65310); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8446°S, 118.5403°E</named-content> (WAM S65314); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3714°S, 118.2989°E</named-content> (WAM S65336). Marillana Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4285°S, 119.2043°E</named-content> (WAM S81440). Mount Brockman area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4815°S, 117.2384°E</named-content> (WAM S83560). Mt Farquhar area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4815°S, 116.8108°E</named-content> (WAM S83564); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4932°S, 116.8679°E</named-content> (WAM S83586). Nullagine area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3848°S, 119.9696°E</named-content> (WAM S58093); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3210°S, 119.4442°E</named-content> (WAM S80958). Orebody 35°E(ca. 8km W of Newman): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4047°S, 119.6052°E</named-content> (WAM S64713); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3943°S, 119.6316°E</named-content> (WAM S64715-6, WAM S64718, WAM S64734, WAM S64753); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4108°S, 119.5715°E</named-content> (WAM S64720); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3994°S, 119.5843°E</named-content> (WAM S64722); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4045°S, 119.6211°E</named-content> (WAM S64726); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4182°S, 119.5847°E</named-content> (WAM S64730, WAM S64744); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4049°S, 119.6052°E</named-content> (WAM S64732); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4045°S, 119.6247°E</named-content> (WAM S64735); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4049°S, 119.6053°E</named-content> (WAM S64737, WAM S64747); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4003°S, 119.6524°E</named-content> (WAM S64740); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4137°S, 119.5826°E</named-content> <!--PageBreak-->(WAM S64741); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4029°S, 119.6021°E</named-content> (WAM S64742); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4003°S, 119.5721°E</named-content> (WAM S64745); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3947°S, 119.5913°E</named-content> (WAM S64750). ca. 35km E of Paraburdoo: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1300°S, 117.8984°E</named-content> (WAM S41446); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1663°S, 117.9484°E</named-content> (WAM S41447); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1670°S, 117.9597°E</named-content> (WAM S41448). ca. 7.07.5km NW of Tom Price: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6500°S, 117.7185°E</named-content> (WAM S42668); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6423°S, 117.7451°E</named-content> (WAM S42672). Phil’s Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7319°S, 119.1940°E</named-content> (WAM S59376). Sulphur Springs: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1475°S, 119.2269°E</named-content> (WAM S60229). Wonmunna: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1216°S, 119.0498°E</named-content> (WAM S65971); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1428°S, 119.0099°E</named-content> (WAM S65976); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1266°S, 119.0470°E</named-content> (WAM S65992, WAM S81027, WAM S81085); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1255°S, 119.0797°E</named-content> (WAM S80937); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1287°S, 119.0904°E</named-content> (WAM S80938); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1393°S, 119.0182°E</named-content> (WAM S80939); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1220°S, 119.0611°E</named-content> (WAM S80941); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1436°S, 119.0064°E</named-content> (WAM S81001, WAM S81073); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1185°S, 119.0649°E</named-content> (WAM S81004); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1592°S, 118.9928°E</named-content> (WAM S81025, WAM S81062); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1632°S, 118.9770°E</named-content> (WAM S81033, WAM S81054, WAM S81168, WAM S81176); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1615°S, 119.0020°E</named-content> (WAM S81048, WAM S811056); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1185°S, 119.0649°E</named-content> (WAM S81091); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1596°S, 118.9703°E</named-content> (WAM S81052); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1283°S, 119.0736°E</named-content> (WAM S81059); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1331°S, 119.0154°E</named-content> (WAM S81103); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1356°S, 119.0463°E</named-content> (WAM S81120); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1546°S, 118.9932°E</named-content> (WAM S81122); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1314°S, 119.0774°E</named-content> (WAM S81174). ca. 6km W of Wodgina Mine: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2383°S, 118.6519°E</named-content> (WAM S65895); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1348°S, 119.0338°E</named-content> (WAM S81074).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>This species has previously been recorded fromnorthern New South Wales and from scattered localities in northern Queensland (Cape York Peninsula), central Australia (Glen Helen area) and northern Western Australia (King Leopold Ranges) (<xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>). In addition, it is now recorded from the Hamersley Ranges, the Burrup Peninsula and a few isolated sites from approximately 100 km SSE of Port Hedland in the Pilbara region (<xref ref-type="fig" rid="F3">Figure 3</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative morphology">
+                    <title>Comparative morphology.</title>
+                    <p><italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> shellsare slightly smaller (shorter) than those of other <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species (excluding <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1) recorded from the Pilbara. They typically have (1) a large, usually rounded (sometimes acute) columellar tooth that is drooping at the anterior end (2) a high, strongly convergent upper palatal tooth (3) a long, high, strongly twisted parietoangular tooth that usually comes in close proximity to the upper palatal tooth (4) a prominent infraparietal tooth that is sometimes prolonged as thin ridge on parietal wall (5) often a strong basal tooth (6) very occasionally with a weak interpalatal tooth.
+                    </p>
+                    <p>Some <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> shells (particularly more elongate specimens) can be difficult to separate from the ovate form of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> but (1) are smaller (slender) when sympatric (2) have a less rounded body whorl (3) have a more strongly sigmoid lower palatal tooth (4) have a larger upper palatal tooth that is usually strongly convergent with the lower palatal (5) have a longer, more strongly twisted parietoangular tooth (6) have a larger, more rounded columellar tooth that is usually drooping at the anterior end .
+                    </p>
+                    <p>The cylindrical form of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> is also very similar to <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> but (1) has a lower, shorter and less twisted parietoangular tooth (usually at 45<sup>o</sup> angle in apertural <!--PageBreak-->view) (2) has a shorter and less sigmoid (usually straight) lower palatal tooth (3) generally lacks an infraparietal tooth (4) has a smaller upper palatal tooth (occasionally slightly convergent with lower palatal) (5) has a more acutely angled, slanted columellar tooth, rarely drooping at the anterior end.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>There is considerable variation in the shell size and barrier length of specimens identified as <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> during this study. Many specimens grouped as <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> from the eastern Hamersley Range (eg. Wonmunna, Kalgan Pool) have reduced barriers and often a lower parietoangular tooth (nearing 45<sup>o</sup> angle in apertural view) but a large series shows a progression to shells that typically possess a large, strongly convergent upper palatal tooth and a strongly twisted parietoangular tooth.
+                    </p>
+                    <p><xref ref-type="bibr" rid="B23">Solem (1989)</xref> mentioned that <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> was somewhat similar to <italic><tp:taxon-name>Gastrocopta pilbarana</tp:taxon-name></italic>, although in that case he was actually referring to the ovate form of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> (see section on <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>).
+                    </p>
+                    <p>The abundance and seemingly allopatric nature of <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> on the Burrup Peninsula is intriguing. The large numbers are presumably related to its’ habitat requirement of either Fig tree, Cypress or Brigalow Stands among rocky substrates, and its’ preference for high calcium soils (<xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>). Away from the Burrup Peninsula, the distribution of <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> is somewhat patchy and is probably related to the isolated occurrence of its’ preferred vegetative structures among rocks as well as less alkaline soils.
+                    </p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species: <bold>A</bold> <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 (WAM S60408, Exmouth) <bold>B</bold> <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> Pilsbry, 1917 (WAM S61117, Burrup Peninsula) <bold>C–E</bold> <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> (Tate, 1896) <bold>C</bold> WAM S58005, Kalgan Pool <bold>D–E</bold> WAM S60368, Roy Hill Station <bold>F</bold> <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (Cox, 1868) (WAM S42834, Bateman Sanctuary); G <italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic> (Gould, 1843) (WAM S60237, Karratha) <bold>H–J</bold> <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> Pilsbry, 1917 <bold>H</bold> Ovate Form (WAM S42865, Roy Hill Station) <bold>I</bold> Cylindrical Form (WAM S59375, Phils` Creek) <bold>J</bold> Cylindrical Form (WAM S61070), Roy Hill Station) . (Scale Bar = 1mm).</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-261-015-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Distributional records of <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> Pilsbry, 1917 (○), <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (Cox, 1868) (▲) and <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 (♦) in the Pilbara region. Shaded: Protected area.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-261-015-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>2.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gastrocopta</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">larapinta</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Gastrocopta_larapinta</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Tate, 1896)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F2">Fig. 2C–E</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Pupa larapinta</tp:taxon-name><comment> <xref ref-type="bibr" rid="B30">Tate 1896</xref>: 205–206, pl. 19, figs 19a–b.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916–1918]: 168–171, pl. 30, figs 5–7,9–11; <xref ref-type="bibr" rid="B23">Solem 1989</xref>; 490–491, figs 54–55; <xref ref-type="bibr" rid="B24">1991</xref>: 249; <xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>: 1109–1110, figs 19, 22.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula larapinta</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1937a</xref>: 302; <xref ref-type="bibr" rid="B10">1937b</xref>: 10.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type locality">
+                    <title>Type locality.</title>
+                    <p>Central Australia.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>Western Australia: Cane River: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0298°S, 115.4296°E</named-content> (WAM S42993). Central Pilbara: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3855°S, 117.4667°E</named-content> (WAM S58492, WAM S65790); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3200°S, 117.6194°E</named-content> (WAM S65778); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2675°S, 117.7197°E</named-content> (WAM S65780); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1350°S, 117.4728°E</named-content> (WAM S58493); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.0216°S, 117.0560°E</named-content> (WAM S65817); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7506°S, 117.0096°E</named-content> (WAM S65797). Christmas Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4061°S, 119.7376°E</named-content> (WAM S65612); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3985°S, 119.7930°E</named-content> (WAM S65604). Cloud Break area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3210°S, 119.4442°E</named-content> (WAM S34453, WAM S80956); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2688°S, 119.3147°E</named-content> (WAM S61128); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3652°S, 119.3409°E</named-content> (WAM S65150); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3985°S, 119.4748°E</named-content> (WAM S65156); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3949°S, 119.5019°E</named-content> (WAM 65161); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3527°S, 119.4189°E</named-content> (WAM S65135). Collier Rocks: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.4071°S, 116.8514°E</named-content> (VK 30297). Cy Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8183°S, 114.0609°E</named-content> (WAM S34381). Du Boulay Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1833°S, 116.1833°E</named-content> (WAM S34569). Fortescue Marsh area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2930°S, 119.0606°E</named-content> (WAM S61996-7); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4646°S, 119.7726°E</named-content> (WAM S64651, WAM S64654); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4430°S, 119.7785°E</named-content> (WAM S64649); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4252°S, 119.7235°E</named-content> (WAM S64635); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3125°S, 119.2348°E</named-content> (WAM S64634, WAM S64637); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2875°S, 119.1701°E</named-content> (WAM S64650); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2822°S, 119.1276°E</named-content> (WAM S42923, WAM S64644, WAM S64652, WAM S64694). Hope Downs: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1030°S, 119.5821°E</named-content> (WAM S59298); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0919°S, 119.1875°E</named-content> (WAM S59550). Jimblebar: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3693°S, 120.1958°E</named-content> (WAM S41346). Kalgan Pool area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1877°S, 119.6965°E</named-content> (WAM S58005); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1874°S, 119.6957°E</named-content> (WAM S80939). Koodaideri Corridor West (90.4km NW of Tom Price): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.8833°S, 117.7000°E</named-content> (WAM S83434). Marillana Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6260°S, 119.2834°E</named-content> (WAM S34638); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5840°S, 119.3114°E</named-content> (WAM S34632, WAM S34472); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5739°S, 119.2562°E</named-content> (WAM S34474); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5666°S, 119.2327°E</named-content> (WAM S34637); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5663°S, 119.2308°E</named-content> (WAM S34633); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6013°S, 119.2913°E</named-content> (WAM S80924); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5625°S, 119.2311°E</named-content> (WAM S80908); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1269°S, 119.2123°E</named-content> (WAM S80911); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4080°S, 119.0067°E</named-content> (WAM S80914); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4285°S, 119.2043°E</named-content> (WAM S8143940); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3476°S, 119.1518°E</named-content> (WAM S81433); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4295°S, 119.1923°E</named-content> (WAM S81446). Millstream National Park: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2000°S, 117.2667°E</named-content> (WAM S60343); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6000°S, 117.1000°E</named-content> (WAM S 61044); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.5833°S, 117.1000°E</named-content> (WAM S 61048); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.5833°S, 117.0833°E</named-content> (WAM S60944-5); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.5833°S, 117.0667°E</named-content> (WAM S 60947); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.4255°S, 117.0535°E</named-content> (WAM S81213); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2039°S, 117.0440°E</named-content> (WAM S81267). ca. 30km NNE of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1164°S, 119.8865°E</named-content> (WAM S64469). ca. 65km NW of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9169°S, 119.2128°E</named-content> (WAM S80937). ca. 108118km N of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3132°S, 119.8599°E</named-content> (WAM S65534, <!--PageBreak-->WAM S65673); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3134°S, 119.7886°E</named-content> (WAM S65646); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2972°S, 119.8633°E</named-content> (WAM S65530, WAM S65682); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2954°S, 119.8109°E</named-content> (WAM S65652). North Star Mine: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2284°S, 119.0386°E</named-content> (WAM S65720); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2104°S, 118.8769°E</named-content> (WAM S65723). Phil’s Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7412°S, 119.1959°E</named-content> (WAM S59388, WAM S80934); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7320°S, 119.1836°E</named-content> (WAM S59374). ca. 100km S of Port Hedland: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6066°S, 119.5016°E</named-content> (WAM S80942). ca. 200km SSE of Port Hedland: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1554°S, 119.0216°E</named-content> (WAM S83486). Robe River area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.8063°S, 116.0774°E</named-content> (WAM S42832). 6km SW of Redmont Airport: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0195°S, 118.9816°E</named-content> (WAM S83423). NNE of Rocklea Homestead: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7882°S, 117.4974°E</named-content> (WAM S80977). Roy Hill Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4898°S, 119.8951°E</named-content> (WAM S34703); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4547°S, 119.8709°E</named-content> (WAM S42924, WAM S60428-9, WAM S65389); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4943°S, 119.9217°E</named-content> (WAM S60359, WAM S60368, WAM S60373, WAM S60378); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5383°S, 119.9424°E</named-content> (WAM S42831, WAM S42833, WAM S60232, WAM S60857, WAM S60861); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4793°S, 119.9420°E</named-content> (WAM S42925, WAM S60363, WAM S60426, WAM S60853, WAM S60860); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6394°S, 119.9642°E</named-content> (WAM S60398); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5769°S, 119.9952°E</named-content> (WAM S603667, WAM S608545, WAM S60859); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5771°S, 120.0247°E</named-content> (WAM S60422); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7058°S, 119.7082°E</named-content> (WAM S60392); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6430°S, 119.9599°E</named-content> (WAM S60396); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6076°S, 119.9826°E</named-content> (WAM S60388); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6593°S, 119.9198°E</named-content> (WAM S60397); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6642°S, 119.9458°E</named-content> (WAM S61066, WAM S61069); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6431°S, 119.9642°E</named-content> (WAM S61075, WAM S61077); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6225°S, 119.9634°E</named-content> (WAM S610723); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5050°S, 119.9143°E</named-content> (WAM S64455). Running Waters (east of Nullagine): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6819°S, 121.1254°E</named-content> (WAM S58039, WAM S58050); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6806°S, 121.1261°E</named-content> (WAM S58032). 15km W of Shaw River Airport: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6123°S, 119.2642°E</named-content> (WAM S83412). Wonmunna: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1220°S, 119.0611°E</named-content> (WAM S81087, WAM S81182); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1356°S, 119.0463°E</named-content> (WAM S81107, WAM S81125, WAM S81164); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1216°S, 119.0498°E</named-content> (WAM S81096); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1201°S, 119.0484°E</named-content> (WAM S65993, WAM S80904). ca. 18-23km SE of Wodgina Mine: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2273°S, 118.8336°E</named-content> (WAM S646089); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2871°S, 118.8671°E</named-content> (WAM S64604, WAM S64616). ca. 20km NNE of Wodgina Mine: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.0260°S, 118.7024°E</named-content> (WAM S64610). Yule River area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6961°S, 118.8604°E</named-content> (WAM S83372).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>This species has previously been recorded fromcentral Australia (southern part of Northern Territory) with fewer records in north-western Queensland (Gregory River Basin); eastern coast of Queensland and a single record from the Oscar Ranges, in the southern Kimberley region of Western Australia (<xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>). In addition, it is now recorded from throughout most of the Pilbara region, but is surprisingly absent from near coastal areas and islands (<xref ref-type="fig" rid="F4">Figure 4</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative morphology">
+                    <title>Comparative morphology.</title>
+                    <p>The shells of typical <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> specimens are distinguished from most other <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species in the Pilbara by (1) their large size (2) usually the presence of three solid palatal teeth (the interpalatal tooth varying from a tiny callus to large tooth) (3) a short, solid parietoangular tooth that is usually deflected or curved moderately toward the columellar wall so that its anterior end is somewhat vertical in the apertural view (4) a long angular tooth that is generally fused (or connected via a translucent callus) to the parietoangular tooth, occasionally separate (particularly those that lack or have a small interpalatal tooth) (5) smaller, more rounded <!--PageBreak-->columellar tooth that curves or angles abruptly toward the columellar wall (6) usually the presence of an infraparietal tooth or basal tooth (or both).
+                    </p>
+                    <p>Typical <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> shells with a small interpalatal tooth (or very occasionally no interpalatal tooth) appear considerably more variable in apertural barrier structure (particularly in high calcareous soils), making their separation from the cylindrical and elongate-ovate forms of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> difficult. As such the following separation is tentative. <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> shells are typically (1) slightly to moderately larger (obese) (2) have a slightly smaller, more rounded columellar tooth (3) usually a much shorter parietoangular tooth that is positioned lower in apertural view (4) generally possesses an infraparietal tooth (5) often a slightly lower, less convergent upper palatal tooth (6) usually a less sigmoid lower palatal tooth.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>The separation of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> (small or no interpalatal tooth) with the cylindrical and elongate-ovate forms of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> has proved extremely difficult and a more detailed molecular study is required to resolve this issue. <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> separated these <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> specimens from cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> based on shell size (smaller) and columellar tooth angle (less acute). However, from the small genetic data available and from examination of many shells, <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> shells were slightly, to moderately more obese.
+                    </p>
+                    <p>Some of those near west coast specimens (Cy Creek) included as cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> contained mixed lots of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>. Interestingly, Poykryszko had identified a few of these larger Cy Creek specimens as <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic>, but included those records as <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> in her publication. <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> also noted in a large lot of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> from central Australia (FMNH 201570) that some of the ovate <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic><!--PageBreak--> were quite large (many having an interpalatal tooth) but we consider most of those to be <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> with a small or no interpalatal tooth <italic>(</italic>see <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> section<italic>)</italic>.
+                    </p>
+                    <p>It is possible <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> was alluding to a slender form of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> when separating cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> (no interpalatal tooth) but this does not reflect accurately in her identifications. During this study specimens from Kalgan Pool (WAM S58005) were unexpectedly grouped within the <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> clade. These specimens, although slightly more slender, have proven difficult to separate from cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> specimens identified by <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> as they (1) have a high, long, lamellate parietoangular tooth (2) have a separated angular tooth (3) have a slightly rounded to angled columellar tooth and (4) lack an infraparietal tooth. They may prove to be a subspecies of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and in this sense, Pokryszkos’ (<xref ref-type="bibr" rid="B19">1996</xref>) separation of cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> (no interpalatal tooth) was correct.
+                    </p>
+                    <p>As there is doubt surrounding the distinguishing morphological characters of cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> shells with a small or no interpalatal tooth, the above separation is tentative and a more detailed genetic investigation is required.
+                    </p>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p>Distributional records of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> (Tate, 1896) (●) and <italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic> (Gould, 1843) (Δ) in the Pilbara region. Shaded: Protected area.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-261-015-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>3.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gastrocopta</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">margaretae</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Gastrocopta_margaretae</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Cox, 1868)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F2">Fig. 2F</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Pupa margaretae</tp:taxon-name><comment> <xref ref-type="bibr" rid="B2">Cox 1868</xref>: 80, pl. 14, figs 20,20a.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Pupa wallabyensis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B21">Smith 1894</xref>: 97.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916–1918]: 160–161, pl. 26, figs 7–8; <xref ref-type="bibr" rid="B22">Solem 1986</xref>: 99–101, figs 8–9,11–12, <xref ref-type="bibr" rid="B24">1991</xref>: 249; <xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>: 1096–1099, figs 6, 8–10.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta tatei</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916–1918]: 165–166, pl. 26, figs 9–10, pl. 30, fig. 12; <xref ref-type="bibr" rid="B23">Solem 1989</xref>: 491–492, figs 56–59; <xref ref-type="bibr" rid="B24">1991</xref>: 249.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta wallabyensis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916–1918]: 171–172; <xref ref-type="bibr" rid="B22">Solem 1986</xref>: 101–102, figs 13–15; <xref ref-type="bibr" rid="B24">1991</xref>: 249.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula margaretae</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1937a</xref>: 302, <xref ref-type="bibr" rid="B10">1937b</xref>: 11, pl. 1, fig. 4.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula wallabyensis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1937a</xref>: 302.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula tatei</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1937a</xref>: 302, <xref ref-type="bibr" rid="B10">1937b</xref>: 10.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta pilbarana</tp:taxon-name><comment> <xref ref-type="bibr" rid="B22">Solem 1986</xref>: 103–104, figs 16–20; <xref ref-type="bibr" rid="B24">1991</xref>: 249.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type locality">
+                    <title>Type locality.</title>
+                    <p>Wallaroo, South Australia.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>Western Australia: Bateman Sanctuary: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0552°S, 113.8234°E</named-content> (WAM S42834). ~18km N of Boolathana Homestead: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.4133°S, 113.7445°E</named-content> (WAM S64708). Boolathana Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.4127°S, 113.7631°E</named-content> (WAM S64709). Bush Bay: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.1175°S, 113.8063°E</named-content> (WAM S42806); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.1316°S, 113.7681°E</named-content> (WAM S60355); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.1136°S, 113.7311°E</named-content> (WAM S64575); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.1175°S, 113.8063°E</named-content> (WAM S64577). Carrarang Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">26.1666°S, 113.3500°E</named-content> (WAM S34378). Cy Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1000°S, 113.8000°E</named-content> (WAM S34380). Dirk Hartog Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.7166°S, 113.0667°E</named-content> (WAM <!--PageBreak-->S14439); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.8333°S, 113.0500°E</named-content> (WAM S34398). Francois Peron National Park: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.9760°S, 113.5707°E</named-content> (WAM S60269); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.9758°S, 113.5706°E</named-content> (WAM S64706); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">25.8752°S, 113.5497°E</named-content> (WAM S61127). Lake Macleod area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.3449°S, 113.5194°E</named-content> (WAM S65084); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.3668°S, 113.5145°E</named-content> (WAM S65093); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.3544°S, 113.5098°E</named-content> (WAM S65102); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.4760°S, 113.5257°E</named-content> (WAM S65108); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.4598°S, 113.5013°E</named-content> (WAM S65110); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.3544°S, 113.5098°E</named-content> (WAM S65121). 0.25 miles W of Nichol Springs: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.1333°S, 118.4167°E</named-content> (WAM S60270). ~25 miles N of turn off to Shark Bay on NW Coastal Highway: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">26.0647°S, 114.3353°E</named-content> (WAM S34459, WAM S60271, WAM S64585). 0.5 miles W of 512 mile peg on NW Coastal Highway: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">26.1966°S, 114.3758°E</named-content> (WAM S34379). Quobba Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.4758°S, 113.4166°E</named-content> (WAM S42829); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.2448°S, 113.5353°E</named-content> (WAM S61125); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.1927°S, 113.4548°E</named-content> (WAM S64576); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.2233°S, 113.5036°E</named-content> (WAM S64707). Salutation Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">26.5333°S, 113.7667°E</named-content> (WAM S34377). Winderabandi Point: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4929°S, 113.7258°E</named-content> (WAM S60474). Zuytdorp: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">27.2636°S, 114.0703°E</named-content> (WAM S64710).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>This species has previously been recorded fromthe western and southern coastal areas of Western Australia, the southern regions of South Australia and the area near Alice Springs in the Northern Territory. There is also an isolated record from the King Leopold Range in the north of Western Australia (<xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>). In the Pilbara it is confined to the near west coast with an isolated inland record from the Ashburton River (<xref ref-type="fig" rid="F3">Figure 3</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative morphology">
+                    <title>Comparative morphology.</title>
+                    <p>Shells of <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> are easily distinguished from other <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species in the Pilbara by the presence of (1) a moderately to strongly folded columellar tooth (2) a generally large and transverse basal tooth (3) a high and long lower palatal tooth (4) an upper palatal tooth that is moderately to strongly convergent with the lower palatal (5) a weak to strong infraparietal tooth present.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p><xref ref-type="bibr" rid="B22">Solem (1986)</xref> maintained the separation of the west coast species <italic><tp:taxon-name>Gastrocopta wallabyensis</tp:taxon-name></italic> from the south coast <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> based on size (smaller) and length of apertural barriers (longer). He also described a new species, <italic><tp:taxon-name>Gastrocopta pilbarana</tp:taxon-name></italic>, from the west coast but his separation of it from <italic><tp:taxon-name>Gastrocopta wallabyensis</tp:taxon-name></italic> was vague. Solem later (<xref ref-type="bibr" rid="B23">1989</xref>) maintained the separation of the central Australian <italic><tp:taxon-name>Gastrocopta tatei</tp:taxon-name></italic> from the above species but remarked it was somewhat similar to the west coast <italic><tp:taxon-name>Gastrocopta wallabyensis</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> later disagreed, synonymising all species with <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic>.
+                    </p>
+                    <p>The few specimens sequenced from the south coast of Western Australia (WAM S32048, WAM S32052) could represent genetic isolation by distance or perhaps a different species from those on the west coast (WAM S42834) but more molecular data are required. The southern specimens are (1) much larger with reduced apertural barriers (2) more strongly rounded whorls (conical) and (3) consistently lack an infraparietal tooth. Specimens resembling the smaller west coast form (ie. long apertural barriers and weak to strong infraparietal tooth) have also been recorded from the south west area of Western Australia (Whisson, pers. comm.) where it is often sympatric with <italic><tp:taxon-name>Gastrocopta bannertonensis</tp:taxon-name></italic> (Gabriel, 1930). It is not known whether there is a continuous distribution between the two areas. Until more detailed molecular work is undertaken we have maintained Pokryszko’s (<xref ref-type="bibr" rid="B19">1996</xref>) systematic positions.
+                    </p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>4.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gastrocopta</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">mussoni</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Gastrocopta_mussoni</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Pilsbry, 1917</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F2">Fig. 2H–J</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta larapinta deserti</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916–1918]: 170–171, pl. 30, figs 1–3.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref> [in 1916–1918]: 167–168, pl. 27, figs 5–6; <xref ref-type="bibr" rid="B23">Solem 1989</xref>: 494, figs 211–213, <xref ref-type="bibr" rid="B24">1991</xref>: 249; <xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>: 1105–1109, figs 20–21; <xref ref-type="bibr" rid="B26">Stanisic et al. 2010</xref>: 102–103.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula helmsiana</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1939</xref>: 8, pl. 1, fig. 2.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Australbinula mussoni</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Iredale 1937a</xref>: 301.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta deserti</tp:taxon-name><comment> <xref ref-type="bibr" rid="B22">Solem 1986</xref>: 102–103, figs 13–15, <xref ref-type="bibr" rid="B23">1989</xref>: 487–490, figs 48–53, <xref ref-type="bibr" rid="B24">1991</xref>: 249; <xref ref-type="bibr" rid="B20">Slack-Smith 1993</xref>: 92.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type locality">
+                    <title>Type locality.</title>
+                    <p>Calliungal (=Mt Morgan), Queensland.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>Western Australia: Angelo River: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4331°S, 118.7329°E</named-content> (WAM S65935). Anketell Point area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6356°S, 117.0398°E</named-content> (WAM S59990); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6719°S, 117.0965°E</named-content> (WAM S599912); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7025°S, 117.0473°E</named-content> (WAM S80936). Area C: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9104°S, 118.9664°E</named-content> (WAM S60417). Barrow Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7833°S, 115.4000°E</named-content>°E (WAM S34384); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.8649°S, 115.4069°E</named-content>°E (WAM S34455); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6666°S, 115.4667°E</named-content> (WAM S42879, WAM S60847); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7921°S, 115.4573°E</named-content> (WAM S59636); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7858°S, 115.4573°E</named-content> (WAM S59637); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7997°S, 115.4403°E</named-content> (WAM S59640); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7069°S, 115.4194°E</named-content> (WAM S59642); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7866°S, 115.4547°E</named-content> (WAM S59644, WAM S60413); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7938°S, 115.4575°E</named-content> (WAM S59651); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.8644°S, 115.3428°E</named-content> (WAM S59652); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.8101°S, 115.4270°E</named-content> (WAM S60410); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6666°S, 115.4667°E</named-content> (WAM S42879, WAM S60847); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7977°S, 115.4064°E</named-content> (WAM S65123, WAM S65126, WAM S65127, WAM S65164); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7684°S, 115.4673°E</named-content> (WAM S65174). Cane River Conservation Park: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1694°S, 115.5606°E</named-content> (WAM S42961); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4321°S, 115.2895°E</named-content> (WAM S42967); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2685°S, 115.6470°E</named-content> (WAM S42974); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0975°S, 115.4942°E</named-content> (WAM S42976); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2075°S, 115.5260°E</named-content> (WAM S42981); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1451°S, 115.7249°E</named-content> (WAM S42987); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0298°S, 115.4296°E</named-content> (WAM S42992); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0131°S, 115.6325°E</named-content> (WAM S42998). Cape Preston area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.8435°S, 116.2016°E</named-content> (WAM S59141). Chichester Ranges: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0525°S, 118.9883°E</named-content> (WAM S60407); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0516°S, 118.9884°E</named-content> (WAM S42711, WAM S42713, WAM S42759); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1508°S, 119.0179°E</named-content> (WAM S42709); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0503°S, 118.9934°E</named-content> (WAM S42717); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1164°S, 119.8865°E</named-content> (WAM S64460). Christmas Creek area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4170°S, 119.8941°E</named-content> (WAM S65603); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4078°S, 119.8767°E</named-content> (WAM S65605); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4061°S, 119.7376°E</named-content> (WAM S65611). Cloud Break area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.3216°S, 119.4418°E</named-content> (WAM S34460); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3210°S, 119.4442°E</named-content> (WAM S42876, WAM S60403, WAM S80957); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3181°S, 119.3788°E</named-content> (WAM S60267); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2935°S, 119.3872°E</named-content> (WAM S61122); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2997°S, 119.3737°E</named-content> (WAM S61123); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2881°S, 119.2360°E</named-content> (WAM S<named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">65137°S, WAM S65143°S</named-content>, WAM S65153); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3251°S, 119.4458°E</named-content> (WAM S65139); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3527°S, 119.4189°E</named-content> (WAM S65144); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3652°S, 119.3409°E</named-content> (WAM S65148); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3894°S, 119.4380°E</named-content> (WAM S65155); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3985°S, 119.4748°E</named-content> (WAM S65157); <!--PageBreak--><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3949°S, 119.5019°E</named-content>  (WAM S65213). Cy Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8183°S, 114.0609°E</named-content> (WAM S34382). Dolphin Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.4833°S, 116.8500°E</named-content> (WAM S34385). Du Boulay Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1833°S, 116.1833°E</named-content> (WAM S34568). Finucane Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.2982°S, 118.5572°E</named-content> (WAM S16108). Fortescue Marsh area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2822°S, 119.1276°E</named-content> (WAM S42926, WAM S64694, WAM S646523); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2938°S, 119.0732°E</named-content> (WAM S61991); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5098°S, 119.1274°E</named-content> (WAM S61993°S, (WAM S61995); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2872°S, 119.0301°E</named-content> (WAM S646401, WAM S646556); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1322°S, 119.1983°E</named-content> (WAM S64684); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2924°S, 119.0279°E</named-content> (WAM S64687). East Hamersley Range: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8586°S, 119.6728°E</named-content> (WAM S42921); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6335°S, 119.3289°E</named-content> (WAM S64470). Hope Downs: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1474°S, 119.5191°E</named-content> (WAM S42662); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1030°S, 119.2917°E</named-content> (WAM S59548, WAM S59554); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0925°S, 119.2058°E</named-content> (WAM S59551); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0878°S, 119.1609°E</named-content> (WAM S59552). Jinayri area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9219°S, 119.2036°E</named-content> (WAM S42929); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0530°S, 119.2701°E</named-content> (WAM S59239, WAM S592412, WAM S59244); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0129°S, 119.2371°E</named-content> (WAM S59240, WAM S59243); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9058°S, 119.2000°E</named-content> (WAM S59576, WAM S59596); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9275°S, 119.1275°E</named-content> (WAM S59585); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9169°S, 119.2128°E</named-content> (WAM S59587); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9219°S, 119.2036°E</named-content> (WAM S59591); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0504°S, 119.2731°E</named-content> (WAM S60406). Kalgan Pool area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1877°S, 119.6965°E</named-content> (WAM S439823). Kangeenarina Gorge area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1186°S, 117.9427°E</named-content> (WAM S61763); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.8489°S, 117.3837°E</named-content> (WAM S81210). Karratha area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7166°S, 116.8500°E</named-content> (WAM S60412); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.4036°S, 116.9392°E</named-content> (WAM S81217). SE of Karratha: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.0698°S, 116.9702°E</named-content> (WAM S81241, WAM S81246); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.0300°S, 116.9997°E</named-content> (WAM S81252, WAM S81271); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.9853°S, 116.8811°E</named-content> (WAM S81268). Lake Macleod: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.3544°S, 113.5098°E</named-content> (WAM S65120). Marillana Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5840°S, 119.3114°E</named-content> (WAM S84075); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5663°S, 119.2308°E</named-content> (WAM S34473); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5497°S, 119.2147°E</named-content> (WAM S34476); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5851°S, 119.3142°E</named-content> (WAM S34478). <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5739°S, 119.2562°E</named-content> (WAM S34634, WAM S80940); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5538°S, 119.2283°E</named-content> (WAM S34635); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6260°S, 119.2834°E</named-content> (WAM S34639); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5625°S, 119.2311°E</named-content> (WAM S80907); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1269°S, 119.2123°E</named-content> (WAM S80910); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5625°S, 119.2311°E</named-content> (WAM S80913); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4080°S, 119.0067°E</named-content> (WAM S80916); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6376°S, 119.3744°E</named-content> (WAM S80917); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4285°S, 119.2043°E</named-content> (WAM S81437); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3182°S, 119.1175°E</named-content> (WAM S81442); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4295°S, 119.1923°E</named-content> (WAM S81444). Meentheena Outcamp: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2671°S, 120.4570°E</named-content> (WAM S58055); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2815°S, 120.4511°E</named-content> (WAM S58099); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2816°S, 120.4508°E</named-content> (WAM S58098). Millstream National Park: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6000°S, 117.1000°E</named-content> (WAM S42838, WAM S42931, WAM S61043); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.5833°S, 117.0833°E</named-content> (WAM S42839, WAM S60943); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.5833°S, 117.0667°E</named-content> (WAM S60946); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.4255°S, 117.0535°E</named-content> (WAM S81212); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1781°S, 117.0461°E</named-content> (WAM S81250); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2039°S, 117.0440°E</named-content> (WAM S81301, WAM S81296). Mount Brockman area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4815°S, 117.2384°E</named-content> (WAM S83561). Mt Farquhar area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4815°S, 116.8108°E</named-content> (WAM S83563). Muiron Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6666°S, 114.3333°E</named-content> (WAM S34383). Murray Hills: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1147°S, 118.5221°E</named-content> (WAM S59996). ~60km NW of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0530°S, 119.2701°E</named-content> (WAM S60235, WAM S60266, WAM S60405); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0878°S, 119.1609°E</named-content> (WAM S59549); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.0504°S, 119.2731°E</named-content> (WAM S60404, WAM S60411); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.9632°S, 119.2276°E</named-content> (WAM S42928, WAM S60233). ~112km <!--PageBreak-->NNE of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3621°S, 119.9691°E</named-content> (WAM S65650); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3132°S, 119.8599°E</named-content> (WAM S 65672); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3871°S, 119.9664°E</named-content> (WAM S 65694). ~110km N of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2954°S, 119.8109°E</named-content> (WAM S65638); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3132°S, 119.8599°E</named-content> (WAM S65672); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2972°S, 119.8633°E</named-content> (WAM S65683). ~70km S of Newman: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.7270°S, 119.7242°E</named-content> (WAM S58073). North Star: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2523°S, 118.8334°E</named-content> (WAM S65699); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1971°S, 118.8286°E</named-content> (WAM S65706, WAM S65710); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2681°S, 118.9682°E</named-content> (WAM S65713); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2104°S, 118.8769°E</named-content> (WAM S65718); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2104°S, 118.8769°E</named-content> (WAM S65719); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2319°S, 118.8263°E</named-content> (WAM S65728). Nullagine area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.8221°S, 120.3409°E</named-content> (WAM S61802). Orebody 35°E (ca. 8km W of Newman): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.4108°S, 119.5715°E</named-content> (WAM S64733); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3837°S, 119.6478°E</named-content> (WAM S64748); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3712°S, 119.6127°E</named-content> (WAM S64749); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3819°S, 119.6133°E</named-content> (WAM S64751); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.3970°S, 119.6138°E</named-content> (WAM S64752). West of Pannawonica: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.7000°S, 116.1667°E</named-content> (WAM S42805); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.8063°S, 116.0774°E</named-content> (WAM S60268); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.7202°S, 116.0705°E</named-content> (WAM S60414, WAM S61034); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6298°S, 116.0206°E</named-content> (WAM S60415). Point Quobba, near lighthouse: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">24.4797°S, 113.4178°E</named-content> (FMNH 201611); Phils` Creek area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7320°S, 119.1836°E</named-content> (WAM S 42878, WAM S 59372); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7316°S, 119.1931°E</named-content> (WAM S 59371, WAM S59375, WAM S59383); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7351°S, 119.1856°E</named-content> (WAM S59373); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7384°S, 119.1916°E</named-content> (WAM S59377); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7412°S, 119.1959°E</named-content> (WAM S59378); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7448°S, 119.1927°E</named-content> (WAM S59379); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7412°S, 119.1959°E</named-content> (WAM S59380); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7366°S, 119.1811°E</named-content> (WAM S59381); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7316°S, 119.1798°E</named-content> (WAM S59382). ~40km S of Port Hedland: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.6095°S, 118.6661°E</named-content> (WAM S81404). NNE of Rocklea Homestead: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8101°S, 117.4734°E</named-content> (WAM S80990). Roy Hill Station: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6642°S, 119.9458°E</named-content> (WAM S34588); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4943°S, 119.9217°E</named-content> (WAM S42828, WAM SS60376); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4396°S, 119.9453°E</named-content> (WAM S42837); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4898°S, 119.8951°E</named-content> (WAM S42875, WAM S60234); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5383°S, 119.9424°E</named-content> (WAM S42927); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7058°S, 119.7082°E</named-content> (WAM S60393); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6347°S, 119.9698°E</named-content> (WAM S60394); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8174°S, 119.9473°E</named-content> (WAM S60395, WAM S60399); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5771°S, 120.0247°E</named-content> (WAM S60421, WAM S60866); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.4793°S, 119.9421°E</named-content> (WAM S60427); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5039°S, 120.0210°E</named-content> (WAM S60864); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5566°S, 119.9700°E</named-content> (WAM S60865); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7489°S, 119.9221°E</named-content> (WAM S61067); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.7195°S, 119.9395°E</named-content> (WAM S61068, WAM S61071); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6365°S, 119.9639°E</named-content> (WAM S61070); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6431°S, 119.9642°E</named-content> (WAM S61074, WAM S61076); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5050°S, 119.9042°E</named-content> (WAM S64448); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.5843°S, 120.0172°E</named-content> (WAM S64453).Running Waters (east of Nullagine): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6819°S, 121.1254°E</named-content> (WAM S58050); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.6815°S, 121.1270°E</named-content> (WAM S58059). W end of Telfer Road: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.3290°S, 121.1390°E</named-content> (WAM S58044). NW of Tom Price: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3734°S, 117.4631°E</named-content> (WAM S34566); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1350°S, 117.4728°E</named-content> (WAM S65775); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1519°S, 117.5428°E</named-content> (WAM S65781); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.2997°S, 117.6378°E</named-content> (WAM S65787); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.3855°S, 117.4667°E</named-content> (WAM S65788). Weeli Wolli Creek: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.6166°S, 119.4000°E</named-content> (WAM S60231). Near Wodgina Mine: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1831°S, 118.6569°E</named-content> (WAM S34567, WAM S65843, WAM S65869); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2871°S, 118.8671°E</named-content> (WAM S64618); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1789°S, 118.6463°E</named-content> (WAM S65841, WAM S65855); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.1737°S, 118.6503°E</named-content> (WAM S65844); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.2383°S, 118.6519°E</named-content> (WAM S65903). Wonmunna: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1436°S, 119.0064°E</named-content> (WAM S65977, WAM S81002, WAM S81026); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1355°S, 119.0384°E</named-content> <!--PageBreak-->(WAM S65983); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1596°S, 118.9703°E</named-content> (WAM S65979); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1632°S, 118.9770°E</named-content> (WAM S65985); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1615°S, 119.0020°E</named-content> (WAM S 65990); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1201°S, 119.0484°E</named-content> (WAM S65993); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1287°S, 119.0904°E</named-content> (WAM S 65996); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1283°S, 119.0736°E</named-content> (WAM S65998); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1268°S, 119.0673°E</named-content> (WAM S81032); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1309°S, 119.0689°E</named-content> (WAM S81036, WAM S81167); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1428°S, 119.0099°E</named-content> (WAM S81053); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1355°S, 119.0384°E</named-content> (WAM S81081); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1169°S, 119.0396°E</named-content> (WAM S81099); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1255°S, 119.0797°E</named-content> (WAM S81094); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1216°S, 119.0498°E</named-content> (WAM S81096, WAM S81171); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1393°S, 119.0182°E</named-content> (WAM S81104); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1210°S, 119.0632°E</named-content> (WAM S81109); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1356°S, 119.0463°E</named-content> (WAM S 81110, WAM S81127); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1185°S, 119.0649°E</named-content> (WAM S81114); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1255°S, 119.0797°E</named-content> (WAM S81116); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1201°S, 119.0484°E</named-content> (WAM S81119); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1331°S, 119.0154°E</named-content> (WAM S81170); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1216°S, 119.0498°E</named-content> (WAM S81178); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23.1220°S, 119.0611°E</named-content> (WAM S81180). Yandi Mine: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.8200°S, 119.2500°E</named-content> (WAM S61774).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>This species has previously been recorded from central Australia (the southern part of Northern Territory), with a few records from the mid-west coast and northern Western Australia; northern Northern Territory; northern and north-eastern parts of Queensland and South Australia (<xref ref-type="bibr" rid="B19">Pokryszko 1996</xref>). In addition, it is now recorded from throughout most of the Pilbara region (<xref ref-type="fig" rid="F5">Figure 5</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative morphology">
+                    <title>Comparative morphology.</title>
+                    <p>Cylindrical and elongate-ovate forms of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> can be mistaken for <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> specimens (with a small or absent interpalatal tooth) but (1) are slightly to moderately slender (2) have a higher, usually longer parietoangular tooth (3) have a larger, more strongly slanted and acutely angled columellar tooth, with its posterior edge often forming a prominent wide ridge along the columellar wall (4) quite frequently have an upper palatal tooth that is slightly (occasionally moderately) convergent with the lower palatal (see also earlier section on <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic>) . <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> very occasionally possesses a small interpalatal tooth, usually located close to the upper palatal.
+                    </p>
+                    <p>The typical ovate form of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> can be confused with <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> (particularly those with reduced apertural barriers) but (1) are larger (obese) when sympatric (2) have a less sigmoid lower palatal tooth and (3) have a smaller, less convergent upper palatal tooth (see also earlier section on <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>There appears to be two size forms in <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>, the larger ovate form and smaller, slender cylindrical form, and in agreement with <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> both are confirmed as ecological phenotypes from the CO1 and 16S sequences. Based on specimens identified by <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> and during this study, there is enormous variation in shell shape, shell size and apertural barrier structure between and including these two forms.
+                    </p>
+                    <p>The ovate form of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> appears to be most common in the Pilbara. Prior to Pokryszko’s <xref ref-type="bibr" rid="B19">1996</xref> publication, <italic><tp:taxon-name>Gastrocopta pilbarana</tp:taxon-name></italic> Solem, 1986 was described from the Shark Bay area with an isolated record from the Chichester Range (north of Roy Hill). This species was synonymised with <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (Cox, 1868) by <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> although the Chichester Range paratype was not included in that study. This Chichester Range record is actually the ovate form of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>.
+                    </p>
+                    <p><!--PageBreak-->Some of those specimens tentatively identified as the elongate-ovate form of <italic><tp:taxon-name>Gastrocoptamussoni</tp:taxon-name></italic> during this study (Wonmunna; Cy Creek; Cloud Break, Barrow Island) are (1) much larger (obese) than the usual elongate-ovate form (2) have the parietoanangular tooth lower (45<sup>o</sup>) (3) usually have a supraparietal tooth and (4) quite frequently possess a small interpalatal tooth. These specimens may prove to be the somewhat variable <italic><tp:taxon-name>Gastrocoptalarapinta</tp:taxon-name></italic> with a small or no interpalatal tooth, but in the absence of a larger series of specimens and more detailed molecular data, we have left them as <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>.
+                    </p>
+                    <p>The nature of many cylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> identified by Poykrosko (1996) and during this study requires more work. It is probable we have lumped the slender form of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> from Kalgan Pool <italic>(</italic>no interpalatal tooth) withcylindrical <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>.
+                    </p>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p>Distributional records of <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> Pilsbry, 1917 (▼) in the Pilbara region. Shaded: Protected area.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-261-015-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>5.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gastrocopta</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">sp. CW1</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <xref ref-type="fig" rid="F2">Fig. 2A</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta pilbarana</tp:taxon-name><comment> <xref ref-type="bibr" rid="B20">Slack-Smith 1993</xref>: 91.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>Western Australia: Barrow Island: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7069°S, 115.4194°E</named-content> (WAM S59641). Cape Range No. 2 Deep Well: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.9500°S, 114.0333°E</named-content> (WAM S14132). Cape Range (cave): <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1166°S, 113.9833°E</named-content> (WAM S34394); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1500°S, 114.0000°E</named-content> (WAM S34395, WAM S60409, WAM S60831); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.0833°S, 113.9833°E</named-content> (WAM <!--PageBreak-->S34396); <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22.1833°S, 113.9833°E</named-content> (WAM S80955). Exmouth rubbish tip: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">21.9166°S, 114.1167°E</named-content> (WAM S60408)
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>This species is recorded from the Cape Range and from an isolated site on Barrow Island (<xref ref-type="fig" rid="F3">Figure 3</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative morphology">
+                    <title>Comparative morphology.</title>
+                    <p>Shells of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 are easily recognized by their (1) small size (2) very solid, non-lamellate columellar tooth that projects horizontally from the columellar wall (shelf-like), slightly drooping at anterior end (3) long sigmoid lower palatal tooth (4) large, transverse upper palatal tooth (5) presence of a suprapalatal tooth.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p><xref ref-type="bibr" rid="B23">Solem (1989)</xref> identified specimens from the Kimberley and Northern Territory as <italic><tp:taxon-name>Gastrocopta recondita</tp:taxon-name></italic> (Tapparone-Canefri, 1883) but in a later review, <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> regarded that species as extralimital to Australia, describing the Australian representatives as a new sister species, <italic><tp:taxon-name>Gastrocopta stupefasciens</tp:taxon-name></italic>.
+                    </p>
+                    <p><italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1. is very similar to <italic><tp:taxon-name>Gastrocopta stupefaciens</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta recondita</tp:taxon-name></italic> but (1) is smaller (2) has longer apertural barriers and (3) has a thick, solid, non-lamellate columellar tooth and is here within regarded as a new species. Some of Solems` <italic><tp:taxon-name>Gastrocopta recondita</tp:taxon-name></italic> specimens from limestone outcrops near Katherine (station WA-685) and Lake Argyle (station WA-248) have a similar columellar tooth structure and their relationship to <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 needs further work.
+                    </p>
+                    <p><xref ref-type="bibr" rid="B20">Slack-Smith (1993)</xref> listed cavernicolus specimens from the Cape Range as <italic><tp:taxon-name>Gastrocopta pilbarana</tp:taxon-name></italic> (which was later synonymised with <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic>) but those specimens were in fact <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1. She suggested that although this population of snails was ameliorated with the limestone caves of the Cape Range, although it was not generally cavernicolus. The accumulation and breakdown of leaf litter within caves combined with calcareous rocks was deemed advantageous for snails. <xref ref-type="bibr" rid="B24">Solem (1991)</xref> discussed an affinity with limestone for his <italic><tp:taxon-name>Gastrocopta recondita</tp:taxon-name></italic>. The few records of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 from the limestone dominated Barrow Island and Cape Range show similar requirements.
+                    </p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>6.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gastrocopta</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">servilis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Gastrocopta_servilis</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Gould, 1843)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F2">Fig. 2G</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Pupa servilis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B5">Gould 1843</xref>: 356, pl. 6, fig. 14.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Pupa microsoma</tp:taxon-name><comment> <xref ref-type="bibr" rid="B29">Tapparone-Canefri 1883</xref>: 107–8, pl. 2, figs 1–2.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Pupa lyonsiana</tp:taxon-name><comment> <xref ref-type="bibr" rid="B1">Ancey 1892</xref>: <italic>Fr</italic>. 5,713.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta lyonsiana</tp:taxon-name><comment> <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref>: 141–144, pl. 24, figs 1–4; <xref ref-type="bibr" rid="B6">van Benthem Jutting</xref> 1952: 355, fig. 34.</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta microsoma</tp:taxon-name><comment> (Tapparone-Canefri), <xref ref-type="bibr" rid="B18">Pilsbry 1917</xref>: 152, pl. 24, fig. 9; <xref ref-type="bibr" rid="B7">van Benthem Jutting 1964</xref>: 4–5</comment>
+                        </tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Gastrocopta servilis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B23">Solem 1989</xref>: 483–4, figs 38–41, <xref ref-type="bibr" rid="B24">1991</xref>: 249; <xref ref-type="bibr" rid="B8">Shea 2006</xref>: 7, fig. 4; <xref ref-type="bibr" rid="B26">Stanisic et al. 2010</xref>: 104, fig. 123.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type locality">
+                    <title>Type locality.</title>
+                    <p>near Matanzas, Cuba.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>Karratha area: <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">20.7385°S, 116.8357°E</named-content> (WAM S9932, WAM S60237).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>This species has previously been recorded from just north of Broome (Quondong Point) across northern Australia to mid-eastern Queensland and offshore islands (<xref ref-type="bibr" rid="B23">Solem 1989</xref>, <xref ref-type="bibr" rid="B8">Shea 2006</xref>). In addition, it is now recorded from a single locality within the Karratha town site (<xref ref-type="fig" rid="F4">Figure 4</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative morphology">
+                    <title>Comparative morphology.</title>
+                    <p>The shells of <italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic> are easily distinguished from other Pilbara <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> by their (1) strongly rounded whorls (2) short, straight columellar tooth which is perpendicular to the mid-columellar wall (3) very long angular tooth which is fused with the parietoangular tooth (4) weak to absent basal tooth and (5) weak to absent upper palatal tooth.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic> has been a recent introduction to the residential gardens of Karratha.
+                    </p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Molecular phylogeny">
+            <title>Molecular phylogeny</title>
+            <p>Two mitochondrial gene fragments, COI and 16S, have been analysed. The data sets contained 27 sequences of Western Australian <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> (five each of <italic><tp:taxon-name>Gastrocopta bannertonensis</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>, 12 of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic>, two or three, respectively, of <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic>, and two of <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>) as well as 16 Genbank sequences of several American <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species that stem from the study of <xref ref-type="bibr" rid="B16">Nekola et al. (2012)</xref>. Two to three sequences each of <italic><tp:taxon-name>Vertigo</tp:taxon-name></italic> spp. and <italic><tp:taxon-name>Pupilla</tp:taxon-name></italic> spp. were used as out-group to root the trees. Maximum Likelihood analyses of the COI and 16S fragments resulted in identical tree topologies (<xref ref-type="fig" rid="F6">Figs 6</xref>–<xref ref-type="fig" rid="F7">7</xref>). All species as delineated by their shell formed monophyletic sequence clusters. The six Australian species formed a monophyletic crown group nested amongst a basal assemblage of American lineages. The species <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> are more closely related with each other as are <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta bannertonensis</tp:taxon-name></italic>, which corresponds well with columellar tooth structure i.e. large and ascending versus small and short, respectively. Intraspecific evolutionary divergences were on average 1% (max. 4%) in COI as well as on average 1% (max. 2%) in 16S in all Australian species but <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (Tables 2–3). In <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> intraspecific genetic distances were found to be significantly higher than in any other Australian species (16% in COI and 5.3% in 16S). Apart from <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic>, the intraspecific divergence was about an order of magnitude smaller than the observed interspecific distances of 5–26% (on average 18%) in COI and 2–14% (on average 9%) in 16S. Only in <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> did the amount of intraspecific genetic differentiation overlap with the range of interspecific genetic distances.
+            </p>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figure 6.</label>
+                <caption><p>Maximum Likelihood phylogram for COI based on analysis of 27 new sequences of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> from Western Australia and the 16 Genbank sequences made available by <xref ref-type="bibr" rid="B16">Nekola et al. (2012)</xref>. Sequences of <italic><tp:taxon-name>Vertigo</tp:taxon-name></italic> spp. and <italic><tp:taxon-name>Pupilla</tp:taxon-name></italic> spp. were used as out-group to root the tree. Labels on branches indicate nodal support by 200 ML bootstrap replicates.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-261-015-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F7" position="float" orientation="portrait">
+                <label>Figure 7.</label>
+                <caption><p>Maximum Likelihood phylogram for 16S based on analysis of 26 new sequences of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> from Western Australia and the 16 Genbank sequences made available by <xref ref-type="bibr" rid="B16">Nekola et al. (2012)</xref>. Sequences of <italic><tp:taxon-name>Vertigo</tp:taxon-name></italic> spp. and <italic><tp:taxon-name>Pupilla</tp:taxon-name></italic> spp. were used as out-group to root the tree. Labels on branches indicate nodal support by 200 ML bootstrap replicates.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-261-015-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <table-wrap position="float" orientation="portrait" id="T2">
+                <label>Table 2.</label>
+                <caption><p>Average pair-wise genetic distances in COI. Shown are (p) uncorrected p-distances, and (TN93) corrected distances by using the model of Tamura-Nei (<xref ref-type="bibr" rid="B27">1993</xref>). The rate variation among sites was modelled with a gamma distribution (shape parameter = 0.4).</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"></th>
+                            <th rowspan="1" colspan="1"><bold>Distance</bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. marg</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. bann</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. lara</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. muss</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. held</italic></bold>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. marg</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1">0.103</td>
+                            <td rowspan="1" colspan="1">0.121</td>
+                            <td rowspan="1" colspan="1">0.133</td>
+                            <td rowspan="1" colspan="1">0.128</td>
+                            <td rowspan="1" colspan="1">0.129</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1">0.160</td>
+                            <td rowspan="1" colspan="1">0.195</td>
+                            <td rowspan="1" colspan="1">0.218</td>
+                            <td rowspan="1" colspan="1">0.202</td>
+                            <td rowspan="1" colspan="1">0.204</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. bann</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.030</td>
+                            <td rowspan="1" colspan="1">0.147</td>
+                            <td rowspan="1" colspan="1">0.132</td>
+                            <td rowspan="1" colspan="1">0.142</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.036</td>
+                            <td rowspan="1" colspan="1">0.263</td>
+                            <td rowspan="1" colspan="1">0.211</td>
+                            <td rowspan="1" colspan="1">0.244</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. lara</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.008</td>
+                            <td rowspan="1" colspan="1">0.080</td>
+                            <td rowspan="1" colspan="1">0.044</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.008</td>
+                            <td rowspan="1" colspan="1">0.113</td>
+                            <td rowspan="1" colspan="1">0.052</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. muss</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                            <td rowspan="1" colspan="1">0.081</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                            <td rowspan="1" colspan="1">0.115</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. held</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.012</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.013</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap position="float" orientation="portrait" id="T3">
+                <label>Table 3.</label>
+                <caption><p>Average pair-wise genetic distances in 16S. Shown are (p) uncorrected p-distances, and (TN93) corrected distances by using the model of Tamura-Nei (<xref ref-type="bibr" rid="B27">1993</xref>). The rate variation among sites was modelled with a gamma distribution (shape parameter = 0.4).</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"></th>
+                            <th rowspan="1" colspan="1"><bold>Distance</bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. marg</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. bann</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. lara</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. muss</italic></bold>
+                            </th>
+                            <th rowspan="1" colspan="1"><bold><italic>G. held</italic></bold>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. marg</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1">0.045</td>
+                            <td rowspan="1" colspan="1">0.102</td>
+                            <td rowspan="1" colspan="1">0.094</td>
+                            <td rowspan="1" colspan="1">0.082</td>
+                            <td rowspan="1" colspan="1">0.095</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1">0.053</td>
+                            <td rowspan="1" colspan="1">0.139</td>
+                            <td rowspan="1" colspan="1">0.126</td>
+                            <td rowspan="1" colspan="1">0.103</td>
+                            <td rowspan="1" colspan="1">0.126</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. bann</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.021</td>
+                            <td rowspan="1" colspan="1">0.080</td>
+                            <td rowspan="1" colspan="1">0.076</td>
+                            <td rowspan="1" colspan="1">0.076</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.024</td>
+                            <td rowspan="1" colspan="1">0.106</td>
+                            <td rowspan="1" colspan="1">0.096</td>
+                            <td rowspan="1" colspan="1">0.099</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. lara</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.008</td>
+                            <td rowspan="1" colspan="1">0.040</td>
+                            <td rowspan="1" colspan="1">0.021</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.008</td>
+                            <td rowspan="1" colspan="1">0.046</td>
+                            <td rowspan="1" colspan="1">0.023</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. muss</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                            <td rowspan="1" colspan="1">0.041</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                            <td rowspan="1" colspan="1">0.046</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>G. held</italic>
+                            </td>
+                            <td rowspan="1" colspan="1">p</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">TN93</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Based on shell morphology, all <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species recorded here (except <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1) have relatively large distributional ranges. Although limited, the molecular data supports <!--PageBreak--><!--PageBreak--><!--PageBreak-->the shell-based delineation of the six species recognized herein. The molecular data also confirms the large distributional ranges of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> by including samples from areas that are about 100 and 550 kilometres apart, respectively. The apparently widespread distribution of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species is probably due to the common ability in which a single <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> adult can self-fertilize their eggs and establish a new population (<xref ref-type="bibr" rid="B15">Nekola 2009</xref>). They also have the ability to be transported large distances, through either their small and light structure (via wind and water) and/or by their nature to mucous seal to objects such as bark, leaves and vertebrates (<xref ref-type="bibr" rid="B20">Slack-Smith 1993</xref>, <xref ref-type="bibr" rid="B15">Nekola 2009</xref>).
+            </p>
+            <p>Some of the species <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 are at the southern limits of their range. It is probable that <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> has arrived in the Pilbara as a result of dispersal potential whereas <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1, found only in the Cape Range in the Pilbara (and an isolated record from Barrow Island) might represent relictual populations from the Miocene. Both Cape Range and Barrow Island contain moist, well sheltered limestone gorges and caves.
+            </p>
+            <p><!--PageBreak-->Other recorded species represent a range extension from the red centre. These include <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> which are common in the Pilbara. This is not suprising given their affinity to arid or semi-arid environments, which persist throughout much of the Pilbara. Future collecting will no doubt show a mostly continuous distribution for these species between the Pilbara and the red centre.
+            </p>
+            <p>The present CO1 and 16S molecular data set, although small (only 27 individuals sequenced) mostly supports the taxonomic revision of <xref ref-type="bibr" rid="B19">Pokryszko (1996)</xref> based exclusively on shell morphology (i.e. apertural barriers). However, more detailed molecular work is needed to sort out some systematic issues: (1) the relationship of the west coast and south coast populations of <italic><tp:taxon-name>Gastrocopta margaretae</tp:taxon-name></italic> (2) the relationship of <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1 to similar specimens in the Kimberley region (3) the morphological separation of <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic>.
+            </p>
+            <p>The Australian species are less well differentiated by means of evolutionary divergence than the American <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species, which are separated from each other by interspecific pair-wise <xref ref-type="bibr" rid="B27">Tamura and Nei (1993)</xref> distances of 7.8–28% (on average 20.4%) in COI and 2.3–22% (on average 13.9%) in 16S. Evolutionary divergences of the Australian <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species are also lower than the genetic distances found in other Western Australian land snails, such as the <tp:taxon-name>Camaenidae</tp:taxon-name>. In this group interspecific sequences in COI were usually larger than 6% (e.g., <xref ref-type="bibr" rid="B12">Köhler 2011</xref>; <xref ref-type="bibr" rid="B13">Köhler and Johnson 2012</xref>) (16S distances were not compared because the analysed gene fragments differed in length).
+            </p>
+            <p>There appears to be tremendous variation in shell shape and size between and within populations of some <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> species, and often this is associated with variation in apertural barrier structure. This can make separation of species difficult, particularly <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> which share similar apertural barrier structures. It is advisable to collect a large series of individuals so the wide variation in apertural barrier structures can be seen.
+            </p>
+        </sec>
+        <sec sec-type="Conclusion">
+            <title>Conclusion</title>
+            <p>In summary, <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic>. sp. <italic>CW1</italic> and <italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic> are recorded from the Pilbara region for the first time. <italic><tp:taxon-name>Gastrocopta servilis</tp:taxon-name></italic> has been a recent introduction to the residential gardens of Karratha. <italic><tp:taxon-name>Gastrocopta hedleyi</tp:taxon-name></italic>, <italic><tp:taxon-name>Gastrocopta larapinta</tp:taxon-name></italic> and <italic><tp:taxon-name>Gastrocopta mussoni</tp:taxon-name></italic> were shown to be common across the Pilbara. <italic><tp:taxon-name>Gastrocopta</tp:taxon-name></italic> sp. CW1may represent an undescribed species.
+            </p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We are grateful to the following colleagues, who generously supplied information, photographs or specimens: Jochen Gerber, Vince Kessner, Jeff Nekola, Shirley Slack-Smith, Amanda Lawless, Alison Miller, Mandy Reid, Chris Rowley, Michael Shea and Janet Waterhouse.</p>
+            <!--PageBreak-->
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ancey</surname> <given-names>CF</given-names></name></person-group> (<year>1892</year>)<article-title> Études sur la faune malacologique des Iles Sandwich.</article-title> <source>Mémoires de la Société Zoologique de France </source> <volume>5</volume>: <fpage>708</fpage>-<lpage>22</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cox</surname> <given-names>JC</given-names></name></person-group> (<year>1868</year>)<source> Monograph of Australian Land Shells.</source> <publisher-name>William Maddox</publisher-name>, <publisher-loc>Sydney</publisher-loc>, <lpage>111</lpage> pp.doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5962/bhl.title.1292" xlink:type="simple">10.5962/bhl.title.1292</ext-link></mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Folmer</surname> <given-names>O</given-names></name><name name-style="western"><surname>Black</surname> <given-names>M</given-names></name><name name-style="western"><surname>Hoeh</surname> <given-names>W</given-names></name><name name-style="western"><surname>Lutz</surname> <given-names>R</given-names></name><name name-style="western"><surname>Vrijenhoek</surname> <given-names>R</given-names></name></person-group> (<year>1994</year>)<article-title> DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates.</article-title> <source>Molecular Marine Biology and Biotechnology </source> <volume>3</volume>: <fpage>294</fpage>-<lpage>299</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gabriel</surname> <given-names>CJ</given-names></name></person-group> (<year>1930</year>)<article-title> Catalogue of the land shells of Victoria.</article-title> <source>Proceedings of the Royal Society of Victoria </source> <volume>43</volume>: <fpage>62</fpage>-<lpage>88</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gould</surname> <given-names>A</given-names></name></person-group> (<year>1843</year>)<article-title> Monograph of the species of Pupa found in the United States.</article-title> <source>Journal of Natural History </source> <volume>4</volume>: <fpage>350</fpage>-<lpage>360</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Benthem</surname> <given-names>Jutting WSS</given-names></name></person-group> (<year>1952</year>)<article-title> Systematic studies on the non-marine Mollusca of the Indo-Australian Archipelago. 111. Critical revision of the Javanese pulmonate land-snails of the Families Ellobiidae to Limacidae, with an appendix on Helicarionidae.</article-title> <source>Treubia</source> <volume>21</volume>: <fpage>291</fpage>–<lpage>435</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Benthem</surname> <given-names>Jutting WSS</given-names></name></person-group> (<year>1964</year>)<article-title> Non-marine Mollusca of West New Guinea. Part 3, Pulmonata, I.</article-title> <source>Nova Guinea, Zoology </source> <volume>26</volume>: <fpage>1</fpage>-<lpage>74</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Iredale</surname> <given-names>T</given-names></name></person-group> (<year>1937a</year>)<article-title> A basic list of the land Mollusca of Australia.</article-title> <source>The Australian Zoologist</source> <volume>8</volume>: <fpage>287</fpage>–<lpage>333</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Iredale</surname> <given-names>T</given-names></name></person-group> (<year>1937b</year>)<article-title> A annotated check list of the land shells of south and central Australia.</article-title> <source>South Australian Naturaliste, </source> <volume>8</volume>: <fpage>287</fpage>-<lpage>333</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Iredale</surname> <given-names>T</given-names></name></person-group> (<year>1939</year>)<article-title> A review of the land Mollusca of Western Australia.</article-title> <source>Records of the Western Australian Museum and Art Gallery</source> <volume>2</volume>(<issue>1</issue>): <fpage>1</fpage>–<lpage>88</lpage>. [<comment>Published 1.viii.1939; same text re-published 21.viii.1939 in Journal of the Royal Society of Western Australia 25:1–88 (read before the Society on 13.ix.1938, but publication delayed)</comment>]</mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Köhler</surname> <given-names>F</given-names></name></person-group> (<year>2011</year>)<article-title> The camaenid species of the Kimberley Islands, Western Australia (Stylommatophora: Helicoidea).</article-title> <source>Malacologia </source> <volume>54</volume>: <fpage>203</fpage>-<lpage>406</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4002/040.054.0108" xlink:type="simple">10.4002/040.054.0108</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Köhler</surname> <given-names>F</given-names></name><name name-style="western"><surname>Johnson</surname> <given-names>MS</given-names></name></person-group> (<year>2012</year>)<article-title> Species limits in molecular phylogenies: A cautionary tale from Australian land snails (Camaenidae: <italic>Amplirhagada</italic>).</article-title> <source>Zoological Journal of the Linnean Socierty </source> <volume>165</volume>: <fpage>337</fpage>-<lpage>362</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-3642.2011.00810.x" xlink:type="simple">10.1111/j.1096-3642.2011.00810.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Köhler</surname> <given-names>F</given-names></name><name name-style="western"><surname>Kessner</surname> <given-names>V</given-names></name><name name-style="western"><surname>Whisson</surname> <given-names>C</given-names></name></person-group> (<year>2012</year>)<article-title> New records of non-marine, non-camaenid gastropods (Mollusca: Gastropoda) from islands off the Kimberley coast, Western Australia.</article-title> <source>Records of the Western Australian Museum Supplement </source> <volume>81</volume>: <fpage>21</fpage>-<lpage>39</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nekola</surname> <given-names>JC</given-names></name></person-group> (<year>2009</year>)<article-title> Tiny jewels: an introduction to pupillid taxonomy, ecology, and collection.</article-title> <source>American Conchologist</source> <volume>37</volume>: <fpage>22</fpage>-<lpage>27</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nekola</surname> <given-names>JC</given-names></name><name name-style="western"><surname>Jones</surname> <given-names>G</given-names></name><name name-style="western"><surname>Martinez</surname> <given-names>S</given-names></name><name name-style="western"><surname>Mondragon</surname> <given-names>K</given-names></name><name name-style="western"><surname>Lebeck</surname> <given-names>T</given-names></name><name name-style="western"><surname>Slapcinsky</surname> <given-names>J</given-names></name><name name-style="western"><surname>Chiba</surname> <given-names>S</given-names></name></person-group> (<year>2012</year>)<article-title> <italic>Vertigo shimochii</italic> Kuroda &amp; Amano 1960 synonymized with <italic>Gastrocopta servilis</italic> (Gould, 1843) based on conchological and DNA sequence data.</article-title> <source>Zootaxa </source> <volume>3161</volume>: <fpage>48</fpage>-<lpage>52</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Palumbi</surname> <given-names>SR</given-names></name><name name-style="western"><surname>Martin</surname> <given-names>A</given-names></name><name name-style="western"><surname>Romano</surname> <given-names>S</given-names></name><name name-style="western"><surname>McMillan</surname> <given-names>WO</given-names></name><name name-style="western"><surname>Stice</surname> <given-names>L</given-names></name><name name-style="western"><surname>Grabowski</surname> <given-names>G</given-names></name></person-group> (<year>1991</year>)<source> The simple fool’s guide to PCR.</source> <publisher-name>University of Hawaii</publisher-name>, <publisher-loc>Honolulu</publisher-loc>.</mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pilsbry</surname> <given-names>HA</given-names></name></person-group> (<year>1917</year>)<article-title> Manual of Conchology.</article-title> <source>Conchology Department, Philadelphia, Academy of Natural Sciences </source> <volume>2</volume>: <fpage>1</fpage>-<lpage>24</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pokryszko</surname> <given-names>BM</given-names></name></person-group> (<year>1996</year>)<article-title> The Gastrocoptinae of Australia (Gastropoda: Pulmonata: Pupilloidea): systematics, distribution and origin.</article-title> <source>Invertebrate Taxonomy </source> <volume>10</volume>: <fpage>1085</fpage>-<lpage>1150</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1071/IT9961085" xlink:type="simple">10.1071/IT9961085</ext-link></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shea</surname> <given-names>M</given-names></name></person-group> (<year>2006</year>)<article-title> Exotic snails and slugs found in Australia. Malacological Society of Australiasia Newsletter.</article-title> <source>Australian Shell News </source> <volume>130</volume>: <fpage>1</fpage>-<lpage>8</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Slack-Smith</surname> <given-names>SM</given-names></name></person-group> (<year>1993</year>)<article-title> The non-marine molluscs of the Cape Range peninsula, Western Australia.</article-title> In: <person-group><name name-style="western"><surname>Humphreys</surname> <given-names>WF</given-names></name></person-group> (<role>Ed.</role>). <issue-title>The Biogeography of Cape Range, Western Australia.</issue-title> <source>Records of the Western Australian Museum, volume 45</source>: <fpage>87</fpage>-<lpage>108</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname> <given-names>EA</given-names></name></person-group> (<year>1894</year>)<article-title> On the land-shells of Western Australia.</article-title> <source>Proceedings of the Malacological Society of London </source> <volume>1</volume>: <fpage>84</fpage>-<lpage>99</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Solem</surname> <given-names>A</given-names></name></person-group> (<year>1986</year>)<article-title> Pupilloid land snails from the south and mid-west coasts of Australia.</article-title> <source>Journal of the Malacological Society of Australia </source> <volume>7</volume>: <fpage>95</fpage>-<lpage>124</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Solem</surname> <given-names>A</given-names></name></person-group> (<year>1989</year>)<article-title> Non-camaenid land snails of the Kimberley and Northern Territory, Australia. 1. Systematics, affinities and ranges.</article-title> <source>Invertebrate Taxonomy </source> <volume>2</volume> (<issue>4</issue>): <fpage>455</fpage>-<lpage>604</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1071/IT9880455" xlink:type="simple">10.1071/IT9880455</ext-link></mixed-citation>
+            </ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Solem</surname> <given-names>A</given-names></name></person-group> (<year>1991</year>)<article-title> Distribution and diversity patterns of Australian pupilloid land snails (Mollusca: Pulmonata: Pupillidae, s.l.).</article-title> <source>Veliger </source> <volume>34</volume> (<issue>3</issue>): <fpage>233</fpage>-<lpage>252</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stanisic</surname> <given-names>J</given-names></name></person-group> (<year>1998</year>)<article-title> Family Pupillidae.</article-title> In: <person-group><name name-style="western"><surname>Beesley</surname> <given-names>PL</given-names></name><name name-style="western"><surname>Ross</surname> <given-names>GJB</given-names></name><name name-style="western"><surname>Wells</surname> <given-names>A</given-names></name></person-group> (<role>Eds</role>). <issue-title>Mollusca: The Southern Synthesis.</issue-title> <source>Fauna of Australia. Vol. 5. CSIRO Publishing, Melbourne, Part B, Mollusca 5</source>: <fpage>1082</fpage>-<lpage>1084</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stanisic</surname> <given-names>J</given-names></name><name name-style="western"><surname>Shea</surname> <given-names>M</given-names></name><name name-style="western"><surname>Potter</surname> <given-names>D</given-names></name><name name-style="western"><surname>Griffiths</surname> <given-names>O</given-names></name></person-group> (<year>2010</year>)<source> Australian land snails. Volume 1. A field guide to eastern Australian species.</source> <publisher-name>Bioculture Press</publisher-name>, <publisher-loc>Mauritius</publisher-loc>.</mixed-citation>
+            </ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname> <given-names>K</given-names></name><name name-style="western"><surname>Nei</surname> <given-names>M</given-names></name></person-group> (<year>1993</year>)<article-title> Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees.</article-title> <source>Molecular Biology and Evolution </source> <volume>10</volume>: <fpage>512</fpage>-<lpage>526</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname> <given-names>K</given-names></name><name name-style="western"><surname>Peterson</surname> <given-names>D</given-names></name><name name-style="western"><surname>Peterson</surname> <given-names>N</given-names></name><name name-style="western"><surname>Stecher</surname> <given-names>G</given-names></name><name name-style="western"><surname>Nei</surname> <given-names>M</given-names></name><name name-style="western"><surname>Kumar</surname> <given-names>S</given-names></name></person-group> (<year>2011</year>)<article-title> MEGA5: Molecular Evolutionary Genetics Analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods.</article-title> <source>Molecular Biology and Evolution </source> <volume>28</volume>: <fpage>2731</fpage>-<lpage>2739</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msr121" xlink:type="simple">10.1093/molbev/msr121</ext-link></mixed-citation>
+            </ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tapparone-Canefri</surname> <given-names>C</given-names></name></person-group> (<year>1883</year>)<article-title> Fauna malacologica della Nova Guinea e delle Isole Adiacenti. Parte I. Molluschi Estramarini.</article-title> <source>Annali del Museo Civico di Storia Naturale di Genova </source> <volume>19</volume>: <fpage>1</fpage>-<lpage>313</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tate</surname> <given-names>R</given-names></name></person-group> (<year>1896</year>)<article-title> Mollusca.</article-title> In: <person-group><name name-style="western"><surname>Spencer</surname> <given-names>WB</given-names></name></person-group> (<role>Ed.</role>) <issue-title>Report on the work of the Horn Scientific Expedition to Central Australia, 2, Zoology.</issue-title> <source>Melville, Mullen and Slade, London and Melbourne</source>: <fpage>181</fpage>-<lpage>226</lpage>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

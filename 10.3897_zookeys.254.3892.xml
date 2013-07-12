@@ -1,0 +1,1141 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.254.3892</article-id>
+            <title-group>
+                <article-title>Acoustic analysis reveals a new cryptic bush–cricket in the Carpathian Mountains (Orthoptera, Phaneropteridae)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Iorgu</surname>
+                        <given-names>Ionuţ Ştefan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:AA776F77-FB31-48B3-8591-E0B7200357A7</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>“Grigore Antipa” National Museum of Natural History, Kiseleff blvd. 1, 011341, Bucharest, Romania
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Ionuţ Ştefan Iorgu (<email xlink:type="simple">nusi81@yahoo.com</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: A. Gorochov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>12</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>254</issue>
+            <fpage>1</fpage>
+            <lpage>22</lpage>
+            <history>
+                <date date-type="received">
+                    <day>28</day>
+                    <month>11</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>10</day>
+                    <month>12</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Ionuţ Ştefan Iorgu</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:71E92801-035C-47AB-99E6-FAB2CFFB1B8B</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new morphologically cryptic species of phaneropterid bush–cricket from the genus <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> is described from the Eastern Carpathian Mountains: <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> <bold>sp. n.</bold> Sound analysis and morphological details are discussed in the paper comparing the new species with several <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species having similar morphology and acoustic behavior.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Isophya</italic>
+                </kwd>
+                <kwd>bioacoustics</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>Carpathians</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>One of the largest and most enigmatic phaneropterid genera, with 90 species known and 45 species present in Europe, <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> Brunner von Wattenwyl inhabits Southern and Eastern Europe, Asia Minor and Caucasus up to Kazakhstan, Iran and Iraq (<xref ref-type="bibr" rid="B2">Eades et al. 2012</xref>).
+            </p>
+            <p>Dissimilar to morphological homogeneity in genus <italic><tp:taxon-name>Isophya</tp:taxon-name></italic>, the specific structure of male acoustic signals shows clear differences in close related species and is used as the most effective tool for identifying and clarifying taxonomic relations (<xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>, <xref ref-type="bibr" rid="B1">Chobanov 2009</xref>, <xref ref-type="bibr" rid="B11">Orci et al. 2010a</xref>, <xref ref-type="bibr" rid="B12">2010b</xref>, <xref ref-type="bibr" rid="B15">Szövényi et al. 2012</xref>). Contrary to this general opinion, a recent study on several related <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species from Asia Minor suggests that, in some cases, evolutionary changes in song appear slower than in morphology (<xref ref-type="bibr" rid="B13">Sevgili et al. 2012</xref>). In this genus, the male–female pair is usually formed during an acoustic duet; females locate the males by phonotaxis and respond to their songs with simple impulses (<xref ref-type="bibr" rid="B10">Orci et al. 2001</xref>, <xref ref-type="bibr" rid="B8">Orci 2007</xref>, <xref ref-type="bibr" rid="B11">Orci et al. 2010a</xref>, <xref ref-type="bibr" rid="B12">2010b</xref>) or complicated click–series (<xref ref-type="bibr" rid="B5">Iorgu 2012</xref>) within a species–specific time span.
+            </p>
+            <p>The <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species are very interesting subjects to study: apart from their remarkable behavior, most of the species have restricted distribution areas and present a large number of endemics. For the time being, 16 <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species are known to occur in the Carpathian Mountains (<xref ref-type="bibr" rid="B7">Nagy 2005</xref>, <xref ref-type="bibr" rid="B3">Heller 2012</xref>). Recently, three new species have been described from the Eastern Carpathian Mountains: <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> Orci, Szövényi and Nagy, 2010; <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> Iorgu and Iorgu, 2010 and <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> Szövényi, Puskás and Orci, 2012.
+            </p>
+            <p>In the summer of 2005, several bush–crickets were collected from the area called “Poliţa cu Ariniş”, close to the subalpine meadows of Ceahlău Mountains. Studying only the morphological characters, they were identified back then as <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> (Fieber) and up to the summer of 2010 no acoustic data of this geographically isolated population were available. With the first recorded songs, its status had to be changed in a new taxa, perfectly morphologically cryptic: <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.
+            </p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>Audio recordings were taken with an Edirol R–09HR digital recorder (microphone frequency response 20–40000 Hz, sampling rate of 96000 Hz, 24 bit amplitude resolution). In the field, we used an Edirol CS-15R unidirectional external microphone attached to the digital recorder (frequency response 200–17000 Hz). Temporal and spectral sound analyses were performed with the software Audacity 2.0.2.</p>
+            <p>Song terminology and abbreviations are adapted from <xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>, <xref ref-type="bibr" rid="B9">Orci et al. 2005</xref> and <xref ref-type="bibr" rid="B11">Orci et al. 2010a</xref> (<xref ref-type="fig" rid="F1">Figs 1–4</xref>; see Appendix 1: Isophya song abbreviations).
+            </p>
+            <p>Morphological traits were examined with a stereomicroscope and the following characters were measured for 20 males and 20 females of the new species: body length (BL), head width (HW), head length (HL), pronotum maximum width (PW), pronotum length (PL), left tegmen maximum width (TW), tegmina length (TL), cercus length (CL) and femur length (FL) (<xref ref-type="fig" rid="F1">Fig. 5</xref>).
+            </p>
+            <p>Photos were taken with Canon EOS 600D DSLR camera and Canon 100 mm 1:1 and Canon MP–E 65 mm 5:1 macro lenses, using photo stacking method for morphological characters. Movements of tegmina during sound production have been video recorded with the same camera, with the external microphone attached.</p>
+            <p>The distribution area map was drawn using the altitude layer from <xref ref-type="bibr" rid="B6">Jarvis et al. (2008)</xref>.
+            </p>
+            <p>Type specimens are preserved in the collections of “Grigore Antipa” National Museum of Natural History, Bucharest, Romania.<!--PageBreak--></p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figures 1–5.</label>
+                <caption><p>Schematics of studied song (<bold>1</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. <bold>2</bold> <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> <bold>3</bold> <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> <bold>4</bold> <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>) and morphological (<bold>5</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.) characters.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-254-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Data resources">
+            <title>Data resources</title>
+            <p>The data underpinning the analyses reported in this paper are deposited in the Dryad Data Repository at doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5061/dryad.256qh" xlink:type="simple">10.5061/dryad.256qh</ext-link>
+            </p>
+        </sec>
+        <sec sec-type="Taxonomy">
+            <title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Isophya</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">dochia</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:E527F61F-59EC-4761-8E23-495306978BB6</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Isophya_dochia</object-id>
+								</tp:taxon-name>
+								<tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1</xref>
+                    <xref ref-type="fig" rid="F2">6</xref>
+                    <xref ref-type="fig" rid="F3"></xref>
+                    <xref ref-type="fig" rid="F4"></xref>
+                    <xref ref-type="fig" rid="F5">–26</xref>
+                    <xref ref-type="fig" rid="F6">32</xref>
+                    <xref ref-type="fig" rid="F7">38</xref>
+                    <xref ref-type="fig" rid="F8">44</xref>
+                    <xref ref-type="fig" rid="F9">45, 51, 57, 63, 69</xref>
+                    <xref ref-type="fig" rid="F10">75</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type locality">
+                    <title>Type locality.</title>
+                    <p>Romania, Eastern Carpathian Mountains, Ceahlău Mountains.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type material">
+                    <title>Type material.</title>
+                    <p>Holotype: male. Original label: “România, Munţii Ceahlău, Poliţa cu Ariniş, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46°57.90'N, 25°56.32'E</named-content>, alt. 1620 m, 09.08.2005, Leg. Iorgu I. Ş.”
+                    </p>
+                    <p><!--PageBreak-->Paratypes: 10 ♂♂ 7 ♀♀, labeled: “România, Munţii Ceahlău, Cabana Dochia, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46°57.94'N, 25°57.02'E</named-content>, alt. 1740 m, 02.07.2010, Leg. Iorgu I. Ş.”; 6 ♂♂ 5 ♀♀, labeled: “România, Munţii Ceahlău, Piatra Lată, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46°57.73'N, 25°56.93'E</named-content>, alt. 1720 m, 10.07.2012, Leg. Iorgu I. Ş”, a microSD card containing audio and video records of male song attached; coll. “Grigore Antipa” National Museum of Natural History, Bucharest, Romania.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Audio recordings">
+                    <title>Audio recordings.</title>
+                    <p>8 ♂♂, 5 July 2010, in laboratory, air temperature 25°C; 17 ♂♂, 10 July 2012, in the field, air temperature 20°C; 5 ♂♂ 5 ♀♀, 12 July 2012, in laboratory, air temperature 24°C (see Appendix 2: Isophya dochia sp n audio and Appendix 3: Isophya dochia sp n video).<!--PageBreak--></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comparative material">
+                    <title>Comparative material</title>
+                    <p>(see Appendix: 4 Isophya comparative material).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description</title>
+                    <p>(<xref ref-type="fig" rid="F3">Figs 12–22</xref>; <xref ref-type="table" rid="T1">Table 1</xref>). Male. Fastigium verticis slightly tapering frontward, half as wide as scapus, with a dorsal groove (<xref ref-type="fig" rid="F3">Fig. 12</xref>). Head length 1.7 times the <!--PageBreak-->pronotum length and head width about 1.3 times the maximum pronotum width. Pronotum saddle shaped from a lateral view, paranota with concave dorsal margins, anterior and ventral borders straight, posterior edge moderately convex. Pronotal disc slightly constricted in the transverse sulcus area, with lateral carinae marginally divergent in mesozona and convex in metazona (<xref ref-type="fig" rid="F3">Figs 12, 13</xref>). Wings as long as or slightly longer than pronotum, with reticulate venation, usually surpass the posterior edge of first abdominal tergite. Cu2 vein length about 3/4 the posterior margin of pronotum; angle between cubital veins about 70°. Speculum large and rectangular. Edge of tegmen at distal end of Cu2 vein forms an obtuse angle of about 130° (<xref ref-type="fig" rid="F3">Fig. 12</xref>). During the quiet wing openings in song production, the white anterior border of tegmen is well visible, but its role has not been established yet (see Appendix 3: Isophya dochia sp n video). Stridulatory file arcuate, 2.2–2.4 mm long, counts 82–89 teeth; distal teeth larger and rarer than proximal ones (<xref ref-type="fig" rid="F3">Fig. 16</xref>). Epiproct about twice as wide as long; cercus slender, narrowing towards tip, slightly curved in its apical fourth, with fine, small hairs; terminal denticle located in middle of cercus apex (<xref ref-type="fig" rid="F3">Fig. 14</xref>). Subgenital plate elongated, narrowed apically, with triangular apical incision (<xref ref-type="fig" rid="F3">Fig. 15</xref>). Hind femur about 4–4.3 times the pronotum length, without ventral spines. Coloration green, densely punctuated with fine, dark green and brown spots. Several males with two dorso–lateral, parallel stripes from pronotum to end of abdomen, red, orange, white, violet or yellow colored. Antennae greenish–brown or reddish–brown, with light brown or green scapus. Compound eyes bicolor: upper part brownish–red and lower part green. A yellowish or white band begins behind the eye and ends at posterolateral angle of wing. Tegmina brown, dark brown or dark red, apically green and costal margin greenish–white or yellowish–white. Cerci brown or reddish–brown, green at base. Ventral side of body yellowish–green. Femora, tibiae and tarsi usually green, brownish or reddish.
+                    </p>
+                    <p>Female. Fastigium roughly as in male (<xref ref-type="fig" rid="F3">Fig. 17</xref>). Head length 1.7 times the pronotum length and head width about 1.3 times the maximum pronotum width. Pronotum disc marginally enlarged in its posterior part, with straight lateral carinae, paranota as in males (<xref ref-type="fig" rid="F3">Figs 17, 18</xref>). Wing with dense reticulate venation, surpass the posterior margin of first abdominal tergite. Stridulatory bristles located on cubital veins in the inner latero–posterior part of right tegmen (<xref ref-type="fig" rid="F3">Fig. 19</xref>). Cercus short, hairy, conical (Fig.<!--PageBreak--> 20). Subgenital plate rounded, narrow, about twice as wide as long (<xref ref-type="fig" rid="F3">Fig. 21</xref>). Ovipositor short, upcurved, 1.9–2.1 times the pronotum length, upper margin with 9–10 denticles and lower margin with 8–9 denticles (<xref ref-type="fig" rid="F3">Fig. 22</xref>). Hind femur 3.5–3.7 times the pronotum length, without ventral spines. Body coloration as in males, wings light brown or green–yellowish, ovipositor green.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Bioacoustics">
+                    <title>Bioacoustics.</title>
+                    <p>Males stridulate at dusk and during the night, rarely during daytime. The tegmino–tegminal stridulation consists of groups of 5–18 syllables (mean±SD: 8.9±3.48, n=30 ♂♂). A group lasts for 1288–4761 ms and successive groups are separated by an interval of 157–326 ms. Groups have a repetition rate of about 10–25 per minute, depending on the number of syllables.</p>
+                    <p>Two types of syllables may be observed in a group: “A” type and “B” type. Both syllable types are produced when the male closes its tegmina. The song pattern may be formulated as “A...AB–A...AB–A...AB–A...AB” and so on, where the unit “A...AB” forms a distinct group of syllables, “...” means a variable number of “A” syllables and “–” means the interval between successive groups of syllables. The “A” type syllable is formed of a compact series of 9–29 impulses (mean±SD: 18.6±6.31), lasting for 30–70 ms (mean±SD: 50.74±12.83). The “B” type syllable is formed of a compact series of 9–15 impulses (mean±SD: 12.36±2.1), lasting for 30–59 ms (mean±SD: 39.3±9.4) and always followed by a series of 1–4 after–clicks at an interval of 621–1655 ms (mean±SD: 1109.1±212.65). The production of the last syllable (“B” type) in each sequence is complex: the male partially closes tegmina, then holds them half–closed for about 621–1655 ms, and finally completely closes the wings with the after–clicks. This late production of after–clicks may function as the trigger element for female acoustic answer. Another possibility is that longer silent gaps may help the male to save up energy or simply listen to its environment, in order to detect possible threats or other singing males (<xref ref-type="bibr" rid="B12">Orci et al. 2010b</xref>, <xref ref-type="bibr" rid="B15">Szövényi et al. 2012</xref>).
+                    </p>
+                    <p>The impulse interval is about 3–6 ms in all syllables and the acoustic signal slowly decreases in amplitude from beginning to end. In a group, the following syllable be<!--PageBreak-->gins 60–131 ms (mean±SD: 96.28±24.62) later (<xref ref-type="fig" rid="F4">Figs 23, 24</xref>). The carrier wave has the strongest components between 20–40 kHz, with the highest peak at about 29 kHz.
+                    </p>
+                    <p>Females find males by phonotaxis and if willing to mate with the singing male (<xref ref-type="fig" rid="F2">Fig. 7</xref>), they produce isolated impulses. In the resulting male–female duet, the female stridulates only after the male after–clicks (ending part of “B” syllable), with a latency of 13–34 ms (mean±SD: 25.66±6.42, n=12 responses from 3 females) (<xref ref-type="fig" rid="F4">Fig. 25</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution and ecology.</title>
+                    <p><italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. populates mesophytic subalpine meadows at about 1600–1900 m, in Ceahlău Mountain Massif, Eastern Carpathians (<xref ref-type="fig" rid="F2">Fig. 11</xref>). The specimens were collected from leaves of <italic><tp:taxon-name>Urtica</tp:taxon-name></italic>, <italic><tp:taxon-name>Rubus</tp:taxon-name></italic>, <italic><tp:taxon-name>Veratrum</tp:taxon-name></italic>, <italic><tp:taxon-name>Rumex</tp:taxon-name></italic>, <italic><tp:taxon-name>Aconitum</tp:taxon-name></italic>, <italic><tp:taxon-name>Vaccinium</tp:taxon-name></italic>, <italic><tp:taxon-name>Hypericum</tp:taxon-name></italic>, <italic><tp:taxon-name>Stachys</tp:taxon-name></italic>, <italic><tp:taxon-name>Junniperus</tp:taxon-name></italic> etc. Few other bush–crickets and grasshoppers were found occurring simpatrically with the new species: <italic><tp:taxon-name>Metrioptera bicolor</tp:taxon-name></italic> (Philippi), <italic><tp:taxon-name>Metrioptera brachyptera</tp:taxon-name></italic> (Linnaeus),<italic> Pholidoptera transsylvanica</italic> (Fischer), <italic><tp:taxon-name>Miramella ebneri</tp:taxon-name></italic> (Galvagni), <italic><tp:taxon-name>Euthystira brachyptera</tp:taxon-name></italic> (Ocskay), <italic><tp:taxon-name>Myrmeleotettix maculatus</tp:taxon-name></italic> (Thunberg), <italic><tp:taxon-name>Chorthippus biguttulus</tp:taxon-name></italic> (Linnaeus), <italic><tp:taxon-name>Chorthippus parallelus</tp:taxon-name></italic> (Zetterstedt) etc. The bush–cricket <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. has the same phenology as other subalpine <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species: female lays her eggs isolated in holes bitten in broad leaves of <italic><tp:taxon-name>Urtica</tp:taxon-name></italic>, <italic><tp:taxon-name>Rubus</tp:taxon-name></italic> etc. Eggs pass the winter in the litter and larvae hatch in late spring, after the snow melts in the high mountains. Depending on weather, first adults exuviate in late June and live up to August.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>A noun in apposition; from the name of Dochia, a Romanian legendary female character based on an earlier deity of land and agriculture from the Dacian pantheon, and that of the eponymous rock in Ceahlău Mountains.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussions">
+                    <title>Discussions</title>
+                    <p>(see Appendix 5: <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>, Appendix 6: <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, Appendix 7: <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, Appendix 8: <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>, Appendix 9: <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>).
+                    </p>
+                    <p>Discovery of the bush–cricket <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. is surprising, especially as it is a morphological cryptic species closely related to <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>. Some other recently<!--PageBreak--> described species, <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>, show high resemblance in morphology, while <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> Kis has a similar calling song (<xref ref-type="fig" rid="F5">Figs 26</xref>–<xref ref-type="fig" rid="F6">37</xref>). The song of these six species can be readily distinguished as syllables grouped in short sequences (<italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. and <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>) or arranged in series (<italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>).
+                    </p>
+                    <p>Both <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. and <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> stridulate well defined assemblies of syllables (<xref ref-type="fig" rid="F5">Figs 26, 27</xref>, <xref ref-type="fig" rid="F6">32, 33</xref>). Two other species have similar song patterns: <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic> Bazyluk, distributed in Poland, Slovakia and N Romania (<xref ref-type="bibr" rid="B14">Szövényi and Orci 2008</xref>) and <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> Mařan, known so far only from a very small area in SE Slovakia. In all these four species, males produce long sequences in which two types of syllables may be noticed: “A” and “B”, the rhythm of the whole song being a constant repetition that may be formulated as “A...AB–A...AB–A...AB” (in <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. and<italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>), “A...A–B–A...A–B–A...A” (in <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic>) and “A...A–BA...A–BA...A” (in <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic>). The descriptions of calling songs of <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B10">Orci et al. 2001</xref>, <xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>, <xref ref-type="bibr" rid="B11">Orci et al. 2010a</xref>) suggest that syllable types are very different from <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.: in <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic>, syllable “A” consists of a compact series of 5–10 impulses, lasting for 12–15 ms, and syllable “B” is a single impulse followed by 1–3 after–clicks, while in <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> syllable “A” is formed of 5–13 impulses, lasting for 10-32 ms, and syllable “B” consists of a compact series of 2–9 short impulses followed by a longer one and 1–3 after–clicks. Not possessing any personal data on these two species, their songs and morphology were not illustrated in present paper.
+                    </p>
+                    <p>In <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, the syllable is a short and compact series of impulses, lacking or followed by one (extremely rare 2–7) after–click (<xref ref-type="fig" rid="F5">Figs 28</xref>, <xref ref-type="fig" rid="F6">34</xref>). Males of <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> stridulate a shorter syllable, but followed by a very high number of after–clicks, usually 10–30 (<xref ref-type="fig" rid="F5">Figs 29</xref>, <xref ref-type="fig" rid="F6">35</xref>). <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> produces the shortest known syllables within this genus, consisting of only 1–3 impulses, missing or followed by one (extremely rare 2–5) after–click (<xref ref-type="fig" rid="F5">Figs 30</xref>, <xref ref-type="fig" rid="F6">36</xref>). Finally, the song of <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> is the most in<!--PageBreak-->teresting, syllables being divided in two or three distinct fragments: the first one is an opening syllable and last two are part of the same closing syllable (<xref ref-type="fig" rid="F5">Figs 31</xref>, <xref ref-type="fig" rid="F6">37</xref>). During our studies, less than 1% of analyzed syllables contained all three components, males usually producing sounds only when closing the tegmina.
+                    </p>
+                    <p>Another interesting feature of the song in some of these species is the similarity of time–windows when after–clicks are produced: usually 50–80 ms after the syllable, but up to 151 ms in <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>) and up to 110 ms in <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>. After–clicks may also follow both types of syllables of <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>. However, we observed a longer after–click delay (75–202 ms) next to the “B” syllable of the sequence<!--PageBreak--> and a shorter delay after the “A” syllables (40–90 ms). The longest after–click delay is found in <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n., up to 1655 ms.
+                    </p>
+                    <p>A remarkable interspecific variation in this group is the number of teeth on male stridulatory file (<xref ref-type="fig" rid="F9">Figs 63–68</xref>), which may be correlated with the total length and number of impulses in the unit syllable + gap + after–clicks, meaning a total closing stroke of wing. In the species that sing well defined groups of syllables: in <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>, 98–130 pegs produce a total number of 37–59 impulses lasting for 94–418 ms in the “B” syllable and 23–55 impulses lasting for 75–258 ms in the “A” syllable, while in <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n., the 82–89 pegs produce a total number of 9–29 impulses lasting for 30–70 ms in the first syllables from a group (“A” type) and 10–19 impulses lasting for 960–1770 ms in the last syllable (“B” type). In the species that stridulate ungrouped syllables: 65–85 pegs in <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> produce 13–56 impulses lasting for 209–438 ms, 50–80 pegs in <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> produce 10–39 impulses, total duration of 27–363 ms, 48–60 pegs in <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> produce a total number of 1–8 impulses lasting for 52–265 ms. In <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>, the high number of teeth on the stridulatory file, i.e. 102–109, produce a song of 36–108 impulses lasting for 167–793 ms (<xref ref-type="table" rid="T2">Table 2</xref>). All these differences in syllable production time are caused by slower or faster species–specific wing movements.
+                    </p>
+                    <p>Female response as male acceptance is formed of isolated impulses, always produced after a particular part of male song, which supposedly acts as trigger. In both <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. and <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> (n=13 responses from 3 ♀♀), the female replies only after the male’s “B” type syllable. The same behavior was noticed in females from <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B10">Orci et al. 2001</xref>, <xref ref-type="bibr" rid="B11">Orci et al. 2010a</xref>). Females of <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> reply right after the male’s syllable main part. In <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, female response is produced immediately after the male’s after–click (n=19 responses from 3 ♀♀), while in <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> (n=37 responses from 6 ♀♀) and <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> (n=10 responses from 1 ♀) its answer is apparently not affected by male after–clicks. Females of <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> stridulate only after the last component of the male syllable (n=25 responses from 4 ♀♀) (<xref ref-type="fig" rid="F7">Figs 38–43</xref>).
+                    </p>
+                    <p><!--PageBreak--><!--PageBreak-->Spectrographic analysis of sound reveals that in all six species the frequency ranges somewhere within interval 10–40 kHz, the maximum being recorded at about 20–30 kHz (<xref ref-type="fig" rid="F8">Fig. 44</xref>).
+                    </p>
+                    <p>In the six related species, males of <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> can be easily separated morphologically from <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> is more massive, males having shorter wings, marginal angle of tegmina less obtuse (110°), number of stridulatory teeth larger, and females having a longer ovipositor (11–13 mm). Males of <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> have a narrow left wing, similar with <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>). In the other four species, the angle of cubital veins on male wing may be used as a differentiation tool: 80–90° in <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, 70–80° in <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>, 60–70° in <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> and 70° in <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.The tegmen marginal angle is almost constant in these species (about 120°), but less obtuse in <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> (110°) (<xref ref-type="fig" rid="F9">Figs 45–50</xref>). In the six species, male cercus morphology has minute variations (<xref ref-type="fig" rid="F9">Figs 51–56</xref>). The ovipositor is relatively similar in length in all species, being longer in <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> (<xref ref-type="fig" rid="F9">Figs 57–62</xref>) and <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>). Female stridulatory area is subject to minor intra– and interspecific variability (<xref ref-type="fig" rid="F9">Figs 69–74</xref>).
+                    </p>
+                    <p>Having a look at species distribution in the Romanian Carpathians, <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> has the widest spread, inhabiting many Carpathian highlands. <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> is known only from two isolated mountains in the Southern Carpathians and most probably its distribution area is wider in the mountains between Prahova and Olt rivers. At this moment, both <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. are known to have very restricted distribution areas: the isolated Ciucaş and, respectively, Ceahlău Mountain Massifs<!--PageBreak-->. Two species have been recently described from the Transylvanian volcanic mountains, in the Western part of the Eastern Carpathians. <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> occurs in Călimani Mountains and Dorna Basin, while <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>, described from Harghita–Ciceu Mountains, has been recently found in the Moldavian Subcarpathians (<xref ref-type="fig" rid="F10">Fig. 75</xref>). <italic><tp:taxon-name>Isophya posthumoidalis</tp:taxon-name></italic> was recorded in Romania only in Maramureş Basin (<xref ref-type="bibr" rid="B14">Szövényi and Orci 2008</xref>) and <italic><tp:taxon-name>Isophya beybienkoi</tp:taxon-name></italic> is known only from the area where it was described: Zadiělská planina and Plešivecká planina, Slovenskie Kras, SE Slovakia (<xref ref-type="bibr" rid="B10">Orci et al. 2001</xref>, <xref ref-type="bibr" rid="B4">Heller et al. 2004</xref>). In order to presume the evolutionary pattern within this group of species, some interesting areas must be taken into account, namely the regions where species <!--PageBreak-->live syntopically: <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> have been found together in W Călimani Mountains, <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> in Moldavian Subcarpathians, <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> and <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> in Central Ciucaş Mountains.
+                    </p>
+                    <p>The Orthoptera species of the Carpathians have been well investigated and morphologically characterized. Yet, <italic><tp:taxon-name>Isophya</tp:taxon-name></italic>, and particularly <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> and its a<!--PageBreak-->llies, remain among the most intriguing and widely distributed bush–crickets in these mountains. Due to <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>’s high intra– and interpopulational morphological variability, the main tool to separate correctly possible new cryptic species remains the oscillographic analysis of acoustic signals.
+                    </p>
+                    <table-wrap position="float" orientation="portrait" id="T1">
+                        <label>Table 1.</label>
+                        <caption><p>Studied morphological characters (see Material and Methods) O – ovipositor.</p>
+                        </caption>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="2"></th>
+                                    <th rowspan="1" colspan="1"><bold>HL (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>HW (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>PL (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>PW (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>TL (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>TW (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>BL (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>FL (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>CL (mm)</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>O (mm)</bold>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">male</td>
+                                    <td rowspan="1" colspan="1">Minimum</td>
+                                    <td rowspan="1" colspan="1">1.87</td>
+                                    <td rowspan="1" colspan="1">3.19</td>
+                                    <td rowspan="1" colspan="1">3.34</td>
+                                    <td rowspan="1" colspan="1">3.89</td>
+                                    <td rowspan="1" colspan="1">3.8</td>
+                                    <td rowspan="1" colspan="1">3.83</td>
+                                    <td rowspan="1" colspan="1">21.1</td>
+                                    <td rowspan="1" colspan="1">14.57</td>
+                                    <td rowspan="1" colspan="1">2.4</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">Maximum</td>
+                                    <td rowspan="1" colspan="1">1.91</td>
+                                    <td rowspan="1" colspan="1">3.45</td>
+                                    <td rowspan="1" colspan="1">4.02</td>
+                                    <td rowspan="1" colspan="1">4.25</td>
+                                    <td rowspan="1" colspan="1">4.43</td>
+                                    <td rowspan="1" colspan="1">4.29</td>
+                                    <td rowspan="1" colspan="1">24.6</td>
+                                    <td rowspan="1" colspan="1">16.38</td>
+                                    <td rowspan="1" colspan="1">2.6</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">Mean</td>
+                                    <td rowspan="1" colspan="1">1.89</td>
+                                    <td rowspan="1" colspan="1">3.32</td>
+                                    <td rowspan="1" colspan="1">3.8</td>
+                                    <td rowspan="1" colspan="1">4.07</td>
+                                    <td rowspan="1" colspan="1">4.23</td>
+                                    <td rowspan="1" colspan="1">4.07</td>
+                                    <td rowspan="1" colspan="1">22.32</td>
+                                    <td rowspan="1" colspan="1">15.2</td>
+                                    <td rowspan="1" colspan="1">2.51</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">S. D.</td>
+                                    <td rowspan="1" colspan="1">0.02</td>
+                                    <td rowspan="1" colspan="1">0.1</td>
+                                    <td rowspan="1" colspan="1">0.24</td>
+                                    <td rowspan="1" colspan="1">0.14</td>
+                                    <td rowspan="1" colspan="1">0.23</td>
+                                    <td rowspan="1" colspan="1">0.16</td>
+                                    <td rowspan="1" colspan="1">1.12</td>
+                                    <td rowspan="1" colspan="1">0.61</td>
+                                    <td rowspan="1" colspan="1">0.08</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">female</td>
+                                    <td rowspan="1" colspan="1">Minimum</td>
+                                    <td rowspan="1" colspan="1">2.79</td>
+                                    <td rowspan="1" colspan="1">3.64</td>
+                                    <td rowspan="1" colspan="1">4.02</td>
+                                    <td rowspan="1" colspan="1">4.14</td>
+                                    <td rowspan="1" colspan="1">1.68</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">22.67</td>
+                                    <td rowspan="1" colspan="1">14.71</td>
+                                    <td rowspan="1" colspan="1">1.25</td>
+                                    <td rowspan="1" colspan="1">8.32</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">Maximum</td>
+                                    <td rowspan="1" colspan="1">3.07</td>
+                                    <td rowspan="1" colspan="1">3.98</td>
+                                    <td rowspan="1" colspan="1">4.58</td>
+                                    <td rowspan="1" colspan="1">4.66</td>
+                                    <td rowspan="1" colspan="1">2.39</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">26.23</td>
+                                    <td rowspan="1" colspan="1">16.56</td>
+                                    <td rowspan="1" colspan="1">1.64</td>
+                                    <td rowspan="1" colspan="1">8.96</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">Mean</td>
+                                    <td rowspan="1" colspan="1">2.9</td>
+                                    <td rowspan="1" colspan="1">3.8</td>
+                                    <td rowspan="1" colspan="1">4.31</td>
+                                    <td rowspan="1" colspan="1">4.37</td>
+                                    <td rowspan="1" colspan="1">1.92</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">24.44</td>
+                                    <td rowspan="1" colspan="1">15.36</td>
+                                    <td rowspan="1" colspan="1">1.42</td>
+                                    <td rowspan="1" colspan="1">8.61</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">S. D.</td>
+                                    <td rowspan="1" colspan="1">0.11</td>
+                                    <td rowspan="1" colspan="1">0.11</td>
+                                    <td rowspan="1" colspan="1">0.18</td>
+                                    <td rowspan="1" colspan="1">0.21</td>
+                                    <td rowspan="1" colspan="1">0.25</td>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">1.31</td>
+                                    <td rowspan="1" colspan="1">0.66</td>
+                                    <td rowspan="1" colspan="1">0.15</td>
+                                    <td rowspan="1" colspan="1">0.21</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <table-wrap position="float" orientation="portrait" id="T2">
+                        <label>Table 2.</label>
+                        <caption><p>Examined male song characters in close related <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species (for abbreviations see Appendix 1: <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> song abbreviations) n – number of analyzed specimens; t – temperature °C.</p>
+                        </caption>
+                        <table id="T2">
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1"><bold>Song type</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>Species</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>Song  characters</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>Min.</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>Max.</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>Mean</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>S. D.</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>n</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>t</bold>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Grouped syllable sequences</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.</td>
+                                    <td rowspan="1" colspan="1">ASD (ms)</td>
+                                    <td rowspan="1" colspan="1">30</td>
+                                    <td rowspan="1" colspan="1">70</td>
+                                    <td rowspan="1" colspan="1">50.74</td>
+                                    <td rowspan="1" colspan="1">12.83</td>
+                                    <td rowspan="1" colspan="1">30</td>
+                                    <td rowspan="1" colspan="1">20–25</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIA</td>
+                                    <td rowspan="1" colspan="1">9</td>
+                                    <td rowspan="1" colspan="1">29</td>
+                                    <td rowspan="1" colspan="1">18.6</td>
+                                    <td rowspan="1" colspan="1">6.31</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GS (ms)</td>
+                                    <td rowspan="1" colspan="1">60</td>
+                                    <td rowspan="1" colspan="1">131</td>
+                                    <td rowspan="1" colspan="1">96.28</td>
+                                    <td rowspan="1" colspan="1">24.62</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">BSD (ms)</td>
+                                    <td rowspan="1" colspan="1">30</td>
+                                    <td rowspan="1" colspan="1">59</td>
+                                    <td rowspan="1" colspan="1">39.3</td>
+                                    <td rowspan="1" colspan="1">9.4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIB</td>
+                                    <td rowspan="1" colspan="1">9</td>
+                                    <td rowspan="1" colspan="1">15</td>
+                                    <td rowspan="1" colspan="1">12.36</td>
+                                    <td rowspan="1" colspan="1">2.1</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">DACB (ms)</td>
+                                    <td rowspan="1" colspan="1">621</td>
+                                    <td rowspan="1" colspan="1">1655</td>
+                                    <td rowspan="1" colspan="1">1109.1</td>
+                                    <td rowspan="1" colspan="1">212.65</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NACB</td>
+                                    <td rowspan="1" colspan="1">1–4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">BSTD (ms)</td>
+                                    <td rowspan="1" colspan="1">621</td>
+                                    <td rowspan="1" colspan="1">1770</td>
+                                    <td rowspan="1" colspan="1">1114.46</td>
+                                    <td rowspan="1" colspan="1">325.45</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SGTD (ms)</td>
+                                    <td rowspan="1" colspan="1">1288</td>
+                                    <td rowspan="1" colspan="1">4761</td>
+                                    <td rowspan="1" colspan="1">2633.56</td>
+                                    <td rowspan="1" colspan="1">792.48</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SGD (ms)</td>
+                                    <td rowspan="1" colspan="1">612</td>
+                                    <td rowspan="1" colspan="1">3028</td>
+                                    <td rowspan="1" colspan="1">1406.86</td>
+                                    <td rowspan="1" colspan="1">598.95</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GSG (ms)</td>
+                                    <td rowspan="1" colspan="1">157</td>
+                                    <td rowspan="1" colspan="1">326</td>
+                                    <td rowspan="1" colspan="1">225.2</td>
+                                    <td rowspan="1" colspan="1">52.66</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">ASD (ms)</td>
+                                    <td rowspan="1" colspan="1">75</td>
+                                    <td rowspan="1" colspan="1">168</td>
+                                    <td rowspan="1" colspan="1">121.64</td>
+                                    <td rowspan="1" colspan="1">28.36</td>
+                                    <td rowspan="1" colspan="1">16</td>
+                                    <td rowspan="1" colspan="1">19–26</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIA</td>
+                                    <td rowspan="1" colspan="1">23</td>
+                                    <td rowspan="1" colspan="1">55</td>
+                                    <td rowspan="1" colspan="1">40.5</td>
+                                    <td rowspan="1" colspan="1">9.67</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">DACA (ms)</td>
+                                    <td rowspan="1" colspan="1">40</td>
+                                    <td rowspan="1" colspan="1">90</td>
+                                    <td rowspan="1" colspan="1">64</td>
+                                    <td rowspan="1" colspan="1">16.97</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NACA</td>
+                                    <td rowspan="1" colspan="1">0–2</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">ASTD (ms)</td>
+                                    <td rowspan="1" colspan="1">75</td>
+                                    <td rowspan="1" colspan="1">258</td>
+                                    <td rowspan="1" colspan="1">156.42</td>
+                                    <td rowspan="1" colspan="1">77.01</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GAA (ms)</td>
+                                    <td rowspan="1" colspan="1">122</td>
+                                    <td rowspan="1" colspan="1">298</td>
+                                    <td rowspan="1" colspan="1">175.78</td>
+                                    <td rowspan="1" colspan="1">48.25</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GAB (ms)</td>
+                                    <td rowspan="1" colspan="1">367</td>
+                                    <td rowspan="1" colspan="1">789</td>
+                                    <td rowspan="1" colspan="1">527.4</td>
+                                    <td rowspan="1" colspan="1">126.18</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">BSD (ms)</td>
+                                    <td rowspan="1" colspan="1">94</td>
+                                    <td rowspan="1" colspan="1">216</td>
+                                    <td rowspan="1" colspan="1">154.7</td>
+                                    <td rowspan="1" colspan="1">43.54</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIB</td>
+                                    <td rowspan="1" colspan="1">37</td>
+                                    <td rowspan="1" colspan="1">59</td>
+                                    <td rowspan="1" colspan="1">46.5</td>
+                                    <td rowspan="1" colspan="1">8.38</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">DACB (ms)</td>
+                                    <td rowspan="1" colspan="1">75</td>
+                                    <td rowspan="1" colspan="1">202</td>
+                                    <td rowspan="1" colspan="1">142.3</td>
+                                    <td rowspan="1" colspan="1">47.19</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NACB</td>
+                                    <td rowspan="1" colspan="1">0–2</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">BSTD (ms)</td>
+                                    <td rowspan="1" colspan="1">94</td>
+                                    <td rowspan="1" colspan="1">418</td>
+                                    <td rowspan="1" colspan="1">223.3</td>
+                                    <td rowspan="1" colspan="1">114.78</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SGTD (ms)</td>
+                                    <td rowspan="1" colspan="1">617</td>
+                                    <td rowspan="1" colspan="1">6168</td>
+                                    <td rowspan="1" colspan="1">2254.8</td>
+                                    <td rowspan="1" colspan="1">1954.04</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SGD (ms)</td>
+                                    <td rowspan="1" colspan="1">617</td>
+                                    <td rowspan="1" colspan="1">6091</td>
+                                    <td rowspan="1" colspan="1">2126</td>
+                                    <td rowspan="1" colspan="1">2001.43</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GSG (ms)</td>
+                                    <td rowspan="1" colspan="1">191</td>
+                                    <td rowspan="1" colspan="1">303</td>
+                                    <td rowspan="1" colspan="1">249.8</td>
+                                    <td rowspan="1" colspan="1">40.28</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Ungrouped syllable sequences</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Isophya  camptoxypha</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">SD (ms)</td>
+                                    <td rowspan="1" colspan="1">27</td>
+                                    <td rowspan="1" colspan="1">90</td>
+                                    <td rowspan="1" colspan="1">61.76</td>
+                                    <td rowspan="1" colspan="1">21.37</td>
+                                    <td rowspan="1" colspan="1">58</td>
+                                    <td rowspan="1" colspan="1">19–27</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NI</td>
+                                    <td rowspan="1" colspan="1">10</td>
+                                    <td rowspan="1" colspan="1">32</td>
+                                    <td rowspan="1" colspan="1">19.9</td>
+                                    <td rowspan="1" colspan="1">7.62</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GS (ms)</td>
+                                    <td rowspan="1" colspan="1">110</td>
+                                    <td rowspan="1" colspan="1">289</td>
+                                    <td rowspan="1" colspan="1">189</td>
+                                    <td rowspan="1" colspan="1">50.18</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">DAC (ms)</td>
+                                    <td rowspan="1" colspan="1">56</td>
+                                    <td rowspan="1" colspan="1">257</td>
+                                    <td rowspan="1" colspan="1">112.6</td>
+                                    <td rowspan="1" colspan="1">70.71</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NAC</td>
+                                    <td rowspan="1" colspan="1">0–1 (rarely 2–7)</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">STD (ms)</td>
+                                    <td rowspan="1" colspan="1">27</td>
+                                    <td rowspan="1" colspan="1">363</td>
+                                    <td rowspan="1" colspan="1">77.8</td>
+                                    <td rowspan="1" colspan="1">97.58</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">SD (ms)</td>
+                                    <td rowspan="1" colspan="1">7</td>
+                                    <td rowspan="1" colspan="1">24</td>
+                                    <td rowspan="1" colspan="1">15.56</td>
+                                    <td rowspan="1" colspan="1">5.12</td>
+                                    <td rowspan="1" colspan="1">34</td>
+                                    <td rowspan="1" colspan="1">24–28</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NI</td>
+                                    <td rowspan="1" colspan="1">3</td>
+                                    <td rowspan="1" colspan="1">26</td>
+                                    <td rowspan="1" colspan="1">15.32</td>
+                                    <td rowspan="1" colspan="1">6.74</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GS (ms)</td>
+                                    <td rowspan="1" colspan="1">134</td>
+                                    <td rowspan="1" colspan="1">600</td>
+                                    <td rowspan="1" colspan="1">378.08</td>
+                                    <td rowspan="1" colspan="1">116.95</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">DAC (ms)</td>
+                                    <td rowspan="1" colspan="1">52</td>
+                                    <td rowspan="1" colspan="1">167</td>
+                                    <td rowspan="1" colspan="1">101.2</td>
+                                    <td rowspan="1" colspan="1">38.31</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NAC</td>
+                                    <td rowspan="1" colspan="1">10–30</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">STD (ms)</td>
+                                    <td rowspan="1" colspan="1">209</td>
+                                    <td rowspan="1" colspan="1">438</td>
+                                    <td rowspan="1" colspan="1">273.76</td>
+                                    <td rowspan="1" colspan="1">56.76</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">SD (ms)</td>
+                                    <td rowspan="1" colspan="1">167</td>
+                                    <td rowspan="1" colspan="1">793</td>
+                                    <td rowspan="1" colspan="1">486.28</td>
+                                    <td rowspan="1" colspan="1">200.49</td>
+                                    <td rowspan="1" colspan="1">12</td>
+                                    <td rowspan="1" colspan="1">21–25</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SDC1 (ms)</td>
+                                    <td rowspan="1" colspan="1">9</td>
+                                    <td rowspan="1" colspan="1">31</td>
+                                    <td rowspan="1" colspan="1">21</td>
+                                    <td rowspan="1" colspan="1">8.08</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIC1</td>
+                                    <td rowspan="1" colspan="1">5</td>
+                                    <td rowspan="1" colspan="1">18</td>
+                                    <td rowspan="1" colspan="1">12</td>
+                                    <td rowspan="1" colspan="1">4.72</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GC12 (ms)</td>
+                                    <td rowspan="1" colspan="1">68</td>
+                                    <td rowspan="1" colspan="1">301</td>
+                                    <td rowspan="1" colspan="1">187.6</td>
+                                    <td rowspan="1" colspan="1">101.94</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SDC2 (ms)</td>
+                                    <td rowspan="1" colspan="1">127</td>
+                                    <td rowspan="1" colspan="1">221</td>
+                                    <td rowspan="1" colspan="1">173.9</td>
+                                    <td rowspan="1" colspan="1">31.57</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIC2</td>
+                                    <td rowspan="1" colspan="1">35</td>
+                                    <td rowspan="1" colspan="1">79</td>
+                                    <td rowspan="1" colspan="1">57</td>
+                                    <td rowspan="1" colspan="1">13.5</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GC23 (ms)</td>
+                                    <td rowspan="1" colspan="1">39</td>
+                                    <td rowspan="1" colspan="1">97</td>
+                                    <td rowspan="1" colspan="1">67.5</td>
+                                    <td rowspan="1" colspan="1">19.04</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">SDC3 (ms)</td>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">35</td>
+                                    <td rowspan="1" colspan="1">16.4</td>
+                                    <td rowspan="1" colspan="1">12.33</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NIC3</td>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">11</td>
+                                    <td rowspan="1" colspan="1">5.1</td>
+                                    <td rowspan="1" colspan="1">3.36</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GS (ms)</td>
+                                    <td rowspan="1" colspan="1">59</td>
+                                    <td rowspan="1" colspan="1">235</td>
+                                    <td rowspan="1" colspan="1">154.26</td>
+                                    <td rowspan="1" colspan="1">49.59</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">SD (ms)</td>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">4</td>
+                                    <td rowspan="1" colspan="1">1.6</td>
+                                    <td rowspan="1" colspan="1">1.03</td>
+                                    <td rowspan="1" colspan="1">3</td>
+                                    <td rowspan="1" colspan="1">25</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NI</td>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">3</td>
+                                    <td rowspan="1" colspan="1">1.3</td>
+                                    <td rowspan="1" colspan="1">0.65</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">GS (ms)</td>
+                                    <td rowspan="1" colspan="1">190</td>
+                                    <td rowspan="1" colspan="1">446</td>
+                                    <td rowspan="1" colspan="1">337.78</td>
+                                    <td rowspan="1" colspan="1">62.64</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">DAC (ms)</td>
+                                    <td rowspan="1" colspan="1">51</td>
+                                    <td rowspan="1" colspan="1">110</td>
+                                    <td rowspan="1" colspan="1">73.2</td>
+                                    <td rowspan="1" colspan="1">19.71</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">NAC</td>
+                                    <td rowspan="1" colspan="1">0–1 (rarely 2–5)</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">STD (ms)</td>
+                                    <td rowspan="1" colspan="1">52</td>
+                                    <td rowspan="1" colspan="1">265</td>
+                                    <td rowspan="1" colspan="1">75.1</td>
+                                    <td rowspan="1" colspan="1">63.96</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figures 6–11.</label>
+                        <caption><p><italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.: <bold>6</bold> male habitus <bold>7</bold> copula <bold>8</bold> males’ rivalry <bold>9</bold> female habitus <bold>10</bold> male habitus <bold>11</bold> habitat in Ceahlău Mountains, near Dochia cabin (1740 m).</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figures 12–22.</label>
+                        <caption><p><italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.: <bold>12</bold> dorsal view of male head, pronotum and tegmina <bold>13</bold> lateral view of male pronotum and tegmina <bold>14</bold> male cerci <bold>15</bold> male subgenital plate <bold>16</bold> male stridulatory file (SEM photo) <bold>17</bold> dorsal view of female head, pronotum and tegmina <bold>18</bold> lateral view of female pronotum and tegmina <bold>19</bold> female stridulatory bristles (SEM photo) <bold>20</bold> female cerci <bold>21</bold> female subgenital plate <bold>22</bold> ovipositor. Scale 1 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figures 23–25.</label>
+                        <caption><p>Oscillographic sound analysis in <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n., Ceahlău Mountains (24°C): <bold>23</bold> male song, consisting of syllable groups <bold>24</bold> detailed group of syllable <bold>25</bold> male–female mating acoustic duet.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figures 26–31.</label>
+                        <caption><p>Oscillographic sound analysis: <bold>26</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n., Ceahlău Mountains (24°C) <bold>27 </bold><italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>, Cozia Mountains (25°C) <bold>28</bold> <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, Vânători Neamţ(26°C) <bold>29</bold> <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, Ciucaş Mountains(26°C) <bold>30</bold> <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>, Harghita Mountains (25°C) <bold>31</bold> <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>, Călimani Mountains (25°C).</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figures 32–37.</label>
+                        <caption><p>Detailed syllables: <bold>32</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. <bold>33</bold> <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> <bold>34</bold> <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> <bold>35</bold> <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> <bold>36</bold> <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> <bold>37</bold> <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figures 38–43.</label>
+                        <caption><p>Male–female duet: <bold>38</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n., Ceahlău Mountains (24°C) <bold>39</bold> <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>, Cozia Mountains (25°C) <bold>40</bold> <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, Pleşa(24°C) <bold>41</bold> <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, Ciucaş Mountains(24°C) <bold>42</bold> <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>, Harghita Mountains (25°C) <bold>43</bold> <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>, Călimani Mountains (25°C).</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figure 44.</label>
+                        <caption><p>Sound spectrum: black <bold>–</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.; blue <bold>–</bold> <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>; red <bold>–</bold> <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>; green <bold>–</bold> <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>; yellow <bold>–</bold> <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>; purple <bold>–</bold> <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F9" position="float" orientation="portrait">
+                        <label>Figures 45–74.</label>
+                        <caption><p>Morphological differences in close–related <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> species: <bold>45, 51, 57, 63, 69</bold> <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. <bold>46, 52, 58, 64, 70</bold> <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>, Piatra Craiului Mts. <bold>47, 53, 59, 65, 71</bold> <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>, Nemira Mts. <bold>48, 54, 60, 66, 72</bold> <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>, Ciucaş Mts. <bold>49, 55, 61, 67, 73</bold> <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>, Harghita Mts. <bold>50, 56, 62, 68, 74</bold> <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>, Călimani Mts. (<bold>45–50</bold> male tegmina <bold>51–56</bold> male cerci<bold>57–62</bold> ovipositor <bold>63–68</bold> male stridulatory file <bold>69–74</bold> female stridulatory bristles). Scale 1 mm.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F10" position="float" orientation="portrait">
+                        <label>Figure 75.</label>
+                        <caption><p>Distribution map of <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> and allied species in the Romanian Carpathians, based only on acoustic analysis: white – <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. (<bold>a</bold>); blue – <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> (<bold>b, c</bold>); red – <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> (<bold>d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t</bold>); green – <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> (<bold>u</bold>); yellow – <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> (<bold>v, w</bold>); purple – <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> (<bold>x, y, z</bold>). (<bold>a</bold> Ceahlău Mts. <bold>b</bold> Cozia Mts. <bold>c</bold> Piatra Craiului Mts. <bold>d</bold> Rodnei Mts. <bold>e</bold> Călimani Mts., Pietrosul peak <bold>f</bold> Mestecăniş <bold>g</bold> Pietrosul Bistriţei <bold>h</bold> Rarău <bold>i</bold> Sadova <bold>j</bold> Moldoviţa <bold>k</bold> Pleşa <bold>l</bold> Vânători Neamţ <bold>m</bold> Sihla <bold>n</bold> Nemira Mts. <bold>o</bold> Penteleu Mts. <bold>p</bold> Ciuta <bold>q</bold> Muntele Roşu, Ciucaş Mts. <bold>r</bold> Bucegi Mts. <bold>s</bold> Buila–Vânturariţa Mts. <bold>t</bold> Căpâlna <bold>u</bold> Ciucaş Mountains <bold>v</bold> Harghita–Ciceu Mts. <bold>w</bold> Vânători Neamţ <bold>x</bold> Călimani Mts., Pietrosul peak <bold>y</bold> Călimani Mts., Iezerul Călimanului peak <bold>z</bold> Neagra Şarului).</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-254-001-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The author is grateful to Klaus–Gerhard Heller for his valuable support with literature, to Elena Iulia Iorgu, Adrian Derscariu, Liviu Moscaliuc and Irinel Popescu, his traveling companions in the Carpathians and to Lucian Fusu for inspiration during the preparation of manuscript. Ceahlău National Park, Rodnei National Park and Călimani National Park Administrations are acknowledged for the excellent work conditions. Advices of anonymous reviewers significantly improved the paper.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chobanov</surname> <given-names>DP</given-names></name></person-group> (<year>2009</year>)<article-title> Phylogeny and systematics of the <italic>Isophya modesta</italic> group (Phaneropteridae).</article-title> <source>Metaleptea</source> <volume>29</volume> <issue>(1)</issue>: <fpage>20</fpage>–<lpage>27</lpage>. <ext-link ext-link-type="uri" xlink:href="http://140.247.119.225/OrthSoc/pdf/met_29_1.pdf" xlink:type="simple">http://140.247.119.225/OrthSoc/pdf/met_29_1.pdf</ext-link></mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eades</surname> <given-names>DC</given-names></name><name name-style="western"><surname>Otte</surname> <given-names>D</given-names></name><name name-style="western"><surname>Cigliano</surname> <given-names>MM</given-names></name><name name-style="western"><surname>Braun</surname> <given-names>H</given-names></name></person-group> (<year>2012</year>)<source> Orthoptera Species File Online.</source> Version 2.0/4.1. <ext-link ext-link-type="uri" xlink:href="http://orthoptera.speciesfile.org/HomePage.aspx" xlink:type="simple">http://orthoptera.speciesfile.org/HomePage.aspx</ext-link></mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heller</surname> <given-names>K–G</given-names></name></person-group> (<year>2012</year>)<source> Fauna Europaea: Orthoptera. Version 2.5.</source> <ext-link ext-link-type="uri" xlink:href="http://www.faunaeur.org/" xlink:type="simple">http://www.faunaeur.org/</ext-link></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heller</surname> <given-names>K–G</given-names></name><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Grein</surname> <given-names>G</given-names></name><name name-style="western"><surname>Ingrisch</surname> <given-names>S</given-names></name></person-group> (<year>2004</year>)<article-title> The <italic>Isophya</italic> species of central and western Europe (Orthoptera: Tettigonioidea, Phaneropteridae).</article-title> <source>Tijdschrift voor Entomologie </source> <volume>147</volume>: <fpage>237</fpage>-<lpage>258</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1163/22119434-900000153" xlink:type="simple">10.1163/22119434-900000153</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Iorgu</surname> <given-names>IŞ</given-names></name></person-group> (<year>2012</year>)<article-title> Bioacoustics of <italic>Isophya dobrogensis</italic>, a Romanian endemic bush–cricket (Orthoptera: Phaneropteridae).</article-title> <source>Travaux du Muséum National d’Histoire Naturelle “Grigore Antipa” </source> <volume>55</volume> (<issue>1</issue>): <fpage>51</fpage>-<lpage>56</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2478/v10191–012–0005–y" xlink:type="simple">10.2478/v10191–012–0005–y</ext-link></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jarvis</surname> <given-names>A</given-names></name><name name-style="western"><surname>Reuter</surname> <given-names>HI</given-names></name><name name-style="western"><surname>Nelson</surname> <given-names>A</given-names></name><name name-style="western"><surname>Guevara</surname> <given-names>E</given-names></name></person-group> (<year>2008</year>)<source> Hole–filled SRTM for the globe Version 4, available from the CGIAR–CSI SRTM 90m Database.</source> <ext-link ext-link-type="uri" xlink:href="http://srtm.csi.cgiar.org/" xlink:type="simple">http://srtm.csi.cgiar.org/</ext-link></mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nagy</surname> <given-names>B</given-names></name></person-group> (<year>2005</year>)<article-title> Orthoptera fauna of the Carpathian Basin – recent status of knowledge and a revised check–list.</article-title> <source>Entomofauna Carpathica </source> <volume>17</volume>: <fpage>14</fpage>-<lpage>22</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name></person-group> (<year>2007</year>)<article-title> Female preferences for male song characters in the bush–cricket <italic>Isophya camptoxypha</italic> (Orthoptera, Tettigonioidea).</article-title> <source>Journal of Insect Behavior </source> <volume>20</volume> (<issue>5</issue>): <fpage>503</fpage>-<lpage>513</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10905–007–9096–x" xlink:type="simple">10.1007/s10905–007–9096–x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Nagy</surname> <given-names>B</given-names></name><name name-style="western"><surname>Szövényi</surname> <given-names>G</given-names></name><name name-style="western"><surname>Rácz</surname> <given-names>I</given-names></name><name name-style="western"><surname>Varga</surname> <given-names>Z</given-names></name></person-group> (<year>2005</year>)<article-title> A comparative study on the song and morphology of <italic>Isophya stysi</italic> Čejchan, 1958 and <italic>Isophya modestior</italic> Brunner von Wattenwyl, 1882 (Orthoptera, Tettigoniidae).</article-title> <source>Zoologischer Anzeiger </source> <volume>244</volume> (<issue>1</issue>): <fpage>31</fpage>-<lpage>42</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jcz.2004.11.002" xlink:type="simple">10.1016/j.jcz.2004.11.002</ext-link> <ext-link ext-link-type="uri" xlink:href="http://www.sciencedirect.com/science/article/pii/S004452310500032X" xlink:type="simple">http://www.sciencedirect.com/science/article/pii/S004452310500032X</ext-link></mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Szövényi</surname> <given-names>G</given-names></name><name name-style="western"><surname>Nagy</surname> <given-names>B</given-names></name></person-group> (<year>2001</year>)<article-title> Description of the song of <italic>Isophya beybienkoi</italic> (Orthoptera, Tettigonioidea).</article-title> <source>Biologia (Bratislava) </source> <volume>56</volume>: <fpage>489</fpage>-<lpage>495</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Szövényi</surname> <given-names>G</given-names></name><name name-style="western"><surname>Nagy</surname> <given-names>B</given-names></name></person-group> (<year>2010a</year>)<article-title> A characterization of the pair forming acoustic signals of <italic>Isophya harzi</italic> (Orthoptera, Tettigonioidea, Phaneropteridae).</article-title> <source>Acta Zoologica Academiae Scientiarum Hungaricae</source> <volume>56</volume> (<issue>1</issue>): <fpage>43</fpage>–<lpage>53</lpage>. <ext-link ext-link-type="uri" xlink:href="http://actazool.nhmus.hu/56/1/azh56_1_Orci.pdf" xlink:type="simple">http://actazool.nhmus.hu/56/1/azh56_1_Orci.pdf</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Szövényi</surname> <given-names>G</given-names></name><name name-style="western"><surname>Nagy</surname> <given-names>B</given-names></name></person-group> (<year>2010b</year>)<article-title> <italic>Isophya sicula</italic> sp. n. (Orthoptera: Tettigonioidea), a new, morphologically cryptic bush–cricket species from the Eastern Carpathians (Romania) recognized from its peculiar male calling song.</article-title> <source>Zootaxa</source> <volume>2627</volume>: <fpage>57</fpage>–<lpage>68</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2010/f/zt02627p068.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2010/f/zt02627p068.pdf</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sevgili</surname> <given-names>H</given-names></name><name name-style="western"><surname>Demirsoy</surname> <given-names>A</given-names></name><name name-style="western"><surname>Çiplak</surname> <given-names>B</given-names></name></person-group> (<year>2012</year>)<article-title> Description and bioacoustics of a new species of the genus <italic>Isophya</italic> (Orthoptera: Tetigoniidae: Phaneropterinae) from Turkey.</article-title> <source>Zootaxa</source> <volume>3361</volume>: <fpage>33</fpage>–<lpage>44</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/list/2012/3361.html" xlink:type="simple">http://www.mapress.com/zootaxa/list/2012/3361.html</ext-link></mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Szövényi</surname> <given-names>G</given-names></name><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name></person-group> (<year>2008</year>)<article-title> Contributions to the Orthoptera fauna of Maramureş county with the first record of <italic>Isophya posthumoidalis</italic> Bazyluk 1971 in Romania.</article-title> <source>Studia Universitatis “Vasile Goldiş”, Seria Ştiinţele Vieţii </source> <volume>19</volume>: <fpage>235</fpage>-<lpage>241</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Szövényi</surname> <given-names>G</given-names></name><name name-style="western"><surname>Puskás</surname> <given-names>G</given-names></name><name name-style="western"><surname>Orci</surname> <given-names>KM</given-names></name></person-group> (<year>2012</year>)<article-title> <italic>Isophya nagyi</italic>, a new phaneropterid bush–cricket (Orthoptera: Tettigonioidea) from the Eastern Carpathians (Caliman Mountains, North Romania).</article-title> <source>Zootaxa</source> <volume>3521</volume>: <fpage>67</fpage>–<lpage>79</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2012/f/zt03521p079.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2012/f/zt03521p079.pdf</ext-link></mixed-citation>
+            </ref>
+        </ref-list>
+        <sec sec-type="Appendix 1">
+            <title>Appendix 1</title>
+            <p><italic><tp:taxon-name>Isophya</tp:taxon-name></italic> song abbreviations. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app1)" xlink:type="simple">10.3897/zookeys.254.3892.app1)</ext-link> File format: Microsoft Excel file (xls).
+            </p>
+            <p><bold>Explanation note:</bold> Abbreviations used for calling songs of <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> males, described in <xref ref-type="fig" rid="F1">Figures 1-4</xref> and <xref ref-type="table" rid="T2">Table 2</xref>.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 2">
+            <title>Appendix 2</title>
+            <p><italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. audio. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app2)" xlink:type="simple">10.3897/zookeys.254.3892.app2)</ext-link> File format: Windows audio file (wav).
+            </p>
+            <p><bold>Explanation note:</bold> Audio recording of calling song of a male <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 3">
+            <title>Appendix 3</title>
+            <p><italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n. video. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app3)" xlink:type="simple">10.3897/zookeys.254.3892.app3)</ext-link> File format: Video file (MPEG Layer 4) (mp4).
+            </p>
+            <p><bold>Explanation note:</bold> Video recording of calling song of a male <italic><tp:taxon-name>Isophya dochia</tp:taxon-name></italic> sp. n.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 4">
+            <title>Appendix 4</title>
+            <p><italic><tp:taxon-name>Isophya</tp:taxon-name></italic> comparative material. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app4)" xlink:type="simple">10.3897/zookeys.254.3892.app4)</ext-link> File format: Microsoft Excel file (xls).
+            </p>
+            <p><bold>Explanation note:</bold> Acoustic analyzed <italic><tp:taxon-name>Isophya</tp:taxon-name></italic> material in the Romanian Carpathian Mountains.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 5">
+            <title>Appendix 5</title>
+            <p><italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic> audio. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app5)" xlink:type="simple">10.3897/zookeys.254.3892.app5)</ext-link> File format: Windows audio file (wav).
+            </p>
+            <p><bold>Explanation note:</bold> Audio recording of calling song of a male <italic><tp:taxon-name>Isophya harzi</tp:taxon-name></italic>.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 6">
+            <title>Appendix 6</title>
+            <p><italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic> audio. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app6)" xlink:type="simple">10.3897/zookeys.254.3892.app6)</ext-link> File format: Windows audio file (wav).
+            </p>
+            <p><bold>Explanation note:</bold> Audio recording of calling song of a male <italic><tp:taxon-name>Isophya camptoxypha</tp:taxon-name></italic>.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 7">
+            <title>Appendix 7</title>
+            <p><italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic> audio. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app7)" xlink:type="simple">10.3897/zookeys.254.3892.app7)</ext-link> File format: Windows audio file (wav).
+            </p>
+            <p><bold>Explanation note:</bold> Audio recording of calling song of a male <italic><tp:taxon-name>Isophya ciucasi</tp:taxon-name></italic>.
+            </p>
+        </sec>
+        <sec sec-type="Appendix 8">
+            <title>Appendix 8</title>
+            <p><italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic> audio. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app8)" xlink:type="simple">10.3897/zookeys.254.3892.app8)</ext-link> File format: Windows audio file (wav).
+            </p>
+            <p><bold>Explanation note:</bold> audio recording of calling song of a male <italic><tp:taxon-name>Isophya sicula</tp:taxon-name></italic>.
+            </p>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Appendix 9">
+            <title>Appendix 9</title>
+            <p><italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic> audio. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.254.3892.app9)" xlink:type="simple">10.3897/zookeys.254.3892.app9)</ext-link> File format: Windows audio file (wav).
+            </p>
+            <p><bold>Explanation note:</bold> Audio recording of calling song of a male <italic><tp:taxon-name>Isophya nagyi</tp:taxon-name></italic>.
+            </p>
+        </sec>
+    </back>
+</article>

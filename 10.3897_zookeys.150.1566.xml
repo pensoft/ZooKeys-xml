@@ -1,0 +1,651 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.150.1566</article-id>
+            <title-group>
+                <article-title>Cambrian archaeocyathan metazoans: revision of morphological characters and standardization of genus descriptions to establish an online identification tool.</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kerner</surname>
+                        <given-names>Adeline</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Debrenne</surname>
+                        <given-names>Françoise</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Vignes-Lebbe</surname>
+                        <given-names>Régine</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>CNRS (UMR 7207, centre de recherche sur la paléobiodiversité et les paléoenvironnements), Laboratoire Informatique et Systématique, MNHN Département Histoire de la Terre, Bâtiment de Géologie, CP48, 57 rue Cuvier, 75005 Paris (France)
+            </aff>
+            <aff id="A2">
+                <label>2</label>13 rue du long foin, 91700 Sainte Geneviève des bois (France)
+            </aff>
+            <aff id="A3">
+                <label>3</label>UPMC, université Pierre et Marie Curie, (UMR 7207, centre de recherche sur la paléobiodiversité et les paléoenvironnements), Laboratoire Informatique et Systématique, MNHN Département Histoire de la Terre, Bâtiment de Géologie, CP48, 57 rue Cuvier, 75005 Paris (France)
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Adeline Kerner (<email xlink:type="simple">kerner@mnhn.fr</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: L. Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>150</issue>
+            <fpage>381</fpage>
+            <lpage>395</lpage>
+            <history>
+                <date date-type="received">
+                    <day>14</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>14</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Adeline Kerner, Françoise Debrenne, Régine Vignes-Lebbe</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Archaeocyatha represent the oldest calcified sponges and the first metazoans to build bioconstructions in association with calcimicrobes. They are a key group in biology, evolutionary studies, biostratigraphy, paleoecology and paleogeography of the early Cambrian times. The establishing of a new standardized terminology for archaeocyathans description has permitted the creation of the first knowledge base in English including descriptions of all archaeocyathan genera. This base, using the XPER² software package, is an integral part of the -Archaeocyatha- a knowledge base website, freely available at url <ext-link ext-link-type="uri" xlink:href="http://www.infosyslab.fr/archaeocyatha">http://www.infosyslab.fr/archaeocyatha</ext-link>. The website is composed of common information about Archaeocyatha, general remarks about the knowledge base, the description of the 307 genera recognized with images of type-specimens of type-species for each genus, as well as additional morphological data, an interactive free access key and its user guide.</p>
+                <p>The automatic analysis and comparison of the digitized descriptions have identified some genera with highly similar morphology. These results are a great help for future taxonomic revisions and suggest a number of possible synonymies that require further study.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Archaeocyatha</kwd>
+                <kwd>Cambrian</kwd>
+                <kwd>standardized characters</kwd>
+                <kwd>identification key</kwd>
+                <kwd>knowledge base</kwd>
+                <kwd>XPER²
+<!--PageBreak--></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Archaeocyathan represent the earliest reefal metazoan faunas dated at 521my, predating the Burgess Shale fauna and postdating Ediacarian faunas. They are exclusively Cambrian organisms that built the first metazoan bioconstructions as corals do today. Discovered in the middle of the XIXth century in the oldest fossiliferous rocks of Labrador, Canada, their geographical distribution is world-wide including Antarctica, Argentina, Australia, Canada, China, Germany, Greenland, France, Kazakhstan, Mongolia, Morocco, Poland, Uzbekistan, Sardinia, Serbia, South Africa, Spain, Russia and USA. Since their discovery, intensive studies have been carried out through international cooperation. Consensus about the phylogenetic relationships and biostratigraphic significance of these enigmatic organisms has been now achieved (see summary in <xref ref-type="bibr" rid="B7">Debrenne and Zhuravlev 1992</xref>).</p>
+            <p>As mysterious fossils without recent close-relatives, archaeocyathan represent an extinct class of the phylum Porifera, close to the Demospongiae (<xref ref-type="bibr" rid="B6">Debrenne and Vacelet 1984</xref>; <xref ref-type="bibr" rid="B7">Debrenne and Zhuravlev 1992</xref>). Their skeleton is commonly preserved as carbonate within limestone, which precludes their mechanical or chemical extraction from the surrounding matrix. Therefore, their complex, sometimes problematic morphology has to be examined through thin sections. As a consequence the orientation of the section through the skeleton, which influences the description and identification of the specimen is poorly controlled or even random. Identification of incomplete specimens is also highly problematic and the lack of specialists in the field aggravates this. As important Cambrian organisms, it is necessary for specialists and non-specialists to be able to rapidly and unambiguously identify specimens. However, easy to use identification keys are lacking despite several attempts to create such tools. Rozanov, using Vavilov’s Law (<xref ref-type="bibr" rid="B18">Vavilov 1922</xref>), produced tables with homologous series, used as identification systems (<xref ref-type="bibr" rid="B15">Rozanov and Missarzhevskiy 1966</xref>). The variability in the homologous series of Archaeocyatha contains three groups of primary skeletal elements: the outer wall, the inner wall and the intervallum. Identification can be obtained using combinations of these three groups of characters but this approch, which resembles an identification key, is still complex and inapplicable to incomplete specimens.</p>
+            <p>Archaeocyathan databases have been successively developed since the 1980s. These include a database on Ajacicyathida by <xref ref-type="bibr" rid="B4">Debrenne and Prieur (1981)</xref>, a computer aided identification with single access key, called ECAD, by M. and F. Debrenne (never circulated and stopped due to ongoing taxonomic revisions (<xref ref-type="bibr" rid="B8">Debrenne et al. 2002</xref>)), and a first, French version of the XPER² knowledge base (<xref ref-type="bibr" rid="B2">Debrenne and Kerner 2006</xref>). All these databases, with the exception of the XPER² system, used a fixed sequence of character choices that is insufficiently flexible to fit the morphological complexity of the archaeocyathans. This paper is aimed at introducing (1) a new standardized terminology for archaeocyathans description applicable in knowledge base, (2) the first knowledge base including descriptions of all archaeocyathan genera with a free access identification key, and (3) some outputs of the dataset. A brief review of archaeocyathan anatomy, systematics and importance in the Cambrian system is first given. The<!--PageBreak--> results of this study are freely accessible on the Internet at: <ext-link ext-link-type="uri" xlink:href="http://www.infosyslab.fr/archaeocyatha">http://www.infosyslab.fr/archaeocyatha</ext-link>.</p>
+        </sec>
+        <sec sec-type="Introduction to Archaeocyatha">
+            <title>Introduction to Archaeocyatha</title>
+            <sec sec-type="Anatomy and systematics of Archaeocyatha">
+                <title>Anatomy and systematics of Archaeocyatha.</title>
+                <p>Morphologically, the archaeocyathan skeleton is composed of two inverted porous cones, fitting into each other and interpreted as outer and inner walls delimiting the intervallum. Vertical radial elements (septa, taeniae) and/or horizontal elements (tabulae) connect the two walls (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The archaeocyathan cups display various architectural types: one-walled conical, single-chambered subspherical, multi-chambered conical (thalamid), chaetetid, and syringoid with solitary or modular (pseudocolonial) habits. Their skeleton is primarily made of globally polyhedral crystallites of high-magnesian calcite, probably the result of an organic matrix mediated process at a very primitive stage.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figures 1–3.</label>
+                    <caption><p><bold>1</bold> Stylized archaeocyathan skeleton (Debrenne, 1964 modified) <bold>2</bold> <italic><tp:taxon-name>Erismacoscinus</tp:taxon-name></italic> sp. in transverse section. specimen 2474 4.2Tb MNHN, Paris collection Destombes, Jbel Taissa, Morocco <bold>3</bold> <italic><tp:taxon-name>Coscinocyathus dianthus</tp:taxon-name></italic> Bornemann, lectotype GML An597, Canal Grande, Sardinia (<xref ref-type="bibr" rid="B1">Bornemann 1886</xref>).</p></caption>
+                    <graphic xlink:href="ZooKeys-150-381-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Archaeocyathan systematics is based on skeletal ontogeny determining the order of appearance of skeletal elements, their degree of complication and the stabilization of adult <!--PageBreak-->features. Orders are characterized by the architecture of the cup, suborders by growth pattern models, superfamilies by the outer wall types, families by the inner wall types. Genera are differentiated by variations in walls and intervallar types, as well as distribution of pores in each element. Species are separated by different numerical coefficients (<xref ref-type="bibr" rid="B5">Debrenne et al. 1990</xref>; <xref ref-type="bibr" rid="B7">Debrenne and Zhuravlev 1992</xref>; <xref ref-type="bibr" rid="B8">Debrenne et al. 2002</xref>). The Class Archaeocyatha is composed of six orders and twelve suborders. The previous conventional subdivision into Regulares and Irregulares is often still used in biostratigraphy or paleoecology. These subdivisions roughly correspond to Ajacicyathida and Coscinocyathida (ex-Regulares) and Archaeocyathida and Kazachstanicyathida (ex-Irregulares).</p>
+            </sec>
+            <sec sec-type="The role of archaeocyathan in the Cambrian System">
+                <title>The role of archaeocyathan in the Cambrian System.</title>
+                <p>Archaeocyatha are of prime importance in biostratigraphic studies. The first stage subdivision based on archaeocyathan was established on the Siberian platform (<xref ref-type="bibr" rid="B19">Zhuravleva 1960</xref>). Subdivison of the Cambrian System was traditionally based on trilobite occurrences. However, the discovery of a rich archaeocyathan fauna on the Siberian Platform in horizons below the first appearance data (FAD) of trilobites, provided evidence for the establishment of a new stage, the Tommotian (<xref ref-type="bibr" rid="B15">Rozanov and Missarzhevskiy 1966</xref>), subdivided in 3 zones (Tab.1). Since then, archaeocyathan biozones have been used in key Cambrian areas such as Siberia, Morocco, Spain, Canada and Australia. The distribution of archaeocyathans in time, mainly early Cambrian with few relicts in middle and late Cambrian, limits their use to stages 2 to 4 of the International Stratigraphic Chart. Two parallel scales, one based on trilobites the other on archaeocyathan are established when possible for many Cambrian localities where archaeocyathan and trilobites are well studied. Under certain conditions, archaeocyathan may provide finer biozones than trilobites (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                <table-wrap position="float" orientation="portrait" id="T1">
+                    <label>Table 1.</label>
+                    <caption><p>Comparison of archaeocyathan and trilobites biozones (modified after <xref ref-type="bibr" rid="B16">Rozanov and Sokolov 1984</xref> and <xref ref-type="bibr" rid="B13">Mansy et al. 1993</xref>).</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="2" colspan="1">STAGES</td>
+                                <td rowspan="1" colspan="2">SEBERIAN PLATFORM</td>
+                                <td rowspan="1" colspan="2">ALTAI SAYAN</td>
+                                <td rowspan="1" colspan="2">LAURENTIA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Archaeocyatha</td>
+                                <td rowspan="1" colspan="1">Trilobita</td>
+                                <td rowspan="1" colspan="1">Archaeocyatha</td>
+                                <td rowspan="1" colspan="1">Trilobita</td>
+                                <td rowspan="1" colspan="1">Archaeocyatha</td>
+                                <td rowspan="1" colspan="1">Trilobita</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3" colspan="1">Stage 4?Toyonian</td>
+                                <td rowspan="3" colspan="1"><italic><tp:taxon-name>Irinaecyathus grandiperforatus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anabaraspis splendens</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Erbocyarhus heterovallum</tp:taxon-name></italic></td>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Kooteniella-Edelsteinaspis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Plagiura</tp:taxon-name></italic> / <italic><tp:taxon-name>Poliella</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lermontova grandis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Irinacyathus ratus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tegerocyathus greenlandensis</tp:taxon-name></italic> / <italic><tp:taxon-name>Pycnoidocyathus pearylandicus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bergerionella ketemensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Adaecyathus solidus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parapoliella</tp:taxon-name></italic>-<italic><tp:taxon-name>Oncocephalina</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Archaeocyathus atlanticus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="1">Stage 4?Botoman</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bergerionaspis ornata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Syringocyathus aspectabilis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pycnoidocyathus serratus</tp:taxon-name></italic> / <italic><tp:taxon-name>Tabulaconus kordae</tp:taxon-name></italic></td>
+                                <td rowspan="4" colspan="1"><italic><tp:taxon-name>Bonnia</tp:taxon-name></italic> / <italic><tp:taxon-name>Olenellus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bergerionellus asiaticus</tp:taxon-name></italic></td>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Tercyathusaltaicus</tp:taxon-name></italic></td>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Poliellina</tp:taxon-name></italic>-<italic><tp:taxon-name>Laticephalus</tp:taxon-name></italic></td>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Claruscoscinus fritzi</tp:taxon-name></italic> / <italic><tp:taxon-name>Metacyathelluscaribouensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bergerionellus gurarii</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porocyathus squamosus, Botomaecyathus zelenovi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bergerionellus micmacciformis</tp:taxon-name></italic> / <italic><tp:taxon-name>Erbiella</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Clathricoscinus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ethmophyllum whitneyi</tp:taxon-name></italic> / <italic><tp:taxon-name>Sekwicyathus nahaniensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="6" colspan="1">Stage 3?Atdabanian</td>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Fansycyathus lermontovae</tp:taxon-name></italic></td>
+                                <td rowspan="3" colspan="1"><italic><tp:taxon-name>Judomia</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Arturocyathus torosus</tp:taxon-name></italic></td>
+                                <td rowspan="3" colspan="1"><italic><tp:taxon-name>Sajanaspis</tp:taxon-name></italic>-<italic><tp:taxon-name>Kameshkoviella</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="3" colspan="1">&quot;<tp:taxon-name>Nevadella</tp:taxon-name>&quot;</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nalivkinicyathus cyroflexus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nochoroicyathus kokoulini</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carinacyathus pinus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pagetiellus anabarus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thalamocyathus howelli</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Resimopsis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">&quot;<tp:taxon-name>Fallotaspides</tp:taxon-name>&quot;</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Retecoscinus zegebarti</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="2" colspan="1"><italic><tp:taxon-name>Nochoroicyathus marinskii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Profallotaspis jakutensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3" colspan="1">Stage 2?Tommotian</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dokidocyathus lenaicus</tp:taxon-name></italic> / <italic><tp:taxon-name>Tumuliolynthus primigenius</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dokidocyathus regularis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nochoroicyathus sunnaginicus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Fortunian</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Another interest concerns their paleoecology. Detailed studies of archaeocyathan settlements show that they were adapted to a narrow temperature range, corresponding to the intertropical zone. They were stenohaline organisms, living in the soft substrates of the intertidal zone. As passive filter-feeders, they are more adapted to habitats with reduced turbulence. Since Cambrian rocks lack usual climatic indicators such as tillites, modern phosphorites, or clays containing fossils of terrestrial vegetation, archaeocyathan with their retricted living conditions, are good indicators for ecological and environmental reconstructions (<xref ref-type="bibr" rid="B8">Debrenne et al. 2002</xref>; <xref ref-type="bibr" rid="B9">Gandin and Debrenne 2010</xref>). They are also significant in paleobiogeography. Reconstructions of land distribution are difficult for the Precambrian/Cambrian periods due to problems of paleomagnetism. Archaeocyathan reef distributions in epireic seas constrain map building. Five provinces are recognized after a first phase cluster analysis of generic distribution data: Siberia-Mongolia, Central East-Asia, Europe-Morocco, Australia-Antarctica, North-America-Koryakia. Two realms are defined by a second phase cluster analysis: Eurasia – the three first provinces – and Lauraustral – the last two provinces (<xref ref-type="bibr" rid="B12">Kruse and Shi 2000</xref>). Moreover, the pathways of archaeocyathan migrations inferred from the Jaccard Coefficient (<xref ref-type="bibr" rid="B12">Kruse and Shi 2000</xref>) confirm the early Cambrian existence of East and West Gondwana, the rifting of Laurentia from the Australian-Antarctic margin, and the drift of suspect Altay Sayan and Mongolia<!--PageBreak--> terrains of the Chinese East Gondwana margin towards Siberia (<xref ref-type="bibr" rid="B3">Debrenne et al. 1999</xref>). These results highlight the role of archaeocyathan as key group for fundamental problems in paleobiology and geology and the important support the exhaustive compendium of archaeocyathan species and genera, along with efficient identification key, may provide for future studies.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Standardized terminology for Archaeocyatha">
+            <title>Standardized terminology for Archaeocyatha</title>
+            <sec sec-type="Proposition for an adapted terminology">
+                <title>Proposition for an adapted terminology.</title>
+                <p>A digitized knowledge base can be enhanced if the taxonomic descriptions can be compared through automatic processes. This is possible if descriptions are written using a common and standardized set of characters. However, in the literature, descriptions are often heterogeneous, using different terms or described according to a specialist’s interpretation. The task to standardize the descriptions of Archaeocyatha was easier thanks to series of recent systematic revisions (<xref ref-type="bibr" rid="B5">Debrenne et al. 1990</xref>; <xref ref-type="bibr" rid="B7">Debrenne and Zhuravlev 1992</xref>; <xref ref-type="bibr" rid="B8">Debrenne et al. 2002</xref>). Despite this, some problems appeared due to equal states. For example, the difference between an “arcuate” structure and a “curved” structure is not immediately clear. These states may be identical, but each potential equivalent term has to be checked carefully before synonomising to a single term in the knowledge base. Reconciling traditional morphological terms is necessary in character construction for databasing. Character standardization reveals some hidden problems due to diagnoses and terminology. A classical diagnosis often follows this pattern:</p>
+                <p>Outer wall + one complex descriptive term,</p>
+                <p>inner wall + one complex descriptive term,</p>
+                <p>type of radial structure +/- other intervallar structure (tabulae…)</p>
+                <p>With such a structure, vocabulary homogenization is not adequate. Most of the terms included several concepts. The standardization step here requires the subdivision of complex descriptive terms into a list of terms with only one notion included. For example, the term “cambroid pores” contains information about the shape and the repartition of pores. Each character and state should be examined from all aspects and only basic descriptors (composed of only one notion) should be retained. This new organization of descriptors means the appearance of new terms and the disappearance of some classical terms. Moreover, in monographs, diagnoses are built only with characters that have a taxonomic interest. Some states and/or descriptors do not have any taxonomic value but are highly visual and helpful for identification e.g. descriptors 31 &amp; 51 in the online knowledge base.</p>
+                <p>The main difference between the traditional terminology referring to Archaeocyatha and one adapted to a knowledge base concerns the description of walls: terms have been dissected into basic descriptors and grouped differently (<xref ref-type="table" rid="T2">Table 2</xref>).</p>
+                <table-wrap position="float" orientation="portrait" id="T2">
+                    <label>Table 2.</label>
+                    <caption><p>Classical terminology referring to archaeocyathan walls and their equivalent basic descriptors.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="13">outer wall and inner wall</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="2">usual terms</td>
+                                <td rowspan="1" colspan="10">new standardized terminology</td>
+                                <td rowspan="4" colspan="1">dependent characters</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="6">carcass wall</td>
+                                <td rowspan="1" colspan="4">additionnal sheath</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">structure well defined</td>
+                                <td rowspan="2" colspan="1">perforations</td>
+                                <td rowspan="1" colspan="2">bumps</td>
+                                <td rowspan="2" colspan="1">external plates</td>
+                                <td rowspan="2" colspan="1">morphological tubes</td>
+                                <td rowspan="2" colspan="1">present</td>
+                                <td rowspan="2" colspan="1">micro-porous sheath</td>
+                                <td rowspan="2" colspan="1">mesh</td>
+                                <td rowspan="2" colspan="1">sieve</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">perforations</td>
+                                <td rowspan="1" colspan="1">opening</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">rudimentary</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="4" colspan="3"></td>
+                                <td rowspan="4" colspan="1">description of types and repartition of pores</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">simple</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">no</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">basic</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">no</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">concentrical</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">no</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="2">with canals</td>
+                                <td rowspan="4" colspan="1">yes</td>
+                                <td rowspan="4" colspan="1">canals</td>
+                                <td rowspan="4" colspan="2">none</td>
+                                <td rowspan="2" colspan="1">none</td>
+                                <td rowspan="2" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="4" colspan="1">description of canals</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">bracts, scales, unnuli</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">with tumuli</td>
+                                <td rowspan="1" colspan="1">simple</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">pores</td>
+                                <td rowspan="1" colspan="1">simple</td>
+                                <td rowspan="1" colspan="1">downwarldy</td>
+                                <td rowspan="2" colspan="1">none</td>
+                                <td rowspan="2" colspan="1">none</td>
+                                <td rowspan="2" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="3" colspan="1">description of bumps</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">multiperforate</td>
+                                <td rowspan="1" colspan="1">multiperforate</td>
+                                <td rowspan="1" colspan="1">downwarldy</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">pustular</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="1">simple</td>
+                                <td rowspan="1" colspan="1">central</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="2">with bracts scales or poretubes</td>
+                                <td rowspan="4" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">pores</td>
+                                <td rowspan="2" colspan="2">none</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="8" colspan="1">description of external plates</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">canals</td>
+                                <td rowspan="2" colspan="2">none</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">possible</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="2">with annuli</td>
+                                <td rowspan="4" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">pores</td>
+                                <td rowspan="2" colspan="2">none</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">canals</td>
+                                <td rowspan="2" colspan="2">none</td>
+                                <td rowspan="2" colspan="1">yes</td>
+                                <td rowspan="2" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">no</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">compound</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="5" colspan="1">decriprion of additional sheath and of carcass structures</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">with microporous sheath</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">possible</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">tellelar</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">clathrate</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">pseudoclathate</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">pores</td>
+                                <td rowspan="1" colspan="2">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                                <td rowspan="1" colspan="1">yes</td>
+                                <td rowspan="1" colspan="1">none</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="2">tabular</td>
+                                <td rowspan="1" colspan="11">link to tabulae descriptors: tabulae are extensions of inner wall, of outer wall or of both wall</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>We consider that a wall can be composed of one or two parts. The first one, always present, is named a carcass wall (descriptors 6, 7, 11 to 28 &amp; 31 to 50) and the second is an additional wall (descriptor 52 to 63). A carcass wall generally has perforations (pores or canals) (descriptors 11 to 21 &amp; 31 to 44) and may have different structures: bumps (tumuli, putulae) (descriptors 22 to 24) or external plates (spines, bracts, scales, annuli) (descriptors 25 to 28 &amp; 45 to 50). Additional walls group together the microporous sheaths (descriptors 53 to 55, 57 to 60 &amp; 63), sieves formed by protrusions (compound walls: incipient pore subdivision and completely subdivided pores) (descriptors 53, 55 to 58, 60, 62 &amp; 63) and mesh (tabella, clathri, pseudoclathri) (descriptors 58 &amp; 61). Each element is described inside these new associations. This new<!--PageBreak--> organization included all usual wall types apart from tabular walls that are considered to be linked to tabulae (descriptor 80). For example, a simple tabular outer wall is considered as a single character in traditional terminology, here it is decomposed into different components: outer wall is in one part (no additional sheath), (descriptor 52), this part is composed of simple pores (descriptors 11 &amp; 12) and, moreover, in the intervallum there are tabulae (descriptor 79) stemming from the outer wall curve line (descriptor 80).</p>
+                <p>Tabulae have been subdivided into two descriptors. The first one describes their construction (descriptor 80): independent of both walls (simple, pectinate, plate and membrane tabulae) or dependent on the inner wall, the outer wall or both walls <!--PageBreak-->(curved, simple segmented, concentric segmented and compound segmented tabulae). The second one describes the porosity of tabulae (descriptor 81).</p>
+            </sec>
+            <sec sec-type="Modifications of the traditional terminology">
+                <title>Modifications of the traditional terminology.</title>
+                <p>Different causes can justify the modification of used terminology: a single term refers to two or several different structures, two different terms refer to different things but introduce confusion between two different structures. The first example concerns the term “spines” that was used for two different structures: 1) external plates that look like bracts and 2) skeletal elements that divided pores to form an additional sheath. In the first case the term “spines” is retained whereas the second now corresponds to “protrusions”. The second example concerns sub-spherical chambered canals that may easily be confused with what we refer to as “chamber”, hence our preference for the term “curved canals”. However, the terminology referring to communicating canals appears difficult to understand for novices. We have chosen non porous, porous and spongiose to replace non-communicating, simple communicating and anastomosing. Finally, the difference between completely subdivided and incipient pore subdivision appears only in additional sheaths with the descriptor 62 “type of sieves”. Both are considered subdivided in the description of carcass wall pores (descriptors 12 &amp; 32).</p>
+                <p>The second instance of terms that necessitated modification concern updating the character states. The Checkbase function in XPER² shows that the <italic><tp:taxon-name>Taylorcyathus</tp:taxon-name></italic> and <italic><tp:taxon-name>Connanulofungia</tp:taxon-name></italic> descriptions are similar and that new observations of their inner wall annuli show that they are stacked differently. A new state has therefore been created inside the knowledge base to describe the annuli of <italic><tp:taxon-name>Connanulofungia</tp:taxon-name></italic>: cone in cone (descriptor 49).</p>
+                <p>Other terms illustrating complex characters become useless after their division into basic descriptors. A first case concerns tumuli and pustulae. Simple tumuli and pustulae definitions are close together: these form bumps on a carcass outer wall and have a single opening, with a difference in the direction of the opening. With basic descriptors, a bump is described with its perforations oriented to the opening direction and the terms “tumuli” and “pustulae” presence therefore become redundant and inadequate (descriptors 22 to 24). The second case is about cambroid pores and anthoid pores. Pores are defined with some basic descriptors: their type (or shape), their distribution, their arrangement (descriptors 11 to 17 &amp; 31 to 34). Cambroid pores are simple or polygonal pores (descriptor 12) with a regular distribution on the outer wall (descriptor 15) and a random arrangement (descriptor 16). Anthoid pores are polygonal pores (descriptor 12) with an irregular distribution (descriptor 15). With such deconstruction, anthoid pores and cambroid are not considered as terms to include in the knowledge base. In the case of basic and rudimentary walls these are quite difficult to distinguish. The term “rudimentary wall” is used for imperforate walls and for a skeleton without a carcass wall well defined: Tips of intervallar structures serve as carcass, and spaces between intervallar structures as carcass pores. The term “basic wall” means a carcass wall built with tips of intervallar structures too but with additional lintels between these, forming the carcass. Imperforate walls are defined as carcass walls that are well defined without perforations. The term “rudimentary perforate wall” is decomposed into carcass not well defined (descriptors 6 &amp; 7), carcass pores irregular (descriptor 12 &amp; 32), irregular repartition (descriptor 15) and one row of pores per intersept (descriptor 17 &amp; 33) and basic wall into carcass well defined (descriptors 6 &amp; 7), carcass pores irregular<!--PageBreak--> (descriptor 12 &amp; 32), irregular repartition (descriptor 15) and 2 or more than 2 rows of pores per intersept (descriptor 17 &amp; 33). The last discarded term is pseudotaeniae, defined as “taeniae with synapticulae at each interpore node”. In the knowledge base, this results in a descriptor association: vertical intervallar structures are taeniae (descriptor 65 &amp; 66) and links are synapticulae which repartition is at each interpore node (descriptor 70 &amp; 71).</p>
+            </sec>
+        </sec>
+        <sec sec-type="On line service for Archaeocyatha recognition">
+            <title>On line service for Archaeocyatha recognition</title>
+            <sec sec-type="Archaeocyathan knowledge base">
+                <title>Archaeocyathan knowledge base.</title>
+                <p>This was developed with Xper², which is software, available for use under a Creative Commons by-nc-nd license. The software is dedicated to storing structured descriptive data and to provide free (matrix) access keys (<ext-link ext-link-type="uri" xlink:href="http://www.infosyslab.fr/lis/?q=en/resources/software/xper2">http://www.infosyslab.fr/lis/?q=en/resources/software/xper2</ext-link>, <xref ref-type="bibr" rid="B17">Ung et al. 2010</xref>).</p>
+                <p>The archaeocyathan knowledge base (<xref ref-type="bibr" rid="B11">Kerner et al. 2011</xref>) is composed of a set of standardized descriptions, one for each genus: all the descriptions use the same set of descriptors and character states. Terminology is therefore controlled and further documented by text and images. Images each have their own copyrights. The dataset (without images) is distributed for use under a Creative Commons license (by-nc-nd, see <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/">http://creativecommons.org/licenses/by-nc-nd/3.0/</ext-link>).</p>
+                <p>Most of characters proposed by paleontologists to identify archaeocyathan genera were collected from relevant literature (<xref ref-type="bibr" rid="B5">Debrenne et al. 1990</xref>; <xref ref-type="bibr" rid="B7">Debrenne and Zhuravlev 1992</xref>, <xref ref-type="bibr" rid="B8">Debrenne et al. 2002</xref>) and confirmed by observation of about 1000 specimens in the collections of the Museum National d’Histoire Naturelle, which contain about 600 type and illustrated specimens.</p>
+                <p>The knowledge base is composed of 307 genera considered to be valid at present with a world-wide geographical coverage. Stratigraphically, the knowledge base contains all the Cambrian deposits despite the predominance of Archaeocyatha in early Cambrian deposits. Each genus is illustrated with type specimens of the type species and some additional specimens. A total of 120 descriptors are used, 85 corresponding to morphological and ontogenetic data, 8 to stratigraphic and geographic data and 27 refer to traditional classification data. To each descriptor and character state we associated a definition and images, and/or drawings.</p>
+            </sec>
+            <sec sec-type="Free access key">
+                <title>Free access key.</title>
+                <p>Incomplete specimens cannot be identified with traditional tools. Single access keys and natural keys (following the classification) are insufficiently flexible as they contain a predefined sequence of steps in the identification that rely on the presence of these distinguishing characters in the specimen. For example, if the outer walls (carcass more or less additional sheath) are not preserved, identification can only be made to suborder level. The identification service offered by Xper² is available offline or via the Internet as a free access key (<xref ref-type="fig" rid="F2">Fig. 4</xref>). With free access keys (<xref ref-type="bibr" rid="B10">Hagedorn et al. 2010</xref>), the selection of a particular descriptor is chosen by the user at each step of the identification. The computer-aided identification tool deduces the remaining and eliminated taxa for each selected character and can display the reasons for each elimination (for various examples see <xref ref-type="bibr" rid="B14">Nimis and Vignes-Lebbe 2010</xref>). This type of identifica<!--PageBreak-->tion system is very flexible and allows the identification of a specimen even if some of the described characters are not available, as is regularly the case for palaeontological specimens that are often incomplete. Moreover, the user can express doubt by selecting more than one character state, or chose another descriptor. Furthermore, at any step in the identification, the user can question why a taxon should have been eliminated and can check the descriptors that are incompatible with the specimen description. Another advantage of free access keys concerns superficially similar genera that do not belong to the same Order or Suborder. For example <italic><tp:taxon-name>Coscinocyathus</tp:taxon-name></italic> and <italic><tp:taxon-name>Erismacoscinus</tp:taxon-name></italic> are two genera that look very similar in transverse section even though they are not in the same Order (<xref ref-type="fig" rid="F1">Fig. 2-3</xref>). <italic><tp:taxon-name>Coscinocyathus</tp:taxon-name></italic> has chambers, which is why it belongs to Capsulocyathida whereas <italic><tp:taxon-name>Erismacoscinus</tp:taxon-name></italic> does not have chambers and belongs to Ajacicyathida. The problem is that chambers are not visible in transverse section, so confusion is frequent. With free access keys, it is possible to identify these genera without using characters of the chamber. <!--PageBreak--></p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Screen shot of the free access key constructed in this study for archaeocyathan genera.</p></caption>
+                    <graphic xlink:href="ZooKeys-150-381-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Outputs and analysis of the knowledge base">
+                <title>Outputs and analysis of the knowledge base.</title>
+                <p>A complete form for each genus including descriptions, pictures and information concerning their systematics can be published from the system (<xref ref-type="fig" rid="F3">Fig. 5</xref>).</p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>Agastrocyathus detailed sheet. </p></caption>
+                    <graphic xlink:href="ZooKeys-150-381-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>The Checkbase function compares all the pairs of taxonomic descriptions to see if they are distinguishable or if they overlap. If these conditions occur it means that some morphological aspects are compatible with more than one taxon. This iterative process is useful to check the consistency or misinterpretations of characters and the completeness of the knowledge base. It detected some similarities between <italic><tp:taxon-name>Graphoscyphia</tp:taxon-name></italic>, <italic><tp:taxon-name>Dictyocyathus</tp:taxon-name></italic> and <italic><tp:taxon-name>Molybdocyathus</tp:taxon-name></italic>. The three genera have an inner carcass wall with one row of simple pores per intersept and a dictyonal network. The only difference concerns the outer carcass wall which is basic or rudimentary. In recent literature, <italic><tp:taxon-name>Graphoscyphia</tp:taxon-name></italic> and <italic><tp:taxon-name>Dictyocyathus</tp:taxon-name></italic> have the same description: a basic outer carcass wall whereas <italic><tp:taxon-name>Molybdocyathus</tp:taxon-name></italic> has a rudimentary one. A fresh look at the specimens reveals that <italic><tp:taxon-name>Graphoscyphia</tp:taxon-name></italic> has a basic outer carcass wall (as originally described), <italic><tp:taxon-name>Dictyocyathus</tp:taxon-name></italic> does not have a basic outer carcass wall, but a rudimentary one and <italic><tp:taxon-name>Molybdocyathus</tp:taxon-name></italic> has a rudimentary one too (as originally described). With the change in the interpretation of the carcass wall structure of <italic><tp:taxon-name>Dictyocyathus</tp:taxon-name></italic>, the genus <italic><tp:taxon-name>Dictyocyathus</tp:taxon-name></italic> appears identical to <italic><tp:taxon-name>Molybdocyathus</tp:taxon-name></italic>.<!--PageBreak--> <italic><tp:taxon-name>Molybdocyathus</tp:taxon-name></italic> is now considered to be a junior synonym of <italic><tp:taxon-name>Dictyocyathus</tp:taxon-name></italic>.The automatic comparison of descriptions is displayed in a table, using different colors to highlight characters that are common or different in two or more genera. In <xref ref-type="fig" rid="F4">Figure 6</xref>, we use this feature to visualize the morphological forms in the <tp:taxon-name>Tumulocoscinidea</tp:taxon-name> family. This tool has different uses. First, it can help to rapidly complete an identification when few taxa remain and differences can easily be seen. It can also be useful as a teaching tool for archaeocyathan identification. In the same way during the identification process, the information as to why a taxon is discarded (states incompatible are colored in red in the complete form of the discarded taxon) can be used as an efficient method to help the user with recognizing character states and descriptive terms.</p>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figures 6–7.</label> 
+                    <caption><p><bold>6</bold> Comparative table of Family <tp:taxon-name>Tumulocoscinidea</tp:taxon-name> <bold>7</bold> Special features of Eremitacyathus.</p></caption>
+                    <graphic xlink:href="ZooKeys-150-381-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Xper² can extract “special features” (<xref ref-type="fig" rid="F4">Fig. 7</xref>), i.e. unique states present only in a single taxon. We used this feature here to check the data. It could also be used to help weight characters when creating a classical polytomous key. Some software already exists to create keys from data matrices, and in a near future we will connect our application to the webservices of the ViBRANT project (<ext-link ext-link-type="uri" xlink:href="http://vbrant.eu/">http://vbrant.eu/</ext-link>) to facilitate this.</p>
+            </sec>
+            <sec sec-type="Archaeocyatha Website">
+                <title>Archaeocyatha Website.</title>
+                <p>The archaeocyathan knowledge base and outputs are included inside a website about Archaeocyatha. This site is composed of different information types. The first part, called Archaeocyatha brings together common information about Archaeocyatha: an introduction, covering their role in Cambrian systems, their morphology and a bibliography. The second part is about the knowledge base. This is composed of general remarks about the knowledge base and some data exports from the system: list of genera and their detailed sheets, list of descriptors, list of groups of descriptors and the base properties. The last part concerns the interactive key and its tools: user guide, matching terminologies and glossary. Matching terminologies correspond to the list of all usual terms used in archaeocyathan descriptions. From this, the user can find how a traditional term appears in the knowledge base.<!--PageBreak--></p>
+                <p>The new and complete English version of the archaeocyathan knowledge base (Cambrian) can be accessed at <ext-link ext-link-type="uri" xlink:href="http://www.infosyslab.fr/archaeocyatha">http://www.infosyslab.fr/archaeocyatha</ext-link>, and be used to identify an archaeocyathan specimen to generic level (<xref ref-type="fig" rid="F5">Fig. 8</xref>).</p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 8.</label>
+                    <caption><p>Archaeocyatha website structure. On the left, interactive key and some applications of it. On the right, an example of web page.</p></caption>
+                    <graphic xlink:href="ZooKeys-150-381-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Conclusion">
+            <title>Conclusion</title>
+            <p>The identification of the Cambrian and predominantly early Cambrian metazoans referred to as Archaeocyatha, are important for a number of disciplines including biostratigraphy, paleoecology and paleogeography. Since the study of their morphological 3D-structures is complex due to different views in thin section, their identification is difficult. This problem is exacerbated by the lack of specialists in this field, with most now retired or involved in other projects. Establishing of a knowledge base for these organisms is a necessary tool and a first step to identify new field discoveries so that they can be placed in a wider context. The Xper² application for archaeocyathan genera is the first digitized content, in English, enabling identification with free access keys, and includes all currently accepted genera as well as illustrations of their nomenclatural types. A first version of the archaeocyathan knowledge base (Cambrian) is freely ac<!--PageBreak-->cessible online at URL <ext-link ext-link-type="uri" xlink:href="http://www.infosyslab.fr/archaeocyatha">http://www.infosyslab.fr/archaeocyatha</ext-link>. We hope that such an application constitutes an efficient resource for any further studies on Archaeocyatha.</p>
+            <p>The application is the first step of a general review on Archaeocyatha using the new tools for taxonomy. It will be completed and up-dated on an ongoing basis to follow and include new findings on these fossils. Content will focus on further characters analysis, both to refine the descriptions for paleontological studies, and to compute multidimensional characters. Tools will be developed to support further data analysis tool for discovering new discriminating characters. We plan to shift from a simple website (web 1.0) to a collaborative website (using Scratchpads see <ext-link ext-link-type="uri" xlink:href="http://scratchpads.eu/">http://scratchpads.eu/</ext-link>) to open the application to the community of specialists and non specialists interested by Archaeocyatha data.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Dr Pascale Chesselet is warmly thanked for her helpful comments and style improvement. We want to thank the CNRS for funding the first author for her PhD thesis. We also acknowledge the review effort of Dr Sébastien Clausen and Dr Vince Smith.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bornemann</surname><given-names>JG</given-names></name></person-group> (<year>1886</year>)<article-title> Die Versteinerungen des cambrischen Schichten-systems der Insel Sardinien nebst vergleichenden Untersuchungen uber analoge Vorkommnisse aus andern Landern. Nova Acta Kaiser Leopold–Carol dtsch. Acad. Naturforsch.</article-title> <source> </source> <volume>51</volume>: <fpage>1</fpage>-<lpage>147</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Kerner</surname><given-names>A</given-names></name></person-group> (<year>2006</year>)<source> Actualité des Archaeocyatha: état des recherches en cours. In: 21ème Réunion des Sciences de la Terre (RST), Dijon, France, December 2006. Société Géologique de France, 29.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Maidanskaya</surname><given-names>ID</given-names></name><name name-style="western"><surname>Zhuravlev</surname><given-names>AY</given-names></name></person-group> (<year>1999</year>)<article-title> Faunal migrations of archaeocyaths and early Cambrian plate dynamics.</article-title> <source>Bulletin de la société géologique de France </source> <volume>170</volume> (<issue>2</issue>): <fpage>189</fpage>-<lpage>194</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Prieur</surname><given-names>A</given-names></name></person-group> (<year>1981</year>)<source> Computerization of regular Archaeocyathan files. International symposium on conceptual methods in paleontology, Barcelona, Spain.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Rozanov</surname><given-names>AI</given-names></name><name name-style="western"><surname>Zhuravlev</surname><given-names>AI</given-names></name></person-group> (<year>1990</year>)<source> Regular archaeocyaths: morphology, systematic, biostratigraphy, palaeogeography, biological affinities = Archéocyathes réguliers = morphologie, systématique, biostratigraphie, paléogéographie, affinités biologiques. Ed. du Centre national de la recherche scientifique, 218 pp. + XXIII pl.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Vacelet</surname><given-names>J</given-names></name></person-group> (<year>1984</year>)<source> Archaeocyatha: is the sponge model consistent with their structural organization? 4th International Symposium on Fossil Cnidaria, New York, 1983,  358–369.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Zhuravlev</surname><given-names>A</given-names></name></person-group> (<year>1992</year>)<source> Irregular Archaeocyaths : morphology, ontogeny, systematics, biostratigraphy, palaeoecology = Archéocyathes irréguliers : morphologie, ontogénie, systématique, biostratigraphie, paléoécologie. CNRS Editions, 212 pp. + XXXVIII pl.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Zhuravlev</surname><given-names>AI</given-names></name><name name-style="western"><surname>Kruse</surname><given-names>PD</given-names></name></person-group> (<year>2002</year>)<article-title> Class Archaeocyatha Bornemann, 1884. Bibliography of Class Archaeocyatha.</article-title> In: <person-group><name name-style="western"><surname>Hooper</surname><given-names>JNA</given-names></name><name name-style="western"><surname>van Soest</surname><given-names>RWM</given-names></name></person-group> (<role>Eds</role>). <issue-title>Systema Porifera.</issue-title> <source>A Guide to the Classification of Sponges. Kluwer Academic/Plenum Publishers, New York,  Springer, Vol. 2</source>: <fpage>1553</fpage>-<lpage>1713</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gandin</surname><given-names>A</given-names></name><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name></person-group> (<year>2010</year>)<source> Distribution of the archaeocyath-calcimicrobial bioconstructions on the Early Cambrian shelves. Palaeoworld 19(3/4): 222–241. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.palwor.2010.09.010" xlink:type="simple">doi: 10.1016/j.palwor.2010.09.010</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hagedorn</surname><given-names>G</given-names></name><name name-style="western"><surname>Rambold</surname><given-names>G</given-names></name><name name-style="western"><surname>Martellos</surname><given-names>S</given-names></name></person-group> (<year>2010</year>)<source> Types of identification keys. In: Nimis PL, Vignes-Lebbe R (Eds) Tools for Identifying Biodiversity: Progress and Problems, Paris (France), September 2010, Universita di Trieste, 59–64.</source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kerner</surname><given-names>A</given-names></name><name name-style="western"><surname>Vignes-Lebbe</surname><given-names>R</given-names></name><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name></person-group> (<year>2011</year>)<article-title> Computer-aided identification of the Archaeocyatha genera now available online.</article-title> <source>Carnets de Géologie/Notebooks on Geology, letter </source> <volume>2</volume>: <fpage>99</fpage>-<lpage>102</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kruse</surname><given-names>PD</given-names></name><name name-style="western"><surname>Shi</surname><given-names>GR</given-names></name></person-group> (<year>2000</year>)<article-title> Palaeobiogeographic affinities of Australian Cambrian faunas</article-title> In: <person-group><name name-style="western"><surname>Brock</surname><given-names>GA</given-names></name><name name-style="western"><surname>Engelbretsen</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Jago</surname><given-names>JB</given-names></name><name name-style="western"><surname>Kruse</surname><given-names>PD</given-names></name><name name-style="western"><surname>Laurie</surname><given-names>JR</given-names></name><name name-style="western"><surname>Shergold</surname><given-names>JH</given-names></name><name name-style="western"><surname>Shi</surname><given-names>GR</given-names></name><name name-style="western"><surname>Sorauf</surname><given-names>JE</given-names></name></person-group> (<role>Ed</role>). <issue-title> Palaeobiogeographic affinities of Australian Cambrian faunas.</issue-title> <source>Association of Australasian Palaeontologists, Memoir </source> <volume>23</volume>: <fpage>1</fpage>–<lpage>61</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mansy</surname><given-names>J-L</given-names></name><name name-style="western"><surname>Debrenne</surname><given-names>F</given-names></name><name name-style="western"><surname>Zhuravlev</surname><given-names>AYu</given-names></name></person-group> (<year>1993</year>)<article-title> Calcaires à Archéocyathes du Cambrien inférieur du Nord de la Colombie britannique (Canada). Implications paléogéographiques et précisions sur l’extension du continent Américano-Koryakien.</article-title> <source>Geobios </source> <volume>26</volume> (<issue>6</issue>): <fpage>643</fpage>-<lpage>683</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0016-6995(93)80047-U" xlink:type="simple">doi: 10.1016/S0016-6995(93)80047-U</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nimis</surname><given-names>PL</given-names></name><name name-style="western"><surname>Vignes-Lebbe</surname><given-names>R</given-names></name></person-group> (<year>2010</year>)<source> Tools for identifying biodiversity: progress and problems: proceedings of the international congress, Paris (France), September 2010. Universita di Trieste: 455 pp.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rozanov</surname><given-names>A</given-names></name><name name-style="western"><surname>Missarzhevskiy</surname><given-names>VV</given-names></name></person-group> (<year>1966</year>)<source> Biostratigrafiya i fauna nizhnikh gorizontov kembriya [Biostratigraphy and fauna of the lower horizons of the Cambrian]. Geologicheskiy Institut, Akademiya Nauk SSSR, Trudy 148, 126 pp.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rozanov</surname><given-names>A</given-names></name><name name-style="western"><surname>Sokolov</surname><given-names>BS</given-names></name></person-group> (<year>1984</year>)<source> Lower Cambrian stage subdivision stratigraphy.</source> <publisher-name>Moscow</publisher-name>, <publisher-loc>Nauka</publisher-loc>, <lpage>184</lpage> pp.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ung</surname><given-names>V</given-names></name><name name-style="western"><surname>Dubus</surname><given-names>G</given-names></name><name name-style="western"><surname>Zaragüeta-Bagils</surname><given-names>R</given-names></name><name name-style="western"><surname>Vignes-Lebbe</surname><given-names>R</given-names></name></person-group> (<year>2010</year>)<article-title> Xper²: introducing e-Taxonomy.</article-title> <source>Bioinformatics </source> <volume>26</volume> (<issue>5</issue>): <fpage>703</fpage>-<lpage>704</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btp715" xlink:type="simple">doi: 10.1093/bioinformatics/btp715</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vavilov</surname><given-names>NI</given-names></name></person-group> (<year>1922</year>)<article-title> The law of homologous series in variation.</article-title> <source>Journal of genetics </source> <volume>12</volume> (<issue>1</issue>): <fpage>47</fpage>-<lpage>89</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02983073" xlink:type="simple">doi: 10.1007/BF02983073</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhuravleva</surname><given-names>IT</given-names></name></person-group> (<year>1960</year>)<source> Arkheotsiaty Sibirskoy Platformy [Archaeocyaths of the Siberian Platform], Akademiya Nauk SSSR, 344 pp.+ XXXIII pl.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

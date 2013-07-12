@@ -1,0 +1,816 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.221.3207</article-id>
+            <title-group>
+                <article-title>Redescription of arenicolous dipluran 
+                    <italic>Parajapyx pauliani</italic> (Diplura, Parajapygidae) and DNA barcoding  analyses of 
+                    <italic>Parajapyx</italic> from China
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bu</surname>
+                        <given-names>Yun</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Gao</surname>
+                        <given-names>Yan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Potapov</surname>
+                        <given-names>Mikhail B.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Luan</surname>
+                        <given-names>Yun-Xia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Institute of Plant Physiology &amp; Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200032, China
+            </aff>
+            <aff id="A2">
+                <label>2</label>Moscow State Pedagogical University, Kibalchich str., 6, korp. 5, Moscow 129278, Russia
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Yun-Xia Luan (<email xlink:type="simple">yxluan@sibs.ac.cn</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Louis Deharveng</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>9</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>221</issue>
+            <fpage>19</fpage>
+            <lpage>29</lpage>
+            <history>
+                <date date-type="received">
+                    <day>9</day>
+                    <month>4</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>8</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Yun Bu, Yan Gao, Mikhail B. Potapov, Yun-Xia Luan</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Littoral dipluran <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> Pagés, 1959 was redescribed based on the specimens collected in Hainan Island, South China. The littoral habitat was confirmed for the species, as the first report of arenicolous dipluran in China. DNA barcoding fragment was sequenced for five <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species (18 individuals) from China, and this is the first report on DNA barcodes used for dipluran identification. The mean intra- and interspecific divergencesare 1.9% and 19.1% respectively. Synonymy of <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> was confirmed.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Diplura</kwd>
+                <kwd><italic>Parajapyx</italic>
+                </kwd>
+                <kwd>littoral</kwd>
+                <kwd>DNA barcodes analysis</kwd>
+                <kwd>China</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The genus <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> was erected by <xref ref-type="bibr" rid="B16">Silvestri (1903)</xref> with type species <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> (Grassi, 1886). It is characterized by the mandible with five teeth and four denticles, absence of labial palpus, maxilla with first lobe slender and others pectinate, two pairs of spiracles on meso- and metanotum, four placoid sensilla on the terminal segment of antenna, subcoxal organ on urosternite I, eversible vesicles on urosternites II and <!--PageBreak-->III, claw with single medial unguis, and symmetrical cerci with 4-5 inner teeth (<xref ref-type="bibr" rid="B9">Pagés 1952</xref>, <xref ref-type="bibr" rid="B19">Xie and Yang 1992</xref>).
+            </p>
+            <p>Later, <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> was divided into two subgenera (<italic><tp:taxon-name>Grassjapyx</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic>) according to the shape of cerci (inner margin of cerci straight, tooth 1 not separated from others by a sinus in <italic><tp:taxon-name>Grassjapyx</tp:taxon-name></italic> vs. teeth 2-5 or 3-5 on a convexity of the internal margin, tooth 1 is separated from others by a sinus in <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic>) (<xref ref-type="bibr" rid="B9">Pagés 1952</xref>). So far, there are 31 species (16 subspecies) described in subgenus <italic><tp:taxon-name>Grassjapyx</tp:taxon-name></italic>, and 24 species (7 subspecies) in subgenus <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B15">Sendra 2006</xref>, <xref ref-type="bibr" rid="B6">Luan et al. 2007</xref>) in the world. Five species of genus <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> were reported in China (<xref ref-type="bibr" rid="B19">Xie and Yang 1992</xref>, <xref ref-type="bibr" rid="B6">Luan et al. 2007</xref>).
+            </p>
+            <p>In April 2011, during the research of the diversity of basal hexapods in littoral of Asia-Pacific coast, seven specimens of <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> were collected from intertidal zone of several beaches of Hainan Island, South China. Those specimens were identified as <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> Pagés, 1959, which was firstly described based on only specimen from intertidal zone of Nosy Be, Madagascar Island, and Pagés doubted about the habitat where the species was collected (<xref ref-type="bibr" rid="B10">Pagés 1959</xref>).
+            </p>
+            <p>In this study, we provided a detailed redescription of this species based on our specimens, and more discussion on its littoral habitat. We analyzed the DNA barcoding sequences (<xref ref-type="bibr" rid="B4">Hebert et al. 2003</xref>) of <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic>, as well as other four <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species living in soil, in order to confirm the validity of species, and provide a useful reference for the identification of <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species.
+            </p>
+        </sec>
+        <sec sec-type="Materials and methods">
+            <title>Materials and methods</title>
+            <sec sec-type="Samples collection">
+                <title>Samples collection</title>
+                <p>With flotation method, the specimensof <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> were collected directly from the water surface in Hainan, China, and stored in 80% ethanol. Specimens of other species were extracted by the Tullgren funnels from soil samples (<xref ref-type="table" rid="T1">Table 1</xref>). For <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic>, two individuals of its synonym <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic> identified from the morphology were also sampled.
+                </p>
+                <table-wrap position="float" orientation="portrait" id="T1">
+                    <label>Table 1.</label>
+                    <caption><p><italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species and outgroups used in the study.</p>
+                    </caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Classification</bold>
+                                </th>
+                                <th rowspan="1" colspan="1"><bold>Species</bold>
+                                </th>
+                                <th rowspan="1" colspan="1"><bold>Locality</bold>
+                                </th>
+                                <th rowspan="1" colspan="1"><bold>Number of individuals</bold>
+                                </th>
+                                <th rowspan="1" colspan="1"><bold>GenBank Accession Numbers</bold>
+                                </th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Diplura</bold>
+                                </td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Parajapygidae</bold> 
+                                </td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="6" colspan="1"><bold><italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic></bold>
+                                </td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Hainan</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ692327">JQ692327</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796634">JQ796634</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parajapyx emeryanus</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Shanghai</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796635">JQ796635</ext-link><bold>-</bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796640">JQ796640</ext-link>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Shanghai</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796641">JQ796641</ext-link><bold>-</bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796645">JQ796645</ext-link>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic>  (Syn. <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic>)
+                                </td>
+                                <td rowspan="1" colspan="1">Shanghai</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796646">JQ796646</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796647">JQ796647</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parajapyx hwashanensis</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Qinghai</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796648">JQ796648</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parajapyx yangi</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Gansu</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796649">JQ796649</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ796650">JQ796650</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Japygidae</bold>
+                                </td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Occasjapyx japonicus</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Shanghai</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HQ882833">HQ882833</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Campdeidae</bold>
+                                </td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lepidocampa weberi</tp:taxon-name></italic>
+                                </td>
+                                <td rowspan="1" colspan="1">Shanghai</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HQ882832">HQ882832</ext-link></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Taxonomy of Parajapyx pauliani">
+                <title>Taxonomy of <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic>
+                </title>
+                <p>Seven specimens of <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> were collected: four of which were mounted in Hoyer’s solution for identification, two were morphological identified in the alcohol first and then used for DNA extraction, and one was reserved in pure alcohol. Measurements and photos were taken by the help of a phase contrast microscope NIKON E600. The species was identified by the comparison of characters of all known species of the genus. For the name of chaetotaxy, we used the nomenclature proposed by <xref ref-type="bibr" rid="B9">Pagés (1952</xref>, <xref ref-type="bibr" rid="B13">1996</xref>), and made some minor modifications following <xref ref-type="bibr" rid="B3">García-Gómez (2009)</xref>. Microsetae on the body and the sensilla on the antenna were studied in detail for this species. Each pro-, meso- and metasternum was divided to three areas to designate setae.<!--PageBreak-->
+                </p>
+                <p>Abbreviations. Ant. I-XXI= antenna segments I-XXI; BS= baculiform sensillum; M = macroseta; the position on dorsal of body as: ma = medial anterior, la= lateral anterior, mp = medial posterior, lp = lateral posterior; ms= microsensillum; m = microseta, n* = normal seta; s=sensillum; t1-t5= teeth of cercus.</p>
+                <p>* including all “s” setae named by <xref ref-type="bibr" rid="B9">Pagés (1952)</xref> and all supplemental setae inserted between M.
+                </p>
+            </sec>
+            <sec sec-type="Molecular experiments">
+                <title>Molecular experiments</title>
+                <p>Eighteen individuals from five <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species were used for DNA barcoding analyses (<xref ref-type="table" rid="T1">Table 1</xref>), and two dipluran specimens from <tp:taxon-name>Japygidae</tp:taxon-name> and <tp:taxon-name>Campodeidae</tp:taxon-name> were used as the outgroups. All specimens were morphological identified in the alcohol first and then used for DNA extraction. We followed the experimental procedure for Collembola described in <xref ref-type="bibr" rid="B8">Potapov et al. (2010)</xref>. Genomic DNA was extracted from one individual using the Wizard SV Genomic DNA Purification System (# 2361). The mitochondrial COI gene sequence was amplified (658 bp) by primer pair LCO (5’ - GGTCAACAAATCATAAAGATATTGG-3’) / HCO (5’- TAAACTTCAGGGTGACCAAAAAATCA- 3’) (<xref ref-type="bibr" rid="B2">Folmer et al. 1994</xref>). PCR products were purified and then sequenced directly using both of the amplification primers.
+                </p>
+            </sec>
+            <sec sec-type="Sequences analysis">
+                <title>Sequences analysis</title>
+                <p>DNA sequences were analyzed with the software DNASTAR (<xref ref-type="bibr" rid="B1">Burland 2000</xref>). The genetic divergences (p-distance) were analyzed using MEGA 4.0 (<xref ref-type="bibr" rid="B18">Tamura et al. 2007</xref>). The phylogenetic tree was constructed by PAUP 4.0 beta 10 (<xref ref-type="bibr" rid="B17">Swofford 2002</xref>) with Neighbour-joining method and 1000 bootstrap replicates.
+                </p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Parajapyx</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">pauliani</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Parajapyx_pauliani</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Pagés, 1959</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1–17</xref>
+                    <xref ref-type="table" rid="T2">Tables 2</xref>
+                    <xref ref-type="table" rid="T3">3</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Material examined">
+                    <title>Material examined.</title>
+                    <p>4 females, South China, Hainan Island, Sanya city, shingly beach of Ximaozhou island (samples No. 6 and 8), <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">18°14'N, 109°22'E</named-content>, 5-IV-2011; 1 female, from sand beach of the Ximaozhou Island (sample No. 17), 6-IV-2011; 2 female, South China, Hainan Island, Changjiang County, Changhua town, from sand beach of Qizi Bay (sample No. 54), <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">19°21'N, 108°40'E</named-content>, 7-IV-2011, coll. Y. Bu, C. W. Huang, M. B. Potapov and N. A. Kuznetsova. All specimens are kept at Institute of Plant Physiology &amp; Ecology, CAS.
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Redescription">
+                    <title>Redescription.</title>
+                    <p>Body length and width of adult female 2.8–3.0 mm, and 0.3–0.35 mm, respectively (four specimens, antenna and cerci not included). Tegument smooth, without ornamentation (<xref ref-type="fig" rid="F1">Fig. 1</xref>).
+                    </p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Head">
+                    <title>Head. </title>
+                    <p>Length 0.23–0.25 mm, width 0.23–0.25 mm. Dorsal side with 5+5 interior (Di), 5+5 exterior (De), and 10+10 lateral setae (Dl) (only show five on the picture), without front setae (<xref ref-type="fig" rid="F1">Fig. 2</xref>). Labrum with two pairs of medial setae (1+1 M and 1+1 n), 6+6 m. On ventral side internal lobe (li) with 1+1 m; external lobe (le) with 9 +9 setae; coxae (cx) with 1 M and 3n; labial palpus absent, replaced with 1 M accompanied by two normal seate; admentum with 11 setae, 3 M and 8 n; pli oral region with 4–5 setae; submentum with 2+2 setae (<xref ref-type="fig" rid="F1">Fig. 3</xref>).
+                    </p>
+                    <p>Mouthparts. Lacinia composed by five lobes, the first lobe (distal) is very acute and smooth, and the following four larger and pectinate. Mandible with five teeth and three denticles between them. Maxillary palpus with 10 n and 2 m setae.</p>
+                    <p>Antenna with 21 segments, length 0.8 mm. Antenna segment I with seven microsetae dorsally and 5 setae, Ant. II and III each with 9 setae, Ant. IV with 11 setae, Ant. I-IV without sensilla and trichobothria, Ant. V with two bacilliform sensilla (BS) and 14–17 setae, Ant. VI with three BS and 16–18 setae, Ant. VII with three BS and 17–20 setae; Ant. VIII-XIX each with 4 BS and 18–28 setae, Ant. XX with 6 BS and 34–35 setae, Ant. XXI with eight BS and four placoid sensilla, and 55–60 seate. Single microsensillum asymmetrically present on Ant. IX-XIII, XVII, and XIX.</p>
+                    <p><bold>Thorax.</bold> Chaetotaxy of thorax as show in <xref ref-type="table" rid="T2">Table 2</xref>, <xref ref-type="table" rid="T3">3</xref>. Pro-, meso- and metanotum each with 5+5 M setae and 6-17 n setae (<xref ref-type="fig" rid="F1">Figs 4</xref>–6). Pro-, meso- and metasternum as show in <xref ref-type="fig" rid="F1">Figs 7–9</xref>. Leg III length 0.3 mm, coxa with 1 M, 3 n and 2 m; trochanter with 1 M and 2 n dorsally, 1 m ventrally; femur with 10 n and 3 m setae; tibia with 8 n; tarsus with 10 n; claw symmetrical and with single medial unguis.
+                    </p>
+                    <p><bold>Abdomen.</bold> Chaetotaxy of the abdomen as shown in <xref ref-type="table" rid="T2">Table 2</xref> and <xref ref-type="table" rid="T3">3</xref>. Urotergite I (<xref ref-type="fig" rid="F1">Fig. 12</xref>): prescutum with 4+4 m and 2+2 n, scutum with 6+6 m, 5+5 M and (10-14)+(9-14) n. Urotergites II-VII (<xref ref-type="fig" rid="F1">Figs 13-14</xref>): prescutum with 4+4 m and 2+2 n, scutum with (6-8)+(6-8) m, 8+8 M and (9-18)+(9-19) n. Urotergite VIII with 12+12 m, 8+8 M and (9-10)+2(3)+(7-13) n. Urotergite IX with 7+7 m, 3+3 M and 2+1+2 n. Urotergite X with 4+4 m, 6+1+6 M and (6-8)+(6-8) n.<!--PageBreak--><!--PageBreak-->
+                    </p>
+                    <p>Urosternite I (<xref ref-type="fig" rid="F1">Fig. 15</xref>): prescutum with 2+2 m and 5 +5 n, scutum with 5+5 m, 10+10 M and (10-18)+1(2)(3)+(11-18) n. Subcoxal organ composed by 10-13 setae, including 6-8 slender glandular setae and 4-5 sensory setae, without medial glandular organ (<xref ref-type="fig" rid="F1">Fig. 11</xref>). Urosternites II to VII (<xref ref-type="fig" rid="F1">Figs 16-17</xref>): prescutum with 4 +4 m and (5-7)+1+(5-7) n setae, scutum with 5 +5 m, 12 +12 M, (7-12) + 2(3)+(6-11) n. Urosternite VIII with 4+4 m, 2 +2 M, (4-5)+(4-5) n. Urosternite IX with 4+4 m, 2 +2 M and 3+3 n. Urosternite X with 4 +4 m, 6+6 M and 3+1+3 n. Eversible vesicles present on the urosternites II-III, diameter 32-37 μm. Styli on urosternites I-III each with one short sensilla and one m seta, on urosternites IV-VII with single seta m. Female genital papilla with 10+2+10 n.
+                    </p>
+                    <p>Cerci (<xref ref-type="fig" rid="F1">Fig. 10</xref>) singly segmented, symmetrical, with five distinct internal teeth, crooked; t3 larger than others; interval between t1-t2 as two times as t2-t3 and t3-t4; t2-t4 with shoulder, dorsal side with 9 M, 5 n and 5 m, ventral side with7 M, 3 n and 3 m; each cercus with 7–8 evaporation plates.
+                    </p>
+                    <table-wrap position="float" orientation="portrait" id="T2">
+                        <label>Table 2.</label>
+                        <caption><p>Chaetotaxy of dorsal side of body in adult <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic></p>
+                        </caption>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="2" colspan="2">segments</th>
+                                    <th rowspan="2" colspan="1">m</th>
+                                    <th rowspan="1" colspan="4">M</th>
+                                    <th rowspan="2" colspan="1">n</th>
+                                </tr>
+                                <tr>
+                                    <th rowspan="1" colspan="1">ma</th>
+                                    <th rowspan="1" colspan="1">mp</th>
+                                    <th rowspan="1" colspan="1">la</th>
+                                    <th rowspan="1" colspan="1">lp</th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Pronotum</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">Mesonotum</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">(8-13)+(8-12)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">Metanotum</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">(13-17)+(10-16)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">Abd. I</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">(10-14)+(9-14)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">II</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(11-17)+(11-17)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">III</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(14-17)+(11+17)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">IV</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(11-17)+(11-18)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">V</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(12-17)+(13-18)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">VI</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(12-14)+(10-16)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">VII</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">8+8</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(9-14)+(9-14)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">VIII</td>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(9-10)+2(3)+(7-13)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">IX</td>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="4">3+3</td>
+                                    <td rowspan="1" colspan="1">2+1+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="4">6+1+6</td>
+                                    <td rowspan="1" colspan="1">(6-8)+(6-8)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <table-wrap position="float" orientation="portrait" id="T3">
+                        <label>Table 3.</label>
+                        <caption><p>Chaetotaxy of ventral side of body in adult <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic></p>
+                        </caption>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1"><bold>segments</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"></th>
+                                    <th rowspan="1" colspan="1"><bold>m</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>M</bold>
+                                    </th>
+                                    <th rowspan="1" colspan="1"><bold>n</bold>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="3" colspan="1">Prosternum</td>
+                                    <td rowspan="1" colspan="1">Anterior lobe</td>
+                                    <td rowspan="1" colspan="1">3+7+3</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Middle lobe</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Posterior lobe</td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                    <td rowspan="1" colspan="1">1+1</td>
+                                    <td rowspan="1" colspan="1">2(3)+1+2(3)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="3" colspan="1">Mesosternum</td>
+                                    <td rowspan="1" colspan="1">Anterior lobe</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Middle lobe</td>
+                                    <td rowspan="1" colspan="1">7+7</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Posterior lobe</td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                    <td rowspan="1" colspan="1">3+2+3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="3" colspan="1">Metasternum</td>
+                                    <td rowspan="1" colspan="1">Anterior lobe</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">2+1+2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Middle lobe</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">3+2+3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Posterior lobe</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                    <td rowspan="1" colspan="1">3+2+3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">Abd. I</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">10+10</td>
+                                    <td rowspan="1" colspan="1">(10-18)+2(3)+(11-18)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">II</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">(5-7)+1+(5-7)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">(8-11)+2(3)+(8-11)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">III</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">6(7)+1+6(7)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">(8-9)+2(3)+(8-11)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">IV</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">6(7)+1+6(7)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">(8-11)+2(3)+(8-11)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">V</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">(5-7)+1+(5-7)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">(7-12)+2+(7-10)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">VI</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">6+1+6</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">(8-12)+2+(7-10)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" colspan="1">VII</td>
+                                    <td rowspan="1" colspan="1">Prescutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">5+1+5</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">5+5</td>
+                                    <td rowspan="1" colspan="1">12+12</td>
+                                    <td rowspan="1" colspan="1">(9-10)+2+(6-9)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">VIII</td>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">(4-5)+(4-5)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">IX</td>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">2+2</td>
+                                    <td rowspan="1" colspan="1">3+3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1">Scutum</td>
+                                    <td rowspan="1" colspan="1">4+4</td>
+                                    <td rowspan="1" colspan="1">6+6</td>
+                                    <td rowspan="1" colspan="1">3+1+3</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figures 1–17.</label>
+                        <caption><p><italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> <bold>1</bold> Habitus <bold>2</bold> head, dorsal view (Di= dorsal interior setae; De= dorsal exterior setae; Dl= dorsal lateral setae) <bold>3</bold> head, ventral view (<bold>ad</bold>= admentum <bold>cx</bold>= coxae <bold>lp</bold>= labial palps area <bold>sm</bold>= submentum <bold>po</bold>= pli oral region) <bold>4</bold> pronotum <bold>5</bold> mesonotum <bold>6</bold> metanotum <bold>7</bold> prosternum (<bold>al</bold>= anterior lobe <bold>ml</bold>= middlelobe <bold>pl</bold>= posterior lobe, same for figs <bold>8–9</bold>) <bold>8</bold> mesosternum <bold>9</bold> metasternum <bold>10</bold> cerci <bold>11</bold> subcoxal organ of urosternite I, right side <bold>12</bold> urotergite I <bold>13</bold> urotergite II <bold>14</bold> urotergite VII <bold>15</bold> urosternite I (<bold>so</bold>= subcoxal organ) <bold>16</bold> urosternite II (<bold>ev</bold>= eversible vesicles) <bold>17</bold> urosternite VII. Scale bar: 0.5 mm in Fig. <bold>1</bold>; 0.1 mm in Figs <bold>2–17</bold>.</p>
+                        </caption>
+                        <graphic xlink:href="ZooKeys-221-019-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>So far, the species is known only from two localities: Hainan, China and Madagascar.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> is characterized by the antenna with 21 segments, nota each with 5+5 M setae and numerous normal setae, urotergites II-VII each with <!--PageBreak-->8+8 M setae and numerous normal setae, and prescutum of urotergites II-V each with 2+2 normal setae. Ithas more normal setae than in other congeners. The numbers of M and m setae are relatively stable, but the numbers of normal setae are quite variable in different individuals.
+                    </p>
+                    <sec sec-type="Littoral habitat of Parajapyx pauliani">
+                        <title>Littoral habitat of <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic>
+                        </title>
+                        <p>Three intertidal locations where <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> was found are shown in <xref ref-type="fig" rid="F2">Figs 18–20</xref>. All habitats are positioned lower than supralittoral, devoid of halophytes, and are directly influenced by sea water. The animal lives in shingly or sand beaches (<xref ref-type="fig" rid="F2">Figs 18–20</xref>), between particles of different size: from 9 mm (with the whole variation from 5 to 16 mm, n=100) to 1.5 mm (1.0–2.3 mm, n=150) in diameter. <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> appears to<!--PageBreak--> be a dipluran member of a genuine littoral community and is often associated with collembolan species like <italic><tp:taxon-name>Yuukianura</tp:taxon-name></italic> sp., <italic><tp:taxon-name>Isotogastrura trichaetosa</tp:taxon-name></italic> <xref ref-type="bibr" rid="B7">Potapov et al. 2011</xref>, <italic><tp:taxon-name>Thalassaphorura</tp:taxon-name></italic> sp., <italic><tp:taxon-name>Oudemansia</tp:taxon-name></italic> sp., <italic><tp:taxon-name>Acherontiella</tp:taxon-name></italic> sp., <italic><tp:taxon-name>Archisotoma</tp:taxon-name></italic> sp.
+                        </p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figures 18–20.</label>
+                            <caption><p>Habitats of <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> in Hainan (S China). <bold>18</bold> shingly beach of Ximaozhou Island, inset shows the size of stone <bold>19</bold> sand beach of Ximaozhou Island, inset show the size of sand granules <bold>20</bold> sand beach of Qizi Bay, inset show the size of sand granules &#10033; indicates the sample site.</p>
+                            </caption>
+                            <graphic xlink:href="ZooKeys-221-019-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figure 21.</label>
+                            <caption><p>Neighbour-joining tree (p-distance, Bootstrap 1000 replicates) of Chinese <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> inferred from COI gene sequences. Numbers on the nodes show the bootstrap values (&gt; 50%).</p>
+                            </caption>
+                            <graphic xlink:href="ZooKeys-221-019-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </sec>
+                    <sec sec-type="The DNA barcoding">
+                        <title>The DNA barcoding</title>
+                        <p>The DNA barcoding of 18 individuals from five <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species from China were sequenced, and deposited in GenBank (the accession numbers showed in <xref ref-type="table" rid="T1">Table 1</xref>). The genetic divergence between individuals of the same species is 1.9% in average, with span 1.5–5.3%, and it is 19.1% in average, with span 16.3–21.3% between different <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species.
+                        </p>
+                        <p>The Neighbour-joining tree was constructed based on the barcoding sequences (<xref ref-type="fig" rid="F3">Fig. 21</xref>). <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> is clustered with <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic>. <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx emeryanus</tp:taxon-name></italic> are valid species respectively well supported by barcoding analyses. Two individuals of <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> (Syn. <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic>) (teeth absent on the cerci) clustered together with five individuals of <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> (teeth present on the cerci). The genetic divergence between <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> (Syn. <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic>) and <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> is only 1.7% in average (with span 0.8–2.6%). In addition, individuals of <italic><tp:taxon-name>Parajapyx yangi</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx hwashanensis</tp:taxon-name></italic> clustered together with high support value, and the genetic divergence between them is low (0.2%).
+                        </p>
+                    </sec>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion and conclusion">
+            <title>Discussion and conclusion</title>
+            <sec sec-type="Littoral records of Parajapyx">
+                <title>Littoral records of <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic>
+                </title>
+                <p>This is the first record of littoral dipluran in China. When <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> was first found in intertidal zone in 1959, Pagés supposed that it is “purely fortuitous, and the single specimen collected was, in fact, might be pulled far away from its normal habitat by runoff” (<xref ref-type="bibr" rid="B10">Pagés 1959</xref>). Our records confirm the habitat of the species where it can live in narrow passages between sand particles due to slender and long body.
+                </p>
+                <p>Numerous normal setae on body of <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> are shared with <italic><tp:taxon-name>Parajapyx botosaneanui</tp:taxon-name></italic> Pagés, 1975, described from intertidal zone of Caribbean coast of Cuba (<xref ref-type="bibr" rid="B12">Pagés 1975</xref>). The two species can be readly distinguished by the number of the segments of antenna (21 in <italic><tp:taxon-name>Parajapyx pauliani</tp:taxon-name></italic> vs. 19 in <italic><tp:taxon-name>Parajapyx botosaneanui</tp:taxon-name></italic>). More dense setaceous covering probably protects the littoral species of <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> against the periodical contact with salt water. Three other <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic> species <italic><tp:taxon-name>Parajapyx gerlachi</tp:taxon-name></italic>, <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic>, and <italic><tp:taxon-name>Parajapyx (G.) brasilianus</tp:taxon-name></italic> were also recorded in intertidal localities (<xref ref-type="bibr" rid="B11">Pagés 1967</xref>).
+                </p>
+            </sec>
+            <sec sec-type="Barcoding analysis">
+                <title>Barcoding analysis</title>
+                <p>The DNA barcodes have been widely used in identification of microarthropod species, for instance, collembolans (<xref ref-type="bibr" rid="B4">Hebert et al. 2003</xref>, <xref ref-type="bibr" rid="B5">Hogg and Hebert 2004</xref>). To our knowledge, this is the first report on DNA barcodes of Diplura, which proved to be useful for dipluran identification. Our analyses confirmed the synonymy of <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> proposed by <xref ref-type="bibr" rid="B14">Pagés (1998)</xref> and <xref ref-type="bibr" rid="B6">Luan et al. (2007)</xref>. These species differed only by teeth in cerci, absent vs. present. The genetic divergence between <italic><tp:taxon-name>Parajapyx paucidentis</tp:taxon-name></italic> and<!--PageBreak--> <italic><tp:taxon-name>Parajapyx isabellae</tp:taxon-name></italic> is 1.7% in average (with span 0.8–2.6%), which is exactly in the span of the divergence between individuals of the same species.
+                </p>
+                <p>The formal morphological difference in second problematic couple, <italic><tp:taxon-name>Parajapyx yangi</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx hwashanensis</tp:taxon-name></italic>, is the number of teeth on the cerci: the former species has four teeth, while the latter has five. Our DNA barcoding data showed only one nucleotide difference between examined individuals of <italic><tp:taxon-name>Parajapyx yangi</tp:taxon-name></italic> and <italic><tp:taxon-name>Parajapyx hwashanensis</tp:taxon-name></italic>. All individuals, identified formally by us as <italic><tp:taxon-name>Parajapyx yangi</tp:taxon-name></italic> were, however, immature that indicated the possible age nature of this differences. The type materials of the two species call for study to make the final conclusions.
+                </p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We sincerely thank Natalya A. Kuznetsova who taken the photos for the size of granules, and Cheng-Wang Huang for their help during the collection. Special thanks are given to Rong-Dong Xie for his suggestion on species identification. We also owe our deepest gratitude to Markus Koch (Germany), Alberto Sendra (Spain) and Arturo García-Gómez (Mexico) for generously providing good suggestions and references of <italic><tp:taxon-name>Parajapyx</tp:taxon-name></italic>. The study was supported by the National Natural Sciences Foundation of China (30870282, 31071911, 31071887), NSFC-RFBR Cooperative Research Project (31111120077 / 11-04-91179-GFENa), and Bureau of International Co-operation Chinese Academy of Sciences.
+            </p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Burland</surname> <given-names>TG</given-names></name></person-group> (<year>2000</year>)<article-title> DNASTAR’s Lasergene sequence analysis software.</article-title> <source>Methods Molecular Biology </source> <volume>132</volume>: <fpage>71</fpage>-<lpage>91</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Folmer</surname> <given-names>O</given-names></name><name name-style="western"><surname>Black</surname> <given-names>M</given-names></name><name name-style="western"><surname>Hoeh</surname> <given-names>W</given-names></name><name name-style="western"><surname>Lutz</surname> <given-names>R</given-names></name><name name-style="western"><surname>Vrijenhoek</surname> <given-names>R</given-names></name></person-group> (<year>1994</year>)<article-title> DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates.</article-title> <source>Molecular Marine Biology and Biotechnology </source> <volume>3</volume>: <fpage>294</fpage>-<lpage>299</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>García-Gómez</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>)<article-title> Nuevo Género Y Nueva Especie De Parajapygidae (Hexapoda: Diplura) De La Selva Lacandona, México.</article-title> <source>Acta Zoológica Mexicana (n.s.)</source> <volume>25</volume> (<issue>3</issue>): <fpage>527</fpage>-<lpage>535</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hebert</surname> <given-names>PDN</given-names></name><name name-style="western"><surname>Cywinska</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ball</surname> <given-names>SL</given-names></name><name name-style="western"><surname>deWaard</surname> <given-names>JR</given-names></name></person-group> (<year>2003</year>)<article-title> Biological identifications through DNA barcodes.</article-title> <source>Proceedings of the Royal Society of London Series B-Biological Sciences </source> <volume>270</volume>: <fpage>313</fpage>-<lpage>321</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2002.2218" xlink:type="simple">10.1098/rspb.2002.2218</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hogg</surname> <given-names>ID</given-names></name><name name-style="western"><surname>Hebert</surname> <given-names>PDN</given-names></name></person-group> (<year>2004</year>)<article-title> Biological identification of springtails (Hexapoda: Collembola) from the Canadian Arctic, using mitochondrial DNA barcodes.</article-title> <source>Canadian Journal of Zoology </source> <volume>82</volume>: <fpage>749</fpage>-<lpage>754</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/z04-041" xlink:type="simple">10.1139/z04-041</ext-link></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Luan</surname> <given-names>YX</given-names></name><name name-style="western"><surname>Bu</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Xie</surname> <given-names>RD</given-names></name></person-group> (<year>2007</year>)<article-title> Revision of a synonym with <italic>Parajapyx isabellae</italic> (Grassi, 1886) on both morphological and molecular data (Diplura, Parajapygidae).</article-title> <source>Acta Zootaxonomica Sinica </source> <volume>32</volume> (<issue>4</issue>): <fpage>1006</fpage>-<lpage>1007</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Potapov</surname> <given-names>MB</given-names></name><name name-style="western"><surname>Bu</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Gao</surname> <given-names>Y</given-names></name></person-group> (<year>2011</year>)<article-title> First record of the littoral family Isotogastruridae (Collembola) in Asia.</article-title> <source>ZooKeys </source> <volume>136</volume>: <fpage>23</fpage>-<lpage>29</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.136.1666" xlink:type="simple">10.3897/zookeys.136.1666</ext-link></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Potapov</surname> <given-names>MB</given-names></name><name name-style="western"><surname>Bu</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Huang</surname> <given-names>CW</given-names></name><name name-style="western"><surname>Gao</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Luan</surname> <given-names>YX</given-names></name></person-group> (<year>2010</year>)<article-title> Generic switch-over during ontogenesis in <italic>Dimorphacanthella</italic> gen. n. (Collembola, Isotomidae) with barcoding evidence.</article-title> <source>Zookeys </source> <volume>73</volume>: <fpage>13</fpage>-<lpage>23</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.73.839" xlink:type="simple">10.3897/zookeys.73.839</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagés</surname> <given-names>J</given-names></name></person-group> (<year>1952</year>)<article-title> Parajapyginae (Insecta, Entotrophi, Japygidae) de l’Angola.</article-title> <source>Subsidios Para o Estudo Da Biologia Na Lunda Publ. </source> <volume>13</volume>: <fpage>53</fpage>-<lpage>96</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagés</surname> <given-names>J</given-names></name></person-group> (<year>1959</year>)<article-title> Un Parajapyx s. str. Inedit de Nosy Be.</article-title> <source>Le Naturaliste Malgache</source> <volume>11</volume>(<issue>1/2</issue>): <fpage>67</fpage>–<lpage>71</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagés</surname> <given-names>J</given-names></name></person-group> (<year>1967</year>)<article-title> Un Diploure Parajapygidé inédit de l’archi-pel des Farasan (Arabie Séoudite).</article-title> <source>Bulletin de la Société Entomologique de France </source> <volume>72</volume>: <fpage>240</fpage>-<lpage>244</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagés</surname> <given-names>J</given-names></name></person-group> (<year>1975</year>)<article-title> Un Parajapygidé inédit des plages de la côte caraïbe de Cuba récolté par Mr. L. Botosaneanu au cours de la seconde expédition biospéléoloique cubano-roumaine à Cuba en 1973.</article-title> <source>International Journal of Speleology </source> <volume>6</volume>: <fpage>339</fpage>-<lpage>352</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagés</surname> <given-names>J</given-names></name></person-group> (<year>1996</year>)<article-title> Un Evalljapygidae (Diplura) canadien: Evalljapyx saudersi n. sp. Dicellurata Genavensia XXI.</article-title> <source>Revue Suisse de Zoologie </source> <volume>103</volume> (<issue>2</issue>): <fpage>355</fpage>-<lpage>367</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagés</surname> <given-names>J</given-names></name></person-group> (<year>1998</year>)<article-title> Japygoidea (Diplura) du Sud-Est asiatique n. 8: Indonésie (Java, Bali), Singapour et Brunei- <italic>Dicellurata Genavensia</italic> XXIII-.</article-title> <source>Revue Suisse de Zoologie </source> <volume>105</volume> (<issue>4</issue>): <fpage>879</fpage>-<lpage>899</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sendra</surname> <given-names>A</given-names></name></person-group> (<year>2006</year>)<source> Synopsis of described Diplura of the world.</source> <ext-link ext-link-type="uri" xlink:href="http://insects.tamu.edu/research/collection/hallan/Arthropoda/Insects/Diplura/Family/Diplura1.htm" xlink:type="simple">http://insects.tamu.edu/research/collection/hallan/Arthropoda/Insects/Diplura/Family/Diplura1.htm</ext-link></mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Silvestri</surname> <given-names>F</given-names></name></person-group> (<year>1903</year>)<article-title> Descrizione di un nuovo genere di Projapygidoe (Thysanura) trovato in Italia.Annali della R. Scuola sup.</article-title> <source>Agricoltura in Portici </source> <volume>5</volume>: <fpage>1</fpage>-<lpage>8</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname> <given-names>DL</given-names></name></person-group> (<year>2002</year>)<source> PAUP*: Phylogenetic Analysis Using Parsimony (*and Other Methods).</source> Version <volume>4</volume>. <publisher-name>Sinauer Associates</publisher-name>, <publisher-loc>Sunderland, Massachusetts</publisher-loc>.</mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname> <given-names>K</given-names></name><name name-style="western"><surname>Dudley</surname> <given-names>J</given-names></name><name name-style="western"><surname>Nei</surname> <given-names>M</given-names></name><name name-style="western"><surname>Kumar</surname> <given-names>S</given-names></name></person-group> (<year>2007</year>)<article-title> MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) software version 4.0.</article-title> <source>Molecular Biology and Evolution</source> <volume>24</volume>(<issue>8</issue>): <fpage>1596</fpage>-<lpage>1599</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msm092" xlink:type="simple">10.1093/molbev/msm092</ext-link></mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Xie</surname> <given-names>RD</given-names></name><name name-style="western"><surname>Yang</surname> <given-names>YM</given-names></name></person-group> (<year>1992</year>)<article-title> Arthropoda (III): Diplura.</article-title> In: <person-group><name name-style="western"><surname>Yin</surname> <given-names>WY</given-names></name></person-group> (<role>Eds</role>) <source>Subtropical Soil Animals of China.</source> <publisher-name>Science Press</publisher-name>, <publisher-loc>Beijing</publisher-loc>, <fpage>457</fpage>–<lpage>473</lpage>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

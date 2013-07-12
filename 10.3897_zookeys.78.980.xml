@@ -1,0 +1,911 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.78.980</article-id>
+            <title-group>
+                <article-title>
+                    Cachiporrini, a remarkable new tribe of Lamprosomatinae (Coleoptera, Chrysomelidae)  from South America
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Chamorro</surname>
+                        <given-names>Maria Lourdes</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:8BD38884-6514-4D9E-BDFB-72A41DB11C2C</uri></contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Konstantinov</surname>
+                        <given-names>Alexander S.</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A2">2</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:776A1CD0-5506-42A6-A1C2-ED1AA8A210BA</uri></contrib>
+            </contrib-group>
+                    <aff id="A1"><label>Department of Entomology, National Museum of Natural History, Smithsonian Institution, P.O. Box 37012, MRC-187, Washington, DC, 20013-7012</label></aff>
+                    <aff id="A2"><label>Systematic Entomology Laboratory, USDA, NMNH, Smithsonian Institution, P.O. Box 37012, MRC-168, Washington, DC, 20013-7012</label></aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Maria Lourdes Chamorro (<email xlink:type="simple">lourdes.chamorro@gmail.com</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Terry Erwin</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>29</day>
+                <month>1</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>78</issue>
+            <fpage>43</fpage>
+            <lpage>60</lpage>
+            <history>
+                <date date-type="received">
+                    <day>19</day>
+                    <month>6</month>
+                    <year>2010</year>
+                </date>
+                <date date-type="accepted">
+                    <day>5</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Maria Lourdes Chamorro, Alexander S. Konstantinov</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:056E1F5F-FFCC-496E-AD29-8B1697B8DE42</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new genus and species of <tp:taxon-name>Lamprosomatinae</tp:taxon-name>, <tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name> Chamorro &amp; Konstantinov, is described from Brazil. A new tribe, <tp:taxon-name>Cachiporrini</tp:taxon-name>, is proposed. The first phylogenetic analysis of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> based on adult morphological caharacters is conducted. Comparisons are made among lamprosomatine tribes and genera. A key to tribes is provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>New tribe</kwd>
+                <kwd>new genus</kwd>
+                <kwd>new species</kwd>
+                <kwd>antennal clubs</kwd>
+                <kwd>capitulum</kwd>
+                <kwd>leaf beetles</kwd>
+                <kwd>Brazil</kwd>
+                <kwd>phylogeny</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>As taxonomists we can only hope to make the kind of discoveries that prompt suspended awe and prolonged excitement. Such was our reaction when we stumbled upon this new lamprosomatine genus buried within the <tp:taxon-name>Cryptocephalinae</tp:taxon-name> addenda drawers <!--PageBreak-->of the <tp:taxon-name>Coleoptera</tp:taxon-name> collection at the National Museum of Natural History (NMNH), Smithsonian Institution. Confirmation of this taxon as new was facilitated by the comprehensive chrysomelid collection at NMNH, by the relatively small number of higher-level taxa in <tp:taxon-name>Lamprosomatinae</tp:taxon-name>, and by the comprehensive studies by (<xref ref-type="bibr" rid="B19">Monrós (1956</xref>, <xref ref-type="bibr" rid="B20">1958</xref>) on the group.</p>
+            <p>Monrós devoted much of his short life and taxonomic expertise to the study of this group of small, round, and shiny beetles. Therefore, it was surprising and somewhat ironic that these specimens are from the Monrós collection acquired by the NMNH in 1959. It is fair to state however, that the Monrós collection is extensive and would require many consecutive lifetimes to study it all.</p>
+            <p><tp:taxon-name>Lamprosomatinae</tp:taxon-name> consists of four tribes and 14 genera (<xref ref-type="table" rid="T1">Table 1</xref>): <tp:taxon-name>Cachiporrini</tp:taxon-name> Chamorro &amp; Konstantinov, 2011 (1 genus); <tp:taxon-name>Neochlamysini</tp:taxon-name> Monrós, 1958 (2 genera); <tp:taxon-name>Sphaerocharini</tp:taxon-name> Clavareau, 1913 (1 genus); and <tp:taxon-name>Lamprosomatini</tp:taxon-name> Larcordaire, 1848 (10 genera) (<xref ref-type="bibr" rid="B23">Seeno and Wilcox 1982</xref>). <tp:taxon-name>Sphaerocharini</tp:taxon-name> has been treated as an independent subfamily (<xref ref-type="bibr" rid="B6">Chapuis 1874</xref>; <xref ref-type="bibr" rid="B12">Kasap and Crowson 1976</xref>), as a tribe of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> (<xref ref-type="bibr" rid="B16">Lacordaire 1848</xref>; <xref ref-type="bibr" rid="B8">Clavareau 1913</xref>; <xref ref-type="bibr" rid="B19">Monrós 1956</xref>) or as a tribe of the former subfamily <tp:taxon-name>Chlamisinae</tp:taxon-name> (now a tribe in <tp:taxon-name>Cryptocephalinae</tp:taxon-name>) (<xref ref-type="bibr" rid="B7">Chen 1940</xref>). <xref ref-type="bibr" rid="B19">Monrós (1956)</xref> correctly argued for: 1) accepting <tp:taxon-name>Sphaerocharini</tp:taxon-name> as a tribe of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> and rejecting the notion that <tp:taxon-name>Sphaerocharis</tp:taxon-name> represents a transitional group between chlamisines and lamprosomatines and 2) not placing it in its own subfamily. Including <tp:taxon-name>Sphaerocharini</tp:taxon-name> in <tp:taxon-name>Lamprosomatinae</tp:taxon-name> is now the prevailing classification (<xref ref-type="bibr" rid="B23">Seeno and Wilcox 1982</xref>; <xref ref-type="bibr" rid="B17">Lawrence and Newton 1995</xref>). <xref ref-type="bibr" rid="B20">Monrós (1958)</xref> later transferred <tp:taxon-name>Pseudolychnophaes</tp:taxon-name> and <tp:taxon-name>Neochlamys</tp:taxon-name> from <tp:taxon-name>Sphaerocharini</tp:taxon-name> to a new tribe, <tp:taxon-name>Neochlamysini</tp:taxon-name>.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+        	
+                <label>Table 1.</label>
+                <caption><p>Summary of classification and distribution of <tp:taxon-name>Lamprosomatinae</tp:taxon-name>. <bold>NA</bold> Nearctic <bold>NT</bold> Neotropical <bold>AT</bold> Afrotropical <bold>PA</bold> Palearctic <bold>OR</bold> Oriental <bold>AU</bold> Australasian.</p></caption>
+            		
+                <table>
+            				
+                    <tbody>
+												
+                        <tr>
+													
+                            <th rowspan="1" colspan="1">Tribe</th>
+													
+                            <th rowspan="1" colspan="1">Genus</th>
+													
+                            <th rowspan="1" colspan="1">Author</th>
+													
+                            <th rowspan="1" colspan="1">Year</th>
+													
+                            <th rowspan="1" colspan="1">NA</th>
+													
+                            <th rowspan="1" colspan="1">NT</th>
+													
+                            <th rowspan="1" colspan="1">AT</th>
+													
+                            <th rowspan="1" colspan="1">PA</th>
+													
+                            <th rowspan="1" colspan="1">OR</th>
+													
+                            <th rowspan="1" colspan="1">AU</th>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Cachiporrini</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Cachiporra</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Chamorro &amp; Konstantinov</td>
+													
+                            <td rowspan="1" colspan="1">2011</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="2" colspan="1"><tp:taxon-name>Neochlamysini</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Pseudolychnophaes</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Achard</td>
+													
+                            <td rowspan="1" colspan="1">1914</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Neochlamys</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Jacoby</td>
+													
+                            <td rowspan="1" colspan="1">1882</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Sphaerocharini</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Sphaerocharis</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Lacordaire</td>
+													
+                            <td rowspan="1" colspan="1">1848</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="9" colspan="1"><tp:taxon-name>Lamprosomatini</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Xenoomorphus</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Monrós</td>
+													
+                            <td rowspan="1" colspan="1">1956</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Oyarzuna</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Bechyné</td>
+													
+                            <td rowspan="1" colspan="1">1950</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Oomorphus</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Curtis</td>
+													
+                            <td rowspan="1" colspan="1">1831</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Asisia</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Bezdek, Löbl, Konstantinov</td>
+													
+                            <td rowspan="1" colspan="1">2010</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"/>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Oomorphoides</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Monrós</td>
+													
+                            <td rowspan="1" colspan="1">1956</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Lychnophaes</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Lacordaire</td>
+													
+                            <td rowspan="1" colspan="1">1848</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dorisina</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Monrós</td>
+													
+                            <td rowspan="1" colspan="1">1956</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Lamprosoma</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">Kirby</td>
+													
+                            <td rowspan="1" colspan="1">1818</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+													
+                            <td rowspan="1" colspan="1"/>
+												
+                        </tr>
+												
+                        <tr>
+													
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Scrophoomorphus</tp:taxon-name></td>
+													
+                            <td rowspan="1" colspan="1">L. Medvedev</td>
+													
+                            <td rowspan="1" colspan="1">1968</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+													
+                            <td rowspan="1" colspan="1">×</td>
+													
+                            <td rowspan="1" colspan="1"> </td>
+												
+                        </tr>
+            				
+                    </tbody>
+            		
+                </table>
+            </table-wrap>
+            <p>All lamprosomatines are highly convex and ventrally flattened [species of <tp:taxon-name>Cryptocephalinae</tp:taxon-name>, including <tp:taxon-name>Chlamisini</tp:taxon-name>, sister taxon to lamprosomatines (<xref ref-type="bibr" rid="B9">Farell 1998</xref>), are cylindrical and not ventrally flattened], they are shiny and usually iridescent (cryptocephalines are rarely iridescent)<!--PageBreak-->, their abdominal ventrites are all the same width medially with sternal longitudinal muscles within ventrite 4 [constricted ventrite 4 appearing hidden between ventrites 3 and 5 and sternal longitudinal muscles lacking in cryptocephalines (<xref ref-type="bibr" rid="B12">Kasap and Crowson 1976</xref>)]; females lack a fovea or egg-depression on ventrite 5 (present in cryptocephalines); and antennal grooves are present on the prosternum (feature also present in <tp:taxon-name>Chlamisini</tp:taxon-name> and <tp:taxon-name>Ischiopachina</tp:taxon-name> of <tp:taxon-name>Clytrini</tp:taxon-name>).</p>
+            <!--PageBreak-->
+            <p>Upon discovery, <tp:taxon-name>Cachiporra</tp:taxon-name> could not be placed into any previously recognized lamprosomatine tribe. Clavate antennae are common in many camptosomata (e.g. <tp:taxon-name>Chlamisini</tp:taxon-name>, <tp:taxon-name>Clytrini</tp:taxon-name>, <tp:taxon-name>Lamprosomatini</tp:taxon-name>, but not in <tp:taxon-name>Cryptocephalini</tp:taxon-name>) (<xref ref-type="fig" rid="F1">Figs 7, 8</xref>), however, <tp:taxon-name>Cachiporra</tp:taxon-name> is the first known camptosomata with capitate antennae represented by completely fused antennomeres forming an abrupt terminal bulb (capitulum), which is much wider than preceding antennomeres (<xref ref-type="fig" rid="F3">Figs 16, 18</xref>; autapomorphy of <tp:taxon-name>Cachiporrini</tp:taxon-name>, character 2 state 0). This kind of club is very uncommon in <tp:taxon-name>Chrysomelidae</tp:taxon-name>; it is known in only a few flea beetle (<tp:taxon-name>Alticini</tp:taxon-name>) genera commonly living in relatively dense substrate, such as leaf litter or moss cushions (e.g., <tp:taxon-name>Clavicornaltica</tp:taxon-name> Scherer, <tp:taxon-name>Kiskeya</tp:taxon-name> Konstantinov and Chamorro-Lacayo) (<xref ref-type="bibr" rid="B14">Konstantinov and Chamorro-Lacayo 2006</xref>) and a few <tp:taxon-name>Hispini</tp:taxon-name>.</p>
+            <fig id="F1" position="float" orientation="portrait">
+        	
+                <label>Figures 1–10.</label>
+                <caption><p>1–4 <tp:taxon-name>Lamprosomatinae</tp:taxon-name> habiti, dorsal (left) and lateral (right) views, drawn after Monrós, 1956: <bold>1</bold> <tp:taxon-name>Sphaerocharis marginicollis</tp:taxon-name> (<tp:taxon-name>Sphaerocharini</tp:taxon-name>) <bold>2</bold> <tp:taxon-name>Neochlamys strigicollis</tp:taxon-name> (<tp:taxon-name>Neochlamysini</tp:taxon-name>) <bold>3</bold> <tp:taxon-name>Lycnophaes globulosus</tp:taxon-name> (<tp:taxon-name>Lamprosomatini</tp:taxon-name>) <bold>4</bold> <tp:taxon-name>Pseudolychnophaes africanus</tp:taxon-name> (<tp:taxon-name>Neochlamysini</tp:taxon-name>); <bold>5–6</bold> Apical margin of ventrite V, drawn after Monrós, 1956: <bold>5</bold> with stridulatory device, <tp:taxon-name>Lamprosoma nicaraguensis</tp:taxon-name> (<tp:taxon-name>Lamprosomatini</tp:taxon-name>) <bold>6</bold> without stridulatory device, <tp:taxon-name>Sphaerocaris marginicollis</tp:taxon-name> (<tp:taxon-name>Sphaerocharini</tp:taxon-name>); <bold>7–8</bold> Antennae, drawn after Monrós, 1956: <bold>7</bold> <tp:taxon-name>Lychnophaes purpureus</tp:taxon-name> (<tp:taxon-name>Lamprosomatini</tp:taxon-name>) <bold>8</bold> <tp:taxon-name>Sphaerocharis marginicollis</tp:taxon-name> (<tp:taxon-name>Sphaerocharini</tp:taxon-name>); <bold>9–10</bold> Claws, drawn after Monrós, 1956: <bold>9</bold> <tp:taxon-name>Oomorphus floridanus</tp:taxon-name> (<tp:taxon-name>Lamprosomatini</tp:taxon-name>) <bold>10</bold> <tp:taxon-name>Sphaerocharis marginicollis</tp:taxon-name> (<tp:taxon-name>Sphaerocharini</tp:taxon-name>).</p></caption>
+                <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <p>A phylogenetic analysis of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> was undertaken to find taxonomic position for <tp:taxon-name>Chachiporra</tp:taxon-name> within the subfamily. Designation of a new tribe was considered appropriate and justified to accommodate this new genus from Brazil. Current higher-level classification is based on <xref ref-type="bibr" rid="B19">Monrós’s (1956</xref>, <xref ref-type="bibr" rid="B20">1958</xref>) interpretation of relationships. The first evolutionary relationship among <tp:taxon-name>Lamprosomatinae</tp:taxon-name> is here inferred based on cladistic principles.</p>
+        </sec>
+        <sec sec-type="Material and Methods"><title>Material and Methods</title>
+            <sec sec-type="Taxon sampling and outgroup"><title>Taxon sampling and outgroup</title>
+                <p>This study includes 12 of 14 lamprosomatine genera in 4 tribes (<xref ref-type="table" rid="T1">Tables 1</xref> and <xref ref-type="table" rid="T3">3</xref>). <tp:taxon-name>Exema</tp:taxon-name> Lacordaire and <tp:taxon-name>Melittochlamys</tp:taxon-name> Monrós (<tp:taxon-name>Chlamisini</tp:taxon-name>) were selected as outgroup to determine character polarity. All examined material is from the National Museum of Natural History (NMNH), Smithsonian Institution, Washington, DC.</p>
+            </sec>
+            <sec sec-type="Characters"><title>Characters</title>
+                <p>General morphological terminology follows <xref ref-type="bibr" rid="B13">Konstantinov (1998)</xref>. Terminology for female genitalia combines <xref ref-type="bibr" rid="B21">Moseyko (2008)</xref> and <xref ref-type="bibr" rid="B5">Chamorro-Lacayo et al. (2006)</xref>, for kotpresse we follow <xref ref-type="bibr" rid="B22">Schöller (2008)</xref>, and for thorax <xref ref-type="bibr" rid="B4">Chamorro-Lacayo and Konstantinov (2004)</xref>. Hind wing nomenclature follows <xref ref-type="bibr" rid="B15">Kukalová-Peck and Lawrence (1993)</xref>. A number of characters used in this analysis have traditionally been used to distinguish among genera and tribes (characters 1, 7, 8, 10, 16, 21 and 22), particularly by (<xref ref-type="bibr" rid="B19">Monrós (1956</xref>, <xref ref-type="bibr" rid="B20">1958</xref>). However, the majority of the 26 characters and 70 states are new. All characters have equal weights (<xref ref-type="bibr" rid="B25">Wilkinson 1992</xref>) and are unordered (<xref ref-type="bibr" rid="B11">Fitch 1971</xref>). Characters were coded based on variations in external morphology among the taxa. Approaches to coding and treatment of characters and missing data is outlined in <xref ref-type="bibr" rid="B3">Chamorro and Holzenthal (2010)</xref>.<!--PageBreak--><!--PageBreak--></p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+        	
+                    <label>Table 2.</label>
+                    <caption><p>Characters and states used in the cladistic analysis</p></caption>
+                    <table>
+                    		<tbody>
+														<tr>
+															<td>1</td>
+															<td rowspan="1" colspan="1">Canthus of eye: 0, acute; 1, absent (Fig. 17); 2, wide and short; 3, wide and long, longer than half of transverse diameter of eye.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">2</td>
+															<td rowspan="1" colspan="1">Antennomeres 7 to 11 (Figs 7, 8, 16): 0, fused into tight capitulum; 1, free.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">3</td>
+															<td rowspan="1" colspan="1">Antennomeres 6 to 8 (Figs 7, 8, 16): 0, strongly transverse, more than twice as wide as long; 1, about as long as wide; 2, weakly transverse.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">4</td>
+															<td rowspan="1" colspan="1">Base of pronotum in dorsal view: 0, entire; 1, extending posteriorly beyond base of elytra (Fig. 15); 2, extending posteriorly, but not beyond base of elytra.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">5</td>
+															<td rowspan="1" colspan="1">Explanation of lateral margin of pronotum: 0, situated laterally (as in vast majority of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> and other leaf beetles); 1, situated ventrally, essentially covered from above by expansion of upper side of pronotum laterally (Figs 15, 16).</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">6</td>
+															<td rowspan="1" colspan="1">Posterolateral corner of pronotum: 0, extending posterad beyond elytral base; 1, not extending posterad beyond elytral base.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">7</td>
+															<td rowspan="1" colspan="1">Posterior margin of last abdominal ventrite: 0, concave; 1, more or less straight; 2, convex; 3, sinusoidal.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">8</td>
+															<td rowspan="1" colspan="1">Shape of scutellum: 0, acutely triangular; 1, triangular (equilateral); 2, rectangular.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">9</td>
+															<td rowspan="1" colspan="1">Size of scutellum: 0, minute; 1, small; 2, large.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">10</td>
+															<td rowspan="1" colspan="1">Elytral punctation: 0, arranged in regular rows or with tendency to form such rows; 1, completely confused.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">11</td>
+															<td rowspan="1" colspan="1">Sides of elytra: 0, extended into wide long lobe concealing most of middle to posterior part of metepisternite (Fig. 11); 1, extended into wide relatively short lobe not concealing much of metepisternite (Fig. 12); 2, extended into narrow long lobe concealing nearly all posterior part of metepisternite (Fig. 13); 3, extended into wide long lobe not concealing entire metepisternite (Fig. 14).</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">12</td>
+															<td rowspan="1" colspan="1">Elytra: 0, covered with bumps; 1, smooth (Fig. 15).</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">13</td>
+															<td rowspan="1" colspan="1">Elytral suture: 0, smooth (Fig. 15); 1, dentate.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">14</td>
+															<td rowspan="1" colspan="1">Upper side of beetle body with metallic luster: 0, present; 1, absent.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">15</td>
+															<td rowspan="1" colspan="1">Pronotal and elytral puncture setae: 0, present (Fig. 15); 1, absent.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">16</td>
+															<td rowspan="1" colspan="1">Tarsal claws: 0, bifid and fused (Fig. 10); 1, simple and free (Fig. 9); 2, appendiculate, free, narrowly separated; 3, appendiculate, widely separated.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">17</td>
+															<td rowspan="1" colspan="1">Wing (Fig. 19), number of cells between Cu and A: 0, one; 1, two.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">18</td>
+															<td rowspan="1" colspan="1">Wing, RA 3+4: 0, present; 1, absent.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">19</td>
+															<td rowspan="1" colspan="1">Wing, CuA 3+4 and spur of RP: 0, situated close to each other; 1, placed far away from each other.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">20</td>
+															<td rowspan="1" colspan="1">Epipleura (Figs 11–14) directed: 0, vertically, forming nearly straight line with side of elytron, visible from outside; 1, horizontally, forming nearly straight angle with side of elytron, not visible from outside; 2, vertically, folded behind lateral side of elytron, not visible from outside.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">21</td>
+															<td rowspan="1" colspan="1">Stridulatory file on distal border of last abdominal ventrite: 0, present (Fig. 5); 1, absent (Fig. 6).</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">22</td>
+															<td rowspan="1" colspan="1">Pygidium: 0, completely covered by elytra; 1, partly covered by elytra; 2, completely exposed.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">23</td>
+															<td rowspan="1" colspan="1">Sclerotized thin rim of kotpresse: 0, present; 1, absent (Fig. 22).</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">24</td>
+															<td rowspan="1" colspan="1">Sclerotized part of spermathecal duct: 0, long, straight, about as wide, but longer than duct of gland (Fig. 20); 1, short, about as long as duct of gland; 2, very long, forming coils, longer than duct of gland; 3, long, consists of narrow and wider parts attached under angle to each other; 4, long, straight, much narrower and longer than duct of gland.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">25</td>
+															<td rowspan="1" colspan="1">Stylus: 0, wider or nearly as wide as long; 1, longer than wide (Fig. 21); 2: absent.</td>
+														</tr>
+														<tr>
+															<td rowspan="1" colspan="1">26</td>
+															<td rowspan="1" colspan="1">Membranous window on apex of coxite (base of stylus): 0, present; 1, absent.</td>
+														</tr>
+                    		</tbody>
+                    </table>
+                </table-wrap>
+                <table-wrap id="T3" position="float" orientation="portrait">
+        	
+                    <label>Table 3.</label>
+                    <caption><p>Matrix of 26 characters for 11 taxa of the <tp:taxon-name>Lamprosomatinae</tp:taxon-name> and two outgroup taxa</p></caption>
+            		
+                    <table>
+            				
+                        <tbody>
+												
+                            <tr>
+													
+                                <th rowspan="1" colspan="1">Species name</th>
+													
+                                <th rowspan="1" colspan="1">Character states</th>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="2" colspan="1"/>
+													
+                                <td rowspan="1" colspan="1">0000000001 1111111112 222222</td>
+												
+                            </tr>
+												
+                            <tr>
+
+                                <td rowspan="2" colspan="1"/>
+													
+                                <td rowspan="1" colspan="1">1234567890 1234567890 123456</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name> sp. n.</td>
+													
+                                <td rowspan="1" colspan="1">1001101111 0101010110 121011</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pseudolychnophaes africanus</tp:taxon-name> Jacoby</td>
+													
+                                <td rowspan="1" colspan="1">11?0010121 110111??11 12????</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neochlamys strigicollis</tp:taxon-name> Jacoby</td>
+													
+                                <td rowspan="1" colspan="1">11?0010121 1101111011 120100</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Sphaerocharis marginicollis</tp:taxon-name> (Guerin-Meneville)</td>
+													
+                                <td rowspan="1" colspan="1">0100010121 2100101011 11????</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Xenoomorphus gingindhlovuanus</tp:taxon-name> Monrós</td>
+													
+                                <td rowspan="1" colspan="1">2110011000 2100111011 000120</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Oomorphus concolor</tp:taxon-name> (Sturm)</td>
+													
+                                <td rowspan="1" colspan="1">2110011000 210111??11 000201</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Asisia vietnamica</tp:taxon-name> (Medvedev)</td>
+													
+                                <td rowspan="1" colspan="1">2110011010 2101111011 00????</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Oomorphoides yoasanicum</tp:taxon-name> (Chen)</td>
+													
+                                <td rowspan="1" colspan="1">2110001010 2101121011 000200</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Lychnophaes globosus</tp:taxon-name> (Olivier)</td>
+													
+                                <td rowspan="1" colspan="1">2110002010 2100111011 000200</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Dorisina pusilla</tp:taxon-name> (Jacoby)</td>
+													
+                                <td rowspan="1" colspan="1">2111002000 2100111011 000300</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Lamprosoma chorisiae</tp:taxon-name> Monrós</td>
+													
+                                <td rowspan="1" colspan="1">2111002010 2100121011 000100</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Melittochlamys semen</tp:taxon-name> (Lacordaire)</td>
+													
+                                <td rowspan="1" colspan="1">3121013221 3001130002 120420</td>
+												
+                            </tr>
+												
+                            <tr>
+													
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Exema conspersa</tp:taxon-name> (Mannerheim)</td>
+													
+                                <td rowspan="1" colspan="1">3122010221 3011130002 120420</td>
+												
+                            </tr>
+            			
+                        </tbody>
+            	
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Phylogenetic analysis"><title>Phylogenetic analysis</title>
+                <p>The data matrix was created using MacClade 4.08 (<xref ref-type="bibr" rid="B18">Maddison and Maddison 2000</xref>) and analyzed using PAUP* (beta test version) (<xref ref-type="bibr" rid="B24">Swofford 2003</xref>). Heuristic search was implemented using stepwise addition and 1000 random addition sequence replicates, 5 trees held at each step and Tree-Bisection-Reconnection (TBR) branch swapping algorithm. Nodal support for the preferred topology based on the given dataset was determined by bootstrapping (<xref ref-type="bibr" rid="B10">Felsenstein 1985</xref>) and Bremer support indices (<xref ref-type="bibr" rid="B1">Bremer 1988</xref>, <xref ref-type="bibr" rid="B2">1994</xref>). Bootstrapping was carried out with 500 replicates and random-taxon addition. Decay or Bremer support indices were calculated by executing in PAUP*a MacClade generated batch file of 20 replicate heuristic searches and random-taxon addition for each constraint tree.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <p>Five equally parsimonious trees resulted from this analysis (<xref ref-type="fig" rid="F5">Figs 23–27</xref>) of length 55 (CI: 0.80; RI: 0.82; RC: 0.65). A strict consensus tree is shown on <xref ref-type="fig" rid="F5">Fig. 28</xref>. All topological results support the designation of a new tribe, <tp:taxon-name>Cachiporrini</tp:taxon-name>. Both Bremer and bootstrap values (respectively, separated by comma) strongly support the monophyly of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> and <tp:taxon-name>Lamprosomatini</tp:taxon-name>. The placement of <tp:taxon-name>Sphaerocharis</tp:taxon-name> and the monophyly of <tp:taxon-name>Neochlamysini</tp:taxon-name> remains uncorroborated in the strict consensus. Majority-rule consensus tree retains a monophyletic <tp:taxon-name>Neochlamysini</tp:taxon-name> with <tp:taxon-name>Sphaerocharini</tp:taxon-name> as the sister taxon to <tp:taxon-name>Lamprosomantini</tp:taxon-name> (<xref ref-type="fig" rid="F6">Figs 29</xref>–<xref ref-type="fig" rid="F7">31</xref>). A majority-rule consensus cladogram is shown with distribution of unambiguous characters in <xref ref-type="fig" rid="F6">Fig. 29</xref> and ambiguous characters under slow (<xref ref-type="fig" rid="F7">Fig. 30</xref>) and fast (<xref ref-type="fig" rid="F7">Fig. 31</xref>) optimization.</p>
+            <sec sec-type="Key to Tribes of Lamprosomatinae"><title>Key to Tribes of <tp:taxon-name>Lamprosomatinae</tp:taxon-name></title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">With stridulatory file (device) on distal border of last ventrite (<xref ref-type="fig" rid="F1">Fig. 5</xref>); last ventrite not excised in shape of arc. Pygidium completely covered by elytra. Scutellum acutely triangular, small to very small (<xref ref-type="fig" rid="F1">Fig. 3</xref>). Elytral punctation arranged in regular rows or with a tendency to form such rows</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Lamprosomatini</tp:taxon-name> (Worldwide)</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Without stridulatory file (device) on distal border of last ventrite (<xref ref-type="fig" rid="F1">Fig. 6</xref>); last ventrite varies in shape. Pygidium not completely covered by elytra. Scutellum triangular, equilateral (<xref ref-type="fig" rid="F1">Figs 1, 2, 4</xref>); size either very small or relatively large. Elytral punctation confused (or with a weak tendency to form rows)</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">2(1)</td>
+                                <td rowspan="1" colspan="1">Eyes with deep canthus. Tarsal claws bifid and fused (<xref ref-type="fig" rid="F1">Fig. 10</xref>). Metallic in color, shiny. Pygidium partly exposed, partly covered by elytra</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Sphaerocharini</tp:taxon-name> Neotropical (South America)</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Eyes entire, without deep canthus. Tarsal claws simple and free (<xref ref-type="fig" rid="F1">Fig. 9</xref>). Black, moderately shiny or not shiny. Pygidium completely exposed</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">3(2)</td>
+                                <td rowspan="1" colspan="1">Antennae capitate with last 3 or 4 antennomeres tightly fused to form a sphere (<xref ref-type="fig" rid="F3">Figs 16, 18</xref>). Scutellum small. Pronotum basally sinuate, medially extending osterad beyond elytral base. Pygidium exposed. Each puncture of pronotum and elytra with seta</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Cachiporrini</tp:taxon-name> Neotropical (South America)</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Antennae not capitate and last 4 antennomeres not fused to form a sphere, instead dentate (<xref ref-type="fig" rid="F1">Figs 7, 8</xref>). Scutellum relatively large. Pronotum not basally sinuate, medially not extending posterad beyond elytral base. Punctures of pronotum and elytra without setae</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neochlamysini</tp:taxon-name> Afrotropical</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="tribe">Cachiporrini</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:74B93547-7A5F-430D-9980-46831A35F370</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Chamorro &amp; Konstantinov</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">trib. n.</tp:taxon-status>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type genus"><title>Type genus.</title>
+                        <p> <tp:taxon-name>Cachiporra</tp:taxon-name> Chamorro &amp; Konstantinov</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                        <p> Body small, about 1.8 mm in length, moderately shiny, black. Head without midcranial and frontal sutures. Frontoclypeus swollen, notched in middle. Eye entire, not notched. Antenna capitate with last 4 antennomeres tightly fused to form sphere (<xref ref-type="fig" rid="F3">Figs 16, 18</xref>).</p>
+                        <p>Pronotum basally sinuate (<xref ref-type="fig" rid="F3">Fig. 15</xref>), medially extending posterad beyond elytral base. Side swollen and bent ventrally so that lateral border not visible from above (<xref ref-type="fig" rid="F3">Figs 17, 18</xref>). Lateral border of pronotum situated close to posterior margin of prosternum leaving hypomera extremely thin and limiting prosternum to small triangle.</p>
+                        <p>Scutellum triangular, equilateral, small (<xref ref-type="fig" rid="F3">Fig. 15</xref>). Side of elytron with long lobe directed ventrally covering significant part of metepisternite. Epipleura vertical, evenly narrow throughout (<xref ref-type="fig" rid="F2">Fig. 11</xref>). Elytral punctation confused with weak tendency to form rows (<xref ref-type="fig" rid="F3">Fig. 15</xref>). Each puncture of pronotum and elytra with light-colored seta. Tibial apices without long setae and without excavation. Tarsal claws simple and free.<!--PageBreak--> Last abdominal ventrite without stridulatory file on distal border. Pygidium exposed (<xref ref-type="fig" rid="F3">Fig. 18</xref>).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Cachiporra</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:FE5E7031-33C2-4340-B822-D6705222A699</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Chamorro &amp; Konstantinov</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">gen. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F2">Figs 11</xref>
+                        <xref ref-type="fig" rid="F3">15</xref>
+                        <xref ref-type="fig" rid="F4">22</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type species"><title>Type species.</title>
+                        <p> <tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name> Chamorro &amp; Konstantinov</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p> Body small, 1.81–1.85 mm long, 1.43–1.47 mm wide, and 1.01–1.04 mm thick, broadly oval.</p>
+                        <p>Color. Body entirely black with bluish or bronzish tint, antennal capitulum and mouth parts deep reddish brown.</p>
+                        <p>Head flat in lateral view, 1.42 times wider than long in frontal view, completely lacking hairs (except on labrum). Midcranial and frontal sutures absent. Top of frons and bottom of vertex with oval impression. Orbital area swollen and situated above eye level. Internal margin of eye entire, not notched. Distance between eyes 2.64 times as large as transverse diameter of eye. Labrum with three setae on each side placed symmetrically on anterior margin. Antennae extremely capitate with last 4 antennomeres tightly fused to form sphere (<xref ref-type="fig" rid="F3">Figs 16, 18</xref>), inserted slightly above lower eye level with side of antennal socket adjacent to eye margin. Antennomere 1 wide with triangular lobe directed dorsolaterally. Antennomere 2 cylindrical, shorter than wide. Antennomers 3 to 7 dorsoventrally flat, about as long as antennomere 2, but narrower.</p>
+                        <p>Prothorax. Pronotum apically shallowly sinusoidal, basally sinuate, medially extending posterad beyond elytral base. Each pronotal puncture with short seta. Sides swollen and bent ventrally so that lateral border not visible from above. Lateral border situated close to posterior margin of prosternum leaving hypomera extremely thin and limiting prosternum to small triangle. Intercoxal prosternal process in ventral view slightly longer than wide (length to width ratio 1.26), sides constricted above middle, anterior margin evenly concave with obtuse denticle in middle, posterior margin straight. Intercoxal prosternal process in lateral view nearly straight in middle, abruptly bending posterodorsally. Procoxal cavity open posteriorly.</p>
+                        <p>Mesothorax. Scutellum triangular, equilateral, small (<xref ref-type="fig" rid="F3">Fig. 15</xref>). Elytra with well developed humeral calli. Side of elytron with long lobe directed ventrally covering significant part of metepisternite (<xref ref-type="fig" rid="F2">Fig. 11</xref>). Elytral punctation confused, with a tendency to form longitudinal rows. Each elytral puncture bearing short seta. Epipleura narrow. Mesosternum vertical, nearly completely covered with intercoxal prosternal process and anterior process of metasternum separating mesocoxae.</p>
+                        <p>Metathorax. Anterior process of metasternum rectangular with straight anterior margin (<xref ref-type="fig" rid="F3">Fig. 16</xref>). Posterior margin curved. Surface shallowly shagreened with relatively large punctures placed more densely anteriorly.</p>
+                        <p>Wing fully developed (<xref ref-type="fig" rid="F4">Fig. 19</xref>). Radial (RA) sinusoidal, wide, and strongly sclerotized laterally, bending posteriorly. RP connected to posterior arm of radial cell, <!--PageBreak-->divided into two parts: poorly sclerotized median and strongly sclerotized lateral. AA better developed than CuA. RA 3+4 absent. Cu and A form only one complete cell.</p>
+                        <p>Abdomen. First visible abdominal ventrite as long (medially) as rest of abdomen. Second visible ventrite narrowest, half as narrow medially as either third and fourth. Third and fourth of equal length (<xref ref-type="fig" rid="F2">Fig. 12</xref>). Last abdominal ventrite three<!--PageBreak--> times longer than preceding, without stridularoty file (device) on distal border. Pygidium exposed.</p>
+                        <p>Kotpresse without dorsal or ventral sclerites with chitinpolster dorsally and ventrally; long lateral fold sclerotized and bent upward and with small denticles (<xref ref-type="fig" rid="F4">Fig. 22</xref>).</p>
+                        <p>Legs. Femora dorsoventrally flat with anterior and posterior sides nearly parallel to each other. Tibiae slightly curved in ventral view gradually widening apically. All tibial apices with small spur, but without long setae and excavation. Tarsal claws relatively small, simple, and free.</p>
+                        <p>Female genitalia (<xref ref-type="fig" rid="F4">Figs 20, 21</xref>). Paraproct (pleurite of segment IX) narrow. Proctiger (upper layer of tergite IX) widely triangular, with setae on their apical margins, moderately sclerotized and narrow membranous stripe between them. Stylus parallel-sided, at base much narrower than long, separated by distinct border from coxite (apical part of appendage of segment IX). Spermatheca without border between pump and receptacle. Base of spermatheca constricted forming short canal branching into gland and duct. Gland and duct relatively short making no loops. Tignum absent.</p>
+                        <fig id="F2" position="float" orientation="portrait">
+        	
+                            <label>Figures 11–14.</label>
+                            <caption><p>Thoracic characters of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> and <tp:taxon-name>Chlamisini</tp:taxon-name>: <bold>11</bold> <tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name> <bold>12</bold> <tp:taxon-name>Neochlamys strigicollis</tp:taxon-name> <bold>13</bold> <tp:taxon-name>Sphaerocharis marginicollis</tp:taxon-name> <bold>14</bold> <tp:taxon-name>Melittochlamys semen</tp:taxon-name></p></caption>
+                            <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                        </fig>
+                        <fig id="F3" position="float" orientation="portrait">
+        	
+                            <label>Figures 15–18.</label>
+                            <caption><p><tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name>: <bold>15</bold> dorsal <bold>16</bold> ventral <bold>17</bold> frontal <bold>18</bold> lateral views.</p></caption>
+                            <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                        </fig>
+                        <fig id="F4" position="float" orientation="portrait">
+        	
+                            <label>Figures 19–22.</label>
+                            <caption><p><tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name>: <bold>19</bold> wing <bold>20</bold> spermatheca <bold>21</bold> sclerites of female genitalia <bold>22</bold> kotpresse.</p></caption>
+                            <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                        <p> “Cachiporra” is the Spanish word for “billy” club (capitulum). “Cachiporra” alludes to the club-shaped antenna of this lamprosomatine. Feminine.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                        <p> Brazil, Rio Grande do Norte, Natal.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Cachiporra</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">extremaglobosa</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:464C4E20-8CAB-40C4-A072-27D057015464</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Chamorro &amp; Konstantinov</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F2">Figs 11</xref>
+                        <xref ref-type="fig" rid="F3">15</xref>
+                        <xref ref-type="fig" rid="F4">22</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                        <p> Brazil, Rio Grande do Norte, Natal.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p> Length 1.81-1.85 mm. Color black, with bluish and bronzish tint. Head with frons and vertex shagreened, covered by sparse, sharply defined punctures.</p>
+                        <!--PageBreak-->
+                        <!--PageBreak-->
+                        <p>Pronotum strongly shagreened, evenly covered with sharply impressed small punctures, each bearing a single, small seta. Diameter of punctures four to ten times smaller than distance between them.</p>
+                        <p>Elytral surface strongly shagreened, with numerous wrinkles, some of which short and placed diagonally, some exceptionally long and stretched from base of elytron to and beyond middle. Punctures with tendency to form rows.</p>
+                        <p>Female genitalia. Median side of the lateral sclerotization of tergite IX strongly oblique. Stylus attached slightly anteriorly from apex. Receptacle of spermatheca slightly longer than pump, slightly S-shaped with small bump near base and apically. Apex of spermathecal pump bulbous, wider than receptacle and base of pump.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> Holotype, female: 1) Brazil RG Norte, Papari: III. 1952. M. Alvarengo; 2) F. Monrós Collection, 1959; 3) Holotype <tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name> Chamorro &amp; Konstantinov, des. 2010 (NMNH).</p>
+                        <p>Paratype, female: 1) Brazil Natal, R.G. Norte, 24.IX. 1951. M. Alvarengo; 2) F. Monrós Collection, 1959; 3) Paratype <tp:taxon-name>Cachiporra extremaglobosa</tp:taxon-name> Chamorro &amp; Konstantinov, des. 2010 (NMNH).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                        <p> Named for the extremely globular antennal club (capitulum). The epithet is treated as a noun in apposition.</p>
+                        <fig id="F5" position="float" orientation="portrait">
+        	
+                            <label>Figures 23–28.</label>
+                            <caption><p>Cladograms of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> relationships. Outgroup <tp:taxon-name>Exema</tp:taxon-name> and <tp:taxon-name>Melittochlamys</tp:taxon-name> (<tp:taxon-name>Chlamisini</tp:taxon-name>) <bold>23–27</bold> Five equally parsimonious trees <bold>28</bold> Strict consensus of 5 equally parsimonious trees.</p></caption>
+                            <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                        </fig>
+                        <fig id="F6" position="float" orientation="portrait">
+        	
+                            <label>Figure 29.</label>
+                            <caption><p>Majority (50%) rule consensus tree with unambiguous character state optimizations. Black circles represent synapomorphies; open circles indicate homoplasious character state transformations. Numbers above correspond to list of characters on table 2; numbers below indicate the state for character indicated above. Bremer support values are indicated by the first numbers on some nodes. Second numbers (only for two clades) separated by a comma indicate bootstrap values (showing only those &gt;5%).</p></caption>
+                            <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                        </fig>
+                        <fig id="F7" position="float" orientation="portrait">
+        	
+                            <label>Figures 30–31.</label>
+                            <caption><p>Majority (50%) rule consensus tree. Black circles represent synapomorphies; open circles indicate homoplasious character state transformations. Unambiguous characters deleted <bold>30</bold> Character states under slow (DELTRAN) optimization <bold>31</bold> Character states under fast (ACCTRAN) optimization.</p></caption>
+                            <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00004/ZooKeys-078-000-g007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Discussion"><title>Discussion.</title>
+                        <p> Unique features of <tp:taxon-name>Cachiporrini</tp:taxon-name> include the following: antenomeres 7–11 fused into a tight capitulum (2:0); explanation of lateral margin of pronotum situated ventrally essentially covered from above by expansion of upper side of pronotum laterally (5:1); pronotal and elytral punctures with setae (15:0); wings with RA 3+4 absent (18:1); absence of sclerotized rim of kotpresse (23:1); and stylus of female genitalia longer than wide.</p>
+                        <p>Among various lamprosomatine genera, <tp:taxon-name>Cachiporra</tp:taxon-name> is superficially most similar in color, size, wing venation, and overall body shape to <tp:taxon-name>Oomorphus</tp:taxon-name>. The pronotum of <tp:taxon-name>Cachiporra</tp:taxon-name> is considerably different from that of <tp:taxon-name>Oomorphus</tp:taxon-name> and all other lamprosomatines in having the sides swollen and bent ventrally so that the lateral border is not visible from above. The lateral border is therefore located very close to the posterior margin of the prosternum, leaving hypomera extremely thin and limiting the intercoxal prosternal process to the shape of a small triangle. In <tp:taxon-name>Oomorphus</tp:taxon-name> the sides of the pronotum are not bent ventrally and the hypomera and the prosternum itself occupy most of the ventral side of the lateral part of prothorax. Furthermore, dorsally the pronotum in <tp:taxon-name>Cachiporra</tp:taxon-name> is basally sinuate and medially extending posterad beyond elytral base (<xref ref-type="fig" rid="F3">Fig. 15</xref>) and side of elytron have an extended lobe directed ventrad nearly concealing all of metepisternite (<xref ref-type="fig" rid="F2">Fig. 11</xref>).</p>
+                        <p><tp:taxon-name>Cachiporra</tp:taxon-name> has a number of pleisiomorphies also present in African <tp:taxon-name>Neochlamysini</tp:taxon-name>. These are absence of a stridulatory device (also absent in <tp:taxon-name>Sphaerocharini</tp:taxon-name>), entire eyes, completely exposed pygidium, and free and simple claws.</p>
+                        <p>Synapomorphies of <tp:taxon-name>Lamprosomatinae</tp:taxon-name> (<xref ref-type="fig" rid="F6">Fig. 29</xref>) include the loss of canthus of the eye, character 1 state 1 (1:1); antennomeres 6–8 strongly transverse, more than twice as wide as long, 3:0; triangular scutellum, 8:1; smooth elytra, 12:1; tarsal claws simple and free, 16:1; and have CuA 3+4 and spurt RP distant from each other, 19:1. Of the four tribes, <tp:taxon-name>Lamprosomatini</tp:taxon-name> has the greatest support with at least four synapomorphies and a number of homoplasious character states (<xref ref-type="fig" rid="F6">Figs 29</xref>–<xref ref-type="fig" rid="F7">31</xref>). Sides of elytra extended in wide relatively short lobe, not concealing much of metepisternite (character 11:1) (<xref ref-type="fig" rid="F2">Fig. 12</xref>) supports the monophyly of <tp:taxon-name>Neochlamysini</tp:taxon-name> under slow optimization (<xref ref-type="fig" rid="F7">Fig. 30</xref>). The transformation of the sides of elytra into a narrow lobe concealing nearly all posterior part of metepisternite (character 11:2) (<xref ref-type="fig" rid="F2">Fig. 13</xref>) is a shared derived feature of <tp:taxon-name>Sphaerocharini</tp:taxon-name> + <tp:taxon-name>Lamprosomatini</tp:taxon-name> (<xref ref-type="fig" rid="F7">Fig. 30</xref>) under slow optimization. In <tp:taxon-name>Cachiporrini</tp:taxon-name> this lobe is wide and long concealing most of middle to posterior part of metepisternite (character 11:0) (<xref ref-type="fig" rid="F2">Fig. 11</xref>); a unique feature of this tribe.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>We thank A. L. Norrbom and R. Ochoa (Systematic Entomology Laboratory, ARS, USDA, Washington, DC), and K.D. Prathapan (Department of Entomology, Kerala Agricultural University, Kerala, India) for reviewing earlier versions of this manuscript and providing valuable suggestions. We thank Dr. X. Mengual for his generosity and help with software. MLC thanks T. Erwin and the Encyclopedia of Life, Rubenstein fellowship program (National Museum of Natural History, Smithsonian Institution, Washington DC) for funding and support.</p>
+            <!--PageBreak-->
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bremer</surname><given-names>K</given-names></name></person-group> (<year>1988</year>)<article-title> The limits of amino acid sequence data in angiosperm phylogenetic reconstruction.</article-title> <source>Evolution</source> <volume>42</volume>:<fpage>795</fpage>-<lpage>803</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bremer</surname><given-names>K</given-names></name></person-group> (<year>1994</year>)<article-title> Branch support and tree stability.</article-title> <source>Cladistics</source> <volume>10</volume>:<fpage>295</fpage>-<lpage>304</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chamorro</surname><given-names>ML</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>2010</year>)<article-title> Taxonomy and phylogeny of New World <italic>Polyplectropus</italic> Ulmer, 1905 (Trichoptera: Psychomyioidea: Polycentropodidae) with the description of 39 new species.</article-title> <source>Zootaxa</source> <volume>2582</volume>:<fpage>1</fpage>-<lpage>252</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chamorro-Lacayo</surname><given-names>ML</given-names></name><name name-style="western"><surname>Konstantinov</surname><given-names>AS</given-names></name></person-group> (<year>2004</year>)<article-title> Morphology of the prothorax and procoxa in the New World Cryptocephalini (Coleoptera: Chrysomelidae: Cryptocephalinae).</article-title> <source>Zootaxa</source> <volume>676</volume>:<fpage>1</fpage>-<lpage>46</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chamorro-Lacayo</surname><given-names>ML</given-names></name><name name-style="western"><surname>Konstantinov</surname><given-names>AS</given-names></name><name name-style="western"><surname>Moseyko</surname><given-names>AG</given-names></name></person-group> (<year>2006</year>)<article-title> Comparative morphology of the female genitalia and some abdominal structures of Neotropical Cryptocephalini (Coleoptera: Chrysomelidae: Chryptocephalinae).</article-title> <source>The Coleopterists Bulletin</source> <volume>60</volume> (<issue>2</issue>):<fpage>113</fpage>-<lpage>134</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapuis</surname><given-names>F</given-names></name></person-group> (<year>1874</year>) In: <person-group><name name-style="western"><surname>Lacordaire</surname></name></person-group> (<role>Ed</role>) <source>Histoire Naturelle des Insectes genera des Coléoptères</source>, vol. <volume>10</volume>, <publisher-name>Famille des Phytophages</publisher-name>, <publisher-loc>Paris</publisher-loc>, <lpage>455</lpage>pp.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chen</surname><given-names>CH</given-names></name></person-group> (<year>1940</year>)<article-title> Attempt at a new classification of the leaf beetles.</article-title> <source>Sinensia</source> <volume>11</volume> (<issue>5–6</issue>):<fpage>451</fpage>-<lpage>481</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Clavareau</surname><given-names>H</given-names></name></person-group> (<year>1913</year>)<source> Coleopterorum Catalogus, Chrysomelidae: Lamprosomatinae</source>, pars <volume>53</volume>(<issue>10</issue>): <fpage>223</fpage>–229, 230–<lpage>278</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Farell</surname><given-names>BD</given-names></name></person-group> (<year>1998</year>)<article-title> “Inordinate Fondness” explained: why are there so many beetles.</article-title> <source>Science</source> <volume>281</volume>:<fpage>555</fpage>-<lpage>559</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Felsenstein</surname><given-names>J</given-names></name></person-group> (<year>1985</year>)<article-title> Confidence Limits on Phylogenies: An Approach Using the Bootstrap.</article-title> <source>Evolution</source> <volume>39</volume>:<fpage>783</fpage>-<lpage>791</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fitch</surname><given-names>WM</given-names></name></person-group> (<year>1971</year>)<article-title> Toward Defining the Course of Evolution: Minimum Change for a Specific Tree Topology.</article-title> <source>Systematic Zoology</source> <volume>20</volume>:<fpage>406</fpage>-<lpage>416</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kasap</surname><given-names>H</given-names></name><name name-style="western"><surname>Crowson</surname><given-names>RA</given-names></name></person-group> (<year>1976</year>)<article-title> On systematic relations of <italic>Oomorphus concolor</italic> (Sturm) Col., Chrysomelidae), with descriptions of its larva and of an aberrant Cryptocephaline larva from Australia.</article-title> <source>Journal of Natural History</source> <volume>10</volume>:<fpage>99</fpage>-<lpage>112</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Konstantinov</surname><given-names>AS</given-names></name></person-group> (<year>1998</year>)<article-title> Revision of the Palearctic species of <italic>Aphthona</italic> Chevrolat and cladistic classification of the Aphthonini (Coleoptera: Chrysomelidae: Alticinae).</article-title> <source>Memoirs on Entomology, International</source> <volume>11</volume>:<fpage>1</fpage>-<lpage>429</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Konstantinov</surname><given-names>AS</given-names></name><name name-style="western"><surname>Chamorro-Lacayo</surname><given-names>ML</given-names></name></person-group> (<year>2006</year>)<article-title> A new genus of moss-inhabiting flea beetles (Coloptera: Chrysomelidae) from the Dominican Republic.</article-title> <source>The Coleoptersits Bulletin</source> <volume>60</volume> (<issue>4</issue>):<fpage>275</fpage>-<lpage>290</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kukalová-Peck</surname><given-names>J</given-names></name><name name-style="western"><surname>Lawrence</surname><given-names>JF</given-names></name></person-group> (<year>1993</year>)<article-title> Evolution of the hind wing in Coleoptera.</article-title> <source>The Canadian Entomologist</source> <volume>125</volume>:<fpage>181</fpage>-<lpage>258</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lacordaire</surname><given-names>MT</given-names></name></person-group> (<year>1848</year>)<article-title> Monografie des Coléoptères subpentamères de la famille des Phyotphages. 2</article-title>. <source>Mémoirs de la Société Royale des Sciences de Liége</source>, <fpage>890</fpage> pp.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lawrence</surname><given-names>JF</given-names></name><name name-style="western"><surname>Newton</surname><given-names>AF</given-names></name></person-group> (<year>1995</year>)<article-title> Families and subfamilies of Coleoptera (with selected genera, notes, references and data on family-group names)</article-title>. In: <person-group><name name-style="western"><surname>Pakaluk</surname><given-names>J</given-names></name><name name-style="western"><surname>Ślipiński</surname><given-names>SA</given-names></name></person-group> (<role>Eds</role>) <source>Biology, Phylogeny and Classification of Coleoptera. Papers celebrating the 80th birthday of Roy A. Crowson</source>. <publisher-name>Muzeum i Instytut Zoologii PAN</publisher-name>, <publisher-loc>Warszawa</publisher-loc>. Vol. <volume>2</volume>: <fpage>778</fpage>–<lpage>1006</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name><name name-style="western"><surname>Maddison</surname><given-names>WP</given-names></name></person-group> (<year>2000</year>)<source> MacClade 4: Analysis of phylogeny and character evolution. Version 4.0</source>. <publisher-name>Sinauer Associates</publisher-name>, <publisher-loc>Sunderland, Massachusetts</publisher-loc>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Monrós</surname><given-names>F</given-names></name></person-group> (<year>1956</year>)<article-title> Revision generica de Lamprosomatinae con descripcion de la algunos generos y especies nuevas (Col., Chrysomelidae).</article-title> <source>Revista Agronomia Noroeste Argentino [Tucuman]</source> <volume>2</volume> (<issue>1</issue>):<fpage>25</fpage>-<lpage>77</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Monrós</surname><given-names>F</given-names></name></person-group> (<year>1958</year>)<article-title> Notes on Lamprosomatinae (Chryso.).</article-title> <source>The Coleopterists Bulletin</source> <volume>12</volume>:<fpage>29</fpage>-<lpage>33</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moseyko</surname><given-names>AG</given-names></name></person-group> (<year>2008</year>)<source> Genitalia of females of leaf-beetles (Coleoptera, Chrysomelidae) in its importance for taxonomy of the group. Abstract of PhD Dissertation</source>. <publisher-name>Zoological Institute RAN</publisher-name>, <publisher-loc>Saint-Petersburg</publisher-loc>, <lpage>22</lpage> pp.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schoeller</surname><given-names>M</given-names></name></person-group> (<year>2008</year>)<article-title> Comparative morphology of sclerites used by Camptosomatan leaf beetles for formation of the extrachorion (Chrysomelidae: Cryptocephalinae, Lamprosomatinae</article-title>. In: <person-group><name name-style="western"><surname>Jolivet</surname><given-names>P</given-names></name><name name-style="western"><surname>Santiago-Blay</surname><given-names>J</given-names></name><name name-style="western"><surname>Schmitt</surname><given-names>M</given-names></name></person-group> (<role>Eds</role>) <source>Research on Chrysomelidae</source>, Volume <volume>1</volume>. <publisher-name>Brill</publisher-name>, <publisher-loc>Leiden, The Netherlands</publisher-loc>, <fpage>87</fpage>–<lpage>120</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Seeno</surname><given-names>TN</given-names></name><name name-style="western"><surname>Wilcox</surname><given-names>JA</given-names></name></person-group> (<year>1982</year>)<article-title> Leaf beetle genera (Coleoptera: Chrysomelidae).</article-title> <source>Entomography</source> <volume>1</volume>:<fpage>1</fpage>-<lpage>221</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname><given-names>DL</given-names></name></person-group> (<year>2003</year>)<source> PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4</source>. <publisher-name>Sinauer Associates</publisher-name>, <publisher-loc>Sunderland, Massachusetts</publisher-loc>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilkinson</surname><given-names>M</given-names></name></person-group> (<year>1992</year>)<article-title> Ordered versus unordered characters.</article-title> <source>Cladistics</source> <volume>8</volume>:<fpage>375</fpage>-<lpage>385</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

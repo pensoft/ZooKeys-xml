@@ -1,0 +1,774 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.71.791</article-id>
+            <title-group>
+                <article-title>
+               Systematics of the Neotropical caddisfly genus Notidobiella Schmid (Trichoptera, Sericostomatidae), with the description of 3 new species
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Holzenthal</surname>
+                        <given-names>Ralph W.</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:C27A1C49-F372-4232-A49C-B8B5F753CC70</uri>
+                    </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Blahnik</surname>
+                        <given-names>Roger J.</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:8E40859B-B83A-4C45-9B03-B3F56E861DE1</uri>
+                    </contrib>
+            </contrib-group>
+                    <aff id="A1"><label>Department of Entomology, University of Minnesota, 1980 Folwell Ave. 219 Hodson Hall, St. Paul, Minnesota, 55108, U.S.A.</label></aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Ralph W. Holzenthal (<email xlink:type="simple">holze001@umn.edu</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Guest editor: Christy Geraci</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>12</month>
+                <year>2010</year>
+            </pub-date>
+            <issue>71</issue>
+            <fpage>23</fpage>
+            <lpage>47</lpage>
+            <history>
+                <date date-type="received">
+                    <day>20</day>
+                    <month>9</month>
+                    <year>2010</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>12</month>
+                    <year>2010</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Clifford D. Ferris</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:10570069-1C41-4C19-AC53-342E107CC5E3</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>Three new species of <tp:taxon-name>Notidobiella</tp:taxon-name> Schmid (<tp:taxon-name>Insecta</tp:taxon-name>: <tp:taxon-name>Trichoptera</tp:taxon-name>) are described from South America: <tp:taxon-name>Notidobiella amazoniana</tp:taxon-name> <bold>sp. n.</bold> (Brazil), <tp:taxon-name>Notidobiella brasiliana</tp:taxon-name> <bold>sp. n.</bold> (Brazil), and <tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name> <bold>sp. n.</bold> (Ecuador). In addition, the 3 previously described species in the genus, <tp:taxon-name>Notidobiella chacayana</tp:taxon-name> Schmid, <tp:taxon-name>Notidobiella inermis</tp:taxon-name> Flint, and <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid, all endemic to southern Chile, are redescribed and illustrated, including the females of each species for the first time, and a key to males of the species in the genus is provided. The occurrence of <tp:taxon-name>Notidobiella</tp:taxon-name> in Brazil and Ecuador represents a significant extension of the range of the genus beyond southern Chile where it previously was thought to be endemic. The biogeography of <tp:taxon-name>Sericostomatidae</tp:taxon-name> and other austral South American <tp:taxon-name>Trichoptera</tp:taxon-name> is reviewed. The presence of the family in South America may not be part of a “transantarctic” exchange, but instead may represent an earlier occurence in the region. The distribution of <tp:taxon-name>Notidobiella</tp:taxon-name> in tropical South America likely represents recent dispersal from southern South America to the north.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>caddisfly</kwd>
+                <kwd>Neotropics</kwd>
+                <kwd>transantarctic</kwd>
+                <kwd>new species</kwd>
+                <kwd>biogeography</kwd>
+                <kwd>South America</kwd>
+                <kwd>taxonomy</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The caddisfly family <tp:taxon-name>Sericostomatidae</tp:taxon-name> occurs in all biogeographic regions, except the Australasian, but its species diversity is very unevenly distributed across these regions (<xref ref-type="bibr" rid="B48">Morse 2010</xref>). Nineteen genera and 100 species have been described world wide, with half of the species occurring in the western Palearctic (50 species in 5 genera: <tp:taxon-name>Cerasma</tp:taxon-name> McLachlan, <tp:taxon-name>Notidobia</tp:taxon-name> Stephens, <tp:taxon-name>Oecismus</tp:taxon-name> McLachlan, <tp:taxon-name>Schizopelex</tp:taxon-name> McLachlan, <tp:taxon-name>Sericostoma</tp:taxon-name> Latreille) (<xref ref-type="bibr" rid="B34">Holzenthal et al. 2007b</xref>). South Africa harbors 12 species in 5 endemic genera (<tp:taxon-name>Aclosma</tp:taxon-name> Morse, <tp:taxon-name>Aselas</tp:taxon-name> Barnard, <tp:taxon-name>Cheimacheramus</tp:taxon-name> Barnard, <tp:taxon-name>Petroplax</tp:taxon-name> Barnard, <tp:taxon-name>Rhoizema</tp:taxon-name> Barnard), but no species are found in tropical Africa. The genus <tp:taxon-name>Agarodes</tp:taxon-name> Banks contains 12 species confined largely to the southeastern United States, where a second monotypic genus, <tp:taxon-name>Fattigia</tp:taxon-name> Ross, also occurs. There is a single species known from India, <tp:taxon-name>Asahaya asambaddha</tp:taxon-name> Schmid, and the 6 species in the genus <tp:taxon-name>Gumaga</tp:taxon-name> Tsuda occur in Mexico (Baja California) and the western United States (3 species) and in southern and eastern Asia (3 species). In the Neotropics, the family is represented in the Chilean subregion by 4 genera, <tp:taxon-name>Chiloecia</tp:taxon-name> Navás (1 species, <italic>nomen dubium</italic>), <tp:taxon-name>Myotrichia</tp:taxon-name> Schmid (1), <tp:taxon-name>Notidobiella</tp:taxon-name> Schmid (3), and <tp:taxon-name>Parasericostoma</tp:taxon-name> Schmid (10) (<xref ref-type="bibr" rid="B24">Flint et al. 1999b</xref>). Until now, only a single sericostomatid species, <tp:taxon-name>Grumicha grumicha</tp:taxon-name> (Vallot), was known from the Brazilian subregion (<xref ref-type="bibr" rid="B23">Flint et al. 1999a</xref>).</p>
+            <p>In this paper, we describe 3 new species of <tp:taxon-name>Notidobiella</tp:taxon-name>, 1 from the Amazon basin, Brazil, 1 from southeastern Brazil, and 1 from Ecuador, thus extending the range of this genus well beyond its Chilean representation. In addition, we provide illustrations and diagnoses of males and females (the latter for the first time) of the 3 previously described species of <tp:taxon-name>Notidobiella</tp:taxon-name>, <tp:taxon-name>Notidobiella chacayana</tp:taxon-name> Schmid, <tp:taxon-name>Notidobiella inermis</tp:taxon-name> Flint, and <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid, and a key to males of species in the genus. The Neotropical species of <tp:taxon-name>Sericostomatidae</tp:taxon-name>, including those in the genus <tp:taxon-name>Notidobiella</tp:taxon-name>, appear to be members of a southern Gondwana fauna (<xref ref-type="bibr" rid="B14">de Moor and Ivanov 2008</xref>).</p>
+        </sec>
+        <sec sec-type="Material and methods"><title>Material and methods</title>
+            <p>Techniques and procedures used in the preparation and examination of specimens are those outlined by <xref ref-type="bibr" rid="B3">Blahnik and Holzenthal (2004)</xref> and <xref ref-type="bibr" rid="B4">Blahnik et al. (2007)</xref>. Terminology for genitalia and wing venation follows that presented by <xref ref-type="bibr" rid="B34">Holzenthal et al. (2007b)</xref> and morphological structures are labeled in <xref ref-type="fig" rid="F1">Figs 3</xref>–<xref ref-type="fig" rid="F2">5</xref>. The species are presented in alphabetical order, except for the type species of the genus, <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name>, which is presented first, after the generic diagnosis. Material examined and types are deposited in the collections of the University of Minnesota Insect Collection, St. Paul, Minnesota, USA (UMSP), the Museu de Zoologia, Universidade de São Paulo, São Paulo, Brazil (MZUSP), the Instituto Nacional de Pesquisas da Amazonia, Manaus, Brazil (INPA), and the National Museum of Natural History, Smithsonian Institution, Washington, DC, USA (NMNH). UMSP barcode accession label numbers for holotypes are included in the list of material examined, but not for paratypes.<!--PageBreak--></p>
+        </sec>
+        <sec sec-type="Systematics"><title>Systematics</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>Genus</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Schmid</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                    <tp:nomenclature-citation><tp:taxon-name>Notidobiella</tp:taxon-name><comment> <xref ref-type="bibr" rid="B61">Schmid 1955</xref>: 152 [Type species: <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> <xref ref-type="bibr" rid="B61">Schmid 1955</xref>, original designation].</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis:</title>
+                    <p> (modified from <xref ref-type="bibr" rid="B61">Schmid 1955</xref>; characters pertain to the male of the type species, except where noted): Head short, but broad, with large, projecting eyes, with conspicuous setae between ommatidea (<xref ref-type="fig" rid="F1">Fig. 1</xref>); in most species interocular distance equal to or slightly less than diameter of eye, when viewed frontally (eyes of females smaller, interocular distance about 2× diameter of eye). According to <xref ref-type="bibr" rid="B61">Schmid (1955)</xref> bordering the eyes medially is an elongate, convex cephalic tubercle, but this structure was not evident in the material of the type species examined by us. Head dorsally with prominent, elongate occipital and retroccipital warts; ocellar, antennal, frontal, anterolateral, and hypomedial setal warts absent (terminology of <xref ref-type="bibr" rid="B39">Ivanov 1990</xref>) (although females with small anterolateral setal wart). Antennal scape much shorter than head and about as wide as long, with oval setal warts on both its dorsal and ventral surfaces; scapes almost touch medially. Maxillary palp very short, composed of enlarged, heavily setose basal article held against the face and sclerotized on its lateral side only, medial side membranous, with small, oval, sclerotized, setose apical article (<xref ref-type="fig" rid="F1">Fig. 2</xref>) (female maxillary palp 5-segmented, unmodified). Labial palp 3-segmented, unmodified. Pronotum with pair of elongate setal warts (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Mesoscutum with very deep median fissure and pair of small, oval scutal warts; mesoscutellum with pair of large scutellar warts (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Each leg with pair of apical spurs (tibial spur formula 2-2-2). Wings are broad, forewing longer and broader than hind wing; wing venation uniform among the species. Forewing (<xref ref-type="fig" rid="F1">Fig. 3A</xref>) with forks I, II, III, and V present; cross vein <italic>r</italic> between R1 and R2; discoidal cell present and short, forks II and III sessile; crossveins <italic>r-m</italic> and <italic>m-cu</italic> present (in <tp:taxon-name>Notidobiella amazoniana</tp:taxon-name> sp. n., and <tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name> sp. n., crossveins <italic>r</italic> and <italic>s</italic> absent or very weak and difficult to discern in the material examined; the absence of <italic>s</italic> leaves the discoidal cell open); Cu2 not attaining wing margin, merged apically with Cu1b; A1 and A2 each attaining wing margin, A3 absent. Hind wing (<xref ref-type="fig" rid="F1">Fig. 3B</xref>) with discoidal cell open; forks I, II, V present; fork I petiolate; fork II sessile; M with single branch; fork V short. Male genitalia (<xref ref-type="fig" rid="F2">Figs 4</xref>, <xref ref-type="fig" rid="F5">8</xref>): Sternum VII with posteromesal process. Segment IX with short or long ventral setose lobes or only single setose process (<tp:taxon-name>Notidobiella amazoniana</tp:taxon-name> sp. n.). Preanal appendages short, ovate, setose. Tergum X simple, triangular to subquadrate in shape. Inferior appendage narrow basally and broadly spatulate apically, with short to long mesal process on ventromesal margin (in <tp:taxon-name>Notidobiella amazoniana</tp:taxon-name> sp. n., inferior appendage uniformly narrow throughout its length and without mesal process on the ventromesal margin). Phallus simple, elongate, tubular, with prominent endophallic membranes. Female genitalia (<xref ref-type="fig" rid="F2">Figs 5</xref>, <xref ref-type="fig" rid="F6">9</xref>): Tergum IX heavily setose, posterolateral lobe, with lateral, microsetose, elevated ridge (all species except <tp:taxon-name>Notidobiella brasiliana</tp:taxon-name> sp. n.). Internal vaginal sclerites complex with no discernable differences <!--PageBreak-->among the species. Bursa copulatix subspherical and semisclerotized; pair of small, oval sclerites lying in membranes above vaginal sclerites (position variable).</p>
+                  	<p><xref ref-type="bibr" rid="B15">Flint (1967)</xref> described the immature stages of <tp:taxon-name>Notidobiella chacayana</tp:taxon-name>. Larvae construct slightly tapered and curved cases of small mineral fragments embedded in silk and occur on the bottoms of small streams. The 3 previously known species, <tp:taxon-name>Notidobiella chacayana</tp:taxon-name> Schmid, 1957, <tp:taxon-name>Notidobiella inermis</tp:taxon-name> Flint, 1983, and <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid, 1955, are endemic to southern Chile.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">parallelipipeda</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Schmid</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1</xref>
+                    <xref ref-type="fig" rid="F2">5</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name><comment> <xref ref-type="bibr" rid="B61">Schmid 1955</xref>: 152 [Type locality: Chile, Ñuble, Recinto; NMNH; male]. <xref ref-type="bibr" rid="B17">Flint 1974</xref>: 91 [distribution].</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Of the species in the genus with broad, spatulate inferior appendages (all species except <tp:taxon-name>Notidobiella amazoniana</tp:taxon-name>), the type species is the most distinctive based on the parallel-sided inferior appendages with their prominent, mesally directed, mesal processes.</p>
+                    <p>Adult. Forewing length 7.8–8.0 mm male (n=2); 8.8–9.0 mm female (n=2). Color light brown, palps and legs stramineous; forewings light brown, with scattered golden setae. Sternum VII of male with broad, fingernail-like, posteromesal process.</p>
+                    <p>Male genitalia (<xref ref-type="fig" rid="F2">Fig. 4</xref>). Segment IX with anterior margin broadly produced midlaterally; tergum IX narrow; sternum IX with pair of very short, posteromesal processes, bearing long apical setae. Tergum X simple, subquadrate in lateral view, with slight apicolateral elevation, with slight dorsomesal excavation, setose apically. Preanal appendage short, ovate, setose. Inferior appendage prominent, heavily setose, spatulate, dorsal and ventral edges parallel, narrow basally, with prominent, elongate mesal process on mesal margin; strongly directed mesally in ventral view; apex exposed in lateral view. Phallic apparatus simple, tubular, slightly curved from base to apex; endophalic membranes prominent, but simple; phallotremal sclerite not apparent.</p>
+                    <p>Female genitalia (<xref ref-type="fig" rid="F2">Fig. 5</xref>). Tergum VIII quadrate; pleural membranes extensive, highly folded; sternum VIII broad, anterior margin with apodemal ridge, extending dorsolaterally; posterolateral corners rounded, heavily setose, especially posteriorly. Tergum IX with heavily setose, posterolateral lobes, rounded in lateral view, triangular in dorsal view; with lateral, microsetose, elevated ridge; sternum IX highly membranous, the membranes with parallel pleats or folds; tergum IX semimembranous dorsally. Tergum X with short setose projection. Internal vaginal sclerites complex (no discernable differences among the species); bursa copulatix subspherical, semisclerotized; pair of small, oval sclerites lying in membranes above vaginal sclerites (position variable).</p>
+                    <fig id="F1" position="float" orientation="portrait">
+        	
+                        <label>Figures 1–3.</label>
+                        <caption><p><tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid. <bold>1</bold> Male head and thorax <bold>A</bold> head, dorsal <bold>B</bold> pro- and mesonota, dorsal. <bold>2.</bold> <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid. Maxillary palp, male, frontal view. <bold>3.</bold> <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid. Male wings <bold>A</bold> forewing <bold>B</bold> hind wing. Abbreviations: DC = discoidal cell, TC = thyridial cell.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+        	
+                        <label>Figures 4–5.</label>
+                        <caption><p><tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid. <bold>4</bold> Male genitalia <bold>A</bold> segments IX, X, inferior appendages, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segment IX, inferior appendages ventral <bold>D</bold> inferior appendage, dorsal <bold>E</bold> phallus, lateral <bold>F</bold> phallus, ventral <bold>G</bold> sternum VII posteromesal process, ventral. <bold>5.</bold> <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid. Female genitalia, segments IX, X, dorsal.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined:</title>
+                    <p> <bold>CHILE:</bold> Ñuble, Recinto, 4–6.iii.1968, Flint and Peña, 1 male, 1 female (pinned) (NMNH); Linares, El Castillo, Malcho, E Parral, 750 m, 8–10.i.1988, L.E. Peña, 1 male, 1 female (pinned) (NMNH).<!--PageBreak--><!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">amazoniana</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:6203A2A2-CB58-418F-A731-8C31A2243E7D</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Holzenthal &amp; Blahnik</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F3">Figs 6</xref>
+                    <xref ref-type="fig" rid="F4">7</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> This is the smallest species in the genus. Its wings are short and broad with venation typical for the genus except forewing crossveins <italic>r</italic> and <italic>s</italic> are absent, leaving the discoidal cell open (<xref ref-type="fig" rid="F4">Fig. 7</xref>). Its genitalia are the most atypical in the genus in that the inferior appendages are not broadly spatulate, but sinuous in shape and uniform in width. <!--PageBreak-->Tergum IX bears a short triangular, posteromesal process, rather than short, paired processes, as found in the other species. Otherwise, the genitalia are typical for the genus.</p>
+                    <p>Adult. Forewing length 4.5–5.0 mm male (n=8). Color faded, overall pale stramineous (specimens in alcohol); forewings colorless, almost transparent, denuded. Sternum VII of male with broad, fingernail-like, posteromesal process.</p>
+                    <p>Male genitalia (<xref ref-type="fig" rid="F3">Fig. 6</xref>). Segment IX with anterior margin acutely produced ventrolaterally; tergum IX narrow, ridge-like; sternum IX with short, triangular, posteromesal process, bearing apical setae. Tergum X simple, subquadrate in lateral view, with slight dorsomesal excavation, setose. Preanal appendage short, ovate, setose. Inferior appendage prominent, heavily setose, elongate, narrow throughout length, without mesal process on ventromesal margin; in ventral view, apex acute, slightly incurved. Phallic<!--PageBreak--> apparatus simple, tubular, slightly curved from base to apex; endophalic membranes prominent, with paired apical membranous lobes; elongate, lightly sclerotized band internally (perhaps the phallotremal sclerite).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Female"><title>Female.</title>
+                    <p> Unknown.</p>
+                    <fig id="F3" position="float" orientation="portrait">
+        	
+                        <label>Figure 6.</label>
+                        <caption><p><tp:taxon-name>Notidobiella amazoniana</tp:taxon-name>, sp. n. Male genitalia <bold>A</bold> segments IX, X, inferior appendages, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segment IX, inferior appendages ventral <bold>D</bold> phallus, lateral <bold>E</bold> apex of phallus, dorsal.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+        	
+                        <label>Figure 7.</label>
+                        <caption><p><tp:taxon-name>Notidobiella amazoniana</tp:taxon-name>, sp. n. Wings <bold>A</bold> forewing <bold>B</bold> hind wing.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Holotype male"><title>Holotype male:</title>
+                    <p> <bold>BRAZIL: Amazonas:</bold> AM 010, km 246, 15–16.vii.1979, J. Arias (alcohol) (UMSP000131226) (INPA).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Paratypes"><title>Paratypes:</title>
+                    <p> <bold>BRAZIL: Amazonas:</bold> same data as holotype, 3 males (alcohol) (UMSP), 4 males (alcohol) (NMNH).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology:</title>
+                    <p> Named for the state and region where the specimens were collected, which represents a significant northern extension of the range of the genus.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">brasiliana</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:3365A48E-060D-4925-AC4B-B8AD7E74944F</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Holzenthal &amp; Blahnik</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F5">Figs 8</xref>
+                    <xref ref-type="fig" rid="F6"/>
+                    <xref ref-type="fig" rid="F7">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+	                  <p> This new species is most similar to <tp:taxon-name>Notidobiella chacayana</tp:taxon-name> in the overall shape and structure of the inferior appendages. Both species possess an elongate mesal process on the ventromesal margin of the inferior appendage. In <tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name> sp. n., the ventromesal process is also present, but is shorter and broader in ventral view; in the other 2 Chilean species, <tp:taxon-name>Notidobiella inermis</tp:taxon-name> and <tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name>, the ventromesal processes are either very reduced (<tp:taxon-name>Notidobiella inermis</tp:taxon-name>) or long (<tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name>), but not nearly as long <!--PageBreak-->as in <tp:taxon-name>Notidobiella brasiliana</tp:taxon-name> sp. n. Setting <tp:taxon-name>Notidobiella brasiliana</tp:taxon-name> sp. n., apart from all of its congeners is the pair of elongate posteromesal processes on sternum IX; in all other species these processes are much shorter and broader. Furthermore, forewing crossveins <italic>r</italic> and <italic>s</italic> are absent, leaving the discoidal cell open (<xref ref-type="fig" rid="F7">Fig. 10</xref>).</p>
+                    <p>Adult. Forewing length 7.0 mm male (n=1); 7.9–8.2 mm female (n=4). Color medium to dark brown, palps and legs light brown; forewings dark brown with scattered golden hairs, pale golden spot on anal margin at about midlength. Sternum VII of male with broad, fingernail-like, posteromesal process.</p>
+                    <p>Male genitalia (<xref ref-type="fig" rid="F5">Fig. 8</xref>). Segment IX with anterior margin broadly produced mesolaterally; tergum IX narrow, elevated, mound-like; sternum IX with pair of prominent, elongate, posteromesal processes, bearing long apical setae. Tergum X simple, triang<!--PageBreak--><!--PageBreak-->ular in lateral view, with slight dorsomesal excavation, setose. Preanal appendage short, ovate, setose. Inferior appendage prominent, heavily setose, broadly spatulate, narrow basally, with elongate mesal process on ventromesal margin. Phallic apparatus simple, tubular, slightly curved from base to apex; endophalic membranes prominent, but simple; phallotremal sclerite not apparent.</p>
+                    <p>Female genitalia (<xref ref-type="fig" rid="F6">Fig. 9</xref>). Tergum VIII quadrate; pleural membranes extensive, highly folded; sternum VIII broad, anterior margin with apodemal ridge, extending dorsolaterally; posterolateral corners rounded, heavily setose, especially posteriorly. Tergum IX with heavily setose, posterolateral lobes, rounded in dorsal and lateral views; without lateral ridge; sternum IX highly membranous, the membranes with parallel pleats or folds; tergum IX semimembranous dorsally. Tergum X with short, bifurcate, setose projection. Internal vaginal sclerites complex (no discernable differences among the species); bursa copulatix subspherical, semisclerotized; pair of small, oval sclerites lying in membranes above vaginal sclerites (position variable).</p>
+                    <fig id="F5" position="float" orientation="portrait">
+        	
+                        <label>Figure 8.</label>
+                        <caption><p><tp:taxon-name>Notidobiella brasiliana</tp:taxon-name>, sp. n. Male genitalia <bold>A</bold> segments VII-X, inferior appendages, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segment IX, inferior appendages ventral <bold>D</bold> phallus, lateral <bold>E</bold> sterna VII, VIII, ventral.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F6" position="float" orientation="portrait">
+        	
+                        <label>Figure 9.</label>
+                        <caption><p><tp:taxon-name>Notidobiella brasiliana</tp:taxon-name>, sp. n. Female genitalia <bold>A</bold> segments VIII-X, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segments VIII-X, ventral.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F7" position="float" orientation="portrait">
+        	
+                        <label>Figure 10.</label>
+                        <caption><p><tp:taxon-name>Notidobiella brasiliana</tp:taxon-name>, sp. n. Wings <bold>A</bold> forewing <bold>B</bold> hind wing.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Holotype male"><title>Holotype male:</title>
+                    <p> <bold>BRAZIL: São Paulo:</bold> Parque Estadual de Campos do Jordão, 1st order trib. to Rio Galharada, 22°41.662'S, 45°27.783'W, el 1530 m, 14–16.ix.2002, Blahnik, Prather, Huamantinco (pinned) (UMSP000086351) (MZUSP).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Paratypes"><title>Paratypes:</title>
+                    <p> <bold>BRAZIL: São Paulo:</bold> Parque Estadual de Campos do Jordão, Rio Galharada, 22°41.662'S, 45°27.783'W, el 1530 m, 13–15.ix.2002, Blahnik, Prather, Melo, Huamantinco, 2 females (alcohol) (MZUSP); same data as holotype, 2 females (pinned) (UMSP).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology:</title>
+                    <p> Named for Brazil, the country of the type specimens, which represents a significant northeastward extension of the range of the genus.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">chacayana</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Schmid</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F8">Figs 11–12</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Notidobiella chacayana</tp:taxon-name><comment> <xref ref-type="bibr" rid="B62">Schmid 1957</xref>: 392 [Type locality: Chile, Maule, Chacay; NMNH; male]. <xref ref-type="bibr" rid="B15">Flint 1967:</xref> 63 [larva, pupa]; <xref ref-type="bibr" rid="B17">1974</xref>: 91 [distribution].</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> This Chilean species is most similar to <tp:taxon-name>Notidobiella brasiliana</tp:taxon-name> because of the similarly shaped inferior appendages, with their similar elongate mesal processes. It differs from that species in the much shorter posteromesal processes of sternum IX.</p>
+                    <p>Adult. Forewing length 6.8–7.5 mm male (n=3); 7.2–9.0 mm female (n=3). Color brown, palps and legs stramineous; forewings brown, with scattered golden setae. Sternum VII of male with broad, fingernail-like, posteromesal process.</p>
+                    <p>Male genitalia (<xref ref-type="fig" rid="F8">Fig. 11</xref>). Segment IX with anterior margin produced ventrolaterally; tergum IX slightly elevated, mound-like; sternum IX with pair of short, posteromesal processes, bearing long apical setae. Tergum X simple, triangular in lateral view, with dorsomesal excavation, setose. Preanal appendage short, ovate, setose. Inferior appendage prominent, heavily setose, broadly spatulate, narrow basally, with elongate <!--PageBreak-->mesal process on ventromesal margin. Phallic apparatus simple, tubular, curved from base to apex; endophalic membranes prominent, but simple; phallotremal sclerite not apparent.</p>
+                    <p>Female genitalia (<xref ref-type="fig" rid="F8">Fig. 12</xref>). Tergum VIII quadrate; pleural membranes extensive, highly folded; sternum VIII broad, anterior margin with apodemal ridge, extending dorsolaterally; posterolateral corners rounded, heavily setose, especially posteriorly. Tergum IX with heavily setose, posterolateral lobes, rounded to subtriangular in dorsal view; with lateral, microsetose, elevated ridge; sternum IX highly membranous, the membranes with parallel pleats or folds; dorsally tergum<!--PageBreak--> IX semimembranous. Tergum X with short setose projection. Internal vaginal sclerites complex (no discernable differences among the species); bursa copulatix subspherical, semisclerotized; pair of small, oval sclerites lying in membranes above vaginal sclerites (position variable).</p>
+                    <fig id="F8" position="float" orientation="portrait">
+        	
+                        <label>Figures 11–12.</label>
+                        <caption><p><tp:taxon-name>Notidobiella chacayana</tp:taxon-name> Schmid. <bold>11</bold> Male genitalia <bold>A</bold> segments IX, X, inferior appendages, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segment IX, inferior appendages ventral <bold>D</bold> phallus, lateral <bold>E</bold> phallus, ventral. <bold>12.</bold> <tp:taxon-name>Notidobiella chacayana</tp:taxon-name> Schmid. Female genitalia, segments IX, X, dorsal.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g008.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined:</title>
+                    <p> <bold>CHILE</bold>: Cauquenes, Tregualeme, 35°56'S, 72°43'W, 11–12.xii.1993, C. and O. Flint Jr., 1 male, 1 female (pinned) (NMNH); X Región de los Lagos, Isla de Chiloé, Río Verde, 1.9 km W Puntra, 42°07.078'S, 73°50.364'W, el. 40 m, 3.ii.2005, Holzenthal, Blahnik, Chamorro, 2 males, 2 females (pinned) (UMSP); XIV Región de los Ríos, Monumento Nacional Alerce Costero, unnamed trib., trail to Alerce Milenario, 40°11.874'S, 73°26.217'W, el. 895 m, 5.ii.2008, Holzenthal, Pauls, Mendez, 1 male (pinned) (UMSP).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">ecuadorensis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:20CB7DC2-73DF-4D4D-9593-0A87C589BABB</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Holzenthal &amp; Blahnik</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F9">Figs 13</xref>
+                    <xref ref-type="fig" rid="F10">14</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> The combination of broadly spatulate inferior appendage, thumb-like mesal process on the ventromesal margin of the inferior appendage, and short posteromesal processes on sternum IX separate this species from its congeners. The wing venation (<xref ref-type="fig" rid="F10">Fig. 14</xref>) is similar to that of the type species.</p>
+                    <p>Adult. Forewing length 6.2 mm (n=1). Color faded, overall yellowish-brown (specimen in alcohol); forewings stramineous, denuded. Sternum VII of male with broad, fingernail-like, posteromesal process.</p>
+                    <p>Male genitalia (<xref ref-type="fig" rid="F9">Fig. 13</xref>). Segment IX with anterior margin broadly produced midlaterally; tergum IX narrow, elevated, mound-like; sternum IX with pair of short, triangular, posteromesal processes, bearing very long apical setae. Tergum X simple, triangular in lateral view, with slight dorsomesal excavation, setose apically. Preanal appendage short, ovate, setose. Inferior appendage prominent, heavily setose, very broadly spatulate, narrow basally, with short, thumb-like mesal process on ventromesal margin. Phallic apparatus simple, tubular, relatively straight from base to apex; endophalic membranes prominent, with paired apical membranous lobes; elongate, lightly sclerotized band internally (perhaps the phallotremal sclerite).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Female"><title>Female:</title>
+                    <p> Unknown.</p>
+                    <fig id="F9" position="float" orientation="portrait">
+        	
+                        <label>Figure 13.</label>
+                        <caption><p><tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name>, sp. n. Male genitalia <bold>A</bold> segments IX, X, inferior appendages, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segment IX, inferior appendages ventral <bold>D</bold> inferior appendage, dorsal <bold>E</bold> phallus, lateral <bold>F</bold> phallus apex, dorsal <bold>G</bold> sternum VII posteromesal process, ventral.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g009.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F10" position="float" orientation="portrait">
+        	
+                        <label>Figure 14.</label>
+                        <caption><p><tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name>, sp. n. Wings <bold>A</bold> forewing <bold>B</bold> hind wing.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g010.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> male, <bold>ECUADOR:</bold> <bold>Pastaza</bold>: Puyo, 1–7.ii.1976, Spangler et al. (alcohol) (UMSP000208470) (NMNH).<!--PageBreak--></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology:</title>
+                    <p> Named for Ecuador, the country of the holotype, which represents a significant northern extension of the range of the genus.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Notidobiella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">inermis</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Flint</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F11">Figs 15–16</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Notidobiella inermis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B19">Flint 1983</xref>:90 [Type locality: Chile, Pcia Cautín, near Pucón; NMNH; male].</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <tp:taxon-name>Notidobiella inermis</tp:taxon-name> shares with <tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name> broadly spatulate inferior appendages with short, thumb-like mesal processes, but differs in details of the shape <!--PageBreak-->of the inferior appendages, as illustrated, and in the possession of a narrow posteromesal process on sternum VII.</p>
+                    <p>Adult. Forewing length 6.0–6.5 mm male (n=2); 8.0 mm female (n=2). Color brown, palps and legs stramineous; forewings brown, with scattered golden setae. Sternum VII of male with narrow, fingernail-like, posteromesal process.</p>
+                    <p>Male genitalia (<xref ref-type="fig" rid="F11">Fig. 15</xref>). Segment IX with anterior margin produced ventrolaterally; tergum IX narrow; sternum IX with pair of short, posteromesal processes, bearing long apical setae. Tergum X simple, subquadrate in lateral view, with slight dorsomesal excavation, setose. Preanal appendage short, ovate, setose. Inferior appendage prominent, heavily setose, very broadly spatulate, narrow basally, with short, thumb-like mesal process on ventromesal margin. Phallic apparatus simple, tubular, relatively straight from base to apex; endophalic membranes prominent, but simple; phallotremal sclerite not apparent.</p>
+                    <p>Female genitalia (<xref ref-type="fig" rid="F11">Fig. 16</xref>). Tergum VIII quadrate; pleural membranes extensive, highly folded; sternum VIII broad, anterior margin with apodemal ridge, extending dorsolaterally; posterolateral corners rounded, heavily setose, especially posteriorly. Tergum IX with heavily setose, posterolateral lobes, subovate, small, bilobed in dorsal and lateral views; with lateral, microsetose, elevated ridge; sternum IX highly membranous, the membranes with parallel pleats or folds; dorsally tergum IX with sclerotized ridge. Tergum X with broad heavily setose projection. Internal vaginal sclerites complex, no discernable differences among the species; bursa copulatix subspherical, semisclerotized; pair of small, oval sclerites lying in membranes above vaginal sclerites (position variable).</p>
+                    <fig id="F11" position="float" orientation="portrait">
+        	
+                        <label>Figures 15–16.</label>
+                        <caption><p><tp:taxon-name>Notidobiella inermis</tp:taxon-name> Flint. <bold>15</bold> Male genitalia <bold>A</bold> segments IX, X, inferior appendages, lateral <bold>B</bold> segments IX, X, dorsal <bold>C</bold> segment IX, inferior appendages ventral <bold>D</bold> phallus, lateral <bold>E</bold> phallus, ventral <bold>F</bold> sternum VII posteromesal process, ventral. <bold>16.</bold> <tp:taxon-name>Notidobiella chacayana</tp:taxon-name> Schmid. Female genitalia, segments IX, X, dorsal.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/597/supp/ZooKeys-071-023-g011.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material Examined"><title>Material Examined:</title>
+                    <p> <bold>CHILE:</bold> Llanquihue, Salto Chamiza, Correntosa, 100 m, 19.i.1987, C.M. and O.S. Flint, Jr., 1 male, 2 females (pinned) (NMNH); Llanquihue, El Chinque, N Correntosa (S Volcán Calbuco), 300 m, 20–25.i.1980, 1 male paratype (pinned) (NMNH).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Key to males of Neotropical Notidobiella"><title>Key to males of Neotropical Notidobiella</title>
+            <table-wrap content-type="key" position="anchor" orientation="portrait">
+                <table>
+                    <tbody>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">Inferior appendage narrow basally, broadly spatulate apically, with mesal process on ventromesal margin (<xref ref-type="fig" rid="F2">Figs 4A</xref>, <xref ref-type="fig" rid="F5">8A</xref>); abdominal sternum IX with pair of posteromesal processes (<xref ref-type="fig" rid="F2">Figs 4C</xref>, <xref ref-type="fig" rid="F5">8C</xref>); forewing length 6–8 mm</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Inferior appendage elongate, narrow throughout length, without mesal process on ventromesal margin (<xref ref-type="fig" rid="F3">Figs 6A, C</xref>); abdominal sternum IX with single, short, triangular, posteromesal process (<xref ref-type="fig" rid="F3">Fig. 6C</xref>); forewing length 4.5–5 mm</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notidobiella amazoniana</tp:taxon-name> sp. n.</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">2(1)</td>
+                            <td rowspan="1" colspan="1">Inferior appendage mesal process elongate (<xref ref-type="fig" rid="F2">Figs 4C</xref>, <xref ref-type="fig" rid="F5">8C</xref>)</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Inferior appendage mesal process short, thumb-like (<xref ref-type="fig" rid="F9">Figs 13C</xref>, <xref ref-type="fig" rid="F11">15C</xref>)</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">3(2)</td>
+                            <td rowspan="1" colspan="1">Posteromesal processes of abdominal sternum IX short (<xref ref-type="fig" rid="F3">Figs 6C</xref>, <xref ref-type="fig" rid="F9">13C</xref>); distribution: Chilean subregion (Chile)</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+												
+                        <!--PageBreak-->
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Posteromesal processes of abdominal sternum IX elongate (<xref ref-type="fig" rid="F5">Fig. 8C</xref>); distribution: Brazilian subregion (southeastern Brazil)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notidobiella brasiliana</tp:taxon-name> sp. n.</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">4(3)</td>
+                            <td rowspan="1" colspan="1">Spatulate apex of inferior appendage broadly ovate (<xref ref-type="fig" rid="F8">Fig. 11A</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notidobiella chacayana</tp:taxon-name>  Schmid</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Spatulate apex of inferior appendage parallel sided (<xref ref-type="fig" rid="F2">Fig. 4A</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notidobiella parallelipipeda</tp:taxon-name> Schmid</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">5(2)</td>
+                            <td rowspan="1" colspan="1">Abdominal tergum IX highly elevated, mound-like (<xref ref-type="fig" rid="F9">Fig. 13A</xref>); ventromesal process of abdominal sternum VII broad (<xref ref-type="fig" rid="F9">Fig. 13G</xref>); distribution: Brazilian subregion (Ecuador)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notidobiella ecuadorensis</tp:taxon-name>  sp. n.</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Abdominal tergum IX not elevated (<xref ref-type="fig" rid="F11">Fig. 15A</xref>); ventromesal process of abdominal sternum VII narrow (<xref ref-type="fig" rid="F11">Fig. 15F</xref>); distribution: Chilean subregion (Chile)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notidobiella inermis</tp:taxon-name> Flint</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Biogeographic considerations"><title>Biogeographic considerations</title>
+            <p>As defined most recently by <xref ref-type="bibr" rid="B14">de Moor and Ivanov (2008)</xref>, the <tp:taxon-name>Trichoptera</tp:taxon-name> fauna of southern Chile and adjacent patagonian <tp:taxon-name>Argentina</tp:taxon-name> exhibits a strong biogeographical affinity to Australia, New Zealand, and other southern Pacific islands (e.g., New Caledonia). This “Temperate Gondwana” (<xref ref-type="bibr" rid="B14">de Moor and Ivanov 2008</xref>) or “transantarctic” pattern (e.g., <xref ref-type="bibr" rid="B6">Brundin 1966</xref>) also includes the temperate, southernmost part of Africa and Madagascar. In the Neotropical <tp:taxon-name>Trichoptera</tp:taxon-name>, the affinity to the southern African fauna is very weak, perhaps exhibited only at the family level within <tp:taxon-name>Sericostomatoidea</tp:taxon-name> (<xref ref-type="bibr" rid="B14">de Moor and Ivanov 2008</xref>) and potentially among genera within <tp:taxon-name>Sericostomatidae</tp:taxon-name> (although relationships among genera within this family are yet to be inferred). On the other hand, the biogeographical affinity between southern South America and Australasia is strong. Within South America, nearly all species in Chile and adjacent <tp:taxon-name>Argentina</tp:taxon-name>  are endemic, prompting <xref ref-type="bibr" rid="B18">Flint (1976)</xref> to divide the Neotropics into 2 distinct subregions, the Chilean (southern Chile/Argentina) and the Brazilian (the rest of the Neotropics as defined by <xref ref-type="bibr" rid="B66">Wallace 1876</xref>); these regions are equivalent to the “Patagonian” and “Neotropical” (<italic>sensu stricto</italic>) <tp:taxon-name>Trichoptera</tp:taxon-name> regions of <xref ref-type="bibr" rid="B14">de Moor and Ivanov (2008)</xref>.</p>
+            <p>Four <tp:taxon-name>Trichoptera</tp:taxon-name> families are representative of a temperate Gondwanan pattern: <tp:taxon-name>Helicophidae</tp:taxon-name>, <tp:taxon-name>Kokiriidae</tp:taxon-name>, <tp:taxon-name>Philorheithridae</tp:taxon-name>, and <tp:taxon-name>Tasimiidae</tp:taxon-name>, each family with genera endemic to Australia/New Zealand/New Caledonia, southern South America, or Madagascar (no genera are shared) (<xref ref-type="bibr" rid="B51">Neboiss 1986</xref>, <xref ref-type="bibr" rid="B24">Flint et al. 1999b</xref>, <xref ref-type="bibr" rid="B34">Holzenthal et al. 2007b</xref>, <xref ref-type="bibr" rid="B68">Weaver et al. 2008</xref>) (<xref ref-type="table" rid="T1">Table 1</xref>). Sukatcheva and Jarzembowski (2001) questionably placed a fossil (fragment of a forewing) from the early Cretaceous of southern England in the <tp:taxon-name>Helicophidae</tp:taxon-name>.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+        	
+                <label>Table 1.</label>
+					
+                <caption><p>Genera (number of included species) in the families <tp:taxon-name>Helicophidae</tp:taxon-name>, <tp:taxon-name>Kokiriidae</tp:taxon-name>, <tp:taxon-name>Philorheithridae</tp:taxon-name>, and <tp:taxon-name>Tasimiidae</tp:taxon-name> and their regional distributions, including references to recent works inferring or discussing phylogenetic relationships among genera.</p></caption>
+						
+                <table>
+								
+                    <tbody>
+										
+                        <tr>
+											
+                            <th rowspan="1" colspan="1">Family, genus (# species)</th>
+											
+                            <th rowspan="1" colspan="1">Distribution</th>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="2"><tp:taxon-name>Helicophidae</tp:taxon-name> (<xref ref-type="bibr" rid="B21">Flint 1992</xref>, <xref ref-type="bibr" rid="B22">2002</xref>, <xref ref-type="bibr" rid="B29">Henderson and Ward 2007</xref>, <xref ref-type="bibr" rid="B40">Johanson 2003a</xref>, <xref ref-type="bibr" rid="B43">Johanson and Keijsner 2008</xref>, <xref ref-type="bibr" rid="B45">Johanson and Ward 2002</xref>, <xref ref-type="bibr" rid="B52">Neboiss 2002</xref>)</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Alloecella</tp:taxon-name> Banks (3)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Alloecentrella</tp:taxon-name> Wise (4)</td>
+											
+                            <td rowspan="1" colspan="1">New Zealand</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Alloecentrellodes</tp:taxon-name> Flint (2)</td>
+											
+                            <td rowspan="1" colspan="1">Chile</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Austrocentrus</tp:taxon-name> Schmid (3)</td>
+											
+                            <td rowspan="1" colspan="1">Chile, Argentina</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Eosericostoma</tp:taxon-name> Schmid (2)</td>
+											
+                            <td rowspan="1" colspan="1">Chile, Argentina</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Helicopha</tp:taxon-name> Mosely (21)</td>
+											
+                            <td rowspan="1" colspan="1">Australia, Tasmania, New Caledonia</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Heloccabus</tp:taxon-name> Neboiss (1)</td>
+											
+                            <td rowspan="1" colspan="1">E Australia</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Microthremma</tp:taxon-name> Schmid (8)</td>
+											
+                            <td rowspan="1" colspan="1">Chile</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Pseudosericostoma</tp:taxon-name> Schmid (1)</td>
+											
+                            <td rowspan="1" colspan="1">Chile</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Zelolessica</tp:taxon-name> McFarlane (2)</td>
+											
+                            <td rowspan="1" colspan="1">New Zealand (incl. Stewart Island)</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="2"><tp:taxon-name>Kokiriidae</tp:taxon-name> (<xref ref-type="bibr" rid="B41">Johanson 2003b</xref>)</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Kokiria</tp:taxon-name> McFarlane (1)</td>
+											
+                            <td rowspan="1" colspan="1">New Zealand</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Mecynostomella</tp:taxon-name> Kimmins (7)</td>
+											
+                            <td rowspan="1" colspan="1">New Caledonia</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Pangulia</tp:taxon-name> Navás (2)</td>
+											
+                            <td rowspan="1" colspan="1">Chile</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Tanjistomella</tp:taxon-name> Neboiss (1)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Taskiria</tp:taxon-name> Neboiss(3)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Taskiropsyche</tp:taxon-name> Neboiss (1)</td>
+											
+                            <td rowspan="1" colspan="1">Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="2"><tp:taxon-name>Philorheithridae</tp:taxon-name> (<xref ref-type="bibr" rid="B28">Henderson and Ward 2006</xref>, <xref ref-type="bibr" rid="B68">Weaver et al. 2008</xref>)</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Afrorheithrus</tp:taxon-name> Weaver, Gibon, and Chvojka (3)</td>
+											
+                            <td rowspan="1" colspan="1">Madagascar</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Aphilorheithrus</tp:taxon-name> Mosely (4)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Austrheithrus</tp:taxon-name> Mosely (3)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Kosrheithrus</tp:taxon-name> Mosely (3)</td>
+											
+                            <td rowspan="1" colspan="1">SE, SW Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Mystacopsyche</tp:taxon-name> Schmid (2)</td>
+											
+                            <td rowspan="1" colspan="1">Chile, Argentina</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Philorheithrus</tp:taxon-name> Hare (6)</td>
+											
+                            <td rowspan="1" colspan="1">New Zealand</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Psilopsyche</tp:taxon-name> Ulmer (3)</td>
+											
+                            <td rowspan="1" colspan="1">Chile, Argentina</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Ramiheithrus</tp:taxon-name> Neboiss (2)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Tasmanthrus</tp:taxon-name> Mosely (3)</td>
+											
+                            <td rowspan="1" colspan="1">Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="2"><tp:taxon-name>Tasimiidae</tp:taxon-name> (no phylogenetic assessment available)</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Charadropsyche</tp:taxon-name> Flint (1)</td>
+											
+                            <td rowspan="1" colspan="1">Chile</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Tasiagma</tp:taxon-name> Neboiss (2)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania, Lord Howe Island</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Tasimia</tp:taxon-name> Mosely (5)</td>
+											
+                            <td rowspan="1" colspan="1">SE Australia, Tasmania</td>
+										
+                        </tr>
+										
+                        <tr>
+											
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Trichovespula</tp:taxon-name> Schmid (1)</td>
+											
+                            <td rowspan="1" colspan="1">Chile</td>
+										
+                        </tr>
+								
+                    </tbody>
+						
+                </table>
+            </table-wrap>
+            <p>While not wholly endemic to the region, other caddisfly families contain a diverse temperate Gondwana fauna including, most notably, <tp:taxon-name>Hydrobiosidae</tp:taxon-name> (reviewed by <xref ref-type="bibr" rid="B63">Schmid 1989</xref>, <xref ref-type="bibr" rid="B67">Ward et al. 2004</xref>), <tp:taxon-name>Limnephilidae</tp:taxon-name>: <tp:taxon-name>Dicosmoecinae</tp:taxon-name> (<xref ref-type="bibr" rid="B69">Wiggins 2002</xref>) and <tp:taxon-name>Leptoceridae</tp:taxon-name>: <tp:taxon-name>Triplectidinae</tp:taxon-name> (<xref ref-type="bibr" rid="B30">Holzenthal 1986a</xref>, <xref ref-type="bibr" rid="B31">b</xref>, <xref ref-type="bibr" rid="B49">Morse and Holzenthal 1987</xref>, <xref ref-type="bibr" rid="B13">de Moor 1997</xref>, <xref ref-type="bibr" rid="B36">Holzenthal and Pes 2004</xref>, <xref ref-type="bibr" rid="B8">Calor et al. 2006</xref>, <xref ref-type="bibr" rid="B7">Calor and Holzenthal 2008</xref>, <xref ref-type="bibr" rid="B47">Malm and Johanson 2008</xref>). Other extant caddisfly taxa conforming to a temperate<!--PageBreak--> Gondwanan pattern between the Neotropics (<italic>sensu</italic> Wallace) and Australasia include closely related or purported sister genera in otherwise more widely distributed or cosmopolitan families, including genera in <tp:taxon-name>Ecnomidae</tp:taxon-name> (<xref ref-type="bibr" rid="B16">Flint 1973</xref>, <xref ref-type="bibr" rid="B46">Li and Morse 1997</xref>, <xref ref-type="bibr" rid="B9">Cartwright 2009</xref>, <xref ref-type="bibr" rid="B42">Johanson and Espeland 2009</xref>), <tp:taxon-name>Hydropsychidae</tp:taxon-name>: <tp:taxon-name>Smicrideinae</tp:taxon-name>, <tp:taxon-name>Macronematinae</tp:taxon-name> (<xref ref-type="bibr" rid="B50">Neboiss 1984</xref>, <xref ref-type="bibr" rid="B60">Schefter 1996</xref>, <xref ref-type="bibr" rid="B25">Geraci et al. 2005</xref>), <tp:taxon-name>Philopotamidae</tp:taxon-name> (<xref ref-type="bibr" rid="B2">Blahnik 2005</xref>), and possibly <tp:taxon-name>Stenopsychidae</tp:taxon-name>. Other <tp:taxon-name>Trichoptera</tp:taxon-name> taxa endemic to<!--PageBreak--> the Patagonian region (as defined by <xref ref-type="bibr" rid="B14">de Moor and Ivanov 2008</xref>), but that apparently either do not pertain to a transantarctic pattern or have unknown biogeographic affinities include genera in <tp:taxon-name>Anomalopsychidae</tp:taxon-name> (<xref ref-type="bibr" rid="B35">Holzenthal and Flint 1995</xref>, <xref ref-type="bibr" rid="B37">Holzenthal and Robertson 2006</xref>), <tp:taxon-name>Glossosomatidae</tp:taxon-name> (<xref ref-type="bibr" rid="B53">Robertson and Holzenthal 2005</xref>), <tp:taxon-name>Leptoceridae</tp:taxon-name>: <tp:taxon-name>Leptocerinae</tp:taxon-name> (<xref ref-type="bibr" rid="B32">Holzenthal 1986c</xref>), and <tp:taxon-name>Hydroptilidae</tp:taxon-name> (<xref ref-type="bibr" rid="B26">Harris and Armitage 1997</xref>, <xref ref-type="bibr" rid="B27">Harris and Flint 1993</xref>).</p>
+            <p>The family <tp:taxon-name>Sericostomatidae</tp:taxon-name> contains temperate Gondwanan components, including 5 endemic South African/Malagasy genera (<tp:taxon-name>Aclosma</tp:taxon-name>, <tp:taxon-name>Aselas</tp:taxon-name>, <tp:taxon-name>Cheimacheramus</tp:taxon-name>, <tp:taxon-name>Petroplax</tp:taxon-name>, <tp:taxon-name>Rhoizema</tp:taxon-name>) and 4 endemic South American genera (<tp:taxon-name>Grumicha</tp:taxon-name>, <tp:taxon-name>Myotrichia</tp:taxon-name>, <tp:taxon-name>Notidobiella</tp:taxon-name>, <tp:taxon-name>Parasericostoma</tp:taxon-name>, excluding <tp:taxon-name>Chiloecia</tp:taxon-name>, <italic>nomen dubium</italic>). As indicated above, the family includes other genera endemic to the Nearctic and West Palearctic regions. Sericostomatids are absent from the Australasian region (all Australasian species previously assigned to <tp:taxon-name>Sericostomatidae</tp:taxon-name> have been transferred to other families, see <xref ref-type="bibr" rid="B34">Holzenthal et al. 2007b</xref> for a historical review). Phylogenetic relationships among families and genera of <tp:taxon-name>Sericostomatoidea</tp:taxon-name> are largely unresolved (<xref ref-type="bibr" rid="B33">Holzenthal et al. 2007a</xref>) making it impossible to construct an area cladogram to test for congruence with the prevailing hypotheses of the geological sequence of the breakup of Pangea or the subsequent breakup of southern Gondwana (<xref ref-type="bibr" rid="B58">Sanmartín and Ronquist 2004</xref>, fig. 1).</p>
+            <p>The presence of <tp:taxon-name>Helicophidae</tp:taxon-name> and <tp:taxon-name>Hydrobiosidae</tp:taxon-name> in Eocene Baltic amber (<xref ref-type="bibr" rid="B5">Botosaneanu and Wichard 1983</xref>) and of fossil <tp:taxon-name>Plectrotarsidae</tp:taxon-name> (extant taxa endemic to Australasia) and a putative helicophid from late Cretaceous deposits in England (<xref ref-type="bibr" rid="B64">Sukatsheva and Jarzembowski 2001</xref>) suggests, as hypothesized by <xref ref-type="bibr" rid="B14">de Moor and Ivanov (2008)</xref>, that certain southern temperate <tp:taxon-name>Trichoptera</tp:taxon-name> may be relicts of a more widespread fauna which included now extinct (but still extant in <tp:taxon-name>Sericostomatidae</tp:taxon-name>) north temperate elements. Two species of <tp:taxon-name>Triplectides</tp:taxon-name> in Baltic amber (<xref ref-type="bibr" rid="B65">Ulmer 1912</xref>) suggests the same scenario for this southern Gondwanan genus. In addition, the putative triplectidine larva from South Africa (<xref ref-type="bibr" rid="B13">de Moor 1997</xref>) and the recent discovery of <tp:taxon-name>Philorheithridae</tp:taxon-name> in Madagascar (<xref ref-type="bibr" rid="B68">Weaver et al. 2008</xref>) suggest at least a Gondwanan origin for these taxa (category 3 of <xref ref-type="bibr" rid="B1">Amorin et al. 2009</xref>) and, by inference, other endemic austral <tp:taxon-name>Trichoptera</tp:taxon-name>.</p>
+            <p>Evidence suggests that the contemporary distribution of the Patagonian and Australasian temperate Gondwanan <tp:taxon-name>Trichoptera</tp:taxon-name> fauna reflects a past dispersal corridor between Australia and southern South America via Antarctica (<xref ref-type="bibr" rid="B58">Sanmartín and Ronquist 2004</xref>). This “transantarctic exchange” pattern also has been demonstrated for other insects, including aquatic taxa (<xref ref-type="bibr" rid="B10">Cranston and Edward 1999</xref>, <xref ref-type="bibr" rid="B1">Amorin et al. 2009</xref>, <xref ref-type="bibr" rid="B12">Daugeron et al. 2009</xref>). However, it may be that the current distribution of other southern Gondwana caddisflies, such as <tp:taxon-name>Sericostomatidae</tp:taxon-name>, reflects an older dispersal prior to the breakup of southern Gondwana, now represented by relict Southern Hemisphere distributions. The southeast Brazilian sericostomatid <tp:taxon-name>Grumicha grumicha</tp:taxon-name> might represent evidence to support the relict hypothesis.</p>
+            <p>The now widespread occurrence of <tp:taxon-name>Notidobiella</tp:taxon-name> in temperate southern Chile and tropical South America (Ecuador, southeast Brazil, Amazonian Brazil) suggests a more recent dispersal of the genus to northern tropical South America from Patagonia and <!--PageBreak-->its subsequent diversification. The data from insects analyzed by <xref ref-type="bibr" rid="B58">Sanmartín and Ronquist (2004, table 4)</xref> found a significantly higher frequency of dispersal from southern South America to northern South America than from the other direction. This may be true for other caddisflies with both Patagonian and Neotropical (<italic>sensu</italic> de Moor and Ivanov) distributions, including <tp:taxon-name>Antarctoecia</tp:taxon-name> (<xref ref-type="bibr" rid="B38">Huamantinco and Nessimian 2003</xref>), <tp:taxon-name>Atopsyche</tp:taxon-name> and <tp:taxon-name>Cailoma</tp:taxon-name> (<tp:taxon-name>Hydrobiosidae</tp:taxon-name>) (<xref ref-type="bibr" rid="B55">Ross and King 1952</xref>, <xref ref-type="bibr" rid="B17">Flint 1974</xref>, <xref ref-type="bibr" rid="B63">Schmid 1989</xref> [although <tp:taxon-name>Atopsyche</tp:taxon-name> is absent from Patagonia, its putative sister genus is Patagonian]), <tp:taxon-name>Contulma</tp:taxon-name> (<tp:taxon-name>Anomalopsychidae</tp:taxon-name>) (<xref ref-type="bibr" rid="B35">Holzenthal and Flint 1995</xref>), <tp:taxon-name>Smicridea</tp:taxon-name> (<tp:taxon-name>Smicridea</tp:taxon-name>) (<tp:taxon-name>Hydropsychidae</tp:taxon-name>) (<xref ref-type="bibr" rid="B20">Flint 1989</xref>), <tp:taxon-name>Tolhuaca</tp:taxon-name> (<tp:taxon-name>Glossosomatidae</tp:taxon-name>) (<xref ref-type="bibr" rid="B53">Robertson and Holzenthal 2005</xref>), and <tp:taxon-name>Triplectides</tp:taxon-name> (<tp:taxon-name>Leptoceridae</tp:taxon-name>).</p>
+            <p>As confirmed by <xref ref-type="bibr" rid="B11">Crisci et al. (1991)</xref>, <xref ref-type="bibr" rid="B58">Sanmartín and Ronquist (2004)</xref>, and <xref ref-type="bibr" rid="B1">Amorin et al. (2009)</xref> the historical biogeography of southern South America is complex. The distribution of the austral South American caddisflies support this conclusion, with a fauna pertaining strongly to a transantarctic pattern, but with perhaps older Gondwana elements, as exhibited by <tp:taxon-name>Sericostomatidae</tp:taxon-name>. The current weight of evidence described above, however, supports a more recent dispersal of this southern fauna to northern South America.</p>
+            <p>Other than in a few studies, phylogenetic hypotheses are lacking for most of the taxa reviewed above. Phylogenies of Southern Hemisphere caddisfly taxa inferred from molecular data are even fewer (e.g., <xref ref-type="bibr" rid="B43">Johanson and Keijsner 2008</xref>) and only one (<xref ref-type="bibr" rid="B44">Johanson et al. 2009</xref>) has used events-based models (e.g., <xref ref-type="bibr" rid="B57">Sanmartín at al. 2001</xref>, <xref ref-type="bibr" rid="B58">Sanmartín and Ronquist 2004</xref>) or divergence time estimates (but see <xref ref-type="bibr" rid="B1">Amorin et al. 2009</xref> for a critique of molecular dating) to address historical biogeography. Given the current ease with which molecular sequence data can be obtained and with the availability of newer analytical methods (e.g., <xref ref-type="bibr" rid="B54">Ronquist 1997</xref>, <xref ref-type="bibr" rid="B56">Sanderson 2002</xref>, <xref ref-type="bibr" rid="B70">Zaldivar-Riverón et al. 2008</xref>), there is a wealth of hypotheses that can be tested regarding the historical biogeography of the austral caddisfly fauna once phylogenetic information is available (<xref ref-type="bibr" rid="B59">Santos and Amorin 2007</xref>).</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>We are grateful to Dr. Oliver S. Flint, Jr., Smithsonian Institution, for generously providing most of the material described in this paper. Thanks to Desi Robertson, Karl Kjer, Robin Thomson, Steffen Pauls, Christy Geraci, Ivailo Stoyanov, and 2 anonymous reviewers for discussion and helpful comments on the manuscript. This material is based on work supported by the National Science Foundation grant no. DEB 9971885 and the Minnesota Agricultural Experiment Station project no. AES0017017.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Amorin</surname><given-names>DS</given-names></name><name name-style="western"><surname>Santos</surname><given-names>CMD</given-names></name><name name-style="western"><surname>de Oliveira</surname><given-names>SS</given-names></name></person-group> (<year>2009</year>)<article-title> Allochronic taxa as an alternative model to explain circumantarctic disjunctions.</article-title> <source>Systematic Entomology</source> <volume>34</volume>:<fpage>2</fpage>-<lpage>9</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blahnik</surname><given-names>RJ</given-names></name></person-group> (<year>2005</year>)<article-title> <italic>Alterosa</italic>, a new caddisfly genus from Brazil (Trichoptera: Philopotamidae).</article-title> <source>Zootaxa</source> <volume>991</volume>:<fpage>3</fpage>-<lpage>60</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blahnik</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>2004</year>)<article-title> Collection and curation of Trichoptera, with an emphasis on pinned material.</article-title> <source>Nectopsyche, Neotropical Trichoptera Newsletter</source> <volume>1</volume>:<fpage>8</fpage>-<lpage>20</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blahnik</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Prather</surname><given-names>AL</given-names></name></person-group> (<year>2007</year>) <article-title>The lactic acid method for clearing Trichoptera genitalia</article-title>. In: <person-group><name name-style="western"><surname>Bueno-Soria</surname><given-names>J</given-names></name><name name-style="western"><surname>Barba-Alvarez</surname><given-names>R</given-names></name><name name-style="western"><surname>Armitage</surname><given-names>BJ</given-names></name></person-group> (<role>Eds</role>) <source>Proceedings of the 12th International Symposium on Trichoptera</source>. <publisher-name>The Caddis Press</publisher-name>, <publisher-loc>Columbus, Ohio</publisher-loc>, <fpage>9</fpage>–<lpage>14</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Botosaneanu</surname><given-names>L</given-names></name><name name-style="western"><surname>Wichard</surname><given-names>W</given-names></name></person-group> (<year>1983</year>)<article-title> Upper-cretaceous Siberian and Canadian amber caddisflies (Insecta: Trichoptera).</article-title> <source>Bijdragen tot de Dierkunde</source> <volume>53</volume>:<fpage>187</fpage>-<lpage>217</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brundin</surname><given-names>L</given-names></name></person-group> (<year>1966</year>) <source>Transantarctic relationships and their significance, as evidenced by chironomid midges. With a monograph of the subfamilies Podonominae and Aphroteniinae and the austral Heptagyiae</source>. <publisher-name>Almqvist &amp; Wiksell</publisher-name>, <publisher-loc>Stockholm</publisher-loc>, <lpage>472</lpage>pp.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Calor</surname><given-names>AR</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>2008</year>)<article-title> Phylogeny of Grumichellini Morse, 1981 (Trichoptera: Leptoceridae) with the description of a new genus from southeastern Peru.</article-title> <source>Aquatic Insects</source> <volume>30</volume>:<fpage>245</fpage>-<lpage>259</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Calor</surname><given-names>AR</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Amorin</surname><given-names>DS</given-names></name></person-group> (<year>2006</year>)<article-title> Phylogenetic analysis of <italic>Notalina</italic> (<italic>Neonotalina</italic>) Holzenthal (Trichoptera: Leptoceridae), with the description of two new species from southeastern Brazil.</article-title> <source>Zootaxa</source> <volume>1131</volume>:<fpage>33</fpage>-<lpage>48</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cartwright</surname><given-names>DI</given-names></name></person-group> (<year>2009</year>)<article-title> <italic>Austrotinodes</italic> Schmid, a South and Central American caddisfly genus, newly recorded in Australia, with the description of new species (Trichoptera: Ecnomidae).</article-title> <source>Zootaxa</source> <volume>2142</volume>:<fpage>1</fpage>-<lpage>19</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cranston</surname><given-names>PS</given-names></name><name name-style="western"><surname>Edward</surname><given-names>DD</given-names></name></person-group> (<year>1999</year>)<article-title> <italic>Botrycladius</italic> gen. n.: a new transantarctic genus of orthocladine midge (Diptera: Chironomidae).</article-title> <source>Systematic Entomology</source> <volume>24</volume>:<fpage>305</fpage>-<lpage>333</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Crisci</surname><given-names>JV</given-names></name><name name-style="western"><surname>Cigliano</surname><given-names>MM</given-names></name><name name-style="western"><surname>Morrone</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Riog-Juñent</surname><given-names>S</given-names></name></person-group> (<year>1991</year>)<article-title> Historical biogeography of southern South America.</article-title> <source>Systematic Zoology</source> <volume>40</volume>:<fpage>152</fpage>-<lpage>171</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Daugeron</surname><given-names>C</given-names></name><name name-style="western"><surname>D’Haese</surname><given-names>CA</given-names></name><name name-style="western"><surname>Plant</surname><given-names>AR</given-names></name></person-group> (<year>2009</year>)<article-title> Phylogenetic systematics of the gondwanan <italic>Empis macrorrhyncha</italic> group (Diptera, Empididae, Empidinae).</article-title> <source>Systematic Entomology</source> <volume>34</volume>:<fpage>635</fpage>-<lpage>648</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>de Moor</surname><given-names>FC</given-names></name></person-group> (<year>1997</year>)<article-title> An unusual caddisfly larva from South Africa, a possible member of the Triplectidinae (Trichoptera: Leptoceridae)</article-title>. In: <person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<role>Eds</role>) <source>Proceedings of the 8th International Symposium on Trichoptera</source>. <publisher-name>Ohio Biological Survey</publisher-name>, <publisher-loc>Columbus, Ohio</publisher-loc>, <fpage>323</fpage>–<lpage>330</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>de Moor</surname><given-names>FC</given-names></name><name name-style="western"><surname>Ivanov</surname><given-names>VD</given-names></name></person-group> (<year>2008</year>)<article-title> Global diversity of caddisflies (Trichoptera: Insecta) in freshwater.</article-title> <source>Hydrobiologia</source> <volume>595</volume>:<fpage>393</fpage>-<lpage>407</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1967</year>)<article-title> Trichoptera collected by Prof. J. Illies in the Chilean subregion.</article-title> <source>Beiträge zur Neotropischen Fauna</source> <volume>5</volume>:<fpage>45</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1973</year>)<article-title> Studies of Neotropical caddisflies, XVI: the genus <italic>Austrotinodes</italic> (Trichoptera: Psychomyiidae).</article-title> <source>Proceedings of the Biological Society of Washington</source> <volume>86</volume>:<fpage>127</fpage>-<lpage>142</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1974</year>)<article-title> Studies of Neotropical caddisflies, XIX: the genus <italic>Cailloma</italic> (Trichoptera: Rhyacophilidae).</article-title> <source>Proceedings of the Biological Society of Washington</source> <volume>87</volume>:<fpage>473</fpage>-<lpage>484</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1976</year>) <article-title>A preliminary report of studies on Neotropical Trichoptera</article-title>. In: <person-group><name name-style="western"><surname>Malicky</surname><given-names>H</given-names></name></person-group> (<role>Ed</role>) <source>Proceedings of the 1st International Symposium on Trichoptera</source>. <publisher-name>Dr. W. Junk</publisher-name>, <publisher-loc>The Hague</publisher-loc>, <fpage>47</fpage>–<lpage>48</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1983</year>)<article-title> Studies of Neotropical caddisflies, XXXIII: new species from austral South America (Trichoptera).</article-title> <source>Smithsonian Contributions to Zoology</source> <volume>377</volume>:<fpage>1</fpage>-<lpage>100</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1989</year>)<article-title> Studies of Neotropical caddisflies, XXXIX: the genus <italic>Smicridea</italic> in the Chilean subregion (Trichoptera: Hydropsychidae).</article-title> <source>Smithsonian Contributions to Zoology</source> <volume>472</volume>:<fpage>1</fpage>-<lpage>45</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1992</year>)<article-title> Studies of Neotropical caddisflies, XLIX: the taxonomy and relationships of the genus <italic>Eosericostoma</italic>, with descriptions of the immature stages (Trichoptera: Helicophidae).</article-title> <source>Proceedings of the Biological Society of Washington</source> <volume>105</volume>:<fpage>494</fpage>-<lpage>511</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>2002</year>)<article-title> Studies on Neotropical caddisflies, LX: Three new species of the Chilean genus <italic>Microthremma</italic>, with a review of the genus (Trichoptera: Helicophidae).</article-title> <source>Entomological News</source> <volume>113</volume>:<fpage>225</fpage>-<lpage>232</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Harris</surname><given-names>SC</given-names></name></person-group> (<year>1999a</year>)<article-title> Nomenclatural and systematic changes in the Neotropical caddisflies.</article-title> <source>Insecta Mundi</source> <volume>13</volume>:<fpage>73</fpage>-<lpage>84</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Harris</surname><given-names>SC</given-names></name></person-group> (<year>1999b</year>) <source>Catalog of the Neotropical Caddisflies (Trichoptera)</source>. Special Publication, <publisher-name>Ohio Biological Survey</publisher-name>, <publisher-loc>Columbus, Ohio</publisher-loc>, <fpage>1</fpage>–<lpage>239</lpage> pp.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Geraci</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Kjer</surname><given-names>KM</given-names></name><name name-style="western"><surname>Morse</surname><given-names>JC</given-names></name><name name-style="western"><surname>Blahnik</surname><given-names>RJ</given-names></name></person-group> (<year>2005</year>) <article-title>Phylogenetic relationships of Hydropsychidae subfamilies based on morphology and DNA sequence data</article-title>. In: <person-group><name name-style="western"><surname>Tanida</surname><given-names>K</given-names></name><name name-style="western"><surname>Rossiter</surname><given-names>A</given-names></name></person-group> (<role>Eds</role>) <source>Proceedings of the 11th International Symposium on Trichoptera</source>. <publisher-name>Tokai University Press</publisher-name>, <publisher-loc>Kanagawa</publisher-loc>, <fpage>131</fpage>–<lpage>136</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Harris</surname><given-names>SC</given-names></name><name name-style="western"><surname>Armitage</surname><given-names>BJ</given-names></name></person-group> (<year>1997</year>) <article-title>New member of the Chilean genus <italic>Nothotrichia</italic> from North America (Trichoptera: Hydroptilidae)</article-title>. In: <person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<role>Eds</role>) <source>Proceedings of the 8th International Symposium on Trichoptera</source>. <publisher-name>Ohio Biological Survey</publisher-name>, <publisher-loc>Columbus, Ohio</publisher-loc>, <fpage>123</fpage>–<lpage>128</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Harris</surname><given-names>SC</given-names></name><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1993</year>) <article-title>Studies of Neotropical caddisflies, XLVIII; the larva of <italic>Celaenotrichia edwardsi</italic> Mosely, with an assessment of the genus (Trichoptera: Hydroptilidae)</article-title>. In: <person-group><name name-style="western"><surname>Otto</surname><given-names>C</given-names></name></person-group> (<role>Ed</role>) <source>Proceedings of the 7th International Symposium on Trichoptera</source>. <publisher-name>Backhuys Publishers</publisher-name>, <publisher-loc>Leiden</publisher-loc>, <fpage>101</fpage>–<lpage>106</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Henderson</surname><given-names>IM</given-names></name><name name-style="western"><surname>Ward</surname><given-names>JB</given-names></name></person-group> (<year>2006</year>)<article-title> Four new species of the caddis genus <italic>Philorheithrus</italic> (Trichoptera: Philorheithridae) from New Zealand.</article-title> <source>Records of the Canterbury Museum</source> <volume>20</volume>:<fpage>21</fpage>-<lpage>33</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Henderson</surname><given-names>IM</given-names></name><name name-style="western"><surname>Ward</surname><given-names>JB</given-names></name></person-group> (<year>2007</year>)<article-title> Three new species in the endemic New Zealand genus <italic>Alloecentrella</italic> (Trichoptera), and a re-evaluation of its family placement.</article-title> <source>Aquatic Insects</source> <volume>29</volume>:<fpage>79</fpage>-<lpage>96</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>1986a</year>)<article-title> The Neotropical species of <italic>Notalina</italic>, a southern group of long-horned caddisflies (Trichoptera: Leptoceridae).</article-title> <source>Systematic Entomology</source> <volume>11</volume>:<fpage>61</fpage>-<lpage>73</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>1986b</year>)<article-title> Studies in Neotropical Leptoceridae (Trichoptera), VI: immature stages of <italic>Hudsonema flaminii</italic> (Navas) and the evolution and historical biogeography of Hudsonemini (Triplectininae).</article-title> <source>Proceedings of the Entomological Society of Washington</source> <volume>88</volume>:<fpage>268</fpage>-<lpage>279</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>1986c</year>)<article-title> Studies in Neotropical Leptoceridae (Trichoptera), IV: a revision of <italic>Brachysetodes</italic> Schmid.</article-title> <source>Transactions of the American Entomological Society</source> <volume>111</volume>:<fpage>407</fpage>-<lpage>440</lpage>.<!--PageBreak--></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Blahnik</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Kjer</surname><given-names>KM</given-names></name><name name-style="western"><surname>Prather</surname><given-names>AP</given-names></name></person-group> (<year>2007a</year>) <article-title>An update on the phylogeny of caddisflies (Trichoptera)</article-title>. In: <person-group><name name-style="western"><surname>Bueno-Soria</surname><given-names>J</given-names></name><name name-style="western"><surname>Barba-Alvarez</surname><given-names>R</given-names></name><name name-style="western"><surname>Armitage</surname><given-names>B</given-names></name></person-group> (<role>Eds</role>) <source>Proceedings of the 12th International Symposium on Trichoptera</source>. <publisher-name>The Caddis Press</publisher-name>, <publisher-loc>Columbus, Ohio</publisher-loc>, <fpage>143</fpage>–<lpage>153</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Blahnik</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Prather</surname><given-names>AL</given-names></name><name name-style="western"><surname>Kjer</surname><given-names>KM</given-names></name></person-group> (<year>2007b</year>)<article-title> Order Trichoptera Kirby, 1813 (Insecta), caddisflies.</article-title> <source>Zootaxa</source> <volume>1668</volume>:<fpage>639</fpage>-<lpage>698</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Flint</surname><given-names>OS Jr.</given-names></name></person-group> (<year>1995</year>)<article-title> Studies of Neotropical caddisflies, LI: systematics of the Neotropical caddisfly genus <italic>Contulma</italic> (Trichoptera: Anomalopsychidae).</article-title> <source>Smithsonian Contributions to Zoology</source> <volume>575</volume>:<fpage>1</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Pes</surname><given-names>AMO</given-names></name></person-group> (<year>2004</year>)<article-title> A new genus of long-horned caddisfly from the Amazon basin (Trichoptera: Leptoceridae: Grumichellini).</article-title> <source>Zootaxa</source> <volume>621</volume>:<fpage>1</fpage>-<lpage>16</lpage>.</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name><name name-style="western"><surname>Robertson</surname><given-names>DR</given-names></name></person-group> (<year>2006</year>)<article-title> Four new species of <italic>Contulma</italic> from South America (Trichoptera: Anomalopsychidae).</article-title> <source>Zootaxa</source> <volume>1355</volume>:<fpage>49</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huamantinco</surname><given-names>AA</given-names></name><name name-style="western"><surname>Nessimian</surname><given-names>JL</given-names></name></person-group> (<year>2003</year>)<article-title> A new species of <italic>Antarctoecia</italic> Ulmer, 1907 (Trichoptera: Limnephilidae) from southeastern Brazil.</article-title> <source>Aquatic Insects</source> <volume>25</volume>:<fpage>225</fpage>-<lpage>231</lpage>.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ivanov</surname><given-names>VD</given-names></name></person-group> (<year>1990</year>)<article-title> Structure and function of setose warts of caddisflies [in Russian].</article-title> <source>Latvijas Entomologs</source> <volume>33</volume>:<fpage>96</fpage>-<lpage>110</lpage>.</mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name></person-group> (<year>2003a</year>)<article-title> Phylogenetic analysis of the genus <italic>Helicopha</italic> Mosely (Trichoptera: Helicophidae), with description of five new species from New Caledonia.</article-title> <source>Insect Systematics &amp; Evolution</source> <volume>34</volume>:<fpage>131</fpage>-<lpage>151</lpage>.</mixed-citation></ref>
+          	<ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name></person-group> (<year>2003b</year>)<article-title> Revision of the New Caledonian genus <italic>Mecynostomella</italic> (Trichoptera, Kokiriidae).</article-title> <source>Zootaxa</source> <volume>270</volume>:<fpage>1</fpage>-<lpage>24</lpage>.</mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name><name name-style="western"><surname>Espeland</surname><given-names>M</given-names></name></person-group> (<year>2009</year>)<article-title> Phylogeny of the Ecnomidae (Insecta: Trichoptera).</article-title> <source>Cladistics</source> <volume>25</volume>:<fpage>1</fpage>-<lpage>13</lpage>.</mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name><name name-style="western"><surname>Keijsner</surname><given-names>M</given-names></name></person-group> (<year>2008</year>)<article-title> Phylogeny of the Helicophidae (Trichoptera), with emphasis on the New Caledonian species of <italic>Helicopha</italic>.</article-title> <source>Systematic Entomology</source> <volume>33</volume>:<fpage>451</fpage>-<lpage>483</lpage>.</mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name><name name-style="western"><surname>Kjer</surname><given-names>K</given-names></name><name name-style="western"><surname>Malm</surname><given-names>T</given-names></name></person-group> (<year>2009</year>)<article-title> Testing the monophyly of the New Zealand and Australian endemic family Conoesucidae Ross based on combined molecular and morphological data (Insecta: Trichoptera: Sericostomatoidea).</article-title> <source>Zoologica Scripta</source> <volume>38</volume>:<fpage>563</fpage>-<lpage>573</lpage>.</mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name><name name-style="western"><surname>Ward</surname><given-names>JB</given-names></name></person-group> (<year>2002</year>)<article-title> Re-description of the genus <italic>Zelolessica</italic> and of its two species (Insecta, Trichoptera, Helicophidae).</article-title> <source>Records of the Canterbury Museum</source> <volume>16</volume>:<fpage>1</fpage>-<lpage>17</lpage>.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Li</surname><given-names>YJ</given-names></name><name name-style="western"><surname>Morse</surname><given-names>JC</given-names></name></person-group> (<year>1997</year>)<article-title> Species of the genus <italic>Ecnomus</italic> (Trichoptera: Ecnomidae) from the People’s Republic of China.</article-title> <source>Transactions of the American Entomological Society</source> <volume>123</volume>:<fpage>85</fpage>-<lpage>134</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Malm</surname><given-names>T</given-names></name><name name-style="western"><surname>Johanson</surname><given-names>KA</given-names></name></person-group> (<year>2008</year>)<article-title> Revision of the New Caledonian endemic genus <italic>Gracilipsodes</italic> (Trichoptera: Leptoceridae: Grumichellini).</article-title> <source>Zoological Journal of the Linnean Society</source> <volume>153</volume>:<fpage>425</fpage>-<lpage>452</lpage>.</mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Morse</surname><given-names>JC</given-names></name></person-group> (<role>Ed</role>)(<year>2010</year>) <source>Trichoptera World Checklist</source>. <ext-link ext-link-type="uri" xlink:href="http://entweb.clemson.edu/database/trichopt/index.htm" xlink:type="simple">http://entweb.clemson.edu/database/trichopt/index.htm</ext-link> [accessed 15 March 2010]</mixed-citation></ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Morse</surname><given-names>JC</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>1987</year>) <article-title>Higher classification of Triplectidinae (Trichoptera: Leptoceridae)</article-title>. In: <person-group><name name-style="western"><surname>Bournaud</surname><given-names>M</given-names></name><name name-style="western"><surname>Tachet</surname><given-names>H</given-names></name></person-group> (<role>Eds</role>) <source>Proceedings of the 5th International Symposium on Trichoptera</source>. <publisher-name>Dr. W. Junk</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>, <fpage>139</fpage>–<lpage>144</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B50"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Neboiss</surname><given-names>A</given-names></name></person-group> (<year>1984</year>)<article-title> A review of taxonomic position of Australian and New Guinean species previously ascribed to <italic>Macronema</italic> (Trichoptera: Hydropsychidae).</article-title> <source>Royal Society of Victoria Proceedings</source> <volume>96</volume>:<fpage>127</fpage>-<lpage>139</lpage>.</mixed-citation></ref>
+            <ref id="B51"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Neboiss</surname><given-names>A</given-names></name></person-group> (<year>1986</year>) <article-title>Atlas of Trichoptera of the SW Pacific-Australian Region</article-title>, <source>Series Entomologica</source> <volume>37</volume>. <publisher-name>Dr W. Junk</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>, <lpage>286</lpage> pp.</mixed-citation></ref>
+            <ref id="B52"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Neboiss</surname><given-names>A</given-names></name></person-group> (<year>2002</year>)<article-title> A family problem with placement of <italic>Heloccabus buccinatus</italic> gen. nov. &amp; sp. nov., an Australian caddisfly (Insecta: Trichoptera).</article-title> <source>Nova Supplementa Entomologica (Proceedings of the 10th International Symposium on Trichoptera)</source> <volume>15</volume>:<fpage>195</fpage>-<lpage>204</lpage>.</mixed-citation></ref>
+            <ref id="B53"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Robertson</surname><given-names>DR</given-names></name><name name-style="western"><surname>Holzenthal</surname><given-names>RW</given-names></name></person-group> (<year>2005</year>)<article-title> The Neotropical caddisfly genus <italic>Tolhuaca</italic> (Trichoptera: Glossosomatidae).</article-title> <source>Zootaxa</source> <volume>1063</volume>:<fpage>53</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <ref id="B54"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name></person-group> (<year>1997</year>)<article-title> Dispersal-vicariance analysis: a new approach to the quantification of historical biogeography.</article-title> <source>Systematic Biology</source> <volume>46</volume>:<fpage>195</fpage>-<lpage>203</lpage>.</mixed-citation></ref>
+            <ref id="B55"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ross</surname><given-names>HH</given-names></name><name name-style="western"><surname>King</surname><given-names>EW</given-names></name></person-group> (<year>1952</year>)<article-title> Biogeographic and taxonomic studies in <italic>Atopsyche</italic> (Trichoptera, Rhyacophilidae).</article-title> <source>Annals of the Entomological Society of America</source> <volume>45</volume>:<fpage>177</fpage>-<lpage>204</lpage>.</mixed-citation></ref>
+            <ref id="B56"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sanderson</surname><given-names>MJ</given-names></name></person-group> (<year>2002</year>)<article-title> Estimating absolute rates of molecular evolution and divergence times: a penalized likelihood approach.</article-title> <source>Molecular Biology and Evolution</source> <volume>19</volume>:<fpage>101</fpage>-<lpage>109</lpage>.</mixed-citation></ref>
+            <ref id="B57"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sanmartín</surname><given-names>I</given-names></name><name name-style="western"><surname>Enghoff</surname><given-names>H</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name></person-group> (<year>2001</year>)<article-title> Patterns of animal dispersal, vicariance and diversification in the Holarctic.</article-title> <source>Biological Journal of the Linnean Society</source> <volume>73</volume>:<fpage>345</fpage>-<lpage>390</lpage>.</mixed-citation></ref>
+            <ref id="B58"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sanmartín</surname><given-names>I</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name></person-group> (<year>2004</year>)<article-title> Southern Hemisphere biogeography inferred by event-based models: plant versus animal patterns.</article-title> <source>Systematic Biology</source> <volume>53</volume>:<fpage>216</fpage>-<lpage>243</lpage>.</mixed-citation></ref>
+            <ref id="B59"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Santos</surname><given-names>CMD</given-names></name><name name-style="western"><surname>Amorin</surname><given-names>DS</given-names></name></person-group> (<year>2007</year>)<article-title> Why biogeographical hypotheses need a well supported phylogenetic framework: a conceptual evaluation.</article-title> <source>Papéis Avulsos de Zoologia</source> <volume>47</volume>:<fpage>63</fpage>-<lpage>73</lpage>.</mixed-citation></ref>
+            <ref id="B60"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schefter</surname><given-names>PW</given-names></name></person-group> (<year>1996</year>)<article-title> Phylogenetic relationships among subfamily groups in the Hydropsychidae (Trichoptera) with diagnoses of the Smicrideinae, new status, and the Hydropsychinae.</article-title> <source>Journal of the North American Benthological Society</source> <volume>15</volume>:<fpage>615</fpage>-<lpage>633</lpage>.</mixed-citation></ref>
+            <ref id="B61"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmid</surname><given-names>F</given-names></name></person-group> (<year>1955</year>) <article-title>Contribution à la connaissance des Trichoptères néotropicaux</article-title>. <source>Mémoires de la Société Vaudoise des Sciences Naturelles</source> <volume>11</volume>: <fpage>117</fpage>–<lpage>160</lpage>, plates 111–117.</mixed-citation></ref>
+            <ref id="B62"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmid</surname><given-names>F</given-names></name></person-group> (<year>1957</year>)<article-title> Contribution à l’étude des Trichoptères néotropicaux II.</article-title> <source>Beiträge zur Entomologie</source> <volume>7</volume>:<fpage>379</fpage>-<lpage>398</lpage>.</mixed-citation></ref>
+            <ref id="B63"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmid</surname><given-names>F</given-names></name></person-group> (<year>1989</year>) <article-title>Les hydrobiosides (Trichoptera, Annulipalpia)</article-title>. <source>Bulletin de l’Institute Royal des Sciences Naturelles de Belgique, Entomologie</source> <volume>59</volume>, Supplement: <fpage>1</fpage>–<lpage>154</lpage>.</mixed-citation></ref>
+            <ref id="B64"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sukatsheva</surname><given-names>ID</given-names></name><name name-style="western"><surname>Jarzembowski</surname><given-names>EA</given-names></name></person-group> (<year>2001</year>)<article-title> Fossil caddisflies (Insecta: Trichoptera) from the Early Cretaceous of southern England II.</article-title> <source>Cretaceous Research</source> <volume>22</volume>:<fpage>685</fpage>-<lpage>694</lpage>.</mixed-citation></ref>
+            <ref id="B65"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ulmer</surname><given-names>G</given-names></name></person-group> (<year>1912</year>) <article-title>Die Trichopteren des Baltischen Bernsteins</article-title>. <source>Schriften der Physik.-ökon</source>. <publisher-loc>Gesell. zu Köningsberg</publisher-loc>, <publisher-loc>Leipzig</publisher-loc>, <fpage>1</fpage>–<lpage>380</lpage> pp.</mixed-citation></ref>
+            <ref id="B66"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wallace</surname><given-names>AR</given-names></name></person-group> (<year>1876</year>) <source>The geographical distribution of animals. With a study of the relations of living and extinct faunas as elucidating the past changes of the earth’s surface</source>. Volume <volume>1</volume>. <publisher-name>Harper and Brothers Publishers</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>503</lpage> pp.</mixed-citation></ref>
+            <ref id="B67"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ward</surname><given-names>JB</given-names></name><name name-style="western"><surname>Leschen</surname><given-names>RAB</given-names></name><name name-style="western"><surname>Smith</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Dean</surname><given-names>JC</given-names></name></person-group> (<year>2004</year>)<article-title> Phylogeny of the caddisfly (Trichoptera) family Hydrobiosidae using larval and adult morphology, with the description of a new genus and species from Fiordland, New Zealand.</article-title> <source>Records of the Canterbury Museum</source> <volume>18</volume>:<fpage>23</fpage>-<lpage>43</lpage>.<!--PageBreak--></mixed-citation></ref>
+            <ref id="B68"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weaver</surname><given-names>JS</given-names></name><name name-style="western"><surname>III, Gibon</surname><given-names>F-M</given-names></name><name name-style="western"><surname>Chvojka</surname><given-names>P</given-names></name></person-group> (<year>2008</year>)<article-title> A new genus of Philorheithridae (Trichoptera) from Madagascar.</article-title> <source>Zootaxa</source> <volume>1825</volume>:<fpage>18</fpage>-<lpage>28</lpage>.</mixed-citation></ref>
+            <ref id="B69"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wiggins</surname><given-names>GB</given-names></name></person-group> (<year>2002</year>)<article-title> Biogeography of amphipolar caddisflies in the subfamily Dicosmoecinae (Trichoptera, Limnephilidae).</article-title> <source>Mitteilungen aus dem Museum für Naturkunde in Berlin Deutsche Entomologische Zeitschrift</source> <volume>49</volume>:<fpage>227</fpage>-<lpage>259</lpage>.</mixed-citation></ref>
+            <ref id="B70"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zaldivar-Riverón</surname><given-names>A</given-names></name><name name-style="western"><surname>Belokobylskij</surname><given-names>SA</given-names></name><name name-style="western"><surname>León-Regagnon</surname><given-names>V</given-names></name><name name-style="western"><surname>Briceño-G</surname><given-names>R</given-names></name><name name-style="western"><surname>Quicke</surname><given-names>DLJ</given-names></name></person-group> (<year>2008</year>)<article-title> Molecular phylogeny and historical biogeography of the cosmopolitan parasitic wasp subfamily Doryctinae (Hymenoptera: Braconidae).</article-title> <source>Invertebrate Systematics</source> <volume>22</volume>:<fpage>345</fpage>-<lpage>363</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

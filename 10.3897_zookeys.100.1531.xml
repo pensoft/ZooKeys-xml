@@ -1,0 +1,1581 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+	      				<journal-title>ZooKeys</journal-title>
+    				</journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.100.1531</article-id>
+            <title-group>
+                <article-title>When to sample in an inaccessible landscape: a case study with carabids from the Allgäu (northern Alps) (Coleoptera, Carabidae)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Harry</surname>
+                        <given-names>Ingmar</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Drees</surname>
+                        <given-names>Claudia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Höfer</surname>
+                        <given-names>Hubert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Assmann</surname>
+                        <given-names>Thorsten</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>ABL, Nägeleseestraße 8, D-79102 Freiburg, Germany
+            </aff>
+            <aff id="A2">
+                <label>2</label>Tel Aviv University, George S. Wise Faculty of Life Sciences, Department of Zoology, The National Collections of Natural History, Tel Aviv 69978, Israel
+            </aff>
+            <aff id="A3">
+                <label>3</label>Natural History Museum Karlsruhe (SMNK), Erbprinzenstraße 13, D-76133 Karlsruhe, Germany
+            </aff>
+            <aff id="A4">
+                <label>4</label>Institute of Ecology and Environmental Chemistry, Leuphana University Lüneburg, D-21335 Lüneburg, Germany
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Ingmar Harry (<email xlink:type="simple">harry@abl-freiburg.de</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: H. Turin</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>5</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>100</issue>
+            <fpage>255</fpage>
+            <lpage>271</lpage>
+            <history>
+                <date date-type="received">
+                    <day>04</day>
+                    <month>12</month>
+                    <year>2009</year>
+                </date>
+                <date date-type="accepted">
+                    <day>22</day>
+                    <month>4</month>
+                    <year>2010</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Ingmar Harry, Claudia Drees, Hubert Höfer, Thorsten Assmann</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>While pitfall trapping is generally accepted as the standard method for sampling carabid beetles, this method has rarely been used in mountain ecosystems, mainly due to the high labour intensity it involves. As part of a research project in the German Alps, we investigated the phenologic appearance of adult carabid beetles in mountain ecosystems along with the consequences of possible reductions in sampling periods. Our results show that an early activity peak among carabids is predominant in mountain ecosystems. However, there are differences among species: the main group of species showed the highest activity directly after snow melt, a second group showed a delayed activity peak and a small third group had no clear peak at all. Based on this study, we recommend two fortnightly sampling periods as a minimum for a sampling programme: one immediately after snow melt, and a second sampling period after a pause of two weeks.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Carabidae</kwd>
+                <kwd>mountain ecosystems</kwd>
+                <kwd>phenology</kwd>
+                <kwd>sampling effort</kwd>
+                <kwd>pitfall traps</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <!--PageBreak-->
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Since harsh abiotic conditions along with high spatial heterogeneity dominate mountain ecosystems, in stark contrast to the surrounding landscapes, alpine sites are interesting for ecological and biogeographical research (<xref ref-type="bibr" rid="B31">Lomolino 2001</xref>). This is especially true for questions related to environmental changes (e.g. climate change or change of land use) with mountains serving as suitable model ecosystems (<xref ref-type="bibr" rid="B17">Haslett 1997</xref>).</p>
+            <p><tp:taxon-name>Carabidae</tp:taxon-name> is a group often used as indicator and/or model taxon (<xref ref-type="bibr" rid="B10">Dufrene and Legendre 1997</xref>; <xref ref-type="bibr" rid="B40">Rainio and Niemela 2003</xref>; <xref ref-type="bibr" rid="B46">Szyszko et al. 2000</xref>). They have also been used to help understand fundamental ecological processes in mountain landscapes (e.g. <xref ref-type="bibr" rid="B13">Franz 1970</xref>; <xref ref-type="bibr" rid="B21">Holdhaus 1954</xref>).</p>
+            <p>Nevertheless, very few investigations have been carried out using pitfall traps in high elevation mountain areas (cf. <xref ref-type="bibr" rid="B1">Brandmayr et al. 2003a</xref>; <xref ref-type="bibr" rid="B15">Gesellschaft für Angewandte Carabidologie 2009</xref>), although this method is otherwise very widely used. The most cited reason given for the limited use of this method is that of labour intensity due to the difficulty in accessing these often remote study areas. To reduce the time invested, depending on the research issue, it might be possible to shorten the sampling period. A likely side effect will be a lower number of specimens captured, leading most probably to a reduction in the number of recorded species. An understanding of the relationship between reduced sampling effort and number of recorded species is needed as a basis for decisions regarding timing and frequency of sampling, especially in the context of long-term monitoring.</p>
+            <p>Annual rhythms of activity and reproduction have been a major issue in carabidology, dating back to Larsson’s pioneering work in this field (<xref ref-type="bibr" rid="B27">Larsson 1939</xref>). His classification of carabids’ annual rhythms was elaborated upon and modified by other carabidologists (<xref ref-type="bibr" rid="B29">Lindroth 1949</xref>; <xref ref-type="bibr" rid="B47">Thiele 1977</xref>), and the importance of reproductive behaviour as a life history trait in carabids was emphasized by <xref ref-type="bibr" rid="B8">den Boer and van Dijk (1998)</xref> and <xref ref-type="bibr" rid="B38">Paarmann (1979)</xref>. Many studies have dealt with the relationship between activity patterns and habitat preference, and these studies have lead to a better understanding of distribution trends and specific habitat adaptations of carabids (<xref ref-type="bibr" rid="B32">Lys and Nentwig 1991</xref>; <xref ref-type="bibr" rid="B42">Riddick and Mills 1995</xref>; <xref ref-type="bibr" rid="B7">den Boer and van Dijk 1996</xref>; <xref ref-type="bibr" rid="B34">Matalin 1997</xref>; <xref ref-type="bibr" rid="B11">Fadl and Purvis 1998</xref>; <xref ref-type="bibr" rid="B48">Traugott 1998</xref>; <xref ref-type="bibr" rid="B23">Hutchison 2007</xref>).</p>
+            <p>For mountain ecosystems, literature covering the reproductive seasonality of ground beetles is sparse. There are some works dealing with the phenology of carabids at high altitudes (<xref ref-type="bibr" rid="B26">Lang 1975</xref>; <xref ref-type="bibr" rid="B5">De Zordo 1979a</xref>, b; <xref ref-type="bibr" rid="B24">Janetschek et al. 1987</xref>; <xref ref-type="bibr" rid="B14">Gereben 1995</xref>; <xref ref-type="bibr" rid="B36">Ottesen 1996</xref>; <xref ref-type="bibr" rid="B45">Sota 1996</xref>;  <xref ref-type="bibr" rid="B22">Hosoda 1999</xref>; <xref ref-type="bibr" rid="B43">Sharova and Khobrakova 2005</xref>). Many of these report a shortened activity period, but none of them examine possibilities and consequences of reduced sampling time.</p>
+            <p>A long-term research project in the “Allgäuer Hochalpen” in the German Alps was conducted in an area protected under the European Union ”Habitats Directive”. The project aimed at assessing effects of intensive long-term grazing of sheep and associated grazing regime changes after extensive cattle pasturing in 2000. In this project, intensive sampling of epigeic arthropods was performed over 6 years using pitfall traps. In this<!--PageBreak--> paper we focus on the seasonal activity of carabid beetles, primarily in the subalpine, but also in the alpine research area. We (1) describe the phenology of carabid beetles in the mountain ecosystems; and (2) investigate the consequences of reducing the number of sampling periods in order to present an optimized sampling scheme for recording the maximum number of species in subalpine and alpine altitudes of the northern Alps.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec sec-type="Study area">
+                <title>Study area</title>
+                <p>The mountain pasture “Alpe Einödsberg“ (10,28°; 47,32°) is located in the German Alps (south-western Bavaria) and is part of the “Allgäuer Hochalpen”, an area protected under the European Union ”Habitats Directive”. The study area ranges in altitude from 1400 to 2000 meters above sea level (m a. s. l). and encompasses a total area of about 2 km². Most of the predominantly west-facing slopes consist of meadows dominated by <italic><tp:taxon-name>Nardus stricta</tp:taxon-name></italic>. Woodland belts dominated by Norway spruce (<italic><tp:taxon-name>Picea abies</tp:taxon-name></italic>) and krummholz made up of <italic><tp:taxon-name>Alnus viridis</tp:taxon-name></italic>, occur throughout the pasture zone (<xref ref-type="fig" rid="F1">Fig. 1</xref>). There is a 2 km ridge running north-south along the upper segment of the pasture. Additional information about the vegetation and geology is given in <xref ref-type="bibr" rid="B20">Höfer et al. (2008)</xref>, <xref ref-type="bibr" rid="B19">Höfer et al. (in press)</xref> and <xref ref-type="bibr" rid="B44">SMNK 2009</xref>.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>The study area “Alpe Einödsberg”. Position of some sampling sites is indicated.</p></caption>
+                    <graphic xlink:href="ZooKeys-100-255-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+                <p>In 2005, sampling was conducted at 25 sites. Sampling was focused on <italic><tp:taxon-name>Nardus stricta</tp:taxon-name></italic>-dominated meadows on slopes and on ridge sites dominated by <italic><tp:taxon-name>Deschampsia cespitosa</tp:taxon-name></italic>. In addition, several forest sites and open sites at lower altitudes were sampled (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Sample sites. Altitude is given in m a. s. l., incline and exposition in °.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><italic>site</italic></th>
+                                <th rowspan="1" colspan="1"><italic>type</italic></th>
+                                <th rowspan="1" colspan="1"><italic>altitude</italic></th>
+                                <th rowspan="1" colspan="1"><italic>inclination</italic></th>
+                                <th rowspan="1" colspan="1"><italic>exposition</italic></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V02</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1875</td>
+                                <td rowspan="1" colspan="1">12</td>
+                                <td rowspan="1" colspan="1">180</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V03</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1880</td>
+                                <td rowspan="1" colspan="1">21</td>
+                                <td rowspan="1" colspan="1">210</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V05</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1885</td>
+                                <td rowspan="1" colspan="1">29</td>
+                                <td rowspan="1" colspan="1">275</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V06</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1751</td>
+                                <td rowspan="1" colspan="1">34</td>
+                                <td rowspan="1" colspan="1">255</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V08</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1776</td>
+                                <td rowspan="1" colspan="1">35</td>
+                                <td rowspan="1" colspan="1">260</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V10</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1809</td>
+                                <td rowspan="1" colspan="1">38</td>
+                                <td rowspan="1" colspan="1">235</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V11</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1703</td>
+                                <td rowspan="1" colspan="1">27</td>
+                                <td rowspan="1" colspan="1">250</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V16</td>
+                                <td rowspan="1" colspan="1">surface erosion</td>
+                                <td rowspan="1" colspan="1">1790</td>
+                                <td rowspan="1" colspan="1">35</td>
+                                <td rowspan="1" colspan="1">230</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">V23</td>
+                                <td rowspan="1" colspan="1">sucession <italic><tp:taxon-name>Alnus viridis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">1765</td>
+                                <td rowspan="1" colspan="1">38</td>
+                                <td rowspan="1" colspan="1">300</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X01</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1884</td>
+                                <td rowspan="1" colspan="1">25</td>
+                                <td rowspan="1" colspan="1">250</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X03</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1896</td>
+                                <td rowspan="1" colspan="1">33</td>
+                                <td rowspan="1" colspan="1">270</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X04</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1980</td>
+                                <td rowspan="1" colspan="1">32</td>
+                                <td rowspan="1" colspan="1">280</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X05</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1993</td>
+                                <td rowspan="1" colspan="1">9</td>
+                                <td rowspan="1" colspan="1">250</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X07</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1781</td>
+                                <td rowspan="1" colspan="1">39</td>
+                                <td rowspan="1" colspan="1">265</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X08</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1786</td>
+                                <td rowspan="1" colspan="1">35</td>
+                                <td rowspan="1" colspan="1">260</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X09</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1798</td>
+                                <td rowspan="1" colspan="1">37</td>
+                                <td rowspan="1" colspan="1">255</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X10</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1911</td>
+                                <td rowspan="1" colspan="1">28</td>
+                                <td rowspan="1" colspan="1">275</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X11</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1751</td>
+                                <td rowspan="1" colspan="1">34</td>
+                                <td rowspan="1" colspan="1">300</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X13</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name></tp:taxon-name></italic> krummholz</td>
+                                <td rowspan="1" colspan="1">1750</td>
+                                <td rowspan="1" colspan="1">38</td>
+                                <td rowspan="1" colspan="1">320</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X14</td>
+                                <td rowspan="1" colspan="1">forest</td>
+                                <td rowspan="1" colspan="1">1565</td>
+                                <td rowspan="1" colspan="1">24</td>
+                                <td rowspan="1" colspan="1">270</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X15</td>
+                                <td rowspan="1" colspan="1">forest</td>
+                                <td rowspan="1" colspan="1">1550</td>
+                                <td rowspan="1" colspan="1">34</td>
+                                <td rowspan="1" colspan="1">285</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X17</td>
+                                <td rowspan="1" colspan="1">open, low altitude</td>
+                                <td rowspan="1" colspan="1">1434</td>
+                                <td rowspan="1" colspan="1">24</td>
+                                <td rowspan="1" colspan="1">245</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X18</td>
+                                <td rowspan="1" colspan="1">open, low altitude</td>
+                                <td rowspan="1" colspan="1">1476</td>
+                                <td rowspan="1" colspan="1">31</td>
+                                <td rowspan="1" colspan="1">270</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X20</td>
+                                <td rowspan="1" colspan="1">slope</td>
+                                <td rowspan="1" colspan="1">1720</td>
+                                <td rowspan="1" colspan="1">31</td>
+                                <td rowspan="1" colspan="1">300</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">X21</td>
+                                <td rowspan="1" colspan="1">ridge</td>
+                                <td rowspan="1" colspan="1">1990</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">280</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Sampling">
+                <title>Sampling</title>
+                <p>At each sampling site, 6 pitfall traps (with a diameter of 6 cm, filled with 10% acetic acid, 90% water) were installed at a distance of 6 m from each other. In order to protect the traps from heavy rain and from cattle-related damage, traps were placed in a metal tube with a transparent plastic cover (<xref ref-type="bibr" rid="B28">Lederbogen et al. 2004</xref>).</p>
+                <p>The pitfall traps were installed at the beginning of June, just after the first snowmelt at the ridge, and were removed at the end of September 2005 after a period of snow cover. Traps were emptied every fortnight. Altogether, there were 8 sampling periods, these were numbered chronologically (1: June 5th – 18th, 2: June 19th – July 2nd, 3: July 3rd – July 18th, 4: July 19th – August 1st, 5: August 2nd – August 15th, 6: August 16th – August 29th, 7: August 30th – September 12th, 8: September 13th – September 26th).</p>
+                <p>Carabids were identified to species level; the nomenclature of the species follows Müller-Motzfeld et al. (2004). Not all specimens of <italic><tp:taxon-name>Bembidion incognitum</tp:taxon-name></italic> and <italic><tp:taxon-name>Bembidion deletum</tp:taxon-name></italic> could be identified to species level and they were thus treated as ‘<italic>Bembidion incognitum/deletum</italic>’ in <xref ref-type="table" rid="T2">Table 2</xref>.</p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <label>Table 2.</label>
+                    <caption><p>List of carabids trapped over the whole sampling period and their traits ‘hindwing development’ (b: brachypter, d: dimorphic, m: macropteric) and body size class. For each species the sum of individuals caught (sum) as well as the percentage of individuals per sampling period 1 to 8 are given.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><italic>Species</italic></th>
+                                <th rowspan="1" colspan="1"><italic>wing type</italic></th>
+                                <th rowspan="1" colspan="1"><italic>body size</italic></th>
+                                <th rowspan="1" colspan="1"><italic>sum</italic></th>
+                                <th rowspan="1" colspan="1"><italic>1 5.6.-18.6.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>2 19.6.-3.7.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>3 4.7.-18.7.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>4 19.7.-1.8.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>5 2.8.-15.8.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>6 16.8.-29.8.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>7 30.8.-12.9.</italic></th>
+                                <th rowspan="1" colspan="1"><italic>8 13.9.-26.9.</italic></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus jurinei</tp:taxon-name></italic> (Panzer, 1803)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">4431</td>
+                                <td rowspan="1" colspan="1">30.1</td>
+                                <td rowspan="1" colspan="1">33.2</td>
+                                <td rowspan="1" colspan="1">16.1</td>
+                                <td rowspan="1" colspan="1">7.3</td>
+                                <td rowspan="1" colspan="1">2.7</td>
+                                <td rowspan="1" colspan="1">1.9</td>
+                                <td rowspan="1" colspan="1">4.7</td>
+                                <td rowspan="1" colspan="1">4.0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus burmeisteri</tp:taxon-name></italic> Heer, 1838</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">2094</td>
+                                <td rowspan="1" colspan="1">25.2</td>
+                                <td rowspan="1" colspan="1">13.4</td>
+                                <td rowspan="1" colspan="1">12.1</td>
+                                <td rowspan="1" colspan="1">9.5</td>
+                                <td rowspan="1" colspan="1">4.5</td>
+                                <td rowspan="1" colspan="1">5.5</td>
+                                <td rowspan="1" colspan="1">17.7</td>
+                                <td rowspan="1" colspan="1">12.0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus unctulatus</tp:taxon-name></italic> (Duftschmid, 1812)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">1386</td>
+                                <td rowspan="1" colspan="1">24.4</td>
+                                <td rowspan="1" colspan="1">21.2</td>
+                                <td rowspan="1" colspan="1">17.0</td>
+                                <td rowspan="1" colspan="1">11.8</td>
+                                <td rowspan="1" colspan="1">5.3</td>
+                                <td rowspan="1" colspan="1">8.0</td>
+                                <td rowspan="1" colspan="1">9.2</td>
+                                <td rowspan="1" colspan="1">3.2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus pumilio</tp:taxon-name></italic> (Dejean, 1828)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1044</td>
+                                <td rowspan="1" colspan="1">20.3</td>
+                                <td rowspan="1" colspan="1">15.8</td>
+                                <td rowspan="1" colspan="1">23.7</td>
+                                <td rowspan="1" colspan="1">23.6</td>
+                                <td rowspan="1" colspan="1">8.7</td>
+                                <td rowspan="1" colspan="1">2.6</td>
+                                <td rowspan="1" colspan="1">2.7</td>
+                                <td rowspan="1" colspan="1">2.7</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus multipunctatus</tp:taxon-name></italic> (Dejean, 1828)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">669</td>
+                                <td rowspan="1" colspan="1">37.1</td>
+                                <td rowspan="1" colspan="1">35.1</td>
+                                <td rowspan="1" colspan="1">4.5</td>
+                                <td rowspan="1" colspan="1">5.8</td>
+                                <td rowspan="1" colspan="1">4.3</td>
+                                <td rowspan="1" colspan="1">3.9</td>
+                                <td rowspan="1" colspan="1">6.1</td>
+                                <td rowspan="1" colspan="1">3.1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus melanarius</tp:taxon-name></italic> (Illiger, 1798)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">578</td>
+                                <td rowspan="1" colspan="1">13.5</td>
+                                <td rowspan="1" colspan="1">31.1</td>
+                                <td rowspan="1" colspan="1">30.3</td>
+                                <td rowspan="1" colspan="1">11.8</td>
+                                <td rowspan="1" colspan="1">5.4</td>
+                                <td rowspan="1" colspan="1">3.1</td>
+                                <td rowspan="1" colspan="1">4.0</td>
+                                <td rowspan="1" colspan="1">0.9</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Abax parallelepipedus</tp:taxon-name></italic> (Piller &amp; Mitterpacher, 1783)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">577</td>
+                                <td rowspan="1" colspan="1">9.5</td>
+                                <td rowspan="1" colspan="1">25.1</td>
+                                <td rowspan="1" colspan="1">16.8</td>
+                                <td rowspan="1" colspan="1">19.6</td>
+                                <td rowspan="1" colspan="1">7.3</td>
+                                <td rowspan="1" colspan="1">10.1</td>
+                                <td rowspan="1" colspan="1">10.6</td>
+                                <td rowspan="1" colspan="1">1.0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trechus obtusus</tp:taxon-name></italic> Erichson, 1837</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">509</td>
+                                <td rowspan="1" colspan="1">14.3</td>
+                                <td rowspan="1" colspan="1">14.5</td>
+                                <td rowspan="1" colspan="1">20.8</td>
+                                <td rowspan="1" colspan="1">27.3</td>
+                                <td rowspan="1" colspan="1">9.4</td>
+                                <td rowspan="1" colspan="1">5.7</td>
+                                <td rowspan="1" colspan="1">3.9</td>
+                                <td rowspan="1" colspan="1">3.9</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus auronitens</tp:taxon-name></italic> Fabricius, 1792</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">432</td>
+                                <td rowspan="1" colspan="1">19.9</td>
+                                <td rowspan="1" colspan="1">29.9</td>
+                                <td rowspan="1" colspan="1">24.5</td>
+                                <td rowspan="1" colspan="1">16.4</td>
+                                <td rowspan="1" colspan="1">4.4</td>
+                                <td rowspan="1" colspan="1">3.7</td>
+                                <td rowspan="1" colspan="1">1.2</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus violaceus</tp:taxon-name></italic> Linné, 1758</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">365</td>
+                                <td rowspan="1" colspan="1">5.5</td>
+                                <td rowspan="1" colspan="1">21.9</td>
+                                <td rowspan="1" colspan="1">27.4</td>
+                                <td rowspan="1" colspan="1">29.0</td>
+                                <td rowspan="1" colspan="1">6.8</td>
+                                <td rowspan="1" colspan="1">6.6</td>
+                                <td rowspan="1" colspan="1">2.5</td>
+                                <td rowspan="1" colspan="1">0.3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara erratica</tp:taxon-name></italic> (Duftschmid, 1812)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">282</td>
+                                <td rowspan="1" colspan="1">31.6</td>
+                                <td rowspan="1" colspan="1">52.8</td>
+                                <td rowspan="1" colspan="1">13.5</td>
+                                <td rowspan="1" colspan="1">1.4</td>
+                                <td rowspan="1" colspan="1">0.7</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leistus nitidus</tp:taxon-name></italic> (Duftschmid, 1812)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">167</td>
+                                <td rowspan="1" colspan="1">10.2</td>
+                                <td rowspan="1" colspan="1">26.3</td>
+                                <td rowspan="1" colspan="1">24.6</td>
+                                <td rowspan="1" colspan="1">16.8</td>
+                                <td rowspan="1" colspan="1">5.4</td>
+                                <td rowspan="1" colspan="1">6.6</td>
+                                <td rowspan="1" colspan="1">9.0</td>
+                                <td rowspan="1" colspan="1">1.2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oreonebria picea</tp:taxon-name></italic> (Dejean, 1826)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">159</td>
+                                <td rowspan="1" colspan="1">32.7</td>
+                                <td rowspan="1" colspan="1">30.8</td>
+                                <td rowspan="1" colspan="1">16.4</td>
+                                <td rowspan="1" colspan="1">15.1</td>
+                                <td rowspan="1" colspan="1">2.5</td>
+                                <td rowspan="1" colspan="1">1.9</td>
+                                <td rowspan="1" colspan="1">0.6</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus melanocephalus</tp:taxon-name></italic> (Linné, 1758)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">102</td>
+                                <td rowspan="1" colspan="1">5.9</td>
+                                <td rowspan="1" colspan="1">2.9</td>
+                                <td rowspan="1" colspan="1">28.4</td>
+                                <td rowspan="1" colspan="1">17.6</td>
+                                <td rowspan="1" colspan="1">26.5</td>
+                                <td rowspan="1" colspan="1">12.7</td>
+                                <td rowspan="1" colspan="1">4.9</td>
+                                <td rowspan="1" colspan="1">1.0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus strenuus</tp:taxon-name></italic> (Panzer, 1796)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">97</td>
+                                <td rowspan="1" colspan="1">52.6</td>
+                                <td rowspan="1" colspan="1">23.7</td>
+                                <td rowspan="1" colspan="1">11.3</td>
+                                <td rowspan="1" colspan="1">6.2</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2.1</td>
+                                <td rowspan="1" colspan="1">1.0</td>
+                                <td rowspan="1" colspan="1">3.1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus micropterus</tp:taxon-name></italic> (Duftschmid, 1812)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">76</td>
+                                <td rowspan="1" colspan="1">14.5</td>
+                                <td rowspan="1" colspan="1">23.7</td>
+                                <td rowspan="1" colspan="1">28.9</td>
+                                <td rowspan="1" colspan="1">14.5</td>
+                                <td rowspan="1" colspan="1">3.9</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">11.8</td>
+                                <td rowspan="1" colspan="1">2.6</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus latus</tp:taxon-name></italic> (Linné, 1758)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">74</td>
+                                <td rowspan="1" colspan="1">10.8</td>
+                                <td rowspan="1" colspan="1">20.3</td>
+                                <td rowspan="1" colspan="1">12.2</td>
+                                <td rowspan="1" colspan="1">21.6</td>
+                                <td rowspan="1" colspan="1">16.2</td>
+                                <td rowspan="1" colspan="1">12.2</td>
+                                <td rowspan="1" colspan="1">6.8</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Poecilus versicolor</tp:taxon-name></italic> (Sturm, 1824)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">73</td>
+                                <td rowspan="1" colspan="1">26.0</td>
+                                <td rowspan="1" colspan="1">52.1</td>
+                                <td rowspan="1" colspan="1">12.3</td>
+                                <td rowspan="1" colspan="1">4.1</td>
+                                <td rowspan="1" colspan="1">4.1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1.4</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus diligens</tp:taxon-name></italic> (Sturm, 1824)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">73</td>
+                                <td rowspan="1" colspan="1">57.5</td>
+                                <td rowspan="1" colspan="1">20.5</td>
+                                <td rowspan="1" colspan="1">11.0</td>
+                                <td rowspan="1" colspan="1">4.1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2.7</td>
+                                <td rowspan="1" colspan="1">4.1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dyschirius globosus</tp:taxon-name></italic> (Herbst, 1784)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">51</td>
+                                <td rowspan="1" colspan="1">54.9</td>
+                                <td rowspan="1" colspan="1">7.8</td>
+                                <td rowspan="1" colspan="1">15.7</td>
+                                <td rowspan="1" colspan="1">13.7</td>
+                                <td rowspan="1" colspan="1">3.9</td>
+                                <td rowspan="1" colspan="1">2.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2.0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cicindela campestris</tp:taxon-name></italic> Linné, 1758</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">44</td>
+                                <td rowspan="1" colspan="1">15.9</td>
+                                <td rowspan="1" colspan="1">22.7</td>
+                                <td rowspan="1" colspan="1">27.3</td>
+                                <td rowspan="1" colspan="1">13.6</td>
+                                <td rowspan="1" colspan="1">11.4</td>
+                                <td rowspan="1" colspan="1">2.3</td>
+                                <td rowspan="1" colspan="1">4.5</td>
+                                <td rowspan="1" colspan="1">2.3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus sylvestris</tp:taxon-name></italic> Panzer, 1796</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">36</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">58.3</td>
+                                <td rowspan="1" colspan="1">16.7</td>
+                                <td rowspan="1" colspan="1">2.8</td>
+                                <td rowspan="1" colspan="1">8.3</td>
+                                <td rowspan="1" colspan="1">2.8</td>
+                                <td rowspan="1" colspan="1">8.3</td>
+                                <td rowspan="1" colspan="1">2.8</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara aulica</tp:taxon-name></italic> (Panzer, 1797)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">32</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">6.3</td>
+                                <td rowspan="1" colspan="1">50.0</td>
+                                <td rowspan="1" colspan="1">43.8</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion bipunctatum nivale</tp:taxon-name></italic> Heer, 1837</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">32</td>
+                                <td rowspan="1" colspan="1">84.4</td>
+                                <td rowspan="1" colspan="1">3.1</td>
+                                <td rowspan="1" colspan="1">9.4</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">3.1</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichotichnus laevicollis</tp:taxon-name></italic> (Duftschmid, 1812)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">30</td>
+                                <td rowspan="1" colspan="1">26.7</td>
+                                <td rowspan="1" colspan="1">23.3</td>
+                                <td rowspan="1" colspan="1">13.3</td>
+                                <td rowspan="1" colspan="1">23.3</td>
+                                <td rowspan="1" colspan="1">3.3</td>
+                                <td rowspan="1" colspan="1">6.7</td>
+                                <td rowspan="1" colspan="1">3.3</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara lunicollis</tp:taxon-name></italic> Schiödte, 1837</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">24</td>
+                                <td rowspan="1" colspan="1">29.2</td>
+                                <td rowspan="1" colspan="1">62.5</td>
+                                <td rowspan="1" colspan="1">4.2</td>
+                                <td rowspan="1" colspan="1">4.2</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Notiophilus biguttatus</tp:taxon-name></italic> (Fabricius, 1779)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">23</td>
+                                <td rowspan="1" colspan="1">8.7</td>
+                                <td rowspan="1" colspan="1">17.4</td>
+                                <td rowspan="1" colspan="1">17.4</td>
+                                <td rowspan="1" colspan="1">30.4</td>
+                                <td rowspan="1" colspan="1">4.3</td>
+                                <td rowspan="1" colspan="1">4.3</td>
+                                <td rowspan="1" colspan="1">13.0</td>
+                                <td rowspan="1" colspan="1">4.3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion incognitum/deletum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">19</td>
+                                <td rowspan="1" colspan="1">52.6</td>
+                                <td rowspan="1" colspan="1">21.1</td>
+                                <td rowspan="1" colspan="1">15.8</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">10.5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cychrus attenuatus</tp:taxon-name></italic> (Fabricius, 1792)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">19</td>
+                                <td rowspan="1" colspan="1">5.3</td>
+                                <td rowspan="1" colspan="1">5.3</td>
+                                <td rowspan="1" colspan="1">15.8</td>
+                                <td rowspan="1" colspan="1">36.8</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5.3</td>
+                                <td rowspan="1" colspan="1">21.1</td>
+                                <td rowspan="1" colspan="1">10.5</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara nigricornis</tp:taxon-name></italic> C.G. Thomson, 1857</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">17</td>
+                                <td rowspan="1" colspan="1">17.6</td>
+                                <td rowspan="1" colspan="1">41.2</td>
+                                <td rowspan="1" colspan="1">17.6</td>
+                                <td rowspan="1" colspan="1">17.6</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5.9</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nebria rufescens</tp:taxon-name></italic> (Stroem, 1768)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">17</td>
+                                <td rowspan="1" colspan="1">23.5</td>
+                                <td rowspan="1" colspan="1">23.5</td>
+                                <td rowspan="1" colspan="1">23.5</td>
+                                <td rowspan="1" colspan="1">11.8</td>
+                                <td rowspan="1" colspan="1">11.8</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5.9</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion lampros</tp:taxon-name></italic> (Herbst, 1784)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">15</td>
+                                <td rowspan="1" colspan="1">73.3</td>
+                                <td rowspan="1" colspan="1">6.7</td>
+                                <td rowspan="1" colspan="1">13.3</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">6.7</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cychrus caraboides</tp:taxon-name></italic> (Linné, 1758)</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">11</td>
+                                <td rowspan="1" colspan="1">27.3</td>
+                                <td rowspan="1" colspan="1">45.5</td>
+                                <td rowspan="1" colspan="1">9.1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">9.1</td>
+                                <td rowspan="1" colspan="1">9.1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion properans</tp:taxon-name></italic> (Stephens, 1828)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">14.3</td>
+                                <td rowspan="1" colspan="1">57.1</td>
+                                <td rowspan="1" colspan="1">28.6</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Loricera pilicornis</tp:taxon-name></italic> (Fabricius, 1775)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">16.7</td>
+                                <td rowspan="1" colspan="1">66.7</td>
+                                <td rowspan="1" colspan="1">16.7</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nebria brevicollis</tp:taxon-name></italic> (Fabricius, 1792)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">33.3</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">33.3</td>
+                                <td rowspan="1" colspan="1">33.3</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum sexpunctatum</tp:taxon-name></italic> (Linné, 1758)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acupalpus flavicollis</tp:taxon-name></italic> (Sturm, 1825)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara familiaris</tp:taxon-name></italic> (Duftschmid, 1812)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara praetermissa</tp:taxon-name></italic> (C.R. Sahlberg, 1827)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus glabratus</tp:taxon-name></italic> Paykull, 1790</td>
+                                <td rowspan="1" colspan="1">b</td>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chlaenius nigricornis</tp:taxon-name></italic> (Fabricius, 1787)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cicindela sylvicola</tp:taxon-name></italic> Dejean, 1822</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus affinis</tp:taxon-name></italic> (Schrank, 1781)</td>
+                                <td rowspan="1" colspan="1">m</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus vernalis (</tp:taxon-name></italic>Panzer, 1796)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Synuchus vivalis</tp:taxon-name></italic> (Illiger, 1798)</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100.0</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic>Total</italic></td>
+                                <td rowspan="1" colspan="1"><italic> </italic></td>
+                                <td rowspan="1" colspan="1"><italic> </italic></td>
+                                <td rowspan="1" colspan="1"><italic>13585</italic></td>
+                                <td rowspan="1" colspan="1"><italic>24.9</italic></td>
+                                <td rowspan="1" colspan="1"><italic>25.8</italic></td>
+                                <td rowspan="1" colspan="1"><italic>17.2</italic></td>
+                                <td rowspan="1" colspan="1"><italic>12.1</italic></td>
+                                <td rowspan="1" colspan="1"><italic>4.8</italic></td>
+                                <td rowspan="1" colspan="1"><italic>4.1</italic></td>
+                                <td rowspan="1" colspan="1"><italic>7.0</italic></td>
+                                <td rowspan="1" colspan="1"><italic>4.2</italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Data analysis">
+                <title>Data analysis</title>
+                <p>In order to compare species and sites with different numbers of individuals, percentage of total catches per sampling period were used. Total number of species per sampling period and mean number of species per site and sampling period were compared.</p>
+                <p>For comparison of phenology at different altitudes, the sites were divided into three altitude classes (&lt;1600, 1600–1850, &gt;1850 m a. s. l.) which contained similar numbers of sites. The weighted mean phenological appearance was calculated for each species per altitude class. Differences among classes were tested with a t-test, whereby we only used data for species which occurred at each sampling site and for which at least 10 individuals per class were found. Differences in phenological appearance in the traits: ‘hindwing development’ and ‘body length’ were also tested. For ‘hindwing length’ the groups ‘brachypter’, ‘dimorphic’ and ‘macropterous’ were tested using a t-test; for body size, species were grouped into 7 classes (mean body length &lt; 3 mm, 3–6 mm, 6–9 mm, 9–12.5 mm, 12.5–20 mm, 20–27 mm, &gt;27 mm) and a Spearman rank correlation was performed. Bonferroni corrections were conducted for each test family. For t-tests, data were checked for normality with Shapiro-tests.<!--PageBreak--></p>
+                <p>Species accumulation curves (also called sample-based rarefaction curves) were used to compare sampling effort and species richness measures (<xref ref-type="bibr" rid="B4">Buddle et al. 2005</xref>; <xref ref-type="bibr" rid="B9">Duelli et al. 1999</xref>; <xref ref-type="bibr" rid="B16">Gotelli and Colwell 2001</xref>; <xref ref-type="bibr" rid="B49">Ugland et al. 2003</xref>). Rarefaction curves for the whole dataset and for each unique sampling period were calculated using Kobayashi’s formula (<xref ref-type="bibr" rid="B25">Kobayashi 1974</xref>) in the R package ‘vegan’ (<xref ref-type="bibr" rid="B35">Oksanen et al. 2008</xref>; <xref ref-type="bibr" rid="B39">R Development Core Team 2008</xref>).</p>
+                <p>Several reduced datasets with data from two sampling periods were produced. Rarefaction curves and species number per site were compared across the whole dataset, single sampling periods and different combinations of sampling periods.</p>
+                <p>To understand how the assemblage of carabid beetle species could be represented in the case of a reduced sampling effort we computed a dissimilarity matrix based on Bray-Curtis distances. For this analysis, species numbers were standardised to percentage-data of total species numbers per site and square-root-transformed. Based on this matrix a hierarchical cluster procedure was conducted using Ward´s minimum variance method.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>In total, 13,585 specimens representing 47 species of carabid beetles were trapped over the sampling period (<xref ref-type="table" rid="T2">Table 2</xref>). The 10 most abundant species occurred throughout the whole altitudinal range of the study area.</p>
+            <p>General seasonal activity began with a maximum at the beginning of the study and showed a continuously decreasing tendency up until the end of September (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Focusing on individual numbers, the highest activity was in June, where &gt;50% of individuals were caught. In July, activity declined slowly, and in the second half of the sampling timespan, August and September combined, only 20% of the total number of individuals were trapped.</p>
+            <p>The number of recorded species follows a similar trend: after a minute increase up to the first half of July, the number of species decreased. Mean species number per site was almost constant from June to the beginning of July, and then decreased up to the end of the study period (<xref ref-type="fig" rid="F2">Fig. 2a</xref>).</p>
+            <p>The extremes in beetle activity were greatest at sites above 1850 m a.s.l. relative to the other two altitude classes: the maximum in June was higher and the low activity from the second half of July until September was even more pronounced (<xref ref-type="fig" rid="F2">Fig. 2b</xref>). Differences between the activity phenology of low and mid-altitude classes were not significant (t=-0.322, p=0.753); however, mean activity of ground beetle species occurring at all elevations was earlier at higher altitudes than at the mid-altitude and lower sites (t=4.33, p=0.001).</p>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Phenology of ground beetles. <bold>a</bold> Overview over all sites. Number of individuals is converted to percentage of total catch. <bold>b</bold> Seperated for the three site classes of altitude. On the horizontal axis the sampling interval is given. For exact sampling periods, see <xref ref-type="table" rid="T2">Table 2</xref>.</p></caption>
+                <graphic xlink:href="ZooKeys-100-255-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <p>All species of which at least 10 individuals were caught had their activity peak in June or July, approximately two thirds of the species in June, and one third in July (<xref ref-type="table" rid="T2">Table 2</xref>).</p>
+            <p>Species can be divided into three groups according to their phenology: (1) The first and largest group of species shows quite a distinct activity peak in June (<xref ref-type="fig" rid="F3">Fig. 3a</xref>) and often a strong decline already occurring in July (e.g. <italic><tp:taxon-name>Pterostichus multipunctatus</tp:taxon-name></italic>, <italic><tp:taxon-name>Bembidion bipunctatum</tp:taxon-name></italic>). Some of these species are almost absent in the second half of the year (<italic><tp:taxon-name>Amara erratica</tp:taxon-name></italic>, <italic><tp:taxon-name>Bembidion bipunctatum</tp:taxon-name></italic>). The strength of the spring activity peak may also be less pronounced (e.g. <italic><tp:taxon-name>Carabus auronitens</tp:taxon-name></italic>). (2) A second group of species shows a delayed activity peak (<xref ref-type="fig" rid="F3">Fig. 3b</xref>). In most cases, the magnitude of the peak was weaker than seen in the early species. In species with a delayed activity peak, there are also cases with absence in the second half of the year (<italic><tp:taxon-name>Amara aulica</tp:taxon-name></italic>). (3) The third group is comprised of species that show no clear activity peak (<xref ref-type="fig" rid="F3">Fig. 3c</xref>), i.e. which are active over the entire sampling timespan. Only a few species fit into this latter scheme. Most of these are characterized by a weak peak in June, followed by a slow decline in activity. Some of the species exhibit a relatively high activity in the autumn (<italic><tp:taxon-name>Pterostichus burmeisteri</tp:taxon-name></italic>, <italic><tp:taxon-name>Abax paralellepipedus</tp:taxon-name></italic>).</p>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p>Phenology of single species. <bold>a</bold> Species with an early activity peak, <bold>b</bold> Species with a delayed activity peak and <bold>c</bold> Species without a clear activity peak. On the horizontal axis the sampling interval is given. For exact sampling periods, see <xref ref-type="table" rid="T2">Table 2</xref>.</p></caption>
+                <graphic xlink:href="ZooKeys-100-255-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <p>We were unable to find any significant relationship between phenological appearance and hindwing development of the species. Similarly, for body size no significant difference was found, although there is a weak trend of larger species appearing later in the year (t=1.61, df=44, p=0.114).</p>
+            <p>The sample-based accumulation curves of the first three sampling periods are almost identical at the start, and considerably steeper than the curves of subseque<!--PageBreak-->nt periods and the curve based on the entire dataset (<xref ref-type="fig" rid="F4">Fig. 4</xref>). After 25 samples, the curves of the first three periods split: the third period curve attains higher values, and the first and second period curves follow a similar trend. Decreasing overall activity after the spring peak is also discernible in the rarefaction curves: the curves for sampling periods <!--PageBreak--><!--PageBreak-->4–8 are clearly below the curve for complete sampling (the curve for sampling period 4 is greater than the total sample curve at the start of the rarefaction process and then falls below it).</p>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figure 4.</label>
+                <caption><p>Sample-based rarefaction curves. Numbers refer to the different sampling periods.</p></caption>
+                <graphic xlink:href="ZooKeys-100-255-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <p><xref ref-type="table" rid="T3">Table 3</xref> illustrates the effects of a reduced sampling effort on observed species richness. While single sampling periods achieve a maximum of 65% of the total number of species over the entire sampling timespan, a combination of two early sampling periods can exceed 80% of the total amount of species (sampling periods 1 and 2 or 1 and 3). Best results are obtained when sampling effort is reduced to sampling periods 1 and 3. With the reduced datasets for sampling periods 1 and 3, 91.3% of all species were detected. Per site, the mean quota was 83%, and varied between 68.8 and 100%. The quota of species detected was seen to be independent of altitude or number of specimens caught.</p>
+            <table-wrap id="T3" position="float" orientation="portrait">
+                <label>Table 3.</label>
+                <caption><p>Comparison of species trapped per site for different sampling efforts. In the column Species the total number of species per site is given. Percentage of species caught is indicated for each single sampling period and a selection of two combined periods. The mean percentage of species caught per site (mean/site) for each effort is calculated.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="2" colspan="1"><italic>site</italic></th>
+                            <th rowspan="1" colspan="8"><italic>single periods</italic></th>
+                            <th rowspan="1" colspan="4"><italic>two periods</italic></th>
+                            <th rowspan="2" colspan="1"><italic>species </italic></th>
+                        </tr>
+                        <tr>
+                            <th rowspan="1" colspan="1"><italic>1 5.6.-18.6.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>2 19.6.-3.7.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>3 4.7.-18.7.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>4 19.7.-1.8.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>5 2.8.-15.8.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>6 16.8.-29.8.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>7 30.8.-12.9.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>8 13.9.-26.9.</italic></th>
+                            <th rowspan="1" colspan="1"><italic>1+2</italic></th>
+                            <th rowspan="1" colspan="1"><italic>1+3</italic></th>
+                            <th rowspan="1" colspan="1"><italic>2+3</italic></th>
+                            <th rowspan="1" colspan="1"><italic>1+4</italic></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V02</td>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1">59</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">41</td>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">22</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V03</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">22</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V05</td>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">90</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">90</td>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1">21</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V06</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">75</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">75</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V08</td>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1">54</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1">92</td>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1">13</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V10</td>
+                            <td rowspan="1" colspan="1">45</td>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">45</td>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1">85</td>
+                            <td rowspan="1" colspan="1">95</td>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1">20</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V11</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1">75</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V16</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">41</td>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">V23</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">15</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X01</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">94</td>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1">94</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X03</td>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1">14</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X04</td>
+                            <td rowspan="1" colspan="1">61</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">28</td>
+                            <td rowspan="1" colspan="1">72</td>
+                            <td rowspan="1" colspan="1">72</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">72</td>
+                            <td rowspan="1" colspan="1">18</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X05</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1">45</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">95</td>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">91</td>
+                            <td rowspan="1" colspan="1">22</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X07</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">15</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X08</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">87</td>
+                            <td rowspan="1" colspan="1">87</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">15</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X09</td>
+                            <td rowspan="1" colspan="1">83</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">92</td>
+                            <td rowspan="1" colspan="1">83</td>
+                            <td rowspan="1" colspan="1">83</td>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1">12</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X10</td>
+                            <td rowspan="1" colspan="1">46</td>
+                            <td rowspan="1" colspan="1">92</td>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1">46</td>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">92</td>
+                            <td rowspan="1" colspan="1">85</td>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1">54</td>
+                            <td rowspan="1" colspan="1">13</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X11</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">19</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X13</td>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1">59</td>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X14</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">87</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1">15</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X15</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">93</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1">93</td>
+                            <td rowspan="1" colspan="1">14</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X17</td>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">14</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X18</td>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">19</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X20</td>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">X21</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1">22</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">all sites</td>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1">78</td>
+                            <td rowspan="1" colspan="1">89</td>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1">59</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">83</td>
+                            <td rowspan="1" colspan="1">91</td>
+                            <td rowspan="1" colspan="1">91</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1">46</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mean/site</td>
+                            <td rowspan="1" colspan="1">65.4</td>
+                            <td rowspan="1" colspan="1">65.3</td>
+                            <td rowspan="1" colspan="1">64.8</td>
+                            <td rowspan="1" colspan="1">52</td>
+                            <td rowspan="1" colspan="1">40.9</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">32.4</td>
+                            <td rowspan="1" colspan="1">23.2</td>
+                            <td rowspan="1" colspan="1">81.3</td>
+                            <td rowspan="1" colspan="1">82.9</td>
+                            <td rowspan="1" colspan="1">79.7</td>
+                            <td rowspan="1" colspan="1">75</td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Classification showed that a reduced dataset (periods 1 and 3 only) represents the assemblage structure in a similar way to the complete dataset: All sites are grouped together until the last splitting, where they are divided as a result of sampling intensity (<xref ref-type="fig" rid="F5">Fig. 5</xref>).</p>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figure 5.</label>
+                <caption><p>Dendrogram of sites with data from complete sampling (comp) and sampling periods 1 and 3 (part). The dendrogram is based on Bray-Curtis distances and uses Ward´s minimum variance method.</p></caption>
+                <graphic xlink:href="ZooKeys-100-255-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>The strong activity peak observed in our study at the start of the plant growing season has already been observed in many carabids in mountain regions, especially in subalpine and alpine ecosystems (<xref ref-type="bibr" rid="B26">Lang 1975</xref>; <xref ref-type="bibr" rid="B5">De Zordo 1979a</xref>, b; <xref ref-type="bibr" rid="B41">Refseth 1984</xref>; Janetschek, Meyer, Schatz and Schatz-de Zordo 1987; <xref ref-type="bibr" rid="B14">Gereben 1995</xref>; <xref ref-type="bibr" rid="B36">Ottesen 1996</xref>; <xref ref-type="bibr" rid="B2">Brandmayr et al. 2003b</xref>; <xref ref-type="bibr" rid="B30">Löffler and Finch 2005</xref>; <xref ref-type="bibr" rid="B43">Sharova and Khobrakova 2005</xref>). Depending on altitude, exposition and longitude, the weeks immediately after snow-melt are characterised by an activity peak in many species. The shortened plant growing season an<!--PageBreak--><!--PageBreak-->d the time in which the larvae are able to develop are given as an explanation for this. A fast start to reproduction in cool ecosystems is advantageous, as larval development takes longer under such conditions (cf. <xref ref-type="bibr" rid="B37">Paarmann 1966</xref>; <xref ref-type="bibr" rid="B12">Ferenz 1975</xref>). Food availability is another possible explanation; many swarming or flying insects (especially <tp:taxon-name>Diptera</tp:taxon-name> and <tp:taxon-name>Hymenoptera</tp:taxon-name>) are attracted to the white snow fields. After landing on these fields the insects are immobilised by the low temperatures. In most cases, ground beetles can pick them up live overnight or, later, as carcasses on snow fields after snowmelt. In these cases, some authors use the term “snow edge species”, i.e. species which are adapted to cold and humid conditions and disappear very rapidly after snowmelt (<xref ref-type="bibr" rid="B21">Holdhaus 1954</xref>; <xref ref-type="bibr" rid="B13">Franz 1970</xref>; <xref ref-type="bibr" rid="B33">Marggi 1992</xref>; <xref ref-type="bibr" rid="B3">Brandmayr et al. 2005</xref>).</p>
+            <p>However, snow edge species (<xref ref-type="bibr" rid="B33">Marggi 1992</xref>), such as <italic><tp:taxon-name>Bembidion bipunctatum nivale</tp:taxon-name></italic>, are not the only species most often trapped after snow melt. Species with broader habitat preferences show increased activity during that time. Prevailing conditions after snow melt (open structure of vegetation and low “Raumwiderstand” sensu <xref ref-type="bibr" rid="B18">Heydemann 1956</xref>, the resistance of vegetation structure to the locomotory movement of a given species, high temperatures during sunshine combined with a high soil humidity) might be advantageous for several species.</p>
+            <p>While most papers focus on the abundant species, our data show that an early activity peak can also be observed for less abundant species. <xref ref-type="bibr" rid="B36">Ottesen (1996)</xref> made the same observation for carabids in alpine sites in Norway. However, this was not true for other groups of epigeic arthropods, as he observed an autumn activity peak for some species of staphylinids.</p>
+            <p>Although high spring activity was seen for all species, we observed differences between species: we were able to divide our species into three groups according to their phenological appearance. While the first group (early and strong spring activity peak) is most frequently described in mountain ecosystems, delayed spring activity has already been shown for some species by other authors (<xref ref-type="bibr" rid="B6">De Zordo 1979b</xref>; <xref ref-type="bibr" rid="B41">Refseth 1984</xref>), and a species <!--PageBreak-->without a strong activity peak was presented (<xref ref-type="bibr" rid="B43">Sharova and Khobrakova 2005</xref>). Our data do not give a clear indication of the reasons for the observed phenological differences among species, at least there were no simple relationships between the traits we tested.</p>
+            <p>The observed activity densities of species, with some species having a strong and early peak and others with a delayed peak led us to the conclusion that the best results can be expected by reducing the sampling to two periods at the beginning of the season. In fact, sampling periods 1 and 3 showed the highest average coverage of the sites’ species richness, and the quota of species trapped was better than that suggested by <xref ref-type="bibr" rid="B9">Duelli et al. (1999)</xref> for the so-called standard minimum programme for lower altitudes. This means that for high altitudes our suggestion to reduce the sampling effort results in a more robust data set than similar approaches for lower altitudes, as the beetles’ activity seems to be more concentrated within a shorter period in mountain ecosystems. The phenological data of other analyses conducted in different habitats from the upper montane zone upwards supports an approach that focuses on an early first sampling period and a delayed second (<xref ref-type="bibr" rid="B26">Lang 1975</xref>; <xref ref-type="bibr" rid="B5">De Zordo 1979a</xref>, b; <xref ref-type="bibr" rid="B41">Refseth 1984</xref>; Janetschek, Meyer, Schatz and Schatz-de Zordo 1987; <xref ref-type="bibr" rid="B14">Gereben 1995</xref>; <xref ref-type="bibr" rid="B36">Ottesen 1996</xref>; <xref ref-type="bibr" rid="B30">Löffler and Finch 2005</xref>; <xref ref-type="bibr" rid="B43">Sharova and Khobrakova 2005</xref>). Results of the classification procedure showed that with our reduction in sampling effort, community structure is represented well. A reasonably reduced sampling effort improves the chances of including carabid beetles in monitoring programmes in mountain areas, e.g. to evaluate the conservation status of habitats in Natura 2000 areas. If a reduction in sampling effort is inevitable, we recommend that the minimum sampling effort for carabids in mountain ecosystems should be two fortnightly sampling periods, the first immediately after snow melt and a second after a break of two weeks.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We would like to thank the Bayerischen Naturschutzfonds for financial support and the SMNK for carrying out the project. We thank Thomas Harry, Florian Raub and Ludger Scheuermann for their help during field work and Franziska Meyer for help in the laboratory. Special thanks goes to the cow-herder Helmut Radeck and his family for their hospitality. Many thanks to Gillian Cerbu and Linda Froome for language improvements.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brandmayr</surname> <given-names>P</given-names></name><name name-style="western"><surname>Pizzolotto</surname> <given-names>R</given-names></name><name name-style="western"><surname>Scalercio</surname> <given-names>S</given-names></name></person-group> (<year>2003a</year>)<source> Overview: Invertebrate Diversity in Europe´s Alpine Regions. In: Nagy L, Grabherr G, Körner C, Thompson DBA (Eds) Alpine Biodiversity in Europe. Springer, Berlin, 233–238.</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brandmayr</surname> <given-names>P</given-names></name><name name-style="western"><surname>Pizzolotto</surname> <given-names>R</given-names></name><name name-style="western"><surname>Scalercio</surname> <given-names>S</given-names></name><name name-style="western"><surname>Algieri</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Zetto</surname> <given-names>T</given-names></name></person-group> (<year>2003b</year>)<source> Diversity patterns of Carabids in the Alps and the Apennines. In: Nagy L, Grabherr G, Körner C, Thompson DBA (Eds) Alpine Biodiversity in Europe. Springer, Berlin.</source><!--PageBreak--></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brandmayr</surname> <given-names>P</given-names></name><name name-style="western"><surname>Zetto</surname> <given-names>T</given-names></name><name name-style="western"><surname>Pizzolotto</surname> <given-names>R</given-names></name></person-group> (<year>2005</year>)<article-title> arabidi per la valutazione ambientale e la conservazione della biodiversità: manuale operativo.</article-title> <source>Manuali e Linee Guida</source> <volume>34</volume>:<fpage>1</fpage>-<lpage>240</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Buddle</surname> <given-names>CM</given-names></name><name name-style="western"><surname>Beguin</surname> <given-names>J</given-names></name><name name-style="western"><surname>Bolduc</surname> <given-names>E</given-names></name><name name-style="western"><surname>Mercado</surname> <given-names>A</given-names></name><name name-style="western"><surname>Sackett</surname> <given-names>TE</given-names></name><name name-style="western"><surname>Selby</surname> <given-names>RD</given-names></name><name name-style="western"><surname>Varady-Szabo</surname> <given-names>H</given-names></name><name name-style="western"><surname>Zeran</surname> <given-names>RM</given-names></name></person-group> (<year>2005</year>)<article-title> The importance and use of taxon sampling curves for comparative biodiversity research with forest arthropod assemblages.</article-title> <source>Canadian Entomologist</source> <volume>137</volume>:<fpage>120</fpage>-<lpage>127</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/n04-040">10.4039/n04-040</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Zordo</surname> <given-names>I</given-names></name></person-group> (<year>1979a</year>)<source> Ökologische Untersuchungen an Wirbellosen des zentralalpinen Hochgebirges (Obergurgl, Tirol). III. Lebenszyklus und Zönotik von Coleopteren. Österreichische Kommissionsbuchhandlung, Innsbruck, 9–131 pp.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Zordo</surname> <given-names>I</given-names></name></person-group> (<year>1979b</year>)<article-title> Phänologie von Carabiden im Hochgebirge Tirols (Obergurgl, Österreich).</article-title> <source>Ber nat-med Ver Innsbruck</source> <volume>66</volume>:<fpage>73</fpage>-<lpage>83</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>den Boer</surname> <given-names>PJ</given-names></name><name name-style="western"><surname>van Dijk</surname> <given-names>TS</given-names></name></person-group> (<year>1996</year>)<source> Life history patterns among carabid species Tijdschrift voor Entomologie 139: 1–16.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>den Boer</surname> <given-names>PJ</given-names></name><name name-style="western"><surname>van Dijk</surname> <given-names>TS</given-names></name></person-group> (<year>1998</year>)<source> The relevace of life-history theory for carabid species of Western Europe. In: Baumgärtner J, Brandmayr P, Manly BFJ (Eds) Population and Community Ecology for Insect Management and Conservation. Balkema, Rotterdam, 193–203.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Duelli</surname> <given-names>P</given-names></name><name name-style="western"><surname>Obrist</surname> <given-names>MK</given-names></name><name name-style="western"><surname>Schmatz</surname> <given-names>DR</given-names></name></person-group> (<year>1999</year>)<article-title> Biodiversity evaluation in agricultural landscapes: above-ground insects.</article-title> <source>Agriculture Ecosystems &amp; Environment</source> <volume>74</volume>:<fpage>33</fpage>-<lpage>64</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0167-8809(99)00029-8">10.1016/S0167-8809(99)00029-8</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dufrene</surname> <given-names>M</given-names></name><name name-style="western"><surname>Legendre</surname> <given-names>P</given-names></name></person-group> (<year>1997</year>)<article-title> Species assemblages and indicator species: The need for a flexible asymmetrical approach.</article-title> <source>Ecological Monographs</source> <volume>67</volume>:<fpage>345</fpage>-<lpage>366</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fadl</surname> <given-names>A</given-names></name><name name-style="western"><surname>Purvis</surname> <given-names>G</given-names></name></person-group> (<year>1998</year>)<article-title> Field observations on the lifecycles and seasonal activity patterns of temperate carabid beetles (Coleoptera : Carabidae) inhabiting arable land.</article-title> <source>Pedobiologia</source> <volume>42</volume>:<fpage>171</fpage>-<lpage>183</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ferenz</surname> <given-names>H-J</given-names></name></person-group> (<year>1975</year>)<article-title> Anpassung von <italic>Pterostichus nigrita</italic> F. (Col., Carab.) an subarktische Bedingungen.</article-title> <source>Oecologia</source> <volume>19</volume>:<fpage>49</fpage>-<lpage>57</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF00377589">10.1007/BF00377589</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Franz</surname> <given-names>H</given-names></name></person-group> (<year>1970</year>)<source> Ökologie der Hochgebirge. Ulmer, Stuttgart, 494 pp.</source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gereben</surname> <given-names>BA</given-names></name></person-group> (<year>1995</year>)<article-title> Cooccurrence and Microhabitat Distribution of 6 Nebria Species (Coleoptera, Carabidae) in an Alpine Glacier Retreat Zone in the Alps, Austria.</article-title> <source>Arctic and Alpine Research</source> <volume>27</volume>:<fpage>371</fpage>-<lpage>379</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1552030">10.2307/1552030</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gesellschaft für Angewandte Carabidologie</surname></name></person-group> (<year>2009</year>)<source> Lebensraumpräferenzen der Laufkäfer Deutschlands. Wissensbasierter Katalog. Angewandte Carabidologie Supplement V.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gotelli</surname> <given-names>NJ</given-names></name><name name-style="western"><surname>Colwell</surname> <given-names>RK</given-names></name></person-group> (<year>2001</year>)<article-title> Quantifying biodiversity: procedures and pitfalls in the measurement and comparison of species richness.</article-title> <source>Ecology Letters</source> <volume>4</volume>:<fpage>379</fpage>-<lpage>391</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1461-0248.2001.00230.x">10.1046/j.1461-0248.2001.00230.x</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haslett</surname> <given-names>JR</given-names></name></person-group> (<year>1997</year>)<article-title> Mountain ecology: organism responses to environmental change, an introduction.</article-title> <source>Global Ecology and Biogeography Letters</source> <volume>6</volume>:<fpage>3</fpage>-<lpage>6</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2997522">10.2307/2997522</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heydemann</surname> <given-names>B</given-names></name></person-group> (<year>1956</year>)<article-title> Die Biotopstruktur als Raumwiderstand und Raumfülle für die Tierwelt.</article-title> <source>Verhandlungen der Deutschen Zoologischen Gesellschaft</source> <volume>47</volume>:<fpage>332</fpage>-<lpage>347</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Höfer</surname> <given-names>H</given-names></name><name name-style="western"><surname>Harry</surname> <given-names>I</given-names></name><name name-style="western"><surname>Hanak</surname> <given-names>A</given-names></name><name name-style="western"><surname>Urban</surname> <given-names>R</given-names></name></person-group> (<year>in press</year>) <article-title>Das Projekt Einödsberg - Begleituntersuchungen zur geänderten Weidenutzung auf einer Allgäuer Alpe.</article-title> <source>Andrias</source> <volume>18</volume>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Höfer</surname> <given-names>H</given-names></name><name name-style="western"><surname>Harry</surname> <given-names>I</given-names></name><name name-style="western"><surname>Hanak</surname> <given-names>A</given-names></name><name name-style="western"><surname>Urban</surname> <given-names>R</given-names></name><name name-style="western"><surname>Kraft</surname> <given-names>B</given-names></name></person-group> (<year>2008</year>)<article-title> Die Einödsberg-Alpe - Ein Brennpunkt der Artenvielfalt.</article-title> <source>Natur und Museum</source> <volume>138</volume>:<fpage>224</fpage>-<lpage>231</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holdhaus</surname> <given-names>K</given-names></name></person-group> (<year>1954</year>)<source> Die Spuren der Eiszeit in der Tierwelt Europas. Universitätsverlag Wagner, Innsbruck, 493 pp.</source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hosoda</surname> <given-names>H</given-names></name></person-group> (<year>1999</year>)<article-title> Altitudinal occurrence of ground beetles (Coleoptera, Carabidae) on Mt. Kurobi, central Japan, with special reference to forest vegetation and soil characteristics.</article-title> <source>Pedobiologia</source> <volume>43</volume>:<fpage>364</fpage>-<lpage>371</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hutchison</surname> <given-names>MAS</given-names></name></person-group> (<year>2007</year>)<article-title> Seasonality and life histories of two endemic New Zealand carabid beetles (Coleoptera : Carabidae): <italic>Mecodema oconnori</italic> Broun and <italic>Megadromus capito</italic> (White).</article-title> <source>New Zealand Journal of Zoology</source> <volume>34</volume>:<fpage>79</fpage>-<lpage>89</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/03014220709510066">10.1080/03014220709510066</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Janetschek</surname> <given-names>H</given-names></name><name name-style="western"><surname>Meyer</surname> <given-names>E</given-names></name><name name-style="western"><surname>Schatz</surname> <given-names>H</given-names></name><name name-style="western"><surname>Schatz-de Zordo</surname> <given-names>I</given-names></name></person-group> (<year>1987</year>)<source> Ökologische Untersuchungen an Wirbellosen im Raum Gurgl unter Berücksichtigung anthropogener Einflüsse. In: Patzelt G (Ed) MaB - Projekt Obergurgl. Universitätsverlag Wagner, Innsbruck, 283–315.</source></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kobayashi</surname> <given-names>S</given-names></name></person-group> (<year>1974</year>)<article-title> The species-area relation I. A model for discrete sampling.</article-title> <source>Researches on Population Ecology</source> <volume>15</volume>:<fpage>223</fpage>-<lpage>237</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02510669">10.1007/BF02510669</ext-link></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lang</surname> <given-names>A</given-names></name></person-group> (<year>1975</year>)<source> Koleopterenfauna und -faunation in der alpinen Stufe der Stubaier Alpen (Kühtal). Österreichische Kommissionsbuchhandlung, Innsbruck, 81 pp.</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Larsson</surname> <given-names>SG</given-names></name></person-group> (<year>1939</year>)<article-title> Entwicklungstypen und Entwicklungszeiten der dänischen Carabiden.</article-title> <source>Entomologiske Meddelelser</source> <volume>20</volume>:<fpage>277</fpage>-<lpage>560</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lederbogen</surname> <given-names>D</given-names></name><name name-style="western"><surname>Rosenthal</surname> <given-names>G</given-names></name><name name-style="western"><surname>Scholle</surname> <given-names>D</given-names></name><name name-style="western"><surname>Trautner</surname> <given-names>J</given-names></name><name name-style="western"><surname>Zimmermann</surname> <given-names>B</given-names></name><name name-style="western"><surname>Kaule</surname> <given-names>G</given-names></name></person-group> (<year>2004</year>)<source> Allmendweiden in Südbayern: Naturschutz durch landwirtschaftliche Nutzung. Landwirtschaftsverlag, Münster, pp.</source></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname> <given-names>CH</given-names></name></person-group> (<year>1949</year>)<source> Die Fennoskandischen Carabidae III. Allgemeiner Teil. 1–911. pp.</source></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Löffler</surname> <given-names>J</given-names></name><name name-style="western"><surname>Finch</surname> <given-names>O-D</given-names></name></person-group> (<year>2005</year>)<article-title> Spatio-temporal Gradients between High Mountain Ecosystems of Central Norway.</article-title> <source>Arctic, Antarctic, and Alpine Research</source> <volume>37</volume>:<fpage>499</fpage>-<lpage>513</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1657/1523-0430(2005)037[0499:SGBHME]2.0.CO">10.1657/1523-0430(2005)037[0499:SGBHME]2.0.CO</ext-link>;2</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lomolino</surname> <given-names>MV</given-names></name></person-group> (<year>2001</year>)<article-title> Elevation gradients of species-density: historical and prospective views.</article-title> <source>Global Ecology and Biogeography Letters</source> <volume>10</volume>:<fpage>3</fpage>-<lpage>13</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1466-822x.2001.00229.x">10.1046/j.1466-822x.2001.00229.x</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lys</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Nentwig</surname> <given-names>W</given-names></name></person-group> (<year>1991</year>)<article-title> Surface-Activity of Carabid Beetles Inhabiting Cereal Fields - Seasonal Phenology and the Influence of Farming Operations on 5 Abundant Species.</article-title> <source>Pedobiologia</source> <volume>35</volume>:<fpage>129</fpage>-<lpage>138</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Marggi</surname> <given-names>WA</given-names></name></person-group> (<year>1992</year>)<source> Faunistik der Sandlaufkäfer und Laufkäfer der Schweiz (Cicindelidae &amp; Carabidae) Coleoptera., Neuchâtel, 478 pp.</source></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Matalin</surname> <given-names>AV</given-names></name></person-group> (<year>1997</year>)<article-title> Peculiarities of carabid (Coleoptera, Carabidae) spatial- temporal differentiation in steppe zone.</article-title> <source>Zoologichesky Zhurnal</source> <volume>76</volume>:<fpage>1035</fpage>-<lpage>1045</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Oksanen</surname> <given-names>J</given-names></name><name name-style="western"><surname>DKindt</surname> <given-names>R</given-names></name><name name-style="western"><surname>Legendre</surname> <given-names>P</given-names></name><name name-style="western"><surname>O’Hara</surname> <given-names>B</given-names></name><name name-style="western"><surname>Simpson</surname> <given-names>GL</given-names></name><name name-style="western"><surname>Solymos</surname> <given-names>P</given-names></name><name name-style="western"><surname>Stevens</surname> <given-names>MHH</given-names></name><name name-style="western"><surname>Wagner</surname> <given-names>H</given-names></name></person-group> (<year>2008</year>)<source> vegan: Community Ecology Package. 1.15–0 ed, pp.</source></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ottesen</surname> <given-names>PS</given-names></name></person-group> (<year>1996</year>)<article-title> Niche segregation of terrestrial Alpine beetles (Coleoptera) in relation to environmental gradients and phenology.</article-title> <source>Journal of Biogeography</source> <volume>23</volume>:<fpage>353</fpage>-<lpage>369</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-2699.1996.00971.x">10.1046/j.1365-2699.1996.00971.x</ext-link></mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Paarmann</surname> <given-names>W</given-names></name></person-group> (<year>1966</year>)<article-title> Vergleichende Untersuchungen üiber die Bindung zweier Carabidenarten (<italic>Pterostichus angustatus</italic> Dft. und <italic>Pterostichus oblongopunctatus</italic> F.) an ihre verschiedenen Lebensräume.</article-title> <source>Zeitschrift der Wissenschaftlichen Zoologie</source> <volume>174</volume>:<fpage>83</fpage>-<lpage>176</lpage>.</mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Paarmann</surname> <given-names>W</given-names></name></person-group> (<year>1979</year>)<article-title> Ideas about the evolution of the various annual reproduction rhythms in carabid beetles of the different climatic zones.</article-title> <source>Miscellaneous Papers</source> <volume>18</volume>:<fpage>119</fpage>-<lpage>132</lpage>.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>R Development Core Team</surname></name></person-group> (<year>2008</year>)<source> R: A language and environment for statistical computing. 2.8.0 ed. R Foundation for Statistical Computing, Vienna.</source></mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rainio</surname> <given-names>J</given-names></name><name name-style="western"><surname>Niemela</surname> <given-names>J</given-names></name></person-group> (<year>2003</year>)<article-title> Ground beetles (Coleoptera: Carabidae) as bioindicators.</article-title> <source>Biodiversity and Conservation</source> <volume>12</volume>:<fpage>487</fpage>-<lpage>506</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1022412617568">10.1023/A:1022412617568</ext-link></mixed-citation></ref><!--PageBreak-->
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Refseth</surname> <given-names>D</given-names></name></person-group> (<year>1984</year>)<article-title> The life cycles and growth of <italic>Carabus glabratus</italic> and <italic>C. violaceus</italic> in Budalen, central Norway.</article-title> <source>Ecological Entomology</source> <volume>9</volume>:<fpage>449</fpage>-<lpage>455</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2311.1984.tb00843.x">10.1111/j.1365-2311.1984.tb00843.x</ext-link></mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Riddick</surname> <given-names>EW</given-names></name><name name-style="western"><surname>Mills</surname> <given-names>NJ</given-names></name></person-group> (<year>1995</year>)<article-title> Seasonal Activity of Carabids (Coleoptera, Carabidae) Affected by Microbial and Oil Insecticides in an Apple Orchard in California.</article-title> <source>Environmental Entomology</source> <volume>24</volume>:<fpage>361</fpage>-<lpage>366</lpage>.</mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sharova</surname> <given-names>IK</given-names></name><name name-style="western"><surname>Khobrakova</surname> <given-names>LT</given-names></name></person-group> (<year>2005</year>)<article-title> Features of the life cycles of <italic>Pterostichus montanus</italic> (Motschulsky, 1844) and <italic>Carabus loschnikovi</italic> (Fischer-Waldheim, 1822) (Coleoptera, Carabidae) in conditions of the mountain taiga belt in the Eastern Sayan.</article-title> <source>Biology Bulletin</source> <volume>32</volume>:<fpage>27</fpage>-<lpage>37</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10525-005-0006-5">10.1007/s10525-005-0006-5</ext-link></mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><source>SMNK: Projekt Einödsberg.</source> <ext-link ext-link-type="uri" xlink:href="http://www.einödsberg.de/">http://www.einödsberg.de/</ext-link> [accessed 22.11.2009].</mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sota</surname> <given-names>T</given-names></name></person-group> (<year>1996</year>)<article-title> Altitudinal variation in life cycles of Carabid beetles: Life- cycle strategy and colonization in alpine zones.</article-title> <source>Arctic and Alpine Research</source> <volume>28</volume>:<fpage>441</fpage>-<lpage>447</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1551855">10.2307/1551855</ext-link></mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Szyszko</surname> <given-names>J</given-names></name><name name-style="western"><surname>Vermeulen</surname> <given-names>HJW</given-names></name><name name-style="western"><surname>Klimaszewski</surname> <given-names>K</given-names></name><name name-style="western"><surname>Abs</surname> <given-names>M</given-names></name><name name-style="western"><surname>Schwerk</surname> <given-names>A</given-names></name></person-group> (<year>2000</year>)<source> Mean Individual Biomass (MIB) of ground beetles (Carabidae) as an indicator of the state of the environment. In: Brandmayr P, Lövei GL, Zetto Brandmayr T, Casale A, Vigna Taglianti A (Eds) Natural history and applied ecology of carabid beetles. Pensoft, Sofia, 289–294.</source></mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thiele</surname> <given-names>H-U</given-names></name></person-group> (<year>1977</year>)<source> Carabid beetles in their environments. A study on habitat selection by adaptions in physiology and behaviour. Springer, Berlin Heidelberg New York, 367 pp.</source></mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Traugott</surname> <given-names>M</given-names></name></person-group> (<year>1998</year>)<article-title> Larval and adult species composition, phenology and life cycles of carabid beetles (Coleoptera : Carabidae) in an organic potato field.</article-title> <source>European Journal of Soil Biology</source> <volume>34</volume>:<fpage>189</fpage>-<lpage>197</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S1164-5563(00)86661-3">10.1016/S1164-5563(00)86661-3</ext-link></mixed-citation></ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ugland</surname> <given-names>KI</given-names></name><name name-style="western"><surname>Gray</surname> <given-names>JS</given-names></name><name name-style="western"><surname>Ellingsen</surname> <given-names>KE</given-names></name></person-group> (<year>2003</year>)<article-title> The species-accumulation curve and estimation of species richness.</article-title> <source>Journal of Animal Ecology</source> <volume>72</volume>:<fpage>888</fpage>-<lpage>897</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-2656.2003.00748.x">10.1046/j.1365-2656.2003.00748.x</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

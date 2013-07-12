@@ -1,0 +1,480 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.147.1872</article-id>
+            <title-group>
+                <article-title>A new species of <italic>Bembidion</italic> Latrielle 1802 from the Ozarks, with a review of the North American species of subgenus <italic>Trichoplataphus</italic> Netolitzky 1914 (Coleoptera, Carabidae, Bembidiini)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Hildebrandt</surname>
+                        <given-names>Drew A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:038776CA-F70A-4744-96D6-B9B43FB56BB4</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Maddison</surname>
+                        <given-names>David R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:075A5E9B-5581-457D-8D2F-0B5834CDE04D</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>710 Laney Road, Clinton, MS 39056 USA
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Zoology, Oregon State University, Corvallis, OR 97331, USA
+            </aff>
+            <author-notes>
+            	<fn fn-type="corresp">
+                    <p>Corresponding author: David R. Maddison (<email xlink:type="simple">david.maddison@science.oregonstate.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: T. Erwin</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>147</issue>
+            <fpage>261</fpage>
+            <lpage>275</lpage>
+            <history>
+                <date date-type="received">
+                    <day>31</day>
+                    <month>7</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>25</day>
+                    <month>8</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Drew A. Hildebrandt, David R. Maddison</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:52038529-10EA-41A8-BE4F-6B495B610900</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new species of <italic><tp:taxon-name>Bembidion (Trichoplataphus</tp:taxon-name></italic> Netolitzky) from the Ozark Plateau of Missouri and Arkansas is described (<italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> Maddison and Hildebrandt). It is distinguishable from the closely related species, <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> Fall, by characteristics of the male genitalia, and sequences of the genes cytochrome oxidase I and 28S ribosomal DNA. A brief review of the North American species of <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> is presented, including a key to species.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Bembidion</italic></kwd>
+                <kwd>Bembidiini</kwd>
+                <kwd>Trechinae</kwd>
+                <kwd>COI</kwd>
+                <kwd>28S rDNA</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>systematics</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>While identifying beetles of the genus <italic><tp:taxon-name>Bembidion</tp:taxon-name></italic> Latreille that the senior author collected in Arkansas and Missouri some years ago, he came across a series of specimens <!--PageBreak-->of subgenus <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> Netolitzky that keyed to <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> Fall using the latest revision of the group (<xref ref-type="bibr" rid="B9">Lindroth 1963</xref>). However, the collecting locality was far west of the known range of that species (<xref ref-type="bibr" rid="B1">Bousquet and Larochelle 1993</xref>). He contacted the junior author for his opinion on the species identification, which initiated a study that has resulted in the present work.</p>
+            <p>The purpose of this paper is to describe the new species that was discovered and provide a review of the North American species of the subgenus <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic>. The most recent revision of the subgenus was included in Lindroth’s treatment of the genus for the northern U.S. and Canada (<xref ref-type="bibr" rid="B9">Lindroth 1963</xref>), and this paper builds on that work by addition of the new species, and modification of Lindroth’s key.</p>
+            <p>It is with great pleasure that we dedicate this paper to Dr. Ross Bell. For one of us he has been a very generous, informative and helpful correspondent, for the other a mentor and close colleague. Both of us have benefited immeasurably by our interactions with him. This paper is a small contribution to the fauna of an area that has interested Ross since his youth, when he first collected the endemic <italic><tp:taxon-name>Chlaenius viduus</tp:taxon-name></italic> Horn in the Ozarks.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>Approximately 580 specimens of <italic><tp:taxon-name>Bembidion (Trichoplataphus)</tp:taxon-name></italic> were examined as part of this review; no effort was made to do a complete survey of specimens in existing collections. Specimens were examined from the following collections; each collection listing begins with the codon used in the text.</p>
+            <p><abbrev>CMNH<def><p>	Carnegie Museum of Natural History, Pittsburgh, PA, USA (Robert L. Davidson)</p></def></abbrev></p>
+            <p><abbrev>DAHC<def><p>	Drew A. Hildebrandt collection, Clinton, MS. USA</p></def></abbrev></p>
+            <p><abbrev>OSAC<def><p>	Oregon State Arthropod Collection, Oregon State University, Corvallis, OR (David R. Maddison)</p></def></abbrev></p>
+            <p><abbrev>TAMU<def><p>	Texas A&amp;M University, College Station, TX, USA (Edward C. Riley)</p></def></abbrev></p>
+            <p><bold>Collecting methods.</bold> Specimens were collected by hand, by splashing or pouring water on gravel bars or by raking the gravel by hand during the day to dislodge the beetles hiding under the gravel; or at night when the beetles were out, actively moving about on the surface. During the day, raking the gravel by hand works best for collecting specimens of this subgenus because of their behavior when disturbed. Unlike members of most other <tp:taxon-name>Bembidiini</tp:taxon-name>, individuals of <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> tend to run under the water and cling to stones, and thus they are more difficult to catch (<xref ref-type="bibr" rid="B2">Davidson 1978</xref>).</p>
+            <p>Specimens for morphological studies were killed and preserved in sawdust or woodchips to which ethyl acetate was added. Specimens for DNA sequencing were collected into 95% or 100% ethanol, with best results obtained if the abdomen was slightly separated from the rest of the body to allow better penetration.<!--PageBreak--></p>
+            <p><bold>Morphological methods</bold>. Methods for studying adult structures, and terms used, are given in <xref ref-type="bibr" rid="B11">Maddison (1993)</xref>.</p>
+            <p>All measurements were made on dried, pinned or pointed specimens using an Olympus SZ6045 zoom stereo microscope with a calibrated ocular micrometer. Character examinations were made at magnifications ranging from 10x to 63x; all measurements were made at 30x. Standardized body length (SBL) was measured following the protocol of <xref ref-type="bibr" rid="B7">Kavanaugh (1979)</xref>.</p>
+            <p><bold>Taxon sampling for DNA studies.</bold> We sequenced DNA from 18 specimens of <italic><tp:taxon-name>Bembidion (Trichoplataphus)</tp:taxon-name></italic>, including all known North American species, as well as <italic><tp:taxon-name>Bembidion mimekara</tp:taxon-name></italic> Toledano and Schmidt from China ((<xref ref-type="table" rid="T1">Table 1</xref>)). Preliminary analyses of multiple genes across <italic><tp:taxon-name>Bembidion</tp:taxon-name></italic> (Maddison, unpublished) indicate that the sampled <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> form a clade, and that, among the species sampled<italic>, B. mimekara</italic> is the sister group to the North American species. DNA vouchers are housed in the David Maddison voucher collection at Oregon State University.</p>
+            <p><bold>DNA sequencing.</bold> Methods for obtaining DNA sequences are described in <xref ref-type="bibr" rid="B12">Maddison (2008)</xref>. In brief, we obtained ca. 1000 bases of sequence data in the D1 through D3 domains of 28S ribosomal DNA (28S or 28S rDNA) and 650 to 750 bases of cytochrome oxidase I (COI). Fragments for these genes were amplified using the Polymerase Chain Reaction on an Eppendorf Mastercycler Thermal Cycler, using either Eppendorf Hotmaster Taq or TaKaRa Ex Taq and the basic protocols recommended by the manufacturers. Primers and details of the cycling reactions used are given in <xref ref-type="bibr" rid="B12">Maddison (2008)</xref>. In particular, we used the primer pair LS58F and LS998R and the pair NLF184/21 and LS1041R to amplify and sequence 28S rDNA. For COI, two amplification and sequencing strategies were used: use of primer pairs B1490 and Bcoi2R (see <xref ref-type="bibr" rid="B12">Maddison 2008</xref>), or the LCO1490 and HCO2198 primers (<xref ref-type="bibr" rid="B6">Hebert et al. 2003</xref>). Amplified products were cleaned, quantified, and sequenced at the University of Arizona’s Genomic and Technology Core Facility using either a 3730 or 3730 XL Applied Biosystems automatic sequencer.</p>
+            <p>Assembly of multiple chromatograms for each gene fragment and initial base calls were made with Phred (<xref ref-type="bibr" rid="B4">Green and Ewing 2002</xref>) and Phrap (<xref ref-type="bibr" rid="B3">Green 1999</xref>) as orchestrated by Mesquite’s Chromaseq package (<xref ref-type="bibr" rid="B13">Maddison and Maddison 2009a</xref>; <xref ref-type="bibr" rid="B14">Maddison and Maddison 2009b</xref>), with subsequent modifications by Chromaseq and manual inspection. Multiple peaks at a single position in both reads were coded using IUPAC ambiguity codes.</p>
+            <p>Sequences have been deposited in GenBank with accession numbers JF800039 through JF800074.</p>
+            <p><bold>Alignment.</bold> Alignment for both genes could be unambiguously determined, as there were no insertion or deletion events evident in the COI sequences, and only one in 28S, in which <italic><tp:taxon-name>Bembidion mimekara</tp:taxon-name></italic> has 2 bases not present in the other species.</p>
+            <p><bold>Molecular phylogenetic analysis.</bold> Models of nucleotide evolution were chosen with the aid of ModelTest version 3.7 (<xref ref-type="bibr" rid="B15">Posada 2005</xref>). For 28S rDNA, the model chosen by the Akaike Information Criterion (AIC) was a General Time Reversible (GTR) rate matrix with a proportion of sites being invariant (the GTR + I model); for COI it was a GTR rate matrix with site variation following a gamma distribution (the GTR + G model).</p>
+            <p><!--PageBreak-->Likelihood analyses of nucleotide data were conducted using Garli version 1.0.699 (<xref ref-type="bibr" rid="B17">Zwickl 2006</xref>). For each matrix, 1000 non-parametric bootstrap search replicates were conducted.<!--PageBreak--></p>
+            <sec sec-type="Results from molecular analyses">
+                <title>Results from molecular analyses</title>
+                <p>Specimens of each of the species have distinctive COI and 28S sequences (<xref ref-type="fig" rid="F1">Fig. 1</xref>). <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> shows consistent differences from similar specimens from the Ozarks, which we are describing as <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>. All specimens of <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> differ from all specimens of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> at 18 bases among the 766 sequenced sites in COI (2.3% divergent), as well as 2 of the 995 sites sampled of 28S rDNA (0.2%). These two species are reciprocally monophyletic in the inferred phylogenetic trees (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p> Maximum-likelihood bootstrap trees for <bold>A</bold> 28S rDNA and <bold>B</bold> COI. Each terminal taxon is a single specimen, whose state or province of origin is shown, using standard abbreviations, after the species name; the four digits at the end of the name form the voucher number. Numbers below each branch are the percentage of bootstrap replicates showing that branch; values are not shown within each species. Branch lengths are proportional to number of substitutions per site, as reconstructed by Garli. <italic><tp:taxon-name>Bembidion (Trichoplataphus) mimekara</tp:taxon-name></italic>, the outgroup, is not shown because of its long branch length.</p></caption>
+                    <graphic xlink:href="ZooKeys-147-261-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <table-wrap position="float" orientation="portrait" id="T1">
+                    <label>Table 1.</label>
+                    <caption><p><italic><tp:taxon-name>Bembidion (Trichoplataphus)</tp:taxon-name></italic> specimens sampled for DNA sequences. Four-digit numbers under “#” are D.R. Maddison DNA voucher numbers. The specimen marked with a “*” is the holotype of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, n.sp.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1"> Species</td>
+                                <td rowspan="1" colspan="1">#</td>
+                                <td rowspan="1" colspan="1">Locality</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion mimekara</tp:taxon-name></italic> Toledano &amp; Schmidt</td>
+                                <td rowspan="1" colspan="1">1366, 2448</td>
+                                <td rowspan="1" colspan="1">China: Yunnan: Gongshan County, Dulongjiang Township, Kongdan, east bank of Dulong Jiang. 1510 m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">27.87764°N, 098.33618°E</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> (Haldeman)</td>
+                                <td rowspan="1" colspan="1">1977</td>
+                                <td rowspan="1" colspan="1">USA: Arkansas: Henderson Creek at route 23, Ozark Mountains</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> (Haldeman)</td>
+                                <td rowspan="1" colspan="1">1423</td>
+                                <td rowspan="1" colspan="1">USA: Indiana: Crawford Co., English, Camp Fork Creek, 150m <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">38.3334°N, 86.4646°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> (Haldeman)</td>
+                                <td rowspan="1" colspan="1">2542</td>
+                                <td rowspan="1" colspan="1">USA: Kansas: Jefferson Co., Little Slough Ck, W of Kiowa Rd. <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">39.23355°N, 95.39497°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> (Haldeman)</td>
+                                <td rowspan="1" colspan="1">1974</td>
+                                <td rowspan="1" colspan="1">USA: Missouri: Washington Co., Big River at route 21, 245m, 37.<named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">8121°N, 90.7723°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> (Haldeman)</td>
+                                <td rowspan="1" colspan="1">1975</td>
+                                <td rowspan="1" colspan="1">USA: North Carolina: Mitchell Co., Penland, North Toe River, 744m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">35.9293°N, 82.1149°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic> (LeConte)</td>
+                                <td rowspan="1" colspan="1">2285</td>
+                                <td rowspan="1" colspan="1">USA: Pennsylvania: Perry Co., Susquehanna River 5 km N New Buffalo, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">40.4909°N, 76.9535°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> Hayward</td>
+                                <td rowspan="1" colspan="1">1689</td>
+                                <td rowspan="1" colspan="1">USA: Iowa: Webster Co., Des Moines River near Stratford, 275m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">42.3101°N, 93.9371°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> Hayward</td>
+                                <td rowspan="1" colspan="1">1997</td>
+                                <td rowspan="1" colspan="1">USA: Iowa: Webster Co., Des Moines River near Stratford, 275m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">42.3101°N, 93.9371°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> Hayward</td>
+                                <td rowspan="1" colspan="1">2540</td>
+                                <td rowspan="1" colspan="1">USA: Kansas: Jefferson Co., Little Slough Ck, W of Kiowa Rd. <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">39.23355°N, 95.39497°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> Hayward</td>
+                                <td rowspan="1" colspan="1">2543</td>
+                                <td rowspan="1" colspan="1">USA: Kansas: Jefferson Co., Little Slough Ck, W of Kiowa Rd. <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">39.23355°N, 95.39497°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, sp. n.</td>
+                                <td rowspan="1" colspan="1">1976</td>
+                                <td rowspan="1" colspan="1">USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, sp. n.</td>
+                                <td rowspan="1" colspan="1">1995</td>
+                                <td rowspan="1" colspan="1">USA: Missouri: Washington Co., Irondale, Big River, 230m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.8302°N, 90.6895°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, sp. n. </td>
+                                <td rowspan="1" colspan="1">2552*</td>
+                                <td rowspan="1" colspan="1">USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, sp. n.</td>
+                                <td rowspan="1" colspan="1">2554</td>
+                                <td rowspan="1" colspan="1">USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> Fall</td>
+                                <td rowspan="1" colspan="1">1319</td>
+                                <td rowspan="1" colspan="1">Canada: Nova Scotia: Economy River at route 2, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.3868°N, 63.8992°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> Fall</td>
+                                <td rowspan="1" colspan="1">1996</td>
+                                <td rowspan="1" colspan="1">USA: Virginia: Rockbridge Co., Maury River, Glasgow, 215m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.6329°N, 79.4431°W</named-content></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> Fall</td>
+                                <td rowspan="1" colspan="1">2553</td>
+                                <td rowspan="1" colspan="1">USA: Pennsylvania: Perry Co., Susquehanna River 5 km N New Buffalo, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">40.4909°N, 76.9535°W</named-content></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="Descriptions and identification of taxa">
+            <title>Descriptions and identification of taxa</title>
+            <sec sec-type="Subgenus Trichoplataphus Netolitzky, 1914">
+                <title>Subgenus <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> Netolitzky, 1914</title>
+                <p>The subgenus <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> of the genus <italic><tp:taxon-name>Bembidion</tp:taxon-name></italic> (<tp:taxon-name>Coleoptera</tp:taxon-name>: <tp:taxon-name>Carabidae</tp:taxon-name>: <tp:taxon-name>Trechinae</tp:taxon-name>: <tp:taxon-name>Bembidiini</tp:taxon-name>) contains 19 described species in the Palaearctic Region (<xref ref-type="bibr" rid="B16">Toledano and Schmidt 2010</xref>), and four species reported from North America (<xref ref-type="bibr" rid="B1">Bousquet and Larochelle 1993</xref>; <xref ref-type="bibr" rid="B9">Lindroth 1963</xref>; <xref ref-type="bibr" rid="B10">Lorenz 2005</xref>).</p>
+                <p>Adult specimens of the subgenus are easily separated from most other groups in North America by the irregular scattering of setiferous punctures on the abdominal sterna (<xref ref-type="bibr" rid="B9">Lindroth 1963</xref>). The only other species in North America with adults that have extra setiferous punctures on the abdominal sterna is <italic><tp:taxon-name>Bembidion hasti</tp:taxon-name></italic> Sahlberg, in which the setae are arranged in a regular, transverse row on each sternum.</p>
+                <p>Members of <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> are found on open, bare gravel bars and banks, sometimes mixed with clay or sand (<xref ref-type="fig" rid="F2">Fig. 2</xref>; <xref ref-type="bibr" rid="B8">Larochelle and Larivière 2003</xref>). Although mostly confined to running waters, they have also been collected among gravel and pebbles on banks of islands in Lake Champlain (<xref ref-type="bibr" rid="B2">Davidson 1978</xref>). These beetles are macropterous and have been found to fly to light (<xref ref-type="bibr" rid="B8">Larochelle and Larivière 2003</xref>).</p>
+                <p>The North American species of <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> are:</p>
+                <p><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> sp. n.</p>
+                <p><italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> Fall, 1922</p>
+                <p><italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> Hayward, 1897</p>
+                <p><italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic> (LeConte, 1848)</p>
+                <p><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> (Haldeman, 1843)</p>
+            </sec>
+            <sec sec-type="Identification of Species Using Morphological Data">
+                <title>Identification of Species Using Morphological Data</title>
+                <p>Species of this subgenus are very difficult to tell apart using morphological features, as the known differences are very subtle. Future morphological studies may reveal better characters to separate them. In the meantime, the key we present below (a modified version of couplets 77 through 80 in <xref ref-type="bibr" rid="B9">Lindroth 1963</xref>) should help in identifying speci<!--PageBreak--><!--PageBreak-->mens to species. The reader is strongly encouraged to read carefully the descriptions in <xref ref-type="bibr" rid="B9">Lindroth (1963)</xref> and this paper; sometimes species can be separated on a suite of characters that in aggregate are more useful than in isolation. In the following key, “fig.” refers to figures from <xref ref-type="bibr" rid="B9">Lindroth (1963)</xref>; “Fig.” refers to figures in this paper.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p> Type locality of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, the Current River at Van Buren (USA: Missouri: Carter County).</p></caption>
+                    <graphic xlink:href="ZooKeys-147-261-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">77</td>
+                                <td rowspan="1" colspan="1">Mentum with epilobes of normal size for a <italic><tp:taxon-name>Bembidion</tp:taxon-name></italic>, projected notably anteriad of the mentum tooth (<xref ref-type="fig" rid="F3">Fig. 3A</xref>)</td>
+                                <td rowspan="1" colspan="1">77a</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Mentum with epilobes much reduced, projected about as far anteriad as the mentum tooth, and with a prominent concavity on the lateral side of each epilobe (<xref ref-type="fig" rid="F3">Fig. 3B</xref>)</td>
+                                <td rowspan="1" colspan="1">78</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">77a</td>
+                                <td rowspan="1" colspan="1">From the Ozark Plateau of Missouri and Arkansas; aedeagus with tip relatively blunt, and not sharply bent downward (<xref ref-type="fig" rid="F4">Fig. 4A and 4B</xref>)</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">From east of the Mississippi River; aedeagus with tip more narrowly pointed, abruptly bent downward (<xref ref-type="fig" rid="F4">Fig. 4C and 4D</xref>)</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">78</td>
+                                <td rowspan="1" colspan="1">Prothorax strongly constricted at base (<xref ref-type="bibr" rid="B9">Lindroth 1963</xref>, fig. 144); although constricted, parallel-sided base of prothorax very short. Elytra quite flat at apex</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic><!--PageBreak--></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Prothorax less constricted. Elytra slightly sloping at extreme tip. </td>
+                                <td rowspan="1" colspan="1">79</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">79</td>
+                                <td rowspan="1" colspan="1">6th elytral stria hardly weaker than 5th behind shoulder but obliterated towards apex. Frontal furrows prolonged and strongly diverged behind posterior supra-orbital punctures</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">6th elytral stria much weaker than 5th, often obliterated throughout. Frontal furrows ended just behind posterior supra-orbital puncture and little diverged</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p> Menta of <italic><tp:taxon-name>Bembidion (Trichoplataphus)</tp:taxon-name></italic>. Scale bar is 0.1 mm. Features other than the menta have been digitally faded <bold>A</bold> <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content> <bold>B</bold> <italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic>, USA: Iowa: Webster Co., Des Moines River near Stratford, 275m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">42.3101°N, 93.9371°W</named-content>, voucher DNA1689.</p></caption>
+                    <graphic xlink:href="ZooKeys-147-261-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bembidion</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">ozarkense</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:042B6160-C581-4028-BC44-421C1448C831</object-id>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bembidion_ozarkense</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Maddison &amp; Hildebrandt</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F3">Fig. 3A</xref>
+                        <xref ref-type="fig" rid="F4">4A, 4B</xref>
+                        <xref ref-type="fig" rid="F5">5A</xref>
+                        <xref ref-type="fig" rid="F6">6</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Holotype">
+                        <title>Holotype.</title>
+                        <p> Male (in OSAC), here designated, labeled “USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content>, 24.iv.2005. DRM 05.015. D.R. Maddison” / “David R. Maddison DNA2552 DNA Voucher” [pale green paper] / “HOLOTYPE <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> Maddison &amp; Hildebrandt” [red paper]”. Genitalia in glycerine vial with specimen; extracted DNA stored separately. GenBank accession numbers for DNA sequences of the holotype are JF800056 (28S) and JF800065 (COI).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Paratypes">
+                        <title>Paratypes.</title>
+                        <p> 221 specimens as follows: USA: <bold>Missouri</bold>: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content> (88 specimens); Carter Co., Current River at Van Buren, 135m, 36.<named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">9924°N, 91.0167°W</named-content> (3); Carter Co., Current River at Van Buren, 135m, 36.<named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">9911°N, 91.0133°W</named-content> (3); Maries Co., Maries River near Argyle, 200m, 38.<named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">2700°N, 92.0007°W</named-content> (10); Reynolds Co., Clark National Forest. Sutton’s Bluff Campground (6); Washington Co., Irondale, Big River, 230m. <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.8302°N, 90.6895°W</named-content> (16); Washington Co., Big River at route 21, 245m. <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.8121°N, 90.7723°W</named-content> (4); Washington Co., Big River at route 21, 245m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.8132°N, 90.7734°W</named-content> (1); <bold>Arkansas</bold>: Crawford Co., Lee Creek (1); Marion Co., Buffalo Point St.Pk. (42); Searcy Co., 5 mi. W. Big Flat. Big Creek (47). Male genitalia have been examined from at least one specimen from each paratype locality.</p>
+                        <p>Paratypes of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> have been deposited in the CMNH, DAHC, OSAC and TAMU, and in the collections of The Natural History Museum, London (BMNH), the California Academy of Sciences (CAS), the Field Museum of Natural History (FMNH), the Museum of Comparative Zoology (MCZ), Muséum National d’Histoire Naturelle in Paris (MNHN), the University of Arizona (UAIC), the University of Alberta Strickland Museum (UASM), and the National Museum of Natural History, Smithsonian Institution (USNM).</p>
+                        <p>Eighty-two specimens examined but not designated as paratypes are: USA: <bold>Missouri</bold> : Pulaski Co., Devil’s Elbow. Big Piney River. 10km E. Waynesville. 734 ft. 37 50 <!--PageBreak-->52.4 N 92 03 42.0 W (2); <bold>Arkansas</bold>: Marion Co., Buffalo Point S.P. (15); Searcy Co., 5.3 mi. W. Big Flat. Big Creek. (65). The Missouri specimens are omitted from the paratype series as there are no males whose genitalia could be examined; the Arkansas specimens are omitted as they are slightly damaged.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Type locality">
+                        <title>Type locality.</title>
+                        <p> USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content>. At the type locality (<xref ref-type="fig" rid="F2">Fig. 2</xref>), adults of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> were co<!--PageBreak--><!--PageBreak-->mmon on 24 April 2005; specimens occurred in company with <italic><tp:taxon-name>Bembidion (Trichoplataphus) planum</tp:taxon-name></italic>, <italic><tp:taxon-name>Bembidion (Pseudoperyphus) antiquum</tp:taxon-name></italic> Dejean, and <italic><tp:taxon-name>Bembidion (Pseudoperyphus) chalceum</tp:taxon-name></italic> Dejean.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Derivation of specific epithet">
+                        <title>Derivation of specific epithet.</title>
+                        <p> Derived from the Ozark Plateau of Missouri and Arkansas, which encompasses the known range of this species.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p> <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> males can be recognized among North American <italic><tp:taxon-name>Trichoplataphus</tp:taxon-name></italic> by the combination of epilobes of the mentum of normal size for a <italic><tp:taxon-name>Bembidion</tp:taxon-name></italic> (<xref ref-type="fig" rid="F3">Fig. 3A</xref>), and aedeagus with the tip relatively thick and not abruptly bent downward (<xref ref-type="fig" rid="F4">Fig. 4A and 4B</xref>).</p>
+                        <p>This species is markedly similar to <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> in external form (<xref ref-type="fig" rid="F5">Fig. 5</xref>), sharing with it normal mentum epilobes; narrow, flat body, with long antennae; the pronotal base notably constricted, hind angles right, with the lateral margins in front of the hind angle parallel and straight. We have not yet found any reliable external characters to separate the two species, although there are some traits by which they tend to differ. Specimens of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> tend to be slightly smaller (average SBL of males is 4.4 mm, of females 4.7 mm) than those of <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> (4.6 and 4.8 mm, respectively), but there is a broad range of overlap, as adults of both species range in length from 4.2 to 5.1 mm. <!--PageBreak--><italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> tends to be darker than <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>, with less-rufous elytra, and with the posterior medial portion of the dorsal surface of the head darker, rarely with the rufous region of many <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>; the second antennomere of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> is often infuscated centrally, whereas it is usually entirely pale rufous in <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>. However, while these tendencies are noticeable in larger series, there is enough overlap between species that they are of marginal use when comparing individual specimens.</p>
+                        <p>The only morphological characteristic that we have found to reliably distinguish the two species is in the male aedeagus: the tip of <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> is thin, and abruptly bent downward (<xref ref-type="fig" rid="F4">Fig. 4C and 4D</xref>; n=8), traits not found in <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> (<xref ref-type="fig" rid="F4">Fig. 4A and 4B</xref>; n=30). DNA sequence data can also be definitively used to identify the species; either COI or 28S rDNA will suffice.</p>
+                        <p>However, the known distribution ranges are distinctly separate, and can be used in the absence of male genitalia or DNA sequences to identify specimens.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Geographic distribution">
+                        <title>Geographic distribution.</title>
+                        <p> The known specimens of this species are from the Ozark Plateau of Missouri and Arkansas (<xref ref-type="fig" rid="F6">Fig. 6</xref>).<!--PageBreak--></p>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Figure 4.</label>
+                            <caption><p> Aedeagus of male <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> and <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>. Scale bar is 0.1 mm <bold>A</bold> <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, USA: Missouri: Carter Co., Current River at Van Buren, 135m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">36.9904°N, 91.0100°W</named-content> Voucher DNA1976 <bold>B</bold> <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, USA: Missouri: Washington Co., Irondale, Big River, 230m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.8302°N, 90.6895°W</named-content>, Voucher DNA1995 <bold>C</bold> <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>, USA: Virginia: Rockbridge Co., Maury River, Glasgow, 215m, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.6329°N, 79.4431°W</named-content>, Voucher DNA1996 <bold>D</bold> <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>, Canada: Nova Scotia: Economy River at route 2, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.3868°N, 63.8992°W</named-content>, Voucher DNA1319.</p></caption>
+                            <graphic xlink:href="ZooKeys-147-261-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F5" position="float" orientation="portrait">
+                            <label>Figure 5.</label>
+                            <caption><p> Habitus photographs. Specimens at same scale; scale bar is 1.0 mm <bold>A</bold> <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>, USA: Missouri: Carter Co., Current River at Van Buren, voucher DRMV100311 <bold>B</bold> <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic>, USA: Virginia: Rockbridge Co., Maury River at Glasgow, voucher DRMV100193.</p></caption>
+                            <graphic xlink:href="ZooKeys-147-261-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F6" position="float" orientation="portrait">
+                            <label>Figure 6.</label>
+                            <caption><p> Map of the Ozark Plateau and surrounding regions showing the known distribution of <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>. Topographic image modified from NASA/JPL, <ext-link ext-link-type="uri" xlink:href="http://photojournal.jpl.nasa.gov/catalog/pia03377" xlink:type="simple">http://photojournal.jpl.nasa.gov/catalog/pia03377</ext-link></p></caption>
+                            <graphic xlink:href="ZooKeys-147-261-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bembidion</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">rolandi</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bembidion_rolandi</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Fall, 1922</tp:taxon-authority>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p> As discussed above, specimens of this species cannot be separated from <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> using external characteristics, although they can be distinguished by male genitalia; see the diagnosis under <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic> for details.</p>
+                        <p>Geographic distribution. Currently recorded from <bold>Canada</bold>: NB, NS, ON, QC; <bold>USA</bold>: DC, MA, MD, ME, NJ, NY, OH, PA, VA, VT, WV (<xref ref-type="bibr" rid="B1">Bousquet and Larochelle 1993</xref> and R. Davidson, pers. comm.).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bembidion</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">grandiceps</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bembidion_grandiceps</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Hayward, 1897</tp:taxon-authority>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p> Most specimens can be separated from <italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic> and <italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> by a combination of: broad head and pronotum; prothorax markedly constricted at base with the lateral margins just in front of the hind angle parallel, although this parallel region is much shorter than in <italic><tp:taxon-name>Bembidion rolandi</tp:taxon-name></italic> or <italic><tp:taxon-name>Bembidion ozarkense</tp:taxon-name></italic>; elytra quite flat at apex; and broad, markedly delimited frontal furrows that are clearly diverging between eyes and extended beyond the posterior supraorbital puncture.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Geographic distribution">
+                        <title>Geographic distribution.</title>
+                        <p> We have seen specimens from <bold>USA</bold>: TX, KS, IA. Reports from the literature (<xref ref-type="bibr" rid="B5">Hayward 1897</xref>) of the presence of <italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> in <bold>USA</bold>: DC, MA, NJ, NY, and PA are likely incorrect, and may be based on <italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic>.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bembidion</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">fugax</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bembidion_fugax</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(LeConte, 1848)</tp:taxon-authority>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Junior synonyms">
+                        <title>Junior synonyms.</title>
+                        <p><italic><tp:taxon-name>Octhedromus planipennis</tp:taxon-name></italic> LeConte, 1850; <italic><tp:taxon-name>Bembidion champlaini</tp:taxon-name></italic> Casey, 1918.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p> Most specimens can be separated from <italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> using the characters listed for that species. Also, specimens of <italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic> have a more narrow head and pronotum and the elytral apex slopes slightly.</p>
+                        <p>This species can be separated from <italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> by the 6<sup>th</sup> elytral stria being as, or nearly as, impressed behind the shoulder as the 5<sup>th</sup>, and the frontal furrows are prolonged and markedly diverging behind the posterior supra-orbital puncture. In addition, <italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic> has deeper furrows with steeper sides, more polished especially at the bottom, and more sharply etched at the bottom, with the raised area between the eye and the frontal furrow being more bulbous, and shinier; <italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> has broad, shallow furrows, sides gently sloped, more microsculpture on the slopes and especially bottoms, not sharply etched at the bottom, and with the raised area between the eye and the frontal furrow being flatter and not as shiny. Specimens tend to be darker and slightly larger than those of <italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> and in most specimens the pronotal microsculpture is weakly impressed and obsolete on the disk.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Geographic distribution">
+                        <title>Geographic distribution.</title>
+                        <p>Recorded from <bold>USA</bold>: DC, IL, IN, MA, MD, NJ, NY, OH, PA, TN, VA, VT (<xref ref-type="bibr" rid="B1">Bousquet and Larochelle 1993</xref> and R. Davidson, pers. comm.).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bembidion</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">planum</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bembidion_planum</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Haldeman, 1843)</tp:taxon-authority>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Junior synonyms">
+                        <title>Junior synonyms.</title>
+                        <p><italic><tp:taxon-name>Bembidium guexii</tp:taxon-name></italic> Chaudoir, 1868: 242; <italic><tp:taxon-name>Bembidion vulsum</tp:taxon-name></italic> Casey, 1918: 55; <italic><tp:taxon-name>Bembidion filicorne</tp:taxon-name></italic> Casey, 1918: 56.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p> Most specimens of this species can be separated from <italic><tp:taxon-name>Bembidion grandiceps</tp:taxon-name></italic> using the characters listed for that species. Also, specimens of <italic><tp:taxon-name>Bembidion planum</tp:taxon-name></italic> have a narrower head and pronotum and the elytral apex slopes slightly.</p>
+                        <p>Most specimens of this species can be separated from <italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic> by the more weakly impressed 6<sup>th</sup> compared with 5<sup>th</sup> elytral stria, and the frontal furrows end just behind the posterior supra-orbital puncture and are little divergent. Specimens tend to be paler and slightly smaller than those of <italic><tp:taxon-name>Bembidion fugax</tp:taxon-name></italic>, and in most specimens have strongly-impressed microsculpture over the entire pronotum.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Geographic distribution">
+                        <title>Geographic distribution.</title>
+                        <p>Recorded from <bold>Canada</bold>: NB, NS, ON, QC; <bold>USA</bold>: AR, CT, DC, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV (<xref ref-type="bibr" rid="B1">Bousquet and Larochelle 1993</xref> and Maddison, unpublished).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank the curators for the collections from which we borrowed specimens.</p>
+            <p>We owe special thanks to Robert Davidson (CMNH) for sharing his particular knowledge of the habitats and habits of this group, for informing of us of some characters that help separate <italic>B. fugax</italic> and <italic>B. planum</italic>, and for providing a thoughtful review of the manuscript.</p>
+            <p>We also thank the following for collecting specimens of <italic>Trichoplataphus</italic> for our DNA studies: Kojun Kanda, Taro Eldridge, and Zach Falin (<italic>B. grandiceps</italic> from Kansas); Monica Hughes (<italic>B. planum</italic> from Arkansas); David Kavanaugh (<italic>B. mimekara</italic> fromChina). Thanks as well to A.E. Arnold for help in collecting at numerous other localities.</p>
+            <p>This project was enabled by funds generously provided by the University of Arizona, and the Harold E. and Leona M. Rice Endowment Fund at Oregon State University.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bousquet</surname><given-names>Y</given-names></name><name name-style="western"><surname>Larochelle</surname><given-names>A</given-names></name></person-group> (<year>1993</year>)<article-title> Catalogue of the Geadephaga (Coleoptera: Trachypachidae, Rhysodidae, Carabidae including Cicindelini) of America north of Mexico.</article-title> <source>Memoirs of the Entomological Society of Canada </source> <volume>167</volume>: <fpage>1</fpage>-<lpage>397</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/entm125167fv" xlink:type="simple">doi: 10.4039/entm125167fv</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Davidson</surname><given-names>RL</given-names></name></person-group> (<year>1978</year>)<article-title> <italic>Bembidion rolandi</italic> Fall (Coleoptera: Carabidae) in Vermont, with a note on its habitat and behaviour.</article-title> <source>Cordulia </source> <volume>4</volume>: <fpage>93</fpage>-<lpage>94</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Green</surname><given-names>P</given-names></name></person-group> (<year>1999</year>)<source> Phrap. Version 0.990329. [<ext-link ext-link-type="uri" xlink:href="http://phrap.org" xlink:type="simple">http://phrap.org</ext-link>]</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Green</surname><given-names>P</given-names></name><name name-style="western"><surname>Ewing</surname><given-names>B</given-names></name></person-group> (<year>2002</year>)<source> Phred. Version 0.020425c. [<ext-link ext-link-type="uri" xlink:href="http://phrap.org" xlink:type="simple">http://phrap.org</ext-link>]</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hayward</surname><given-names>RT</given-names></name></person-group> (<year>1897</year>)<article-title> On the species of <italic>Bembidium</italic> of America North of Mexico.</article-title> <source>Transactions of the American Entomological Society </source> <volume>24</volume>: <fpage>32</fpage>-<lpage>143</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hebert</surname><given-names>PDN</given-names></name><name name-style="western"><surname>Cywinska</surname><given-names>A</given-names></name><name name-style="western"><surname>Ball</surname><given-names>SL</given-names></name><name name-style="western"><surname>DeWaard</surname><given-names>JR</given-names></name></person-group> (<year>2003</year>)<article-title> Biological identifications through DNA barcodes.</article-title> <source>Proceedings of the Royal Society of London Series B-Biological Sciences </source> <volume>270</volume>: <fpage>313</fpage>-<lpage>321</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2002.2218" xlink:type="simple">doi: 10.1098/rspb.2002.2218</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kavanaugh</surname><given-names>DH</given-names></name></person-group> (<year>1979</year>)<article-title> Studies of the Nebriini (Coleoptera: Carabidae), III. New Nearctic <italic>Nebria</italic> species and subspecies, nomenclatural notes, and lectotype designations.</article-title> <source>Proceedings of the California Academy of Sciences </source> <volume>42</volume>: <fpage>87</fpage>-<lpage>133</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Larochelle</surname><given-names>A</given-names></name><name name-style="western"><surname>Larivière</surname><given-names>M-C</given-names></name></person-group> (<year>2003</year>)<source> A natural history of the ground-beetles (Coleoptera: Carabidae) of America north of Mexico.</source> <publisher-name>Pensoft</publisher-name>, <publisher-loc>Sofia &amp; Moscow</publisher-loc>, <lpage>583</lpage> pp.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindroth</surname><given-names>CH</given-names></name></person-group> (<year>1963</year>)<source> The ground-beetles (Carabidae, excl. Cicindelinae) of Canada and Alaska. Part 3. Opuscula Entomologica Supplementum XXIV: 201–408.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lorenz</surname><given-names>W</given-names></name></person-group> (<year>2005</year>)<source> Systematic list of extant ground beetles of the world (Insecta Coleoptera “Geadephaga”: Trachypachidae and Carabidae incl. Paussinae, Cicindelinae, Rhysodinae). Second edition. Published by the author, Hörmannstrasse 4, D-82327 Tutzing,  530 pp.</source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name></person-group> (<year>1993</year>)<article-title> Systematics of the Holarctic beetle subgenus <italic>Bracteon</italic> and related <italic>Bembidion</italic> (Coleoptera: Carabidae).</article-title> <source>Bulletin of the Museum of Comparative Zoology </source> <volume>153</volume>: <fpage>143</fpage>-<lpage>299</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name></person-group> (<year>2008</year>)<article-title> Systematics of the North American beetle subgenus <italic>Pseudoperyphus</italic> (Coleoptera: Carabidae: <italic>Bembidion</italic>) based upon morphological, chromosomal, and molecular data.</article-title> <source>Annals of Carnegie Museum </source> <volume>77</volume>: <fpage>147</fpage>-<lpage>193</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2992/0097-4463-77.1.147" xlink:type="simple">doi: 10.2992/0097-4463-77.1.147</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name><name name-style="western"><surname>Maddison</surname><given-names>WP</given-names></name></person-group> (<year>2009a</year>)<source> Chromoseq: a Mesquite module for analyzing sequence chromatograms. Version 0.97. [<ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org/packages/chromaseq" xlink:type="simple">http://mesquiteproject.org/packages/chromaseq</ext-link>]</source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>WP</given-names></name><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name></person-group> (<year>2009b</year>)<source> Mesquite: a modular system for evolutionary analysis. Version 2.71. [<ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org" xlink:type="simple">http://mesquiteproject.org</ext-link>]</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname><given-names>D</given-names></name></person-group> (<year>2005</year>)<source> Modeltest: A tool to select the best-fit model of nucleotide substitution. Version 3.7. [<ext-link ext-link-type="uri" xlink:href="http://darwin.uvigo.es" xlink:type="simple">http://darwin.uvigo.es</ext-link>]</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Toledano</surname><given-names>L</given-names></name><name name-style="western"><surname>Schmidt</surname><given-names>J</given-names></name></person-group> (<year>2010</year>)<article-title> Revision of the <italic>Bembidion kara</italic> Andrewes, 1921 species group and notes on the Palaearctic species of <italic>Bembidion</italic> subgenus <italic>Trichoplataphus</italic> Netolitzky, 1914 (Coleoptera, Carabidae, Bembidiini).</article-title> <source>Entomologische Blätter für Biologie und Systematik der Käfer </source> <volume>106</volume>: <fpage>371</fpage>-<lpage>406</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zwickl</surname><given-names>DJ</given-names></name></person-group> (<year>2006</year>)<source> Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion. PhD Dissertation, Austin, Texas: The University of Texas at Austin.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

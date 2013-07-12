@@ -1,0 +1,535 @@
+﻿    <!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+        <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.269.4003</article-id>
+            <title-group>
+                <article-title>A new species of 
+                    <italic>Nicon</italic> Kinberg, 1866 (Polychaeta, Nereididae) from Ecuador, Eastern Pacific, with a key to all known species of the genus
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>León-González</surname>
+                        <given-names>Jesús Angel de</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:F347D71F-DDEA-4105-953F-4FE71A5D6809</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Trovant</surname>
+                        <given-names>Berenice</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:C9AB5469-9F6E-4F75-9C00-A3C919119900</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Universidad Autónoma de Nuevo León, Facultad de Ciencias Biológicas, Ap. Postal 5, Suc. “F”, San Nicolás de los Garza, Nuevo León, 66451, México
+            </aff>
+            <aff id="A2">
+                <label>2</label>Centro Nacional Patagónico (CONICET), Boulevard Brown 2915, U9120ACF Puerto Madryn, Chubut, Argentina
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Jesús Angel de León-González (<email xlink:type="simple">jesus.deleongn@uanl.edu.mx</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: C. Glasby</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>18</day>
+                <month>2</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>269</issue>
+            <fpage>67</fpage>
+            <lpage>76</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>9</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>14</day>
+                    <month>1</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Jesús Angel de León-González, Berenice Trovant</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:DB15484A-C844-4325-A969-65E4884EDD02</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new species of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> Kinberg, 1866 from the east Pacific coast of Ecuador is described. The new species is characterized by a long, thin dorsal ligule on median and posterior parapodia and infracicular sesquigomph falcigers in the neuropodia. A key to all species of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> is provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Annelida</kwd>
+                <kwd>polychaetes</kwd>
+                <kwd>Nereididae</kwd>
+                <kwd>intertidal</kwd>
+                <kwd>Ecuador</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>systematics</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Ecuador possesses a great variety of coastal environments resulting in a high diversity of marine species; however, taxonomic studies on marine invertebrates are few, especially in the case of the polychaetes. In Ecuador (excluding the Galapagos), only 29 families, 53 genera and 75 species of polychaetes have been recorded. <xref ref-type="bibr" rid="B6">Hartman (1939)</xref> was the first to report on the polychaetes from Ecuador and described four new species and ten new records from Puna and Santa Clara Islands (Guayas Province). Later, <xref ref-type="bibr" rid="B3">Cruz et al. (1980)</xref> provided four new records from benthic samples collected on the Estero Salado, Guayaquil Gulf. In the same Gulf, 29 species of polychaetes were identified by <xref ref-type="bibr" rid="B12">Villamar (1983)</xref>. <xref ref-type="bibr" rid="B13">Villamar (1989)</xref> later reported marine species at Canal del Morro and Jambeli in the Guayaquil Gulf. <xref ref-type="bibr" rid="B15">Villamar and Cruz (2007)</xref> reported three taxa for Ecuador from the intertidal zone of Monteverde (Guayas Province). A new species of <italic><tp:taxon-name>Australonuphis</tp:taxon-name></italic>, used as fishing bait, was described by <xref ref-type="bibr" rid="B5">de León-González et al. (2008)</xref> in Santa Elena Bay (Guayas Province). In northern Ecuador very little is known about the polychaete fauna and only one ecological study has been carried out by <xref ref-type="bibr" rid="B14">Villamar (2006)</xref> in the intertidal zones of Manabi and Esmeraldas Provinces. In that paper he reported 27 species, of which 14 constituted new records for Ecuador. More recently, <xref ref-type="bibr" rid="B11">Trovant et al. (2012)</xref> reported 12 new species records in the Bunche and Cabo San Francisco intertidal sandy beaches of northern Ecuador (Esmeraldas Province).</p>
+            <p>The importance of the family <tp:taxon-name>Nereididae</tp:taxon-name> is manifested by their high diversity and abundance in all marine substrates, occurring in all oceans from the supralittoral to the abyssal zone. This family includes 44 genera and approximately 460 valid species (de León-González, 2009). <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> is one of the least species rich genera of <tp:taxon-name>Nereididae</tp:taxon-name>. The genus was first described by <xref ref-type="bibr" rid="B9">Kinberg, (1866)</xref> for six species, <italic><tp:taxon-name>Nicon pictus</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon tahitianus</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon eugeniae</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon loxechini</tp:taxon-name></italic> and <italic><tp:taxon-name>Nicon virgini</tp:taxon-name></italic>, none of which were figured. In this paper, a new species of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> is described. It is characterized by having an elongate notopodial dorsal ligule, resembling a long cirrus on median and posterior parapodia, as well by the presence of sesquigomph falcigers in the neuropodia.</p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>Samples were collected in March 2009 (dry season) in the intertidal zone of two sandy beaches located in the Esmeraldas Province, northern Ecuador (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Bunche beach (<named-content content-type="dwc:verbatimCoordinates">0°37'55"N, 80°02'14"W</named-content>) is a protected area characterized as a low energy beach, with soft sloping banks and very fine particle sand, and Cabo San Francisco beach (<named-content content-type="dwc:verbatimCoordinates">0°39'11"N, 80°04'10"W</named-content>) is characterized as a high energy environment, subjected to frequent and severe storms, with high slopes. Fresh-water discharges affect both beaches. Sediment samples were sieved through a 1mm mesh. Specimens were fixed in 10% formalin and later preserved in 70% ethanol. Terminology of parapodial structures was taken from <xref ref-type="bibr" rid="B1">Bakken and Wilson (2005)</xref>. Type material has been deposited in the Natural History Museum of Los Angeles County, Allan Hancock Foundation Polychaete Collection (LACM-AHF), and the Polychaetological Collection of the Universidad Autónoma de Nuevo León (UANL).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Map of Ecuador indicating the sampling sites, Bunche and Cabo San Francisco Beaches.</p></caption>
+                <graphic xlink:href="ZooKeys-269-069-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Systematics">
+                <title>Systematics. Class <tp:taxon-name>Polychaeta</tp:taxon-name> Grube, 1850. Order <tp:taxon-name>Phyllodocida</tp:taxon-name> Örsted, 1843. Family <tp:taxon-name>Nereididae</tp:taxon-name> Lamarck, 1818</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Nicon</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Nicon</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Kinberg, 1866</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">emended</tp:taxon-status>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type species">
+                        <title>Type species.</title>
+                        <p><italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic> Kinberg, 1866.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p>Prostomium pyriform to subpyriform, with two pairs of eyespots, paired frontal antennae and biarticulate palps. Four pairs of tentacular cirri with distinct cirrophores, smooth or articulated. Parapodia of first two chaetigers subbiramous, notopodium represented by a single ligule with dorsal cirri at its base. Subsequent notopodia with dorsal and ventral ligules with or without a small notopodial prechaetal lobe decreasing in far posterior parapodia. Neuropodia with superior and inferior prechaetal lobes, digitiform or conical postchaetal lobe present or absent along body, and a ventral ligule which can be reduced in posterior parapodia; ventral cirri short, tapered. All notochaetae homogomph spinigers; neurochaetae homogomph, heterogomph or sesquigomph falcigers, may be accompanied by homogomph and heterogomph spinigers, and simple chaetae. Pygidium with paired anal cirri. Pharynx with paired mandibles, without paragnaths or papillae.</p>
+                        <!--PageBreak-->
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Remarks">
+                        <title>Remarks.</title>
+                        <p>This generic diagnosis was modified from <xref ref-type="bibr" rid="B10">Pettibone (1971)</xref>, <xref ref-type="bibr" rid="B16">Wu and Sun (1979)</xref> and <xref ref-type="bibr" rid="B8">Hutchings and Reid (1990)</xref>. Some important characteristics were not included by <xref ref-type="bibr" rid="B10">Pettibone (1971)</xref> because at that time she recognized <italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic> as the only member of the genus. Later on, <xref ref-type="bibr" rid="B16">Wu and Sun (1979)</xref> and <xref ref-type="bibr" rid="B8">Hutchings and Reid (1990)</xref> expanded the genus diagnosis including characters of recently described species such as <italic><tp:taxon-name>Nicon japonicus</tp:taxon-name></italic> Imajima, 1972, <italic><tp:taxon-name>Nicon yaguinae</tp:taxon-name></italic> Fauchald, 1972, <italic><tp:taxon-name>Nicon sinica</tp:taxon-name></italic> Wu &amp; Sun, 1979 and <italic><tp:taxon-name>Nicon rotunda</tp:taxon-name></italic> Hutchings &amp; Reid, 1990. Some new characters included in the present diagnosis are the presence-absence of a notopodial prechaetal lobe, and the occurrence of neuropodial sesquigomph falcigers.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Nicon</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">orensanzi</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:149CDBF9-ACD0-4D7E-8407-BD8ADF3955C6</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Nicon_orensanzi</object-id>
+								</tp:taxon-name>
+								<tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F2">Figures 2</xref>
+                        <xref ref-type="fig" rid="F3">, 3</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p>Holotype (LACM-AHF 4999), Paratype (LACM-AHF 5000) and Paratype (UANL 7840) collected at Bunche beach (<named-content content-type="dwc:verbatimCoordinates">0°39'01.98"N, 80°03'55.01"W</named-content>), Esmeraldas Province, Ecuador, March 21 2009, coll. Berenice Trovant and Santiago Tineo. Additional material: seven anterior fragments, same data as holotype; two complete specimens and three anterior fragments, Cabo San Francisco beach (<named-content content-type="dwc:verbatimCoordinates">0°38'16.35"N, 80°3'14.07"W</named-content>), Esmeraldas Province, Ecuador, March 20 2009, coll. Berenice Trovant and Santiago Tineo.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description">
+                        <title>Description.</title>
+                        <p>Holotype incomplete posteriorly, with 85 chaetigers, 19mm long, 1.4mm wide. Prostomium pyriform, with frontal cleft extending to middle of prostomium. Two pairs of eyespots in trapezoidal arrangement, anterior pair slightly larger, with lenses. Pair of small cirriform antennae extending slightly beyond palps. Palps biarticulate, globose, with subspherical palpostyles. Peristomium longer than next segment, with four pairs of short tentacular cirri, longest reaching chaetiger two (<xref ref-type="fig" rid="F2">Figs 2A</xref>, <xref ref-type="fig" rid="F3">3A</xref>). Pharynx lacking papillae or paragnaths, armed with pair of toothed mandibles (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). Anterior notopodia with short cirriform dorsal cirri, subtriangular dorsal ligule, and subulate notopodial ventral ligule. Small triangular prechaetal lobe, restricted to limited number of anterior chaetigers, reducing in size posteriorly, last present about chaetigers 28-30. Anterior neuropodia with superior and inferior lobe, subulate ventral ligule, ventral cirrus with inflated base (<xref ref-type="fig" rid="F2">Figs 2B</xref>, <xref ref-type="fig" rid="F3">3C</xref>), postchaetal neuropodial lobe subulate, present in first 18 chaetigers, not visible in anterior view. Median and posterior notopodia with dorsal ligule long cirrus-like; prechaetal lobe absent, notopodial ventral ligule triangular, decreasing in size in posterior chaetigers. Median and posterior neuropodia with superior and inferior lobes poorly defined, neuropodial postchaetal lobe absent, neuropodial ventral ligule subulate, decreasing in size in posterior chaetigers until disappearing completely, ventral cirri cirriform, shorter than dorsal one (<xref ref-type="fig" rid="F2">Figs 2C–D</xref>, <xref ref-type="fig" rid="F3">3D–E</xref>). All notochaetae homogomph spinigers, with long, thin blades. Anterior supracicular neurochaetae 6 long-bladed homogomph spinigers superiorly; 6 short-bladed <!--PageBreak-->heterogomph spinigers inferiorly. Anterior infracicular chaetae homogomph spinigers with long blade, and sesquigomph falcigers with anterior part ending in a blunt tooth (<xref ref-type="fig" rid="F2">Fig. 2E</xref>). Median and posterior supracicular neurochaetae with long-bladed homogomph spinigers. Infracicular neurochaetae with a few homogomph spinigers superiorly, and sesquigomph falcigers inferiorly, anterior end sharper (<xref ref-type="fig" rid="F2">Figs 2F–G</xref>, <xref ref-type="fig" rid="F3">3F</xref>). Pygidium lacking in holotype, with terminal anus and two thin lateral cirri on others specimens.</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figure 2.</label>
+                            <caption><p><italic><tp:taxon-name>Nicon orensanzi</tp:taxon-name></italic> sp. n. Holotype. <bold>A</bold> Anterior end, dorsal view <bold>B</bold> Parapodium 10, anterior view <bold>C</bold> Parapodium 25, anterior view <bold>D</bold> Parapodium 60, anterior view <bold>E–G</bold>. Infracicular sesquigomph falcigers of parapodia 10, 25 and 50 respectively. Scale bars: <bold>A</bold>= 1 mm; <bold>B–D</bold>= 100 µ; <bold>E–G</bold>= 30µ.</p></caption>
+                            <graphic xlink:href="ZooKeys-269-069-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figure 3.</label>
+                            <caption><p><italic><tp:taxon-name>Nicon orensanzi</tp:taxon-name></italic> sp. n. Paratype (UANL 7840). <bold>A</bold> Anterior end, dorsal view <bold>B</bold> Mandibles; Holotype (LACM) <bold>C</bold> Parapodium 9, anterior view <bold>D</bold> Parapodium 29, anterior view <bold>E</bold> Parapodium 62, anterior view <bold>F</bold> Infracicular sesquigomph falcigers of parapodium 62. Scale bars: <bold>A</bold>= 1 mm; <bold>B</bold>= 0.1 mm; <bold>C–E</bold>= 100 µ; <bold>F</bold>= 30µ.</p></caption>
+                            <graphic xlink:href="ZooKeys-269-069-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Type locality">
+                        <title>Type locality.</title>
+                        <p>Bunche beach, Esmeraldas Province, Ecuador</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution.</title>
+                        <p>This species is only known from Bunche and Cabo San Francisco beaches, Esmeraldas Province, Ecuador.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Discussion">
+                        <title>Discussion.</title>
+                        <p>Of the six species originally included in the genus <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B9">Kinberg (1866)</xref> two have been transferred to other genera (<italic><tp:taxon-name>Nicon eugeniae</tp:taxon-name></italic>, currently <italic><tp:taxon-name>Nereis eugeniae</tp:taxon-name></italic> from Strait of Magellan and <italic><tp:taxon-name>Nicon loxochini</tp:taxon-name></italic>, currently <italic><tp:taxon-name>Platynereis magalhensis</tp:taxon-name></italic> from Strait of Magellan) and three species are considered indeterminable due to their incomplete descriptions and the poor condition of the available syntypes (<italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic><!--PageBreak--> from La Plata, Argentina, <italic><tp:taxon-name>Nicon pictus</tp:taxon-name></italic> from Brazil, <italic><tp:taxon-name>Nicon tahitianus</tp:taxon-name></italic> from Tahiti, and <italic><tp:taxon-name>Nicon virgini</tp:taxon-name></italic> from Strait of Magellan) (Pettibone, 1971). Of these species, only <italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic> is considered valid at the present time. No type species was designated by Kinberg. <xref ref-type="bibr" rid="B7">Hartman (1949)</xref> designated <italic><tp:taxon-name>Nicon pictus</tp:taxon-name></italic> as the type species, even though she did not provide a diagnosis or figures. <xref ref-type="bibr" rid="B10">Pettibone (1971)</xref> later revised the genus and designated <italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic> as the type species. Currently this genus consists of ten species: <italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic> Kinberg, 1866 from La Plata, Argentina, <italic><tp:taxon-name>Nicon moniloceras</tp:taxon-name></italic> (Hartman, 1940) from Catalina Island, USA, <italic><tp:taxon-name>Nicon aestuarensis</tp:taxon-name></italic> Knox, 1951 from New Zealand, <italic><tp:taxon-name>Nicon polaris</tp:taxon-name></italic> Hartman, 1967 from the Antarctic peninsula, <italic><tp:taxon-name>Nicon abyssalis</tp:taxon-name></italic> Hartman, 1967 <!--PageBreak-->from the Antarctic peninsula, <italic><tp:taxon-name>Nicon japonicus</tp:taxon-name></italic> Imajima, 1972 from Japan, <italic><tp:taxon-name>Nicon yaquinae</tp:taxon-name></italic> Fauchald, 1977 from off the Oregon coast, USA, <italic><tp:taxon-name>Nicon sinica</tp:taxon-name></italic> Wu &amp; Sun, 1979 from the Yellow Sea, <italic><tp:taxon-name>Nicon rotunda</tp:taxon-name></italic> Hutchings &amp; Reid, 1990 from Australia, and <italic><tp:taxon-name>Nicon pettibonae</tp:taxon-name></italic> de León-González &amp; Salazar-Vallejo, 2003 from the Loyalty Islands, New Caledonia. <xref ref-type="bibr" rid="B10">Pettibone (1971)</xref> also considered that <italic><tp:taxon-name>Nicon abyssalis</tp:taxon-name></italic> and <italic><tp:taxon-name>Nicon polaris</tp:taxon-name></italic> had doubtful generic affinities with <italic><tp:taxon-name>Nicon</tp:taxon-name></italic>; however, we believe that <italic><tp:taxon-name>Nicon abyssalis</tp:taxon-name></italic> possesses the generic characters of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> and therefore should be included in the genus. <italic><tp:taxon-name>Nicon polaris</tp:taxon-name></italic> was described based on an epitoke; however, the possession of an expanded elytra-shaped dorsal cirrus in the chaetiger 7 makes it doubtful that it belongs to <italic><tp:taxon-name>Nicon</tp:taxon-name></italic>; a similar structure is found in <italic><tp:taxon-name>Kainonereis</tp:taxon-name></italic>, currently a genus in <italic>inquirenda</italic> described from an epitokous stage by <xref ref-type="bibr" rid="B2">Chamberlin (1919)</xref>.</p>
+                        <p>Species of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> may be separated into two groups based on the presence or absence of notopodial prechaetal lobes. Those species with a notopodial prechaetal lobe are: <italic><tp:taxon-name>Nicon aestuarensis</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon japonicus</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon polaris</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon rotunda</tp:taxon-name></italic>, and <italic><tp:taxon-name>Nicon sinica</tp:taxon-name></italic>; while <italic><tp:taxon-name>Nicon abyssalis</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon moniloceras</tp:taxon-name></italic>, <italic><tp:taxon-name>Nicon pettibonae</tp:taxon-name></italic> and <italic><tp:taxon-name>Nicon yaquinae</tp:taxon-name></italic> lack a superior notopodial lobe. Some important characteristics of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> species are listed in <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+                        <p><italic><tp:taxon-name>Nicon orensanzi</tp:taxon-name></italic> sp. n. is a member of the first group but differs in its long, thin notopodial dorsal ligule in median and posterior parapodia. <italic><tp:taxon-name>Nicon orensanzi</tp:taxon-name></italic> sp. n. and <italic><tp:taxon-name>Nicon pettibonae</tp:taxon-name></italic> are the only species in the genus with neuropodial infracicular sesquigomph falcigers in all parapodia. These two species differ in the shape of their sesquigomph falcigers, the presence of heterogomph falcigers, and a reduced dorsal ligule in the posterior parapodia of <italic><tp:taxon-name>Nicon pettibonae</tp:taxon-name></italic>.</p>
+                        <p><!--PageBreak--><bold>Etymology.</bold> The new species is dedicated to Dr. José María (Lobo) Orensanz, who has made significant contributions to the taxonomy of polychaetes and has been a mentor to the authors of this paper.</p>
+                        <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Diagnostic features of the species of <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> (modified from <xref ref-type="bibr" rid="B8">Hutchings and Reid 1990</xref>). Abbreviations: TC= chaetiger number reached by longest tentacular cirri, ho sp= homogomph spinigers, he sp= heterogomph spinigers, ho f= homogomph falcigers, he f= heterogomph falciger, sf= sesquigomph falciger, DL= dorsal ligule, PL= Prechaetal lobe, ST= Subtriangular, SU= Subulate; DI= Digitate, CI= Cirriform, CO= Conical, E= Elongated.</p></caption>
+                <table>
+                                <tbody>
+                                    <tr>
+                                        <th rowspan="3" colspan="1"><bold>Species</bold></th>
+                                        <th rowspan="1" colspan="13"><bold>Neuropodial chaetae</bold></th>
+                                    </tr>
+                                    <tr>
+                                        <th rowspan="1" colspan="6"><bold>Supracicular</bold></th>
+                                        <th rowspan="1" colspan="5"><bold>Infracicular</bold></th>
+                                        <th rowspan="1" colspan="2"><bold>Notopodia</bold></th>
+                                    </tr>
+                                    <tr>
+                                        <th rowspan="1" colspan="1"><bold>TC</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>ho sp</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>he sp</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>ho f</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>he f</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>sf</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>ho sp</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>he sp</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>ho f</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>he f</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>sf</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>DL</bold></th>
+                                        <th rowspan="1" colspan="1"><bold>PL</bold></th>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon abyssalis</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">CI</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon aestuarensis</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">5</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">ST</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon japonicus</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">ST</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">10</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">SU</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon moniloceras</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">9</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">DI</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon pettibonae</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">5</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">ST</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon polaris</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">5</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">ST</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon rotunda</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">ST</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon sinica</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">9</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">CO</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon yaguinae</tp:taxon-name></italic></td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">?</td>
+                                        <td rowspan="1" colspan="1">?</td>
+                                        <td rowspan="1" colspan="1">?</td>
+                                        <td rowspan="1" colspan="1">?</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">ST</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon orensanzi</tp:taxon-name></italic> sp. n.</td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">-</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                        <td rowspan="1" colspan="1">E</td>
+                                        <td rowspan="1" colspan="1">X</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="Key to Nicon species">
+                <title>Key to <italic><tp:taxon-name>Nicon</tp:taxon-name></italic> species</title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">Superior notopodial lobe present</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Superior notopodial lobe absent</td>
+                                <td rowspan="1" colspan="1">7</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri short, reaching chaetiger 2</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri reaching chaetiger 5</td>
+                                <td rowspan="1" colspan="1">5</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">Heterogomph falcigers present on supra- and subacicular fascicle, dorsal ligule subtriangular</td>
+                                <td rowspan="1" colspan="1">4</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Heterogomph falcigers absent, with sesquigomph falcigers in infracicular position, dorsal ligule long and thin on median and posterior parapodia</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon orensanzi</tp:taxon-name></italic> sp. n.</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">With homogomph falcigers in neuropodial subacicular position</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon rotunda</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Homogomph falcigers lacking</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon japonica</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri reaching chaetiger 5, dorsal ligule subtriangular</td>
+                                <td rowspan="1" colspan="1">6</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri reaching chaetiger 9, dorsal cirri conical</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon sinica</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">Mandibles with 6 oblique teeth, blade of falcigers short, with a terminal tooth directed downward</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon polaris</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Mandibles with up to 10 teeth; blade of falcigers longer, with blunt terminal end</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon aestuarensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri short, reaching chaetiger 2</td>
+                                <td rowspan="1" colspan="1">8</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri reaching chaetiger 5</td>
+                                <td rowspan="1" colspan="1">9</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">8</td>
+                                <td rowspan="1" colspan="1">Dorsal ligule cirriform , reduced in posterior chaetigers; falcigers with prolonged blade</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon abysssalis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Dorsal ligule subtriangular, similar in size throughout; falcigers with long, anteriorly blunt blade distinctly serrated along inner margin</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon yaquinae</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">9</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri reaching chaetiger 5; subtriangular dorsal ligule; supra and infracicular sesquigomph falcigers present</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon pettibonae</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Tentacular cirri to chaetiger 9–10</td>
+                                <td rowspan="1" colspan="1">10</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">10</td>
+                                <td rowspan="1" colspan="1">Longest pair of tentacular cirri partially annulated on distal end; falcigers with long blade, denticulate along inner margin</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon maculata</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">All tentacular cirri annulated, with cylindrical articles; falcigers with short blades, denticles on proximal inner margin</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicon moniloceras</tp:taxon-name></italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>This publication is part of a work carried out by Berenice Trovant as a requirement for obtaining a MSc degree in ‘Biodiversity in tropical areas and its conservation’ at the Uni<!--PageBreak-->versidad Internacional Menéndez Pelayo (UIMP, Spain), a Masters program funded by the Spanish National Research Council (CSIC, Spain) and carried out at the Universidad Central del Ecuador. We thank to Santiago Tineo for their help in fieldwork. Authors would also like to thank two anonymous reviewers and Chris Glasby whose comments and suggestions were much appreciated and very helpful in improving the manuscript.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bakken</surname> <given-names>T</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>RS</given-names></name></person-group> (<year>2005</year>)<article-title> Phylogeny of nereidids (Polychaeta, Nereididae) with paragnaths.</article-title> <source>Zoologica Scripta, </source> <volume>34</volume>: <fpage>507</fpage>-<lpage>547</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1463-6409.2005.00200.x">10.1111/j.1463-6409.2005.00200.x</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chamberlin</surname> <given-names>RV</given-names></name></person-group> (<year>1919</year>)<article-title>. The Annelida Polychaeta of the <italic>Albatross</italic> Tropical Pacific Expedition, 1891–1905. Mem. Mus. Comp. Zool.</article-title> <source>, Harvard University, </source> <volume>48</volume>: <fpage>1</fpage>-<lpage>514</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cruz</surname> <given-names>M</given-names></name><name name-style="western"><surname>de González</surname> <given-names>M</given-names></name><name name-style="western"><surname>Gualancañay</surname> <given-names>E</given-names></name><name name-style="western"><surname>Villamar</surname> <given-names>F</given-names></name></person-group> (<year>1980</year>)<article-title> Lista de la Fauna Sublitoral Bentónica del Estero Salado Inferior, Ecuador.</article-title> <source>Acta Oceanográfica del Pacífico </source> <volume>1</volume> (<issue>1</issue>): <fpage>82</fpage>-<lpage>96</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>de León-González</surname> <given-names>JA</given-names></name></person-group> (<year>2009</year>)<article-title> Nereididae Lamarck, 1818.</article-title> In: <person-group><name name-style="western"><surname>de León-González</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Bastida-Zavala</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Carrera-Parra</surname> <given-names>LF</given-names></name><name name-style="western"><surname>García-Garza</surname> <given-names>ME</given-names></name><name name-style="western"><surname>Peña-Rivera</surname> <given-names>A</given-names></name><name name-style="western"><surname>Salazar-Vallejo</surname> <given-names>SI and Solís-Weiss V</given-names></name></person-group> (<role>Eds</role>). <issue-title> Poliquetos (Annelida: Polychaeta) de México y América Tropical.</issue-title> <source>Universidad Autónoma de Nuevo León, Monterrey, México, </source> <volume>30</volume>: <fpage>325</fpage>–<lpage>354</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>de León-González</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Cornejo-Rodriguez</surname> <given-names>MH</given-names></name><name name-style="western"><surname>Degraer</surname> <given-names>S</given-names></name></person-group> (<year>2008</year>)<article-title> A new species of <italic>Australonuphis</italic> (Polychaeta: Onuphidae) from the eastern Pacific.</article-title> <source>Journal of the Marine Biological Association of the United Kingdom </source> <volume>88</volume>: <fpage>739</fpage>-<lpage>742</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0025315408001252">10.1017/S0025315408001252</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hartman</surname> <given-names>O</given-names></name></person-group> (<year>1939</year>)<article-title> Polychaetous Annelids. Part I. Aphroditidae to Pisionidae.</article-title> <source>Allan Hancock Pacific Expedition </source> <volume>7</volume>(<issue>1-2</issue>)): <fpage>1</fpage>-<lpage>170</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hartman</surname> <given-names>O</given-names></name></person-group> (<year>1949</year>)<source> The marine annelid erected by Kinberg with notes on some other types in the Swedish State Museum. Arkiv för Zoologi K. Svenska Vetensk, 42A(1): 1–137.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hutchings</surname> <given-names>P</given-names></name><name name-style="western"><surname>Reid</surname> <given-names>A</given-names></name></person-group> (<year>1990</year>)<article-title> The Nereididae (Polychaeta) from Australia. <italic>Gymnonereidinae sensu</italic> Fitzhugh, 1987: <italic>Australonereis</italic>, <italic>Ceratocephale</italic>, <italic>Dendronereidides</italic>, <italic>Gymnonereis</italic>, <italic>Nicon</italic>, <italic>Olganereis</italic> and <italic>Websterinereis</italic>.</article-title> <source>Records of the Australian Museum </source> <volume>42</volume>: <fpage>69</fpage>-<lpage>100</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3853/j.0067-1975.42.1990.107">10.3853/j.0067-1975.42.1990.107</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kinberg</surname> <given-names>JGK</given-names></name></person-group> (<year>1866</year>)<article-title> Anulata nova. K Svanska Vetenskapsakademien, Stockholm.</article-title> <source>Ofversigt af fürhandlingar </source> <volume>22</volume>: <fpage>167</fpage>-<lpage>179</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pettibone</surname> <given-names>MH</given-names></name></person-group> (<year>1971</year>)<article-title> Revision of Some Species Referred to <italic>Leptonereis</italic>, <italic>Nicon</italic>, and <italic>Laeonereis</italic> (Polychaeta: Nereididae).</article-title> <source>Smithsonian Contributions to Zoology, </source> <volume>104</volume>: <fpage>1</fpage>-<lpage>53</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5479/si.00810282.104">10.5479/si.00810282.104</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Trovant</surname> <given-names>B</given-names></name><name name-style="western"><surname>Elias</surname> <given-names>R</given-names></name><name name-style="western"><surname>Diez</surname> <given-names>ME</given-names></name><name name-style="western"><surname>JA</surname> <given-names>de León-González</given-names></name></person-group> (<year>2012</year>)<source> New records of polychaetes (Annelida) for northern Ecuador. Marine Biodiversity Records, 5 (e32): 1–8. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S1755267211001059">10.1017/S1755267211001059</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Villamar</surname> <given-names>F</given-names></name></person-group> (<year>1983</year>)<article-title> Poliquetos del Golfo de Guayaquil.</article-title> <source>Acta Oceanográfica del Pacífico INOCAR </source> <volume>2</volume> (<issue>2</issue>): <fpage>659</fpage>-<lpage>733</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Villamar</surname> <given-names>F</given-names></name></person-group> (<year>1989</year>)<article-title> Estudio de los Poliquetos Bentónicos en el Golfo de Guayaquil, Exterior (Canal del Morro y Jambelí).</article-title> <source>Acta Oceanográfica del Pacífico INOCAR </source> <volume>5</volume> (<issue>1</issue>): <fpage>34</fpage>-<lpage>40</lpage>.</mixed-citation></ref><!--PageBreak-->
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Villamar</surname> <given-names>F</given-names></name></person-group> (<year>2006</year>) <article-title>Estudio Taxonómico y Distribución de los Poliquetos Bentónicos en la zona del intermareal de las Provincias de Esmeraldas y Manabí (Ecuador)</article-title>. <source>Acta Oceanográfica del Pacífico INOCAR</source> <volume>13</volume> (<issue>1</issue>): <fpage>169</fpage>–<lpage>197</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Villamar</surname> <given-names>F</given-names></name><name name-style="western"><surname>M</surname> <given-names>Cruz</given-names></name></person-group> (<year>2007</year>)<article-title> Poliquetos y Moluscos macrobentónicos de la zona intermareal y submareal en la provincia de Guayas (Monteverde, Ecuador).</article-title> <source>Acta Oceanográfica del Pacífico INOCAR </source> <volume>14</volume> (<issue>1</issue>): <fpage>147</fpage>-<lpage>153</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wu</surname> <given-names>B</given-names></name><name name-style="western"><surname>Sun</surname> <given-names>R</given-names></name></person-group> (<year>1979</year>)<source> Revision of the genera <italic>Nicon</italic> and <italic>Rullierinereis</italic> with descriptions of a new genus <italic>Sinonereis</italic> (Polychaeta: Nereidae). Oceanic Selections (2): 95–112.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

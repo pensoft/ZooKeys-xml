@@ -1,0 +1,1298 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.147.2102</article-id>
+            <title-group>
+                <article-title>Changes in ground beetle diversity  and community composition in age structured forests (Coleoptera, Carabidae)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Riley</surname>
+                        <given-names>Kathryn N.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Browne</surname>
+                        <given-names>Robert A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biology, Wake Forest University, Winston-Salem, NC. U.S.A.
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Kathryn N. Riley (<email xlink:type="simple">rilekn8@wfu.edu</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: T. Erwin</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>147</issue>
+            <fpage>601</fpage>
+            <lpage>621</lpage>
+            <history>
+                <date date-type="received">
+                    <day>15</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>20</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Kathryn N. Riley, Robert A. Browne</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>We examined diversity, community composition, and wing-state of Carabidae as a function of forest age in Piedmont North Carolina. Carabidae were collected monthly from 396 pitfall traps (12×33 sites) from March 2009 through February 2010, representing 5 forest age classes approximately 0, 10, 50, 85, and 150 years old. A total of 2,568 individuals, representing 30 genera and 63 species, were collected. Carabid species diversity, as estimated by six diversity indices, was significantly different between the oldest and youngest forest age classes for four of the six indices. Most carabid species were habitat generalists, occurring in all or most of the forest age classes. Carabid species composition varied across forest age classes. Seventeen carabid species were identified as potential candidates for ecological indicators of forest age. Non-metric multidimensional scaling (NMDS) showed separation among forest age classes in terms of carabid beetle community composition. The proportion of individuals capable of flight decreased significantly with forest age.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Piedmont forests</kwd>
+                <kwd>North Carolina</kwd>
+                <kwd>species richness</kwd>
+                <kwd>ecological indicators</kwd>
+                <kwd>wing-state</kwd>
+                <kwd>pitfall trap</kwd>
+                <kwd>succession</kwd>
+                <kwd>biodiversity</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Temperate forests cover a large geographic area in the southeast United States, constituting 75.6% of total land coverage in 2003 (<xref ref-type="bibr" rid="B4">Chen et al. 2006</xref>). Anthropogenic activities such as farming, forestry management, and urbanization have created a patchwork <!--PageBreak-->of human modified land-use classes which may affect biodiversity and composition of living communities (<xref ref-type="bibr" rid="B42">Niemelä et al. 2000</xref>). Since it is impossible to gauge all anthropogenic impacts on the total biota, even in a small geographic area (<xref ref-type="bibr" rid="B11">Duelli and Obrist 1998</xref>, <xref ref-type="bibr" rid="B12">2003</xref>), bioindicator taxa are often used to assess impacts of land-use change (<xref ref-type="bibr" rid="B42">Niemelä et al. 2000</xref>). Ideally, biodiversity indicators should reflect the diversity of other biota in a given area (<xref ref-type="bibr" rid="B33">McGeoch 1998</xref>; <xref ref-type="bibr" rid="B47">Rainio and Niemelä 2003</xref>). Ground beetles (Coleoptera: Carabidae) have been be used to indicate temperature and moisture gradients (<xref ref-type="bibr" rid="B54">Thiele 1977</xref>; <xref ref-type="bibr" rid="B3">Butterfield et al. 1995</xref>) and their community assemblages have been directly related to habitat type, ground vegetation and litter (<xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>; <xref ref-type="bibr" rid="B37">Niemelä and Spence 1994</xref>; <xref ref-type="bibr" rid="B23">Koivula 2001</xref>; <xref ref-type="bibr" rid="B47">Rainio and Niemelä 2003</xref>). Carabidae are speciose, approximately 40,000 described species (<xref ref-type="bibr" rid="B31">Lövei and Sunderland 1996</xref>), and are ecologically important as generalist invertebrate predators (Larsen et al. 2002), with some species being phytophagous or having specialized feeding preferences (<xref ref-type="bibr" rid="B54">Thiele 1977</xref>; <xref ref-type="bibr" rid="B31">Lövei and Sunderland 1996</xref>).
+            </p>
+            <p>Previous studies on the effect of forest succession or management practices indicate that Carabidae species richness and abundance increase following anthropogenic forest clear-cutting (<xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>; <xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; <xref ref-type="bibr" rid="B35">Niemelä 1997</xref>; Butterfield 1997; Kiovula et al. 2002; <xref ref-type="bibr" rid="B9">de Warnaffe and Lebrun 2004</xref>). This has been attributed to the relatively high number of open habitat and habitat generalist carabid species with preference to the drier, open areas of grasslands and equivalent habitats (<xref ref-type="bibr" rid="B13">Erwin 1979</xref>; <xref ref-type="bibr" rid="B34">Niemelä 1993</xref>; <xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; <xref ref-type="bibr" rid="B40">Niemelä et al. 2007</xref>). Older aged forests are less diverse, with a few abundant species while the majority of species occur in low numbers (<xref ref-type="bibr" rid="B34">Niemelä 1993</xref>; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>). Changes in carabid assemblages along a forest age gradient indicate that some species are limited to or occur in greater numbers within specific forest age or successional stages (<xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>; <xref ref-type="bibr" rid="B27">Larsen et al. 2003</xref>; <xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; Work et al. 2004; <xref ref-type="bibr" rid="B20">Jacobs et al. 2008</xref>). Identifying specific indicator species for forest age classes would allow for inference of habitat type or microhabitat conditions associated with forest age by the presence of particular species.
+            </p>
+            <p>For the Carabidae, as environmental stability and time since colonization increases, the proportion of macropterous (flight enabled) individuals is predicted to decrease (<xref ref-type="bibr" rid="B8">Darlington 1943</xref>; <xref ref-type="bibr" rid="B22">Kavanaugh 1985</xref>; <xref ref-type="bibr" rid="B29">Liebherr 1988</xref>; <xref ref-type="bibr" rid="B31">Lövei and Sunderland 1996</xref>; <xref ref-type="bibr" rid="B18">Gutiérrez and Menéndez 1997</xref>). Since flight and the associated morphological structures (i.e. wing and muscle development) are energetically costly, there should be rapid selection against these structures if they are no longer beneficial (<xref ref-type="bibr" rid="B8">Darlington 1943</xref>; <xref ref-type="bibr" rid="B22">Kavanaugh 1985</xref>). In age structured forests, we hypothesize that the proportion of carabid species with the potential of flight will show a negative correlation with forest age.
+            </p>
+            <p>This study quantifies species distributions of carabid beetles for five age-structured forest classes, ranging from recently cut areas (age 0) to plots with trees that are approximately 150 years old. Across the five forest classes we investigated three parameters: carabid beetle species diversity, community composition, and wing-state (as a proxy of flight ability) as well as determined species potential to as act as ecological indicators of forest age.<!--PageBreak--></p>
+        </sec>
+        <sec sec-type="materials|methods">
+            <title>Materials and Methods</title>
+            <p>Thirty-three sites, selected to represent five forest classes, were sampled. All sites are located within Stokes, Surry, or Forsyth counties in the northern Piedmont region of North Carolina (<xref ref-type="fig" rid="F1">Figure 1</xref>). Twenty two sites are located within Pilot Mountain State Park (PMSP). These sites are located in the two larger continuous sections of the park (Mountain or Yadkin River sections) or along the approximately 10 km section of the Yadkin Corridor Trail of PMSP which connects the larger sections.
+            </p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label> 
+                <caption><p>Map of the study area in Piedmont, North Carolina, with 33 sample sites indicated.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-147-601-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>The sites represent the following five approximate age categories: 0 year old forest (n = 6), 10 year old forest (n = 6), 50 year old forest (n = 7), 85 year forest (n = 9), and 150 year forest (n = 5). The 150 year old category was limited to five sites due to the difficulty of finding mature forests in the region. The uneven sampling design of the study was the result of limited site availability. Tree ages were estimated by historical records, tree girth and in selected cases via dendrological analysis. The 0 year sites are located within a 65 hectare (ha) plot which was logged in December 2008; most of the tract was clear-cut with a few mature deciduous trees left standing in riparian zones (as required by law). That plot is located approximately 23 km east of the nearest Pilot Mountain State Park site at the same altitude and classified as the same North Carolina Geological Survey (NCGS) soil type (i.e., Metagraywacke and Muscovite – Biotite Schist (CZma<sup>2</sup>)) (Brown 1985). The 150 year forest sites are forest fragments (&lt; 2 ha) located within the city limits of Winston-Salem, NC. We recognize that the spatial distribution is not random. Site selection was affected by availability of forest site locations of the proper age class, urban surroundings, and permission to collect. Since the zero aged sites were located within a single, although relatively large area, we are aware of the potential for pseudoreplication among sites for this age class. However, within the zero age plot there was high heterogeneity among sites, with zero age sites located near streams, on open land and in areas of rapidly recovering vegetation.
+            </p>
+            <p>Pitfall sampling was conducted monthly for one year, from March 2009 through February 2010. Pitfall trapping has been shown to be appropriate for studies comparing species richness and activity/abundance levels of larger (&gt; 5 mm) ground-dwelling beetles (<xref ref-type="bibr" rid="B1">Adis 1979</xref>; <xref ref-type="bibr" rid="B54">Thiele 1977</xref>; Butterfield 1997; <xref ref-type="bibr" rid="B10">Dufrêne and Legendre 1997</xref>; Werner and Raffa 2000; de Warnaffe 2004, etc.). Although pitfall trapping has been criticized for its dependence on weather, beetle activity, and selection for larger individuals (<xref ref-type="bibr" rid="B17">Greenslade 1964</xref>; <xref ref-type="bibr" rid="B54">Thiele 1977</xref>; <xref ref-type="bibr" rid="B1">Adis 1979</xref>; <xref ref-type="bibr" rid="B31">Lövei and Sunderland 1996</xref>; <xref ref-type="bibr" rid="B30">Liebherr and Mahar 1979</xref>; Werner and Raffa 2000; <xref ref-type="bibr" rid="B27">Larsen et al. 2003</xref>), it has shown to be a useful collection technique for ecological studies. The passive sampling approach of pitfall trapping minimizes the investigator associated biases inherent in active search method. Within the goals of this study, we believe that pitfall traps are an efficient, valuable means of collection (<xref ref-type="bibr" rid="B54">Thiele 1977</xref>; Butterfield 1997; Larsen et al. 2000). Pitfall traps consisted of a plastic drinking cup (Solo brand, with a 12 cm diameter at the mouth), positioned flush with the ground. A dense foam plastic cover was loosely placed over each trap and fixed to the ground using nails, in order <!--PageBreak-->to keep rain and other debris out of the trap. Each cup contained antifreeze as a preservative. Each study site was divided into two groups of six cups (6 A and 6 B) located approximately 10 m apart for a total of 12 traps per site. Carabidae were collected from each trap monthly throughout the year-long study by straining the trap contents through a fine mesh screen and then preserved in 95% ethanol. Raw count of individuals collected each month were adjusted to reflect number of individuals collected for 12 pitfall traps per 30 day period. This corrected for variations in collection times and pitfall trap disturbance (i.e. overturned) at each site. To correct for large variances within and among study sites and to adjust for potential non-normal distribution, the mean abundance for each forest age classification was natural log transformed. Individuals were identified to the species level using a regional morphological key (<xref ref-type="bibr" rid="B6">Ciegler 2000</xref>)and by comparingselected individuals with specimens housed at the Smithsonian National Museum of Natural History.<!--PageBreak-->
+            </p>
+            <sec sec-type="Data analysis">
+                <title>Data analysis</title>
+                <p>Six indices were used to directly or indirectly calculate diversity of carabid beetles for each forest age class: species richness (S), Shannon diversity index (H’) (<xref ref-type="bibr" rid="B49">Shannon and Weaver 1949</xref>), Shannon’s evenness (J), Simpson’s diversity index (1-D) (<xref ref-type="bibr" rid="B50">Simpson 1949</xref>), Fisher’s alpha (<xref ref-type="bibr" rid="B15">Fisher et al. 1943</xref>), and Berger-Parker dominance (d) (Berger and Parker 1970). The mean and 95% confidence interval of all diversity indices were calculated for each forest age class. Completely Randomized Design ANOVA and Tukey’s test for multiple comparisons were primarily used to determine if the means of five of the diversity measures were statistically different among forest age classes (<xref ref-type="bibr" rid="B19">Hampton and Havel 2006</xref>). Due to uncorrectable heteroscedasticity for Simpson’s values, a Games and Howell test for unplanned comparison of means (<xref ref-type="bibr" rid="B16">Games and Howell 1976</xref>; <xref ref-type="bibr" rid="B52">Sokal and Rohlf 1995</xref>) replaced ANOVA tests. Species accumulation curves (Colewell 1997) were computed using EstimateS (v8.2.0, 2009) with corrected abundance data for each site and subjected to 500 randomizations. Species number (referred to as S<sub>obs</sub> Mao Tau) was plotted against the number of individuals for each of the five age classes. This technique calculates the rate at which species are being accumulated as sampling effort increases i.e., individuals collected (<xref ref-type="bibr" rid="B51">Smith and Smith 2006</xref>). To compare differences in the rate of species accumulation among forest age classes, a χ<sup>2</sup> goodness-of-fit test was performed, with a null hypothesis that the expected number of individuals at each forest age class would be random. The point on the sampling curve chosen to conduct the test was n = 233 (the lowest number of individuals collected from any of the five forest ages).
+                </p>
+                <p>Species were classified in terms of rarity based on the proportion of their abundance to the overall carabid beetle catch for the sampling period (i.e. one trapping season). Rarity categories, which were designated according to the percent of the total sample collected, are as follows: singleton (one individual, 0–0.05%), doubleton (two individuals, 0.06%-–0.10%), extremely rare (0.11%–0.20%), rare (0.21%–0.99%), common (1.00%–9.99%), and dominant (10.00%–19.99%).Chi-square goodness of fit tests were calculated for the total catch for each of the 5 age classes to detect deviations from expected distributions.</p>
+                <p>Non-metric multidimensional scaling (NMDS) was utilized (PC-Ord, Version 5, <xref ref-type="bibr" rid="B32">McCune et al. 2002</xref>) to examine community composition of carabids for the five forest age classes. NMDS ordination uses Sørensen’s similarity, also known as the Bray-Curtis coefficient, to measure the dissimilarity in species compositions among forest age classes. Since rarer species may negatively affect the ordination results (<xref ref-type="bibr" rid="B10">Dufrêne and Legendre 1997</xref>; Palmer 2009) NMDS analysis was conducted using 17 species classified as common or dominant according to the rarity scale of this study (<xref ref-type="table" rid="T2">Table 2</xref>).
+                </p>
+                <table-wrap position="float" orientation="portrait" id="T1">
+                    <label>Table 1.</label>
+                    <caption><p>Number of replicates, carabid beetle abundance, and the raw number of genera and species for each forest age class.</p>
+                    </caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">Site</td>
+                                <td rowspan="1" colspan="1">Number of Replicates</td>
+                                <td rowspan="1" colspan="1">Abundance</td>
+                                <td rowspan="1" colspan="1">Avg. Abundance</td>
+                                <td rowspan="1" colspan="1">Genera</td>
+                                <td rowspan="1" colspan="1">Species</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">443.26</td>
+                                <td rowspan="1" colspan="1">73.88</td>
+                                <td rowspan="1" colspan="1">22</td>
+                                <td rowspan="1" colspan="1">43</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">10</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">538.85</td>
+                                <td rowspan="1" colspan="1">89.81</td>
+                                <td rowspan="1" colspan="1">21</td>
+                                <td rowspan="1" colspan="1">33</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">50</td>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">626.72</td>
+                                <td rowspan="1" colspan="1">89.53</td>
+                                <td rowspan="1" colspan="1">19</td>
+                                <td rowspan="1" colspan="1">30</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">85</td>
+                                <td rowspan="1" colspan="1">9</td>
+                                <td rowspan="1" colspan="1">725.61</td>
+                                <td rowspan="1" colspan="1">80.62</td>
+                                <td rowspan="1" colspan="1">22</td>
+                                <td rowspan="1" colspan="1">34</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">150</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">233.06</td>
+                                <td rowspan="1" colspan="1">46.61</td>
+                                <td rowspan="1" colspan="1">11</td>
+                                <td rowspan="1" colspan="1">17</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Total</td>
+                                <td rowspan="1" colspan="1">33</td>
+                                <td rowspan="1" colspan="1">2567.51</td>
+                                <td rowspan="1" colspan="1">77.80</td>
+                                <td rowspan="1" colspan="1">30</td>
+                                <td rowspan="1" colspan="1">63</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Wing-state">
+                <title>Wing-state</title>
+                <p>Carabid species were classified into one of two dichotomous states: macropterous or brachypterous. Individuals were considered macropterous when fully developed wings combined with the potential for flight were documented, while brachypterous beetles include beetles with short wings (brachyptery) with low potential for flight and beetles lacking wings (aptery) with virtually no flight potential. Wing-state for each species was determined by visually examining the degree of hind wing development of at least five individuals (for species with n ≥ 5) as well as consulting the degree of flight capability cited in the literature (reviewed by <xref ref-type="bibr" rid="B26">Larochelle and Larivière 2003</xref>).
+                </p>
+            </sec>
+            <sec sec-type="Ecological indicators">
+                <title>Ecological indicators</title>
+                <p>To identify species as potential candidates for indicators of forest age, each species was classified according to the total number of individuals collected from each of the five forest age classes. Species with n &lt; 5 individuals were excluded from subsequent analysis. Species were classified as follows: extreme habitat generalist (occurred in all 5 forest age classes), habitat generalist (occurred in 4 forest age classes), habitat intermediate (occurred in 3 forest age classes), habitat specialist (occurred in 2 forest age classes), and extreme habitat specialist (occurred in 1 forest age class).</p>
+                <p>Species classified as a habitat specialist, extreme habitat specialist, or species exhibiting a peak in abundance for any stage of the forest age gradient, were examined as potential candidates for ecological indicators of forest age. An additional requirement for candidacy was the presence of the species (minimum of one individual) in at least 50% of the replicates within the particular forest age class. A χ<sup>2</sup> goodness of fit test was then used to determine whether the distribution of species abundance among the forest age classes was due to chance alone. In order to meet the requirement of a χ<sup>2</sup> test (with a minimum expected value of n = 5 for each class), only species where n ≥ 25 individuals were tested. If species distribution among classes was statistically significant, the null hypothesis was rejected and we concluded that distribution did not occur due to chance alone. Subsequently, an additional clumped chi-square analysis was conducted to determine if the forest age class(es) with the highest abundance contained more individuals than expected compared to all other forest classes combined (see <xref ref-type="bibr" rid="B48">Riley 2010</xref>).
+                </p>
+                <table-wrap position="float" orientation="portrait" id="T2">
+                    <label>Table 2.</label>
+                    <caption><p>Carabidae species (S = 63) with corrected abundance for forest age class. Macropterous (M) species have the potential for flight and brachypterous (B) species are considered to be flightless. Abbreviations for specialty habitat categories for 35 species (n &gt; 5) are: EG = extreme generalist, G = generalist, I = intermediate, S = specialist, ES = extreme specialist. See text for description of each category. Species with an asterisk (*) are the 17 species most commonly collected in the study.</p>
+                    </caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1">Species</th>
+                                <th rowspan="1" colspan="1">Wing State</th>
+                                <th rowspan="1" colspan="1">Specialty Category</th>
+                                <th rowspan="1" colspan="1">0</th>
+                                <th rowspan="1" colspan="1">10</th>
+                                <th rowspan="1" colspan="1">50</th>
+                                <th rowspan="1" colspan="1">85</th>
+                                <th rowspan="1" colspan="1">150</th>
+                                <th rowspan="1" colspan="1">Total</th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agonum punctiforme</tp:taxon-name></italic> (Fabricius)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">4.83</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">4.83</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara aenea</tp:taxon-name></italic> (De Geer)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">S</td>
+                                <td rowspan="1" colspan="1">22.98</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.05</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">24.02</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara crassispina</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">S</td>
+                                <td rowspan="1" colspan="1">5.58</td>
+                                <td rowspan="1" colspan="1">1.52</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">7.10</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara cupreolata</tp:taxon-name></italic> (Putzeys)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">2.21</td>
+                                <td rowspan="1" colspan="1">0.99</td>
+                                <td rowspan="1" colspan="1">1.17</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">4.37</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara familiaris</tp:taxon-name></italic>* (Duftschmid)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1">19.57</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">14.25</td>
+                                <td rowspan="1" colspan="1">0.95</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">34.77</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara impuncticollis</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">S</td>
+                                <td rowspan="1" colspan="1">4.29</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">4.81</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">9.10</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara musculis</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.04</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.04</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amphasia interstitialis</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.90</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">3.12</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anisodactylus carbonarius</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anisodactylus furvus</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">2.33</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.33</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anisodactylus haplomus</tp:taxon-name></italic> (Chaudior)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anisodactylus harrisii</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">S</td>
+                                <td rowspan="1" colspan="1">8.15</td>
+                                <td rowspan="1" colspan="1">1.26</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">9.41</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anisodactylus rusticus</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">ES</td>
+                                <td rowspan="1" colspan="1">7.79</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">7.79</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Apenes lucidulus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.14</td>
+                                <td rowspan="1" colspan="1">0.84</td>
+                                <td rowspan="1" colspan="1">0.84</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.83</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus opaculus</tp:taxon-name></italic>* (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">G</td>
+                                <td rowspan="1" colspan="1">4.57</td>
+                                <td rowspan="1" colspan="1">31.66</td>
+                                <td rowspan="1" colspan="1">84.05</td>
+                                <td rowspan="1" colspan="1">14.49</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">134.77</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus goryi</tp:taxon-name></italic>* (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">G</td>
+                                <td rowspan="1" colspan="1">17.44</td>
+                                <td rowspan="1" colspan="1">0.82</td>
+                                <td rowspan="1" colspan="1">5.37</td>
+                                <td rowspan="1" colspan="1">14.41</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">38.05</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carabus sylvosus</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1">4.82</td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1">1.94</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">7.68</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chlaenius aestivus</tp:taxon-name></italic>* (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">21.13</td>
+                                <td rowspan="1" colspan="1">19.00</td>
+                                <td rowspan="1" colspan="1">2.23</td>
+                                <td rowspan="1" colspan="1">17.86</td>
+                                <td rowspan="1" colspan="1">4.83</td>
+                                <td rowspan="1" colspan="1">65.06</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chlaenius amoenus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">G</td>
+                                <td rowspan="1" colspan="1">1.84</td>
+                                <td rowspan="1" colspan="1">0.95</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.94</td>
+                                <td rowspan="1" colspan="1">12.12</td>
+                                <td rowspan="1" colspan="1">16.85</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chlaenius emarginatus</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">6.81</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">6.81</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cicindela sexguttata</tp:taxon-name></italic> (Fabricius)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.80</td>
+                                <td rowspan="1" colspan="1">2.43</td>
+                                <td rowspan="1" colspan="1">3.00</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">8.98</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cicindela unipunctata</tp:taxon-name></italic> (Fabricius)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Colliuris pensylvanica</tp:taxon-name></italic> (Linnaeus)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.11</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.11</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cyclotrachelus freitagi</tp:taxon-name></italic>* (Bousquet)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">0.98</td>
+                                <td rowspan="1" colspan="1">6.40</td>
+                                <td rowspan="1" colspan="1">41.58</td>
+                                <td rowspan="1" colspan="1">14.02</td>
+                                <td rowspan="1" colspan="1">0.77</td>
+                                <td rowspan="1" colspan="1">63.75</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cyclotrachelus sigillatus</tp:taxon-name></italic>* (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">98.46</td>
+                                <td rowspan="1" colspan="1">23.96</td>
+                                <td rowspan="1" colspan="1">75.30</td>
+                                <td rowspan="1" colspan="1">155.88</td>
+                                <td rowspan="1" colspan="1">104.92</td>
+                                <td rowspan="1" colspan="1">458.52</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cyclotrachelus vinctus</tp:taxon-name></italic>* (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">0.87</td>
+                                <td rowspan="1" colspan="1">171.90</td>
+                                <td rowspan="1" colspan="1">5.78</td>
+                                <td rowspan="1" colspan="1">26.83</td>
+                                <td rowspan="1" colspan="1">6.20</td>
+                                <td rowspan="1" colspan="1">211.57</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cymindis americanus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1">2.89</td>
+                                <td rowspan="1" colspan="1">1.01</td>
+                                <td rowspan="1" colspan="1">3.77</td>
+                                <td rowspan="1" colspan="1">1.01</td>
+                                <td rowspan="1" colspan="1">9.61</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cymindis limbatus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.84</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.84</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cymindis neglectus</tp:taxon-name></italic> (Haldeman)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cymindis platicollis</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.34</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.34</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dicaelus ambiguus</tp:taxon-name></italic>* (LaFerté-Sénecteré)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">2.03</td>
+                                <td rowspan="1" colspan="1">24.74</td>
+                                <td rowspan="1" colspan="1">11.80</td>
+                                <td rowspan="1" colspan="1">19.13</td>
+                                <td rowspan="1" colspan="1">8.52</td>
+                                <td rowspan="1" colspan="1">66.22</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dicaelus dilatatus</tp:taxon-name></italic>* (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">G</td>
+                                <td rowspan="1" colspan="1">3.17</td>
+                                <td rowspan="1" colspan="1">11.45</td>
+                                <td rowspan="1" colspan="1">23.87</td>
+                                <td rowspan="1" colspan="1">4.86</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">43.35</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dicaelus elongatus</tp:taxon-name></italic> (Bonelli)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1">5.71</td>
+                                <td rowspan="1" colspan="1">2.01</td>
+                                <td rowspan="1" colspan="1">4.40</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">12.12</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dicaelus politus</tp:taxon-name></italic>* (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1">10.93</td>
+                                <td rowspan="1" colspan="1">1.72</td>
+                                <td rowspan="1" colspan="1">12.87</td>
+                                <td rowspan="1" colspan="1">11.59</td>
+                                <td rowspan="1" colspan="1">38.02</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dicaelus purpuratus</tp:taxon-name></italic> (Bonelli)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.84</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.84</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Galerita bicolor</tp:taxon-name></italic>* (Dry)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">2.31</td>
+                                <td rowspan="1" colspan="1">20.54</td>
+                                <td rowspan="1" colspan="1">6.25</td>
+                                <td rowspan="1" colspan="1">58.18</td>
+                                <td rowspan="1" colspan="1">6.33</td>
+                                <td rowspan="1" colspan="1">93.60</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus compar</tp:taxon-name></italic> (Leconte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus erythropus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.82</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.82</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus fulgens</tp:taxon-name></italic> (Csiki)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.35</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.35</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus herbivagus</tp:taxon-name></italic>* (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">ES</td>
+                                <td rowspan="1" colspan="1">36.41</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">36.41</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus katiae</tp:taxon-name></italic> (Battoni)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus pensylvanica</tp:taxon-name></italic>* (De Geer)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">58.72</td>
+                                <td rowspan="1" colspan="1">2.90</td>
+                                <td rowspan="1" colspan="1">22.42</td>
+                                <td rowspan="1" colspan="1">4.90</td>
+                                <td rowspan="1" colspan="1">1.50</td>
+                                <td rowspan="1" colspan="1">90.43</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus spadiceus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.90</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.90</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megacephala virginica</tp:taxon-name></italic> (Linnaeus)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.13</td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.05</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Myas coracinus</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">S</td>
+                                <td rowspan="1" colspan="1">12.77</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.84</td>
+                                <td rowspan="1" colspan="1">15.61</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Notiobia terminata</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.92</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Notiophilus aeneus</tp:taxon-name></italic> (Herbst)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                                <td rowspan="1" colspan="1">0.78</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">2.00</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oodes fluvialis</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pasimachus punctulatus</tp:taxon-name></italic>* (Haldeman)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">G</td>
+                                <td rowspan="1" colspan="1">23.25</td>
+                                <td rowspan="1" colspan="1">5.70</td>
+                                <td rowspan="1" colspan="1">0.95</td>
+                                <td rowspan="1" colspan="1">2.69</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">32.59</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Patrobus longicornis</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">0.53</td>
+                                <td rowspan="1" colspan="1">0.53</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1">2.05</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">9.39</td>
+                                <td rowspan="1" colspan="1">7.69</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">19.13</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Poecilus lucublandus</tp:taxon-name></italic> (Bonelli)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">3.99</td>
+                                <td rowspan="1" colspan="1">0.95</td>
+                                <td rowspan="1" colspan="1">6.38</td>
+                                <td rowspan="1" colspan="1">2.30</td>
+                                <td rowspan="1" colspan="1">0.77</td>
+                                <td rowspan="1" colspan="1">14.39</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus coracinus</tp:taxon-name></italic>* (Newman)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">11.34</td>
+                                <td rowspan="1" colspan="1">4.97</td>
+                                <td rowspan="1" colspan="1">3.67</td>
+                                <td rowspan="1" colspan="1">34.14</td>
+                                <td rowspan="1" colspan="1">6.94</td>
+                                <td rowspan="1" colspan="1">61.06</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus moestus</tp:taxon-name></italic> (Say)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">ES</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">9.60</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">9.60</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus sculptus</tp:taxon-name></italic>* (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">22.99</td>
+                                <td rowspan="1" colspan="1">34.83</td>
+                                <td rowspan="1" colspan="1">228.96</td>
+                                <td rowspan="1" colspan="1">71.65</td>
+                                <td rowspan="1" colspan="1">1.27</td>
+                                <td rowspan="1" colspan="1">359.70</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Rhadine caudata</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">S</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.97</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">3.66</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">5.63</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus andrewsii</tp:taxon-name></italic> (Valentine)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">4.74</td>
+                                <td rowspan="1" colspan="1">1.17</td>
+                                <td rowspan="1" colspan="1">5.06</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">10.96</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus unicolor</tp:taxon-name></italic> (Fabricius)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.90</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.90</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus violaceus</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.95</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">0.95</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scarites subterraneus</tp:taxon-name></italic> (Fabricius)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1">I</td>
+                                <td rowspan="1" colspan="1">4.85</td>
+                                <td rowspan="1" colspan="1">4.40</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.22</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">10.46</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Selenophorus ellipticus</tp:taxon-name></italic> (Dejean)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">1.17</td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1">1.17</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Selenophorus opalinus</tp:taxon-name></italic> (LeConte)
+                                </td>
+                                <td rowspan="1" colspan="1">M</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"> </td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">0.84</td>
+                                <td rowspan="1" colspan="1">0.84</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphaeroderus stenostomus</tp:taxon-name></italic>* (Weber)
+                                </td>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">EG</td>
+                                <td rowspan="1" colspan="1">12.23</td>
+                                <td rowspan="1" colspan="1">130.08</td>
+                                <td rowspan="1" colspan="1">60.67</td>
+                                <td rowspan="1" colspan="1">222.53</td>
+                                <td rowspan="1" colspan="1">62.09</td>
+                                <td rowspan="1" colspan="1">487.60</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Total</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">443.26</td>
+                                <td rowspan="1" colspan="1">538.85</td>
+                                <td rowspan="1" colspan="1">626.72</td>
+                                <td rowspan="1" colspan="1">725.61</td>
+                                <td rowspan="1" colspan="1">233.06</td>
+                                <td rowspan="1" colspan="1">2567.51</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Abundance">
+                <title>Abundance</title>
+                <p>A total of 2,568 individual ground beetles representing 30 genera and 63 species were collected from 33 study sites (<xref ref-type="table" rid="T1">Table 1</xref>). Adjusted carabid beetle abundances relative to the five forest age groups are listed in <xref ref-type="table" rid="T2">Table 2</xref>. No significant differences occurred for<!--PageBreak--> average carabid abundance among the 5 forest age classes. Carabid beetle abundance was highest in the 10 and 50 year forest classes and lowest in the 150 year old forest (<xref ref-type="table" rid="T1">Table 1</xref>).
+                </p>
+            </sec>
+            <sec sec-type="Diversity">
+                <title>Diversity</title>
+                <p>For most measures of carabid diversity the 0 age forest class had the highest values while the lowest values, except for dominance, were found for the 150 year forest class (<xref ref-type="table" rid="T3">Table 3</xref>). Species richness varied significantly between the 0 and 150 year old forest classes (ANOVA, with Tukey test, p &lt; 0.002). Shannon diversity (p &lt; 0.005) and Simpson diversity (Games and Howell test, p = 0.05) show similar trends between the 0 and the 150 aged forests. Dominance peaked for 150 year old forest class (0.55), with the lowest value (0.35) for the 10 year old forest class. Forest age is negatively correlated with species richness (r = -0.945, p = 0.016), Shannon diversity (r= -0.916, p = 0.029), and Simpson’s diversity (r = -0.926, p = 0.024).
+                </p>
+                <p>Species accumulation curves for all forest age classes did not reach an asymptote (<xref ref-type="fig" rid="F2">Figure 2</xref>), indicating that additional sampling effort would likely uncover uncollected species (<xref ref-type="bibr" rid="B51">Smith and Smith 2006</xref>). No significant difference (χ<sup>2 </sup>= 6.50, 4 df, p = 0.05) was found in number of species among the five forest age classes at the point in the curves where n = 235 (which represents the number of individuals sampled from the forest age class with the lowest overall abundance).
+                </p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Carabid beetle species accumulation curves for five forest age classes. Vertical line indicates species richness of each curve at n = 233 individuals.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-147-601-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <table-wrap position="float" orientation="portrait" id="T3">
+                    <label>Table 3.</label>
+                    <caption><p>Values for diversity indices for five forest age classes.</p>
+                    </caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">Age</td>
+                                <td rowspan="1" colspan="1">S </td>
+                                <td rowspan="1" colspan="1">95% CI</td>
+                                <td rowspan="1" colspan="1">H’</td>
+                                <td rowspan="1" colspan="1">95% CI</td>
+                                <td rowspan="1" colspan="1">Simpson(1-D)</td>
+                                <td rowspan="1" colspan="1">95% CI</td>
+                                <td rowspan="1" colspan="1">Fisher’s Alpha</td>
+                                <td rowspan="1" colspan="1">95% CI</td>
+                                <td rowspan="1" colspan="1">d</td>
+                                <td rowspan="1" colspan="1">95% CI</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">16.50</td>
+                                <td rowspan="1" colspan="1">1.87</td>
+                                <td rowspan="1" colspan="1">2.12</td>
+                                <td rowspan="1" colspan="1">0.19</td>
+                                <td rowspan="1" colspan="1">0.81</td>
+                                <td rowspan="1" colspan="1">0.06</td>
+                                <td rowspan="1" colspan="1">11.80</td>
+                                <td rowspan="1" colspan="1">1.09</td>
+                                <td rowspan="1" colspan="1">0.36</td>
+                                <td rowspan="1" colspan="1">0.11</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">10</td>
+                                <td rowspan="1" colspan="1">13.67</td>
+                                <td rowspan="1" colspan="1">4.13</td>
+                                <td rowspan="1" colspan="1">1.83</td>
+                                <td rowspan="1" colspan="1">0.17</td>
+                                <td rowspan="1" colspan="1">0.78</td>
+                                <td rowspan="1" colspan="1">0.03</td>
+                                <td rowspan="1" colspan="1">7.75</td>
+                                <td rowspan="1" colspan="1">0.74</td>
+                                <td rowspan="1" colspan="1">0.35</td>
+                                <td rowspan="1" colspan="1">0.07</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">50</td>
+                                <td rowspan="1" colspan="1">12.14</td>
+                                <td rowspan="1" colspan="1">3.67</td>
+                                <td rowspan="1" colspan="1">1.78</td>
+                                <td rowspan="1" colspan="1">0.34</td>
+                                <td rowspan="1" colspan="1">0.75</td>
+                                <td rowspan="1" colspan="1">0.12</td>
+                                <td rowspan="1" colspan="1">6.56</td>
+                                <td rowspan="1" colspan="1">0.55</td>
+                                <td rowspan="1" colspan="1">0.47</td>
+                                <td rowspan="1" colspan="1">0.17</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">85</td>
+                                <td rowspan="1" colspan="1">12.11</td>
+                                <td rowspan="1" colspan="1">2.57</td>
+                                <td rowspan="1" colspan="1">1.79</td>
+                                <td rowspan="1" colspan="1">0.25</td>
+                                <td rowspan="1" colspan="1">0.76</td>
+                                <td rowspan="1" colspan="1">0.08</td>
+                                <td rowspan="1" colspan="1">7.4</td>
+                                <td rowspan="1" colspan="1">0.47</td>
+                                <td rowspan="1" colspan="1">0.39</td>
+                                <td rowspan="1" colspan="1">0.10</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">150</td>
+                                <td rowspan="1" colspan="1">7.80</td>
+                                <td rowspan="1" colspan="1">2.77</td>
+                                <td rowspan="1" colspan="1">1.33</td>
+                                <td rowspan="1" colspan="1">0.45</td>
+                                <td rowspan="1" colspan="1">0.63</td>
+                                <td rowspan="1" colspan="1">0.21</td>
+                                <td rowspan="1" colspan="1">4.21</td>
+                                <td rowspan="1" colspan="1">0.68</td>
+                                <td rowspan="1" colspan="1">0.55</td>
+                                <td rowspan="1" colspan="1">0.23</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Community structure">
+                <title>Community structure</title>
+                <p>Most species (47 out of 63) occurred in low abundance and were classified in the three rarest categories in the analysis. The highest number of singletons (S = 8) and rare species (S = 15) occurred in the recently logged forest. However, the uneven number of age replicates should be taken into consideration when interpreting differences in rarity among age classes. For example, the 150 year forest class contained the lowest number of replicates, and also had the lowest value for total species richness. Three species, <italic><tp:taxon-name>Cyclotrachelus sigillatus</tp:taxon-name></italic> (Say, 1823), <italic><tp:taxon-name>Pterostichus sculptus</tp:taxon-name></italic> (LeConte, 1852), and <italic><tp:taxon-name>Sphaeroderus stenostomus</tp:taxon-name></italic> (Weber, 1801), occurred in all forest classes, constituting 51% of the total number of individuals collected in the study.
+                </p>
+                <p>NMDS indicates a grouping of age replicates, with at least partial separation of sites by age for all but one of the forest classes (<xref ref-type="fig" rid="F3">Figure 3</xref>), suggesting similarity in carabid species assemblages for equivalent forest classes. The two axes in NMDS ordination accounted for 63% of the variance in species composition (r<sup>2</sup>: axis 1 = .447, axis 2 = .185) for the 17 most commonly occurring species among the 33 study sites. The 0 and 50 age year polygons have the highest scores on axis 2 and exhibit greater separation from the 10, 85, and 150 year old polygons. The polygons demonstrate a convergence in ordination space as forest age increases, indicating that variability in species composition decreases as forests age.
+                </p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Results of Non-Metric Multidimensional Scaling (NMDS) analysis for 33 study sites. The analysis was based on the 17 most common carabid beetle species from five forest age classes (0, 10, 50, 85, and 150 years). Each the five polygons represent different forest age classes, as indicated by different symbols.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-147-601-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Wing-state">
+                <title>Wing-state</title>
+                <p>The majority of the species collected (39 of 63) were fully winged (macropterous) (<xref ref-type="table" rid="T2">Table 2</xref>). The remaining species were brachypterous (includes specimens with fused elytra) and are deemed incapable of flight. The difference in macropterous versus brachypterous individuals within each forest age group was significant except for 0 age forest (χ<sup>2 </sup>&lt; 0.05). The number of macropterous individuals decreases as forest age increases (<xref ref-type="fig" rid="F4">Figure 4</xref>) although the correlation between macroptery and forest age was not significant.<!--PageBreak-->
+                </p>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Proportions of carabid populations brachypterous and macropterous for five forest age classes. Significant differences occurred for all forest age classes except the zero age class (χ<sup>2</sup> <underline>&lt;</underline> 0.05).</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-147-601-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Ecological indicators">
+                <title>Ecological indicators</title>
+                <p>For the 35 species where n &gt; 5 (see <xref ref-type="table" rid="T2">Table 2</xref>), 14 were classified as extreme habitat generalists (i.e. collected within all forest age classes). Distribution of species among the five habitat specialty categories is not random, with more species occurring in the generalist categories (χ<sup>2</sup> &lt; 0.05). Of the 25 species where n <underline>&gt; </underline>10, 17 species were identified as having strong affinities for forest age classes (χ<sup>2</sup> &lt; 0.05), with 15 species showing preference for a single forest age class and 2 species preferring contiguous forest age classes (see <xref ref-type="fig" rid="F5">Figure 5</xref> for representative species of each indicator class).
+                </p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>Relative abundance across the forest age gradient for a representative species from each of the indicator classes (see text for definitions of indicator classes).</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-147-601-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <sec sec-type="Abundance">
+                <title>Abundance</title>
+                <p>The intermediate forest age classes (10, 50, and 85 year old forests) yielded the largest number of individuals, while the two extreme age classes (0 and 150 year old forests) had lower levels of abundance. Although these results depict a trend and are not statistically significant, they provide support for previous studies which reported higher carabid abundance in intermediate aged boreal forest classes (<xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>). Several investigations have reported lower carabid activity-abundance in <!--PageBreak--><!--PageBreak--><!--PageBreak-->clear-cut sites compared to more mature forest classes including younger regeneration classes (5-15 years) (<xref ref-type="bibr" rid="B21">Jennings et al. 1986</xref>; <xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>).
+                </p>
+                <p>Results from this study of deciduous Piedmont North Carolina forest sites follow a similar pattern following a clear-cutting event similar to that found for carabid communities of northern European and high latitude boreal forests (<xref ref-type="bibr" rid="B28">Lenski 1982</xref>; <xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>; <xref ref-type="bibr" rid="B3">Butterfield et al. 1995</xref>; <xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; <xref ref-type="bibr" rid="B35">Niemelä 1997</xref>; Butterfield 1997; <xref ref-type="bibr" rid="B23">Koivula 2001</xref>; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>; <xref ref-type="bibr" rid="B9">de Warnaffe and Lebrun 2004</xref>). Open habitat species were reported to occur at high densities for the first 20-30 years following clear-cutting until the forest canopy closes (<xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B39">1996</xref>; Butterfie<!--PageBreak-->ld 1997; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>). There are several possible reasons for this observed high species richness in younger forests. A high proportion of grassland and meadow carabid species prefer warmer, open habitats such as those found in recently disturbed forests (<xref ref-type="bibr" rid="B13">Erwin 1979</xref>; <xref ref-type="bibr" rid="B34">Niemelä 1993</xref>; <xref ref-type="bibr" rid="B40">Niemelä et al. 2007</xref>). Since many open habitat carabid species consume seeds, the presence of this type of food and its abundance may strongly influence whether they are present in clear-cut areas (<xref ref-type="bibr" rid="B13">Erwin 1979</xref>). In Iowa, the highest carabid beetle diversity and abundance were reported from tall-grass prairie habitats, with the second highest values found in wooded forests (<xref ref-type="bibr" rid="B27">Larsen et al. 2003</xref>). Following a severe disturbance of mature forests (as occurs with clear-cutting) there is an influx of rapidly colonizing, open habitat carabid species in combination with the temporary presence of the carabid generalists more typical of mature forests. Our results indicate that the temporary increased diversity of carabid species in recently clear-cut forest sites is due to the influx of open habitat carabid species. In contrast, there is a small amount of evidence for the increase of carabid species diversity due to the persistence of mature forest species in the clear-cut forest sites.
+                </p>
+            </sec>
+            <sec sec-type="Community structure">
+                <title>Community structure</title>
+                <p>Most species collected in this study occurred as singletons or were classified as rare. Carabid beetle assemblages from mature forests are often dominated by a few abundant species, while the majority of species are either scarce or occur at low abundance levels (<xref ref-type="bibr" rid="B34">Niemelä 1993</xref>; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>). Despite having a relatively low number of <!--PageBreak-->collected individuals, the 0 age forest class contained the highest number of singletons and rare species. Young forests, with a high flux of individuals, many with good dispersing abilities, are environmentally less stable for carabid beetles than mature forests (Butterfield 1997; <xref ref-type="bibr" rid="B18">Gutiérrez and Menéndez 1997</xref>). In this study, high numbers of<!--PageBreak--> rapidly colonizing species probably entered the open areas following clear-cutting and will persist only for short periods, resulting in high species turnover for the 0 aged forest sites. Low abundance may be attributed to the inability of open habitat species to establish long term communities at these sites due to unstable conditions. In addition, highly dispersing carabid species may not be as susceptible to capture through pitfall trapping and therefore would not be collected as often or at all.
+                </p>
+                <p>Species richness can be a misleading indicator of conservation value because disturbed sites, while high in species diversity, will often be characterized by widespread, abundant generalist species (<xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; <xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>; Niemelä et al 2007; <xref ref-type="bibr" rid="B44">Paquin 2008</xref>). As <xref ref-type="bibr" rid="B28">Lenski (1982)</xref> has noted, a clear-cut event disrupts the competitive exclusion of more stable, mature forest habitats, allowing for the increase of diversity of carabid species, although most species are within the same genus and/or share similar life characteristics.
+                </p>
+                <p>NMDS generated age polygons for each forest class, with the exception of 10 year sites, occur sequentially by forest age when moving negatively in the two dimensional space depicted. Most of the 10 year sites are “out of sequence”, i.e. they overlap or are located in proximity to the 85 and 150 year sites. This suggests that the 10 year sites are more similar in carabid species composition to more mature forested sites. In the experimental design of our field collections, most of the 10 year replicates are located adjacent to 85 year sites. This proximity creates the potential for species commonly found in more mature forests to immigrate into younger forest stands (<xref ref-type="bibr" rid="B24">Koivula et al. 2002</xref>). It is possible that the ten year sites were not isolated enough to provide true insight to a forest of this younger age class. The NMDS ordination analysis suggests that 0 and 50 year site polygons differ the most from the other age sites in terms of species composition. NMDS ordination analysis also indicates that the distance between the age polygons (with the exception of the 10 year group), becomes shorter as forest age increases, suggesting that the carabid communities of younger forests change relatively rapidly and that carabid community stability increases with forest age (<xref ref-type="bibr" rid="B3">Butterfield et al. 1995</xref>).
+                </p>
+                <p>NMDS ordination analysis indicates that distinct communities of ground beetles occur along the forest age gradient, especially among younger aged forest classes. Forest canopy closure is a time of drastic change in carabid community assemblage (<xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B39">1996</xref>, <xref ref-type="bibr" rid="B3">Butterfield et al. 1995</xref>, Butterfield 1997, <xref ref-type="bibr" rid="B44">Paquin 2008</xref>). In Piedmont North Carolina rapidly growing pines are able to form a closed canopy above other seedlings approximately 5-15 years post-abandonment. At 70-100 years the amount of light sufficiently decreases, leading to pine mortality, and young hardwoods are able to fill the canopy gaps (<xref ref-type="bibr" rid="B45">Peet and Christensen 1980</xref>, <xref ref-type="bibr" rid="B46">1987</xref>; <xref ref-type="bibr" rid="B5">Christensen and Peet 1984</xref>). Both canopy closure and the change in dominance tree species from pines to hardwoods may influence the carabid communities. One of the major associated changes is the quantity of sunlight reaching the forest floor which influences temperature and humidity (<xref ref-type="bibr" rid="B3">Butterfield et al. 1995</xref>; <xref ref-type="bibr" rid="B20">Jacobs et al. 2008</xref>). Microclimatic conditions including moisture, temperature, and understory structure have been reported as potential factors influencing notable changes in carabid beetle communities (<xref ref-type="bibr" rid="B39">Niemelä et al. 1996</xref>; Butterfield 1997).
+                </p>
+            </sec>
+            <sec sec-type="Wing-state">
+                <title>Wing-state</title>
+                <p>Differences in the proportions of macropterous versus brachypterous individuals among forest age classes are striking, with significantly more brachypterous than macropterous individuals for all forest age classes, except for 0 year forest class. As forest age increases the number of macropterous carabid beetles decreases, suggesting that the advantage of flight decreases with forest maturity. In stable environments, dispersal would be less important for carabid beetle survival and reproduction, allowing resources that would otherwise be used for wing development to be reallocated to developmental and/or reproductive needs (<xref ref-type="bibr" rid="B8">Darlington 1943</xref>; <xref ref-type="bibr" rid="B54">Thiele 1977</xref>; <xref ref-type="bibr" rid="B22">Kavanaugh 1985</xref>; <xref ref-type="bibr" rid="B29">Liebherr 1988</xref>; <xref ref-type="bibr" rid="B18">Gutiérrez and Menéndez 1997</xref>). The highest proportions of macropterous individuals were collected at the 0 forest age class, where the trees were cut only three months prior to the start of this study. The rapid colonization of open-habitat species to the disturbed area reflects the high dispersal ability of these species (<xref ref-type="bibr" rid="B39">Niemelä et al. 1996</xref>).
+                </p>
+            </sec>
+            <sec sec-type="Ecological indicators">
+                <title>Ecological indicators</title>
+                <p>Previous work with Carabidae suggests that the best approach to understanding the factors shaping presence and abundance is through individual species responses (<xref ref-type="bibr" rid="B40">Niemelä et al. 2007</xref>) rather than more general indicators such as raw species counts. The use of carabids as environmental and ecological indicators has been supported by several studies (<xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B42">2000</xref>; <xref ref-type="bibr" rid="B36">Niemelä 1999</xref>;  <xref ref-type="bibr" rid="B27">Larsen et al. 2003</xref>; <xref ref-type="bibr" rid="B47">Rainio and Niemelä 2003</xref>; Work et al. 2008). Criticisms for ground beetles as bioindicators were taken into consideration for the experimental design of this study. High spatial replication within each age class and collections over an entire year, not only during the active season, help address the issues of patchy distribution and low abundance of particular species (<xref ref-type="bibr" rid="B47">Rainio and Niemelä 2003</xref>). Although all of the 0 year sites are more closely located in geographical space than those for other age classes, the high heterogeneity in species composition among the replicates suggests they are separate entities at least with regards in terms of Carabidae. Our results indicate that specific carabid species are associated with different aged forests, while other carabid species are generalists, occurring in all forest ages classes. In total, 17 species exhibit a differential response to variations in forest age classes. There are seven species that could potentially serve as indicators of 0 aged forests: <italic><tp:taxon-name>Amara aenea</tp:taxon-name></italic>, <italic><tp:taxon-name>Amara familaris</tp:taxon-name></italic>, <italic><tp:taxon-name>Carabus goryi</tp:taxon-name></italic>, <italic><tp:taxon-name>Harpalus herbivagus</tp:taxon-name></italic>, <italic><tp:taxon-name>Harpalus pensylvanica</tp:taxon-name></italic>, <italic><tp:taxon-name>Myas coracinus</tp:taxon-name></italic>, and <italic><tp:taxon-name>Pasimachus punctulatus</tp:taxon-name></italic>. Two species could potentially serve as indicators for 10 year old forests: <italic><tp:taxon-name>Cyclotrachelus vinctus</tp:taxon-name></italic> and <italic><tp:taxon-name>Dicaelus ambiguus</tp:taxon-name></italic>. For 50 year old forests there were four potential indicators species: <italic><tp:taxon-name>Calathus opaculus</tp:taxon-name></italic>, <italic><tp:taxon-name>Cyclotrachelus freitagi</tp:taxon-name></italic>, <italic><tp:taxon-name>Dicaelus dilatatus</tp:taxon-name></italic>, <italic><tp:taxon-name>Pterostichus sculptus</tp:taxon-name></italic>, while 85 year old forest had two indicator species: <italic><tp:taxon-name>Galertia bicolor</tp:taxon-name></italic> and <italic><tp:taxon-name>Pterostichus coracinus</tp:taxon-name></italic>. <italic><tp:taxon-name>Platynus decentis</tp:taxon-name></italic> was found to be an indicator for 50 and 85 year old forests but did not occur in high abundance in the oldest age class while <italic><tp:taxon-name>Dicaelus politus</tp:taxon-name></italic> was statistically more abundant in the two oldest forest age<!--PageBreak--> classes. This relatively high number of indicator species supports the use of Carabidae as ecological indicators of age structure in deciduous southeastern U.S. forests.
+                </p>
+                <p>Six species analyzed for habitat specialty were classified as habitat specialists (occurring in two forest age classes): <italic><tp:taxon-name>Amara aenea</tp:taxon-name></italic>. <italic><tp:taxon-name>Amara crassispina</tp:taxon-name></italic>, <italic><tp:taxon-name>Amara impuncticollis</tp:taxon-name></italic>, <italic><tp:taxon-name>Anisodactylus harrisii</tp:taxon-name></italic>, <italic><tp:taxon-name>Myas coracinus</tp:taxon-name></italic>, <italic>and Rhadine caudata</italic>. Additionally, three species were found to be extreme specialists (occurring in one forest age class): <italic><tp:taxon-name>Harpalus herbivagus</tp:taxon-name></italic>, <italic><tp:taxon-name>Pterostichus moestus</tp:taxon-name></italic>, and <italic><tp:taxon-name>Anisodactylus rusticus</tp:taxon-name></italic>. Most species designated as possible ecological indicators in this study were considered extreme generalists or generalists. There was a greater number of indicator species for young, open forest habitats compared to more mature forests. However, this may be an artifact of the larger number of species found in younger forests. Of the seven species showing an affinity for conditions of a recently logged forest (0 forest age class) two species were in the genus <italic><tp:taxon-name>Amara</tp:taxon-name></italic> and two species in the genus <italic><tp:taxon-name>Harpalus</tp:taxon-name></italic>; both genera are known to contain seed-eating and phytophagous species which prefer dry, open, and grassy habitats (<xref ref-type="bibr" rid="B54">Thiele 1977</xref>; <xref ref-type="bibr" rid="B13">Erwin 1979</xref>, <xref ref-type="bibr" rid="B14">1981</xref>; <xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B40">2007</xref>; Butterfield 1997). <italic><tp:taxon-name>Myas coracinus</tp:taxon-name></italic> (Say, 1823) and <italic><tp:taxon-name>Carabus goryi</tp:taxon-name></italic> (Dejean, 1831) were also classified as indicators of open habitats. This observation is not in agreement with previous studies where these species are stated to prefer the shaded and moist ground conditions provided by more mature forests (<xref ref-type="bibr" rid="B26">Larochelle and Larivière 2003</xref>; <xref ref-type="bibr" rid="B27">Larsen et al. 2003</xref>). It’s possible these species generally occur in more mature forests but individuals still remained in the cleared forest since the study began only three months after logging as suggested by <xref ref-type="bibr" rid="B20">Jacobs et al. (2008)</xref>.
+                </p>
+                <p>No carabids in this study were found as indicator species for the most mature forest age group. However, the 150 year sites are all smaller forest fragments located within the city limits of Winston-Salem, NC. The small patch size, as well as the urban surroundings, could possibly be responsible for the low overall carabid abundance and diversity for this age group.</p>
+                <p>Minimal difference in species composition occurred between the 85 and 150 year sites. Although the 150 year old forests are small patches in an urban setting their composition is similar to the 85 year sites. However, <xref ref-type="bibr" rid="B41">Niemelä et al. (2002)</xref> detected differences in carabid species composition, richness, and other diversity indices along a urban-rural disturbance gradient. Lack of specialists in the more mature forests may indicate these secondary forests are already too disturbed and/or fragmented, with stenotypic species never regaining sufficient populations (<xref ref-type="bibr" rid="B47">Rainio and Niemelä 2003</xref>). Alternatively, a small number of specialists might be expected for any similarly aged forest habitat (including less fragmented, non-urban sites) since less than 10% of predatory arthropods have been described as old growth specialists (<xref ref-type="bibr" rid="B36">Niemelä 1999</xref>). Differences in species occurrence across the forest regeneration cycle reinforce the need to conserve a range of age classes at the landscape level (<xref ref-type="bibr" rid="B39">Niemelä et al. 1996</xref>, <xref ref-type="bibr" rid="B40">2007</xref>).
+                </p>
+                <p>The role of the natural forest regeneration cycle on the diversity and composition of carabid beetles after a cutting event has been more intensely studied in northern boreal forests (<xref ref-type="bibr" rid="B3">Butterfield et al. 1995</xref>; <xref ref-type="bibr" rid="B53">Spence et al. 1996</xref>; Butterfield 1997; <xref ref-type="bibr" rid="B34">Niemelä et al. 1993</xref>, <xref ref-type="bibr" rid="B39">1996</xref>, 2007; <xref ref-type="bibr" rid="B20">Jacobs et al. 2008</xref>) than in the temperate forests represented in <!--PageBreak-->this study. The Carabidae in this study exhibited the same general response to a logging event in terms of species richness to those previously reported for boreal forests. Additionally, there were profound changes in community composition. Additional work is needed, not only in the temperate deciduous forests, but also in additional forest types (e.g., tropical lowland forests, montane tropical forests) before carabid responses to forest disturbance can be categorized at both the individual species and community levels.
+                </p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Valuable comments were provided by W.E. Conner and M.R. Silman. T.L. Erwin provided significant knowledge about Carabidae. We thank Pilot Mountain State Park for permission to collect carabid specimens. Financial support was provided by the Biology Department and Environmental Program of Wake Forest University.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Adis</surname><given-names>J</given-names></name></person-group> (<year>1979</year>)<article-title> Problems of interpreting arthropod sampling with pitfall traps.</article-title> <source>Zoologischer Anzeiger </source> <volume>202</volume>: <fpage>177</fpage>-<lpage>184</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berger</surname><given-names>WH</given-names></name><name name-style="western"><surname>Berger</surname><given-names>FL</given-names></name></person-group> (<year>1970</year>)<article-title> Diversity of planktonic foraminifera in deep-sea sediments.</article-title> <volume>168</volume>: <fpage>1345</fpage>-<lpage>1347</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Butterfield</surname><given-names>J</given-names></name><name name-style="western"><surname>Luff</surname><given-names>LM</given-names></name><name name-style="western"><surname>Baines</surname><given-names>M</given-names></name><name name-style="western"><surname>Eyre</surname><given-names>MD</given-names></name></person-group> (<year>1995</year>)<article-title> Carabid beetle communities as indicators of conservation potential in upland forests.</article-title> <source>Forest Ecology and Management </source> <volume>79</volume>: <fpage>63</fpage>-<lpage>77</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0378-1127(95)03620-2" xlink:type="simple">doi: 10.1016/0378-1127(95)03620-2</ext-link></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chen</surname><given-names>H</given-names></name><name name-style="western"><surname>Tian</surname><given-names>H</given-names></name><name name-style="western"><surname>Liu</surname><given-names>M</given-names></name><name name-style="western"><surname>Melillo</surname><given-names>J</given-names></name><name name-style="western"><surname>Pan</surname><given-names>S</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name></person-group> (<year>2006</year>)<article-title> Effect of land-cover change in terrestrial carbon dynamics in the southern United States.</article-title> <source>Journal of Environmental Quality </source> <volume>35</volume>: <fpage>1533</fpage>-<lpage>1547</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2134/jeq2005.0198" xlink:type="simple">doi: 10.2134/jeq2005.0198</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Christensen</surname><given-names>NL</given-names></name><name name-style="western"><surname>Peet</surname><given-names>RK</given-names></name></person-group> (<year>1984</year>)<article-title> Convergence during secondary forest succession.</article-title> <source>Journal of Ecology </source> <volume>72</volume>: <fpage>25</fpage>-<lpage>36</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2260004" xlink:type="simple">doi: 10.2307/2260004</ext-link></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ciegler</surname><given-names>JC</given-names></name></person-group> (<year>2000</year>)<source> Ground Beetles and Wrinkled Bark Beetles of South Carolina (Coleoptera: Geadephaga: Carabidae and Rhysodidae) Clemson University, Clemson, SC, 149 pp.
+</source></mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Colwell</surname><given-names>R</given-names></name></person-group> (<year>2009</year>)<source> EstimateS: Statistical estimation of species richness and shared species from samples. Version 8.2. [User’s Guide and application published at: <ext-link ext-link-type="uri" xlink:href="http://purl.oclc.org/estimates">http://purl.oclc.org/estimates</ext-link>]
+</source></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Darlington</surname><given-names>PJ</given-names></name></person-group> (<year>1943</year>)<article-title> Carabidae of mountains and islands: data on the evolution of isolated faunas, and on atrophy of wings.</article-title> <source>Ecological Monographs </source> <volume>13</volume>: <fpage>37</fpage>-<lpage>61</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1943589" xlink:type="simple">doi: 10.2307/1943589</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>de Warnaffe</surname><given-names>GB</given-names></name><name name-style="western"><surname>Lebrun</surname><given-names>P</given-names></name></person-group> (<year>2004</year>)<article-title> Effects of forest management on carabid beetles in Belgium: implications for biodiversity conservation.</article-title> <source>Biological Conservation </source> <volume>118</volume>: <fpage>219</fpage>-<lpage>234</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2003.08.015" xlink:type="simple">doi: 10.1016/j.biocon.2003.08.015</ext-link></mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dufrêne</surname><given-names>M</given-names></name><name name-style="western"><surname>Legendre</surname><given-names>P</given-names></name></person-group> (<year>1997</year>)<article-title> Species assemblages and indicator species: the need for a flexible asymmetrical approach.</article-title> <source>Ecological Monographs </source> <volume>67</volume>: <fpage>345</fpage>-<lpage>366</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Duelli</surname><given-names>P</given-names></name><name name-style="western"><surname>Obrist</surname><given-names>MK</given-names></name></person-group> (<year>1998</year>)<article-title> In search of the best correlates for local organismal biodiversity in cultivated areas.</article-title> <source>Biodiversity and Conservation </source> <volume>7</volume>: <fpage>297</fpage>-<lpage>309</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1008873510817" xlink:type="simple">doi: 10.1023/A:1008873510817</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Duelli</surname><given-names>P</given-names></name><name name-style="western"><surname>Obrist</surname><given-names>MK</given-names></name></person-group> (<year>2003</year>)<article-title> Biodiversity indicators: the choice of values and measures.</article-title> <source>Agriculture, Ecosystems and Environment </source> <volume>98</volume>: <fpage>87</fpage>-<lpage>98</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0167-8809(03)00072-0" xlink:type="simple">doi: 10.1016/S0167-8809(03)00072-0</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1979</year>)<article-title> Thoughts on the evolutionary history of ground beetles: hypotheses generated from comparative faunal analyses of lowland forest sites in temperate and tropical regions.</article-title> In: <person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name><name name-style="western"><surname>Ball</surname><given-names>GE</given-names></name><name name-style="western"><surname>Whitehead</surname><given-names>DR</given-names></name><name name-style="western"><surname>Halpern</surname><given-names>AL</given-names></name></person-group> (<role>Eds</role>). <issue-title>Carabid Beetles: Their Evolution, Natural History, and Classification.</issue-title> <source>Dr W. Junk bv. Publishers, The Hague</source>: <fpage>539</fpage>-<lpage>592</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1981</year>)<article-title> Natural history of Plummer’s Island, Maryland. XXVI. The ground beetles of a temperate forest site (Coleoptera: Carabidae): an analysis of fauna in relation to size, habitat selection, vagility, seasonality, and extinction.</article-title> <source>Bulletin of the Biological Society of Washington </source> <volume>5</volume>: <fpage>105</fpage>-<lpage>224</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fisher</surname><given-names>RA</given-names></name><name name-style="western"><surname>Corbet</surname><given-names>AS</given-names></name><name name-style="western"><surname>Williams</surname><given-names>CB</given-names></name></person-group> (<year>1943</year>)<article-title> The relation between the number of species and the number of individuals in a random sample of an animal population.</article-title> <source>Journal of Animal Ecology </source> <volume>12</volume>: <fpage>42</fpage>-<lpage>58</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1411" xlink:type="simple">doi: 10.2307/1411</ext-link></mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Games</surname><given-names>PA</given-names></name><name name-style="western"><surname>Howell</surname><given-names>JF</given-names></name></person-group> (<year>1976</year>)<article-title> Pairwise multiple comparison procedures with unequal N’s and/or variances: a Monte Carlo study.</article-title> <source>Journal of Educational Statistics </source> <volume>1</volume>: <fpage>113</fpage>-<lpage>125</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1164979" xlink:type="simple">doi: 10.2307/1164979</ext-link></mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Greenslade</surname><given-names>PJM</given-names></name></person-group> (<year>1964</year>)<article-title> Pitfall trapping as a method for studying populations of Carabidae (Coleoptera).</article-title> <source>Journal of Animal Ecology </source> <volume>33</volume>: <fpage>301</fpage>-<lpage>310</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2632" xlink:type="simple">doi: 10.2307/2632</ext-link></mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gutiérrez</surname><given-names>D</given-names></name><name name-style="western"><surname>Menéndez</surname><given-names>R</given-names></name></person-group> (<year>1997</year>)<article-title> Patterns in the distribution, abundance, and body size of carabid beetles (Coleoptera: Carabidae) in relation to dispersal ability.</article-title> <source>Journal of Biogeography </source> <volume>24</volume>: <fpage>903</fpage>-<lpage>914</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hampton</surname><given-names>RE</given-names></name><name name-style="western"><surname>Havel</surname><given-names>JE</given-names></name></person-group> (<year>2006</year>)<source> Introductory Biological Statistics 2<sup>nd</sup> ed.</source> <publisher-name>Waveland Press</publisher-name>, <publisher-loc>Inc.</publisher-loc>, <lpage>169</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jacobs</surname><given-names>J</given-names></name><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name></person-group> (<year>2008</year>)<article-title> Influences of succession and harvest intensity on ground beetle (Coleoptera:Carabidae) populations in the boreal mixed-wood forests of Alberta, Canada: species mater.</article-title> In: <person-group><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name><name name-style="western"><surname>Assmann</surname><given-names>T,</given-names></name></person-group> (<role>Eds</role>). <issue-title> Back to the Roots and Back to the Future? Towards a New Synthesis between Taxonomic, Ecological, and Biogeographical Approaches in Carabidology.</issue-title> <source>Proceedings of the XIII European Carabidologists Meeting. (Blagoevrgard (Bulgaria), August 2007, Pensoft, Sophia, Bulgaria and Moscow, Russia</source>: <fpage>425</fpage>-<lpage>450</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jennings</surname><given-names>DT</given-names></name><name name-style="western"><surname>Houseweart</surname><given-names>MW</given-names></name><name name-style="western"><surname>Dunn</surname><given-names>GA</given-names></name></person-group> (<year>1986</year>)<article-title> Carabid beetles (Coleoptera: Carabidae) associated with strip clearcut and dense spruce-fir forests of Maine.</article-title> <source>Coleopterists Bulletin </source> <volume>40</volume>: <fpage>251</fpage>-<lpage>263</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kavanaugh</surname><given-names>DH</given-names></name></person-group> (<year>1985</year>)<article-title> On wing atrophy in carabid beetles (Coleoptera: Carabidae), with special reference to Nearctic <italic>Nebria</italic>.</article-title> In: <person-group><name name-style="western"><surname>Ball</surname><given-names>GE</given-names></name></person-group> (<role>Ed</role>). <issue-title>Taxonomy, Phylogeny, and Zoogeography of Beetles and Ants.</issue-title> <source>Dr. W. Junk Publishers, The Hague</source>: <fpage>371</fpage>-<lpage>372</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Koivula</surname><given-names>M</given-names></name></person-group> (<year>2001</year>)<source> Carabid beetles (Coleoptera: Carabidae) in boreal managed forests – meso-scale ecological patterns in relation to modern forestry. PhD thesis, Helsinki, Finland: University of Helsinki.
+</source></mixed-citation>
+            </ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Koivula</surname><given-names>M</given-names></name><name name-style="western"><surname>Kukkonen</surname><given-names>J</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>J</given-names></name></person-group> (<year>2002</year>)<article-title> Boreal carabid beetle (Coleoptera, Carabidae) assemblages along the clear-cut originated succession gradient.</article-title> <source>Biodiversity and Conservation </source> <volume>11</volume>: <fpage>1269</fpage>-<lpage>1288</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1016018702894" xlink:type="simple">doi: 10.1023/A:1016018702894</ext-link></mixed-citation>
+            </ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Larochelle</surname><given-names>A</given-names></name><name name-style="western"><surname>Larivière</surname><given-names>M-C</given-names></name></person-group> (<year>2003</year>)<source> A natural history of the ground-beetles (Coleoptera: Carabidae) of America north of Mexico.</source> <publisher-name>Pensoft Publishers, Sofia</publisher-name>, <publisher-loc>Bulgaria</publisher-loc>, <lpage>583</lpage> pp.</mixed-citation>
+            </ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Larsen</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Work</surname><given-names>TT</given-names></name><name name-style="western"><surname>Purrington</surname><given-names>FF</given-names></name></person-group> (<year>2003</year>)<article-title> Habitat use patterns by ground beetles (Coleoptera: Carabidae) of northeastern Iowa.</article-title> <source>Pedobologia </source> <volume>11</volume>: <fpage>288</fpage>-<lpage>299</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1078/0031-4056-00192" xlink:type="simple">doi: 10.1078/0031-4056-00192</ext-link></mixed-citation>
+            </ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lenski</surname><given-names>RE</given-names></name></person-group> (<year>1982</year>)<source> The impact of forest cutting on the diversity of ground beetles (Coleoptera: Carabidae) in the Southern Appalachians. Ecological Entomology: 385–390. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2311.1982.tb00680.x" xlink:type="simple">doi: 10.1111/j.1365-2311.1982.tb00680.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liebherr</surname><given-names>J</given-names></name></person-group> (<year>1988</year>)<article-title> Gene flow in ground beetles (Coleoptera: Carabidae) of differing habitat preference and flight-wing development.</article-title> <source>Evolution </source> <volume>42</volume>: <fpage>129</fpage>-<lpage>137</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2409121" xlink:type="simple">doi: 10.2307/2409121</ext-link></mixed-citation>
+            </ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liebherr</surname><given-names>J</given-names></name><name name-style="western"><surname>Mahar</surname><given-names>J</given-names></name></person-group> (<year>1979</year>)<article-title> The carabid fauna of the upland oak forest in Michigan: survey and analysis.</article-title> <source>Coleopterists Bulletin </source> <volume>33</volume>: <fpage>183</fpage>-<lpage>197</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lövei</surname><given-names>GL</given-names></name><name name-style="western"><surname>Sunderland</surname><given-names>KD</given-names></name></person-group> (<year>1996</year>)<article-title> Ecology and behavior of ground beetles (Coleoptera: Carabidae).</article-title> <source>Annual Review of Entomology </source> <volume>41</volume>: <fpage>231</fpage>-<lpage>256</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1146/annurev.en.41.010196.001311" xlink:type="simple">doi: 10.1146/annurev.en.41.010196.001311</ext-link></mixed-citation>
+            </ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCune</surname><given-names>B</given-names></name><name name-style="western"><surname>Grace</surname><given-names>JB</given-names></name><name name-style="western"><surname>Urban</surname><given-names>DL</given-names></name></person-group> (<year>2002</year>)<source> Analysis of ecological communities. MjM Software Design, 304 pp.
+</source></mixed-citation>
+            </ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McGeoch</surname><given-names>MA</given-names></name></person-group> (<year>1998</year>)<article-title> The selection, testing, and application of terrestrial insects as bioindicators.</article-title> <source>Biological Review </source> <volume>73</volume>: <fpage>181</fpage>-<lpage>201</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S000632319700515X" xlink:type="simple">doi: 10.1017/S000632319700515X</ext-link></mixed-citation>
+            </ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name></person-group> (<year>1993</year>)<article-title> Mystery of the missing species: species-abundance distribution of boreal ground-beetles.</article-title> <source>Annules Zoologici Fennici </source> <volume>30</volume>: <fpage>169</fpage>-<lpage>172</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name></person-group> (<year>1997</year>)<article-title> Invertebrates and boreal forest management.</article-title> <source>Conservation Biology </source> <volume>11</volume>: <fpage>601</fpage>-<lpage>610</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1523-1739.1997.06008.x" xlink:type="simple">doi: 10.1046/j.1523-1739.1997.06008.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name></person-group> (<year>1999</year>)<article-title> Management in relation to disturbance in the boreal forest.</article-title> <source>Forest Ecology and Management</source> <volume>115</volume>: <fpage>127</fpage>-<lpage>134</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0378-1127(98)00393-4" xlink:type="simple">doi: 10.1016/S0378-1127(98)00393-4</ext-link></mixed-citation>
+            </ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name></person-group> (<year>1994</year>)<article-title> Distribution of forest dwelling carabids (Coleoptera): spatial scale and the concept of communities.</article-title> <source>Ecography </source> <volume>17</volume>: <fpage>166</fpage>-<lpage>175</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1600-0587.1994.tb00090.x" xlink:type="simple">doi: 10.1111/j.1600-0587.1994.tb00090.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Langor</surname><given-names>D</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name></person-group> (<year>1993</year>)<article-title> Effects of clear-cut harvesting on boreal ground-beetle (Coleoptera: Carabidae) in western Canada.</article-title> <source>Conservation Biology </source> <volume>7</volume>: <fpage>551</fpage>-<lpage>561</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1523-1739.1993.07030551.x" xlink:type="simple">doi: 10.1046/j.1523-1739.1993.07030551.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Haila</surname><given-names>Y</given-names></name><name name-style="western"><surname>Punttila</surname><given-names>P</given-names></name></person-group> (<year>1996</year>)<article-title> The importance of small-scale heterogeneity in boreal forests: variation in diversity of forest floor invertebrates across the succession gradient.</article-title> <source>Ecography </source> <volume>19</volume>: <fpage>352</fpage>-<lpage>368</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Koivula</surname><given-names>M</given-names></name><name name-style="western"><surname>Kotze</surname><given-names>DJ</given-names></name></person-group> (<year>2007</year>)<article-title> The effects of forestry on carabid beetles (Coleoptera: Carabidae) in boreal forests.</article-title> <source>Journal of Insect Conservation </source> <volume>11</volume>: <fpage>5</fpage>-<lpage>18</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10841-006-9014-0" xlink:type="simple">doi: 10.1007/s10841-006-9014-0</ext-link></mixed-citation>
+            </ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Kotze</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Venn</surname><given-names>S</given-names></name><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Stoyano</surname><given-names>I</given-names></name><name name-style="western"><surname>Spence</surname><given-names>J</given-names></name><name name-style="western"><surname>Hartley</surname><given-names>D</given-names></name><name name-style="western"><surname>Montes</surname><given-names>E</given-names></name></person-group> (<year>2002</year>)<article-title> Carabid beetle assemblages (Coleoptera, Carabidae across urban-rural gradients: an international comparison.</article-title> <source>Landscape Ecology </source> <volume>17</volume>: <fpage>387</fpage>-<lpage>401</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1021270121630" xlink:type="simple">doi: 10.1023/A:1021270121630</ext-link></mixed-citation>
+            </ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Kotze</surname><given-names>J</given-names></name><name name-style="western"><surname>Ashworth</surname><given-names>A</given-names></name><name name-style="western"><surname>Brandmayr</surname><given-names>P</given-names></name><name name-style="western"><surname>Desender</surname><given-names>K</given-names></name><name name-style="western"><surname>New</surname><given-names>T</given-names></name><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Samways</surname><given-names>M</given-names></name><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name></person-group> (<year>2000</year>)<article-title> The search for common anthropogenic impacts on biodiversity global network.</article-title> <source>Journal of Insect Conservation </source> <volume>4</volume>: <fpage>3</fpage>-<lpage>9</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1009655127440" xlink:type="simple">doi: 10.1023/A:1009655127440</ext-link></mixed-citation>
+            </ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Palmer</surname><given-names>M</given-names></name></person-group> (<year>2007</year>)<source> Ordination Methods for Ecologists. Stillwater, Oklahoma, Oklahoma State University, Botany Department. [available from: http://ordination.okstate.edu/index.html]
+</source></mixed-citation>
+            </ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Paquin</surname><given-names>P</given-names></name></person-group> (<year>2008</year>)<article-title> Carabid beetle (Coleoptera: Carabidae) diversity in the black spruce succession of eastern Canada.</article-title> <source>Biological Conservation </source> <volume>141</volume>: <fpage>261</fpage>-<lpage>275</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2007.10.001" xlink:type="simple">doi: 10.1016/j.biocon.2007.10.001</ext-link></mixed-citation>
+            </ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Peet</surname><given-names>RK</given-names></name><name name-style="western"><surname>Christensen</surname><given-names>NL</given-names></name></person-group> (<year>1980</year>)<article-title> Succession: a population process.</article-title> <source>Vegetation </source> <volume>43</volume>: <fpage>131</fpage>-<lpage>140</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF00121025" xlink:type="simple">doi: 10.1007/BF00121025</ext-link></mixed-citation>
+            </ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Peet</surname><given-names>RK</given-names></name><name name-style="western"><surname>Christensen</surname><given-names>NL</given-names></name></person-group> (<year>1987</year>)<article-title> Tree Death: Cause and Consequence.</article-title> <source>Bioscience </source> <volume>37</volume>: <fpage>586</fpage>-<lpage>595</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1310669" xlink:type="simple">doi: 10.2307/1310669</ext-link></mixed-citation>
+            </ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rainio</surname><given-names>J</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name></person-group> (<year>2003</year>)<article-title> Ground beetles (Coleoptera: Carabidae) as bioindicators.</article-title> <source>Biodiversity and Conservation </source> <volume>12</volume>: <fpage>487</fpage>-<lpage>506</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1022412617568" xlink:type="simple">doi: 10.1023/A:1022412617568</ext-link></mixed-citation>
+            </ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Riley</surname><given-names>KN</given-names></name></person-group> (<year>2010</year>)<source> Ground beetles as biodiversity indicators for age structure in Piedmont forests? MS thesis, Winston-Salem, North Carolina: Wake Forest University.
+</source></mixed-citation>
+            </ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shannon</surname><given-names>CE</given-names></name><name name-style="western"><surname>Weaver</surname><given-names>W</given-names></name></person-group> (<year>1949</year>)<source> The Mathematical Theory of Communication, University of Illinois Press, Urbana, Illinois.
+</source></mixed-citation>
+            </ref>
+            <ref id="B50"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Simpson</surname><given-names>EH</given-names></name></person-group> (<year>1949</year>)<source> Measurement of diversity. Nature 163; 688–688. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/163688a0." xlink:type="simple">doi: 10.1038/163688a0.</ext-link></mixed-citation>
+            </ref>
+            <ref id="B51"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>TM</given-names></name><name name-style="western"><surname>Smith</surname><given-names>RL</given-names></name></person-group> (<year>2006</year>)<source> Community Ecology. In: Wilber B, Anderson A, Lally-Graves N (Eds) Elements of Ecology (6<sup>th</sup> Edition), Pearson Education Inc., publishing as Benjamin Cummings, San Francisco, California, 6.16 – 6.19.
+</source></mixed-citation>
+            </ref>
+            <ref id="B52"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sokal</surname><given-names>RR</given-names></name><name name-style="western"><surname>Rohlf</surname><given-names>FJ</given-names></name></person-group> (<year>1995</year>)<source> Assumptions of analysis of variance. In: Biometry: the Principles and Practice of Statistics in Biological Research. 3<sup>rd</sup> Edition, Freeman and Company, New York, 397–403.
+</source></mixed-citation>
+            </ref>
+            <ref id="B53"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spence</surname><given-names>JR</given-names></name><name name-style="western"><surname>Langor</surname><given-names>DW</given-names></name><name name-style="western"><surname>Niemelä</surname><given-names>JK</given-names></name><name name-style="western"><surname>Cárcamo</surname><given-names>HA</given-names></name><name name-style="western"><surname>Currie</surname><given-names>CR</given-names></name></person-group> (<year>1996</year>)<article-title> Northern forestry and carabids: the case for concern about old-growth species.</article-title> <source>Annules Zoologici Fennici </source> <volume>33</volume>: <fpage>173</fpage>-<lpage>184</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B54"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thiele</surname><given-names>H-U</given-names></name></person-group> (<year>1977</year>)<source> Carabid Beetles in their Environments.</source> <publisher-name>Springer-Verlag</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>369</lpage> pp.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

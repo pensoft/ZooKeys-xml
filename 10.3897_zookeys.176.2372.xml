@@ -1,0 +1,1118 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.176.2372</article-id>
+            <title-group>
+                <article-title>Cartographic analysis of woodlice fauna of the former USSR</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kuznetsova</surname>
+                        <given-names>Daria M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Gongalsky</surname>
+                        <given-names>Konstantin B.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>A.N. Severtsov Institute of Ecology and Evolution, Russian Academy of Sciences, Moscow, Russia
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Konstantin B. Gongalsky (<email xlink:type="simple">gongalsky@gmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: S. Taiti</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>3</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>176</issue>
+            <fpage>1</fpage>
+            <lpage>11</lpage>
+            <history>
+                <date date-type="received">
+                    <day>15</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>31</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Daria M. Kuznetsova, Konstantin B. Gongalsky</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>An inventory of the woodlice fauna of the former USSR yielded 190 species, 64 of them were recorded from the territory of Russia. According to the cartographic analysis, the limits of distribution of epigean terrestrial isopods over the area, excluding mountains, is explained by temperature. No woodlice records were found outside the isocline of 120 days a year with the mean daily air temperature &gt;10°C. The highest species diversity was found between the isoclines of 180 and 210 days. These areas correspond to forest-steppe and steppe zones.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Woodlice</kwd>
+                <kwd>mean annual airtemperature</kwd>
+                <kwd>database</kwd>
+                <kwd>Russia</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Studies of spatial differentiation of various taxa are among the most important frontiers of modern biogeography. For some well-studied groups, mainly, vertebrates and plants, such trends are already discovered (<xref ref-type="bibr" rid="B15">Loiselle et al. 2003</xref>; <xref ref-type="bibr" rid="B8">Guisan and Thuiller 2005</xref>; <xref ref-type="bibr" rid="B7">Grenouillet et al. 2011</xref>), but for soil-dwelling invertebrates they are only at the stage of species inventory. However, there are certain groups of invertebrates for which analysis of spatial differentiation is already possible due to the large number of records from different geographical localities. Woodlice are among such groups.</p>
+            <p>There is no faunistic list of terrestrial isopods for the territory of the former USSR until now, as well as of the territory of Russia. However, there are extensive regional lists (<xref ref-type="bibr" rid="B1">Borutzky 1948</xref>, <xref ref-type="bibr" rid="B2">1953</xref>; <xref ref-type="bibr" rid="B19">Zalesskaya and Rybalov 1982</xref>; <xref ref-type="bibr" rid="B12">Khisametdinova 2007</xref>; <!--PageBreak--><xref ref-type="bibr" rid="B5">Gongalsky and Kuznetsova 2011</xref>), and numerous records scattered in the literature devoted to soil macrofauna. At the same time, there are only a few ecological studies about factors affecting woodlice distribution over regions of the former USSR (<xref ref-type="bibr" rid="B6">Gongalsky et al. 2005</xref>; <xref ref-type="bibr" rid="B13">Khisametdinova 2009</xref>).</p>
+            <p>The aim of the study is to determine the factors affecting woodlice distribution over the plain area of the former Soviet Union. To achieve this, an inventory of species distribution across the study area was made. The task was to create a database indicating locations with woodlice presence/absence overlaid with several environmental variables values distribution.</p>
+        </sec>
+        <sec sec-type="material|methods">
+            <title>Material and methods</title>
+            <sec sec-type="Database">
+                <title>Database</title>
+                <p>The first step was to compile a list of species for the study area. We made a database of isopod presence or absence in the locations across the whole territory of the former USSR (both plains and mountains). For each record the database includes information about date, data source, geographical coordinates, location, isopod species list or information about woodlice absence in the soil fauna list, biotope, and natural zone.</p>
+                <p>Three types of information sources of terrestrial isopod locations were used: i) available literature on soil fauna surveys; ii) collections of the Zoological Museum of Moscow State University (Moscow, Russia) and the Zoological Institute of the Russian Academy of Sciences (St.-Petersburg, Russia); and iii) authors’ personal collections. Here we provide a list of woodlice from the territory of the former USSR since some species and localities were not included in the list of <xref ref-type="bibr" rid="B16">Schmalfuss (2003)</xref>, although it covered the majority of species. To work with regional databases, a specific list would be useful. Since such a list for this area did not exist, the proposed compilation would be a start to be completed in the future. We used the taxonomic system proposed by <xref ref-type="bibr" rid="B16">Schmalfuss (2003)</xref> for species naming. Isopod absence was recorded only in extensively surveyed locations.</p>
+                <p>For cartographic analysis, 259 locations were chosen, 44 of which with woodlice absence. Due to the difficulty of tracing ecological trends in the mountains, only plain territories were involved into the analysis. Some species were excluded from the analysis: i) synanthropic species and ii) species inhabiting azonal locations, such as sea coasts, caves and anthills.</p>
+                <p>Then database records with isopod presence or absence locations were laid on the geographic maps to perform cartographic analysis.</p>
+            </sec>
+            <sec sec-type="Cartographic analysis">
+                <title>Cartographic analysis</title>
+                <p>The map of woodlice distribution was visually compared with the maps of environmental factors (mean annual temperature; the period with temperature above 10°C;<!--PageBreak--> mean precipitation; permafrost distribution; soil pH and soil type; vegetation type; natural zones) found in the Agricultural Atlas of the USSR (<xref ref-type="bibr" rid="B18">Tulupnikov 1960</xref>) and the Geographical Atlas of the USSR (<xref ref-type="bibr" rid="B14">Kolosova 1980</xref>). The data were verified using the WorldClim database (<xref ref-type="bibr" rid="B10">Hijmans et al. 2005</xref>).</p>
+                <p>The database is maintained in MS Excel. Cartographic analysis is done in MapInfo 8.5.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results and discussion">
+            <title>Results and discussion</title>
+            <sec sec-type="Limits of isopod distribution">
+                <title>Limits of isopod distribution</title>
+                <p>Woodlice have not been recorded northwards the isocline of 120 days a year with temperature &gt;10°C (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The northern border of woodlice distribution matches the distribution of this parameter. Other parameters did not coincide with isopod distribution as well as with this isocline (data not shown).</p>
+                <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Map of woodlice presence or absence over the plain territory of the former USSR. The duration of period with temperature &gt;10°C is adapted from Geographical Atlas of the USSR (<xref ref-type="bibr" rid="B14">Kolosova 1980</xref>).</p></caption>
+                <graphic xlink:href="ZooKeys-176-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            </sec>
+            <sec sec-type="Species diversity">
+                <title>Species diversity</title>
+                <p>In total, 190 species were recorded from the territory of the former USSR (Appendix 1). Among them, 64 were recorded from the territory of Russia. Northernmost natural <!--PageBreak-->zone with woodlice records is southern taiga. No woodlice records were in tundra, northern and middle taiga. The species diversity increases southwards, but decreases in the deserts. However, this may be due to the low number of locations extensively studied to reveal local faunas.</p>
+                <p>Distribution of isopods is known to be limited by natural factors, such as temperature and moisture (<xref ref-type="bibr" rid="B9">Harding and Sutton 1985</xref>, <xref ref-type="bibr" rid="B11">Hopkin 1991</xref>). In our study, the limiting factor of woodlice distribution towards the north turned out to be the length of the warm period, expressed as number of days when the temperature was above 10°C. The highest species diversity was observed between isoclines of 180 and 210 days with temperature &gt;10°C. Colder conditions slow down their physiological processes (<xref ref-type="bibr" rid="B11">Hopkin 1991</xref>) and limit their distribution. For a better understanding of distribution of woodlice, a Species Distribution Modeling (<xref ref-type="bibr" rid="B3">Elith and Leathwick 2009</xref>, <xref ref-type="bibr" rid="B4">Franklin 2009</xref>) should be applied, which is a next step in the analysis of the database of Russian isopods.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors are grateful to Dr H. Schmalfuss and Dr Ch. Schmidt for the help with isopod identifications, and to Dr K.G. Mikhailov and Dr B.V. Mezhov for allowing working with crustacean material kept at Zoological Museum of Moscow State University.</p>
+            <p>The study is supported by Russian Foundation for Basic Research (grant 11-04-00245) and the Program “Biodiversity” of the Presidium of the Russian Academy of Sciences.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borutzky</surname> <given-names>EV</given-names></name></person-group> (<year>1948</year>)<source> To the fauna of spring Isopoda of Middle Asia. Sbornik Trudov zoologicheskogo Muzeya, 274–279. [in Russian]</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borutzky</surname> <given-names>EV</given-names></name></person-group> (<year>1953</year>)<source> To the fauna of woodlice of Tadjikistan. Izvestiya Akademii Nauk Tadjikskoi SSR 3: 15–22. [in Russian]</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Elith</surname> <given-names>J</given-names></name><name name-style="western"><surname>Leathwick</surname> <given-names>JR</given-names></name></person-group> (<year>2009</year>)<article-title> Species distribution models: Ecological explanation and prediction across space and time.</article-title> <source>Annual Review of Ecology, Evolution, and Systematics </source> <volume>40</volume>: <fpage>677</fpage>-<lpage>697</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1146/annurev.ecolsys.110308.120159" xlink:type="simple">10.1146/annurev.ecolsys.110308.120159</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Franklin</surname> <given-names>J</given-names></name></person-group> (<year>2009</year>)<source> Mapping species distributions: Spatial inference and prediction. Cambridge University Press, Cambridge, 338 pp.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gongalsky</surname> <given-names>KB</given-names></name><name name-style="western"><surname>Kuznetsova</surname> <given-names>DM</given-names></name></person-group> (<year>2011</year>)<source> Fauna and population of woodlice (Isopoda, Oniscidea) of Abrau Peninsula, North-West Caucasus. Zoologicheskii Zhurnal 90: 916–922. [in Russian]</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gongalsky</surname> <given-names>KB</given-names></name><name name-style="western"><surname>Savin</surname> <given-names>FA</given-names></name><name name-style="western"><surname>Pokarzhevskii</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Filimonova</surname> <given-names>ZV</given-names></name></person-group> (<year>2005</year>)<article-title> Spatial distribution of isopods in an oak-beech forest.</article-title> <source>European Journal of Soil Biology </source> <volume>41</volume>: <fpage>117</fpage>-<lpage>122</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ejsobi.2005.09.012" xlink:type="simple">10.1016/j.ejsobi.2005.09.012</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grenouillet</surname> <given-names>G</given-names></name><name name-style="western"><surname>Buisson</surname> <given-names>L</given-names></name><name name-style="western"><surname>Casajus</surname> <given-names>N</given-names></name><name name-style="western"><surname>Lek</surname> <given-names>S</given-names></name></person-group> (<year>2011</year>)<article-title> Ensemble modelling of species distribution: the effects of geographical and environmental ranges.</article-title> <source>Ecography </source> <volume>34</volume>: <fpage>9</fpage>-<lpage>17</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1600-0587.2010.06152.x" xlink:type="simple">10.1111/j.1600-0587.2010.06152.x</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Guisan</surname> <given-names>A</given-names></name><name name-style="western"><surname>Thuiller</surname> <given-names>W</given-names></name></person-group> (<year>2005</year>)<article-title> Predicting species distribution: offering more than simple habitat models.</article-title> <source>Ecology Letters </source> <volume>8</volume>: <fpage>993</fpage>-<lpage>1009</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1461-0248.2005.00792.x" xlink:type="simple">10.1111/j.1461-0248.2005.00792.x</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Harding</surname> <given-names>PT</given-names></name><name name-style="western"><surname>Sutton</surname> <given-names>SL</given-names></name></person-group> (<year>1985</year>)<source> Woodlice in Britain and Ireland; Distribution and habitat. Institute of Terrestial Ecology, Huntingdon, 152 pp.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hijmans</surname> <given-names>RJ</given-names></name><name name-style="western"><surname>Cameron</surname> <given-names>SE</given-names></name><name name-style="western"><surname>Parra</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Jones</surname> <given-names>PG</given-names></name><name name-style="western"><surname>Jarvis</surname> <given-names>A</given-names></name></person-group> (<year>2005</year>)<article-title> Very high resolution interpolated climate surfaces for global land areas.</article-title> <source>International Journal of Climatology </source> <volume>25</volume>: <fpage>1965</fpage>-<lpage>1978</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/joc.1276" xlink:type="simple">10.1002/joc.1276</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hopkin</surname> <given-names>S</given-names></name></person-group> (<year>1991</year>)<source> A key to the woodlice of Britain and Ireland. An AIDGAP key. Richmond Publishing, Slough.</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Khisametdinova</surname> <given-names>DD</given-names></name></person-group> (<year>2007</year>)<source> To the fauna of woodlice (Isopoda, Oniscidea) of Rostov Region. Izvestia vuzov. Severo-Kavkazskiy Region. Yestestvennye Nauki 6: 86–87. [in Russian]</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Khisametdinova</surname> <given-names>DD</given-names></name></person-group> (<year>2009</year>)<source> Ecologic-faunistic characteristic of woodlice (Isopoda, Oniscidea) of the Lower Don River. PhD Thesis. Southern Federal University, Rostov-on-Don. [in Russian]</source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kolosova</surname> <given-names>LN</given-names></name></person-group><role>(Ed)</role> (<year>1980</year>)<source> Geographical Atlas of the USSR for schoolteachers. Vysshaya Shkola, Moscow, 238 pp. [in Russian]</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Loiselle</surname> <given-names>BA</given-names></name><name name-style="western"><surname>Howell</surname> <given-names>CA</given-names></name><name name-style="western"><surname>Graham</surname> <given-names>CH</given-names></name><name name-style="western"><surname>Goerck</surname> <given-names>JM</given-names></name><name name-style="western"><surname>Brooks</surname> <given-names>T</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>KG</given-names></name><name name-style="western"><surname>Williams</surname> <given-names>PH</given-names></name></person-group> (<year>2003</year>)<article-title> Avoiding pitfalls of using species distribution models in conservation planning.</article-title> <source>Conservation Biology </source> <volume>17</volume>: <fpage>1591</fpage>-<lpage>1600</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1523-1739.2003.00233.x" xlink:type="simple">10.1111/j.1523-1739.2003.00233.x</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmalfuss</surname> <given-names>H</given-names></name></person-group> (<year>2003</year>)<source> World catalog of terrestrial isopods (Isopoda: Oniscidea). Stuttgarter Beiträge zur Naturkunde, Serie A, Nr. 654, 341 pp.</source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmalfuss</surname> <given-names>H</given-names></name><name name-style="western"><surname>Wolf-Schwenninger</surname> <given-names>K</given-names></name></person-group> (<year>2002</year>)<source> A bibliography of terrestrial isopods (Crustacea, Isopoda, Oniscidea). Stuttgarter Beitrage zur Naturkunde, Serie A, Nr. 639, 120 pp.</source></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tulupnikov</surname> <given-names>AI</given-names></name></person-group><role>(Ed)</role> (<year>1960</year>)<source> Agricultural Atlas of the USSR. GUGK, Moscow, 308 pp. [in Russian]</source></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zalesskaya</surname> <given-names>NT</given-names></name><name name-style="western"><surname>Rybalov</surname> <given-names>LV</given-names></name></person-group> (<year>1982</year>)<source> Fauna of woodlice of Moscow Region (Crustacea, Isopoda, Oniscidea). In: Gilyarov MS (Ed.) Soil invertebrates of Moscow Region. Nauka Publ., Moscow, 171–179. [in Russian]</source></mixed-citation></ref>
+        </ref-list>
+        <sec sec-type="Appendix 1">
+            <title>Appendix 1</title>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <caption><p>List of woodlice species from the territory of the former USSR. Abbreviations: Ab – Abkhazia, Ar – Armenia, Az – Azerbaijan, Bl – Belarus, Ge – Georgia, Kz – Kazakhstan, Kg – Kyrgyzstan, Lt – Lithuania, Md – Moldova, Ru – Russia, Td – Tajikistan, Tu – Turkmenistan, Ua – Ukraine, Uz – Uzbekistan; S, N, W, E – south, north, west, east. References to authorships of  the species can be found in <xref ref-type="bibr" rid="B17">Schmalfuss and Wolf-Schwenninger (2002)</xref>.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acaeroplastes kosswigi</tp:taxon-name></italic> Verhoeff, 1941</td>
+                            <td rowspan="1" colspan="1">Az: Nabran’</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agabiformius orientalis</tp:taxon-name></italic> (Dollfus, 1905)</td>
+                            <td rowspan="1" colspan="1">Ru: Volgograd region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium azerbaidzhanum</tp:taxon-name></italic> Schmalfuss, 1990</td>
+                            <td rowspan="1" colspan="1">Ar: Khastarak; Az: Baku, Adjikend, Drmbon, Lenkoran, Salyany, Sheki; Ge: Kakhetia, Vashlovan; Ru: Rostov, Stavropol regions, N Osetia</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium granulatum</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region; Ua: S Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium nasatum</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ru: Moscow; Ab: Sukhum</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium opacum</tp:taxon-name></italic> (C.Koch, 1841)</td>
+                            <td rowspan="1" colspan="1">Ua: Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium pallasii</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Ua: Crimea, Odessa; Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium pictum</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium pulchellum</tp:taxon-name></italic> (Zenker, 1798)</td>
+                            <td rowspan="1" colspan="1">Lt: Vilnius</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium traiani</tp:taxon-name></italic> Demianowicz, 1932</td>
+                            <td rowspan="1" colspan="1">Md</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium versicolor</tp:taxon-name></italic> Stein, 1859</td>
+                            <td rowspan="1" colspan="1">Ru: Penza, Saratov, Tula regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium vulgare</tp:taxon-name></italic> Latreille, 1804</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Az; Ge: Adygeni, Tbilisi; Ru: Dagestan, Krasnodar, Kaluga, Volgograd, Rostov regions; Ua: Crimea, Kiev, Odessa</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillidium zenckeri</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea, Zakaspyisk region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillo alievi</tp:taxon-name></italic> Schmalfuss, 1990</td>
+                            <td rowspan="1" colspan="1">Az: Baku, Kobustan</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadillo officinalis</tp:taxon-name></italic> Dumeril, 1816</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region; Ua: S Crimea, Odessa</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Armadilloniscus ellipticus</tp:taxon-name></italic> (Harger, 1878)</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region; Ab: Gagry</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Borutzkyella revasi</tp:taxon-name></italic> (Borutzky, 1973)</td>
+                            <td rowspan="1" colspan="1">Ab: Gudauty region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Buddelundiella cataractae</tp:taxon-name></italic> Verhoeff, 1930</td>
+                            <td rowspan="1" colspan="1">Ge: Tskhaltubo</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caucasocyphonethes cavaticus</tp:taxon-name></italic> Borutzky, 1948</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caucasoligidium cavernicola</tp:taxon-name></italic> Borutzky, 1950</td>
+                            <td rowspan="1" colspan="1">Ab: Gudauty, Sukhum; Ge: Gogolety</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caucasonethes borutzkyi</tp:taxon-name></italic> Verhoeff, 1932</td>
+                            <td rowspan="1" colspan="1">Ge: Tskhaltubo</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chaetophiloscia cellaria</tp:taxon-name></italic> Dollfus, 1884</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chaetophiloscia elongata</tp:taxon-name></italic> Dollfus, 1884</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chaetophiloscia hastata</tp:taxon-name></italic> Verhoeff, 1929</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Colchidoniscus kutaissianus</tp:taxon-name></italic> Borutzky, 1974</td>
+                            <td rowspan="1" colspan="1">Ge: Tskhaltubo</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticoides angulatus</tp:taxon-name></italic> Schmalfuss, 2003</td>
+                            <td rowspan="1" colspan="1">Az: Istisu, Lenkoran, Yardymly; Kz: Astana; Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus albomaculatus</tp:taxon-name></italic> Borutzky, 1957</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov, Voronezh, Volgograd regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">28</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus arnoldii</tp:taxon-name></italic> Borutzky, 1961</td>
+                            <td rowspan="1" colspan="1">Ua: Kharkov, Zmiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus birsteini</tp:taxon-name></italic> Borutzky, 1961</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">30</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus caucasius</tp:taxon-name></italic> Verhoeff, 1917</td>
+                            <td rowspan="1" colspan="1">Ab: Gudauty, Gagry, Kelassuri, Sukhum; Ge: Kutaisi, Tkibuli, Tskhaltubo, Shovi; Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus convexus</tp:taxon-name></italic> De Geer, 1778</td>
+                            <td rowspan="1" colspan="1">Ru: Chelyabinsk, Kaluga, Moscow, Rostov, Voronezh regions, Ua: S Crimea, Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus cretaceus</tp:taxon-name></italic> Borutzky, 1957</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region; Ua: Lugansk region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus desertorum</tp:taxon-name></italic> Borutzky, 1957</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov, Stavropol regions; Ua</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">34</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus giljarovi</tp:taxon-name></italic> Borutzky, 1977</td>
+                            <td rowspan="1" colspan="1">Ru: Adygea, Stavropol, Krasnodar regions, N Osetia</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus iners</tp:taxon-name></italic> Budde-Lund, 1880</td>
+                            <td rowspan="1" colspan="1">Ar: Azizbekov, Leninakan, Tshakhkavan; Az: Airidja, Mardakert, Zakatalinsk regions; Ru: Chechnya; Ge: Manglisi, Shuahevi</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus lencoranensis</tp:taxon-name></italic> Borutzky, 1977</td>
+                            <td rowspan="1" colspan="1">Az: Prishib</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus mitis</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ge: Kutaisi</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus orientalis</tp:taxon-name></italic> Borutzky, 1939</td>
+                            <td rowspan="1" colspan="1">Ru: Orenburg region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">39</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus rotabilis</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ua: S Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus sarmaticus</tp:taxon-name></italic> Borutzky, 1977</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region; Ua: Zaporozhye region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">41</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus silvestris</tp:taxon-name></italic> Borutzky, 1957</td>
+                            <td rowspan="1" colspan="1">Ru: Moscow, Rostov, Stavropol regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cylisticus strouhali</tp:taxon-name></italic> Borutzky, 1977</td>
+                            <td rowspan="1" colspan="1">Ar: W Vanadzor, Spitaki</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus birsteini</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus bulbifrons</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">45</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus elongatus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">46</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus kirghizicus</tp:taxon-name></italic> Borutzky, 1978</td>
+                            <td rowspan="1" colspan="1">Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus reductus</tp:taxon-name></italic> Borutzky, 1978</td>
+                            <td rowspan="1" colspan="1">Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">48</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus subterraneus</tp:taxon-name></italic> Verhoeff, 1930</td>
+                            <td rowspan="1" colspan="1">Kg; Tu: (Kizil-arvat); Td: Samgar massif</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">49</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus tekinus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Desertoniscus zhelochovtzevi</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Uz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">51</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Detonella papillicornis</tp:taxon-name></italic> (Richardson, 1904)</td>
+                            <td rowspan="1" colspan="1">Ru: Kamchatka, Sakhalin regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">52</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Halophiloscia couchii</tp:taxon-name></italic> (Kinahan, 1858)</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region; Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Haplophthalmus danicus</tp:taxon-name></italic> Budde-Lund, 1880</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar, Rostov regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">54</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistoides messerianus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">55</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus buddelundi</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus communis</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Td: Samgar massif</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus crenulatus</tp:taxon-name></italic> (Pallas, 1771)</td>
+                            <td rowspan="1" colspan="1">Td: Samgar massif; Tu: Central Karakum, Kyzyl-Arvat; Uz: Zakaspiysk, Fergana regions; Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus cristatus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Tu: Kyzyl-Arvat</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">59</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus elongatus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov, Stavropol regions; Tu: SW part </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus fedtschenkoi</tp:taxon-name></italic> (Uljanin, 1875)</td>
+                            <td rowspan="1" colspan="1">Kz: Semipalatinsk;Tu: Krasnovodsk; Uz: Bukhara, Samarkand, Syrdaryinsk, Zakaspyisk regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">61</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus heptneri</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus klugii</tp:taxon-name></italic> (Brandt, 1833)</td>
+                            <td rowspan="1" colspan="1">Az: Baku</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus magnus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Uz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus nodosus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Tu; Kz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus pavlovskii</tp:taxon-name></italic> Borutzky, 1954</td>
+                            <td rowspan="1" colspan="1">Kz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">66</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus reductus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Uz: Bukhara, Samarkand, Syrdaryinsk regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus rhinoceros</tp:taxon-name></italic> Borutzky, 1958</td>
+                            <td rowspan="1" colspan="1">Kz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus ruderalis</tp:taxon-name></italic> (Pallas, 1771)</td>
+                            <td rowspan="1" colspan="1">Ru: Volgograd region; Kz: Djanybek</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus russonovae</tp:taxon-name></italic> Borutzky, 1951</td>
+                            <td rowspan="1" colspan="1">Az: Baku</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">70</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hemilepistus zachvatkini</tp:taxon-name></italic> Verhoeff, 1930</td>
+                            <td rowspan="1" colspan="1">Td: Samgar massif</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hyloniscus riparius</tp:taxon-name></italic> C. Koch, 1838</td>
+                            <td rowspan="1" colspan="1">Ru: Moscow, Penza, Pskov, Rostov, Tula regions; Ua: Kiev region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">72</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leptotrichus panzerii</tp:taxon-name></italic> (Audonin, 1826)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leptotrichus tauricus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">74</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligia cinerascens</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ru: Kurily islands</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">75</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligia italica</tp:taxon-name></italic> Fabricius, 1798</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligia pallasii</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Kadakh?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium birsteini</tp:taxon-name></italic> Borutzky, 1950</td>
+                            <td rowspan="1" colspan="1">Ab: Gagry</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">78</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium cavaticum</tp:taxon-name></italic> Borutzky, 1950</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium fragile</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium germanicum</tp:taxon-name></italic> Verhoeff, 1901</td>
+                            <td rowspan="1" colspan="1">Md</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium hypnorum</tp:taxon-name></italic> Cuvier, 1792</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Bl: Belovezha National Park; Ru: Tver, Kaluga, Moscow regions; Ua: Crimea, Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium margaritae</tp:taxon-name></italic> Borutzky, 1955</td>
+                            <td rowspan="1" colspan="1">Kz: Alma-Ata</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">83</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium nodulosum</tp:taxon-name></italic> Verhoeff, 1918</td>
+                            <td rowspan="1" colspan="1">Ab: Gagry</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">84</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium shadini</tp:taxon-name></italic> Borutzky, 1948</td>
+                            <td rowspan="1" colspan="1">Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">85</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium tauricum</tp:taxon-name></italic> Verhoeff, 1930</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium zaitzevi</tp:taxon-name></italic> Borutzky, 1950</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">87</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ligidium zernovi</tp:taxon-name></italic> Borutzky, 1948</td>
+                            <td rowspan="1" colspan="1">Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mingrelloniscus inchhuricus</tp:taxon-name></italic> Borutzky, 1974</td>
+                            <td rowspan="1" colspan="1">Ge: Megrelia</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">89</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nagurus matekini</tp:taxon-name></italic> Borutzky, 1959</td>
+                            <td rowspan="1" colspan="1">Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">90</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oniscus asellus</tp:taxon-name></italic> Linne, 1758</td>
+                            <td rowspan="1" colspan="1">Lt: Vilnius; Ru: Pskov region; Ua: Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">91</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus armenicus</tp:taxon-name></italic> Borutzky, 1970</td>
+                            <td rowspan="1" colspan="1">Ar: Daralagez</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">92</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus dentifrons</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Az: Kutkashen; Ge: Manglisi; Ru: Astrakhan, Stavropol regions, Chechnya, Dagestan, Kabardino-Balkaria, N Osetia; Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">93</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus georgianus</tp:taxon-name></italic> Schmalfuss, 2003</td>
+                            <td rowspan="1" colspan="1">Ge: Adigeni, Batumi, Kutaisi, Mestia</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">94</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus golovatchi</tp:taxon-name></italic> Schmalfuss, 2003</td>
+                            <td rowspan="1" colspan="1">Az: Shikahokh</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">95</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus mrovdaghicus</tp:taxon-name></italic> (Borutzky, 1970)</td>
+                            <td rowspan="1" colspan="1">Az: Avash, Dashsalty, Kelbadjar, Kirovobad, Lenkoran, Zuvand</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">96</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus urartuensis</tp:taxon-name></italic> Borutzky, 1970</td>
+                            <td rowspan="1" colspan="1">Ar</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">97</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parcylisticus zangezuricus</tp:taxon-name></italic> Borutzky, 1970</td>
+                            <td rowspan="1" colspan="1">Ar</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">98</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platyarthrus armenicus</tp:taxon-name></italic> Borutzky, 1976</td>
+                            <td rowspan="1" colspan="1">Ar: Megri</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">99</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platyarthrus hoffmannseggii</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">100</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platyarthrus luppovae</tp:taxon-name></italic> Borutzky, 1953</td>
+                            <td rowspan="1" colspan="1">Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platyarthrus mesasiaticus</tp:taxon-name></italic> Borutzky, 1976</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">102</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platyarthrus ocellatus</tp:taxon-name></italic> Borutzky, 1953</td>
+                            <td rowspan="1" colspan="1">Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">103</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Platyarthrus schoblii</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">104</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio bistriatus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">105</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio crassicornis</tp:taxon-name></italic> C. Koch, 1841</td>
+                            <td rowspan="1" colspan="1">Bl: Minsk</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">106</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio dilatatus</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ar: Sevan</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">107</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio laevis</tp:taxon-name></italic> Latreille, 1804</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Ru: Altay, Kalmykia, Moscow, Primorie, Rostov regions; Ua: S Crimea, Odessa; Uz: Bukhara region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">108</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio lamellatus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">109</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio obsoletus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ua: S Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">110</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio scaber</tp:taxon-name></italic> Latreille, 1804</td>
+                            <td rowspan="1" colspan="1">Bl: Belovezha, Berezinsky reserves; Lt: Vilnius; Ru: Belgorod, Kaluga, Moscow, Nizhni Novgorod, Primorie, Rostov regions, Kamchatka, S Kuruly islands, Sakhalin; Ua: Kiev, Kremenetz, Vinnickaya region (Yampol’)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">111</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio spinicornis</tp:taxon-name></italic> Say, 1818</td>
+                            <td rowspan="1" colspan="1">Bl: Minsk; Lt: Vilnius; Md; Ru: Kaluga, Leningrad, Moscow Pskov regions; Ua: Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">112</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio uljanini</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">113</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellio variabilis</tp:taxon-name></italic> Lucas, 1849</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">114</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellionides approximatus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1"> Md; Ru: Stavropol region; Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">115</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellionides linearis</tp:taxon-name></italic> (Budde-Lund, 1885)</td>
+                            <td rowspan="1" colspan="1">Uz: Nukus</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">116</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellionides pruinosus</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Ar: Shorzha; Az: Baku, Khachmas, Nabran; Ru: Baikal, Volgograd, Krasnodar region, Moscow, Rostov, Saratov regions; Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">117</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellionides rectifrons</tp:taxon-name></italic> (Budde-Lund, 1885)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">118</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellium collicola</tp:taxon-name></italic> (Verhoeff, 1907)</td>
+                            <td rowspan="1" colspan="1">Md</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">119</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Porcellium conspersum</tp:taxon-name></italic> C. Koch, 1841</td>
+                            <td rowspan="1" colspan="1">Bl: Belovezha Reserve; Ua</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">120</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus abricossovi</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">121</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus alabashensis</tp:taxon-name></italic> Borutzky, 1959</td>
+                            <td rowspan="1" colspan="1">Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">122</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus almaatinus</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Kz: Alma-Ata</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">123</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus anatolii</tp:taxon-name></italic> Borutzky, 1959</td>
+                            <td rowspan="1" colspan="1">Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">124</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus armenicus</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Ge: Megri</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">125</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus asiaticus</tp:taxon-name></italic> (Uljanin, 1875)</td>
+                            <td rowspan="1" colspan="1">Ru: Moscow, Nizhni Novgorod, Rostov, Ryazan’ regions; Td: Smagar massif</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">126</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus atrecicus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu: Bugdaily</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">127</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus bugdajliensis</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Tu: Bugdaily</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">128</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus cristatus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Az: Lenkoran, Sara isl.; Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">129</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus darevskii</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Ar: Megri</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">130</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus delilensis</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">131</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus desertorum</tp:taxon-name></italic> Verhoeff, 1930</td>
+                            <td rowspan="1" colspan="1">Turkestan?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">132</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus digitifer</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">133</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus fossuliger</tp:taxon-name></italic> Verhoff, 1901</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar, Rostov regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">134</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus giljarovi</tp:taxon-name></italic> Borutzky, 1957</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region; Ua: Lugansk region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">135</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus gissarensis</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Td: Dushanbe</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">136</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus hirsutulus</tp:taxon-name></italic> Verhoff, 1930</td>
+                            <td rowspan="1" colspan="1">Uz: Tashkent</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">137</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus kopetdagicus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">138</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus kryszanovskii</tp:taxon-name></italic> Borutzky, 1957</td>
+                            <td rowspan="1" colspan="1">Ru: Volgograd region, Kalmykia</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">139</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus latus</tp:taxon-name></italic> (Uljanin, 1875)</td>
+                            <td rowspan="1" colspan="1">Td: Zeravshvan valley</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">140</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus litoralis</tp:taxon-name></italic> (Budde-Lund, 1885)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">141</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus major</tp:taxon-name></italic> (Dollfus, 1903)</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region; Ua: Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">142</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus maracandicus</tp:taxon-name></italic> (Uljanin, 1875)</td>
+                            <td rowspan="1" colspan="1">Td: Smagar massif; Uz: Bukhara, Samarkand, Syrdaryinsk regions</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">143</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus marginatus</tp:taxon-name></italic> (Uljanin, 1875)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">144</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus nogaicus</tp:taxon-name></italic> Demianowitz,1931</td>
+                            <td rowspan="1" colspan="1">Md; Ru: Rostov region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">145</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus orientalis</tp:taxon-name></italic> (Uljanin, 1875)</td>
+                            <td rowspan="1" colspan="1">Az: Baku, Mardakert; Bl: Berezinsky reserve; Kz: Mangyshlak; Tu: Bugdaily; Ru: Moscow, Orenburg, Primorie regions; Ua: Kremenetz, Odessa regions, Uz: Nukus; Zakaspyisk region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">146</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus panphilovi</tp:taxon-name></italic> Borutzky, 1959</td>
+                            <td rowspan="1" colspan="1">Kg</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">147</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus politus</tp:taxon-name></italic> (C. Koch, 1841)</td>
+                            <td rowspan="1" colspan="1">Ru: Moscow region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">148</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus scythicus</tp:taxon-name></italic> Demianowicz, 1932</td>
+                            <td rowspan="1" colspan="1">Md</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">149</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus steinbergi</tp:taxon-name></italic> Borutzky, 1961</td>
+                            <td rowspan="1" colspan="1">TU: SW part</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">150</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus taschkentensis</tp:taxon-name></italic> Verhoeff, 1930</td>
+                            <td rowspan="1" colspan="1">Uz: Tashkent; Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">151</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus tashausicus</tp:taxon-name></italic> Borutzky, 1976</td>
+                            <td rowspan="1" colspan="1">Tu; Ru: Rostov region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">152</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus topczievi</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar, Rostov regions; Ua: Zaporozhye region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">153</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus tuberculatus</tp:taxon-name></italic> (Borutzky, 1945)</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">154</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus turcomanicus</tp:taxon-name></italic> Borutzky, 1945</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">155</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus tzvetkovi</tp:taxon-name></italic> Borutzky, 1975</td>
+                            <td rowspan="1" colspan="1">Kz: Alma-Ata, Uzun-Agach; Ru: Moscow region?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">156</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus uljanini</tp:taxon-name></italic> Borutzky, 1953</td>
+                            <td rowspan="1" colspan="1">Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">157</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus verhoeffi</tp:taxon-name></italic> Strouhal, 1929</td>
+                            <td rowspan="1" colspan="1">Ge: Tbilisi</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">158</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Protracheoniscus zenkevitschi</tp:taxon-name></italic> (Borutzky, 1945)</td>
+                            <td rowspan="1" colspan="1">Tu</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">159</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Psachonethes czerkessicus</tp:taxon-name></italic> Borutzky, 1969</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">160</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudobuddelundiella hostensis</tp:taxon-name></italic> Borutzky, 1967</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">161</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudobuddelundiella ljovuschkini</tp:taxon-name></italic> Borutzky, 1967</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">162</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Schizidium davidi</tp:taxon-name></italic> (Dollfus, 1887)</td>
+                            <td rowspan="1" colspan="1">Az: Divichi</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">163</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Schizidium golovatchi</tp:taxon-name></italic> Schmalfuss, 1988</td>
+                            <td rowspan="1" colspan="1">Ar: Shikalyukh; Az: Baku; Ge: Batumi</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">164</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Schizidium reinoehli</tp:taxon-name></italic> Schmalfuss, 1988</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">165</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tadzhikoniscus coecus</tp:taxon-name></italic> Borutzky, 1976</td>
+                            <td rowspan="1" colspan="1">Td</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">166</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tauroligidium stygium</tp:taxon-name></italic> Borutzky, 1950</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">167</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tauronethes lebedinskyi</tp:taxon-name></italic> Borutzky, 1949</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">168</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Titanethes albus</tp:taxon-name></italic> (C. Koch, 1841)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">169</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus azerbaidzhanus</tp:taxon-name></italic> Schmalfuss, 1986</td>
+                            <td rowspan="1" colspan="1">Az: E part</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">170</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus caucasius</tp:taxon-name></italic> (Verhoeff, 1918)</td>
+                            <td rowspan="1" colspan="1">Ab: Gagry; Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">171</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus difficilis</tp:taxon-name></italic> Radu, 1950</td>
+                            <td rowspan="1" colspan="1">Bl: Belovezha, Berezinsky reserves; Ua: S Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">172</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus ensiculorum</tp:taxon-name></italic> Verhoeff, 1949</td>
+                            <td rowspan="1" colspan="1">Ar: Yerevan</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">173</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus gagriensis</tp:taxon-name></italic> (Verhoeff, 1918)</td>
+                            <td rowspan="1" colspan="1">Ab: Gagry</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">174</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus kervillei</tp:taxon-name></italic> (Arcangeli, 1938)</td>
+                            <td rowspan="1" colspan="1">Ru: Rostov region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">175</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus lignaui</tp:taxon-name></italic> (Verhoeff, 1918)</td>
+                            <td rowspan="1" colspan="1">Ab: Gagry; Ru: Rostov region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">176</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus longipennis</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ab; Ua: S Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">177</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus lutschnikii</tp:taxon-name></italic> (Verhoeff, 1933)</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">178</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus rathkii</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ab: Sukhum; Az: Airidja; Ar: Chaldyr; Ge: Kutaisi; Bl: Belovezha pusha; Lt: Vilnius; Md; Ru: Belgorod, Kursk, Tver, Maryi-El, Kaluga, Mordovia, Moscow, Penza, Rostov, Leningrad, Saratov, Tula regions; Ua: Crimea, Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">179</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus razzautii</tp:taxon-name></italic> (Arcangeli, 1913)</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">180</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus sarculatus</tp:taxon-name></italic> (Budde-Lund, 1896)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">181</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trachelipus trachealis</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Md</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">182</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichoniscus aphonicus</tp:taxon-name></italic> Borutzky, 1977</td>
+                            <td rowspan="1" colspan="1">Ab</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">183</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichoniscus gudauticus</tp:taxon-name></italic> Borutzky, 1977</td>
+                            <td rowspan="1" colspan="1">Ab</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">184</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichoniscus pusillus</tp:taxon-name></italic> Brandt, 1833</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea, Kiev</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">185</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trichoniscus pygmaeus</tp:taxon-name></italic> Sars, 1898</td>
+                            <td rowspan="1" colspan="1">Ru: Krasnodar region</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">186</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Turanoniscus anacanthotermitis</tp:taxon-name></italic> Borutzky, 1969</td>
+                            <td rowspan="1" colspan="1">Uz: Tashkent</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">187</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tylos granuliferus</tp:taxon-name></italic> Budde-Lund, 1885</td>
+                            <td rowspan="1" colspan="1">Ru: Primorie region, S Kuril Islands</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">188</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tylos ponticus</tp:taxon-name></italic> Grebnicki, 1874</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea, Odessa</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">189</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Typhloligidium coecum</tp:taxon-name></italic> (Carl, 1904)</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">190</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Typhloligidium karabijajlae</tp:taxon-name></italic> Borutzky, 1962</td>
+                            <td rowspan="1" colspan="1">Ua: Crimea</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+    </back>
+</article>

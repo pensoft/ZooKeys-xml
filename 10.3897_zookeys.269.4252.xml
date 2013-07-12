@@ -1,0 +1,555 @@
+﻿    <!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+        <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.269.4252</article-id>
+            <title-group>
+                <article-title>Review of the Palaearctic 
+                        <italic>Acomopterella</italic> Zaitzev (Diptera, Sciaroidea, Mycetophilidae)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kallweit</surname>
+                        <given-names>Uwe</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:0B15A1CF-AD84-4819-B42A-8AA7A882746D</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Senckenberg Naturhistorische Sammlungen Dresden, Museum für Tierkunde, Königsbrücker Landstrasse 159, D-01109 Dresden, Germany
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Uwe Kallweit (<email xlink:type="simple">uwe.kallweit@senckenberg.de</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>15</day>
+                <month>2</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>269</issue>
+            <fpage>11</fpage>
+            <lpage>32</lpage>
+            <history>
+                <date date-type="received">
+                    <day>6</day>
+                    <month>11</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>9</day>
+                    <month>1</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Uwe Kallweit</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:AFF9B863-5BAD-413D-B87A-1FC759B409F0</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>The distribution of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> species in the Palaearctic region has been re-examined in this study, using recently collected material. The European species was found to be distributed in the eastern Palaearctic as well. A second Palaearctic species from Honshu (Japan) is herein described. The morphology of adult specimens was studied by light microscopy and scanning electron microscopy. The shape of functional specialized setae on mid tibiae in <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> and seven further fungus gnat genera is described and the suitability of this character for systematic studies is discussed. Details of a “hind tibial organ” are described.</p>
+                <p>The position of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> in the tribe <tp:taxon-name>Gnoristini</tp:taxon-name> is briefly discussed. <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> is found to be more closely related to <italic><tp:taxon-name>Speolepta</tp:taxon-name></italic> Edwards, 1925, than to any other recent genus.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Taxonomy</kwd>
+                <kwd>Sciaroidea</kwd>
+                <kwd>Mycetophilidae</kwd>
+                <kwd><italic>Acomopterella</italic></kwd>
+                <kwd>new species</kwd>
+                <kwd>Central Europe</kwd>
+                <kwd>North Europe</kwd>
+                <kwd>Alps</kwd>
+                <kwd>Sakhalin</kwd>
+                <kwd>Hokkaido</kwd>
+                <kwd>Honshu</kwd>
+                <kwd>morphology</kwd>
+                <kwd>functional specialized setae</kwd>
+<!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><tp:taxon-name>Sciaroidea</tp:taxon-name>, i.e. fungus gnats s.l. are of global distribution, quite diverse, with far more than 10.000 named species. Fungus gnats are excellent indicators in the assessment of forest habitats in terms of nature conservation. <tp:taxon-name>Mycetophilidae</tp:taxon-name> and <tp:taxon-name>Sciaridae</tp:taxon-name> play an important role in the economy of nature, even if that has not yet been shown by quantitative analyses. Several ecological and faunistic studies give an impression of the predominance of this <tp:taxon-name>Diptera</tp:taxon-name> group, especially in woodland habitats, e.g. <xref ref-type="bibr" rid="B6">Engel (1995)</xref>, <xref ref-type="bibr" rid="B15">Kleinevoss et al. (1996)</xref>, <xref ref-type="bibr" rid="B8">Heller (1996)</xref>. The number of described species is constantly increasing, and the identification of single species is becoming progressively safer and easier. The present study provides new taxonomic and distributional data on the genus <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> Zaitzev, which was defined in 1989, for a species from the Western Nearctic. <sup></sup>The second species of this genus, <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> Ševčík &amp; Chandler, 2008 was described from several places in the Czech Republic and from the Tyrolean Alps. The authors also synonymised the type species of the genus with a species previously described in the genus <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> Winnertz, 1846, a global genus with a vast number of named species. The present investigation has led to additional data and discovery of an undescribed species.</p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>This study is based primarily on material from the Senckenberg Naturhistorische Sammlungen Dresden (SNSD), partially collected by the author. Malaise trap and sweep net samples from the Bavarian Alps, and from the islands of Sakhalin and Honshu were included. The type specimen of the newly described species is deposited in Dresden.</p>
+            <p>In addition to the two species treated in detail below, one specimen of <italic><tp:taxon-name>Archaeboletina tipuliformis</tp:taxon-name></italic> Meunier, 1904, a Baltic amber fossil was studied. Besides the species description, a second focus was directed on the ultrastructure of functional specialized tibial setae in 13 <tp:taxon-name>Mycetophilidae</tp:taxon-name> species. Most previous studies have been carried out using light microscopy; the present one was performed with scanning electron microscopy (SEM). In many cases optical refraction does not allow the user to study details of hyaline structures, but SEM does. Functional specialized tibial setae were studied in <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>, <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Speolepta leptogaster</tp:taxon-name></italic> Winnertz, 1863, <italic><tp:taxon-name>Ectrepesthoneura hirta</tp:taxon-name></italic> Winnertz, 1846, <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> (2 unidentified species from the Far East and from New Zealand), <italic><tp:taxon-name>Synapha fasciata</tp:taxon-name></italic> Meigen, 1818,<italic> Docosia diutina</italic> Plassmann, 1996, <italic><tp:taxon-name>Coelophthinia thoracica</tp:taxon-name></italic> Winnertz, 1863,<italic> Phthinia humilis</italic> Winnertz, 1863,<italic> Phthinia winnertzi</italic> Mik, 1869,<italic> Polylepta guttiventris</italic> (Zetterstedt, 1852) and <italic><tp:taxon-name>Polylepta borealis</tp:taxon-name></italic> Lundström, 1912.</p>
+            <p>Specimens are mounted on microscope slides or kept in 70% ethanol. The amber fossil has been preserved in polyester, following Hoffeins’ preparation method (2001). They were studied with the aid of an Olympus SZH10 stereomicroscope. For light microscope study and the preparation of drawings an Olympus BH2 was used. <!--PageBreak-->Photographs were taken with a digital Olympus C-3030 camera attached to Olympus SZH10 and BH-2 microscopes. SEM photos were taken by a Zeiss SmartSEM<sup>TM</sup>, Type Supra 55VP. Length measurements were taken of slide-mounted specimens only. The lengths of wing veins were assessed with the base of the stem vein as the basalmost point. The wing index, used to describe the shape of the wing, is the ratio of the wing length to its width. Morphological terminology, including abbreviations, follows <xref ref-type="bibr" rid="B19">McAlpine (1981)</xref>, <xref ref-type="bibr" rid="B28">Søli (1997)</xref>, <xref ref-type="bibr" rid="B18">Matile (1990)</xref> and <xref ref-type="bibr" rid="B1">Blaschke-Berthold (1994)</xref>. The terminology in the egg description follows <xref ref-type="bibr" rid="B17">Mazzini et al. (1992)</xref> and <xref ref-type="bibr" rid="B23">Plachter (1981)</xref>. The genus definition, given by <xref ref-type="bibr" rid="B36">Zaitzev (1989)</xref>, has been adopted. <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> is re-described at length, based on eastern Palaearctic specimens.</p>
+        </sec>
+        <sec sec-type="Taxonomy">
+            <title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>Genus</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Acomopterella</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Acomopterella</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Zaitzev, 1989</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Acomopterella</tp:taxon-name><comment> Zaitzev, 1989: 134 (description); Ševčík &amp; Chandler: 2008: 63 (discussion).</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+								<tp:treatment-sec sec-type="Type species">
+                    <title>Type species.</title>
+										<p><italic><tp:taxon-name>Acomopterella arnaudi</tp:taxon-name></italic> Zaitzev, 1989: 134 (by original designation) = <italic><tp:taxon-name>Tetragoneura fallax</tp:taxon-name></italic> Sherman, 1925: 20.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>(based on Zaitzev’s original genus description, with additions).</p>
+                    <p><bold>Body</bold> length 4.6-5.9 mm. <bold>Head</bold>. With 3 ocelli. Mid ocellus slightly in front of the lateral ocelli. Lateral ocelli scarcely to distinctly remote from eye margin. Eyes with short setulae. Face rather flat, bare or setose. Clypeus oval, slightly bulging, setose. Face and clypeus loosely connected. Palpi pentamerous. Antennae 16-segmented, 2-3 times length of the thorax. Length of mesial flagellomeres 3-5 times their own width. <bold>Thorax</bold>. Scutum with short, close lying acrostichal and long erect dorsocentral bristles. Scutellum with 2 very long medial bristles. Mediotergite, laterotergites and pleura bare. <bold>Wing</bold>. Transparent. Wing membrane with microtrichia only. C, the apical part of ta, R1, R5, M1, M2, M4 and CuA with macrotrichia. C extending to the tip of R5. R4 present; ta oblique, slightly shorter than stem of fork M1 + M2. Base of M4 on level of base of ta or slightly more proximal. Vein A well developed, its tip behind the level of base of ta or ending slightly before. Between A and the stem of fork M4 + CuA lies the weakly sclerotized vein CuP, traceable as fold line. <bold>Legs.</bold> Long. Fore coxae with numerous long bristles on its frontal side. Apical part of mid coxae with bristles on its lateral and frontal surface. Hind coxae with a row of very long bristles on the hind lateral surface. Mid tibiae with well developed tibial organ on its basal part. Tarsal claws with teeth. Empodia well developed. <bold>Abdomen</bold>. Segments 1–7 of normal size. Tergite 8 vestigial; Sternite 8 exceeding half length of sternite 7. Tergite 9 rectangular, with deep distal incision. Gonocoxites with apical processes.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments">
+                    <title>Comments.</title>
+                    <p>The described genus belongs to the tribe <tp:taxon-name>Gnoristini</tp:taxon-name> in the subfamily <tp:taxon-name>Sciophilinae</tp:taxon-name>. It is similar to <italic><tp:taxon-name>Dziedzickia marginata</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B3">Dziedzicki 1885</xref>), but differing <!--PageBreak-->by bare laterotergites and a much longer vein ta. It differs from the Holarctic genus <italic><tp:taxon-name>Acomoptera</tp:taxon-name></italic> Vockeroth, 1980, in the position of Sc (in <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> it joins R1, in <italic><tp:taxon-name>Acomoptera</tp:taxon-name></italic> C), in the shape of the cell between Rs and R4 (distinctly longer in <italic><tp:taxon-name>Acomoptera</tp:taxon-name></italic>) and in the strikingly longer ta. The genus is also similar to <italic><tp:taxon-name>Austrosynapha</tp:taxon-name></italic> Tonnoir, 1929, known from South America, New Zealand and Tasmania. Typical in both genera is the absence of setae on the laterotergites and the presence of a relatively long oblique vein ta. In <italic><tp:taxon-name>Austrosynapha</tp:taxon-name></italic> vein R4 is absent.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Acomopterella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">martinovskyi</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Acomopterella_martinovskyi</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Ševčík &amp; Chandler, 2008</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1–2, 4–5, 7–8</xref>
+                    <xref ref-type="fig" rid="F3">10–13</xref>
+                    <xref ref-type="fig" rid="F3">14–20</xref>
+                    <xref ref-type="fig" rid="F6">33–34</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>A distinctive species with vein M4 basally detached, thus no complete hind fork present (<xref ref-type="fig" rid="F1">Fig. 2</xref>). There is a tendency to basalization of radial veins, so that R1 is foreshortened. C extending beyond apex of R5 for 1/3 distance to M1. Subcosta ending directly in R at the level of base of ta. Crossvein ta nearly horizontal, long, subequal in length to M-stem. A single setum chaeticum of the mid tibial organ has 7-9 filamentous branches (<xref ref-type="fig" rid="F6">Fig. 34</xref>). Empodium well developed (<xref ref-type="fig" rid="F2">Fig. 12</xref>). Gonostylus simple, tapered (<xref ref-type="fig" rid="F3">Fig. 14</xref>). Gonocoxites ventrally widely separated, having only a narrow basal sclerotized connection. Cerci with strikingly dense, long hairs, which are mostly directed proximad (<xref ref-type="fig" rid="F3">Figs 18–20</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Male. <bold>Head.</bold> <xref ref-type="fig" rid="F1">Fig. 4</xref>. Head capsule, labella and antennae brown, palpi yellow. With three ocelli in a broad triangle. Median ocellus slightly smaller than the lateral ones. The median ocellus is surrounded by the medioocellar suture, with narrow pseudosclerite above ocellus. Lateral ocelli less than two times its own diameter distant from eye margin. Compound eyes covered with interommatidial setulae, with only some few blank interommatidial spaces near the dorsal eye margin. Ommatidia densely arranged. Basal palpomere distinct, ventrally extended, covering palpomere 2 for some distance. Second palpomere quite small, with 1–2 minute setae. Third palpomere with numerous sensilla claviformis that are evenly dispersed over the basal 3/4 of the inner surface of palpomere 3 (<xref ref-type="fig" rid="F1">Fig. 8</xref>), a few setae situated mainly apically. Palpomeres 4 and 5 loosely scattered with similar setae, as present in the preceding segment. Scape and pedicel with few stronger setae, flagellomeres 1–3 with few small setae dorsally. Flagellomeres cylindrical, with trichia not reaching the length of a flagellomere diameter (<xref ref-type="fig" rid="F1">Fig. 5</xref>). The antennal flagellomeres are sparsely scattered with sensilla chaetica (<xref ref-type="fig" rid="F1">Figs 5, 7</xref>), with a decreasing number of sensilla towards the tip of the flagellum. The antennal surface between the described vestiture is smooth. Antenna reaching 4<sup>th</sup> abdominal segment. Face with 4–6, clypeus with several more setae. The premental apodeme is small, its posterior part weakly sclerotized and hardly traceable.</p>
+                    <p><bold>Thorax.</bold> <xref ref-type="fig" rid="F2">Fig. 10</xref>. Uniformly brown. Scutum shining, dome shaped, with long erect acrostichal, dorsocentral and lateral setae. Antepronotum with 2 large and a further few <!--PageBreak-->tiny setae, proepisternum with 1-2 large setae and a few tiny setae. Meso- and metapleuron, laterotergite and mediotergite bare. Scutellum with 2 strong and several smaller setae.</p>
+                    <p><bold>Wing.</bold> <xref ref-type="fig" rid="F1">Fig. 2</xref>. Length 3.8-4.7 mm. Wing index 2.6. Wings clear, membrane with microtrichia only. Subcosta ending at level of base of ta in R, or shorter. Radial veins, M1, M2, M4 and CuA setose on the dorsal surface, R1 ventrally setose at tip. Other veins bare. Stem of median fork long, about 0.16 times wing length. The position of vein R4 is slightly variable, depending its distance from Rs. Vein R5 a little downcurved apically, costa exceeding its tip for one third of its distance to M1. M4 long, visible far before level of ta-base, basally detached. Haltere yellow.</p>
+                    <p><bold>Legs</bold>. Entirely pale brown. Hind coxae on its posterior ridge with a row of setae. Tibial and tarsal trichiae irregularly arranged. Hind tibiae with 4 ventral, 3 posterior, 2 posterodorsal, 1 dorsal, 6-7 anterodorsal and 10 anterior setae, the posterodorsals as long as tibial width, the other are shorter than tibial width. Mid tibia with 3 ventral, 3 anterior, 3 dorsal and 5-7 posterior setae, all of them shorter than tibial width. Fore tibia with 3 dorsal and 4 posterior setae. Mid tibia slightly swollen at its base, with an elongated patch of specialized seta chaetica (<xref ref-type="fig" rid="F6">Figs 33-34</xref>). The single setum chaeticum has 7-9 filamentous branches, subequal in length and width. Hind tibia without apical comb. Tibial spurs 1:2:2, mid and hind spurs longer than tibial width. Empodium of normal size (<xref ref-type="fig" rid="F2">Fig. 12</xref>). Fore basitarsus 1.1 times longer than tibia.</p>
+                    <p><bold>Abdomen</bold>. All abdominal segments including terminalia brown, with pale hairs. Segments 2–5 long, 6 and 7 a little shorter. Tergite 8 vestigial (<xref ref-type="fig" rid="F3">Fig. 17</xref>) and completely retracted, sternite 8 reduced in width, partly retracted. <bold>Terminalia.</bold> <xref ref-type="fig" rid="F3">Figs 14–20</xref>. Tergite 9 medium sized, twice as broad as long, together with cerci covering 3/4 of the gonocoxites. Gonocoxites ventrally widely separated, having only a narrow basal sclerotized connection. Parameres long, hardly reaching gonocoxal apex. Gonostylus medium sized, about half as long as gonocoxite, very slightly (Europe) to double bent (Far East) and simply tapered. European specimens have the gonostylus slightly shorter, maybe reaching 1/3 of gonocoxite length. Cerci with strikingly dense, long hairs, which are directed proximad. Hypoproct weakly sclerotized, horseshoe-shaped, with two strong apical setae (<xref ref-type="fig" rid="F3">Fig. 16</xref>).</p>
+                    <p>Female. <bold>Head</bold>. Antenna reaching 3<sup>rd</sup> abdominal segment. <bold>Legs.</bold> Front tarsi unmodified, except for the prolonged basitarsus. No mid tibial organ present. <bold>Terminalia.</bold> Gonocoxite 8 widely rounded, with a couple of distad directed apical setae (<xref ref-type="fig" rid="F2">Fig. 13</xref>). Tergites 9 &amp; 10 sparsely setose. Cerci setose, basicercus twice as long as disticercus. Cerci directed ventrad. <bold>Egg</bold>. A single egg is 410 µm long and 135 µm in diameter. The dorsal and lateral parts of the eggshell are characterized by indistinct longitudinal rows of rosette-like, hexagonally arranged superficial layers, reaching the posterior pole (<xref ref-type="fig" rid="F4">Fig. 21</xref>). The dorsal and lateral surface is described best as being irregularly rough and sharp-edged (<xref ref-type="fig" rid="F4">Fig. 25</xref>). The micropyle is distinct, its surrounding area with 10-20 isolated plugs (<xref ref-type="fig" rid="F4">Fig. 22</xref>). The lateral transition zone has the hexagonal structures gradually suppressed. The ventral surface is more flattened and rugose (<xref ref-type="fig" rid="F4">Fig. 21</xref>), with a central plate of differing structure. The ventral plate has a rounded outline and is distinguished by dense-set, simple to three-pieced upright columns (<xref ref-type="fig" rid="F4">Figs 23, 24</xref>). The <!--PageBreak-->egg of <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> is distinct from that of other fungus gnat species by its rough dorsal and lateral surface. It resembles other species in the general structure of the micropylar area, the flattened bottom and the presence of a ventral plate. The structure of a ventral plate on <tp:taxon-name>Mycetophilidae</tp:taxon-name> eggshells was described by <xref ref-type="bibr" rid="B17">Mazzini et al. (1992</xref>, p. 34) for the first time, in 3 <italic><tp:taxon-name>Mycomya</tp:taxon-name></italic> species.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution and phenology.</title>
+                    <p><italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> is known from several localities in the Czech Republic, from the Tyrolean Alps (Austria), the Bavarian Alps (Germany), from Sweden (<xref ref-type="bibr" rid="B14">Kjaerandsen 2012</xref>), from Sakhalin (Russia) and Hokkaido (Japan).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material studied">
+                    <title>Material studied.</title>
+                    <p>2 males (on slide and in ethanol), Germany, Bavaria, Allgaeu, Mt. Ponten (Alps), East of Hinterstein, SE of Sonthofen, 1840 m, <named-content content-type="dwc:verbatimCoordinates">47°31'N, 10°18'E</named-content>; Malaise trap; collector Voith. 1 male (in ethanol), Russia, Sakhalin Island, southern part near city Yuzhno Sakhalinsk, 200 m; mixed broadleaved forest; <named-content content-type="dwc:verbatimCoordinates">142°45'E, 47°00'N</named-content> ;1–5 Oct. 1993 Yellow pan trap; 200m; collector U. Kallweit. 1 female, 4 males (on slide), Japan, Hokkaido, Ogusawa-suigenchi area; near city of Otaru; <named-content content-type="dwc:verbatimCoordinates">141°00'30"E, 43°10'30"N</named-content>, 100m; 28 June 1997; sweep net, collector U. Kallweit.</p>
+                    <p>Other material, pictures taken by electron-scanning microscope: 1 male. Japan, Hokkaido, Ogusawa-suigenchi area; near city of Otaru; <named-content content-type="dwc:verbatimCoordinates">141°00'30"E, 43°10'30"N</named-content>, 100m; 28 June 1997; sweep net, collector U. Kallweit.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Acomopterella</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">yoshiwae</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:1C2B125A-45E0-453D-9124-4E673CEAC095</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Acomopterella_yoshiwae</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Kallweit</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">sp.n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 3, 6</xref>
+                    <xref ref-type="fig" rid="F2">, 9</xref>
+                    <xref ref-type="fig" rid="F5">, 26–30</xref>
+                    <xref ref-type="fig" rid="F6">, 31–32</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>The species is characterized by a peculiar extended fore basistarsus, which is 1.5 times as long as the fore tibia. A strong basalization of radial veins has led to the nearly horizontal crossvein ta and foreshortened R1. C extending beyond apex of R5 for 1/3 distance to M1. Subcosta ending a short distance before base of ta in R. Crossvein ta not reaching the length of M-stem. A single setum chaeticum of the mid tibial organ has 2 filamentous branches (<xref ref-type="fig" rid="F6">Fig. 32</xref>). Empodium well developed. The gonostylus of <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> consists of two completely separated lobes (<xref ref-type="fig" rid="F5">Figs 26–27</xref>). Gonocoxites ventrally separated, having only a narrow basal sclerotized connection. Cerci small, with few apical setae (<xref ref-type="fig" rid="F5">Fig. 28</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Male. <bold>Head.</bold> Head capsule, labella and antennae brown, palpi yellow. With three ocelli in a broad triangle. Median ocellus half the diameter of the lateral ones. Median ocellus surrounded by the medioocellar suture, with a narrow pseudosclerite above the ocellus. Lateral ocelli nearly contiguous to eye margin. Compound eyes covered with interommatidial setulae, with only some few blank interommatidial spaces near the dorsal eye margin. Ommatidia densely arranged. Palpi as in <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>. Scape and pedicel with few stronger setae, flagellomeres without setae. Flagellomeres cylindrical, with trichia not reaching the length of a flagellomere diame<!--PageBreak-->ter (<xref ref-type="fig" rid="F1">Fig. 6</xref>). The antennal flagellomeres are sparsely scattered with sensilla chaetica (<xref ref-type="fig" rid="F1">Fig. 6</xref>), with a decreasing number of sensilla towards the tip of the flagellum. The antennal surface between the described vestiture is smooth. Antenna reaching 4<sup>th</sup> abdominal segment. Face and clypeus far-reaching fused, with few setae. The premental apodeme is small, posterior part weakly sclerotized and hardly traceable.</p>
+                    <p><bold>Thorax.</bold> <xref ref-type="fig" rid="F2">Fig. 9</xref>. Uniformly brown. Scutum rather flattened; with pale, long erect acrostichal, dorsocentral and lateral setae. Antepronotum with 2 large and a further few tiny setae, proepisternum with 1 medium sized seta and few tiny setae. Meso- and metapleuron, laterotergite and mediotergite bare. Scutellum with 2 strong and several smaller setae.</p>
+                    <p><bold>Wing.</bold> <xref ref-type="fig" rid="F1">Fig. 3</xref>. Length 4.3 mm. Wing index 2.7. Wings clear, membrane with microtrichia only. Subcosta ending a short distance before base of ta in R. Radial veins, M1, M2, M4 and CuA setose on the dorsal surface, other veins including basal part of CuA bare. Stem of median fork long, about 0.16 times wing length. Length of radial cell 3 times its own width. Vein R5 a little downcurved apically, costa exceeding its tip for 1/3 distance to M1. M4 meets CuA nearly exactly below base of ta. Haltere yellow.</p>
+                    <p><bold>Legs</bold>. Entirely pale brown. Hind coxae on its posterior ridge with a row of setae. Tibial and tarsal trichiae irregularly arranged. Hind tibiae with 5-7 tiny posteroventral setae in apical half, 6 posterior and 6 anterior setae. Mid tibia with 4 anterior, 4 antero<!--PageBreak-->dorsal, 2 posterior and 3 posteroventral setae. Fore tibia with 1 ventral seta. All tibial setae are shorter than tibial width. Mid tibia slightly swollen at its base, with an elongated patch of specialized seta chaetica (<xref ref-type="fig" rid="F6">Figs 31–32</xref>, <xref ref-type="table" rid="T1">Table 1</xref>). The single setum chaeticum has 2 filamentous branches, subequal in length and width. Hind tibia without apical comb. Tibial spurs 1:2:2, subequal in length. Empodium of normal size, similar to that of <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>. Fore basitarsus 1.5 times longer than tibia.</p>
+                    <p><bold>Abdomen</bold>. All abdominal segments including terminalia brown, with pale hairs. Segments 2-6 long, segment 7 little shorter. Tergite 8 vestigial and completely retracted, sternite 8 reduced in width, partly retracted. <bold>Terminalia.</bold> <xref ref-type="fig" rid="F5">Figs 26–30</xref>. Tergite 9 medium sized, square, together with cerci covering half of the gonocoxites. Gonocoxites ventrally separated, having only a narrow basal sclerotized connection, which possibly represents the remainder of sternite 9. Parameres short, apically rounded. The gonostylus consists of two, completely separated lobes. The dorsal lobus is stout, strongly sclerotized and directed posterad. The ventral lobus is slender, less sclerotized, multicuspidate and directed ventrad. Cerci small, with few apical setae. Hypoproct weakly sclerotized, with two strong apical setae.</p>
+                    <p>Female unknown.</p>
+                    <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Details of specialized setae, situated at the upper outer side of tibiae. Abbreviations: Gnor = <tp:taxon-name>Gnoristini</tp:taxon-name>  &amp; Scio = <tp:taxon-name>Sciophilini</tp:taxon-name>.</p></caption>
+                <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="2" colspan="1">Species</th>
+                                    <th rowspan="2" colspan="1">Tribe</th>
+                                    <th rowspan="2" colspan="1">Figures</th>
+                                    <th rowspan="1" colspan="2">Position of tibia</th>
+                                    <th rowspan="1" colspan="6">Shape of the single specialized seta</th>
+                                </tr>
+                                <tr>
+                                    <th rowspan="1" colspan="1">mid</th>
+                                    <th rowspan="1" colspan="1">hind</th>
+                                    <th rowspan="1" colspan="1">simple</th>
+                                    <th rowspan="1" colspan="1">complex</th>
+                                    <th rowspan="1" colspan="1">foliiform</th>
+                                    <th rowspan="1" colspan="1">filamentous</th>
+                                    <th rowspan="1" colspan="1">branched</th>
+                                    <th rowspan="1" colspan="1">peglike</th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">31–32</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">33–34</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coelophthinia thoracica</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Scio</td>
+                                    <td rowspan="1" colspan="1">49&amp;55</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Docosia diutina</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">45-48</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ectrepesthoneura hirta</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">37-38</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X?</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Phthinia humilis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Scio</td>
+                                    <td rowspan="1" colspan="1">50&amp;54</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Phthinia winnertzi</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Scio</td>
+                                    <td rowspan="1" colspan="1">51&amp;57</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Polylepta guttiventris</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Scio</td>
+                                    <td rowspan="1" colspan="1">52&amp;56</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Polylepta borealis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Scio</td>
+                                    <td rowspan="1" colspan="1">53&amp;58</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Speolepta leptogaster</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">35–36</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Synapha fasciata</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">43–44</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> sp. (FarEast)</td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">39–40</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> sp. (New Zealand)</td>
+                                    <td rowspan="1" colspan="1">Gnor</td>
+                                    <td rowspan="1" colspan="1">41–42</td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1">X</td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                    <td rowspan="1" colspan="1"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution and phenology.</title>
+                    <p><italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n. was collected from an old-growth deciduous / coniferous forest at Mt. Kanmuri on the island of Honshu.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>The name refers to the origin of this species from Yoshiwa Village, Hiroshima Pref., Honshu, Japan.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Holotype">
+                    <title>Holotype.</title>
+                    <p><bold>male</bold> (on slide), Japan, Honshu, Hiroshima Pref., Yoshiwa Village, Mt. Kanmuri; mature mixed deciduous / coniferous forest; 1000 m; 28 Sep.–22 Oct. 1999; Malaise trap; collector M. Jaschhof (SNSD).</p>
+                    <sec sec-type="Key to species of Acomopterella, imagines only">
+                        <title>Key to species of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic>, imagines only</title>
+                        <table-wrap content-type="key" position="anchor" orientation="portrait">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">1</td>
+                                        <td rowspan="1" colspan="1">Vein M4 detached at base. With ventral gonocoxal projection only. Striking long cercal setae (<xref ref-type="fig" rid="F3">Figs 18–20</xref>)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> Ševčík &amp; Chandler</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">M4 meets vein CuA below base of ta. With ventral &amp; dorsal gonocoxal projection</td>
+                                        <td rowspan="1" colspan="1">3</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">3</td>
+                                        <td rowspan="1" colspan="1">Gonostylus of 2 separated lobes (<xref ref-type="fig" rid="F5">Figs 26-27</xref>)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Gonostylus simple, tapered</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Acomopterella fallax</tp:taxon-name></italic> Sherman (Nearctic)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                    </sec>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <sec sec-type="Inner- and intergeneric relationships">
+                <title>Inner- and intergeneric relationships</title>
+                <p>The study provides new records of <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> from Europe and the first records of this species from eastern Palaearctic localities. This species has a quite <!--PageBreak-->low specimen density, thus very few records are known. The new records suggest it is a relict species with 2 distinct allopatric populations: (1) Central &amp; North European – Alpine (2) Far Eastern. The populations are distinct by minimal morphological differences of the male terminalia, i.e. far eastern specimens have the apical half of gonostylus double bent (<xref ref-type="fig" rid="F3">Fig. 14</xref>) and longer than it is in the european specimens. The european specimens are considered to be morphological homogenous, with the apical, tapered half of the gonostylus being shorter and simply bent (Ševčík &amp; Chandler 2008, Figs 3–5). Additionally, the secondspecies was found from only one location on the island of Honshu.</p>
+                <p>Males of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> have a patch of specialized setae on the outer surface of the mid tibia. The ultrastructure of these setae has been studied using SEM photographs on Palaearctic species of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> and several representative species of other genera of <tp:taxon-name>Mycetophilidae</tp:taxon-name>. In the herewith studied species these structures are diagnostic on the generic level, e.g. these setae are filamentous in <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> and <italic><tp:taxon-name>Ectrepesthoneura</tp:taxon-name></italic>, leaf-like in <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic>, leaf-like and slightly curled in <italic><tp:taxon-name>Synapha</tp:taxon-name></italic>, leaf-like and branched in <italic><tp:taxon-name>Speolepta</tp:taxon-name></italic>, filamentous and branched in <italic><tp:taxon-name>Coelophthinia</tp:taxon-name></italic> and <italic><tp:taxon-name>Phthinia</tp:taxon-name></italic>, tapered in <italic><tp:taxon-name>Polylepta</tp:taxon-name></italic>. The present study of the mid tibial organ was restricted to only few genera, mainly to find arguments for the close relationship of <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> and <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n. Previous studies did not describe these specialized setae detailed enough. The relative similarity of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> to some other representatives of the clade <tp:taxon-name>Gnoristini</tp:taxon-name> is discussed below. <italic><tp:taxon-name>Dziedzickia marginata</tp:taxon-name></italic> is different from <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic>, as stated here, in the relative length of the subcosta, which ends with a rounded bow in R, shortly but distinctly distal from Rs. In addition there are further traits of <italic><tp:taxon-name>Dziedzickia marginata</tp:taxon-name></italic> quite different from <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic>: mesanepisternum finely hairy along its posterior margin, metepisternum on its entire surface with fine hairs and laterotergite with rather long hairs. Mesanepisternal hairs of medium length, metepisternal hairs short. <italic><tp:taxon-name>Dziedzickia marginata</tp:taxon-name></italic> has a deep sensory pit on the anteromedial side of palpomere 3. Flagellomeres with a touch of polygon-like pattern on its surface. Male abdominal segments 7 and 8 strongly reduced in size, segment 7 partly retracted. Female terminalia rather small, especially cerci. The two segmented cerci are directed posteriad. In comparison to <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic>, species of <italic><tp:taxon-name>Palaeodocosia</tp:taxon-name></italic>, <italic><tp:taxon-name>Acomoptera</tp:taxon-name></italic>, <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> and <italic><tp:taxon-name>Ectrepesthoneura</tp:taxon-name></italic> have a stouter body and legs and are distinct in their general peculiar construction of male terminalia, including all hitherto studied fossils of these genera (pers. observation, unpublished). <italic><tp:taxon-name>Synapha</tp:taxon-name></italic> is distinct from <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> at least by having a conspicuous sensory pit on its 3<sup>rd</sup> palpomere and male terminalia of simple, i.e. plesiomorphic type. <italic><tp:taxon-name>Archaeboletina</tp:taxon-name></italic> and <italic><tp:taxon-name>Speolepta</tp:taxon-name></italic> are obviously the most closely related genera to <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic>, especially considering the quite similar wing venation and length of the fore basitarsus. The close relation between <italic><tp:taxon-name>Speolepta</tp:taxon-name></italic> and <italic><tp:taxon-name>Archaeboletina tipuliformis</tp:taxon-name></italic>, from Baltic amber, was already mentioned by Edwards (1940, p. 123). Otherwise, <italic><tp:taxon-name>Archaeboletina</tp:taxon-name></italic> has terminalia of an ancestral, simple structure and tibial setae in distinct rows.</p>
+                <p><!--PageBreak--><italic><tp:taxon-name>Speolepta</tp:taxon-name></italic>, <italic><tp:taxon-name>Archaeboletina</tp:taxon-name></italic>, <italic><tp:taxon-name>Dziedzickia marginata</tp:taxon-name></italic>, <italic><tp:taxon-name>Palaeodocosia</tp:taxon-name></italic> and S<italic>ynapha</italic> share all traits that form the clade <tp:taxon-name>Gnoristini</tp:taxon-name>, as <xref ref-type="bibr" rid="B31">Väisänen (1986)</xref> has treated at length, even if the monophyly of <tp:taxon-name>Gnoristini</tp:taxon-name> is not yet finally established, and thus <tp:taxon-name>Gnoristini</tp:taxon-name> cannot be reliably defined. But it shows at least, that these genera do not belong to other groups, such as <tp:taxon-name>Sciophilinae</tp:taxon-name> s. str. (mediotergite setose), <tp:taxon-name>Leiinae</tp:taxon-name> (weakly delimited by combination of short vein R1 and hind tibial setae distinctly longer than tibial diameter) or <tp:taxon-name>Mycetophilinae</tp:taxon-name> s. str. (wing microtrichia in definite lines).</p>
+                <p><italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> and<italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n. have the anterior transversal vein (ta) quite prolonged and horizontal, together with shortening of R1. This transformation is simply the consequence of wing vein costalization, a general trend in <tp:taxon-name>Diptera</tp:taxon-name>. It is visible in other <tp:taxon-name>Gnoristini</tp:taxon-name> as well, e.g. <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> or <italic><tp:taxon-name>Docosia</tp:taxon-name></italic>. There is no doubt that <tp:taxon-name>Leiini</tp:taxon-name> are a monophyletic group (<xref ref-type="bibr" rid="B11">Jaschhof and Kallweit 2009</xref>), though the foreshortened vein R1 may not be seen any longer as an unique synapomorphy of <tp:taxon-name>Leiinae</tp:taxon-name>.</p>
+                <p>Despite differences in structure of terminalia, the two Palaearctic <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> species under discussion should be assigned to one genus, because details of head, thorax, legs and wings are more similar between them, than to any other species in related genera. On the other hand, presence of two, independently inserted gonostylar lobi on both sides, in comparison to only one lobus, is in fungus gnats usually to be seen as diagnostic on generic level. That is the weak point in the present classification of <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic>. At the present stage of knowledge, I explain this difference by long-term reproductive isolation of both groups.</p>
+                <p>Palaearctic species of <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> have a prolonged fore basitarsus in common, which is longer than the tibia. <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> has the fore basistarsus 1.1 times longer than the tibia, in both populations, eastern and western Palaearctic. In <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic>sp. n. the fore basitarsus is 1.5 times longer than the tibia. In addition, <italic><tp:taxon-name>Archaeboletina</tp:taxon-name></italic> has the fore basitarsus 1.2 times longer than the tibia. This long fore basitarsus is unique within the clade <tp:taxon-name>Gnoristini</tp:taxon-name>. <xref ref-type="bibr" rid="B36">Zaitzev (1989)</xref> has described <italic><tp:taxon-name>Acomopterella fallax</tp:taxon-name></italic> as having the fore tibia slightly longer than the fore basitarsus.</p>
+                <p>The subcosta in both species is long, ending immediately in front of the base of the anterior transversal vein. Males have a mid tibial organ on the dorsal basal third of the tibia, females do not. Female cerci are directed ventrad. Considering these features as a complex trait, one may conclude that <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n. and <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> are congeneric.</p>
+            </sec>
+            <sec sec-type="Modified setae of the legs in selected Mycetophilidae imagines">
+                <title>Modified setae of the legs in selected <tp:taxon-name>Mycetophilidae</tp:taxon-name> imagines</title>
+                <p>The legs of <tp:taxon-name>Mycetophilidae</tp:taxon-name> may possess conspicuously modified setae and other cuticular structures. FORE LEGS: The hitherto best known structure is the “Fore tibial organ” (<xref ref-type="fig" rid="F2">Fig. 11</xref>), which was described in detail by Blaschke-Berthold (1994, p. 50), as mainly consisting of a glandular layer and a comb of setae. This fore tibial <!--PageBreak-->organ is an autapomorphy of <tp:taxon-name>Sciaroidea</tp:taxon-name>. MID LEGS: There is a patch of specialized setae (<xref ref-type="fig" rid="F6">Figs 31</xref><xref ref-type="fig" rid="F7">-44</xref>, <xref ref-type="fig" rid="F8">49-58</xref>) found in many species of the <tp:taxon-name>Mycetophilidae</tp:taxon-name> tribes <tp:taxon-name>Sciophilini</tp:taxon-name> and <tp:taxon-name>Gnoristini</tp:taxon-name> (“sensory pit” of <xref ref-type="bibr" rid="B10">Hutson et al. 1980</xref>, p.18; “specialized sensory depression” of <xref ref-type="bibr" rid="B33">Vockeroth 1981</xref>, p. 226; “tibial sensory groove or pit” by <xref ref-type="bibr" rid="B28">Søli 1997</xref>, p. 25). Most recent studies have shown it in species of <italic><tp:taxon-name>Manota</tp:taxon-name></italic> (<tp:taxon-name>Manotinae</tp:taxon-name>) as well (Jaschhof &amp; Jaschhof 2010, p. 29). A comparative outline of this structure was provided for the first time by Chandler (1980, p. 28), who called it “sensory area” resp. “sensory pit”. The general structure of this area and accessory setae is quite similar among certain species of the same genus (see table A), even though it is frequently absent in species closely related to others bearing it. There are species which exhibit it in both sexes, as in <italic><tp:taxon-name>Coelophthinia</tp:taxon-name></italic> and <italic><tp:taxon-name>Phthinia</tp:taxon-name></italic>, but in the vast majority of the known species, including <italic><tp:taxon-name>Manota</tp:taxon-name></italic>, it is present in males only. The patch of specialized setae on fungus gnat mid tibiae may be an autapomorphy of <tp:taxon-name>Mycetophilidae</tp:taxon-name>, even though it is most often reduced or not expressed. Its taxonomic value for discrimination of the few studied species is evident, however it is not known well enough for use in higher classification. The specialized tibial setae, recently studied in 13 species in 9 genera of <tp:taxon-name>Mycetophilidae</tp:taxon-name>, are membranous and transparent. The single seta may be a sensillum chaeticum or glandular chaeta (sensu Francesca Vegliante, pers. comm.). Its possible function remains unclear, pending ongoing histological examination. HIND LEGS: A patch of modified tibial setae is also present in the male of <italic><tp:taxon-name>Docosia diutina</tp:taxon-name></italic> (females are still unknown). It has the same position on the hind tibia (<xref ref-type="fig" rid="F7">Figs 45-46</xref>), as is the case in other taxa on the mid tibia. The single modified seta looks like a clothes peg (<xref ref-type="fig" rid="F7">Figs 47-48</xref>). The area with modified setae is here not sharply delimited, though marked by several densely set tibial setae. This “hind tibial organ” can tentatively be seen as homologous to the “mid tibial organ” in other taxa. This assumption meets the two main criteria of homology: criterion of position and criterion of special structural quality (sensu Storch et. al. 2007, p. 55). It fits the description of “serial homology”, given by <xref ref-type="bibr" rid="B7">Haszprunar (1992)</xref>. Males of the closely related <italic><tp:taxon-name>Docosia rohaceki</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B25">Ševčík 2006</xref>, p. 133) have perhaps the same structure, though roughly described as a “small black spot on hind tibia”. It is absent in the female. It seems to be less certain whether the “hind tibial organ” of <italic><tp:taxon-name>Manota</tp:taxon-name></italic>, described by <xref ref-type="bibr" rid="B13">Jaschhof et al. (2011)</xref> is homologous to the mid one because of its location on the tibial tip.</p>
+                <p>Zaitzev (1989, p. 136) pointed to the similarity between <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> and <italic><tp:taxon-name>Austrosynapha</tp:taxon-name></italic>, however his opinion is based on highly variable characters, as length and obliquity of vein ta and setation of laterotergites. The present study has shown that the general structure of the <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> eggshell is rather more similar to that of <italic><tp:taxon-name>Austrosynapha</tp:taxon-name></italic> (pers. observation, unpublished) or <italic><tp:taxon-name>Mycomya</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B17">Mazzini et al. 1992</xref>) than that of <italic><tp:taxon-name>Speolepta</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B23">Plachter 1981</xref>).</p>
+                <p>Zaitzev’s description of the <italic><tp:taxon-name>Acomopterella</tp:taxon-name></italic> palpomeres (see above) is somewhat unclear, regarding their length. This problem may be solved by studying the type species of the genus, which is beyond the scope of this paper.</p>
+                <!--PageBreak-->
+            </sec>
+        </sec>
+        <sec>
+            <title>Plates</title>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figures 1–8.</label>
+                <caption><p><bold>1–2, 4–5, 7–8.</bold> <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>. <bold>1</bold> Female habitus <bold>2</bold> Male wing <bold>4</bold> Male head, frontal view <bold>5</bold> Flagellomere 4, male. Sensilla chaetica visible as pale spots. <bold>7</bold> Sensillum chaeticum (at arrowhead) on flagellomere 10, male <bold>8</bold> Sensilla on palpomere 3, male <bold>3, 6</bold> <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic>sp. n., male. <bold>3</bold> Wing <bold>6</bold> Flagellomere 4. Length of scale bar = 2 mm (for <bold>1–3</bold>), 200 µm (for <bold>4</bold>), 100 µm (for <bold>5–6</bold>), 10 µm (for <bold>7</bold>), 50 µm (for <bold>8</bold>).</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figures 9–13.</label>
+                <caption><p><bold>9</bold> <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic>sp. n., thorax in lateral view. <bold>10–13</bold> <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>. <bold>10</bold> Thorax in lateral view <bold>11</bold> Fore tibial organ, male <bold>12</bold> Fore claw, male <bold>13</bold> Female terminalia in lateral view. Length of scale bar = 0,5 mm (for <bold>9–10</bold>), 50 µm (for <bold>11–12</bold>), 250 µm (for <bold>13</bold>).</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figures 14–20.</label>
+                <caption><p>Terminalia of <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>, male. <bold>14</bold> Terminalia in dorsal view, tergite IX removed <bold>15</bold> Gonocoxites in ventral view <bold>16</bold> Epiproct and hypoproct, dorsal view <bold>17</bold> Abdominal segments VII &amp; VIII and terminalia in lateral view <bold>18–19</bold> Posterior view of terminalia <bold>20</bold> Cercal setae in detail. Length of scale bar = 100 µm (for <bold>14–15, 18–19</bold>), 50 µm (for <bold>16, 20</bold>), 0,5 mm (for <bold>17</bold>).</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figures 21–25.</label>
+                <caption><p><italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic>, egg. <bold>21</bold> Total view of egg, bottom side <bold>22</bold> Micropylar area <bold>23</bold> Total view of ventral plate <bold>24</bold> Column of ventral plate in detail <bold>25</bold> Hexagonal meshwork of the egg dorsal side. Length of scale bar = 100 µm (for <bold>21</bold>), 10 µm (for <bold>22–23, 25</bold>), 1 µm (for <bold>24</bold>).</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figures 26–30.</label>
+                <caption><p>Terminalia of <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n., male. <bold>26</bold> Terminalia in dorsal view, tergite IX removed <bold>27</bold> Terminalia in ventral view <bold>28</bold> Tergite IX, dorsal view <bold>29</bold> Hypoproct, ventral view <bold>30</bold> Terminalia incl. tergite IX in dorsal view. Length of scale bar = 100 µm.</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figures 31–38.</label>
+                <caption><p>Mid tibial organ. Not on the same scale. <bold>31–32</bold> <italic><tp:taxon-name>Acomopterella yoshiwae</tp:taxon-name></italic> sp. n. <bold>33–34</bold> <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> <bold>33</bold> General outer view of mid tibia, the arrowhead points to the tibial organ <bold>35–36</bold> <italic><tp:taxon-name>Speolepta leptogaster</tp:taxon-name></italic> <bold>37–38</bold> <italic><tp:taxon-name>Ectrepesthoneura hirta</tp:taxon-name></italic>.</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F7" position="float" orientation="portrait">
+                <label>Figures 39–48.</label>
+                <caption><p>Mid and hind tibial organ. Not on the same scale. <bold>39–40</bold> <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> sp. (New Zealand) mid tibia <bold>41–42</bold> <italic><tp:taxon-name>Tetragoneura</tp:taxon-name></italic> sp. (Far East) mid tibia <bold>43–44</bold> <italic><tp:taxon-name>Synapha fasciata</tp:taxon-name></italic>, mid tibia <bold>45–48</bold> <italic><tp:taxon-name>Docosia diutina</tp:taxon-name></italic>, hind tibia <bold>45</bold> General outer view of hind tibia, the arrowhead points to the tibial organ <bold>46</bold> Tibial organ with densely set setae and and few sensilla chaetica, the arrowheads point to 2 of them <bold>47–48</bold> Sensilla chaetica in detail.</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F8" position="float" orientation="portrait">
+                <label>Figures 49–58.</label>
+                <caption><p>Mid tibial organ. Not on the same scale <bold>49, 55</bold> <italic><tp:taxon-name>Coelophthinia thoracica</tp:taxon-name></italic> <bold>50, 54</bold> <italic><tp:taxon-name>Phthinia humilis</tp:taxon-name></italic> <bold>51, 57</bold> <italic><tp:taxon-name>Phthinia winnertzi</tp:taxon-name></italic> <bold>52, 56</bold> <italic><tp:taxon-name>Polylepta guttiventris</tp:taxon-name></italic> <bold>53, 58</bold> <italic><tp:taxon-name>Polylepta borealis</tp:taxon-name></italic>.</p></caption>
+                <graphic xlink:href="ZooKeys-269-011-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+    <!--PageBreak-->
+    <!--PageBreak-->
+    <!--PageBreak-->
+    <!--PageBreak-->
+    <!--PageBreak-->
+    <!--PageBreak-->
+    <!--PageBreak-->
+    <!--PageBreak-->
+    </body>
+    <back>
+        <ack>
+            <title><bold>Acknowledgements</bold></title>
+            <p>This paper is the result of a study, using the facilities of the Senckenberg Naturhistorische Sammlungen Dresden (SNSD). I would like to express my sincere appreciation to Dr Mathias Jaschhof (Senckenberg Deutsches Entomologisches Institut, Müncheberg) for providing specimens. I thank Peter J. Chandler (Melksham, UK) for reading an earlier version of this manuscript. An anonymous reviewer has pointed to the recent record of <italic><tp:taxon-name>Acomopterella martinovskyi</tp:taxon-name></italic> from Sweden, which is herewith acknowledged. Frauke Nielsen (SNSD) is thanked for technical assistance, especially in preparation of the amber fossil and taking SEM photographs.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blaschke-Berthold</surname> <given-names>U</given-names></name></person-group> (<year>1994</year>)<article-title> Anatomie und Morphologie der Bibionomorpha (Insecta, Diptera).</article-title> <source>Bonner zoologische Monographien </source> <volume>34</volume>: <fpage>5</fpage>-<lpage>206</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chandler</surname> <given-names>PJ</given-names></name></person-group> (<year>1980</year>)<article-title> The European and eastern Nearctic fungus-gnats in the genus Ectrepesthoneura (Mycetophilidae).</article-title> <source>Systematic Entomology </source> <volume>5</volume>: <fpage>27</fpage>-<lpage>41</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-3113.1980.tb00395.x">10.1111/j.1365-3113.1980.tb00395.x</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dziedzicki</surname> <given-names>H</given-names></name></person-group> (<year>1885</year>)<article-title> Przyczynek do fauny owadow dwuskrzydlych. Rodzaje nowe: Hertwigia nov. gen., Eurycera nov. gen. i gatunki rodzajów: Boletina, Sciophila.</article-title> <source>Pamietnik Fizyiograficzny </source> <volume>5</volume> (<issue>3</issue>): <fpage>164</fpage>-<lpage>194</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Edwards</surname> <given-names>FW</given-names></name></person-group> (<year>1925</year>)<article-title> British fungus-gnats (Diptera, Mycetophilidae). With a revised generic classification of the family.</article-title> <source>Transactions of the Royal Entomological Society of London </source> <volume>1924</volume>: <fpage>505</fpage>-<lpage>670</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Edwards</surname> <given-names>FW</given-names></name></person-group> (<year>1940</year>)<source> Redefinitions and synonymy of some genera of amber fungus-gnats (Diptera, Mycetophilidae). Proceedings of the Royal Entomological Society of London (B) 9: 120–126.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>M</given-names></name></person-group> (<year>1995</year>)<source> Die Fliegen und Mücken (Diptera) eines sauren Fichtenforstes in der Eifel und ihre Reaktionen auf Kalkungsmaßnahmen. Pollichia-Buch Nr. 32, Pollichia, 283 pp.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haszprunar</surname> <given-names>G</given-names></name></person-group> (<year>1992</year>)<article-title> The types of homology and their significance for evolutionary biology and phylogenetics.</article-title> <source>Journal of evolutionary Biology </source> <volume>5</volume>: <fpage>13</fpage>-<lpage>24</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1420-9101.1992.5010013.x">10.1046/j.1420-9101.1992.5010013.x</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heller</surname> <given-names>K</given-names></name></person-group> (<year>1996</year>)<article-title> Vergleichende biozönotische und produktionsbiologische Untersuchungen an terricol-detritophagen Nematocera in einem Wald-Agrar-Ökosystemkomplex.</article-title> <source>Faunistisch-Ökologische Mitteilungen, Supplement </source> <volume>22</volume>: <fpage>41</fpage>-<lpage>85</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hoffeins</surname> <given-names>HW</given-names></name></person-group> (<year>2001</year>)<article-title> On the preparation and conservation of amber inclusions in artificial resin.</article-title> <source>Polskie Pismo Entomologiczne </source> <volume>70</volume>: <fpage>215</fpage>-<lpage>219</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hutson</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Ackland</surname> <given-names>DM</given-names></name><name name-style="western"><surname>Kidd</surname> <given-names>LN</given-names></name></person-group> (<year>1980</year>)<source> Mycetophilidae (Bolitophilinae, Ditomyiinae, Diadocidiinae, Keroplatinae, Sciophilinae and Manotinae). In: Fitton M.G. (ed) Handbooks for the Identification of British Insects, vol. IX, Royal Entomological Society of London 111 pp.</source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Jaschhof</surname> <given-names>M</given-names></name><name name-style="western"><surname>Kallweit</surname> <given-names>U</given-names></name></person-group> (<year>2009</year>)<article-title> The <italic>Cycloneura</italic> Marshall group of genera in New Zealand (Diptera: Mycetophilidae: Leiini).</article-title> <source>Zootaxa </source> <volume>2090</volume>: <fpage>1</fpage>-<lpage>39</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jaschhof</surname> <given-names>M</given-names></name><name name-style="western"><surname>Jaschhof</surname> <given-names>C</given-names></name></person-group> (<year>2010</year>)<article-title> The genus Manota Williston (Diptera: Mycetophilidae) in New Zealand.</article-title> <source>Zootaxa </source> <volume>2387</volume>: <fpage>28</fpage>-<lpage>38</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jaschhof</surname> <given-names>M</given-names></name><name name-style="western"><surname>Jaschhof</surname> <given-names>C</given-names></name><name name-style="western"><surname>Rulik</surname> <given-names>B</given-names></name><name name-style="western"><surname>Kjaerandsen</surname> <given-names>J</given-names></name></person-group> (<year>2011</year>)<article-title> New records of Manota Williston (Diptera: Mycetophilidae) in Europe and North America, including a redescription of Manota unifurcata Lundstrom and pointers towards the interrelationships among Palaearctic species.</article-title> <source>Studia Dipterologica </source> <volume>17</volume>(<issue>1–2</issue>)): <fpage>55</fpage>-<lpage>66</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kjaerandsen</surname> <given-names>J</given-names></name></person-group> (<year>2012</year>)<source> Checklist of Nordic fungus gnats (Diptera: Bolitophilidae, Diadocidiidae, Ditomyiidae, Keroplatidae, Mycetophilidae and Sciarosoma) <ext-link ext-link-type="uri" xlink:href="http://sciaroidea.info/taxonomy/47783">http://sciaroidea.info/taxonomy/47783</ext-link> </source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kleinevoss</surname> <given-names>K</given-names></name><name name-style="western"><surname>Topp</surname> <given-names>W</given-names></name><name name-style="western"><surname>Bohac</surname> <given-names>J</given-names></name></person-group> (<year>1996</year>)<article-title> Buchen-Totholz im Wirtschaftswald als Lebensraum für xylobionte Insekten.</article-title> <source>Zeitschrift für Ökologie und Naturschutz </source> <volume>5</volume>: <fpage>85</fpage>-<lpage>95</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lundström</surname> <given-names>C</given-names></name></person-group> (<year>1912</year>)<source> Beiträge zur Kenntnis der Dipteren Finlands. VIII. Supplement 2. Mycetophilidae, Tipulidae, Cylindrotomidae und Limnobiidae. Acta Societatis pro Fauna et Flora Fennica 36: 1–70 &amp; 7 plates.</source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mazzini</surname> <given-names>M</given-names></name><name name-style="western"><surname>Carcupino</surname> <given-names>M</given-names></name><name name-style="western"><surname>Santini</surname> <given-names>L</given-names></name></person-group> (<year>1992</year>)<article-title> Ootaxonomic investigation of three species of Mycomya (Diptera, Mycetophilidae): a scanning electron microscope study.</article-title> <source>Bollettino di Zoologia </source> <volume>59</volume> (<issue>1</issue>): <fpage>33</fpage>-<lpage>39</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/11250009209386644">10.1080/11250009209386644</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Matile</surname> <given-names>L</given-names></name></person-group> (<year>1990</year>)<source> Recherches sur la systématique et l’évolution des Keroplatidae (Diptera, Mycetophiloidea). Mémoires du Muséum national d’Histoire naturelle, Sér. A Zoologie 148: 1–682.</source></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McAlpine</surname> <given-names>JF</given-names></name></person-group> (<year>1981</year>)<source> Morphology and terminology. In: McAlpine JF etal. (Eds), Manual of Nearctic Diptera, volume 1. Agriculture Canada, Ottawa, 9–64.</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Meigen</surname> <given-names>JW</given-names></name></person-group> (<year>1818</year>)<source> Systematische Beschreibung der bekannten Europäischen zweiflügeligen Insekten, Vol. 1, Aachen, 333 pp.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Meunier</surname> <given-names>F</given-names></name></person-group> (<year>1904</year>)<article-title> Monographie des Cecidomyiidae, des Sciaridae, des Mycetophilidae et des Chironomidae de l‘Ambre de la Baltique.</article-title> <source>Annales de la Société Scientifique de Bruxelles </source> <volume>28</volume> (<issue>2</issue>): <fpage>12</fpage>-<lpage>275</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mik</surname> <given-names>J</given-names></name></person-group> (<year>1869</year>)<source> Title unknown. Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 19: 22.</source></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Plachter</surname> <given-names>H</given-names></name></person-group> (<year>1981</year>)<article-title> Chorionic structures of the eggshells of 15 fungus- and root-gnat species (Diptera: Mycetophiloidea).</article-title> <source>International Journal of Insect Morphology &amp; Embryology </source> <volume>10</volume> (<issue>1</issue>): <fpage>43</fpage>-<lpage>63</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0020-7322(81)90012-X">10.1016/0020-7322(81)90012-X</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Plassmann</surname> <given-names>E</given-names></name></person-group> (<year>1996</year>)<article-title> Zur Kenntnis der Pilzmückenfauna Österreichs (Diptera: Nematocera: Mycetophiloidea).</article-title> <source>Mitteilungen des Internationalen Entomologischen Vereins eV </source> <volume>21</volume>: <fpage>111</fpage>-<lpage>120</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ševčík</surname> <given-names>J</given-names></name></person-group> (<year>2006</year>)<article-title> Docosia rohaceki sp. n. and other interesting records of fungus gnats (Diptera: Mycetophilidae) from Pol’ana Biosphere Reserve (Central Slovakia).</article-title> <source>Časopis Slezského Zemského Muzea Opava (A) </source> <volume>55</volume>: <fpage>131</fpage>-<lpage>134</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ševčík</surname> <given-names>J</given-names></name><name name-style="western"><surname>Chandler</surname> <given-names>PJ</given-names></name></person-group> (<year>2008</year>)<article-title> Acomopterella martinovskyi sp. n., the first Palaearctic record of the genus Acomopterella Zaitzev (Diptera: Mycetophilidae).</article-title> <source>Zootaxa </source> <volume>1968</volume>: <fpage>58</fpage>-<lpage>64</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Sherman</surname> <given-names>RS</given-names></name></person-group> (<year>1921</year>)<article-title> New species of Mycetophilidae.</article-title> <source>Proceedings of the Entomological Society of British Columbia </source> <volume>16</volume> (<issue>1920</issue>): <fpage>16</fpage>-<lpage>21</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Søli</surname> <given-names>GEE</given-names></name></person-group> (<year>1997</year>)<source> The adult morphology of Mycetophilidae (s.str.), with a tentative phylogeny of the family (Diptera, Sciaroidea). Entomologica Scandinavica, Supplement 50, 5–55.</source></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Storch</surname> <given-names>V</given-names></name><name name-style="western"><surname>Welsch</surname> <given-names>U</given-names></name><name name-style="western"><surname>Wink</surname> <given-names>M</given-names></name></person-group> (<year>2007</year>)<source> Evolutionsbiologie, 2nd ed.</source> <publisher-name>, Springer</publisher-name>, <publisher-loc>Berlin &amp; Heidelberg</publisher-loc>, <lpage>520</lpage> pp.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tonnoir</surname> <given-names>AL</given-names></name></person-group> (<year>1929</year>)<article-title> Australian Mycetophilidae. - Synopsis of the genera.</article-title> <source>Proceedings of the Linnean Society of New South Wales </source> <volume>54</volume>: <fpage>584</fpage>-<lpage>614</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Väisänen</surname> <given-names>R</given-names></name></person-group> (<year>1986</year>)<article-title> The delimitation of the Gnoristinae: criteria for the classification of recent European genera (Diptera, Mycetophilidae).</article-title> <source>Annales Zoologici Fennici </source> <volume>23</volume>: <fpage>197</fpage>-<lpage>206</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vockeroth</surname> <given-names>JR</given-names></name></person-group> (<year>1980</year>)<article-title> New genera and species of Mycetophilidae (Diptera) from the holarctic region, with notes on other species.</article-title> <source>Canadian Entomologist </source> <volume>112</volume> (<issue>6</issue>): <fpage>529</fpage>-<lpage>544</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent112529-6">10.4039/Ent112529-6</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vockeroth</surname> <given-names>JR</given-names></name></person-group> (<year>1981</year>)<source> Mycetophilidae. In: McAlpine JF et al. (Eds), Manual of Nearctic Diptera, volume 1. Agriculture Canada, Ottawa, 223–247.</source></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Winnertz</surname> <given-names>J</given-names></name></person-group> (<year>1846</year>)<article-title> Beschreibung einiger neuer Gattungen aus der Ordnung der Zweiflügler.</article-title> <source>Stettiner entomologische Zeitung </source> <volume>7</volume>: <fpage>11</fpage>-<lpage>20</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Winnertz</surname> <given-names>J</given-names></name></person-group> (<year>1863</year>)<article-title> Beitrag zu einer Monographie der Pilzmücken.</article-title> <source>Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien </source> <volume>13</volume>: <fpage>637</fpage>-<lpage>964</lpage>.</mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zaitzev</surname> <given-names>AI</given-names></name></person-group> (<year>1989</year>)<article-title> New data on taxonomy of Diptera, Mycetophilidae of North America.</article-title> <source>Zoologicheskii Zhurnal </source> <volume>68</volume> (<issue>12</issue>): <fpage>134</fpage>-<lpage>137</lpage>.</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zetterstedt</surname> <given-names>JW</given-names></name></person-group> (<year>1852</year>)<source> Diptera scandinaviae disposita et descripta, vol 11, Lund, I-XII &amp; 4091–4545.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

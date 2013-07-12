@@ -1,0 +1,305 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.79.803</article-id>
+            <title-group>
+                <article-title>
+                A simultaneous journal / wiki publication and dissemination of a new species description: Neobidessodes darwiniensis sp. n. from northern Australia (Coleoptera, Dytiscidae, Bidessini)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Hendrich</surname>
+                        <given-names>Lars</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:06907F16-4F27-44BA-953F-513457C85DBF</uri></contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Balke</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A2">2</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:945480F8-C4E7-41F4-A637-7F43CCF84D40</uri></contrib>
+            </contrib-group>
+                    <aff id="A1"><label>Zoologische Staatssammlung, Münchhausenstrasse 21, D-81247 München, Germany</label></aff>
+                    <aff id="A2"><label>GeoBio Center, Ludwigs-Maximilians-Universität, München, Germany</label></aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Lars Hendrich (<email xlink:type="simple">hendrich@zsm.mwn.de</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Martin Fikácek</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>2</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>79</issue>
+            <fpage>11</fpage>
+            <lpage>20</lpage>
+            <history>
+                <date date-type="received">
+                    <day>15</day>
+                    <month>12</month>
+                    <year>2010</year>
+                </date>
+                <date date-type="accepted">
+                    <day>2</day>
+                    <month>2</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Lars Hendrich, Michael Balke</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:41390A60-77D6-457D-BC1C-6841717F6B21</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>Here, we describe a new Australian species in journal format and simultaneously open the description in a wiki format on the www.species-id.net. The wiki format will always link to the fixed original journal description of the taxon, however it permits future edits and additions to species'  taxonomy and biology. The diving beetle <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> <bold>sp. n.</bold> (<tp:taxon-name>Coleoptera</tp:taxon-name>: <tp:taxon-name>Dytiscidae</tp:taxon-name>, <tp:taxon-name>Bidessini</tp:taxon-name>) is described based on a single female, collected in a rest pool of the Harriet Creek in the Darwin Area, Northern Territory. Within <tp:taxon-name>Neobidessodes</tp:taxon-name> the new species is well characterized by its elongate oval body with rounded sides, short and stout segments of antennae, length of body and dorsal surface coloration. In addition to external morphology, we used mitochondrial <italic>cox1</italic> sequence data to support generic assignment and to delineate the new species from other Australian <tp:taxon-name>Bidessini</tp:taxon-name> including all other known <tp:taxon-name>Neobidessodes</tp:taxon-name>. Illustrations based on digital images are provided here and as online resources. A modified key is provided. Altogether ten species of the genus are now known worldwide, nine from Australia and one from New Guinea.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Wiki</kwd>
+                <kwd>species ID</kwd>
+                <kwd>online species pages</kwd>
+                <kwd><italic>cox1</italic></kwd>
+                <kwd>sequence data</kwd>
+                <kwd>DNA barcoding</kwd>
+                <kwd>molecular biodiversity assessment</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>Many approaches and initiatives to “accelerate” the descriptive taxonomic process have recently been proposed or partially implemented. We suggest that the wikimedia engine provides one of the most powerful tools for routine taxonomic work, with wikipedia providing generic data and wikispecies a taxonomic backbone, i.e. the tree of life (see <xref ref-type="bibr" rid="B6">Page 2010</xref>). Here, we test an approach where we publish a new species in open-access journal format, and at the same time upload the data to a purpose-buildt wiki, the species ID site, flanked by a wikispecies entry which <italic>de facto</italic> serves as a "shop window".</p>
+            <p>The epigean species of the Australasian genus <tp:taxon-name>Neobidessodes</tp:taxon-name> Hendrich &amp; Balke, 2009 were recently treated in a comprehensive systematic revision, including morphological and molecular data (<xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>). Two new species, one from Australia and one from New Guinea, were described. Larvae of the genus were described in <xref ref-type="bibr" rid="B5">Michat et al. (2010)</xref>. In northern Australia, <tp:taxon-name>Neobidessodes</tp:taxon-name> are among the most common and widespread diving beetles occurring in rest pools of intermittent streams during the dry season. Despite the fact that the first author studied more than 6000 specimens from his own samples and numerous museum collections (<xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>), the new species described in this publication is known just from the female holotype. The single specimen was until recently overlooked in a vial, including numerous <tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> (Zimmermann 1922) and <tp:taxon-name>Hydroglpyhus godeffroyi</tp:taxon-name> (Sharp 1882) collected in August 2006, on the way from Pine Creek to the Kakadu National Park.</p>
+            <p>Combining morphology and mitochondrial DNA sequence data we describe the new species and provide a modified key for all epigean species of the genus. The DNA sequence data and a high resolution digital image of the beetle habitus, coloration and sculpture are made available online for faster dissemination of taxonomic knowledge. Links are provided below.</p>
+        </sec>
+        <sec sec-type="Material and methods"><title>Material and methods</title>
+            <p><bold>Material.</bold> This study is based on the examination of 26 specimens, the holotype of our new species and specimens of <tp:taxon-name>Neobidessodes bilita</tp:taxon-name> (Watts, 1978) and <tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name>,deposited in CLH, SAMA and ZSM.</p>
+            <p><tp:taxon-name>Neobiodessodes bilita</tp:taxon-name> (Watts, 1978): Australia, New South Wales. 12 exs., S NSW, 6.5 km SW Eden, Towamba Road 2 km N Nullica, 556 m, 16.XI.2006, 37.04.412S 149.51.200E, L. &amp; E. Hendrich leg. (NSW 111), two specimens with “DNA M.Balke 1900”, “DNA M.Balke 1901” [green printed labels] (CLH, ZSM).</p>
+            <p><tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> (Zimmermann, 1922): Australia, Northern Territory. 13 exs., Manton Dam Recreation Area, 46 km S Darwin, 35 m, 19.VIII.2006, 12.50.270S 131.08.050E, L. &amp; E. Hendrich leg. (NT 1), one specimen with “DNA M.Balke 1656” [green printed label] (CLH, ZSM).<!--PageBreak--></p>
+            <p><bold>Descriptions.</bold> Beetles were studied with a Leica MZ 12.5 dissecting scope at 10–100x. Habitus photos of beetles were made by Alexander Riedel (Karlsruhe, Germany) and by the authors. Image stacks were aligned and assembled with the computer software Helicon Focus 4.77TM. Abbreviations used in the text are: TL (total length), TL-H (total length without head), and MW (maximum width). Label data of type material are cited in quotation marks.</p>
+            <p><bold>DNA sequencing and data analysis.</bold> We extracted DNA from the alcohol preserved female holotype after removal of the abdomen, using the Qiagen Dneasy tissue kit. We ran a PCR with Bioline Mago Taq at 94° for 2 min, 40 cycles of 94° for 30 s, 47° for 30 s and 72° for 60 s, and a final extension of 72° for 10 min, using primers for the 3’ end of cytochrome c oxidase 1 (<italic>cox1</italic>) Jerry (F: 5’- CAA CAT TTA TTT TGA TTT TTT GG -3’) and Pat (R: 5’- TCC AAT GCA CTA ATC TGC CAT ATT A -3’) (<xref ref-type="bibr" rid="B7">Simon et al. 1994</xref>).</p>
+            <p>This cox1 fragment is our standard “DNA barcoding” fragment for <tp:taxon-name>Dytiscidae</tp:taxon-name>, a short fragment of DNA used for preliminary species identification and study of population-level processes (see e.g. <xref ref-type="bibr" rid="B1">Hendrich and Balke 2009</xref> and <xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>). We used the cox1 fragment sequenced for the female holotype to obtain quantitative data for species recognition which we here suggest especially useful as we had no male specimens for study of male genital structures. The sequence was added to our database of Australian <tp:taxon-name>Dytiscidae</tp:taxon-name> (<xref ref-type="bibr" rid="B3">Hendrich et al. 2010</xref>), containing around 70% of the Australian fauna, including all <tp:taxon-name>Neobidessodes</tp:taxon-name> species (<xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>). We ran neighbour joining analysis in PAUP* (<xref ref-type="bibr" rid="B8">Swofford 2002</xref>) using HKY85 as well as uncorrected p-distances. The Species Identifier module of Taxon DNA software was used to study sequence divergence in the dataset (<xref ref-type="bibr" rid="B4">Meier et al. 2006</xref>).</p>
+        </sec>
+        <sec sec-type="Codens"><title>Codens</title>
+            <p><abbrev>CLH<def><p> Collection Lars Hendrich, Berlin, Germany; property of the Naturhistorisches Museum Wien, Austria</p></def></abbrev></p>
+            <p><abbrev>SAMA<def><p> South Australian Museum, Adelaide, South Australia, Australia</p></def></abbrev></p>
+            <p><abbrev>ZSM<def><p> Zoologische Staatssammlung München, Munich, Germany</p></def></abbrev></p>
+        </sec>
+        <sec sec-type="Results and discussion"><title>Results and discussion</title>
+            <sec sec-type="DNA Sequencing"><title>DNA Sequencing</title>
+                <p>We obtained 450 bp 3’ <italic>cox</italic> 1 sequence (GenBank accession # FR733592). Ran against our 1400+ Australian <italic>cox1</italic> sequence database, we find minimum uncorrected p-distances in SpeciesIdentifier of 10.15% (<tp:taxon-name>Limbodessus jundeensis</tp:taxon-name> Watts and Humphreys, 2003), followed by <tp:taxon-name>Neobidessodes samkrisi</tp:taxon-name> Hendrich &amp; Balke, 2009, <tp:taxon-name>Neobidessodes thoracicus</tp:taxon-name> Hendrich &amp; <!--PageBreak-->Balke, 2009 and <tp:taxon-name>Neobidessodes bilita</tp:taxon-name> (Watts, 1978) (10.37–10.39%) and e.g. <tp:taxon-name>Copelatus tenebrosus</tp:taxon-name> Régimbart, 1880 (10.59%). The neighbour joining analysis in PAUP* placed <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n. as the sister of all other <tp:taxon-name>Neobidessodes</tp:taxon-name>. This is not necessarily the correct phylogenetic position of <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name>, but indicates that the female studied here does not belong to any other known <tp:taxon-name>Neobidessodes</tp:taxon-name>, nor to any other species in our database.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Taxonomy"><title>Taxonomy</title>
+            <p><tp:taxon-name>Neobidessodes</tp:taxon-name> is a genus with 10 species distributed in Australia (9 species) and New Guinea (1 species). All but two [the stygobitic <tp:taxon-name>Neobidessodes limestonensis</tp:taxon-name> (Watts and Humphreys, 2003) and <tp:taxon-name>Neobidessodes gutteridgei</tp:taxon-name> (Watts &amp; Humphreys, 2003)] species have a more or less contrasting black/yellow surface. The basic pattern of these species includes various yellow or reddish spots. The median lobes are simple and very elongate, in ventral view strongly tapered or rounded at tip. The size of the species varies from 1.95 to 3.85 mm (see also <xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>).</p>
+            <p>The new species was placed in <tp:taxon-name>Neobidessodes</tp:taxon-name> because of the following combination of characters: 1) body elongate oval; 2) basal pronotal striae sharply incised, not connected by a transverse groove; 3) elytra lacking basal striae and sutural striae; 4) epipleura lacking transverse carina; 5) head lacking cervical line and its foremargin not bordered; 6) prosternal process broad, distinctly excavated and marginated; 7) inner margin of both metacoxal wings strongly ridged; 8) hind margin of abdominal ventrites 3–5 without row of minor irregular dentate processes.</p>
+            <sec sec-type="Checklist of Neobidessodes species"><title>Checklist of Neobidessodes species</title>
+                <p><bold>NSW</bold> = New South Wales; <bold>NT</bold> = Northern Territory; <bold>QLD</bold> = Queensland; <bold>VIC</bold> = Victoria; <bold>WA</bold> = Western Australia; <bold>N</bold> = northern; <bold>S</bold> = southern.</p>
+                <sec sec-type="Australia – epigean"><title>Australia – epigean</title>
+                    <p><tp:taxon-name>Neobidessodes bilita</tp:taxon-name> (Watts, 1978)	S QLD, NSW, VIC</p>
+                    <p><tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> Hendrich &amp; Balke, sp. n.	NT</p>
+                    <p><tp:taxon-name>Neobidessodes denticulatus</tp:taxon-name> (Sharp, 1882)	N WA, NT, QLD, NSW</p>
+                    <p><tp:taxon-name>Neobidessodes flavosignatus</tp:taxon-name> (Zimmermann, 1922)	N WA, NT, N QLD</p>
+                    <p><tp:taxon-name>Neobidessodes grossus</tp:taxon-name> (Zimmermann, 1922)	N WA, NT, N QLD</p>
+                    <p><tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> (Zimmermann, 1922)	N WA, NT, N QLD</p>
+                    <p><tp:taxon-name>Neobidessodes thoracicus</tp:taxon-name> Hendrich &amp; Balke, 2009	N WA, NT, N QLD</p>
+                </sec>
+                <sec sec-type="Australia – stygobitic"><title>Australia – stygobitic</title>
+                    <p><tp:taxon-name>Neobidessodes gutteridgei</tp:taxon-name> (Watts &amp; Humphreys, 2003)	WA (Yilgarn)</p>
+                    <p><tp:taxon-name>Neobidessodes limestonensis</tp:taxon-name> (Watts &amp; Humphreys, 2003)	WA (Yilgarn)</p>
+                </sec>
+                <sec sec-type="New Guinea – epigean"><title>New Guinea – epigean</title>
+                    <p><tp:taxon-name>Neobidessodes samkrisi</tp:taxon-name> Hendrich &amp; Balke, 2009	West Papua, Merauke, Indonesia<!--PageBreak--></p>
+                </sec>
+                    <tp:taxon-treatment>
+                        <tp:nomenclature>
+                            <tp:taxon-name>
+                                <tp:taxon-name-part taxon-name-part-type="genus">Neobidessodes</tp:taxon-name-part>
+                                <tp:taxon-name-part taxon-name-part-type="species">darwiniensis</tp:taxon-name-part>
+                            <object-id xlink:type="simple">urn:lsid:zoobank.org:act:CAD876B9-A027-458D-88D1-47E4A239FFA7</object-id>
+                            <object-id xlink:type="simple">http://www.species-id.net/wiki/Neobidessodes_darwiniensis</object-id>
+                            </tp:taxon-name>
+                            <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                            <xref ref-type="fig" rid="F1">Figs 1</xref>
+                            <xref ref-type="fig" rid="F2">5, 6, 7</xref>
+                        </tp:nomenclature>
+                        <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                            <p> Rest pool, Harriet Creek at Kakadu Highway, 11 km NE Pine Creek, Northern Territory, Australia [13°45'04.63"S,  131°53.5531"E].</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Type material"><title>Type material.</title>	
+                            <p> <bold>Holotype</bold>: Female, “Australia: NT, Kakadu Hwy, Harriet Creek at Hwy Cross., 156m, 24.VIII.2006, 13.744816S, 131.897483E, L. &amp; E. Hendrich leg. (NT 14)”; “DNA M. Balke 3821” [green printed label]; “HOLOTYPE <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n. Hendrich &amp; Balke 2010” [red printed label] (SAMA).</p>
+                            <fig id="F1" position="float" orientation="portrait">
+                                <caption><p><bold>Figures 1–4.</bold> Habitus of <bold>1</bold> <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n. (holotype, female) <bold>2</bold> <tp:taxon-name>Neobidessodes bilita</tp:taxon-name> (female) <bold>3</bold> <tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> and <bold>4</bold> <tp:taxon-name>Hydroglyphus godeffroyi</tp:taxon-name> (scale bar = 2.0 mm) (Photos: M. Balke, A. Riedel).</p></caption>
+                                <graphic xlink:href="http://www.pensoft.net/J_FILES/temp/ZK TEMP/803/ZooKeys-079-011-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                            </fig>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                            <p> Measurements. TL = 1.95 mm, TL-H = 1.8 mm; MW = 1.0 mm.</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Colour"><title>Colour.</title>
+                            <p> Antennae, palpi, head and most parts of pronotum reddish-brown, posterior angles of head, near eyes and base of pronotum in middle broadly dark brown. Elytron dark brown with some small vague yellow spots subbasally and subapically (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Ventral side, including legs and epipleura, reddish-brown, prosternal process and metacoxal plates somewhat darkened.</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Sculpture and structure"><title>Sculpture and structure.</title>
+                            <p> Elongate oval, sides well rounded. Maximum width at apical third of body. Segments of antennae short and stout. Head with relatively coarse punctures and strong microreticulation. Pronotum and elytron with rather dense, medium-sized punctures and weak to moderate microreticulation, finely pubescent. Pronotal striae deep and well marked, length almost 1/2 of that of pronotum, strongly incurved converging anteriad (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Elytra lacking basal and sutural striae. Underside with a few moderately large weak punctures at sides, midline of metaventrite with moderately dense smaller punctures. Metacoxal lines raised, well separated, weakly diverging anteriorly.</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Male"><title>Male.</title>
+                            <p> Unknown.</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Female"><title>Female.</title>
+                            <p> Pro- and mesotarsi simple. Inner edge of mesotibia nearly straight.</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Affinities - DNA Sequence Data"><title>Affinities - DNA Sequence Data.</title>
+                            <p>The 3’ <italic>cox1</italic> sequence available at <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/FR733592" xlink:type="simple">http://www.ncbi.nlm.nih.gov/nuccore/FR733592</ext-link>. 1 indicates that the new species is rather distinctive, the closest uncorrected p-distances in our database were other <tp:taxon-name>Neobidessodes</tp:taxon-name> species (<italic>c</italic>. 10.37%) and <tp:taxon-name>Limbodessus jundeensis</tp:taxon-name> (10.15%).</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Morphology"><title>Morphology.</title>
+                            <p> The smallest species of the genus. On first view, the new species resembles in size and colour the common <tp:taxon-name>Hydroglyphus godeffroyi</tp:taxon-name> (<xref ref-type="fig" rid="F1">Fig. 4</xref>) distributed all over northern Australia and New Caledonia, and can be easily overlooked in the field. When recognized as a <tp:taxon-name>Neobidessodes</tp:taxon-name> the new species is similar to <tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> (<xref ref-type="fig" rid="F1">Fig. 3</xref>) in coloration and to <tp:taxon-name>Neobidessodes bilita</tp:taxon-name> (Watts, 1978) (<xref ref-type="fig" rid="F1">Fig. 2</xref>) in size. From <tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> it can be separated by its more broadly oval body, the much smaller size (<tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name> 2.55-2.65 mm) and unicolourus head, and from <tp:taxon-name>Neobidessodes bilita</tp:taxon-name> by the darker dorsal surface, the short and stout segments of antennae, the rounded, broadly oval body, and the unflanged subapical part of the elytra (<xref ref-type="fig" rid="F1">Figs 1, 2</xref>). Furthermore, <tp:taxon-name>Neobidessodes bilita</tp:taxon-name> is a strictly south-eastern species with a disjunct distribution from southern Queensland to Victoria (<xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>).</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                            <p> Named after the Darwin area in the Northern Territory; the specific epithet is an adjective in the nominative singular.</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                            <p> Only known from the type locality at Harriet Creek, 11 km NE Pine Creek but probably more widespread in the Northern Territory (<xref ref-type="fig" rid="F2">Fig. 5</xref>).</p>
+                            <fig id="F2" position="float" orientation="portrait">
+                                <caption><p><bold>Figures 5–7. 5</bold> Distribution of <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n. in Northern Australia. <bold>6–7</bold> Habitat of <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n., <tp:taxon-name>Neobidessodes grossus</tp:taxon-name>, <tp:taxon-name>Neobidessodes  mjobergi</tp:taxon-name> and <tp:taxon-name>Neobidessodes thoracicus</tp:taxon-name>, Northern Territory Kakadu Hwy, Harriet Creek at Hwy Crossing (NT 14) (Photos: L. Hendrich).</p></caption>
+                                <graphic xlink:href="http://www.pensoft.net/J_FILES/temp/ZK TEMP/803/ZooKeys-079-011-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                            </fig>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Habitat"><title>Habitat.</title>
+                            <p> The single specimen was collected in one of the rest pools of a rocky creek, with gloomy water and at least partly shaded by smaller gum trees. The bottom consisted of coarse sand with a thick layer of unrotten leaves and twigs, no submerged or emergent vegetation visible (<xref ref-type="fig" rid="F2">Figs 6, 7</xref>).</p>
+                            <p><tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n. was associated with the dytiscids <tp:taxon-name>Clypeodytes larsoni</tp:taxon-name> Hendrich &amp; Wang, 2006, <tp:taxon-name>Hydroglyphus daemeli</tp:taxon-name> (Sharp, 1882), <tp:taxon-name>Hydroglyphus godeffroyi</tp:taxon-name>, <tp:taxon-name>Hydroglyphus grammopterus</tp:taxon-name> (Zimmermann, 1928), <tp:taxon-name>Hyphydrus contiguus</tp:taxon-name> Wehncke, 1877, <tp:taxon-name>Hydroglyphus lyratus</tp:taxon-name> Swartz, 1808, <tp:taxon-name>Laccophilus cingulatus</tp:taxon-name> Sharp, 1882, <tp:taxon-name>Laccophilus sharpi</tp:taxon-name> Régimbart, 1889, <tp:taxon-name>Laccophilus walkeri</tp:taxon-name><!--PageBreak--> J. Balfour-Browne, 1939, <tp:taxon-name>Limbodessus compactus</tp:taxon-name> (Clark, 1862), <tp:taxon-name>Neobidessodes grossus</tp:taxon-name> (Zimmermann, 1922), <tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name>, <tp:taxon-name>Neobidessodes thoracicus</tp:taxon-name> Hendrich &amp; Balke, 2009, <tp:taxon-name>Sternopriscus alligatorensis</tp:taxon-name> Hendrich &amp; Watts, 2004, <tp:taxon-name>Sternopriscus aquilonaris</tp:taxon-name> Hendrich &amp; Watts, 2004, <tp:taxon-name>Tiporus centralis</tp:taxon-name> (Watts, 1978), <tp:taxon-name>Tiporus guiliani</tp:taxon-name> (Watts, 1978) and <tp:taxon-name>Tiporus undecimmaculatus</tp:taxon-name> (Clark, 1862).</p>
+                        </tp:treatment-sec>
+                        <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                            <p> Despite the fact that thousands of <tp:taxon-name>Neobidessodes</tp:taxon-name> were collected on three field trips to the Northern Territory and the Kimberley region, surprisingly only one specimen of <tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n. appeared. Most of the expeditions took place during the dry period, between June and October, when most of the other species of the genus dominate the remaining rest pools and swamps. We assume the new species is more common in or just after the rainy season, from November to April, as was observed for <tp:taxon-name>Neobidessodes grossus</tp:taxon-name> (<xref ref-type="bibr" rid="B2">Hendrich et al. 2009</xref>).</p>
+                        </tp:treatment-sec>
+                    </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="The key to epigean species of Neobidessodes in Hendrich et al. (2009) should be modified as follows"><title>The key to epigean species of Neobidessodes in <xref ref-type="bibr" rid="B2">Hendrich et al. (2009)</xref> should be modified as follows:</title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">Length &gt; 3.7 mm. Elytron with a subapical lateral flange, pronotal striae very weak, N WA, NT, N QLD</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes grossus</tp:taxon-name></td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Length &lt; 3.7 mm </td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">Elytron with a subapical lateral tooth, pronotal striae well marked, WA, NT, QLD, N NSW</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes denticulatus</tp:taxon-name></td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Elytron lacking lateral tooth, pronotal striae present or absent</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">Pronotal striae absent</td>
+                                <td rowspan="1" colspan="1">4</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Pronotal striae present</td>
+                                <td rowspan="1" colspan="1">5</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">Length 2.55–2.65 mm, outline of junction of pronotum and elytra smooth, sides of pronotum evenly curved, maximum width at posterior angles, dorsal colour pattern usually diffuse, N WA, NT, N QLD</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes mjobergi</tp:taxon-name></td>
+                            </tr>
+                            
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Length 2.75–2.9 mm, outline of junction of pronotum and elytra slightly sinuate, maximum width of pronotum somewhat before base. Dorsal colour pattern strongly varying, when present, usually well marked. In some specimens pronotum yellow, in others pronotum and elytra all black, N WA, NT, N QLD</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes thoracicus</tp:taxon-name></td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">Dorsal colour pattern diffuse. Pronotal striae well marked and long (1/4 to 1/3 of length of pronotum)</td>
+                                <td rowspan="1" colspan="1">6</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Contrasting yellowish markings on black elytra. Pronotal striae only slightly marked and short (maximum 1/4 of length of pronotum)</td>
+                                <td rowspan="1" colspan="1">7</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">Body elongate oval. Pronotum as broad as elytra, outline of junction of pronotum and elytra slightly sinuate, maximum width of pronotum somewhat before base (<xref ref-type="fig" rid="F1">Fig. 2</xref>). Males with mesotibia curved, length 2.2–2.25 mm, VIC, NSW, S QLD</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes bilita</tp:taxon-name></td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Body broader oval. Pronotum narrower than elytra, outline of junction of pronotum and elytra smooth, sides of pronotum evenly curved, maximum <!--PageBreak-->width at posterior angles (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Male unknown, length 1.95 mm, smallest species of the genus, NT</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes darwiniensis</tp:taxon-name> sp. n.</td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">Males with mesotarsus straight. Pronotal striae well marked but short, small species, length 2.0 mm, West Papua, Indonesia</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes samkrisi</tp:taxon-name></td>
+                            </tr>
+														
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Males with mesotarsus straight. Pronotal striae extremely weak and faint, larger species, length 2.35–2.65 mm, N WA, NT, N QLD</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Neobidessodes flavosignatus</tp:taxon-name></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We are indebted to Hans Fery (Berlin, Germany), Chris Watts (Adelaide, Australia) and one additional, anonymous reviewer for improving an earlier version of the manuscript. We thank Gregor Hagedorn (Berlin, Germany) for stimulating discussions on species ID and the wiki format and the ZooKeys team for helping to implement our journal publication / wiki upload approach. The Parks and Wildlife Commission of the Northern Territory, the Australian National Parks and Wildlife Service in Darwin and the Kakadu National Park are thanked for giving permission to conduct scientific research in the Northern Territory (Permit Numbers: 23929 and RK- 400/ RK- 660). This work was supported by grants to Michael Balke: Deutsche Forschungsgemeinschaft (BA 2152/4-1, 6-1 and 7-1), and to Lars Hendrich: Deutsche Forschungsgemeinschaft (HE 5729/1-1).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hendrich</surname><given-names>L</given-names></name><name name-style="western"><surname>Balke</surname><given-names>M</given-names></name></person-group> (<year>2009</year>)<article-title> <italic>Kakadudessus tomweiri</italic>, a new genus and species of diving beetle from tropical northern Australia, based on molecular, phylogenetic and morphological data (Coleoptera, Dytiscidae, Bidessini).</article-title> <source>Zootaxa</source> <volume>2134</volume>:<fpage>49</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hendrich</surname><given-names>L</given-names></name><name name-style="western"><surname>Hawlitschek</surname><given-names>O</given-names></name><name name-style="western"><surname>Balke</surname><given-names>M</given-names></name></person-group> (<year>2009</year>)<article-title> The epigean Australasian species of <italic>Neobidessodes</italic> gen.n. diving beetles–a revision integrating morphology, cybertaxonomy, DNA taxonomy and phylogeny (Coleoptera: Dytiscidae, Bidessini).</article-title> <source>Zootaxa</source> <volume>2288</volume>:<fpage>1</fpage>-<lpage>41</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hendrich</surname><given-names>L</given-names></name><name name-style="western"><surname>Pons</surname><given-names>J</given-names></name><name name-style="western"><surname>Ribera</surname><given-names>I</given-names></name><name name-style="western"><surname>Balke</surname><given-names>M</given-names></name></person-group> (<year>2010</year>)<article-title>: Mitochondrial <italic>cox1</italic> sequence data reliably uncover patterns of insect diversity but suffer from high lineage-idiosyncratic error rates</article-title>. <source>Plos ONE</source> <volume>5</volume>(<issue>12</issue>): <lpage>e14448</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0014448" xlink:type="simple">doi:10.1371/journal.pone.0014448</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Meier</surname><given-names>R</given-names></name><name name-style="western"><surname>Kwong</surname><given-names>S</given-names></name><name name-style="western"><surname>Vaidya</surname><given-names>G</given-names></name><name name-style="western"><surname>Ng</surname><given-names>PKL</given-names></name></person-group> (<year>2006</year>)<article-title> DNA Barcoding and taxonomy in Diptera: a tale of high intraspecific variability and low identification success.</article-title> <source>Systematic Biology</source> <volume>55</volume>:<fpage>715</fpage>-<lpage>728</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Michat</surname><given-names>MC</given-names></name><name name-style="western"><surname>Alarie</surname><given-names>Y</given-names></name><name name-style="western"><surname>Watts</surname><given-names>CHS</given-names></name></person-group> (<year>2010</year>)<article-title> Descriptions of the first-instar larva of the hypogaeic species <italic>Neobidessodes limestoneensis</italic> (Watts &amp; Humphreys) and of the third-instar larva of <italic>Hydroglyphus balkei</italic> Hendrich (Coleoptera: Dytiscidae: Bidessini) with phylogenetic considerations.</article-title> <source>Zootaxa</source> <volume>2658</volume>:<fpage>38</fpage>-<lpage>50</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Page</surname><given-names>RDM</given-names></name></person-group> (<year>2010</year>)<article-title> Wikipedia as an encyclopaedia of life.</article-title> <source>Organisms Diversity and Evolution</source> <volume>10</volume>:<fpage>343</fpage>-<lpage>349</lpage>.<!--PageBreak--></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Simon</surname><given-names>C</given-names></name><name name-style="western"><surname>Frati</surname><given-names>F</given-names></name><name name-style="western"><surname>Beckenbach</surname><given-names>AT</given-names></name><name name-style="western"><surname>Crespi</surname><given-names>B</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Flook</surname><given-names>P</given-names></name></person-group> (<year>1994</year>)<article-title> Evolution, weighting, and phylogenetic utility of mitochondrial gene sequences and a compilation of conserved polymerase chain reaction primers.</article-title> <source>Annals of the Entomological Society of America</source> <volume>87</volume>:<fpage>651</fpage>-<lpage>701</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname><given-names>DL</given-names></name></person-group> (<year>2002</year>)<source> PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods)</source>. <publisher-name>Sinauer Associates</publisher-name>, <publisher-loc>Sunderland MA</publisher-loc>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

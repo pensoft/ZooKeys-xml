@@ -1,0 +1,249 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3119</article-id>
+            <title-group>
+                <article-title>The development of a digitising service centre for natural history collections</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Tegelberg</surname>
+                        <given-names>Riitta</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Haapala</surname>
+                        <given-names>Jaana</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Mononen</surname>
+                        <given-names>Tero</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Pajari</surname>
+                        <given-names>Mika</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Saarenmaa</surname>
+                        <given-names>Hannu</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Digitarium: The Digitisation Centre of the Finnish Museum of Natural History and the University of Eastern Finland, School of Computing, SIB-labs, Joensuu Science Park, Länsikatu 15 (P.O. Box 111), FIN-80101 Joensuu
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Hannu Saarenmaa (<email xlink:type="simple">hannu.saarenmaa@uef.fi</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>75</fpage>
+            <lpage>86</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>3</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Riitta Tegelberg, Jaana Haapala, Tero Mononen, Mika Pajari, Hannu Saarenmaa</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Digitarium is a joint initiative of the Finnish Museum of Natural History and the University of Eastern Finland. It was established in 2010 as a dedicated shop for the large-scale digitisation of natural history collections. Digitarium offers service packages based on the digitisation process, including tagging, imaging, data entry, georeferencing, filtering, and validation. During the process, all specimens are imaged, and distance workers take care of the data entry from the images. The customer receives the data in Darwin Core Archive format, as well as images of the specimens and their labels. Digitarium also offers the option of publishing images through Morphbank, sharing data through GBIF, and archiving data for long-term storage. Service packages can also be designed on demand to respond to the specific needs of the customer. The paper also discusses logistics, costs, and intellectual property rights (IPR) issues related to the work that Digitarium undertakes.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Digitisation</kwd>
+                <kwd>imaging</kwd>
+                <kwd>natural history collections</kwd>
+                <kwd>service packages</kwd>
+                <kwd>out-sourcing</kwd>
+                <kwd>mass-digitisation</kwd>
+                <kwd>automation</kwd>
+                <kwd>logistics</kwd>
+                <kwd>costs</kwd>
+                <kwd>IPR</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>In Finland, the 6 largest public natural history museums contain an estimated 22 million specimens, of which 12% have been digitally catalogued (i.e., minimally digitised). In addition, private collections contain up to 8 million specimens. It has been <!--PageBreak-->estimated (<xref ref-type="bibr" rid="B14">Pelkonen et al. 2009</xref>) that unless digitisation productivity is dramatically increased, it will take about 1,000 person years of effort to digitise these collections. Thus, in 2010, Digitarium, the Digitisation Centre of the Finnish Museum of Natural History and the University of Eastern Finland, was established in Joensuu, Finland. Digitarium aims to speed up the digitisation process through an efficient production line and knowledge management of expertise on digitisation. The main idea is to selectively outsource mass digitisation from major museums into a dedicated service centre that works in close cooperation with museum customers. In most cases this also includes return transportation of the material to the service centre.</p>
+            <p>Special features of the production process at Digitarium are imaging of all material, XML-based data management, and a distributed workflow that can employ distance workers. Automation of imaging will produce large quantities of material ready for data entry. In addition to offering the employees working on data entry the option of working from home or from a library, remote access also provides an opportunity for crowd sourcing (<xref ref-type="bibr" rid="B9">Howe 2006</xref>,  <xref ref-type="bibr" rid="B4">Flemons 2011</xref>, <xref ref-type="bibr" rid="B5">Flemons and Berents 2012</xref>). Crowd sourcing also functions as a means of promoting free and open access to national collections.</p>
+            <p>This document briefly outlines the process of digitisation as it is being implemented at Digitarium. In addition, the paper describes the approach used to develop service packages for customers, which are formed by connecting the steps of the digitisation process in a way that the customer requires. Finally this paper visits the issues of logistics, costs, and intellectual property rights (IPR), which are important in an outsourced operation.</p>
+        </sec>
+        <sec sec-type="Process steps">
+            <title>Process steps</title>
+            <p>The steps of the digitisation workflow process are illustrated in the functional model shown in Fig 1. The steps from Receiving to Imaging require some handling of the physical samples, whereas steps from Data Entry onwards can be distributed through the internet to the best available agent. All steps of the workflow process can be executed asynchronously, although their logical order is somewhat fixed. The process is described in more detail in <xref ref-type="bibr" rid="B10">Lehtonen et al. (2011)</xref>.</p>
+            <p>The process and workflow described below is driven by a dedicated software workbench (<xref ref-type="fig" rid="F2">Fig. 2</xref>). This tool has been written by Digitarium in Java, and it runs on Windows. The workbench manages all data in the form of XML documents, and drives the digital cameras for imaging. It can also be used for distance work, and through SSH it can remotely retrieve and write the XML documents pertinent to each step in the workflow. The produced XML data conforms by the Darwin Core and Dublin Core standards.</p>
+            <p>The metadata describing datasets (i.e., groups of Darwin Core XML documents, as well as orders by customers) are stored in XML files using the Ecological Metadata Language EML (<xref ref-type="bibr" rid="B3">Fegraus et al. 2005</xref>), which is a standard for describing datasets in the biodiversity science community.<!--PageBreak--></p>
+            <sec sec-type="Receiving">
+                <title>Receiving</title>
+                <p>Digitarium does not manage collections of its own, but is a shop for digitising materials for “customers” — that is, from museums and other institutions located elsewhere. The customer institute selects material for digitisation based on their own prioritisation. The received material and the procedures used for digitising are described in EML.</p>
+            </sec>
+            <sec sec-type="Tagging">
+                <title>Tagging</title>
+                <p>Each sample is tagged with a label containing globally unique identifier in the form of an HTTP URI and a two-dimensional barcode. See <xref ref-type="fig" rid="F3">Fig. 3</xref> for an example. The URI can be resolvable if it is made to point to the collection database management system of the customer.</p>
+            </sec>
+            <sec sec-type="Imaging">
+                <title>Imaging</title>
+                <p>The two main types of specimens that are digitised at Digitarium are plant specimens and insect specimens. A plant sheet is imaged in two pieces (see <xref ref-type="fig" rid="F3">Fig. 3</xref>) with a high-end digital camera (i.e., a Nikon D3x, 24 megapixels). This way, a relatively high-quality resolution of 450 dpi over the entire sheet can be achieved at a relatively low cost. The two pieces are later joined using a panorama image stitching application based on our own algorithm, which is tuned for this kind of images. In the case of insect samples, the specimen and the labels are imaged separately with a 12 megapixel camera (i.e., a Nikon D3s using a Nikon AF-S MICRO NIKKOR 105 mm 1:2.8 objective and extension rings for the smallest objects). As the cameras are calibrated daily, no colour swatch has been included in the images. Our digitisation workbench drives all steps of image capture and annotation and all details of the imaging event and results are automatically stored in an XML document.</p>
+            </sec>
+            <sec sec-type="Delivery and optional specimen repository">
+                <title>Delivery and optional specimen repository</title>
+                <p>After successful imaging, the specimens are returned to their institutions. Specimens can also be stored at Digitarium’s repository for either short or long periods of time. This is an option for collections that are not under active study, and for excess specimens.<!--PageBreak--></p>
+            </sec>
+            <sec sec-type="Data entry">
+                <title>Data entry</title>
+                <p>The data from the specimen labels is entered manually from the images using our digitisation workbench and the vocabulary of the Darwin Core data exchange standard. In this step, we need to separate the “true and honest” reproduction of what has been written on the labels with the subsequent interpretation of that information. Any misspellings, <!--PageBreak-->abbreviations, etc., are written in the “verbatim” fields of the latest Darwin Core standard vocabulary to preserve the original data. This has been somewhat problematic, as Darwin Core has not had verbatim fields available for all possible label data such as collector name, taxonomic identification, record number, label colours, etc. Thus, separating reproduction from interpretation is not yet fully supported. This led us to propose a new term, “verbatimLabel,” for Darwin Core, although we have not yet implemented this new feature.</p>
+            </sec>
+            <sec sec-type="Georeferencing">
+                <title>Georeferencing</title>
+                <p>Geographic coordinates are often not available from specimen labels. Our software workbench contains a function to retrieve them automatically using the web services of <xref ref-type="bibr" rid="B8">GeoLocate (2005)</xref>. We only use the estimated latitude, longitude, and coordinate uncertainty in meters for point localities. When grid coordinates from the old Finnish national system (called “YKJ”) are available, they are automatically converted into WGS-84 geographic coordinates using the point-radius method; this conversion can be well documented in Darwin Core.</p>
+                <p>Georeferencing is an optional step. It can be done by Digitarium simultaneously with data entry or verification, but it can also be left for the customer or remote expert to complete, if so agreed.</p>
+            </sec>
+            <sec sec-type="Filtering">
+                <title>Filtering</title>
+                <p>Before publishing the data and images, the filtering of certain details such as coordinates of localities of endangered species may be necessary. For textual and numeric data, this can be done automatically based on the entered species names stored in the metadata of the dataset. Two versions of the XML file are retained: filtered and unfiltered. These details need to be masked manually from the image. Optionally, the customer may want to perform this step.</p>
+            </sec>
+            <sec sec-type="Validation">
+                <title>Validation</title>
+                <p>A final check of the data entry, georeferencing, and filtering is made by an experienced staff member. However, as the customer often wants to validate the digitisation result, all validation can be left to the customer.</p>
+            </sec>
+            <sec sec-type="Delivery of data">
+                <title>Delivery of data</title>
+                <p>The data is delivered to the customer in the Darwin Core Archive (DwC-A) format (<xref ref-type="bibr" rid="B16">Wieczorek et al. 2012</xref>), which has been endorsed by <!--PageBreak--><xref ref-type="bibr" rid="B2">Biodiversity Informatics Standards (TDWG) (2009)</xref>. Other delivery formats are available depending on the requirements of the customer. Furthermore, as the customer usually wants to have checkpoints for the work, intermediate data deliveries are often made. Delivery of the digital images has not yet taken place, as so far the customers have preferred Digitarium to host them.</p>
+            </sec>
+            <sec sec-type="Publishing">
+                <title>Publishing</title>
+                <p>The collection data from the latest XML document version, as well as the images, are imported to Digitarium’s Morphbank database service and Digitarium’s GBIF IPT service. From there they are published, as agreed with the customer; if publication has not been agreed upon, the data and images remain private, and are available only to the customer and for Digitarium’s internal use.</p>
+                <p>The Morphbank service, a part of the global and Nordic collaboration, is available at <ext-link ext-link-type="uri" xlink:href="http://morphbank.digitarium.fi/" xlink:type="simple">http://morphbank.digitarium.fi/</ext-link>. Morphbank is an image database tool designed particularly for natural history specimens and annotations made to them (<xref ref-type="bibr" rid="B11">Morphbank 2011</xref>). Morphbank provides permanent publication: after the preset publishing date has passed, the objects cannot, even in principle, be removed from the service. All Morphbank objects have stable short URIs that can be reused elsewhere.</p>
+                <p>The <xref ref-type="bibr" rid="B7">GBIF (2011)</xref> Integrated Publishing Toolkit (IPT) is a service for hosting biodiversity data that is intended to be shared globally. Its purposes at Digitarium are to produce the EML and DwC-A for all the datasets, and when agreed with the customer, to publish collection and specimen-level data thus promoting Digitarium’s services. The IPT hosting service has also been required by several smaller museums and collections that do not have the infrastructure to connect with GBIF directly.</p>
+            </sec>
+            <sec sec-type="Archiving">
+                <title>Archiving</title>
+                <p>All the XML documents and images will be retained indefinitely, first on Digitarium’s Metacat (<xref ref-type="bibr" rid="B13">NCEAS 2012</xref>) service and eventually with the long-term archival service of the <xref ref-type="bibr" rid="B12">National Digital Library (2010)</xref>. These archive functions are still under development.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Packaging of the services">
+            <title>Packaging of the services</title>
+            <p>The services described here are designed in cooperation with the customers to be flexible and meet the unique requirements of different clients.</p>
+            <p>Prior to each digitisation job, a formal agreement is made in terms of the details of the digitisation process, costs, and time frames. When negotiating the agreement, customers are informed of the option of customising the digitising services at Digitarium. <!--PageBreak-->In the most basic case, the workflow will include steps from Receiving to Imaging. Data Entry will only include the actual information from the labels attached to the specimen, and basic interpretation that aids in later data discovery such as taxonomic group and country. Georeferencing, data filtering, and publishing may be left out, as the customer may want to perform these steps. However, the quality of the images and the technical correctness of the data entry will be verified.</p>
+            <p>In a more complete service package, descriptive data entry with full interpretation of taxonomic and locality details, georeferencing, and verification of the data will be included. Misspellings and unclear text will be retained in the “verbatim” field of Darwin Core, though. Dates and timings will be written following the ISO 8601:2004(E) standard. Country codes, institutional codes, and collection codes will be included.</p>
+            <p>In an “all-included” service package, all the steps shown in <xref ref-type="fig" rid="F1">Fig. 1</xref>, as well as additional filtering, publishing, and archiving services, are included in the service. This is the most suitable method for the digitisation of an entire collection. The customer still has the opportunity to follow the process, sign off on the quality of products, and give scientific guidance. Entirely customised service packages can also be designed when needed so that resources and funding can be used to most directly answer the needs of a particular customer.</p>
+            <p>It is expected that, in the future, customers would want to monitor the progress of their digitisation jobs. For this purpose, a tracking and metadata system for the planning and scheduling of digitisation work is being prepared.</p>
+            <p>Customers are also able to participate in data entry first hand. In order to facilitate such collaboration, training on the Digitarium process can be included in the service. The aim is to produce repeatable and quality data, regardless of where the actual data entry takes place.</p>
+            <p>Finally, if a customer wants to operate these services entirely in-house, Digitarium can offer a turn-key package that includes the equipment needed to run the imaging and data entry processes. In this way, the customer may process the most delicate specimen samples in the safety of their own institution, while following the standards brought into use at Digitarium.</p>
+        </sec>
+        <sec sec-type="Logistics, costs, and intellectual property rights">
+            <title>Logistics, costs, and intellectual property rights</title>
+            <p>Because the Digitarium service centre is located away from where the collections are housed, a few special issues must be taken into consideration. Quite rightly, transportation of the materials to the service centre is of major concern for the custodians of the collections. Not all materials can be considered for transportation (such as those stored in liquids). Materials that can be considered for transport must be carefully packed to ensure that they cannot move during transport. For botanical sheets this can be achieved, but requires some work. Insect collections are easier to package and transport; perhaps that is why most demands for Digitarium services have come from entomology collections. In a typical case, Digitarium retrieves an endowed entomological<!--PageBreak--> collection, dismantles and processes it, and then delivers it to the customer institution, neatly re-packed and ordered in small units.</p>
+            <p>Receiving material also requires the extermination of possible pests that could be damaging the collection. Therefore, upon arrival, all received material is deep-frozen in a room that is in a separate building.</p>
+            <p>Processing of the material at the service centre does not necessarily take a long time, which reduces inconvenience for the customer in terms of being separated from their collection. Tagging and Imaging can in principle be done quickly, while the data entry steps can proceed at a more flexible rate (cf. Fig 1). Overall, a two- to four-week turnaround time is conceivable based on the experience of digitisation centres operating in the cultural history domain. The volume that can be processed in such time is quite variable, though, depending on type of material, and how much automation is possible.</p>
+            <p>Moving of material between organisations also requires agreement on intellectual property rights. The agreement that is made of each digitisation job transfers the copyright to the customer when the customer has accepted the final delivery. Digitarium retains a parallel right to use the content within its own internal operations, but not <!--PageBreak-->for delivery to other parties. This way, it can be ensured that no duplicate copies of the same data start circulating in global portals. In the case of images hosted by Digitarium on behalf of the customer, a rather restrictive variety of the Creative Commons license, BY-ND, is currently being applied.</p>
+            <p>For the costs of the services, only preliminary figures are available, as the process is still being formed and tested in many areas. So far, about 40,000 images have been made and 10,000 samples have been fully processed. Two-thirds of these samples have been entomological, and one-third botanical. On average, a staff member has been able to produce about 40 images or data entries per day. The cost of digitisation is currently 3.99 € per image and 5.61 € for data entry of a specimen, which makes a total of 9.60 € for a fully processed sample. These costs do not include development, administration, equipment, housing, etc. We expect the costs to reduce rapidly as the process becomes increasingly streamlined and automated.</p>
+            <p>What has been described above is still essentially a manual process. However, the separation of the different steps of the workflow offers a strong possibility for automation. In fact, Digitarium is in the process of building a conveyor belt system that moves the samples for automatic imaging (<xref ref-type="fig" rid="F4">Fig. 4</xref>). We expect the costs of imaging to dramatically decrease when this system is in operation.</p>
+        </sec>
+        <sec sec-type="Conclusion">
+            <title>Conclusion</title>
+            <p>Digitarium aims to accelerate the digitisation of natural history collections, both in Finland and around the world. In order to achieve industrial-scale efficiency, we are considering the aspects of quality control, economies of scale, automation of processes, cost of labour, community resources, and workflow (cf. <xref ref-type="bibr" rid="B15">Speers 2009</xref>).</p>
+            <p>Progress in all these areas is being made, but a full solution has not yet been delivered. In particular, the automation of imaging and related logistics is still being crafted. The fact that all material is being imaged makes it possible to distribute data entry and subsequent steps in the process to off-site workers and to rely on crowd-sourcing for Data Entry. In these ways, processing costs can be reduced and access to remote experts can be gained for purposes such as handwriting recognition, languages, and species identification. On the other hand, digitisation technicians at Digitarium are trained to produce repeatable and qualified data from all sorts of collection material.</p>
+            <p>By offering the service packages described here, Digitarium can ensure that the wishes and needs of its customers can be met. Quality assurance not only covers the images and data, but also extends to our descriptions of the process and products. In this way, customers may choose the extent of the processing they require for a particular specimen or collection based on their own prioritisation.</p>
+            <p>The Digitarium service centre is located in Joensuu, a peripheral area of Europe, where dedicated funding sources such as the European Social Fund and the European Regional Development Fund have been available to boost the economy and build infrastructure. These funding sources are available particularly to new member cou<!--PageBreak-->ntries of the EU, and offer a good opportunity for building research infrastructures such as digitisation services.</p>
+            <p>We believe that the outsourcing of digitisation to dedicated service centres with decentralised processes and well-defined service packages designed in cooperation with customers can speed the digitisation process up from the current manual practices to industrial-level efficiency (<xref ref-type="bibr" rid="B6">GBIF 2008</xref>, <xref ref-type="bibr" rid="B15">Speers 2009</xref>, <xref ref-type="bibr" rid="B1">Berendsohn et al. 2010</xref>).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Functional model of the digitisation process. The steps pictured in red require handling of the physical specimens.</p></caption>
+                <graphic xlink:href="ZooKeys-209-075-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Selected windows of the digitisation workbench.</p></caption>
+                <graphic xlink:href="ZooKeys-209-075-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p>Image of a plant sheet stitched together from two parts – their boundary is barely noticeable in the middle of this sample. Notice the two-dimensional barcode, and a resolvable unique URI of the specimen details.</p></caption>
+                <graphic xlink:href="ZooKeys-209-075-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figure 4.</label>
+                <caption><p>Conceptual design for automated imaging of entomological collections, which is currently being implemented at Digitarium.</p></caption>
+                <graphic xlink:href="ZooKeys-209-075-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>This paper is dedicated to the memory of Larry Speers, a friend and a colleague who inspired us to believe that moving digitisation from a cottage industry into the information age is not only possible, but necessary. This work has been financed by the European Social Fund and the European Regional Development Fund.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+   					<ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name><name name-style="western"><surname>Chavan</surname> <given-names>V</given-names></name><name name-style="western"><surname>Macklin</surname> <given-names>J</given-names></name></person-group> (<year>2010</year>) <article-title>Summary of Recommendations of the GBIF Task Group on the Global Strategy and Action Plan for the Digitisation of Natural History Collections</article-title>. <source>Biodiversity Informatics</source> <volume>7</volume>(<issue>2</issue>). <fpage>67</fpage>-<lpage>71</lpage></mixed-citation></ref>
+   					<ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Biodiversity Information Standards</surname></name></person-group> (<year>2009</year>)<source> Darwin Core Text Guide</source>. <ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/terms/guides/text/index.htm" xlink:type="simple">http://rs.tdwg.org/dwc/terms/guides/text/index.htm</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fegraus</surname> <given-names>EH</given-names></name><name name-style="western"><surname>Andelman</surname> <given-names>S</given-names></name><name name-style="western"><surname>Jones</surname> <given-names>MB</given-names></name><name name-style="western"><surname>Schildhauer</surname> <given-names>M</given-names></name></person-group> (<year>2005</year>)<article-title> Maximizing the value of ecological data with structured metadata: An introduction to Ecological Metadata Language (EML) and principles for metadata creation.</article-title> <source>Bulletin of the Ecological Society of America </source> <volume>86</volume> (<issue>3</issue>): <fpage>158</fpage>-<lpage>168</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1890/0012-9623(2005)86[158:MTVOED]2.0.CO;2">10.1890/0012-9623(2005)86[158:MTVOED]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flemons</surname> <given-names>PK</given-names></name></person-group> (<year>2011</year>)<article-title> Crowd-sourcing: perpetual valuable resource or a passing shower of dubious worth?</article-title> <source>Abstracts of the TDWG 2011 Annual Conference</source>. <ext-link ext-link-type="uri" xlink:href="https://mbgserv18.mobot.org/ocs/index.php/tdwg/2011/paper/view/118" xlink:type="simple">https://mbgserv18.mobot.org/ocs/index.php/tdwg/2011/paper/view/118</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flemons</surname> <given-names>P</given-names></name><name name-style="western"><surname>Berents</surname> <given-names>P</given-names></name></person-group> (<year>2012</year>)<article-title> Image based Digitisation of Entomology Collections: Leveraging volunteers to increase digitization capacity.</article-title> In: <person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<role>Ed</role>). <issue-title> No specimen left behind: mass digitization of natural history collections.</issue-title> <source>ZooKeys </source> <volume>209</volume>: <fpage>203</fpage>–<lpage>217</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3146">10.3897/zookeys.209.3146</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>GBIF</surname></name></person-group> (<year>2008</year>)<source> Training Manual 1: Digitisation of History Collections Data, version 1.0</source>. <publisher-loc>Copenhagen</publisher-loc>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>GBIF</surname></name></person-group> (<year>2011</year>)<source> The integrated publishing toolkit</source>. <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/informatics/infrastructure/publishing/" xlink:type="simple">http://www.gbif.org/informatics/infrastructure/publishing/</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>GEOLocate</surname></name></person-group> (<year>2005</year>)<source> Georeferencing software for natural history collections.</source> <ext-link ext-link-type="uri" xlink:href="http://www.museum.tulane.edu/geolocate/" xlink:type="simple">http://www.museum.tulane.edu/geolocate/</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Howe</surname> <given-names>J</given-names></name></person-group> (<year>2008</year>)<source> Crowdsourcing: Why the power of the crowd is driving the future of business.</source> <publisher-name>Three Rivers Press</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>304</lpage> pp.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Lehtonen</surname> <given-names>J</given-names></name><name name-style="western"><surname>Heiska</surname> <given-names>S</given-names></name><name name-style="western"><surname>Pajari</surname> <given-names>M</given-names></name><name name-style="western"><surname>Tegelberg</surname> <given-names>R</given-names></name><name name-style="western"><surname>Saarenmaa</surname> <given-names>H</given-names></name></person-group> (<year>2011</year>)<article-title> The process of digitising natural history collection specimens at Digitarium.</article-title> In: <person-group><name name-style="western"><surname>Jones</surname> <given-names>MB</given-names></name><name name-style="western"><surname>Gries</surname> <given-names>C</given-names></name></person-group> (<role>Eds</role>). <issue-title>Proceedings of the Environmental Information Management Conference 2011 (EIM 2011).</issue-title> <source>September 28-29, 2011. Santa Barbara, CA. University of California</source>: <fpage>87</fpage>-<lpage>91</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5060/D2NC5Z4X">10.5060/D2NC5Z4X</ext-link> <ext-link ext-link-type="uri" xlink:href="https://eim.ecoinformatics.org/eim2011/eim-proceedings-2011" xlink:type="simple">https://eim.ecoinformatics.org/eim2011/eim-proceedings-2011</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Morphbank: Biological Imaging</surname></name></person-group> (2011) <source>(<ext-link ext-link-type="uri" xlink:href="http://www.morphbank.net/" xlink:type="simple">http://www.morphbank.net/</ext-link>, 31 May 2011)</source>. <publisher-name>Florida State University, Department of Scientific Computing</publisher-name>, <publisher-loc>Tallahassee, FL 32306-4026 USA</publisher-loc>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>National Digital Library Initiative</surname></name></person-group> (<year>2010</year>)<source> Long-term preservation project. Final report v. 1.0.</source> <lpage>58</lpage> pp. <ext-link ext-link-type="uri" xlink:href="http://www.kdk.fi/images/stories/LTP_Final_Report_v_1_1.pdf" xlink:type="simple">http://www.kdk.fi/images/stories/LTP_Final_Report_v_1_1.pdf</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>NCEAS</surname></name></person-group> (<year>2012</year>)<source> Metacat: Metadata and Data Management Server</source>. <ext-link ext-link-type="uri" xlink:href="http://knb.ecoinformatics.org/knb/docs/" xlink:type="simple">http://knb.ecoinformatics.org/knb/docs/</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pelkonen</surname> <given-names>V-P</given-names></name><name name-style="western"><surname>Saarenmaa</surname> <given-names>H</given-names></name><name name-style="western"><surname>Laurenne</surname> <given-names>N</given-names></name></person-group> (<role>Eds</role>) (<year>2009</year>)<article-title> Luonnontieteellisten museokokoelmien digitointi.</article-title> <source>Strategia ja toimintasuunnitelma 2010-2015. Helsingin yliopisto, Luonnontieteellinen keskusmuseo 31.12.2009.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Speers</surname> <given-names>L</given-names></name></person-group> (<year>2009</year>)<source> From ink to electrons: Issues to be considered. <ext-link ext-link-type="uri" xlink:href="http://www.canadensys.net/digitization" xlink:type="simple">http://www.canadensys.net/digitization</ext-link></source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wieczorek</surname> <given-names>J</given-names></name><name name-style="western"><surname>Bloom</surname> <given-names>D</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>R</given-names></name><name name-style="western"><surname>Blum</surname> <given-names>S</given-names></name><name name-style="western"><surname>Döring</surname> <given-names>M</given-names></name><name name-style="western"><surname>de Giovanni</surname> <given-names>R</given-names></name><name name-style="western"><surname>Robertson</surname> <given-names>T</given-names></name><name name-style="western"><surname>Vieglais</surname> <given-names>D</given-names></name></person-group> (<year>2012</year>)<article-title> Darwin Core: An evolving community-developed biodiversity data standard.</article-title> <source>PLoS ONE</source> <volume>7</volume>(<issue>1</issue>): <lpage>e29715</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0029715">10.1371/journal.pone.0029715</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

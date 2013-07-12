@@ -1,0 +1,640 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+	      				<journal-title>ZooKeys</journal-title>
+    				</journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.103.953</article-id>
+            <title-group>
+                <article-title>Fish, fans and hydroids: host species of pygmy seahorses</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Reijnen</surname> 
+                        <given-names>Bastian T.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"></xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>van der Meij</surname> 
+                        <given-names>Sancia E.T.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"></xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>van Ofwegen</surname> 
+                        <given-names>Leen P.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"></xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1"><label></label>Department of Marine Zoology, Netherlands Centre for Biodiversity Naturalis, Darwinweg 2, 2333 CR Leiden, the Netherlands</aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Bastian T. Reijnen (<email xlink:type="simple">Bastian.Reijnen@ncbnaturalis.nl</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Bert Hoeksema</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>6</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>103</issue>
+            <fpage>1</fpage>
+            <lpage>26</lpage>
+            <history>
+                <date date-type="received">
+                    <day>25</day>
+                    <month>1</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>4</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Bastian T. Reijnen, Sancia E.T. van der Meij, Leen P. van Ofwegen</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>An overview of the octocoral and hydrozoan host species of pygmy seahorses is provided based on literature records and recently collected field data for <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>, <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> and <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic>. Seven new associations are recognized and an overview of the so far documented host species is given. A detailed re-examination of octocoral type material and a review of the taxonomic history of the alcyonacean genera <italic><tp:taxon-name>Annella</tp:taxon-name></italic> (<tp:taxon-name>Subergorgiidae</tp:taxon-name>) and <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> (<tp:taxon-name>Acanthogorgiidae</tp:taxon-name>) are included as baseline for future revisions. The host specificity and colour morphs of pygmy seahorses are discussed, as well as the reliability of (previous) identifications and conservation issues.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Acanthogorgiidae</kwd>
+                <kwd>Alcyonacea</kwd>
+                <kwd> <italic>Annella</italic></kwd>
+                <kwd>Anthozoa</kwd>
+                <kwd><italic>Hippocampus</italic></kwd>
+                <kwd>host specificity</kwd>
+                <kwd>Hydrozoa</kwd>
+                <kwd>Indo-Pacific</kwd>
+                <kwd><italic>Muricella</italic></kwd>
+                <kwd>new associations</kwd>
+                <kwd>Octocorallia</kwd>
+                <kwd>Subergorgiidae</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Pygmy seahorses (<italic><tp:taxon-name>Hippocampus</tp:taxon-name></italic> spp.) (<tp:taxon-name>Pisces</tp:taxon-name>: <tp:taxon-name>Syngnathidae</tp:taxon-name>) are diminutive tropical fish that live in close association with octocorals, colonial hydrozoans, bryozoans, sea grass and algae (<xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref>), but little information is available about their host specificity. Most host organisms are notoriously hard to identify because of a lack of clear morphological characters, which leads to the risk of obtaining erroneous <!--PageBreak-->identifications. Therefore there is an urgent need for taxonomic revisions of these host species.</p>
+            <p>The first discovered pygmy seahorse was described as <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> Whitley, 1970 (redescribed by <xref ref-type="bibr" rid="B6">Gomon 1997</xref>) as an associate of the gorgonian <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. In recent years, six other new pygmy seahorse species have been described: <italic><tp:taxon-name>Hippocampus colemani</tp:taxon-name></italic> Kuiter, 2003; <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> Lourie &amp; Randall, 2003; <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> Lourie &amp; Kuiter, 2008; <italic><tp:taxon-name>Hippocampus satomiae</tp:taxon-name></italic> Lourie &amp; Kuiter, 2008; <italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic> Lourie &amp; Kuiter, 2008 and <italic><tp:taxon-name>Hippocampus waleananus</tp:taxon-name></italic> Gomon &amp; Kuiter, 2009. An additional species from Japan awaits description (<xref ref-type="bibr" rid="B14">Kuiter 2009</xref>). <xref ref-type="bibr" rid="B34">Žalohar et al. (2009)</xref> described two fossil seahorse species, one of which (<italic><tp:taxon-name>Hippocampus slovenicus</tp:taxon-name></italic> Žalohar, Hitij &amp; Križnar, 2009) has body ornamentations resembling those of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>, <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic>, and <italic><tp:taxon-name>Hippocampus colemani</tp:taxon-name></italic>. It is expected that additional species will be described in the near future (<xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref>, <xref ref-type="bibr" rid="B7">Gomon and Kuiter 2009</xref>, <xref ref-type="bibr" rid="B14">Kuiter 2009</xref>). The diminutive <italic><tp:taxon-name>Hippocampus debelius</tp:taxon-name></italic> Gomon and Kuiter, 2009 belongs to the non-pygmy seahorse species despite its small size and possible association with alcyonarians and/or hydroids. This grouping is based on distinctive characters, i.e. the males’ external tail pouch and separate gill-openings (<xref ref-type="bibr" rid="B7">Gomon and Kuiter 2009</xref>, <xref ref-type="bibr" rid="B14">Kuiter 2009</xref>), but is not reflected in the classification above species level.</p>
+            <p>This study deals with the octocoral (Cnidaria: Anthozoa: Octocorallia) and hydrozoan (Cnidaria: Hydrozoa) hosts of the pygmy seahorses <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>, <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic>, and <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic>.The taxonomic problems in the octocoral host genera <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> (<tp:taxon-name>Acanthogorgiidae</tp:taxon-name>) and <italic><tp:taxon-name>Annella</tp:taxon-name></italic> (<tp:taxon-name>Subergorgiidae</tp:taxon-name>)are addressed, and type material is re-examined and depicted. In addition, a literature review of all documented host species is provided, as well as accounts on newly recorded associations. The distribution records of pygmy seahorses are updated with four localities in Indonesia and Malaysia.</p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>The majority of the pygmy seahorse records in the present study was obtained during fieldwork in Raja Ampat, West Papua, Indonesia (2007). Additional observations were made in Bunaken National Marine Park, North Sulawesi (2008), Ternate and Halmahera, North Moluccas (2009) in Indonesia, and Semporna, eastern Sabah, in Malaysia (2010) (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+						<fig id="F1" position="float" orientation="portrait">
+        				<label>Figure 1.</label>
+        				<caption><p>Map showing the fieldwork localities in Indonesia and Malaysia; BUN (Bunaken), RAJ (Raja Ampat), SEM (Semporna) and TER (Ternate).</p></caption>
+        				<graphic xlink:href="ZooKeys-103-001-001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+        		</fig>
+            <p>Soft corals, gorgonians and hydrozoans were thoroughly searched for pygmy seahorses to a maximum depth of 40 m (using SCUBA), with the help of local dive guides where available (Raja Ampat, Bunaken). <italic>In situ</italic> photographs were taken of both the hosts and the associated seahorses (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The total number of seahorses per host colony was counted, the height of each host colony was estimated and a sample was taken for identification and as voucher material. All material is stored on 70% ethanol in the collections of NCB Naturalis, Leiden (catalogue numbers RMNH Coel.). Subsamples of the Ternate material are deposited in the collections of Museum Zoologicum Bogoriense (Java, Indonesia).<!--PageBreak--></p>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p><italic>In-situ</italic> photographs <bold>A</bold> <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> on <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3 (RMNH Coel. 39866, see <xref ref-type="fig" rid="F7">Fig. 7</xref>), Turtles Reef, Raja Ampat (photo F.R. Stokvis) <bold>B</bold> <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> on <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> (RMNH Coel. 39880, see <xref ref-type="fig" rid="F10">Fig. 10</xref>); W Mansuar, Raja Ampat (photo B.W. Hoeksema) <bold>C</bold> <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> (host not collected) Timur I, Bunaken (photo S.E.T. van der Meij) <bold>D</bold> <italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic> (host not collected) Siladen I, SE Siladen (photo B.T. Reijnen).</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <p>For the identification of the octocoral hosts, microscope slides and SEM photographs of the sclerites were made. These were obtained by dissolving the octocoral tissue in 10% sodium hypochlorite, after which they were rinsed five times with tap water and five times with double-distilled water. The sclerites were subsequently dried on glass microscope slides on a hot plate. After drying, the sclerites were brushed on a SEM stub and coated with platinum. A JEOL JSM6480LV electron microscope operated at 10 kV was used for the SEM photography. The hydrozoans were identified using a dissecting microscope.</p>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>In the literature eight pygmy seahorse species have been recorded as associates of hydroids and octocorals (<xref ref-type="table" rid="T1">Table 1</xref>). During the fieldwork a total of 10 observations of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>,10 of <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic>,four of <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> and one of <italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic> was made. The total number of encountered pygmy seahorse individuals is 52 (<xref ref-type="table" rid="T2">Table 2</xref>), in which 10 host species were involved. For <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> and <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> there is overlap in host species with the previous records. The present host records of <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> do not correspond with previous ones (<xref ref-type="table" rid="T1">Table 1</xref>). On one occasion <italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic> was observed, but the host organism was not sampled.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p>Distribution ranges of pygmy seahorses and their host species associations as obtained from literature.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Species</th>
+                            <th rowspan="1" colspan="1">Confirmed distribution</th>
+                            <th rowspan="1" colspan="1">Host species</th>
+                            <th rowspan="1" colspan="1">Reference</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="3" colspan="1"><italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic></td>
+                            <td rowspan="3" colspan="1">Australia, New Caledonia, Indonesia, Japan, Papua New Guinea, Philippines</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> Grasshoff, 1999</td>
+                            <td rowspan="3" colspan="1"><xref ref-type="bibr" rid="B33">Whitley 1970</xref>, <xref ref-type="bibr" rid="B6">Gomon 1997</xref>, <xref ref-type="bibr" rid="B8">Grasshoff 1999</xref>, <xref ref-type="bibr" rid="B16">Lourie 2001</xref>, <xref ref-type="bibr" rid="B19">Lourie and Randall 2003</xref>, <xref ref-type="bibr" rid="B4">Fricke 2004</xref>, <xref ref-type="bibr" rid="B17">Lourie et al. 2004</xref>, <xref ref-type="bibr" rid="B1">Baine et al. 2008</xref>, <xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> Grasshoff, 1999</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" colspan="1"><italic><tp:taxon-name>Hippocampus colemani</tp:taxon-name></italic></td>
+                            <td rowspan="2" colspan="1">Australia (Lord Howe Isl.)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Halophila</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="2" colspan="1"><xref ref-type="bibr" rid="B13">Kuiter 2003</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Zostera</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="6" colspan="1"><italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic></td>
+                            <td rowspan="6" colspan="1">Indonesia, Malaysia, Micronesia, Palau, Papua New Guinea, Philippines, Solomon Isl., Vanuatu</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> (Nutting, 1910)</td>
+                            <td rowspan="6" colspan="1"><xref ref-type="bibr" rid="B16">Lourie 2001</xref>, <xref ref-type="bibr" rid="B19">Lourie and Randall 2003</xref>, <xref ref-type="bibr" rid="B17">Lourie et al. 2004</xref>, <xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref>, <xref ref-type="bibr" rid="B30">Smith and Tibbetts 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> (Ellis &amp; Solander, 1786)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">?<italic><tp:taxon-name>Acanthogorgia</tp:taxon-name></italic> spp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">?<italic><tp:taxon-name>Echinogorgia</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">?<italic><tp:taxon-name>Subergorgia</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" colspan="1"><italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic></td>
+                            <td rowspan="2" colspan="1">Indonesia (widespread)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aglaophenia cupressina</tp:taxon-name></italic> Lamouroux, 1812</td>
+                            <td rowspan="2" colspan="1"><xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref>, <xref ref-type="bibr" rid="B14">Kuiter 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Halimeda</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" colspan="1"><italic><tp:taxon-name>Hippocampus satomiae</tp:taxon-name></italic></td>
+                            <td rowspan="2" colspan="1">Indonesia (E Kalimantan, N Sulawesi), Malaysia (N Borneo)</td>
+                            <td rowspan="1" colspan="1">?<italic><tp:taxon-name>Carijoa</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="2" colspan="1"><xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref>, <xref ref-type="bibr" rid="B14">Kuiter 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nephthea</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="7" colspan="1"><italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic></td>
+                            <td rowspan="7" colspan="1">Indonesia, Japan, Papua New Guinea, Solomon Isl., Fiji</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Antennellopsis integerrima</tp:taxon-name></italic> Jäderholm, 1919</td>
+                            <td rowspan="7" colspan="1"><xref ref-type="bibr" rid="B12">Kuiter 2000</xref>, <xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Catenicella</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Halicordyle disticha</tp:taxon-name></italic> [<italic><tp:taxon-name>Halocordyle disticha</tp:taxon-name></italic> (Goldfuss, 1820) = <italic><tp:taxon-name>Pennaria disticha</tp:taxon-name></italic> (Goldfuss, 1820)]</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Halimeda</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lytocarpus phoeniceus</tp:taxon-name></italic> (Busk, 1852)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">?<italic><tp:taxon-name>Menella</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hippocampus waleananus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Indonesia (Walea Isl., Togian Isl.)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nephthea</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B7">Gomon and Kuiter 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hippocampus</tp:taxon-name></italic> sp. A</td>
+                            <td rowspan="1" colspan="1">Japan (Hachijo Isl., Izu Isl.) </td>
+                            <td rowspan="1" colspan="1">unknown</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B14">Kuiter 2009</xref></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T2" position="float" orientation="portrait">
+                <label>Table 2.</label>
+                <caption><p>Host-species associations as recorded in this study, no. = the number of observed pygmy seahorses per colony. Observations recorded in Raja Ampat, unless otherwise stated.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Species</th>
+                            <th rowspan="1" colspan="1">No.</th>
+                            <th rowspan="1" colspan="1">Host species</th>
+                            <th rowspan="1" colspan="1">RMNH Coel.</th>
+                            <th rowspan="1" colspan="1">Colony height</th>
+                            <th rowspan="1" colspan="1">Depth</th>
+                            <th rowspan="1" colspan="1">Locality</th>
+                            <th rowspan="1" colspan="1">Lat.</th>
+                            <th rowspan="1" colspan="1">Long.</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="10" colspan="1"><italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1</td>
+                            <td rowspan="1" colspan="1">39868</td>
+                            <td rowspan="1" colspan="1">30 cm</td>
+                            <td rowspan="1" colspan="1">16 m</td>
+                            <td rowspan="1" colspan="1">S Friwin Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°28’54.54”S; 130°41’54.06”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1</td>
+                            <td rowspan="1" colspan="1">39871</td>
+                            <td rowspan="1" colspan="1">100 cm</td>
+                            <td rowspan="1" colspan="1">21 m</td>
+                            <td rowspan="1" colspan="1">Mike’s Point, SE Gam Kerupiar Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’57.06”S; 130°40’22.14”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1</td>
+                            <td rowspan="1" colspan="1">39874</td>
+                            <td rowspan="1" colspan="1">100 cm</td>
+                            <td rowspan="1" colspan="1">22 m</td>
+                            <td rowspan="1" colspan="1">Maitara NW (Ternate)</td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°44’19.21”N; 127°20’59.99”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2</td>
+                            <td rowspan="1" colspan="1">39869</td>
+                            <td rowspan="1" colspan="1">70 cm</td>
+                            <td rowspan="1" colspan="1">21 m</td>
+                            <td rowspan="1" colspan="1">S Friwin Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°28’54.54”S; 130°41’54.06”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3</td>
+                            <td rowspan="1" colspan="1">39864</td>
+                            <td rowspan="1" colspan="1">30 cm</td>
+                            <td rowspan="1" colspan="1">18 m</td>
+                            <td rowspan="1" colspan="1">Mike’s Point, SE Gam Kerupiar Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’57.06”S; 130°40’22.14”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3</td>
+                            <td rowspan="1" colspan="1">39865</td>
+                            <td rowspan="1" colspan="1">60 cm</td>
+                            <td rowspan="1" colspan="1">14 m</td>
+                            <td rowspan="1" colspan="1">Sorido wall, E Kri </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°33’13.20”S; 130°41’16.91”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3</td>
+                            <td rowspan="1" colspan="1">39866</td>
+                            <td rowspan="1" colspan="1">70 cm</td>
+                            <td rowspan="1" colspan="1">12 m</td>
+                            <td rowspan="1" colspan="1">Turtles Reef </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°32’35.16”S; 130°41’51.06”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3</td>
+                            <td rowspan="1" colspan="1">39867</td>
+                            <td rowspan="1" colspan="1">25 cm</td>
+                            <td rowspan="1" colspan="1">18 m</td>
+                            <td rowspan="1" colspan="1">Mike’s Point, SE Gam Kerupiar Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’57.06”S; 130°40’22.14”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3</td>
+                            <td rowspan="1" colspan="1">39870</td>
+                            <td rowspan="1" colspan="1">70 cm</td>
+                            <td rowspan="1" colspan="1">23 m</td>
+                            <td rowspan="1" colspan="1">Mike’s Point, SE Gam Kerupiar Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’57.06”S; 130°40’22.14”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3</td>
+                            <td rowspan="1" colspan="1">39872</td>
+                            <td rowspan="1" colspan="1">80 cm</td>
+                            <td rowspan="1" colspan="1">23 m</td>
+                            <td rowspan="1" colspan="1">NW Batanta </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°47’45.78”S; 130°30’21.24”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="10" colspan="1"><italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39875</td>
+                            <td rowspan="1" colspan="1">50 cm</td>
+                            <td rowspan="1" colspan="1">20 m</td>
+                            <td rowspan="1" colspan="1">Mike’s Point, SE Gam Kerupiar Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’57.06”S; 130°40’22.14”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39876</td>
+                            <td rowspan="1" colspan="1">80 cm</td>
+                            <td rowspan="1" colspan="1">20 m</td>
+                            <td rowspan="1" colspan="1">Sleeping barracuda </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°32’43.14”S; 130°42’01.62”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella cf. mollis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39877</td>
+                            <td rowspan="1" colspan="1">100 cm</td>
+                            <td rowspan="1" colspan="1">22 m</td>
+                            <td rowspan="1" colspan="1">S Kri, Kri Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°33’32.26”S; 130°41’15.48”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella cf. mollis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39881</td>
+                            <td rowspan="1" colspan="1">50 cm</td>
+                            <td rowspan="1" colspan="1">22 m</td>
+                            <td rowspan="1" colspan="1">Mike’s Point, SE Gam Kerupiar Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’57.06”S; 130°40’22.14”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39878</td>
+                            <td rowspan="1" colspan="1">60 cm</td>
+                            <td rowspan="1" colspan="1">24 m</td>
+                            <td rowspan="1" colspan="1">W Mansuar </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’41.76”S; 130°33’35.34”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39879</td>
+                            <td rowspan="1" colspan="1">40 cm</td>
+                            <td rowspan="1" colspan="1">22 m</td>
+                            <td rowspan="1" colspan="1">W Mansuar </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’41.76”S; 130°33’35.34”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39880</td>
+                            <td rowspan="1" colspan="1">30 cm</td>
+                            <td rowspan="1" colspan="1">24 m</td>
+                            <td rowspan="1" colspan="1">W Mansuar </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°30’41.76”S; 130°33’35.34”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39882</td>
+                            <td rowspan="1" colspan="1">30 cm</td>
+                            <td rowspan="1" colspan="1">22 m</td>
+                            <td rowspan="1" colspan="1">Yeffam Isl., NW Pulau Keruo </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°35’15.36”S; 130°17’42.66”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">39952</td>
+                            <td rowspan="1" colspan="1">60 cm</td>
+                            <td rowspan="1" colspan="1">22 m</td>
+                            <td rowspan="1" colspan="1">Timba Timba Isl. (Semporna)</td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">4°33’37.70”N; 118°55’30.40”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2</td>
+                            <td rowspan="1" colspan="1">39873</td>
+                            <td rowspan="1" colspan="1">100 cm</td>
+                            <td rowspan="1" colspan="1">20-25 m</td>
+                            <td rowspan="1" colspan="1">Yeffam Isl., NW Pulau Keruo </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°35’15.36”S; 130°17’42.66”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="4" colspan="1"><italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">not collected</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Timur I (Bunaken)</td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">1°36’38.46”N; 124°46’58.74”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thyroscyphus fruticosus</tp:taxon-name></italic> (Esper, 1793)</td>
+                            <td rowspan="1" colspan="1">39883</td>
+                            <td rowspan="1" colspan="1">20 cm</td>
+                            <td rowspan="1" colspan="1">8 m</td>
+                            <td rowspan="1" colspan="1">Nikson, SE Mansuar </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°34’51.42”S; 130°38’31.62”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thyroscyphus fruticosus</tp:taxon-name></italic> (Esper, 1793) / <italic><tp:taxon-name>Lytocarpia phyteuma</tp:taxon-name></italic> (Kirchenpauer, 1876)</td>
+                            <td rowspan="1" colspan="1">39884 / 39886</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">26 m</td>
+                            <td rowspan="1" colspan="1">S Kri, Kri Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°33’32.26”S; 130°41’15.48”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Clytia cf. gravieri</tp:taxon-name></italic> (Billard, 1904)</td>
+                            <td rowspan="1" colspan="1">39885</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">20 m</td>
+                            <td rowspan="1" colspan="1">Mioskon Isl. </td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">0°29’48.48”S; 130°43’37.38”E</named-content></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">not collected</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Siladen I, SE Siladen (Bunaken)</td>
+                            <td rowspan="2" colspan="1"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">1°37’30.66”N; 124°47’53.88”E</named-content></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <sec sec-type="Anthozoa: Alcyonacea">
+                <title><tp:taxon-name>Anthozoa</tp:taxon-name>: <tp:taxon-name>Alcyonacea</tp:taxon-name></title>
+                <p><bold>Family <tp:taxon-name>Acanthogorgiidae</tp:taxon-name> Gray, 1859</bold></p>
+                <p><bold>Genus <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> Verrill, 1869</bold></p>
+                <p><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> Verrill, 1869: p. 450</p>
+                <p><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> Bayer, 1981: p. 920, 945</p>
+                <p><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> Grasshoff, 1999: p. 33</p>
+                <p>In the remarks of the species descriptions of <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> Grasshoff, 1999, and <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> Grasshoff, 1999, from New Caledonia, <xref ref-type="bibr" rid="B8">Grasshoff (1999)</xref> already mentioned<!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak--> that both species are hosts to <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>. Since the species descriptions of <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> and <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> are not in accordance with the depicted sclerites (Grasshoff, 1999; Figs 50–51), the holotypes have been re-examined by microscope slides and SEM photography (<xref ref-type="fig" rid="F3">Figs 3</xref>–<xref ref-type="fig" rid="F4">4</xref>). The material included in the present study was compared with these holotypes, but clearly does not belong to these two species. Consequently, three additional host species can be recognized for <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>. A total of 35 nominal species are currently accepted within the genus <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B24">Ofwegen 2010</xref>). Since a revision of this genus is lacking, the species names cannot be given. Therefore the sclerite morphology of <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic>, <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> and <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1–3 is provided (<xref ref-type="fig" rid="F3">figs 3</xref>–<xref ref-type="fig" rid="F7">7</xref>).</p>
+                <p>Firstly, <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1 (RMNH Coel. 39868, 39871, 39874) is characterized by wide, plump, capstans from the adaxial layer, up to 0.12 mm long (<xref ref-type="fig" rid="F5">Fig. 5</xref>). Secondly, <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2 (RMNH Coel. 39869, 39873) is characterized by small, slender adaxial capstans, up to 0.05 mm long (<xref ref-type="fig" rid="F6">Fig. 6</xref>). Thirdly, <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3 (RMNH Coel. 39864-67, 39870, 39872), is characterized by adaxial capstans intermediate in shape between the first two, up to 0.10 mm long, and big spindles with rounded ends (<xref ref-type="fig" rid="F7">Fig. 7</xref>). The latter are lacking in the first two species. <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> has similar plump spindles in the coenenchyme but differs from the present material by lacking the bent spindles from the polyp (<xref ref-type="fig" rid="F3">Fig. 3</xref>). <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> differs from all other material by having spindles with pointed ends (<xref ref-type="fig" rid="F4">Fig. 4</xref>).</p>
+                <p><bold>Family <tp:taxon-name>Subergorgiidae</tp:taxon-name> Gray, 1859</bold></p>
+                <p><bold>Genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic> Gray, 1858</bold></p>
+                <p><italic><tp:taxon-name>Annella</tp:taxon-name></italic> Gray, 1858: p. 287</p>
+                <p><italic><tp:taxon-name>Suberogorgia</tp:taxon-name></italic> Stiasny, 1937: p. 83</p>
+                <p><italic><tp:taxon-name>Subergorgia</tp:taxon-name></italic> Bayer, 1981: p. 910</p>
+                <p><italic><tp:taxon-name>Annella</tp:taxon-name></italic> Grasshoff, 1999: p. 16</p>
+                <p>According to <xref ref-type="bibr" rid="B8">Grasshoff (1999)</xref>, <italic><tp:taxon-name>Annella</tp:taxon-name></italic> comprises reef-dwelling Indo-Pacific subergorgiids that form netlike fans. Two species are currently recognized, <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> (Nutting, 1910) and <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> (Ellis and Solander, 1786). These species can be distinguished by their growth form: <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> by elongated meshes in the central part of the fan and <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> by having small polygonal meshes.</p>
+                <p>The taxonomic history of the genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic> is puzzling. Ellis and Solander (1786) described <italic><tp:taxon-name>Gorgonia reticulata</tp:taxon-name></italic> and added a drawing of the habitus without further description or indication of its type locality. The type specimen of <italic><tp:taxon-name>Gorgonia reticulata</tp:taxon-name></italic> is presumably lost. Subsequently, Gray (1857[1858]) described the genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic>, with <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> as type species, but it is unknown whether he associated this species with <italic><tp:taxon-name>Gorgonia reticulata</tp:taxon-name></italic>.Later, Nutting (1910) described <italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic> (<xref ref-type="fig" rid="F8">Fig. 8</xref>), probably without considering a possible homonymy involving <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> and <italic><tp:taxon-name>Gorgonia reticulata</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B31">Stiasny (1937)</xref> synonymised <italic><tp:taxon-name>Gorgonia reticulata</tp:taxon-name></italic> and <italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic>,based on the external morphology, and transferred the species to <italic><tp:taxon-name>Suberogorgia reticulata</tp:taxon-name></italic>.<!--PageBreak--><xref ref-type="bibr" rid="B8">Grasshoff (1999)</xref> eventually placed <italic><tp:taxon-name>Gorgonia reticulata</tp:taxon-name></italic>, <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic>, <italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic> and <italic><tp:taxon-name>Suberogorgia reticulata</tp:taxon-name></italic> in the genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic>. The species is therefore currently known as <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> (Ellis and Solander, 1786). Here the holotype of <italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic> is re-examined and considered different from <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic>, based on the morphology of the double head sclerites (<xref ref-type="fig" rid="F8">Figs 8</xref>, <xref ref-type="fig" rid="F10">10</xref>). Due to the netlike structure of these gorgonians, it is not surprising that the different authors independently chose ‘reticulata’ as epithet, so adding to the confusion.</p>
+                <p>Nutting (1910) described a different species as <italic><tp:taxon-name>Euplexaura mollis</tp:taxon-name></italic> (type locality Moluccas). <xref ref-type="bibr" rid="B31">Stiasny (1937)</xref> transferred this species to <italic><tp:taxon-name>Suberogorgia</tp:taxon-name></italic> [= <italic><tp:taxon-name>Subergorgia</tp:taxon-name></italic>] (Bayer, 1981), and subsequently <xref ref-type="bibr" rid="B8">Grasshoff (1999)</xref> placed itin the genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic>.The species is therefore currently known as <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> (Nutting, 1910).</p>
+                <p>A taxonomic revision of <italic><tp:taxon-name>Annella</tp:taxon-name></italic> has not yet been made, but <xref ref-type="bibr" rid="B10">Grasshoff (2001)</xref> provided an overview of the sclerite diversity observed within this genus. He suggests that the morphological diversity of the sclerites within these two species is correlated with their geographical distribution in the Indo-Pacific. To the best of our knowledge this would be the first and only case in octocoral taxonomy, in which sclerite morphology varies geographically. Following Grasshoff’s (2001) overview of the sclerites, the <italic><tp:taxon-name>Annella</tp:taxon-name></italic> specimens were compared with the nearest region used by <xref ref-type="bibr" rid="B10">Grasshoff (2001)</xref>, <italic>viz</italic>. the Moluccas. Based on those characters five specimens are identified as <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> (RMNH Coel. 39878-80, 39882, 39952; <xref ref-type="fig" rid="F10">Fig. 10</xref>).Likewise, two specimens are identified as <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> (RMNH Coel. 39875-76; <xref ref-type="fig" rid="F11">Fig. 11</xref>), although the double heads of the examined specimens are less developed compared to Grasshoff’s <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> from the Moluccas. Two of the specimens with an <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> colony form had sclerites like the ones depicted for specimens from the Maldives (<xref ref-type="bibr" rid="B10">Grasshoff 2001</xref>). These two specimens are provisionally identified as <italic><tp:taxon-name>Annella</tp:taxon-name></italic> cf. <italic>mollis</italic> (RMNH Coel. 39877, 39881; <xref ref-type="fig" rid="F12">Fig. 12</xref>) and share similarities with the holotype of <italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic> (<xref ref-type="fig" rid="F8">Fig. 8</xref>).</p>
+                <p>The sclerites of the holotype of <italic><tp:taxon-name>Euplexaura mollis</tp:taxon-name></italic> from the Moluccas (= <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> sensu <xref ref-type="bibr" rid="B8">Grasshoff 1999</xref>, <xref ref-type="bibr" rid="B9">2000</xref>) (<xref ref-type="fig" rid="F9">Fig. 9</xref>) were also examined and compared with those pictured by <xref ref-type="bibr" rid="B10">Grasshoff (2001)</xref>. These sclerites resemble the sclerites in drawings of <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> from the Moluccas instead of those of <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic>, whereas the habitus resembles <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic>. Based on our presented material and additional material from the NCB Naturalis collection it seems unlikely that the sclerites of the two <italic><tp:taxon-name>Annella</tp:taxon-name></italic> species differ according to locality. Most varieties, as described by Grasshoff concerning the geographic areas, are also found in Indonesian and Malaysia’s seas (unpublished data). Additional material from other locations is needed to test Grasshoff’s hypothesis on geographically determined sclerite morphotypes.</p>
+            </sec>
+            <sec sec-type="Hydrozoa">
+                <title>Hydrozoa</title>
+                <p>On four occasions specimens of <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> were observed and three of their hosts were collected. Two records of <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> individuals are from a colony of <italic><tp:taxon-name>Thyroscyphus fruticosus</tp:taxon-name></italic> (Esper, 1793) (RMNH Coel. 39883-4), a common littoral species<!--PageBreak--> on coral reefs with a distribution range throughout Indonesia (Prof. W. Vervoort, pers. comm.). A single individual from Kri Island (Raja Ampat) was found on a specimen of <italic><tp:taxon-name>Thyroscyphus fruticosus</tp:taxon-name></italic> intertwined with a specimen of the hydroid <italic><tp:taxon-name>Lytocarpia phyteuma</tp:taxon-name></italic> (Kirchenpauer, 1876) (RMNH Coel. 39886), therefore both co-host species are listed in <xref ref-type="table" rid="T2">Table 2</xref>. <italic><tp:taxon-name>Lytocarpia phyteuma</tp:taxon-name></italic> is an uncommon hydrozoan, which can be found at 0–50 m depth, especially in eastern Indonesia (Prof. W. Vervoort, pers. comm.). The <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> individualfrom Mioskon Island was found on specimens of <italic><tp:taxon-name>Clytia</tp:taxon-name></italic> cf. <italic>gravieri</italic> (Billard, 1904) (RMNH Coel. 39885), a common hydrozoan on coral reefs with a wide (sub-) tropical distribution range. Due to the small amount of collected material, a positive identification is not possible. This hydroid species was also recorded during previous expeditions in Indonesia, such as the Snellius II expedition (1983–84) (unpublished data Prof. W. Vervoort). The host of <italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic> was unfortunately not sampled and therefore its identity remains unknown.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Many sessile marine organisms contribute to the high marine biodiversity in the so-called Coral Triangle by acting as host for many associated organisms (<xref ref-type="bibr" rid="B11">Hoeksema 2007</xref>). Gorgonians are hosts to a variety of species, such as sponges, molluscs, hydroids, crustaceans, brittle stars and fish (<xref ref-type="bibr" rid="B22">Munday et al. 1997</xref>, <xref ref-type="bibr" rid="B5">Goh et al. 1999</xref>, <xref ref-type="bibr" rid="B21">McLean and Yoshioka 2007</xref>, <xref ref-type="bibr" rid="B23">Neves et al. 2007</xref>, <xref ref-type="bibr" rid="B25">Puce et al. 2008</xref>, <xref ref-type="bibr" rid="B29">Sih and Chouw 2009</xref>, <xref ref-type="bibr" rid="B26">Reijnen et al. 2010</xref>). The ‘persistence’ of the relationship (intermittent occurrence on host) between the associated fauna and the host organism is often largely unknown (Goh et al.1999).</p>
+            <p>Pygmy seahorses were observed to remain on a single gorgonian for periods of at least 3–40 weeks. Information on the pygmy seahorse whereabouts after this period is lacking, and movement between different hosts was not directly observed (<xref ref-type="bibr" rid="B1">Baine et al. 2008</xref>). The claim that pygmy seahorses appear to parasitize their hosts (<xref ref-type="bibr" rid="B12">Kuiter 2000</xref>, <xref ref-type="bibr" rid="B32">Teske et al. 2004</xref>) has not been substantiated, just like the observations that species were seen moving over a mushroom coral (<italic><tp:taxon-name>Fungia</tp:taxon-name></italic> sp.) and encrusting sponges (<xref ref-type="bibr" rid="B18">Lourie and Kuiter 2008</xref>) do not seem to be related to real host specificity.</p>
+            <sec sec-type="Host specificity">
+                <title>Host specificity</title>
+                <p>In the case of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> two host species have been recorded in the literature, <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> and <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic>.Three additional <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> species from the Indo-Pacific, different from <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> or <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic>,were found during the present study. <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> is therefore associated with at least five different <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> spp.Unfortunately, the genus <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> is in need of a revision (<xref ref-type="bibr" rid="B27">Samimi and Ofwegen 2009</xref>). The latest overview of the genus <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> was made by Kükenthal (1924), in which species-specific characters are usually missing. This makes it impossible to identify specimens to species level. <!--PageBreak-->Since Kükenthals’ overview only three additional <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> species have been described (<xref ref-type="bibr" rid="B8">Grasshoff 1999</xref>, 2000), which are considered endemic to New Caledonia and the Red Sea. Although the current status of the taxonomy of this gorgonian genus is a large obstacle in identifying species, the results herein indicate that <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1, <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2 and <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3 are new host records for <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>, each based on their own unique characters (<xref ref-type="fig" rid="F5">Figs 5</xref>–<xref ref-type="fig" rid="F7">7</xref>).</p>
+                <p>Individuals of <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> primarily occur on colonies of <italic><tp:taxon-name>Annella</tp:taxon-name></italic> spp., which they strongly resemble in colour pattern, resulting in an optimal camouflage. Based on our results <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> lives in association with at least three different <italic><tp:taxon-name>Annella</tp:taxon-name></italic> species: <italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic>, <italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> and <italic><tp:taxon-name>Annella</tp:taxon-name></italic> cf. <italic>mollis</italic>. No other <italic><tp:taxon-name>Annella</tp:taxon-name></italic> species are currently recognized, and a revision of the genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic> is needed. This will most likely show that additional <italic><tp:taxon-name>Annella</tp:taxon-name></italic> species await description. One individualof <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> was found on <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2 (<xref ref-type="fig" rid="F13">Fig. 13</xref>). This association was already known (<xref ref-type="table" rid="T1">Table 1</xref>), but appears quite unusual. Additional host genera for <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> are expected, based on published photographs (<xref ref-type="bibr" rid="B14">Kuiter 2009</xref>). A study by <xref ref-type="bibr" rid="B29">Sih and Chouw (2009)</xref> showed that other fish species (<italic><tp:taxon-name>Bryaninops amplus</tp:taxon-name></italic> Larson, 1985) associated with gorgonian hosts, select their habitat on physical properties, such as the host’s size and surface area, rather than the species to which it belongs. This may explain why <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> was encountered on a <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp., instead of on its far more common host genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic>. Fish species may generally be more associated with certain host gorgonians, but they can still be found on other hosts if the preferred host is not available.</p>
+            </sec>
+            <sec sec-type="Colour morphs">
+                <title>Colour morphs</title>
+                <p>Different colour morphs are recorded for the gorgonian-associated species <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic>, and <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> (Lourie et al.2004, <xref ref-type="bibr" rid="B14">Kuiter 2009</xref>), resulting in the most optimal camouflage considering the colour and the polyp structure of the gorgonians, which are perfectly mimicked by the pygmy seahorses. According to Lourie et al.(2004) the pale grey, purple with pink, and red tubercles colour morphs of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> are found on <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic>,whereas species showing yellow with orange tubercles are found on <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic>. Unfortunately, it remains uncertain whether this is a valid assumption, without examining the host’s sclerites. Neither <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> nor <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> were encountered during our field studies and all our specimens of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> belonged to the pale grey / purple colour morpHippocampus The strict association between colour morph and specific host species can therefore not be confirmed. Based on the present data such strict associations seem unlikely, since identically coloured host species are in fact often different species.</p>
+                <p>For other pygmy seahorse species new colour morphs may be encountered, since pygmy seahorses are enigmatic species that are popular objects for divers and underwater photographers. As a result they often appear in dive magazines and field guides. Occasionally these pictures show new colour morphs or maybe even new species. For future research such observations and sightings can contribute to the general knowledge and ecology of pygmy seahorses, especially when the host organisms are collected for taxonomic studies.<!--PageBreak--></p>
+            </sec>
+            <sec sec-type="Reliability of identifications">
+                <title>Reliability of identifications</title>
+                <p>Previous identifications of the hosts of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> may well be in error since they were made by non-gorgonian specialists, except for the identifications in <xref ref-type="bibr" rid="B19">Lourie and Randall (2003)</xref> which were done by Dr F.M. Bayer. Based on the herein presented data and re-examination of the holotypes, it seems plausible that the published coral host records contain several errors. For the genus <italic><tp:taxon-name>Annella</tp:taxon-name></italic> the literature records (see <xref ref-type="table" rid="T1">Table 1</xref>) show the same host species as found in the present study (<xref ref-type="table" rid="T2">Table 2</xref>, <xref ref-type="fig" rid="F8">Figs 8</xref>–<xref ref-type="fig" rid="F12">12</xref>), but previous identifications were based on the growth form (mesh shape) and not on the sclerites. These identifications should be re-assessed based on sclerite morphology.</p>
+                <p><xref ref-type="bibr" rid="B18">Lourie and Kuiter (2008)</xref> mention <italic><tp:taxon-name>Acanthogorgia</tp:taxon-name></italic> spp. as hosts for <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic>, based on a photograph (<xref ref-type="bibr" rid="B19">Lourie and Randall 2003</xref>: image 10; pers. comm. Sara Lourie). This identification seems erroneous, since the polyps shown in the photograph are not characteristic for the genus <italic><tp:taxon-name>Acanthogorgia</tp:taxon-name></italic>. Although no certain identification can be made based on a photograph, the image most likely depicts a zoanthid (Dr James Reimer, pers. comm.), which would be the first indication that pygmy seahorses might be associated with zoanthids as well. Associations with <italic><tp:taxon-name>Echinogorgia</tp:taxon-name></italic> sp. and <italic><tp:taxon-name>Subergorgia</tp:taxon-name></italic> sp. cannot be confirmed based on material in the present study.</p>
+                <p>For many organisms molecular methods can be of help to identify species, but so far barcoding of Octocorallia for the COI gene has not been successful. Even when sequences are obtained, information on species level is very limited. Most research is currently limited to three genes, which are still unsatisfactory to identify species (<xref ref-type="bibr" rid="B20">McFadden et al. 2011</xref>). For Octocorallia the ‘traditional’ taxonomy based on morphological characters remains of primary importance. When new species of pygmy seahorses are described a photograph of the whole host colony, and a close-up of its polyps and branches should also be provided, which is normally enough to identify the host to family or possibly genus level. Preferably also tissue samples of the host should be collected for taxonomic studies.</p>
+            </sec>
+            <sec sec-type="Conservation">
+                <title>Conservation</title>
+                <p>The distribution ranges of the pygmy seahorses are largely situated within the Coral Triangle (<xref ref-type="bibr" rid="B16">Lourie 2001</xref>, <xref ref-type="bibr" rid="B11">Hoeksema 2007</xref>), which receives much attention with regard to coral reef conservation. The entire genus <italic><tp:taxon-name>Hippocampus</tp:taxon-name></italic> is listed in Appendix II of CITES and <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> and <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> are listed as data deficient in the IUCN Red List (<xref ref-type="bibr" rid="B17">Lourie et al. 2004</xref>), whereas the other five pygmy seahorse species have not yet been assessed. One of the main threats to seahorse populations concerns habitat loss and degradation, especially for the species depending on specific host coral species. Seahorses have been increasingly used as flagship species in local and regional conservation programs to promote the protection of both the seahorses and their habitats (<xref ref-type="bibr" rid="B28">Scales 2010</xref>). Knowledge on the distribution of the host species can be beneficial for conservation efforts of their associated organisms.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Conclusion">
+            <title>Conclusion</title>
+            <p>This paper shows that pygmy seahorses are associated with more gorgonian and hydrozoan hosts than previously assumed, resulting in new associations; <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> is associated with five species of the genus <italic><tp:taxon-name>Muricella</tp:taxon-name></italic>, <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> is associated with three <italic><tp:taxon-name>Annella</tp:taxon-name></italic> species, and <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic> with four hydrozoan and one algae species. No new records are available for <italic><tp:taxon-name>Hippocampus severnsi</tp:taxon-name></italic>. The presumed association of colour morphs of <italic><tp:taxon-name>Hippocampus bargibanti</tp:taxon-name></italic> with certain <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> species cannot be confirmed based on our present results. Future work on pygmy seahorses should preferably include more attention for their hosts, including taking tissue samples for identification by an octocoral taxonomist.</p>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p><italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> (MNHN, HG-100 - holotype)<bold>A</bold> spindles from coenenchyme and polyp <bold>B</bold> smaller spindles from coenenchyme and polyp <bold>C</bold> capstans from adaxial layer <bold>D</bold> rods from tentacle. Scale bars represent 0.1 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figure 4.</label>
+                <caption><p><italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic> (MNHN, HG-121 - holotype)<bold>A</bold> spindles from coenenchyme and polyp <bold>B</bold> smaller spindles from coenenchyme and polyp <bold>C</bold> capstans from adaxial layer <bold>D</bold> rods from tentacle. Scale bars represent 0.1 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figure 5.</label>
+                <caption><p><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 1 (RMNH Coel. 39871)<bold>A</bold> spindles from coenenchyme and polyp <bold>B</bold> smaller spindles from coenenchyme and polyp <bold>C</bold> capstans from adaxial layer <bold>D</bold> rods from tentacle. Scale bars represent 0.1 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figure 6.</label>
+                <caption><p><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2 (RMNH Coel. 39873) <bold>A</bold> spindle from coenenchyme <bold>B</bold> smaller spindles from coenenchyme and polyp <bold>C</bold> capstans from adaxial layer <bold>D</bold> rods from tentacle. Scale bars represent 0.1 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F7" position="float" orientation="portrait">
+                <label>Figure 7.</label>
+                <caption><p><italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 3 (RMNH Coel. 39865) <bold>A</bold> spindle from coenenchyme <bold>B</bold> smaller spindles from coenenchyme and polyp <bold>C</bold> capstans from adaxial layer <bold>D</bold> rods from tentacle. Scale bars represent 0.1 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F8" position="float" orientation="portrait">
+                <label>Figure 8.</label>
+                <caption><p><italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic> (ZMA Coel. 3504 - holotype) <bold>A</bold> spindles from the coenenchyme <bold>B</bold> tentacle rods <bold>C</bold> medulla spindles from the axis <bold>D</bold> double heads from the surface layer. Scale bar represents 0.1 mm, except for <bold>D</bold> which is 0.05 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-008.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F9" position="float" orientation="portrait">
+                <label>Figure 9.</label>
+                <caption><p><italic><tp:taxon-name>Euplexaura mollis</tp:taxon-name></italic> (ZMA Coel. 3498 - holotype) <bold>A</bold> spindles from the coenenchyme <bold>B</bold> tentacle rods <bold>C</bold> medulla spindles from the axis <bold>D</bold> double heads from the surface layer. Scale bar represents 0.1 mm, except for <bold>D</bold> which is 0.05 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-009.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F10" position="float" orientation="portrait">
+                <label>Figure 10.</label>
+                <caption><p><italic><tp:taxon-name>Annella reticulata</tp:taxon-name></italic> (RMNH Coel. 39882) <bold>A</bold> spindles from the coenenchyme <bold>B</bold> tentacle rods <bold>C</bold> medulla spindles from the axis (d) double heads from the surface layer. Scale bar represents 0.1 mm, except for <bold>D</bold> which is 0.05 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-010.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F11" position="float" orientation="portrait">
+                <label>Figure 11.</label>
+                <caption><p><italic><tp:taxon-name>Annella mollis</tp:taxon-name></italic> (RMNH Coel. 39875) <bold>A</bold> spindles from the coenenchyme <bold>B</bold> tentacle rods <bold>C</bold> medulla spindles from the axis <bold>D</bold> double heads from the surface layer. Scale bar represents 0.1 mm, except for <bold>D</bold> which is 0.05 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-011.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F12" position="float" orientation="portrait">
+                <label>Figure 12.</label>
+                <caption><p><italic><tp:taxon-name>Annella</tp:taxon-name></italic> cf. <italic>mollis</italic> (RMNH Coel. 39877) <bold>A</bold> spindles from the coenenchyme <bold>B</bold> tentacle rods <bold>C</bold> medulla spindles from the axis <bold>D</bold> double heads from the surface layer. Scale bar represents 0.1 mm, except for <bold>D</bold> which is 0.05 mm.</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-012.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F13" position="float" orientation="portrait">
+                <label>Figure 13.</label>
+                <caption><p>A rare occurrence, <italic><tp:taxon-name>Hippocampus denise</tp:taxon-name></italic> on <italic><tp:taxon-name>Muricella</tp:taxon-name></italic> sp. 2 (RMNH Coel. 39873) at Raja Ampat (photo F.R. Stokvis).</p></caption>
+                <graphic xlink:href="ZooKeys-103-001-013.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Dr Bert W. Hoeksema (NCB Naturalis) and Mrs. Yosephine Tuti (RCO-LIPI) jointly organized the Raja Ampat (2007) and Ternate (2009) expeditions. Fieldwork in Bunaken (2008) was conducted by the first and second author. LIPI (in 2007 and 2008) and RISTEK (in 2009) granted the research permits for the work in Indonesia. The research was accommodated by Papua Diving, Bunaken Village and the LIPI-Ternate field station. The Semporna Marine Ecological Expedition (SMEE2010) was jointly organized by WWF-Malaysia, Universiti Malaysia Sabah’s Borneo Marine Research Institute, NCB Naturalis and Universiti Malaya’s Institute of Biological Sciences. Research permission for SMEE2010 was granted by Economic Planning Unit, Prime Minister’s Department, Economic Planning Unit Sabah, Sabah Parks and Department of Fisheries SabaHippocampus The MV Celebes Explorer accommodated the research. Frank R. Stokvis photographed many of the pygmy seahorses and collected coral hosts in Raja Ampat. Additional pygmy seahorses were recorded by Dr Bert W. Hoeksema, Dr Willem Renema, and Eva M. van der Veer. Prof. Dr Wim Vervoort (NCB Naturalis) identified the hydrozoan hosts of <italic><tp:taxon-name>Hippocampus pontohi</tp:taxon-name></italic>. Dr James D. Reimer (University of the Ryukyus) helped with information on zooanthids, and Dr Sara Lourie (McGill University) checked our pygmy seahorse identifications, and provided extra background information. Dr Rob W.M. van Soest and Ms. Elly Begliner (NCB Naturalis, section ZMA) provided us with the holotypes of <italic><tp:taxon-name>Euplexaura mollis</tp:taxon-name></italic> and <italic><tp:taxon-name>Euplexaura reticulata</tp:taxon-name></italic> and Dr A. Andouche and Dr N. Ameziane (Muséum nationale d’Histoire naturelle) provided the holotypes of <italic><tp:taxon-name>Muricella plectana</tp:taxon-name></italic> and <italic><tp:taxon-name>Muricella paraplectana</tp:taxon-name></italic>. Funding for the various expeditions was provided by the Van Tienhoven Foundation for International Nature Protection, Schure-Beijerinck-Popping Fund (KNAW), a National Geographic Young Explorers Grant, Stichting Fonds Dr C. van Tussenbroek (Nell Ongerboerfonds), Alida M. Buitendijkfonds, Stichting L.B. Holthuisfonds, Jan-Joost ter Pelkwijkfonds (all NCB Naturalis), and Leiden University Funds. Singapore Airlines and SilkAir provided logistical support. Dr Yehuda Benayahu and an anonymous reviewer provided valuable comments on the manuscript.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Baine</surname> <given-names>MSP</given-names></name><name name-style="western"><surname>Barrows</surname> <given-names>APW</given-names></name><name name-style="western"><surname>Ganiga</surname> <given-names>G</given-names></name><name name-style="western"><surname>Martin-Smith</surname> <given-names>KM</given-names></name></person-group> (<year>2008</year>)<source> Residence and movement of pygmy seahorses, <italic>Hippocampus bargibanti</italic>, on sea fans (<italic>Muricella</italic> spp.). Coral Reefs 27: 421.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00338-007-0352-5">10.1007/s00338-007-0352-5</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bayer</surname> <given-names>FM</given-names></name></person-group> (<year>1981</year>)<article-title> Key to the genera of Octocorallia exclusive of Pennatulacea (Coelenterata: Anthozoa), with diagnoses of new taxa.</article-title> <source>Proceedings of the Biological Society of Washington</source> <volume>94</volume>:<fpage>902</fpage>-<lpage>947</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fabricius</surname> <given-names>KE</given-names></name><name name-style="western"><surname>Alderslade</surname> <given-names>P</given-names></name></person-group> (<year>2001</year>)<source> Soft corals and sea fans: A comprehensive guide to the tropical shallow water genera of the central-west Pacific, the Indian Ocean and the Red Sea. Australian Institute of Marine Science, Townsville, i-viii, 264 pp.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fricke</surname> <given-names>R</given-names></name></person-group> (<year>2004</year>)<article-title> Review of the pipefishes and seahorses (Teleostei: Syngnathidae) of New Caledonia, with descriptions of five new species.</article-title> <source>Stuttgarter Beiträge zur Naturkunde, Serie A Biologie</source> <volume>668</volume>:<fpage>1</fpage>-<lpage>66</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goh</surname> <given-names>NKC</given-names></name><name name-style="western"><surname>Ng</surname> <given-names>PKL</given-names></name><name name-style="western"><surname>Chou</surname> <given-names>LM</given-names></name></person-group> (<year>1999</year>)<article-title> Notes on the shallow water gorgonian-associated fauna on coral reefs in Singapore.</article-title> <source>Bulletin of Marine Science</source> <volume>65</volume>:<fpage>259</fpage>-<lpage>282</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gomon</surname> <given-names>MF</given-names></name></person-group> (<year>1997</year>)<article-title> A remarkable new pygmy seahorse (Syngnathidae: <italic>Hippocampus</italic>) from South-Eastern Australia, with a redescription of <italic>H. bargibanti</italic> Whitley from New Caledonia.</article-title> <source>Memoirs of Museum Victoria</source> <volume>56</volume>:<fpage>245</fpage>-<lpage>253</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gomon</surname> <given-names>MF</given-names></name><name name-style="western"><surname>Kuiter</surname> <given-names>RH</given-names></name></person-group> (<year>2009</year>)<article-title> Two new pygmy seahorses (Teleostei: Syngnathidae: <italic>Hippocampus</italic>) from the Indo-West Pacific.</article-title> <source>Aqua</source> <volume>15</volume>:<fpage>37</fpage>-<lpage>44</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grasshoff</surname> <given-names>M</given-names></name></person-group> (<year>1999</year>)<article-title> The shallow water gorgonians of New Caledonia and adjacent islands (Coelenterata: Octocorallia).</article-title> <source>Senckenbergiana Biologica</source> <volume>78</volume>:<fpage>1</fpage>-<lpage>245</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grasshoff</surname> <given-names>M</given-names></name></person-group> (<year>2000</year>)<article-title> The gorgonians of the Sinai coast and the Strait of Gubal, Red Sea (Coelenterata, Octocorallia).</article-title> <source>Courier Forschungsinstitut Senckenberg</source> <volume>224</volume>:<fpage>1</fpage>-<lpage>123</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grasshoff</surname> <given-names>M</given-names></name></person-group> (<year>2001</year>)<article-title> Taxonomy, systematics, and octocorals: to Frederick M. Bayer, October 31st 2001.</article-title> <source>Bulletin of the Biological Society of Washington</source> <volume>10</volume>:<fpage>3</fpage>-<lpage>14</lpage>.</mixed-citation></ref>
+          	<ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hoeksema</surname> <given-names>BW</given-names></name></person-group> (<year>2007</year>)<source> Delineation of the Indo-Malayan Centre of Maximum Marine Biodiversity: The Coral Triangle. In: Renema W (Ed) Biogeography, Time and Place: Distributions, Barriers and Islands. Springer, Dordrecht, 117–178.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/978-1-4020-6374-9_5">10.1007/978-1-4020-6374-9_5</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kuiter</surname> <given-names>RH</given-names></name></person-group> (<year>2000</year>)<source> Seahorses, Pipefishes and their Relatives - A Comprehensive Guide to Syngnathiformes. TMC Publishing, Chorleywood, UK, 240 pp.</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kuiter</surname> <given-names>RH</given-names></name></person-group> (<year>2003</year>)<article-title> A new pygmy seahorse (Pisces: Syngnathidae: <italic>Hippocampus</italic>) from Lord Howe Island.</article-title> <source>Records of the Australian Museum</source> <volume>55</volume>:<fpage>113</fpage>-<lpage>116</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3853/j.0067-1975.55.2003.1382">10.3853/j.0067-1975.55.2003.1382</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kuiter</surname> <given-names>RH</given-names></name></person-group> (<year>2009</year>)<source> Seahorses and their relatives. Aquatic Photographics, Seaford, 334 pp.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Larson</surname> <given-names>HK</given-names></name></person-group> (<year>1985</year>)<article-title> A revision of the gobiid genus <italic>Bryaninops</italic> (Pisces), with a description of six new species.</article-title> <source>The Beagle</source> <volume>2</volume>:<fpage>57</fpage>-<lpage>93</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourie</surname> <given-names>SA</given-names></name></person-group> (<year>2001</year>)<source> Seahorses (Genus <italic>Hippocampus</italic>)of Indonesia (field survey report). McGill University, Montreal, 25 pp.</source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourie</surname> <given-names>SA</given-names></name><name name-style="western"><surname>Foster</surname> <given-names>SJ</given-names></name><name name-style="western"><surname>Cooper</surname> <given-names>EWT</given-names></name><name name-style="western"><surname>Vincent</surname> <given-names>CJ</given-names></name></person-group> (<year>2004</year>)<source> A guide to the identification of seahorses. Project Seahorse and TRAFFIC North America. University of British Columbia and World Wildlife Fund, Washington DC, i-ii, 114 pp.</source></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourie</surname> <given-names>SA</given-names></name><name name-style="western"><surname>Kuiter</surname> <given-names>RH</given-names></name></person-group> (<year>2008</year>)<article-title> Three new pygmy seahorse species from Indonesia (Teleostei: Syngnathidae: <italic>Hippocampus</italic>).</article-title> <source>Zootaxa</source> <volume>1963</volume>:<fpage>54</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourie</surname> <given-names>SA</given-names></name><name name-style="western"><surname>Randall</surname> <given-names>JE</given-names></name></person-group> (<year>2003</year>)<article-title> A new pygmy seahorse, <italic>Hippocampus denise</italic> (Teleostei: Syngnathidae), from the Indo-Pacific.</article-title> <source>Zoological Studies</source> <volume>42</volume>:<fpage>284</fpage>-<lpage>291</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McFadden</surname> <given-names>CS</given-names></name><name name-style="western"><surname>Benayahu</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Pante</surname> <given-names>E</given-names></name><name name-style="western"><surname>Thoma</surname> <given-names>JN</given-names></name><name name-style="western"><surname>Nevarez</surname> <given-names>PA</given-names></name><name name-style="western"><surname>France</surname> <given-names>SC</given-names></name></person-group> (<year>2011</year>)<article-title> Dna Barcoding limitations of mitochondrial gene barcoding in Octocorallia.</article-title> <source>Molecular Ecology Resources</source> <volume>11</volume>:<fpage>19</fpage>-<lpage>31</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1755-0998.2010.02875.x">10.1111/j.1755-0998.2010.02875.x</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McLean</surname> <given-names>EL</given-names></name><name name-style="western"><surname>Yoshioka</surname> <given-names>PM</given-names></name></person-group> (<year>2007</year>)<source> Associations and interactions between gorgonians and sponges. In:Custódio MR, Lôbo-Hajdu G, Hajdu E, Muricy G (Eds) Porifera research: biodiversity, innovation and sustainability, Museu Nacional, Rio de Janeiro 233–237.</source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Munday</surname> <given-names>PL</given-names></name><name name-style="western"><surname>Jones</surname> <given-names>GP</given-names></name><name name-style="western"><surname>Caley</surname> <given-names>JM</given-names></name></person-group> (<year>1997</year>)<article-title> Habitat specialisation and the distribution and abundance of coral-dwelling gobies.</article-title> <source>Marine Ecology Progress Series</source> <volume>152</volume>:<fpage>227</fpage>-<lpage>239</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3354/meps152227">10.3354/meps152227</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Neves</surname> <given-names>BM</given-names></name><name name-style="western"><surname>Lima</surname> <given-names>EJB</given-names></name><name name-style="western"><surname>Pérez</surname> <given-names>CD</given-names></name></person-group> (<year>2007</year>)<article-title> Brittle stars (Echinodermata: Ophiuridae) associated with the octocoral <italic>Carijoa</italic> <italic>riisei</italic> (Cnidaria: Anthozoa) from the littoral of Pernambuco, Brazil.</article-title> <source>Journal of the Marine Biological Association of the United Kingdom</source> <volume>87</volume>:<fpage>1263</fpage>-<lpage>1267</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0025315407056263">10.1017/S0025315407056263</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ofwegen</surname> <given-names>L van</given-names></name></person-group> (<year>2010</year>)<source> <italic>Muricella</italic> Verrill, 1868. Accessed through: World Register of Marine Species at <ext-link ext-link-type="uri" xlink:href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=267602">http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=267602</ext-link> [visited 31 March 2011]</source></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Puce</surname> <given-names>S</given-names></name><name name-style="western"><surname>Giola di Camillo</surname> <given-names>C</given-names></name><name name-style="western"><surname>Bavastrello</surname> <given-names>G</given-names></name></person-group> (<year>2008</year>)<article-title> Hydroids symbiotic with octocorals from the Sulawesi Sea, Indonesia.</article-title> <source>Journal of the Marine Biological Association of the United Kingdom</source> <volume>88</volume>:<fpage>1643</fpage>-<lpage>1654</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0025315408001094">10.1017/S0025315408001094</ext-link></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Reijnen</surname> <given-names>BT</given-names></name><name name-style="western"><surname>Hoeksema</surname> <given-names>BW</given-names></name><name name-style="western"><surname>Gittenberger</surname> <given-names>E</given-names></name></person-group> (<year>2010</year>)<source> Host specificity and phylogenetic relationships among Atlantic Ovulidae (Mollusca: Gastropoda). Contributions to Zoology79: 69–78.</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Samimi</surname> <given-names>Namin K</given-names></name><name name-style="western"><surname>Ofwegen LP</surname> <given-names>van</given-names></name></person-group> (<year>2009</year>)<source> Some shallow water octocorals (Coelenterata: Anthozoa) of the Persian Gulf. Zootaxa2058: 1–52.</source></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Scales</surname> <given-names>H</given-names></name></person-group> (<year>2010</year>)<source> Advances in the ecology, biogeography and conservation of seahorses (genus <italic>Hippocampus</italic>). Progress in Physical Geography34: 443–458.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1177/0309133310364928">10.1177/0309133310364928</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sih</surname> <given-names>J</given-names></name><name name-style="western"><surname>Chouw</surname> <given-names>J</given-names></name></person-group> (<year>2009</year>)<article-title> Fish and whips: Use of gorgonians as a habitat by the large whipcoral goby, <italic>Bryaninops amplus</italic> (Larson).</article-title> <source>Raffles Bulletin of Zoology, Supplement</source> <volume>22</volume>:<fpage>145</fpage>-<lpage>157</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname> <given-names>RE</given-names></name><name name-style="western"><surname>Tibbetts</surname> <given-names>IR</given-names></name></person-group> (<year>2008</year>)<source> Mating and birth of Denise’s pygmy seahorses (<italic>Hippocampus denise</italic>) observed in the wild. Coral Reefs 27: 617.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00338-008-0373-8">10.1007/s00338-008-0373-8</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stiasny</surname> <given-names>G</given-names></name></person-group> (<year>1937</year>)<article-title> Die Gorgonacea der Siboga Expedition. Supplement II. Revision der Scleraxonia mit Ausschluss der Melitodidae und Coralliidae.</article-title> <source>Siboga Expedition</source> <volume>13</volume>:<fpage>1</fpage>-<lpage>138</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Teske</surname> <given-names>PT</given-names></name><name name-style="western"><surname>Cherry</surname> <given-names>MI</given-names></name><name name-style="western"><surname>Matthee</surname> <given-names>CA</given-names></name></person-group> (<year>2004</year>)<article-title> The evolutionary history of seahorses (Syngnathidae: <italic>Hippocampus</italic>): molecular data suggest a West-Pacific origin and two invasions of the Atlantic Ocean.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>30</volume>:<fpage>273</fpage>-<lpage>286</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S1055-7903(03)00214-8">10.1016/S1055-7903(03)00214-8</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Whitley</surname> <given-names>GP</given-names></name></person-group> (<year>1970</year>)<article-title> Abstract of proceedings. Ordinary general meeting 26th November 1969.</article-title> <source>Proceedings of the Linnean Society of New South Wales</source> <volume>94</volume>:<fpage>292</fpage>-<lpage>295</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Žalohar</surname> <given-names>J</given-names></name><name name-style="western"><surname>Hitij</surname> <given-names>T</given-names></name><name name-style="western"><surname>Križnar</surname> <given-names>M</given-names></name></person-group> (<year>2009</year>)<article-title> Two new species of seahorses (Syngnathidae, <italic>Hippocampus</italic>) from the Middle Miocene (Sarmatian) Coprolitic Horizon in Tunjice Hills, Slovenia: The oldest fossil record of seahorses.</article-title> <source>Annales de Paléontologie</source> <volume>95</volume>:<fpage>71</fpage>-<lpage>96</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.annpal.2009.03.002">10.1016/j.annpal.2009.03.002</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

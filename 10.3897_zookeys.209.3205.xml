@@ -1,0 +1,448 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3205</article-id>
+            <title-group>
+                <article-title>The US Virtual Herbarium: working with individual herbaria to build a national resource</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Barkworth</surname>
+                        <given-names>Mary E.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Murrell</surname>
+                        <given-names>Zack E.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Intermountain Herbarium, Department of Biology, Utah State University, 5305 Old Main Hill, Logan, Utah, USA 84322-5305
+            </aff>
+            <aff id="A2">
+                <label>2</label>Biology Department, Appalachian State University ASU Box 32027, Rankin Science Building, 527 Rivers Street, Boone, North Carolina, USA 28608
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Mary E. Barkworth (<email xlink:type="simple">mary.barkworth@usu.edu</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>55</fpage>
+            <lpage>73</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>4</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>25</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Mary E. Barkworth, Zack E. Murrell</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The goal of the US Virtual Herbarium (USVH) project is to digitize (database, image, georeference) <italic>all</italic> specimens in all US herbaria, enabling them to be made available through a single portal. Herbaria house specimens of plants, fungi, and algae, so USVH will offer a rich portrait of biodiversity in the US and in the other countries represented in US herbaria. Equally importantly, working towards this goal will engage people with herbaria and the organisms they house, expanding their appreciation of both the power of biodiversity informatics and the demands that it places on data providers while developing improved communication among those working in and with herbaria. The project is not funded but has strong support among those working in herbaria. It works through regional herbarium networks, some of which existed prior to the USVH project, while others are still in gestation. It differs from most digitization projects in its emphasis on helping those involved with herbaria become part of a national enterprise, an aspect that is seen as critical to creating the resources needed to develop and sustain the project. In this paper, we present some of the lessons we have learned and the difficulties we have encountered during the first few years of the project.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Herbaria</kwd>
+                <kwd>networks</kwd>
+                <kwd>plants</kwd>
+                <kwd>fungi</kwd>
+                <kwd>algae</kwd>
+                <kwd>digitization</kwd>
+                <kwd>online databases
+<!--PageBreak--></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Origin of the US Virtual Herbarium project">
+            <title>Origin of the US Virtual Herbarium project</title>
+            <p>The US Virtual Herbarium project was started in 2008 at a meeting held in conjunction with the annual meeting of the Botanical Society of America. Those present were asked whether they were in favor of attempting to develop integrated access to specimen information residing in all US herbaria, creating in essence, a US Virtual Herbarium (USVH). The meeting followed 20+ years of digitizing efforts (primarily databasing) within US herbaria. It had been called because, despite these efforts, there was no evidence of a program to build a national resource that would include all herbaria. Some of those voting had been involved in digitization efforts. Others came looking for help, both financial and technical, in starting the process. At the end of the meeting, all those present endorsed the concept. Thus the project started, not in direct response to a national initiative or program but as a statement of interest by those directly involved with herbaria.</p>
+            <p>The meeting was held under the auspices of the Western Association of Agricultural Experiment Station Directors (WAAESD). Each state has an Agricultural Experiment Station (AES) and their directors work together, regionally and nationally, in areas of joint interest. Although it was AES directors in the western states who sponsored the meeting, the USVH project has always been national in scope. Formally speaking, the purpose of the meeting was to determine whether there was sufficient support to justify WAAESD sponsorship of a 5-year committee to coordinate work towards a single access point to information from all US herbaria. Given the support expressed, formation of the committee was approved.</p>
+            <p>WAAESD sponsorship provides a formal but flexible structure within which to operate. It does not provide funding; it does provide freedom in determining how best to pursue a group’s objectives. It also provides a mechanism for disseminating information through the National Information Management and Support System (NIMSS). Reports and announcements posted to NIMSS are sent to AES directors in each state as well as to registered participants. Because most herbaria are not connected with AES, the sponsorship by WAAESD immediately increased awareness of herbaria.</p>
+            <p>The executive committee’s first task was to develop explicit goals for the project. After considerable debate, it agreed that the overall goal of the US Virtual Herbarium project should be digitizing all specimens in all US herbaria. The result will be a major new scientific resource but the greatest benefits will result from working towards this overall goal, a process that will require helping collectors and curators record information in a manner that maximizes the value of a specimen, use the tools being developed for capturing and sharing collection information, and make use of the resulting information in their research, education, and outreach activities. It will also require increasing interaction among those who work in herbaria and educating users in diverse disciplines about the value and use of collection data. Much of the value of the project lies in ensuring that these benefits are experienced by all those involved with herbaria and in teaching students about algal, fungal, and plant diversity.</p>
+            <p>Herbarium specimens provide a particularly rich information layer to the world’s biodiversity resources because they represent sessile organisms. They show the ability of<!--PageBreak--> a taxon to complete its life cycle at a particular location and time and, in some instances, provide information about the prevailing growing condition (see, e.g., <xref ref-type="bibr" rid="B11">Woodward and Bazzaz 1988</xref>; <xref ref-type="bibr" rid="B6">Kouwenberg et al. 2003</xref>; <xref ref-type="bibr" rid="B12">Zangeri and Berenbaum 2005</xref>; <xref ref-type="bibr" rid="B4">Johnson 2011</xref>). Thus the value of the digital herbarium layer is clear. The optimal path (or paths) to providing it is less clear. The task of the US Virtual Herbarium project is to accelerate the process and ensure that all herbaria become involved because in that way more individuals will learn about the organisms present in herbaria, what digitization involves, and the power of biodiversity informatics. It will also result in a more dense information layer. The project does not focus on developing better ways to digitize herbaria; that is the focus of specific programs within the National Science Foundation and Institute for Museum and Library Services. Instead, the project aims to foster the collaborations needed to establish networks and enable rapid dissemination of better procedures as they become available. In this paper, we share some of the lessons we have learned in reaching the current level of digitization in the US.
+            </p>
+        </sec>
+        <sec sec-type="Herbaria in the US">
+            <title>Herbaria in the US</title>
+            <p>There are 729 registered herbaria in the US (<xref ref-type="bibr" rid="B10">Thiers et al. 2012+</xref>). They are scattered throughout the country but are more abundant in densely populated states (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Seventeen herbaria have a million or more specimens each; about 300 have fewer than 17,000 specimens. About 150 of the US herbaria listed in <xref ref-type="bibr" rid="B10">Thiers et al. (2012+)</xref> have been transferred or closed; there are also many herbaria not listed by <xref ref-type="bibr" rid="B10">Thiers et al. (2012+)</xref>, most of which have fewer than 10,000 specimens. Our current estimate is that there are about 800 active herbaria and over 90 million herbarium specimens in the US.
+            </p>
+            <p>About 78% of US herbaria are owned by an academic institution. Academic herbaria, particularly those in smaller institutions, offer excellent opportunities for involving students. Countering this potential is the fact that small herbaria often receive little or no formal support from their institution and may not be actively curated. Of the remaining herbaria, about 13% are owned by a government entity, usually federal but in some cases state, county, or municipal. About 9% are associated with botanical gardens or independent museums; among these are eight of the herbaria with a million or more specimens.</p>
+            <p>In 2009, Thiers provided Barkworth with a list of US herbaria registered with <italic>Index herbariorum</italic> at that time. Of these, 601 appeared to be active. “Appeared to be” because there is no guarantee that Thiers is notified when a herbarium is closed or transferred. In 2010 a survey (via paper questionnaire, with reminders by email or telephone call to some non-respondents; see Appendix 1) of all 601 herbaria resulted in 287 responses (Barkworth 2011, unpubl. data). The data revealed that many of the smaller, non-responding herbaria had been transferred or closed. Of the responding herbaria, 154 (54%) had a herbarium database and 70 (24%) were imaging their specimens. Collectively, the 287 herbaria held 50,583,000 specimens, of which 16,880,000 (33%) had been databased and 1,510,000 (3%) imaged. Most of the databasing herbaria (150/154) made specimen information available on the web through their own <!--PageBreak-->web site; 39 did so through a regional website; 38 made their records available to the Global Biodiversity Information Facility. These data indicate strong commitment to digitization and data sharing among US herbaria.
+            </p>
+            <p>In addition to there being many herbaria in the US, there are many different taxonomic opinions, particularly with respect to vascular plants. These are reflected in state and regional floras. There are resources to help interpret the resulting complexity, e.g., <italic>Flora of North America</italic> (FNA; <xref ref-type="bibr" rid="B1">Flora of North America Editorial Committee 1993-present</xref>), which is developing a single taxonomic treatment for all bryophytes and vascular plants in North America north of Mexico. These are not always accepted but Tropicos (<ext-link ext-link-type="uri" xlink:href="http://www.tropicos.org/" xlink:type="simple">http://www.tropicos.org/</ext-link>, see the list of relevant websites in Appendix 2) shows how different floristic treatments have treated a particular name. <italic>Index fungorum</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org/names/names.asp" xlink:type="simple">http://www.indexfungorum.org/names/names.asp</ext-link>), and Algaebase (<ext-link ext-link-type="uri" xlink:href="http://www.algaebase.org/" xlink:type="simple">http://www.algaebase.org/</ext-link>) are internationally respected indices to fungal and algal names, respectively. The US Virtual Herbarium project accepts that records in different herbaria may reflect multiple taxonomic concepts, a reality that can only partially be accommodated by alternative tables of synonyms. There are undoubtedly instances where this creates problems, for instance, when interpreting the distribution of a taxon that is sometimes interpreted narrowly, sometimes broadly, but such situations are probably less common than problems caused by misidentifications.
+            </p>
+            <p><xref ref-type="table" rid="T1">Table 1</xref> shows the current status of herbarium digitization in the US from a network perspective. The six existing regional networks involve about 200 herbaria, ran<!--PageBreak-->ging from small, unlisted herbaria to the largest herbaria in the country. Some herbaria contribute to multiple portals. The number of records available is over 7,665,000. This count does not differentiate between those that are fully databased, imaged, and georeferenced and those that have minimal information, possibly only the image of a label. Progress in the different aspects is hard to assess. Only the Pacific Northwest Herbaria (PNW) portal shows the number of specimen images available and only Symbiota portals show how many records have georeference data. Many georeferenced records do not include uncertainty estimates. The California, Pacific, and Pacific Northwest networks use software developed within each region; the portal for the southeastern US uses a mixture of software; the others use Symbiota (<ext-link ext-link-type="uri" xlink:href="http://symbiota.org" xlink:type="simple">http://symbiota.org</ext-link>).
+            </p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Regional networks and herbaria in the U.S.A. Network boundaries are guides; herbaria are free to join the network of their choice. Some herbaria contribute records to more than one network. No network has been established as yet for the Great Plains, Great Lakes, and Southern Rocky Mountain Regions. Data obtained June, 2011.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-209-055-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Overview of US regional and taxonomic herbarium networks. The Southwest and Intermountain Regions share a database but have different portals. “Herbaria” indicates the number of herbaria currently providing information to the network; numbers in parentheses are for extra-regional herbaria. Records are text-based records. Geo: percentage of georeferenced records. Most data obtained from web sites or node managers, March 31, 2012</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Network</th>
+                            <th rowspan="1" colspan="1">URL</th>
+                            <th rowspan="1" colspan="1">Taxonomic scope;Location of source herbaria</th>
+                            <th rowspan="1" colspan="1">Herbaria</th>
+                            <th rowspan="1" colspan="1">Records</th>
+                        </tr>
+                        <tr>
+                            <th rowspan="1" colspan="5">Existing networks</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">California herbaria (CA)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://ucjeps.berkeley.edu/consortium" xlink:type="simple">http://ucjeps.berkeley.edu/consortium</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">Vascular plants;California </td>
+                            <td rowspan="1" colspan="1">20 (1)</td>
+                            <td rowspan="1" colspan="1">1,454,000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Pacific Northwest Herbaria (PNW)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.pnwherbaria.org" xlink:type="simple">http://www.pnwherbaria.org</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">US: Alaska to Oregon + Idaho and Montana. CANADA: British Columbia, Yukon.</td>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1">1,763,040 (174,160 images)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Southwest (SEINet) and Intermountain (IRHN)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://swbiodiversity.org/seinet/index.php" xlink:type="simple">http://swbiodiversity.org/seinet/index.php</ext-link>(Shared database; different portals)
+                            </td>
+                            <td rowspan="1" colspan="1">US: Southern California east to New Mexico, north to Nevada, Idaho, and ColoradoMEXICO: Baja California, Sonora;Vascular plants.</td>
+                            <td rowspan="1" colspan="1">32 (2)</td>
+                            <td rowspan="1" colspan="1">2,069,025(67% Geo)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Pacific Islands (CPH)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.herbarium.hawaii.edu/cph/index.html" xlink:type="simple">http://www.herbarium.hawaii.edu/cph/index.html</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">Hawai’i and the Pacific basin [Currently 3 of 15 herbaria connected]Vascular plants.</td>
+                            <td rowspan="1" colspan="1">15 </td>
+                            <td rowspan="1" colspan="1">60,000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Northeast (CNH)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://neherbaria.org/CNH" xlink:type="simple">http://neherbaria.org/CNH</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">US: north and east from Pennsylvania CANADA: Ontario eastward;All taxa.</td>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1">409,883</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Southeast(SERNEC)</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.herbarium.unc.edu/seflora/firstviewer.htm" xlink:type="simple">http://www.herbarium.unc.edu/seflora/firstviewer.htm</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">From Eastern Texas to Virginia to the Atlantic and Gulf Coasts;All taxa.</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">140,000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Wisconsin Flora</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.botany.wisc.edu/wisflora/" xlink:type="simple">http://www.botany.wisc.edu/wisflora/</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">Wisconsin;Vascular plants, lichens</td>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">370,000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Alabama Plant Atlas</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.floraofalabama.org" xlink:type="simple">http://www.floraofalabama.org</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">Alabama;Vascular plants</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">78,000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Bryophytes</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://symbiota.org/bryophytes/index.php" xlink:type="simple">http://symbiota.org/bryophytes/index.php</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">North America;Bryophytes.</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">922,047(38% Geo)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Lichens</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://symbiota.org/nalichens/index.php" xlink:type="simple">http://symbiota.org/nalichens/index.php</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">North America; Lichens.</td>
+                            <td rowspan="1" colspan="1">16(1)</td>
+                            <td rowspan="1" colspan="1">627,756(55% Geo)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Macrofungi</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://mycoportal.org/portal/index.php" xlink:type="simple">http://mycoportal.org/portal/index.php</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">North America; Macrofungi</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">154,526(13% Geo)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">American Myrtaceae</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://cotram.org" xlink:type="simple">http://cotram.org</ext-link>
+                            </td>
+                            <td rowspan="1" colspan="1">Myrtaceae in the Americas</td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">64158 (63%)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Lessons learned">
+            <title>Lessons learned</title>
+            <p>•	Commitment, energy, time, resources, and funding are the most critical needs of the USVH project. Of these, time is usually the most scarce resource, particularly in smaller herbaria in which a single individual has to fulfill many different functions. It can, of course, be alleviated to some extent by funding but digitization will require a time commitment on the part of the person or persons responsible for a herbarium. Funding for other resources is also needed but much can be done with minimal financial support now that effective software and work flows have been developed, particularly if hardware is shared.</p>
+            <p>•	The range in size of US herbaria (from less than 1000 to over 8 million) and their diverse roles is matched by the diversity of their resources and goals. Many have little or no IT support and little or no budget; others, even some smaller herbaria, have strong IT support, significant endowments, and substantial volunteer support. Goals range from research on a global level to being a reference collection for training of seasonal employees.</p>
+            <p>•	Curators have diverse backgrounds. Most, particularly in mid-sized to large herbaria, are professionally trained taxonomists with memberships in professional societies such as the Botanical Society of America and the American Association of Plant taxonomists. Others have backgrounds that range from ecology to paleobotany, with their professional associations being equally diverse. This presents a challenge to developing an effective information flow among all herbaria. Regional collaborations on multiple scales are effective in addressing this challenge but require a leader with time to commit to the task.</p>
+            <p>•	There is no best approach for digitizing herbaria; there are multiple effective approaches. The needs and resources of large research herbaria with multiple type specimens and collections from many countries and multiple centuries differ from those of small herbaria serving a forest district or a teaching institution. In working with those in charge of herbaria, one must recognize and respect their differing priorities and resources. Adopting theoretically suboptimal procedures for digitization may be the best procedure if the resources needed for adopting a better procedure are not available.</p>
+            <p>•	Broadening participation requires minimizing barriers while maximizing benefits. Symbiota (<ext-link ext-link-type="uri" xlink:href="http://symbiota.org/tiki/tiki-index.php" xlink:type="simple">http://symbiota.org/tiki/tiki-index.php</ext-link>), open source software available through SourceForge (<ext-link ext-link-type="uri" xlink:href="http://sourceforge.net" xlink:type="simple">http://sourceforge.net</ext-link>), accomplishes this by enabling direct data entry into the central database, providing tools for preparing labels, and integrating images of living organisms into checklists, species pages, and flash card quizzes. In August 2011, Barkworth switched the Intermountain Herbarium (258,000 specimens) to databasing directly into the regional database (SEINet/IRHN) which uses Symbiota. It was so easy to use that she persuaded two colleagues, Gordillo and Anderson, each of whom is responsible for a small herbarium (6000 and 4000 specimens, respectively), to employ it to bring their herbaria into the network. The financial cost for the two was less than $400 each, the cost of preprinted barcode labels and a barcode scanner. Data entry is being done by volunteers. Of equal importance, students introduced to the program and associated portal immediately see value in the resources provided. Once imaging equipment is available, the two herbaria will adopt procedures that exploit the advantages images offer but, in the meantime, their students are learning to record better information and their institutions can boast about contributing to a major resource.
+            </p>
+            <p>•	It does not matter whether a herbarium starts with imaging or databasing. The important thing is to start. Specimen records that consist only of text-based information can be used for generating checklists, georeferencing, and searching.<!--PageBreak--> Specimen records that consist only of an image are of little value until the label information is databased but imaging can accelerate databasing and enable offsite-databasing. Establishing both of these, however, requires infrastructure development, both technical and human.</p>
+            <p>•	Remote data entry and incorporation of optical character technology into the data entry process can speed up data entry but it requires access to images which, in turn, requires access to appropriate equipment. <xref ref-type="bibr" rid="B8">Legler (2011)</xref> has designed equipment that has been widely adopted because it is effective, easily transported, and does not take much space. The problem is that the initial cost (about $6000) is large compared to the budgets of most herbaria. Once purchased, it can be shared among neighboring herbaria, a process that also fosters the kind of social network needed to disseminate information.
+            </p>
+            <p>•	Integrating optical character recognition (OCR) technology into data entry tools will accelerate data entry for the very large number of specimens with clean, typewritten or computer generated labels but entries need to be reviewed before being accepted. Major obstacles to widespread adoption of OCR-assisted data capture are a) lack of imaging equipment and b) the need to incorporate OCR-assistance into the data entry module of the various database systems used in herbaria, a process that is underway. For interpreting hand-written or unclear labels, OCR is less effective than humans.</p>
+            <p>•	Automated georeferencing tools, such as Geolocate (<ext-link ext-link-type="uri" xlink:href="http://www.museum.tulane.edu/geolocate/" xlink:type="simple">http://www.museum.tulane.edu/geolocate/</ext-link>) greatly accelerate georeferencing and can provide an estimate of uncertainty but, as with OCR data entry, the results, both for the locality and the uncertainty, need to be reviewed. At present, most programs for sharing information can only store point-radius uncertainties, not a polygon. This limits their value because plant collectors often collect along a trail. Another potential problem is that all values are calculated based on current geographic information. Even with such limitations, georeferencing is valuable. Applied to the thousands of specimens in herbaria, it enables patterns to be detected even if some of the individual locations are fuzzy. Those using the data should be aware of the inherent problems, grateful for the amount of data being provided, and willing to assist in improving its quality.
+            </p>
+            <p>•	Batch georeferencing, in which multiple specimens with the same locality information are georeferenced simultaneously, greatly accelerates georeferencing. The acceleration is greatest if records from multiple herbaria can be georeferenced simultaneously. Technological impediments to effective batch georeferencing include the absence of a mechanism for sharing specimen records among networks and the need for tools that “repatriate” the georeferencing information back to the specimen records. The human impediments include lack of knowledge as to how to georeference specimens and/or use the tools available for assisting in the task, impediments that can be overcome by workshops and online tutorials. Another impediment is the need for effective management of such collaborations.</p>
+            <p><!--PageBreak-->•	Enabling collectors to enter their collection information directly into a database that can both generate labels and provide data to the databases of recipient herbaria should be given high priority. Ideally, such programs should make it possible to enter information whether offline or online and for multiple taxonomic groups because individuals frequently collect more than one kind of organism. If data are entered offline, it should be possible to clean them when the connection is restored. (see, e.g., Atrium <ext-link ext-link-type="uri" xlink:href="http://www.atrium-biodiversity.org/about.html" xlink:type="simple">http://www.atrium-biodiversity.org/about.html</ext-link>). Label-making modules should also enable students to use the module while taking a class without the data being displayed so that they learn to record and store data in a manner that maximizes its utility.
+            </p>
+            <p>Label generating tools will not help digitize the specimens currently in herbaria but early adoption of database-driven label production combined with aggressive pursuit of funding opportunities enabled the herbaria of the University of Wyoming and the Missouri Botanical Garden (1.4 and 6.3 million specimens, respectively) to have over 50% of their collections databased by the time of the survey. The only other large US herbarium to have more than 50% of its 950,000 specimens databased is the National Fungus Collection which has 89% of its collections databased, a noteworthy accomplishment.</p>
+            <p>•	Regional collaborations are the most effective method of spreading digitization. They make it easier to share imaging equipment and develop the localized resources (e.g., checklists, identification tools) that give immediate, easily recognized value to regional portals. They also make establishing personal relationships among data providers easier, relationships that subsequently become effective social networks for sharing ideas and information. Development of regional networks is also critical to building the long term, broadly based support required to create and sustain a truly national herbarium network, one that involves all herbaria.</p>
+            <p>•	The map (<xref ref-type="fig" rid="F1">Fig. 1</xref>) shows the major regional networks but there are many smaller digitization networks in existence, some of which were initiated with federal funding, others with state or private funding. They have been critical to bringing the digitization of US herbaria to its present status. These smaller networks generally make their records available through their own web site. One of the challenges facing the US Virtual Herbarium project is to enable such networks to share their specimen information more widely. Other challenges include establishing networks for all parts of the country and persuading herbaria with their own web site to share their records on a regular basis with a regional network.
+            </p>
+            <p>•	There is often a lag time between agreeing to establish a network and actually having a network that people can use. Herbaria with their own specimen databases need to develop scripts for exporting their data to the network database and ensuring that new and modified records are exported at regular intervals. Constructing and testing these scripts takes time. It may also be found that<!--PageBreak--> the existing data has to be cleaned up before being exported. Another source of delays can come from establishing formal memoranda of understanding. Delays are greatest if the herbaria are located in different countries or belong to a private institution. Some networks operate without formal memoranda.</p>
+            <p>•	There is a need for the single, all-embracing network that is being established by iDigBio (see below). At present, herbaria with specimens from different taxonomic groups need to send their data to multiple networks (there are separate networks for bryophytes, lichens, and macrofungi). Moreover, at present regional nodes only provide access to specimens from herbaria within their region, e.g., data for specimens from the northeastern US residing in herbaria of the intermountain region are not currently made available to the northeastern network. It also means that users wishing to examine all biodiversity within a <!--PageBreak-->region have to go to multiple networks to obtain the information they seek and each network. To maximize the value of a truly integrated network, however, its data must be readily accessible and easily queried not just by biodiversity informatics specialists but also by the general public and educators at all levels and in many different disciplines because it is, ultimately, these people whose support will be required to sustain the network’s maintenance and development.</p>
+        </sec>
+        <sec sec-type="Interaction with iDigBio and BISON">
+            <title>Interaction with iDigBio and BISON</title>
+            <p>In February 2010, an NSF-funded workshop brought together individuals with knowledge in different aspects of digitization to discuss how best to develop a national herbarium network. Several useful discussions and contacts resulted from the workshop but that fall the NSF announced its Advancing Digitization of Biological Collections (ADBC) Program. ADBC projects fall into two categories, creation of “a permanent database of digitized information from all biological collections in the U.S. (<ext-link ext-link-type="uri" xlink:href="https://www.iDigBio.org/content/about-iDigBio" xlink:type="simple">https://www.iDigBio.org/content/about-iDigBio</ext-link>)”, the iDigBio project, and Thematic Collection Networks (TCNs) that focus on “major scientific questions” (<ext-link ext-link-type="uri" xlink:href="http://www.nsf.gov/news/news_summ.jsp?cntn_id=121015" xlink:type="simple">http://www.nsf.gov/news/news_summ.jsp?cntn_id=121015</ext-link>). At about the same time it was announced that what is now the Biological Informatics Program of the US Geological Service had begun development of an integrated and permanent resource for biological occurrence data from the United States, Biodiversity Information Serving Our Nation (BISON). This will integrate records for the US from the Global Biodiversity Information Facility and those made available via iDigBio with multiple geographic environmental layers, thereby enabling sophisticated and complex analyses.
+            </p>
+            <p>These two developments forced us to rethink how the US Virtual Herbarium project could best achieve its objectives, assuming they were still valuable, while complementing the work of ADBC-funded projects. The goals of the US Virtual Herbarium project are similar to those of iDigBio apart from its sole focus on herbaria, but it has a somewhat different emphasis. For iDigBio, extending participation to all collections in the US, both large and small, is a third phase, while for USVH, it is the priority. A recent analysis of the botanical capacity of the US (<xref ref-type="bibr" rid="B7">Kramer et al. 2010</xref>), demonstrated that the country has far fewer students entering the botanical sciences than are needed to address the major scientific questions of today. We see developing regional networks, and ultimately a national herbarium network, as one mechanism for increasing interest among such students while building an invaluable research resource. As such, it is too important to delay. We recognize that, as technology develops, new standards will be developed and new technologies become available; that is the nature of technology. The USVH organization can provide an effective conduit for rapidly sharing the benefits of such developments among all herbaria.
+            </p>
+            <p>The BISON project should provide the access to herbarium records and tools for working with them that were part of the original vision for the US Virtual Herbarium project, at least so far as the US is concerned. It is, however, dependent on<!--PageBreak--> the quantity and quality of records made available to it. The USVH project’s primary focus is on helping herbaria both provide the needed records and ensure that are of the quality standards needed for use in environmental analyses. In doing so, the project will expand the number of individuals who understand the concepts involved and enable interested individuals to obtain data as it becomes available. Moreover, making information available now has resulted in the herbaria involved receiving feedback concerning some of their specimens, feedback that comes from knowledgeable individuals and will, ultimately, benefit BISON.</p>
+        </sec>
+        <sec sec-type="Future directions">
+            <title>Future directions</title>
+            <p>Much has been learned about building a herbarium data layer in the US but the majority of herbaria are still not contributing to its development. There are some herbaria that, although digitizing their specimens, do not make the resulting resources available other than on their own network and some that have not started any part of the digitization process. In the latter cases, the problem may be that the herbarium forms a very small part of the responsibilities of the person in charge, or that the person in charge does not know how to start, or that he or she simply does not have the time. Personal contact is often a key step to bringing isolated herbaria into a network. When making such contacts, the benefits that will accrue from membership in a network need to be presented in terms that are relevant to the mission of the herbarium concerned and the person or persons running it. These benefits should, to the maximum extent possible, be immediate and direct. The greatest benefit, without question, is funding but software developments combined with the ability to share resources with and tap into the knowledge of those already in a network have substantially reduced the amount of funding required.</p>
+            <p>The benefits to medium-sized and smaller herbaria of participating in a regional herbarium include greater publicity, the ability to show how their specimens contribute to overall knowledge, and a mechanism for identifying where to focus future collecting efforts, all of which help validate their worth to institutional administrators. It provides students at academic herbaria an opportunity to participate in a regional and national informatics enterprise while improving the currency of their education. In addition, it helps build professional relationships among individuals who, because of disparate interests and obligations, might not normally connect with each other. Other benefits depend on the resources made available at the network level. These need to benefit a wide range of individuals because it is by offering such benefits that herbaria, and collections in general, earn public support. Such tools can range from quizzes about plants in a grocery store, to games where participants score points for being able to identify plants from images.</p>
+            <p>Investment in medium-sized and smaller herbaria can have major impacts on the botanical sciences in the US. These herbaria, their associated curatorial staff and users often provide the experiences that steer students towards the botanical sciences. <!--PageBreak-->This is important because a disproportionate number of graduate students come from such institutions. Research intensive universities, state and federal agencies, and non-government organizations are dependent upon these “feeder institutions” to provide a flow of graduate students and professional botanists.</p>
+            <p>All larger herbaria are digitizing their collections, usually maintaining their own database and web site in addition to participating in one or more networks. If, as is the case in several large herbaria, much of their current research and collection activity lies outside the US, these activities may be most appreciated outside the US but they are essential to attainment of the US Virtual Herbarium’s overall goal, digitization of all specimens in all US herbaria. Large herbaria can benefit from joining a network by becoming the “go-to” herbarium for web-related resources. They are also usually better positioned to attract funding for positions to support a regional network. In addition, contributing records to the region where they are located helps them demonstrate that they are “good neighbors” which may assist them in obtaining benefits from the jurisdiction in which they lie.</p>
+            <p>An area that still needs improvement is building the bridges needed for sharing ideas, information, and concepts between those directly responsible for herbaria and those with specialized knowledge in areas relating to digitization and use of the flood of information it is providing. There are many such areas: biodiversity informatics, information technology, computer science, geography, and education. Working with specialists in these areas will develop a richness and synergy that benefits all involved. The US Virtual Herbarium project can help extend the benefits of such interactions throughout the herbarium community. Among these benefits are increased efficiency in herbarium management which will, ultimately, free up the time of those involved for research and educational activities. Developing these interactions requires that all involved respect each other’s different backgrounds, obligations, interests, and knowledge.</p>
+            <p>What of the immediate future? There are several steps that the USVH project plans to take. Regional consortia or networks are extremely beneficial in helping move multiple herbaria forward, but some parts of the country have, as yet, no effective network. One of our immediate targets is to facilitate linking all herbaria to a regional network. This can be accomplished either by expanding the region covered by an existing network, possibly with separate portals for subregions (e.g., SEINet and IRHN), or by creating new networks. Both scenarios will require acquisition of additional server space and support personnel.</p>
+            <p>Georeferencing vastly increases the value of collection records and enables searches across space which may be more relevant to some research questions than searches across taxa (<xref ref-type="bibr" rid="B5">Johnson et al. 2011</xref>). It is an aspect that greatly benefits from collaboration but also helps build the social infrastructure needed for effective collaboration (<xref ref-type="bibr" rid="B3">Constable et al. 2010</xref>). US herbaria have not, as yet, implemented collaborative georeferencing although some herbaria have georeferenced a substantial portion of their specimens. In many instances, however, this may mean only that there is a latitude and longitude associated with the record. Such limited data make it possible to obtain a picture of the overall distribution of a taxon but do not satisfy the needs of those engaged in environmental analyses (<xref ref-type="bibr" rid="B2">Chapman and Wirczorek 2006</xref>).<!--PageBreak-->
+            </p>
+            <p>Data cleaning is another aspect that has, as yet, received surprisingly little attention from herbarium networks. The primary reason may be that the focus is on obtaining records and engaging herbaria, but there are now enough records in each network that building mechanisms for routinely identifying problems is highly desirable. These should be run at the herbarium level with cleaning at the regional level being a second line of defense. The need is for tools that check that georeference and elevation data are at least consistent with the lowest political unit used (usually county for the US, often state for other countries). The scientific name used must also be checked for accuracy because some herbaria may have recorded data in databases (or spreadsheets) without verifying that the names entered were valid. Another check, one that is probably best combined with georeferencing, is for the spelling of place names. Some will be found to be phonetic renditions (Chian for Cheyenne); others are merely misspellings.</p>
+            <p>Crowd-sourcing of data capture is already being explored in the US and elsewhere. What is not clear yet is how many volunteers can be found to take a short, online training session and then enter data for herbarium specimens online nor whether it is best to focus on identifying and capturing critical data, leaving capture of the remaining data to a later stage, or whether to try and capture all data at once. As with so many other decisions, there are pros and cons to both approaches. It is important, however, that we are transparent in reporting our accomplishments. Capturing a few fields from a million labels is not the same as capturing all label information from a million records.</p>
+            <p>Taxpayer funds, whether federal, state, or local, will not cover the cost of digitizing herbaria and maintaining herbarium networks. We must aggressively pursue other funding opportunities, including some that most of us involved with herbaria do not normally approach, such as wealthy individuals with an interest in the environment and stores that sell equipment and clothing to people who enjoy hiking. “We” in this case involves all in charge of herbaria but the approach each person takes has to reflect their abilities and interests and as well of those of the herbarium for which they are responsible. It should also complement their other responsibilities (and conform to their institution’s guidelines). The US Virtual Herbarium project can help by disseminating information about successful approaches, developing templates, and seeking funds that will benefit multiple herbaria or networks.</p>
+            <p>Requests for financial support are more likely to be well received if it can be demonstrated that they will result in a product that benefits many user groups. To encourage use of the information available through existing herbarium networks, we need to work with K-12 educators to develop units that make use of network associated information while meeting state and national science standards. We must also work with state native plant societies, recognizing their value and asking their assistance in promoting use of our networks and their further development. We also need to make sure that government employees are aware of the information being made available, emphasizing its value in their work and to their constituents. And in all these interactions, we must not forget to ask what would make the resources we are developing more useful.</p>
+            <p><!--PageBreak-->In addition to seeking funding from new sources, all those involved in herbaria must keep looking at work flows to see if they can be made more efficient. Sometimes simple changes, such as using preprinted barcodes to put a catalog number on a specimen rather than using a stamping machine, can save considerable time, time that can used for other purposes. Another possible change is to enable and expect those who borrow specimens to enter their information into the owner’s database or into a regional database from which the owning herbarium could import the records and images. Since almost anyone borrowing specimens nowadays enters information from them into a database, this would require little additional work for the borrower but would greatly aid the loaning institution.</p>
+            <p>Sustaining the networks also requires maintaining the integrity of the data over time. The costs of doing so are non-trivial because, as <xref ref-type="bibr" rid="B9">Rosenthal (2011)</xref> pointed out, “digital data do not tolerate benign neglect”. The specimens themselves are much more resilient in this regard. Moreover, each herbarium, even those that enter data directly into a network database, should maintain a copy of their data. This has the added advantage of ensuring that there are two copies in different locations. Another approach would be for neighboring regions to mirror each other’s resources. This would increase the server space required by individual regions but in a manner that would be mutually beneficial. Eventually this task will, presumably, fall to iDigBio and BISON but, for now, herbaria and herbarium networks must adopt alternative approaches.
+            </p>
+        </sec>
+        <sec sec-type="Conclusions">
+            <title>Conclusions</title>
+            <p>The number and distribution of herbaria in the US, together with the number of specimens they house, make them a prime resource for research in many different disciplines. Providing access to their information will enable sophisticated analyses at levels of scale, scope and accuracy that are unparalleled in the life sciences. It can also be used to introduce and encourage a fascination with plants, fungi, and algae by students at all levels in ways that incorporate inquiry. Digitizing herbaria will also enable those who work in herbaria more opportunities to study the organisms they love, and their interactions, by increasing the ease with which diverse user groups can access herbarium-based information without assistance from herbarium personnel.</p>
+            <p>The impediments to achieving the goal of the US Virtual Herbarium project, digitizing all specimens in all US herbaria, are resource-based, but they can be offset by focusing on the human factor. The project is dedicated to unlocking the vast resource represented by herbarium specimens by assisting in development of the human and knowledge infrastructure needed. It is accomplishing this task by linking people, ideas and tools into an integrated whole. Much of this involves extending the tools, knowledge, and resources developed by funded projects to more herbaria by establishing connections among people with the varied skills and interests needed, thereby building an integrated community of people working towards a common goal.<!--PageBreak--></p>
+            <p><bold>Note added in proof:</bold> Results of the 2012 herbarium survey are being posted to <ext-link ext-link-type="uri" xlink:href="http://herbarium.usu.edu/SurveyResults.html" xlink:type="simple">http://herbarium.usu.edu/SurveyResults.html</ext-link>. It included a question about georeferencing and asked for more details on network connections (see Appendix 3).
+            </p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank all the herbarium curators who responded to the survey and Ben Legler for preparing <xref ref-type="fig" rid="F1">Figure 1</xref>. Barkworth thanks Edward Gilbert and Curtis Dyreson for many discussions relating to all aspects of digitization and Lynette Harris, Kira Call, Thomas Phelps, and Rakelle Sanchez for their comments on an early version of the manuscript. We both thank the journal’s reviewers and editors for their comments and suggestions. We hope they feel, as we do, that their efforts have resulted in a better paper. This paper is approved as journal paper #8420 of Utah Agricultural Experiment Station.
+            </p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Flora of North America Editorial Committee</surname></name></person-group> (<year>1993</year>-present) <source>Flora of North America north of Mexico</source>. <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Wieczorek</surname> <given-names>J</given-names></name></person-group> (<role>Eds</role>) (<year>2006</year>)<source> Biogeomancer, Guide to best practices for georeferencing</source>. <publisher-name>Global Biodiversity Information Facility</publisher-name>. <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/orc/?doc_id=1288" xlink:type="simple">http://www.gbif.org/orc/?doc_id=1288</ext-link></mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Constable</surname> <given-names>H</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>R</given-names></name><name name-style="western"><surname>Wieczorek</surname> <given-names>J</given-names></name><name name-style="western"><surname>Spencer</surname> <given-names>C</given-names></name><name name-style="western"><surname>Townsend Peterson</surname> <given-names>A</given-names></name><name name-style="western"><surname>The Vertnet Steering</surname> <given-names>Committee</given-names></name></person-group> (<year>2010</year>)<article-title> Vertnet: A new model for biodiversity data sharing</article-title>. <source>PLoS Biology</source> <volume>8</volume>: <lpage>e1000309</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.1000309" xlink:type="simple">10.1371/journal.pbio.1000309</ext-link></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnson</surname> <given-names>JP</given-names></name></person-group> (<year>2011</year>)<article-title> Marauding Moths</article-title>. <source>The Scientist</source>. <ext-link ext-link-type="uri" xlink:href="http://the-scientist.com/2011/10/01/marauding-moths/" xlink:type="simple">http://the-scientist.com/2011/10/01/marauding-moths/</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnson</surname> <given-names>KG</given-names></name><name name-style="western"><surname>Brooks</surname> <given-names>SJ</given-names></name><name name-style="western"><surname>Fenberg</surname> <given-names>PB</given-names></name><name name-style="western"><surname>Glover</surname> <given-names>AG</given-names></name><name name-style="western"><surname>James</surname> <given-names>KE</given-names></name><name name-style="western"><surname>Lister</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Michel</surname> <given-names>E</given-names></name><name name-style="western"><surname>Spencer</surname> <given-names>M</given-names></name><name name-style="western"><surname>Todd</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Valsami-Jones</surname> <given-names>E</given-names></name><name name-style="western"><surname>Young</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Stewart</surname> <given-names>JR</given-names></name></person-group> (<year>2011</year>)<article-title> Climate change and biosphere response: Unlocking the collections vault.</article-title> <source>Bioscience </source> <volume>61</volume>: <fpage>147</fpage>-<lpage>153</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1525/bio.2011.61.2.10" xlink:type="simple">10.1525/bio.2011.61.2.10</ext-link></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kouwenberg</surname> <given-names>LR</given-names></name><name name-style="western"><surname>McElwain</surname> <given-names>JC</given-names></name><name name-style="western"><surname>Kürschner</surname> <given-names>WW</given-names></name><name name-style="western"><surname>Wagner</surname> <given-names>F</given-names></name><name name-style="western"><surname>Beerling</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Mayle</surname> <given-names>FE</given-names></name><name name-style="western"><surname>and Visscher</surname> <given-names>H</given-names></name></person-group> (<year>2003</year>)<article-title> Stomatal frequency adjustment of four conifer species to historical changes in atmospheric CO<sub>2</sub>.</article-title> <source>American Journal of Botany </source> <volume>90</volume>: <fpage>610</fpage>-<lpage>619</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3732/ajb.90.4.610" xlink:type="simple">10.3732/ajb.90.4.610</ext-link></mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kramer</surname> <given-names>AT</given-names></name><name name-style="western"><surname>Zorn-Arnold</surname> <given-names>B</given-names></name><name name-style="western"><surname>Havens,</surname> <given-names>K</given-names></name></person-group> (<year>2010</year>)<source> Assessing botanical capacity to address grand challenges in the United States</source>. <lpage>64</lpage> pp. [plus appendices] <ext-link ext-link-type="uri" xlink:href="http://www.bgci.org/usa/bcap" xlink:type="simple">http://www.bgci.org/usa/bcap</ext-link></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Legler</surname> <given-names>B</given-names></name></person-group> (<year>2011</year>)<source> Specimen Imaging Documentation, version 4.0</source>. <publisher-name>Consortium of Pacific Northwest Herbaria</publisher-name>. <ext-link ext-link-type="uri" xlink:href="http://www.pnwherbaria.org/documentation/specimenimaging.php" xlink:type="simple">http://www.pnwherbaria.org/documentation/specimenimaging.php</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rosenthal</surname> <given-names>DSH</given-names></name></person-group> (<year>2011</year>)<article-title> Paying for long-term storage</article-title>. <source>Presentation at the Coalition for Networked Information Membership Meeting</source>, December 12–13. <ext-link ext-link-type="uri" xlink:href="http://www.youtube.com/watch?&amp;gl=US&amp;hl=en&amp;client=mv-google&amp;feature=m-feedu&amp;v=_5lQxmyz3xY&amp;nomobile=1" xlink:type="simple">http://www.youtube.com/watch?&amp;gl=US&amp;hl=en&amp;client=mv-google&amp;feature=m-feedu&amp;v=_5lQxmyz3xY&amp;nomobile=1</ext-link></mixed-citation>
+            </ref>
+            <!--PageBreak-->
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thiers</surname> <given-names>B</given-names></name></person-group> (<year>2012</year>+) <source>Index herbariorum: a global directory of public herbaria and associated staff</source>. <ext-link ext-link-type="uri" xlink:href="http://sciweb.nybg.org/science2/IndexHerbariorum.asp" xlink:type="simple">http://sciweb.nybg.org/science2/IndexHerbariorum.asp</ext-link></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Woodward</surname> <given-names>FI</given-names></name><name name-style="western"><surname>Bazzaz</surname> <given-names>FA</given-names></name></person-group> (<year>1988</year>)<article-title> The response of stomatal density to CO<sub>2</sub> partial pressure.</article-title> <source>Journal of Experimental Botany </source> <volume>39</volume>: <fpage>1771</fpage>-<lpage>1781</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/jxb/39.12.1771" xlink:type="simple">10.1093/jxb/39.12.1771</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zangeri</surname> <given-names>AR</given-names></name><name name-style="western"><surname>Berenbaum</surname> <given-names>MR</given-names></name></person-group> (<year>2005</year>)<article-title> Increase in toxicity of an invasive weed after reassociation with its coevolved herbivore</article-title>. <source>Proceedings of the National Academy of Sciences</source> <volume>102</volume>(<issue>43</issue>): <fpage>15529</fpage>–<lpage>15532</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.0507805102" xlink:type="simple">10.1073/pnas.0507805102</ext-link></mixed-citation>
+            </ref>
+        </ref-list>
+        <app-group>
+            <app><title>Appendix 1</title>
+            <sec sec-type="Survey of Digitization in US Herbaria – 2011">
+                <title>Survey of Digitization in US Herbaria – 2011</title>
+                <p>This shows the questions asked. It is not the original form; that had a lot more blank space. The survey was kept short out of respect for the respondent’s time.</p>
+                <p><bold>Measuring Digitization Progress</bold>
+                </p>
+                <p>Herbarium Code: ________________________________________________</p>
+                <p>Specimen total (estimate): _________________________________________</p>
+                <p>Number of specimens databased: ___________________________________</p>
+                <p>Number of specimens imaged:______________________________________</p>
+                <p>URL for searching database: _______________________________________</p>
+                <p>URL of regional node through which data are available: __________________</p>
+                <p>Other nodes through which your specimen data are available: _______________</p>
+                <p><bold>Basic information</bold>
+                </p>
+                <p>Herbarium Name:________________________________________________</p>
+                <p>Department:____________________________________________________</p>
+                <p>Address 1: _____________________________________________________</p>
+                <p>Address 2: _____________________________________________________</p>
+                <p>City: ________________________ Zip Code: ________________________</p>
+                <p>Phone: ________________________________________________________</p>
+                <p>PO Box:_________________________ Mail Stop:______________________</p>
+                <p>Lat.:_________________________ Lon.:_____________________________</p>
+                <p>Name of contact person: ___________________________________________</p>
+                <p>Email of contact person:___________________________________________</p>
+                <p>Taxonomic focus:________________________________________________</p>
+                <p>Geographic focus:________________________________________________<!--PageBreak--></p>
+            </sec>
+        </app>
+        <app><title>Appendix 2</title>
+            <sec sec-type="Web Sites">
+                <title>Web Sites</title>
+                <p>This is a listing of all web sites mentioned in the text and a brief synopsis of their significance to the paper.</p>
+                <p>Alabama Plant Atlas: Provides information about plants in Alabama, including information derived from several herbarium databases. <ext-link ext-link-type="uri" xlink:href="http://www.floraofalabama.org" xlink:type="simple">http://www.floraofalabama.org</ext-link>
+                </p>
+                <p>Algaebase: AlgaeBase is a database of information on algae that includes terrestrial, marine and freshwater organisms. <ext-link ext-link-type="uri" xlink:href="http://www.algaebase.org" xlink:type="simple">http://www.algaebase.org</ext-link>
+                </p>
+                <p>Apiary: Program for enabling capture of collection data in the field. <ext-link ext-link-type="uri" xlink:href="http://www.apiaryproject.org" xlink:type="simple">http://www.apiaryproject.org</ext-link>
+                </p>
+                <p>Atrium: Technology data for managing diverse biodiversity data. <ext-link ext-link-type="uri" xlink:href="http://www.brit.org/explore/bioit" xlink:type="simple">http://www.brit.org/explore/bioit</ext-link>
+                </p>
+                <p>Consortium of California Herbaria: State herbarium network. <ext-link ext-link-type="uri" xlink:href="http://ucjeps.berkeley.edu/consortium" xlink:type="simple">http://ucjeps.berkeley.edu/consortium</ext-link>
+                </p>
+                <p>Consortium of North American Bryophyte Herbaria: Taxonomically focused herbarium network. <ext-link ext-link-type="uri" xlink:href="http://symbiota.org/bryophytes/index.php" xlink:type="simple">http://symbiota.org/bryophytes/index.php</ext-link>
+                </p>
+                <p>Consortium of North American Lichen Herbaria. Taxonomically focused herbarium network. <ext-link ext-link-type="uri" xlink:href="http://symbiota.org/nalichens/index.php" xlink:type="simple">http://symbiota.org/nalichens/index.php</ext-link>
+                </p>
+                <p>Consortium of Pacific Northwest Herbaria: Regionally focused herbarium network. <ext-link ext-link-type="uri" xlink:href="http://www.pnwherbaria.org" xlink:type="simple">http://www.pnwherbaria.org</ext-link>
+                </p>
+                <p>Cooperative Taxonomic resource for American <ext-link ext-link-type="uri" xlink:href="http://">Myrtaceae</ext-link>: Taxonomically focused herbarium network.<ext-link ext-link-type="uri" xlink:href="http://cotram.org/collections/index.php" xlink:type="simple">http://cotram.org/collections/index.php</ext-link>
+                </p>
+                <p>Index fungorum: Synonymized list of fungal names. <ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org/names/names.asp" xlink:type="simple">http://www.indexfungorum.org/names/names.asp</ext-link>
+                </p>
+                <p>Institute for Museum and Library Services (IMLS): US federal agency that has funded some of the work described. <ext-link ext-link-type="uri" xlink:href="http://www.imls.gov" xlink:type="simple">http://www.imls.gov</ext-link>
+                </p>
+                <p>Intermountain Region Herbarium Network: Regionally focused herbarium network. Shares database with SEINet. <ext-link ext-link-type="uri" xlink:href="http://intermountainbiota.org/portal/index.php" xlink:type="simple">http://intermountainbiota.org/portal/index.php</ext-link>
+                </p>
+                <p>International Plant Names Index (IPNI): List of plant names and an indication of whether or not they are valid. Only shows nomenclatural synonyms. <ext-link ext-link-type="uri" xlink:href="http://www.ipni.org" xlink:type="simple">http://www.ipni.org</ext-link>
+                </p>
+                <p>Mycoportal: Taxonomically focused herbarium network. <ext-link ext-link-type="uri" xlink:href="http://mycoportal.org/portal/index.php" xlink:type="simple">http://mycoportal.org/portal/index.php</ext-link>
+                </p>
+                <p> National Information Management and Support System (NIMSS): Information systems that serves the Agricultural Experiment Stations and the Extension Service in each state. <ext-link ext-link-type="uri" xlink:href="http://nimss.umd.edu" xlink:type="simple">http://nimss.umd.edu</ext-link>
+                </p>
+                <p>National Science Foundation (NSF): US federal agency that has funded much of the work described. <ext-link ext-link-type="uri" xlink:href="http://www.nsf.gov" xlink:type="simple">http://www.nsf.gov</ext-link>
+                </p>
+                <p>SERNEC: Regional network for strengthening communication and promoting data sharing among herbaria, now also serving as a regional herbarium network. <ext-link ext-link-type="uri" xlink:href="http://www.sernec.org" xlink:type="simple">http://www.sernec.org</ext-link>
+                </p>
+                <p><!--PageBreak-->SourceForge: Web site that provides access to open source software. <ext-link ext-link-type="uri" xlink:href="http://sourceforge.net" xlink:type="simple">http://sourceforge.net</ext-link>
+                </p>
+                <p>Southwestern Environmental Information Network (SEINet): Regionally focused herbarium network. Herbaria in the Intermountain Region share data with this network. <ext-link ext-link-type="uri" xlink:href="http://swbiodiversity.org/seinet/index.php" xlink:type="simple">http://swbiodiversity.org/seinet/index.php</ext-link>
+                </p>
+                <p>Symbiota: Open source software for promoting collaboration and data sharing among herbaria. <ext-link ext-link-type="uri" xlink:href="http://symbiota.org/tiki/tiki-index.php" xlink:type="simple">http://symbiota.org/tiki/tiki-index.php</ext-link>
+                </p>
+                <p>Tropicos: Nomenclatural resource for bryophytes and vascular plants that shows how a name has been treated in different publications. Also the specimen database of the Missouri Botanical Garden. <ext-link ext-link-type="uri" xlink:href="http://www.tropicos.org" xlink:type="simple">http://www.tropicos.org</ext-link>
+                </p>
+                <p>US Virtual Herbarium (USVH): Project for promoting digitization in US Herbaria. This web site is not being maintained because of funding decisions by the US government. Arrangements are being made to move it, or something similar, to another site. <ext-link ext-link-type="uri" xlink:href="http://usvirtualherbarium.org" xlink:type="simple">http://usvirtualherbarium.org</ext-link>
+                </p>
+                <p>Utah State University Herbarium: Provides access to the results of the 2012 herbarium survey. <ext-link ext-link-type="uri" xlink:href="http://herbarium.usu.edu" xlink:type="simple">http://herbarium.usu.edu</ext-link>
+                </p>
+                <p>WisFlora: Provides information about plants in Wisconsin, including information derived from several herbarium databases. <ext-link ext-link-type="uri" xlink:href="http://www.botany.wisc.edu/wisflora" xlink:type="simple">http://www.botany.wisc.edu/wisflora</ext-link>.
+                </p>
+            </sec>
+        </app>
+        <app><title>Appendix 3</title>
+            <sec sec-type="US Herbarium Survey 2012">
+                <title>US Herbarium Survey 2012</title>
+                <p>Presented below are the questions asked on the 2012 survey. To save space, only the questions asked about digitization are shown. For more information, see <ext-link ext-link-type="uri" xlink:href="http://herbarium.usu.edu/SurveyResults.html" xlink:type="simple">http://herbarium.usu.edu/SurveyResults.html</ext-link>
+                </p>
+                <p>About how many specimens are there in your herbarium? Please provide a single number, not separate estimates for different kinds of specimens.</p>
+                <p><bold>Databasing:</bold> Some herbaria are entering data for a few fields when imaging, then completing data entry later. For that reason, there are two questions concerning databasing.
+                </p>
+                <p>How many specimens in your collection have been at least partially databased?</p>
+                <p>How many specimens have been fully databased (you may answer unknown)?</p>
+                <p><bold>Imaging.</bold> The questions below distinguish between imaging specimens (biological material) and imaging labels. If you do not distinguish between the two, put an asterisk by the answer for specimens.
+                </p>
+                <p>How many of your <italic>specimens</italic> have been imaged?
+                </p>
+                <p>How many of your <italic>labels</italic> have been imaged?
+                </p>
+                <p><bold>Georeferencing</bold>. How many of your specimens have latitude and longitude information?<!--PageBreak-->
+                </p>
+                <sec sec-type="Access">
+                    <title>Access</title>
+                    <p>The next questions ask about the web site(s) through which your specimen information is available. If your database cannot be searched via a web site, you have finished the survey. Thank you for taking the time to complete it. If you wish to make a comment or suggestion, please use the space the end. Hand written comments are welcome</p>
+                    <p>If your records are searchable via an institutional web site, what is its URL?</p>
+                    <p>If your records are searchable via one or more regional websites, what are their URLs?</p>
+                    <p>If your records are searchable via one or more taxonomically focused web sites, what are their URLs?</p>
+                    <p>If you provide searchable access to your records through a regional web site that lies primarily outside the US, please indicate the focus of the site(s) and its(their) URL(s).</p>
+                    <p>YOUR Comments:</p>
+                </sec>
+            </sec>
+        </app>
+        </app-group>
+    </back>
+</article>

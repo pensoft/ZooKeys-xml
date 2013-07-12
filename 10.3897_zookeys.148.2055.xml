@@ -1,0 +1,556 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.148.2055</article-id>
+            <title-group>
+                <article-title>Taxonomic Notes on 
+                    <italic>Nasutitermes</italic> and 
+                    <italic>Bulbitermes</italic> (Termitidae, Nasutitermitinae) from the Sunda region of Southeast Asia based on morphological and molecular characters
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Syaukani</surname>
+                        <given-names></given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Thompson</surname>
+                        <given-names>Graham J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biology, Faculty of Mathematics and Natural Sciences, Syiah Kuala University, Darussalam 23111, Banda Aceh, Indonesia
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Biology, Faculty of Science, University of Western Ontario, 1151 Richmond Road North, London  N6A 5B7, Ontario, Canada
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Syaukani (<email xlink:type="simple">syaukani@gmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: M. Engel</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>148</issue>
+            <fpage>135</fpage>
+            <lpage>160</lpage>
+            <history>
+                <date date-type="received">
+                    <day>11</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>9</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Syaukani, Graham J. Thompson</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The Sunda region of Southeastern Asia is rich in termite fauna, but termites from this region have been poorly described. In this study, we described eight species from two diverse genera from this region, and from the family <tp:taxon-name>Termitidae</tp:taxon-name>. We describe <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> 4 spp. and <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> 4 spp. from new field collections. Where possible we examine original holotype specimens, and describe the essential morphological characters for soldier and worker castes. We devise two new bifurcating keys to guide the field identification of each species. In addition, we develop a nucleotide sequence profile for the COI gene. From this molecular character matrix, we use Neighbour-Joining analysis to test the monophyly of each morphospecies and genus. We find that the morphological and molecular characters are highly concordant, whereby all taxa appear to represent distinct molecular clades. For termites, there is therefore agreement between the morphological taxonomic characters used to sort species from a bifurcating key and the molecular taxonomic characters used to sort species on a bifurcating tree. This joint analysis suggests that DNA barcoding holds considerable promise for termite taxonomy, especially for diverse clades like <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> for which a global morphological key would be intractable.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Isoptera</kwd>
+                <kwd>Southeast Asia</kwd>
+                <kwd>morphological key</kwd>
+                <kwd>DNA barcodes</kwd>
+                <kwd>barcode gap</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>As the largest subfamily among the higher termites (Family <tp:taxon-name>Termitidae</tp:taxon-name>), the <tp:taxon-name>Nasutitermitinae</tp:taxon-name> include more than 650 species from over 80 genera (<xref ref-type="bibr" rid="B19">Kambhampati and Eggleton 2000</xref>). This diversity within a single subfamily creates some taxonomic challenges for delineating between species and among genera, and there are presumably additional taxa not yet described. In this study we describe representative taxa from two of the largest genera within <tp:taxon-name>Nasutitermitinae</tp:taxon-name>, <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> (4 spp.) and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> (4 spp.), as represented from newly collected material from the Sunda region of Southeast Asia.</p>
+            <p>Globally, the <tp:taxon-name>Nasutitermitinae</tp:taxon-name> have a broad dispersion. Genera from this subfamily are present in all biogeographical regions except the palearctic (<xref ref-type="bibr" rid="B20">Pearce and Waite 1994</xref>), and include at least 16 genera that are endemic to Southeast Asia (<xref ref-type="bibr" rid="B27">Tho 1992</xref>). Relative to other biogeographic regions, the taxonomy of <tp:taxon-name>Nasutitermitinae</tp:taxon-name> in Southeast Asia remains poorly understood (Chhotani 1987, <xref ref-type="bibr" rid="B4">1997</xref>; <xref ref-type="bibr" rid="B9">Gathorne-Hardy 2001</xref>). This may stem in part from the historically poor taxon sampling from within this region (<xref ref-type="bibr" rid="B7">Eggleton 1999</xref>), but may also stem from a lack of diagnostic characters that clearly distinguish some of the genera.</p>
+            <p>This lack of morphological variation also hinders phylogeny. One outstanding question is the affinity between <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B5">Collins 1989</xref>; <xref ref-type="bibr" rid="B17">Jones and Brendell 1998</xref>; <xref ref-type="bibr" rid="B27">Tho 1992</xref>; <xref ref-type="bibr" rid="B9">Gathorne-Hardy 2001</xref>). Are these genera phylogenetically distinct, or do they represent a synonymy that should be re-classified? <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> was separated from <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> by Emerson (in <xref ref-type="bibr" rid="B25">Snyder 1949</xref>). However, this distinction is based mostly on negative criteria – for example, <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> is a wood-feeding nasute genus that has constrictions behind the antennal sockets on the soldiers and that is not <italic><tp:taxon-name>Longipeditermes</tp:taxon-name></italic>, <italic><tp:taxon-name>Lacessitermes</tp:taxon-name></italic>, <italic><tp:taxon-name>Hospitalitermes</tp:taxon-name></italic> or <italic><tp:taxon-name>Ceylonitermes</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B9">Gathorne-Hardy 2001</xref>). For this reason, <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> remain poorly distinguished based on morphology, and these genera may even be paraphyletic.</p>
+            <p>In this report we present the taxonomic notes for representative <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> species collected from Sumatra and Malay Peninsula (i.e., the Sunda region) within Southeast Asia. Specifically, we use morphological characters to describe eight species, and devise a key for their field identification. Further, we use molecular sequence information from the mitochondrial gene ‘barcode’ region to test the idea that <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> each form monophyletic and evolutionarily distinct genera.</p>
+        </sec>
+        <sec sec-type="materials|methods"><title>Materials and methods</title>
+            <sec sec-type="Collection procedure"><title>Collection procedure</title>
+                <p>All specimens were collected from the field using a mix of random and systematic transect searches. For transect sampling we adopted a standardized protocol (<xref ref-type="bibr" rid="B18">Jones and Eggleton 2000</xref>). We laid straight belt-transects (100 × 2 m) at random through the forest. Each transect was divided into 20 five-meter sections, and each section was searched<!--PageBreak--> by one person for one hour. For each section, 12 samples of surface soil with associated leaf litter and woody debris were scraped up and carefully examined for termites (approximate size of surface sample, 50 cm<sup>2 </sup>× 5 cm deep). Finally, tree trunks and buttress roots were also examined for the presence of termites. Particular attention was paid to the deep accumulations of litter and organic-rich soil between buttresses. Also, any carton sheeting or runways suggesting the presence of live termites were examined, up to a height of two meters. For random sampling, we simply used our best judgment to search for termites within the above types of habitat, but without the use of transects. Wherever possible, all castes and both sexes were sampled. In total, termites included in this study were sampled from multiple regions in Sunda region from 1999–2010.</p>
+            </sec>
+            <sec sec-type="Morphological analysis"><title>Morphological analysis</title>
+                <p>Morphological character terminology used for describing soldiers and workers follows the convention of <xref ref-type="bibr" rid="B22">Roonwal and Chhotani (1989)</xref> and <xref ref-type="bibr" rid="B24">Sands (1998)</xref>. For all species, we photographed the heads, bodies (in profile) and pronota of the soldier caste using a high-quality digital microscope (HFVH-8000, KEYENCE, Osaka). Further, from select samples we removed the antennae from the soldier caste and the mandibles of the worker caste. We then examined these diagnostic characters on glass slides mounted with Euparal 3C 239 (Waldeck GmbH &amp; Co. KG, Muenster Germany). We photographed the mounts using a conventional digital camera (Coolpix 3340, Nikon, Tokyo) attached to a Nikon Eclipse E600 lens. From these images, we constructed a multi-focused montage using Helicon Focus 4.03 Pro software (Helicon Soft Ltd. Kharkov).</p>
+            </sec>
+            <sec sec-type="Molecular barcode analysis"><title>Molecular barcode analysis</title>
+                <p>To aid with taxonomic analysis, we developed a cytochrome c oxidase I gene (COI) profile. The profile consists of nucleotide sequence from the ‘barcode’ region of the mitochondrial genome (Herbert et al. 2003). First, we removed single legs from representative specimens and used in-house protocols at the Canadian Center for DNA Barcoding (Guelph, Ontario) to extract DNA (<xref ref-type="bibr" rid="B15">Ivanova et al. 2006</xref>) and PCR-amplify (<xref ref-type="bibr" rid="B16">Ivanova and Grainer 2007</xref>) the barcode region using the LCO1490t1 / HCO2198t1 primer combination. Finally, we sequenced the resultant 658 base pair (bp) fragment in both directions using the M13R/M13F primer pair. For sequencing, we used an ABI 3730XL automated sequencer and associated software (Applied Biosystems). From forward and reverse sequences, we generated a single consensus sequence using CodonCode Aligner v. 3.0.2 (CodonCode Corporation). We have deposited all sequence trace files and detailed specimen records, including precise sampling localities and GenBank accession numbers, onto the Barcode of Life Data System (BOLD; <xref ref-type="bibr" rid="B21">Ratnasingham and Hebert 2007</xref>) under the Project name ‘Termites of Indonesia’ with Project code TINDS.</p>
+                <p>Using the BOLD on-line workbench, we aligned nucleotide sequences and calculated a pairwise Kimura-2-parameter (K2P) distance matrix. For each species in the matrix, we calculated the minimum, mean and maximum genetic distance. We also calculated the mean nearest neighbour distance (average distance to the most closely related species). From these data, we tested for the presence of a ‘barcode gap’ - a disjunction between levels of intraspecific and interspecific variability–by plotting maximum intraspecific distance against mean distance to nearest neighbour (NN). A gap is evident from this plot when the NN distance consistently exceeds the intraspecific distance. Finally, we used the K2P distance matrix to build a Neighbour-Joining (NJ) Taxon ID tree.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <sec sec-type="Species descriptions"><title>Species descriptions</title>
+                <p>For all species described below, we provide comparative images of key morphological traits. For <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic>, soldiers are profiled in <xref ref-type="fig" rid="F1">Figures 1–4</xref> and workers (mandibles) are profiled in <xref ref-type="fig" rid="F3">Figures 9–16</xref>. For <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic>, soldiers are profiled in <xref ref-type="fig" rid="F2">Figures 5–8</xref>, and workers (mandibles) are profiled in <xref ref-type="fig" rid="F4">Figures 17–24</xref>.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <caption><p><bold>Figures 1–4.</bold> Soldiers of Bulbitermes from Sunda region in dorsal view. B. constrictus <bold>1</bold> B. singaporiensis <bold>2</bold> B. flavicans <bold>3</bold> B. neopusillus <bold>4</bold></p></caption>
+                    <graphic xlink:href="ZooKeys-148-135-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F2" position="float" orientation="portrait">
+                    <caption><p><bold>Figures 5–8.</bold> Soldiers of Nasutitermes from Sunda region in dorsal view. N. matangensis <bold>5</bold> N. longinasoides <bold>6</bold> N. neoparvus <bold>7</bold> N. longinasus (largest soldier) <bold>8</bold> Scale bar: 0.5 mm. Scale bar: 0.6 mm.</p></caption>
+                    <graphic xlink:href="ZooKeys-148-135-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F3" position="float" orientation="portrait">
+                    <caption><p><bold>Figures 9–16.</bold> Workers of Bulbitermes from Sunda region. Left <bold>9, 11, 13,</bold> <bold>15</bold> and right <bold>10, 12, 14, 16</bold> mandibles. B. constrictus <bold>9, 10</bold> B. singaporiensis <bold>11, 12</bold> B. flavicans <bold>13, 14</bold> B. neopusillus <bold>15, 16</bold>. Scale bar: 0.1 mm.</p></caption>
+                    <graphic xlink:href="ZooKeys-148-135-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F4" position="float" orientation="portrait">
+                    <caption><p><bold>Figures 17–24.</bold> Workers of Nasutitermes from Sunda region. Left <bold>17, 19</bold>, <bold>21, 23</bold> and right <bold>18, 20, 22, 24</bold> mandibles. N. matangensis <bold>17, 18</bold> N. longinasoides <bold>19, 20</bold> N. neoparvus <bold>21, 22</bold> N. longinasus <bold>23, 24</bold>. Scale bar: 0.1 mm.</p></caption>
+                    <graphic xlink:href="ZooKeys-148-135-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bulbitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">flavicans</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bulbitermes_flavicans</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Holmgren)</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Euternes (Euternes) flavicans</tp:taxon-name><comment>  <xref ref-type="bibr" rid="B12">Holmgren 1913</xref>, pp. 173–174.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Euternes (Euternes) flavicans</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B14">John 1925</xref>, p. 394.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B25">Snyder 1949</xref>, p. 308.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B2">1958</xref>, p. 132 (key).</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B26">Thapa 1981</xref>, pp. 335-337.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B27">Tho 1992</xref>, p.159.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> Syntype: soldier, West Sumatra, Harau, Pajacombo, 17.iii.1913, Oscar John Coll. B.M. 1926–242 BMNH103898. Other material: SYK1999&amp;2001-L-0146, 1453–56, 1463, 1465, 1467. Soldiers and workers from undisturbed forests, 1,000–1,400 m altitude, Kemiri Mountain, Southeast Aceh; SYK1999&amp;2001-L-1457–60, 1462. Soldiers and workers from undisturbed forests, 150–350 m altitude, Bukit Lawang, Langkat, North Sumatra; SYK2000-L-1466. Soldiers and workers from undisturbed forest, 500 m altitude, Ketambe, Southeast Aceh; SYK2006-AL-0001, 0777, 1613. Soldiers and workers from disturbed. SYK2010-KTB-011, 027, 051, 098. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p>Imago: Unknown.</p>
+                        <!--PageBreak-->
+                        <p>Soldiers.Head: in dorsal view the anterior part darker than posterior part in coloration; rostrum dark brown with the apex paler; antenna much paler than anterior part of head capsule, uniformly coloured. Head with five or six scattered bristles, tip of nasus with four bristles, pronotum and abdominal tergites with microscopic hairs.Head capsule somewhat round, weakly constricted behind antennal sockets; posterior margin roundly convex; dorsal outline (including rostrum) in profile nearly straight with two shallow indentations near base of rostrum, and up-curved apically. Mandible with weak apical processes. Antenna with 12 articles; second clearly shorter than third and fourth; third clearly longer than fourth; fourth and fifth almost equal in length. Thorax: pronotum seen from above paler than anterior part of head capsule; its periphery paler than central area. Coxae pale brown; femora yellowish; tibiae whitish yellow. Anterior margin of pronotum nearly straight; posterior margin roundly convex. Abdomen: tergites pale brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (1.22–1.40); head length measured to base of mandible (HL) (0.97–1.00); nasus length (NL) (0.30–0.42); nasus index = NL/HL (0.30–0.42); maximum head width at posterior part (HWP) (0.75–0.84); maximum height of head excluding postmentum (HH) (0.57–0.65); pronotum length (PL) (0.15–0.17); pronotum width (PW) (0.37–0.45).</p>
+                        <p>Workers. Antenna: whitish yellow to yellow; 13 articles; second shorter than third; third clearly longer than fourth; fourth wider than fifth. Left mandible: apical tooth and first marginal tooth almost equal in length; third marginal moderately protruding from cutting edge; fourth almost completely hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar plate undeveloped and notch at proximal end of molar plate obsolete.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra, Peninsular Malaysia and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bulbitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">neopusillus</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bulbitermes_neopusillus</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Snyder &amp; Emerson</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes neopusillus</tp:taxon-name><comment> Snyder &amp; Emerson, 1949, p. 309.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes neopusillus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B2">Ahmad 1958</xref>, p.133 (key).</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined. </title>
+                        <p>Soldiers,Sumatra, Siak, 9.ii.1913, Oscar John Coll. B.M. 1926-242 BMNH103902. SYK2006-KSNP-0032, 0034, 0047. Soldiers and workers from disturbed forest, 500 m altitude, Air Hangat, Kerinci, Jambi; SYK1999-L-1409. Soldiers and workers from undisturbed forest, 1,250 m altitude, Kemiri Mountain, Southeast Aceh; SYK1999-L-1418, 1632, 1646, 1651, 1682. Soldiers and workers from undisturbed forest, 200-400 m altitude, Bengkung, Southeast Aceh; SYK1999&amp;2000-L-1412, 1420, 1426, 1434, 1437, 1441, 1444, 1604, 1608, 1636, 1639, 1645, 1654, 1657, 1659, 1668, 1669. Soldiers and workers from undisturbed forest, 150-350 m altitude, Bukit Lawang, Langkat, North Sumatra; SYK1999-L-1405, 1442, 1448, <!--PageBreak-->1612. Soldiers and workers from disturbed forest, 50 m altitude, Sekundur, Langkat, North Sumatra; SYK2000-L-1398, 1849. Soldiers and workers from disturbed forest, 80 m altitude, Soraya, Singkil, Aceh; SYK2000&amp;2001-L-1394, 1395, 1415. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe, Southeast Aceh; SYK2006-AL-0778, 0779, 0780. Soldiers and workers from disturbed forest, 30 m altitude, Maestong, Sungai Batang Hari, Jambi; SYK2007-SPR-0038. Soldiers and workers from disturbed forest, &lt;100 m altitude, Tua Pejat, Sipora Island, Mentawai, West<!--PageBreak--> Sumatra. SYK2010-KTB-003, 004, 005, 018, 035, 044, 045, 047, 048, 054, 055, 056, 057, 059, 060, 065, 066, 067, 068, 071, 075. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p> Imago: Unknown.</p>
+                        <p>Soldiers. Head: in dorsal view anterior and posterior parts almost similar in coloration; rostrum paler than anterior part of head capsule. Antenna paler than anterior part of head capsule in coloration, with the first segment darkest.Head with two scattered bristles, tip of nasus with four bristles, pronotum and abdominal tergites with microscopic hairs. In dorsal view head capsule somewhat pear-shaped, strongly constricted behind antennal sockets; its posterior margin weakly indented in middle; dorsal outline (including rostrum) in profile nearly straight. Mandible with short apical processes. Antenna with 13 articles; second shorter than third; third twice as long as fourth; fourth shorter than fifth. Thorax: pronotum seen from above similar to the posterior part of head capsule in coloration; its periphery darker than central area. Coxae and femora pale brown; tibiae pale yellow. Anterior and posterior margins of pronotum nearly straight. Abdomen: tergites pale brown to brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (1.45–1.60); head length measured to base of mandible (HL) (0.90–0.93); nasus length (NL) (0.55–0.62); nasus index = NL/HL (0.62–0.67); maximum head width at posterior part (HWP) (0.85–0.87); maximum height of head excluding postmentum (HH) (0.60–0.63); pronotum length (PL) (0.15–0.18); pronotum width (PW) (0.50–0.55).</p>
+                        <p>Workers. Antenna: whitish yellow; 14 articles; second longer than third and fourth; third clearly longer than fourth; fourth the shortest; fifth shorter than sixth. Left mandible: apical tooth shorter than first marginal tooth; third marginal tooth moderately protruding from cutting edge; fourth marginal tooth hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar undeveloped and notch at proximal end of molar plate weakly developed.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra, Mentawai Islands, Peninsular Malaysia, Java and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bulbitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">constrictus</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bulbitermes_constrictus</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Haviland)</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Termes constrictus</tp:taxon-name><comment> Haviland, 1898, pp. 420–421.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes (Eutermes) constrictus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B12">Holmgren 1913</xref>, p. 172.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B25">Snyder 1949</xref>, p. 308.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B2">Ahmad 1958</xref>, pp. 129, 133–134 (key).</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B26">Thapa 1981</xref>, pp. 332–335.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> Syntype:Soldiers, Sarawak, Coll.&amp; Det. G.D. Haviland, No. 292, (Ex. Dundee) (Bulbitermes) MNH103897. Other material: SYK2006-KSNP-0006, <!--PageBreak-->0083. Soldiers and workers from undisturbed forest, 300 m altitude, Sungai Manau, Merangin, Jambi; SYK2006-KSNP-0081, 0090. Soldiers and workers from disturbed forest, 500 m altitude, Air Hangat, Kerinci, Jambi; SYK2000-L-1507, 1522. Soldiers and workers from undisturbed forest, 250–350 m altitude, Bukit Lawang, Langkat, North Sumatra; SYK2000&amp;2001-L-1496, 1497, 1498. Soldiers and workers from disturbed forest, 50 m altitude, Sekundur, Langkat, North Sumatra. SYK2010-KTB-013,<!--PageBreak--> 014, 015, 137, 038, 046, 049, 050, 100. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p> Imago: Unknown.</p>
+                        <p>Soldiers. Head: in dorsal view anterior and posterior parts almost similar in coloration; except around posterior margin, much paler in coloration; rostrum darker than anterior part of head capsule; antenna paler than anterior part of head capsule in coloration. Head with two bristles, tip of nasus with four bristles, pronotum with brittles, abdominal tergites with hairs and bristles.</p>
+                        <p>In dorsal view head capsule somewhat pear-shaped, strongly constricted behind antennal sockets; its posterior margin weakly indented; dorsal outline (including rostrum) in profile nearly straight. Mandible with moderately developed apical processes. Antenna with 14 articles; second longer than third; third the shortest; fourth and fifth almost equal in length. Thorax: pronotum seen from above paler than anterior part of head capsule; its periphery darker than central area. Coxae and femora yellow; tibiae pale yellow. Anterior margin of pronotum weakly indented in the middle, while posterior margin roundly convex. Abdomen: tergites yellowish to pale brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (1.55–1.65); head length measured to base of mandible (HL) (1.05–1.13); nasus length (NL) (0.50–0.60); nasus index = NL/HL (0.47–0.53); maximum head width at posterior part (HWP) (0.95–0.10); maximum height of head excluding postmentum (HH) (0.60–0.65); pronotum length (PL) (0.22-0.25); pronotum width (PW) (0.52–0.55).</p>
+                        <p>Workers. Antenna: whitish yellow to yellow; 15 articles; second clearly longer than third; third the shortest; fourth and fifth almost equal in length. Left mandible: apical and first marginal teeth almost equal in length; third marginal moderately protruding from cutting edge; fourth almost completely hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar not developed; notch at proximal end of molar plate weakly developed.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Bulbitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">singaporiensis</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Bulbitermes_singaporiensis</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Haviland)</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Termes singaporiensis</tp:taxon-name><comment> Haviland, 1898, pp. 429.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes (Eutermes) singaporiensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B12">Holmgren 1913</xref>, p. 179.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes singaporiensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B25">Snyder 1949</xref>, p. 309.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Bulbitermes singaporiensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B27">Tho 1992</xref>, pp. 158–159.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> Syntype: soldiers,<italic><tp:taxon-name>Termes singaporiensis</tp:taxon-name></italic>, Singapore, 1893, Coll. &amp; Det. G. D. Haviland, No. 16 (Ex. Dundee) (Bulbitermes) BMNH103923. Other material: SYK(1998–2001)-L-0205, 0212, 0219, 1802, 1812, 1817, 1821–23, 1825–29, 1831, 1832, 1834, 1835, 1839, 1840, 1843, 1846–48, 1851, 1853–55, <!--PageBreak--><!--PageBreak-->1859, 1860, 1865, 1867, 1868, 1870, 1877, 1883, 1884, 1850, 1877, 1879, 1880, 1975, 1978. Soldiers and workers from undisturbed forest, 150–350 m altitude, Bukit Lawang, Langkat, North Sumatra.; SYK2006-AL-0004, 0801, 0802, 1886. Soldiers and workers from disturbed forest, 30 m altitude, Maestong, Sungai Batang Hari, Jambi; SYK2006-L1852. Soldiers and workers from undisturbed forest, 50 m altitude, Sekundur, Langkat, North Sumatra; SYK1999-L-1882. Soldiers and workers from undisturbed forest, 400 m altitude, Bengkung, Southeast Aceh. SYK&amp;FAZLY2009-ER-020, 022, 024, 039, 043, 044, 047, 051, 057, 058, 062, 063, 087. Soldiers and workers from undisturbed forest, &gt;100 m altitude, Endau Rompin National Park, Johor, Peninsular Malaysia.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p>Imago: Unknown.</p>
+                        <p>Soldiers. Head: in dorsal view anterior part of head capsule darker than the posterior part in coloration; rostrum slightly darker than anterior part of head capsule; antenna paler than anterior part of head capsule. Head with two bristles, tip of nasus with four bristles, pronotum with microscopic hairs, abdominal tergites with hairs and bristles.In dorsal view head capsule somewhat pear-shaped and weakly constricted behind antennal sockets; its posterior margin nearly straight in the middle; dorsal outline (including rostrum) in profile nearly straight; mandible with moderately developed apical processes. Antenna with 12 articles; second and third almost equal in length, the former wider than the latter in width; third the shortest; fourth and fifth almost equal in length. Thorax: pronotum seen from above paler than anterior part of head capsule; its anterior part slightly darker than posterior part. Coxae pale brown; femora yellowish; tibiae pale yellow. Anterior margin of pronotum moderately indented in the middle, while posterior margin nearly straight in the middle. Abdomen: tergites dark brown to very dark sepia brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (1.24–1.35); head length measured to base of mandible (HL) (0.98–1.12); nasus length (NL) (0.32–0.37); nasus index = NL/HL (0.31–0.35); maximum head width at posterior part (HWP) (0.80–0.84); maximum height of head excluding postmentum (HH) (0.57–0.61); pronotum length (PL) (0.16–0.18); pronotum width (PW) (0.37–0.44).</p>
+                        <p>Workers. Antenna: whitish yellow to yellow with first article darker than the subsequent; 14 articles; second much longer than third and fourth; third longer than fourth; fourth the shortest. Left mandible: apical tooth shorter than first marginal tooth; third marginal moderately protruding from cutting edge; fourth almost completely hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth weakly concave; inner layer of molar plate and notch at proximal end of molar plate obtuse.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Biogeographical distribution.</title>
+                        <p> Sumatra, Peninsular Malaysia, Java and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Nasutitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">matangensis</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Nasutitermes_matangensis</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Haviland)</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Termes matangensis</tp:taxon-name><comment> Haviland, 1898, pp. 427–428.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes (Eutermes) matangensiformis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B12">Holmgren 1913</xref>, p. 185.</comment></tp:nomenclature-citation>
+                            <!--PageBreak-->
+                            <!--PageBreak-->
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes (Eutermes) matangensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B13">Holmgren 1913-14</xref>, pp. 26–265.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes (Eutermes) matangensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B14">John 1925</xref>, p. 398.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B25">Snyder 1949</xref>, p. 287.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B2">Ahmad 1958</xref>, p. 147(key).</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B26">Thapa 1981</xref>, pp. 312–315.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B27">Tho 1992</xref>, p. 159.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p>Syntype:Soldiers, <italic><tp:taxon-name>Termes matangensis</tp:taxon-name></italic>, Sarawak, Coll. G. D. Haviland. BMNM No. 358. (Ex. Dundee) (<italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic>). Other material: SYK2006-KSNP-0017, 0023, 0025, 0041. Soldiers and workers from undisturbed forest, 300 m altitude, Sungai Manau, Merangin, Jambi; SYK1999&amp;2001-L-1039, 1040, 1042, 1043, 1045, 3080. Soldiers and workers from undisturbed forest, 1,000–1,400 m altitude, Kemiri Mountain, Southeast Aceh; SYK2007-UGDT-0010, 0063–70. Soldiers and workers from disturbed forest, 900 m altitude, Ulu Gadut, Padang, West Sumatra; SYK2007-SRSR-0005, 0040, 0063, 0066, 0632. Soldiers and workers from disturbed forest, &lt;100 m altitude, Siberut Tengah, Mentawai, West Sumatra; SYK2007-SBRT-0016, 0034, 0039, 0046, 0047, 0060, 0070, 0080. Soldiers and workers from undisturbed forest, &lt;100 m altitude, Simabuggei, Siberut Island, Mentawai, West Sumatra; SYK2001-S-0128, 0030. Soldiers and workers from disturbed forest, 200 m altitude, Aceh Besar; SYK2006-SB-0001–04, 0044, 0045, 0050, 0051. Soldiers and workers from disturbed forest, &lt;100 m altitude, Sabang, Weh Island, Aceh; SYK1999-L-1062. Soldiers and workers from undisturbed forest, 300 m altitude, Ketambe, Southeast Aceh; SYK2006-AL-0901. Soldiers and workers from disturbed forest, 30 m altitude, Maestong, Sungai Batang Hari, Jambi; SYK2002-NIAS-0111. Soldiers and workers from disturbed forest, &lt;100 m altitude, Gunung Sitoli, Nias Island, North Sumatra; SYK2002-PRP-0100. Soldiers and workers from disturbed forest, 900 m altitude, Toba Lake, Parapat, North Sumatra; SYK2007-LP-0093. Soldiers and workers from disturbed forest, 1100 m altitude, Sumber Jaya, Kota Bumi, Lampung; SYK2007-LBAN-0004, 0012. Soldiers and workers from disturbed forest, 600 m altitude, Lembah Anai, Tanah Datar, West Sumatra; SYK2005&amp;2006-RKT-0002, 0004, 0006, 0007, 0009–0021, 0033–40, 0042–48, 0050, 0055, 0056, 0058, 0059, 0061–0063, 0065, 0066, 0072. Soldiers and workers, &lt;10–300 m altitude, Rakata island, the Krakataus, Lampung; SYK2005&amp;2006-ANK-0040, 0041, 0043, 0139, 0144–46, 0148, 0149, 0151, 0154, 0155, 0277–79, 0301, 0302. Soldiers and workers, &lt;100 m altitude, Anak Krakatau, the Krakataus, Lampung; SYK2005&amp;2006-PJG-0073–0083, 0092–0095, 0137, 0138, 0141, 0142, 0147, 0150–0153, 0156, 0157. Soldiers and workers, &lt;100 m altitude, Panjang island, the Krakataus, Lampung; SYK2005&amp;2006-SRTG-0006, 0120, 0126–30, 0041–44, 0173–90, 0192–95, 0197–200, 0216, 0227–30, 0238. Soldiers and workers, &lt;100 m altitude, Sertung island, the Krakataus, Lampung; SYK2005-SBK-0235, 0237–42, 0246, 0263. Soldiers and workers, &lt;100 m altitude, Sebuku island, the Krakataus, Lampung; SYK2005-SBS- 0064, 0067, 0069–71, 0073–75, 0077–88, 0090. Soldiers and workers, &lt;100 m altitude, Sebesi island, the Krakataus, Lampung; SYK2007-LGD-0031, 0050–52, <!--PageBreak-->0058, 0059. Soldiers and workers, &lt;100 m altitude, Legundi island, the Krakataus, Lampung; SYK2007-LP-0002, 0006. Soldiers and workers, from disturbed forest, &lt;100 m altitude, Pantai Mutun, Lampung. SYK2010-KTB-002, 006, 019, 041, 095. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra; SYK2010-PK-005, 006. Soldiers and workers from disturbed forest, 150 m altitude, Peukan Biluy, Darul Kamal, Aceh Besar, Sumatra; SYK&amp;FAZLY2009-ER-038, 050, 073. Soldiers and workers from undisturbed forest, &gt;100 m altitude, Endau Rompin National Park, Johor, Peninsular Malaysia.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p>Imago: Unknown.</p>
+                        <p>Soldiers. Head: in dorsal view head capsule excluding rostrum brown to dark sepia brown; rostrum darker than head capsule; entire rostrum almost uniformly coloured; antenna paler than head capsule in coloration. Head with a few number of scattered bristles, tip of nasus with four bristles, pronotum hairs, abdominal tergites with hairs and brittles. In dorsal view head capsule round; its posterior margin nearly straight in the middle; dorsal outline (including rostrum) in profile nearly straight, down-curved apically. Antenna with 13 articles; second slightly longer than fourth; third the longest; fourth shorter than fifth. Thorax: pronotum seen from above paler than head capsule in coloration; its anterior part darker than posterior part. Coxae and femora sepia brown; tibiae yellowish. Anterior margin of pronotum moderately indented in the middle; posterior margin nearly straight in the middle. Abdomen: tergites yellowish to pale brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (2.05–2.18); head length measured to base of mandible (HL) (1.20–1.25); nasus length (NL) (0.82–0.95); nasus index = NL/HL (0.68–0.76); maximum head width (HW) (1.37–1.50); maximum height of head excluding postmentum (HH) (0.90–0.95); pronotum length (PL) (0.25–0.30); pronotum width (PW) (0.60–0.70).</p>
+                        <p>Workers. Antenna: pale yellow to yellow; 14 articles; second clearly longer than third and fourth; third longer than fourth. Left mandible: apical tooth longer than first marginal tooth; third marginal moderately protruding from cutting edge; fourth almost completely hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar plate undeveloped; notch at proximal end of molar plate absent.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra, Mentawai islands, Malay Peninsula, Java and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Nasutitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">neoparvus</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Nasutitermes_neoparvus</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Thapa</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes neoparvus</tp:taxon-name><comment> <xref ref-type="bibr" rid="B26">Thapa 1981</xref>, pp. 329–332.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> SYK2006-KSNP-0007, 0053. Soldiers and workers from undisturbed forest, 300 m altitude, Sungai Manau, Merangin, Jambi; SYK2006<!--PageBreak-->-KSNP-0054, 0076, 0085. Soldiers and workers from disturbed forest, 500m altitude, Air Hangat, Kerinci, Jambi; SYK2007-SRSR-0006, 0011. Soldiers and workers from disturbed forest, &lt;100 m altitude, Surisura, Siberut Tengah, Mentawai, West Sumatra; SYK2006-SBRT-0006, 0028, 0077, 0084, 0103. Soldiers and workers from undisturbed forest, &lt;100 m altitude, Simabuggei, Siberut island, Mentawai, West Sumatra; SYK1999&amp;2000-L-0916, 0923, 0931, 0932, 0935, 0937, 0940, 0943. Soldiers and workers from undisturbed forest, 150–350 m altitude, Bukit Lawang, Langkat, North Sumatra; SYK2000&amp;2001-L- 0214, 0913, 0918, 0922, 0926, 0928, 0933, 0934, 0941, 0942. Soldiers and workers from disturbed forest, 50 m altitude, Sekundur, Langkat, North Sumatra; SYK1999-L-0208, 0235, 0241, 0930, 0917, 0921, 0924, 0936, 0939. Soldiers and workers from undisturbed forest, 200–400 m altitude, Bengkung, Southeast Aceh; SYK1999-L-0211, 0225, 0911, 0914, 0915, 0919, 0920, 0925, 0927, 0929, 0938, 1171. Soldiers and workers from disturbed forest, 80 m altitude, Soraya, Singkil, Aceh; SYK1999-L- 0912, 0215, 0237, 0244, 0245. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe, Southeast Aceh; SYK2007-LP-0081. Soldiers and workers from disturbed forest, &lt;100 m altitude, Pantai Mutun, Lampung. SYK2010-KTB-029, 053, 058, 061. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra; SYK&amp;FAZLY2009-ER-034. Soldiers and workers from undisturbed forest, &gt;100 m altitude, Endau Rompin National Park, Johor, Peninsular Malaysia.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p>Imago: Unknown.</p>
+                        <p>Soldiers. Head: in dorsal view head capsule excluding rostrum dark brown to sepia brown; rostrum darker than head capsule; antenna much paler than head capsule. Head with combination long and short bristles, tip of nasus with short hairs and four long bristles, pronotum with short and long bristles, abdominal tergites densely with short hairs and long bristles.In dorsal view head capsule somewhat round; its posterior margin roundly convex in the middle; dorsal outline of head capsule (excluding rostrum) in profile nearly straight. Antenna with 11 articles; second shorter than fourth; third longer than fourth; fourth and fifth almost equal in length. Thorax: pronotum seen from above paler than head capsule in coloration; its periphery darker than central area. Coxae and femora yellow; tibiae whitish yellow. Anterior margin of pronotum nearly straight in the middle; posterior margin strongly indented in the middle. Abdomen: tergites dark yellow to brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (1.25–1.37); head length measured to base of mandible (HL) (0.62–0.77); nasus length (NL) (0.57–0.62); nasus index = NL/HL (0.79–0.80); maximum head width (HW) (0.77–0.80); maximum height of head excluding postmentum (HH) (0.50–0.60); pronotum length (PL) (0.12–0.15); pronotum width (PW) (0.37–0.42).</p>
+                        <p>Workers. Antenna: pale yellow to yellow; 12 articles; second clearly longer than fourth; third longer than fourth; fourth shorter than fifth. Left mandible: apical tooth clearly shorter than first marginal tooth; third marginal moderately protruding from cutting edge; fourth visible in the gap between third marginal and molar<!--PageBreak--> prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar plate undeveloped, and notch at proximal end of molar plate obtuse.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Nasutitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">longinasus</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Nasutitermes_longinasus</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Holmgren)</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes (Eutermes) longinasus</tp:taxon-name><comment> <xref ref-type="bibr" rid="B12">Holmgren 1913</xref>, p. 171.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Eutermes longinasus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B14">John 1925</xref>, p. 392.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B25">Snyder 1949</xref>, p. 284.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B2">Ahmad 1958</xref>, p. 54 (key).</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B26">Thapa 1981</xref>, pp. 323-326.</comment></tp:nomenclature-citation>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B27">Tho 1992</xref>, p. 150.</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> SYK2006-KSNP-0040, 0049, 0052. Soldiers and workers from undisturbed forest, 300 m altitude, Sungai Manau, Merangin, Jambi; SYK(1998–2001)-L-0012, 0025, 0027, 0234, 0036, 0167, 0218, 0231, 0851, 0856, 1034, 1070, 1071, 1080, 1085, 1095. Soldiers and workers from disturbed forest, 80 m altitude, Soraya, Singkil, Aceh; SYK1999-L-0010, 0020, 0029, 0030, 0035, 0039, 0044, 0047–49, 0055, 0056, 0061, 0065, 0066, 0071, 0110, 0222, 0226, 0235, 0240, 0246, 0249, 0277, 0825, 0826, 0848–50, 0853–55, 0857, 0859–61, 1044, 1048, 1068, 1069, 1073, 1074, 1076, 1078, 1079, 1081–83, 1086, 1089–92, 1096, 1097. Soldiers and workers from undisturbed forest, 200–400 m altitude, Bengkung, Southeast Aceh; SYK1999&amp;2000-L-0069, 0210, 0233, 0858, 1072, 1075, 1077, 1087. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe, Southeast Aceh; SYK(1999–2001)-L-0018, 0406, 1087, 1088, 1093. Soldiers and workers from undisturbed forest, 150–350 m altitude, Bukit Lawang, Langkat, North Sumatra. SYK2010-KTB-026, 028, 031, 032, 033, 034, 076, 077, 079, 082, 083, 084, 085, 086, 088, 091, 092, 093, 094, 096, 097. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p>Imago: Unknown.</p>
+                        <p>Major soldiers. Head: in dorsal view head capsule excluding rostrum pale brown to brown; rostrum darker than head capsule; antenna much paler than head capsule in coloration. Head with hairs and two long bristles, tip of nasus with hairs and four brittles, pronotum with short and long bristles, pronotum and abdominal tergites with hairs and brittles. In dorsal view head capsule round; its posterior margin nearly straight in the middle; dorsal outline of head capsule (including rostrum) in profile nearly straight. Antenna with 13 articles; second longer than fourth; third clearly longer than fourth; fourth the shortest. Thorax: pronotum seen from above paler than head capsule in coloration; its periphery darker than central area. Coxae<!--PageBreak--> and femora yellow; tibiae whitish yellow. Anterior margin of pronotum moderately indented in the middle, while posterior margin roundly convex in the middle. Abdomen: tergites yellow to brown.</p>
+                        <p>Major soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (2.00–2.20); head length measured to base of mandible (HL) (1.07–1.15); nasus length (NL) (0.95–1.12); nasus index = NL/HL (0.88–0.97); maximum head width (HW) (1.15–1.30); maximum height of head excluding postmentum (HH) (0.80–0.85); pronotum length (PL) (0.25–0.30); pronotum width (PW) (0.52–0.58).</p>
+                        <p>Minor soldiers: in dorsal view head capsule excluding rostrum deep reddish brown; rostrum same color as head capsule; antenna paler than head capsule in coloration. Head with hairs and two long bristles, tip of nasus with hairs and four bristles, pronotum with short and long bristles, pronotum and abdominal tergites with hairs and bristles. In dorsal view head capsule round; its posterior margin weakly constricted in the middle; dorsal outline of head capsule (including rostrum) in profile nearly straight. Antenna with 13 articles; second longer than fourth; third clearly longer than fourth; fourth the shortest. Thorax: pronotum seen from above slightly paler than head capsule in coloration; its periphery darker than central area. Coxae and femora brownish yellow; tibiae yellow. Anterior margin of pronotum weakly to moderately indented in the middle, while posterior margin roundly convex in the middle. Abdomen: tergites brown.</p>
+                        <p>Minor soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (172–1.82); head length measured to base of mandible (HL) (0.82–0.86); nasus length (NL) (0.71–0.77); nasus index = NL/HL (0.86–0.89); maximum head width (HW) (0.86–0.94); maximum height of head excluding postmentum (HH) (0.59–0.67); pronotum length (PL) (0.20- 0.23); pronotum width (PW) (0.49–0.51).</p>
+                        <p>Workers. Antenna: pale yellow to yellow, with the first article darker than the subsequent; 14 articles; second and third clearly longer than fourth; fourth the shortest. Left mandible: apical tooth longer than first marginal tooth; third marginal weakly protruding from cutting edge; fourth hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar plate weakly developed; notch at proximal end of molar plate obtuse.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra, Peninsular Malaysia and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Nasutitermes</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">longinasoides</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Nasutitermes_longinasoides</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Thapa</tp:taxon-authority>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>Nasutitermes longinasoides</tp:taxon-name><comment> <xref ref-type="bibr" rid="B26">Thapa 1981</xref>, pp. 301–303 .</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                        <p> SYK2006-KSNP-0028, 0031, 0037, 0039, 0050, 0058. Soldiers and workers from undisturbed forest, 300 m altitude, Sungai Manau, Merangin, Jambi; SYK2006-AL-0016, 0021, 0106, 0950-0952. Soldiers and workers from disturbed forest, 30 m altitude, Maestong, Sungai batang hari, Jambi; SYK1999&amp;2000-L-1063–1066<!--PageBreak-->. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe, Southeast Aceh; SYK2002-PRP-0101, 0102. Soldiers and workers from disturbed forest, 900 m altitude, Parapat, North Sumatra. SYK2010-KTB-012, 022, 030, 042, 043, 063, 069, 090. Soldiers and workers from undisturbed forest, 300–500 m altitude, Ketambe Research Station, Ecosystem Leuser, Sumatra.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p>Imago: Unknown.</p>
+                        <p>Soldiers. Head: in dorsal view head capsule excluding rostrum pale yellow to yellow; rostrum darker than head capsule; antenna slightly paler than head capsule in coloration. Head with three or four scattered bristles, tip of nasus a hairs and four bristles, pronotum and abdominal tergites with hairs and brittles. In dorsal view head capsule round; its posterior margin roundly convex in the middle; dorsal outline of head capsule (including rostrum) in profile nearly straight. Antenna with 13 articles; second and fourth almost equal in length; third clearly longer than fourth; fourth shorter than fifth. Thorax: pronotum seen from above paler than head capsule in coloration; its periphery darker than central area. Coxae and femora pale yellow; tibiae whitish. Anterior and posterior margins of pronotum nearly straight in the middle. Abdomen: tergites yellow to pale brown.</p>
+                        <p>Soldiers (n = 10; (size range) in mm): head length including nasus (HLN) (2.10–2.20); head length measured to base of mandible (HL) (1.07–1.25); nasus length (NL) (0.92–1.07); nasus index = NL/HL (0.85–0.86); maximum head width (HW) (1.23–1.32); maximum height of head excluding postmentum (HH) (0.80–0.83); pronotum length (PL) (0.20–0.23); pronotum width (PW) (0.56–0.60).</p>
+                        <p>Workers. Antenna: pale yellow to yellow; 14 articles; second much longer than fourth; third longer than fourth; fourth the shortest. Left mandible: apical tooth shorter than first marginal tooth; third marginal moderately protruding from cutting edge; fourth completely hidden behind molar prominence. Right mandible: posterior edge of second marginal tooth nearly straight; inner layer of molar plate undeveloped, and notch at proximal end of molar plate obtuse.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Geographical distribution.</title>
+                        <p> Sumatra and Borneo.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+        <sec sec-type="Taxonomic key"><title>Taxonomic key</title>
+            <sec sec-type="Key 1. Key to the species of Bulbitermes based on the largest soldiers and largest workers"><title>Key 1. Key to the species of <tp:taxon-name>Bulbitermes</tp:taxon-name> based on the largest soldiers and largest workers</title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">Soldier: antenna with 12 articles</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Soldier: antenna with 13 to 14 articles</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2(1)</td>
+                                <td rowspan="1" colspan="1">Worker: antenna with 13 articles, second shorter than third, fourth and fifth almost equal in length. Left mandible of apical tooth shorter than first marginal tooth</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Worker: antenna with 14 articles, second article much longer than third, fourth article the shortest. Apical and first marginal teeth of left mandible almost equal in length</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bulbitermes singaporiensis</tp:taxon-name></italic> </td>
+                                <!--PageBreak-->
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3(1)</td>
+                                <td rowspan="1" colspan="1">Soldier: antenna with 13 articles, fourth article the shortest. In dorsal view posterior margin weakly indented the middle. Worker: antenna with 14 articles, fourth article the shortest</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bulbitermes neopusillus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Soldier: antenna with 14 articles, third article the shortest, In dorsal view posterior margin nearly straight. Worker: antenna with 14 articles, third the shortest</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name></italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Key 2. Key to the species of Nasutitermes based on the largest soldiers and largest workers"><title>Key 2. Key to the species of <tp:taxon-name>Nasutitermes</tp:taxon-name> based on the largest soldiers and largest workers</title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">Soldier: antenna with 11 articles. [Worker: antenna with 12 articles.]</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nasutitermes neoparvus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Soldier: antenna with 13 articles</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2(1)</td>
+                                <td rowspan="1" colspan="1">Soldier: dimorphic. [The largest and smallest individuals differ markedly in size.]</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Soldier: monomorphic</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3(2)</td>
+                                <td rowspan="1" colspan="1">Soldier: in dorsal view posterior margin of head capsule roundly convex in the middle, dorsal outline of head capsule (including rostrum) in profile nearly straight, maximum width of head capsule 1.23-1.32 mm. Worker: apical tooth of left mandible shorter than first marginal tooth</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nasutitermes longinasoides</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Soldier: in dorsal view posterior margin of head capsule nearly straight in the middle, dorsal outline (including rostrum) in profile nearly straight, down-curved apically, maximum width of head capsule 1.37-1.50 mm. Worker: apical tooth of left mandible longer than first marginal tooth</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name></italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Molecular barcode analysis"><title>Molecular barcode analysis</title>
+                <p>The study profile includes 48 COI sequences, representing eight putative species, as identified from the field using morphological characters. Of these taxa, there are four morphologically assigned to <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and an additional four assigned to <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic>. The number of specimens sequenced from each morphospecies ranged from 1 (a single individual) to 21, depending on specimen availability and sequencing success.</p>
+                <p>Using the built-in analysis workbench of BOLD, we built a Taxon ID tree using the NJ algorithm applied to a pair wise K2P distance matrix (<xref ref-type="fig" rid="F5">Figure 25</xref>). This tree shows that <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> form monophyletic groups within the NJ analysis. Moreover, each morphospecies within each of these genera form monophyletic groups. No genera or morphospecies were paraphyletic with respect to each other. There is therefore a high degree of concordance between the morphological taxonomic characters used to sort species from a bifurcating key (Key 1, Key 2) and the molecular taxonomic characters used to sort species on a bifurcating tree (<xref ref-type="fig" rid="F5">Figure 25</xref>).</p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 25.</bold> Neighbour-Joining analysis of K2P-corrected distances based on the analysis of 650 bp from the COI-5P marker locus in Nasutitermes spp. and Bulbitermes spp. collected from Sunda region.</p></caption>
+                    <graphic xlink:href="ZooKeys-148-135-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <!--PageBreak-->
+                <p>Of the four <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> taxa examined, <italic><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name></italic> forms a sister group with <italic><tp:taxon-name>Bulbitermes neopusillus</tp:taxon-name></italic>, which together form a sister group with <italic><tp:taxon-name>Bulbitermes singaporiensis</tp:taxon-name></italic>. This complex is in turn a sister group to <italic><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name></italic>. Of the <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> taxa represented here, only <italic><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name></italic> is invariant in the barcode region across all eight specimens analyzed.</p>
+                <p>Of the four <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> taxa examined, <italic><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name></italic> forms a sister group with <italic><tp:taxon-name>Nasutitermes longinasoides</tp:taxon-name></italic>, which together form a sister group with <italic><tp:taxon-name>Nasutitermes neoparvus</tp:taxon-name></italic>. This three-species complex is in turn sister group to <italic><tp:taxon-name>Nasutitermes matagensis</tp:taxon-name></italic>. Of the <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> taxa examined, only <italic><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name></italic> is invariant in the barcode region across all 21 specimens examined.</p>
+                <!--PageBreak-->
+                <p>Levels of barcode variation within and between species showed a distinct barcode gap, whereby the mean interspecific divergence was significantly larger than the mean intraspecific divergence (0.09% vs. 11.86%; <italic>t</italic> = 93.98, d.f., = 586, <italic>P</italic> &lt; 0.0001; <xref ref-type="table" rid="T1">Table 1</xref>). Within genera, the intraspecific distance ranged from as low as 0% (fixed sequences) in <italic><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name></italic> and <italic><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name></italic>, to a high of 5.11% in <italic><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name></italic>.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p> Genetic distance summary for barcode sequences generated from Nasutitermes and Bulbitermes from Sunda region.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="2" colspan="1">Comparison</th>
+                                <th rowspan="2" colspan="1">No. Comparisons</th>
+                                <th rowspan="1" colspan="1"></th>
+                                <th rowspan="1" colspan="1">Genetic distance (%)</th>
+                                <th rowspan="1" colspan="1"></th>
+                            </tr>
+                            <tr>
+                                <th rowspan="1" colspan="1">Minimum</th>
+                                <th rowspan="1" colspan="1">Mean (S.E.)</th>
+                                <th rowspan="1" colspan="1">Maximum</th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Within species</td>
+                                <td rowspan="1" colspan="1">263</td>
+                                <td rowspan="1" colspan="1">00</td>
+                                <td rowspan="1" colspan="1">0.09 (0.03)</td>
+                                <td rowspan="1" colspan="1">5.11</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Within genera</td>
+                                <td rowspan="1" colspan="1">325</td>
+                                <td rowspan="1" colspan="1">5.42</td>
+                                <td rowspan="1" colspan="1">11.86 (0.11)</td>
+                                <td rowspan="1" colspan="1">16.01</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>As expected the NN distance between species was always greater than the maximum intraspecific distance (<xref ref-type="fig" rid="F6">Fig. 26</xref>). For no species was there an overlap in the range of maximum intraspecific distance and the distance to nearest neighbour.</p>
+                <fig id="F6" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 26.</bold> Plot of maximum intraspecific divergence against nearest neighbour distance between species (Bulbitermes 4 spp. and Nasutitermes 4 spp.) as identified from morphological characters. All species fall above the 1:1 line, indicating the presence of a barcode gap.</p></caption>
+                    <graphic xlink:href="ZooKeys-148-135-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p>Our taxonomic study has two principle outcomes. First, we identify morphological characters that can be used to systematically identify <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> from the Sunda region of Southeast Asia. Second, we use these representative taxa to conduct a test case of DNA barcoding in termites. That is, we evaluate how well nucleotide sequence information from the COI barcode region of the mitochondrial genome can resolve species relationships through simple negihbour-joining analysis. We find that the field identification of our eight newly-collected species is possible based on morphological characters alone, and to this effect we present two new functional keys that correspond to each of two genera examined. This morphological classification is consistent with our molecular finding that <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> have statistically distinct COI profiles. A neighbour-joining tree based on aligned nucleotide sequence shows the complete set of sequenced specimens to cluster by species, and by genus. This clustering is perfect in the sense that no species or genus is mis-classified and no taxon is shown to be paraphyletic with respect to current taxonomy. This combined analysis therefore supports the notion that <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> are evolutionarily distinct, monophyletic genera – a result that substantiates their taxonomic separation by Emerson.</p>
+            <sec sec-type="Soldier of Bulbitermes"><title>Soldier of Bulbitermes</title>
+                <p>We find that the number of antennal articles is an easy character that can be used in the field to distinguish <italic><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name></italic> from <italic><tp:taxon-name>Bulbitermes neopusillus</tp:taxon-name></italic>; 14 articles for the former and 13 articles for the later. Strongly constricted head-capsule behind antennal sockets also helps to separate these two species. Other species pairs are more difficult to distinguish on morphological criteria. For example, the head capsule is very similar between <italic><tp:taxon-name>Bulbitermes constrictus</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes subulatus</tp:taxon-name></italic>, especially for specimens collected here from central Sumatra.</p>
+                <p>The development of our bifurcating key (Key 1) revealed several other criteria for distinguishing species pairs. Eleven antennal articles distinguish <italic><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name></italic> from other three species examined here. <italic><tp:taxon-name>Bulbitermes flavicans</tp:taxon-name></italic> also has a head-capsule that is somewhat round and weakly constricted behind antennal sockets. Finally, there is atypical variation in the antennal segmentation pattern of <italic><tp:taxon-name>Bulbitermes singaporiensis</tp:taxon-name></italic>; most specimens have 12 articles, but minorities have 13 articles. <xref ref-type="bibr" rid="B10">Haviland (1898)</xref> made this same observation of <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> from Singapore.</p>
+                <!--PageBreak-->
+            </sec>
+            <sec sec-type="Soldier of Nasutitermes"><title>Soldier of Nasutitermes</title>
+                <p>We find that the width of the head capsule is an easy character that can be used to separate <italic><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name></italic> from other congeners from the region. <xref ref-type="bibr" rid="B12">Holmgren (1913)</xref> already noted the substantial variation in body size for this species (in that case, from Malacca, Malaysia), but subsequent authors (e.g. <xref ref-type="bibr" rid="B1">Ahmad 1965</xref>; <xref ref-type="bibr" rid="B26">Thapa 1981</xref>; Chhotani 1987; <xref ref-type="bibr" rid="B9">Gathorne-Hardy 2001</xref>) nonetheless use size to separate <italic><tp:taxon-name>Nasutitermes matangensis</tp:taxon-name></italic> from its congeners. Other observations from our morphological analysis include: <italic><tp:taxon-name>Nasutitermes neoparvus</tp:taxon-name></italic> separates from the other three species by having exactly eleven antennal articles. In addition, the somewhat rounded head capsule in dorsal view and scattered setae are important characters in recognizing the species. Dimorphic soldiers (the largest and smallest soldiers are markedly different in size) can be used to differentiate <italic><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name></italic> and <italic><tp:taxon-name>Nasutitermes longinasoides</tp:taxon-name></italic>. Finally, <xref ref-type="bibr" rid="B12">Holmgren (1913)</xref> and <xref ref-type="bibr" rid="B27">Tho (1992)</xref> postulated that the presence of setae on or surrounding the nasus are a defining character for <italic><tp:taxon-name>Nasutitermes longinasus</tp:taxon-name></italic>.</p>
+            </sec>
+            <sec sec-type="On identifying Nasutitermes and Bulbitermes"><title>On identifying <tp:taxon-name>Nasutitermes</tp:taxon-name> and <tp:taxon-name>Bulbiterme</tp:taxon-name>s</title>
+                <p>Generally, the soldier caste of <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> is monomorphic; it is rarely dimorphic. The soldier head capsule is, however, highly variable in size and shape, and without constriction behind antennal sockets. The rostrum of the <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> soldier caste is conical to cylindrical, and the antenna is with 11-14 articles. The pronotum is saddle-shaped, and legs relatively short with abdomen elongate. <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> was separated from <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> as a distinct new genus based on constrictions behind antennal sockets by Emerson (in <xref ref-type="bibr" rid="B25">Snyder 1949</xref>). However, any single characteristic peculiar to this genus has not been found; Emerson and subsequent authors were not able to show even a single characteristic separating it from <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic>. Based on our morphological analysis, we retain the <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic> genus. It may be defined by the following morphological conditions: soldier monomorphic; head capsule with a constriction behind the antennal sockets.</p>
+                <p>We also found many specimens from different morphospecies and habitats with the constrictions behind antennal sockets hardly visible, hence not <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic>. While other characters also do not correspond with the <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic>. Also not any single morphological character is prominent to erect them to a new genus.</p>
+            </sec>
+            <sec sec-type="Molecular taxonomy"><title>Molecular taxonomy</title>
+                <p>Our study shows that DNA barcoding holds promise for helping to solve termite taxonomic problems, with nearest neighbout distances far exceeding maximum intraspecific divergence (<xref ref-type="fig" rid="F6">Fig. 26</xref>), at least for the specimens examined here. Even though our study includes only specimens from a narrow geographic and taxonomic range (two genera within a single subfamily), these observed values suggest that termites are generally amenable to mitochondrial gene barcoding, and that sequence information is <!--PageBreak-->potentially useful for delineating species on a larger scale (e.g. Bergamashi et al. 2007). This finding is significant given the rapidly changing higher taxonomy that is currently affecting termite systematic classifications and phylogeny (<xref ref-type="bibr" rid="B8">Eggleton 2011</xref>; <xref ref-type="bibr" rid="B6">Engel et al. 2009</xref>). Barcode data may help to resolve species relationships within diverse clades (e.g. <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> with more than 250) for which global morphology-based taxonomic keys would be intractable.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Many thanks are due to Seiki Yamane (Kagoshima University, Japan) Sugesti, Hasballah, M. Rapi, and Tarmizi (LDP, Medan), Husni, Dalil Sutekad, and Novita (Syiah Kuala University, Indonesia), Gathorne-Hardy (Lighthouse, UK), Erwin Widodo (CI, Indonesia), M. Isa, Usman, and Mat Plin (BPKEL, Aceh), Epal (WWF, Indonesia), Dolly Priatna and Adnun Salampesi (ZFL, Jambi), F.X Susilo, I Gede Swibawa, and Rahmat Pranoto (Lampung University), Idris Ghani and Fazli Rahim (UKM, Malaysia), Rosichon Ubaidillah and Wara Asfiya (MZB, Bogor) who between them collected many <italic><tp:taxon-name>Nasutitermes</tp:taxon-name></italic> and <italic><tp:taxon-name>Bulbitermes</tp:taxon-name></italic>. We thank Paul Eggleton, David Jones, and George Beccaloni (the Natural History Museum, UK), Freddy Gathorne-Hardy (Lighthouse, UK) gave us advice and support, especially kind arrangement of the type material. Ahmad Sofiman Othman and M. Shahril (USM, Malaysia) have provided much useful suggestions. We also thank Jayme Sones, David Porco, Alex Borisenko, Nick Garner, and Paul Hebert at the Biodiversity Institute of Ontario (Guelph, Canada) for facilitating the collection of barcode data. This work was partly supported by Fundamental Research (leader: Husni) and I-MHERE RG to Syaukani (DGHE, Indonesia), the Biodiversity Institute of Ontario (Canada), JSPS (Japan) Kiban No. B. No. 17405009 (leader: Sk. Yamane), and a NSERC (Canada) Discovery Grant to GJT.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ahmad</surname><given-names>M</given-names></name></person-group> (<year>1965</year>)<article-title> Termites (Isoptera) of Thailand.</article-title> <source>Bulletin of the American Museum of Natural History </source> <volume>131</volume>: <fpage>1</fpage>-<lpage>113</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ahmad</surname><given-names>M</given-names></name></person-group> (<year>1958</year>)<article-title> Key to Indomalayan termites.</article-title> <source>Biologia </source> <volume>4</volume>: <fpage>33</fpage>-<lpage>198</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bergamaschi</surname><given-names>S</given-names></name><name name-style="western"><surname>Dawes-Gromadzki</surname><given-names>TZ</given-names></name><name name-style="western"><surname>Scali</surname><given-names>V</given-names></name><name name-style="western"><surname>Marini</surname><given-names>M</given-names></name><name name-style="western"><surname>Mantovani</surname><given-names>B</given-names></name></person-group> (<year>2007</year>)<article-title> Karyology, mitochondrial DNA and the phylogeny of Australian termites.</article-title> <source>Chromosome Research </source> <volume>15</volume>: <fpage>735</fpage>-<lpage>753</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10577-007-1158-6" xlink:type="simple">doi: 10.1007/s10577-007-1158-6</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chhotani</surname><given-names>OB</given-names></name></person-group> (<year>1997</year>)<source> Fauna of India-Isoptera (Termites) Vol.</source> <publisher-name>II. Zoological Survey of India</publisher-name>, <publisher-loc>Calcuta</publisher-loc>, <lpage>800</lpage> pp.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Collins</surname><given-names>NM</given-names></name></person-group> (<year>1989</year>)<source> Termites. In Lieth H, Werger MJA (Eds) Tropical Rain Forest Ecosystems: Biogeographical and Ecological Studies. Elsevier, Amsterdam, 455–471.</source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname><given-names>MS</given-names></name><name name-style="western"><surname>Grimaldi</surname><given-names>DA</given-names></name><name name-style="western"><surname>Krishna</surname><given-names>K</given-names></name></person-group> (<year>2009</year>)<article-title> Termites (Isoptera): their phylogeny, classification, and rise to ecological dominance.</article-title> <source>American Museum Novitates </source> <volume>3650</volume>: <fpage>1</fpage>-<lpage>27</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/651.1" xlink:type="simple">doi: 10.1206/651.1</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eggleton</surname><given-names>P</given-names></name></person-group> (<year>1999</year>)<article-title> Termite species description rates and the state of termite taxonomy [Review].</article-title> <source>Insectes Sociaux </source> <volume>46</volume>: <fpage>1</fpage>-<lpage>5</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s000400050105" xlink:type="simple">doi: 10.1007/s000400050105</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eggleton</surname><given-names>P</given-names></name></person-group> (<year>2011</year>)<article-title> An introduction to termites: biology,taxonomy and functional morphology.</article-title> In: <person-group><name name-style="western"><surname>Bignell</surname><given-names>DE</given-names></name><name name-style="western"><surname>Roisin</surname><given-names>Y</given-names></name><name name-style="western"><surname>Lo</surname><given-names>N</given-names></name></person-group> (<role>Eds</role>). <issue-title>Biology of termites: a modern synthesis [electronic resource].</issue-title> <source>Springer Science+Business Media B.V., Dordrecht</source>: <fpage>1</fpage>-<lpage>26</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gathorne-Hardy</surname><given-names>F</given-names></name></person-group> (<year>2001</year>)<article-title> A review of the South-East Asian Nasutitermitinae (Isoptera: Termitidae), with descriptions of one new genus and a new species and including a key to the genera.</article-title> <source>Journal of Natural History </source> <volume>35</volume>: <fpage>1486</fpage>-<lpage>1506</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/002229301317067647" xlink:type="simple">doi: 10.1080/002229301317067647</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haviland</surname><given-names>GD</given-names></name></person-group> (<year>1898</year>)<article-title> Observations on termites; with description on new species.</article-title> <source>Journal of the Linnean Society, Zoology </source> <volume>26</volume>: <fpage>358</fpage>-<lpage>442</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hebert</surname><given-names>PDN</given-names></name><name name-style="western"><surname>Cywinska</surname><given-names>A</given-names></name><name name-style="western"><surname>Ball</surname><given-names>SL</given-names></name><name name-style="western"><surname>DeWaard</surname><given-names>JR</given-names></name></person-group> (<year>2003</year>)<article-title> Biological identifications through DNA barcodes.</article-title> <source>Proc eeding of the Royal Society Society London Ser B-Biological Science </source> <volume>270</volume>: <fpage>313</fpage>-<lpage>321</lpage></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname><given-names>N</given-names></name></person-group> (<year>1913</year>)<article-title> Termitenstudien. 4. Versuch einer systematichen Monographie der Termiten der orientalischen Region.</article-title> <source>Kungliga Svenska Vetensskapakademiens Handlingar</source> <volume>50</volume>: <fpage>1</fpage>-<lpage>276</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holmgren</surname><given-names>N</given-names></name></person-group> (<year>1913–14</year>)<article-title> Wissenschaftliche Ergebnisse einer Forschungsreise nach Ostindien, ausgefuhrt im Auftrage der Kgl. Preuss. Akademie der Wissenchaften zu Berlin von H.v. Buttel-Reepen. III. Termiten aus Sumatra, Java, Malacca und Ceylon. Gesammelt von Herrn Prof. Dr. v. Buttel-Reepen in den Jahren 1911–1912.</article-title> <source>Zoologische Jahrbucher Abteilungen Systematik</source> <volume>36</volume>: <fpage>229</fpage>-<lpage>290</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>John</surname><given-names>O</given-names></name></person-group> (<year>1925</year>)<article-title> Termiten von Ceylon, der Malayaischen Halbinsel, Sumatra, Java und den Aru-Inseln.</article-title> <source>Treubia </source> <volume>6</volume>: <fpage>360</fpage>-<lpage>419</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ivanova</surname><given-names>NV</given-names></name><name name-style="western"><surname>Dewaard</surname><given-names>JR</given-names></name><name name-style="western"><surname>Hebert</surname><given-names>PDN</given-names></name></person-group> (<year>2006</year>)<article-title> An inexpensive, automation-friendly protocol for recovering high-quality DNA.</article-title> <source>Molecular Ecology Notes </source> <volume>6</volume>: <fpage>998</fpage>-<lpage>1002</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1471-8286.2006.01428.x" xlink:type="simple">doi: 10.1111/j.1471-8286.2006.01428.x</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ivanova</surname><given-names>NV</given-names></name><name name-style="western"><surname>Grainger</surname><given-names>CM</given-names></name></person-group> (<year>2007</year>)<source> CCDB Protocols, COI Amplification. <ext-link ext-link-type="uri" xlink:href="http://www.dnabarcoding.ca/CCDB_DOCS/CCDB_Amplification.pdf" xlink:type="simple">http://www.dnabarcoding.ca/CCDB_DOCS/CCDB_Amplification.pdf</ext-link> [accessed on 01.06.2011]</source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jones</surname><given-names>DT</given-names></name><name name-style="western"><surname>Brendell</surname><given-names>MJD</given-names></name></person-group> (<year>1998</year>)<article-title> The termite (Insecta: Isoptera) fauna of Pasoh Forest Reserve, Malaysia.</article-title> <source>The Raffles Bulleting of Zoology </source> <volume>46</volume>: <fpage>79</fpage>-<lpage>91</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jones</surname><given-names>DT</given-names></name><name name-style="western"><surname>Eggleton</surname><given-names>P</given-names></name></person-group> (<year>2000</year>)<article-title> Sampling termites assemblages in tropical forest: testing a rapid biodiversity assessment protocol.</article-title> <source>Journal of Applied Ecology</source> <volume>31</volume>: <fpage>191</fpage>-<lpage>203</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-2664.2000.00464.x" xlink:type="simple">doi: 10.1046/j.1365-2664.2000.00464.x</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kambhampati</surname><given-names>S</given-names></name><name name-style="western"><surname>Eggleton</surname><given-names>P</given-names></name></person-group> (<year>2000</year>)<source> Phylogenetics and taxonomy. In Abe T, Bignell DE, Higashi M (Eds) Termites: evolution, sociality, symbiosis, ecology. Kluwer Academic Publishers, Dordrecht, the Netherlands, 25–51.</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pearce</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Waite</surname><given-names>BS</given-names></name></person-group> (<year>1994</year>)<article-title> A list of termite genera (Isoptera) with comments on taxonomic changes and regional distribution.</article-title> <source>Sociobiology </source> <volume>23</volume>: <fpage>247</fpage>-<lpage>263</lpage></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ratnasingham</surname><given-names>S</given-names></name><name name-style="western"><surname>Hebert</surname><given-names>PDN</given-names></name></person-group> (<year>2007</year>)<article-title> BOLD: The Barcode of Life Data System (<ext-link ext-link-type="uri" xlink:href="www.barcodinglife.org" xlink:type="simple">www.barcodinglife.org</ext-link>).</article-title> <source>Molecular Ecology Notes </source> <volume>7</volume>: <fpage>355</fpage>-<lpage>364</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1471-8286.2007.01678.x" xlink:type="simple">doi: 10.1111/j.1471-8286.2007.01678.x</ext-link></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roonwal</surname><given-names>ML</given-names></name><name name-style="western"><surname>Chhotani</surname><given-names>OB</given-names></name></person-group> (<year>1989</year>)<source>The Fauna of India and the Adjacent Countries, Vol. 1.</source> <publisher-name>Zoological Survey of India</publisher-name>, <publisher-loc>Calcuta</publisher-loc>, <lpage>672</lpage> pp.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roonwal</surname><given-names>ML</given-names></name><name name-style="western"><surname>Maiti</surname><given-names>PK</given-names></name></person-group> (<year>1966</year>)<article-title> Termites from Indonesia including West Irian.</article-title> <source>Treubia </source> <volume>27</volume>: <fpage>63</fpage>-<lpage>140</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sands</surname><given-names>WA</given-names></name></person-group> (<year>1998</year>)<source> The identification of worker caste of termite from soil of Africa and the Middle East.</source> <publisher-name>CAB Internatinal</publisher-name>, <publisher-loc>Wallingford</publisher-loc>, <lpage>500</lpage> pp.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Snyder</surname><given-names>TE</given-names></name></person-group> (<year>1949</year>)<source> Catalog of the Termites (Isoptera) of World. Smithsonian Miscellaneous Collection 112, 374 pp.</source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thapa</surname><given-names>RS</given-names></name></person-group> (<year>1981</year>)<source> Termites of Sabah, Sabah Forest Record12, 374 pp.</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tho</surname><given-names>YP</given-names></name></person-group> (<year>1992</year>)<source> Termites of Peninsular Malaysia. Malayan Forest Records. Forest Research Institute Malaysia, Kepong 36, 224 pp.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

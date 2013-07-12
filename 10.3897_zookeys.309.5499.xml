@@ -1,0 +1,405 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.309.5499</article-id>
+            <title-group>
+                <article-title>Two new species of
+                    <italic>Itagonia</italic> Reitter (Coleoptera, Tenebrionidae, Blaptini) from China</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Shi</surname>
+                        <given-names>Ai-min</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:A15A436E-081F-4D7D-9271-FD6CFCBF777C</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Key Laboratory of Southwest China Wildlife Resources Conservation, Institute of Rare Animals &amp; Plants, China West Normal University, Nanchong, Sichuan 637009, China
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Ai-min Shi (<email xlink:type="simple">aiminshi2003@126.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Patrice Bouchard</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>13</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>309</issue>
+            <fpage>1</fpage>
+            <lpage>12</lpage>
+            <history>
+                <date date-type="received">
+                    <day>9</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>5</day>
+                    <month>6</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Shi Ai-min</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:996F5848-E505-4DC9-A055-F19361EDDFBE</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>Two new species of <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> Reitter, 1887, <italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> <bold>sp. n.</bold> and <italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> <bold>sp. n.</bold> are described from Sichuan, China. A key to the known species of <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> from China is given.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Coleoptera</kwd>
+                <kwd>Tenebrionidae</kwd>
+                <kwd><italic>Itagonia</italic></kwd>
+                <kwd>new species</kwd>
+                <kwd>identification key</kwd>
+                <kwd>Sichuan</kwd>
+                <kwd>China</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> Reitter, 1887 is among the most speciose genera in the subtribe <tp:taxon-name>Gnaptorinina</tp:taxon-name> of the tribe <tp:taxon-name>Blaptini</tp:taxon-name>. It comprises 19 species and one subspecies (<xref ref-type="bibr" rid="B9">Reitter 1887</xref>, <xref ref-type="bibr" rid="B10">1889</xref>; <xref ref-type="bibr" rid="B2">Fairmaire 1888</xref>; <xref ref-type="bibr" rid="B11">Schuster 1914</xref>, <xref ref-type="bibr" rid="B12">1923</xref>; <xref ref-type="bibr" rid="B8">Reinig 1931</xref>; <xref ref-type="bibr" rid="B4">Medvedev 1998</xref>, <xref ref-type="bibr" rid="B6">2004</xref>; <xref ref-type="bibr" rid="B13">Shi and Ren 2007a</xref>, <xref ref-type="bibr" rid="B14">2007b</xref>; <xref ref-type="bibr" rid="B1">Egorov 2007</xref>; <xref ref-type="bibr" rid="B3">Liu and Ren 2009</xref>, <xref ref-type="bibr" rid="B15">Shi et al. 2010</xref>). Most of the species are restricted to the Hissaro-Darvaz Mountains (four species and one subspecies, representing 25% of the known taxa) and the eastern part of the Tibetan Plateau (thirteen species, representing 65% of the known taxa). <italic><tp:taxon-name>Itagonia shamaevi</tp:taxon-name></italic> Medvedev, 2004 is known from Gansu and <italic><tp:taxon-name>Itagonia provostii</tp:taxon-name></italic> (Fairmaire, 1888) from Beijing, Hebei, Neimenggu, Shaanxi and Ningxia (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Distribution of species of the genus <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> Reitter from China: <bold>1</bold> <italic><tp:taxon-name>Itagonia baxoica</tp:taxon-name></italic> Liu &amp; Ren, 2009 <bold>2</bold> <italic><tp:taxon-name>Itagonia bisetosa</tp:taxon-name></italic> Medvedev, 1998 <bold>3</bold> <italic><tp:taxon-name>Itagonia cordiformis</tp:taxon-name></italic> Shi &amp; Ren, 2007 <bold>4</bold> <italic><tp:taxon-name>Itagonia elegans</tp:taxon-name></italic> Medvedev, 1998 <bold>5</bold> <italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> sp. n. <bold>6</bold> <italic><tp:taxon-name>Itagonia longicornis</tp:taxon-name></italic> Shi &amp; Ren, 2007 <bold>7</bold> <italic><tp:taxon-name>Itagonia medvedevi</tp:taxon-name></italic> Shi et al., 2010 <bold>8</bold> <italic><tp:taxon-name>Itagonia mera</tp:taxon-name></italic> Medvedev, 1998 <bold>9</bold> <italic><tp:taxon-name>Itagonia provostii</tp:taxon-name></italic> Fairmaire, 1888 <bold>10</bold> <italic><tp:taxon-name>Itagonia semenovi</tp:taxon-name></italic> Reitter, 1889 <bold>11</bold> <italic><tp:taxon-name>Itagonia shamaevi</tp:taxon-name></italic> Medvedev, 2004 <bold>12</bold> <italic><tp:taxon-name>Itagonia szetschwana</tp:taxon-name></italic> Schuster, 1923 <bold>13</bold> <italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> sp. n. <bold>14</bold> <italic><tp:taxon-name>Itagonia trisetosa</tp:taxon-name></italic> Medvedev, 1998 <bold>15</bold> <italic><tp:taxon-name>Itagonia tuberculata</tp:taxon-name></italic> Shi et al., 2010 <bold>16</bold> <italic><tp:taxon-name>Itagonia xinlongensis</tp:taxon-name></italic> Shi et al., 2010 <bold>17</bold> <italic><tp:taxon-name>Itagonia zayica</tp:taxon-name></italic> Shi &amp; Ren, 2007</p></caption>
+                <graphic xlink:href="ZooKeys-309-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <!--PageBreak-->
+            <p>In this study, we follow the classification of <xref ref-type="bibr" rid="B7">Medvedev and Merkl (2002)</xref>. Within the subtribe <tp:taxon-name>Gnaptorinina</tp:taxon-name>, the genus <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> is diagnosed by the following characters: upper edge of inner surface of profemur with tooth or obtuse-angled or arcuate prominence; upper spur of male protibiae larger than the lower spur, that of female protibiae massive, digitiform, the lower spur very small or invisible; apicale of aedeagus with outer margins arcuately or evenly narrowing to apex, or with outer margins slightly sinuate.</p>
+            <p>During the identification of tenebrionid specimens collected in Sichuan in 2012, two new species of the genus <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic>, <italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> sp. n. from Jinchuan and <italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> sp. n. from Litang were found, which are described below.</p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>All specimens were examined and measured under a Leica M205C stereomicroscope. Drawings of the new species were prepared under the same microscope equipped with a drawing tube. The photos were taken with a Canon PowerShot SX150IS digital camera. All specimens studied are deposited in the Museum of China West Normal University (MCWNU), Nanchong, China.</p>
+        </sec>
+        <sec sec-type="Taxonomy">
+            <title>Taxonomy</title>
+            <sec sec-type="Key to the species of the genus Itagonia from China">
+                <title>Key to the species of the genus <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> from China</title>
+                <table-wrap content-type="key" position="anchor" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">Upper edge of inner surface of profemur (figs 1–5 in <xref ref-type="bibr" rid="B15">Shi et al. 2010</xref>; <xref ref-type="fig" rid="F3">Fig. 19</xref>) with tooth near apex</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Upper edge of inner surface of profemur with arcuate or obtuse-angled prominence (figs 6–10, 14, 27, 40 in <xref ref-type="bibr" rid="B15">Shi et al. 2010</xref>; <xref ref-type="fig" rid="F4">Fig. 33</xref>) near apex</td>
+                                <td rowspan="1" colspan="1">8</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">Outer margin of epipleura visible from above along or nearly along entire length</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Outer margin of epipleura visible from above at most in anterior 1/2 and/or apex</td>
+                                <td rowspan="1" colspan="1">4</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">Tooth of profemur obtuse. Lateral margins of pronotum distinctly bordered before base. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 2</xref>) less elongate, 1.83 times as long as wide, with outer margins slightly sinuate near middle</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia szetschwana</tp:taxon-name></italic> Schuster, 1923</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Tooth of profemur sharply acute-angled. Lateral margins of pronotum very finely, almost invisibly bordered. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 3</xref>) more elongate, 2.61 times as long as wide, with outer margins nearly straight</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia semenowi</tp:taxon-name></italic> Reitter, 1889</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">Only apical part of outer margin of epipleura visible from above</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia shamaevi</tp:taxon-name></italic> Medvedev, 2004</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">At least part of anterior 1/2 of outer margin of epipleura visible from above</td>
+                                <td rowspan="1" colspan="1">5</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><!--PageBreak-->5</td>
+                                <td rowspan="1" colspan="1">Each elytron with traces of two longitudinal carinae, dense granules and sparse irregular prominences. Inner surface of male protibiae with arcuate prominence near base</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> sp. n.</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Elytra with punctures and wrinkles. Inner surface of male protibiae straight near base</td>
+                                <td rowspan="1" colspan="1">6</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">Pronotum more transverse, 1.40 times as wide as long, widest behind middle. Only plantar surface of protarsomere 1 with hair brush. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 4</xref>) with outer margins nearly straight</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia provostii</tp:taxon-name></italic> (Fairmaire, 1888)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Pronotum less transverse, 1.15–1.24 times as wide as long, widest in middle. Plantar surface of protarsomeres 1 and 2 and mesotarsomere 1 with hair brushes. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Figs 5, 6</xref>) with outer margins sinuate</td>
+                                <td rowspan="1" colspan="1">7</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">Lateral margins of pronotum converging to base with almost straight line in basal half. Prosternum in front of procoxae oblique to horizontal plane. Metatibiae straight. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 5</xref>) with outer margins more sinuate near middle</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia zayica</tp:taxon-name></italic> Shi &amp; Ren, 2007</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Lateral margins of pronotum almost parallel in basal half. Prosternum in front of procoxae almost vertical. Metatibiae weakly incurved. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 6</xref>) with outer margins less sinuate in apical 1/3</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia baxoica</tp:taxon-name></italic> Liu &amp; Ren, 2009</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">8</td>
+                                <td rowspan="1" colspan="1">Outer margin of epipleura visible from above along entire length</td>
+                                <td rowspan="1" colspan="1">9</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Outer margin of epipleura only partly visible from above</td>
+                                <td rowspan="1" colspan="1">12</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">9</td>
+                                <td rowspan="1" colspan="1">Lateral margins of pronotum distinctly reflexed. Plantar surface of pro- and mesotarsomeres without hair brush or only plantar surface of protarsomere 1 with small hair brush. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 7</xref>) with outer margins weakly sinuate before middle</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia elegans</tp:taxon-name></italic> Medvedev, 1998</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Lateral margins of pronotum not reflexed. At least plantar surface of protarsomeres 1 and 2 with hair brushes. Apicale of aedeagus with outer margins weakly sinuate near middle (<xref ref-type="fig" rid="F2">Fig. 8</xref>), smoothly converging from base to apex (<xref ref-type="fig" rid="F2">Fig. 9</xref>) or sinuate in basal 1/3 (<xref ref-type="fig" rid="F2">Fig. 10</xref>)</td>
+                                <td rowspan="1" colspan="1">10</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">10</td>
+                                <td rowspan="1" colspan="1">Antennae longer, surpassing beyond pronotal base. Upper spur of protibiae slightly longer than the lower spur</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia longicornis</tp:taxon-name></italic> Shi &amp; Ren, 2007</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Antennae shorter, not reaching or reaching, but not surpassing pronotal base. Upper spur of protibiae significantly longer than the lower spur</td>
+                                <td rowspan="1" colspan="1">11</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">11</td>
+                                <td rowspan="1" colspan="1">Anterior margin of pronotum more sinuate, lateral margins rectilinearly converging toward base in basal 1/2. Upper edge of inner surface of profemur with massive arcuate prominence near apex. Plantar surface of mesotarsomere 1 with apical tuft of light setae. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 9</xref>) with outer margins smoothly converging from base to apex</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia bisetosa</tp:taxon-name></italic> Medvedev, 1998</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Anterior margin of pronotum less sinuate, lateral margins slightly sinuate in basal 1/4. Upper edge of inner surface of profemur with obtuse-angled prominence near apex. Plantar surface of mesotarsomere 1 with small hair brush. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 10</xref>) with outer margins sinuate in basal 1/3, and apical part regularly narrowing towards apex</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia xinlongensis</tp:taxon-name></italic> Shi et al., 2010</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><!--PageBreak-->12</td>
+                                <td rowspan="1" colspan="1">Plantar surface of protarsomeres 1 and 2 with hair brushes or apical tuft of pale hairs</td>
+                                <td rowspan="1" colspan="1">13</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Plantar surface of protarsomeres 1 to 3 with hair brushes</td>
+                                <td rowspan="1" colspan="1">14</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">Pronotum widest before base, lateral margins less arcuately protruding. Elytral surface coarse, with irregular prominences and very sparse punctures. Plantar surface of mesotarsomere 1 with hair brush. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 11</xref>) less elongate, 1.46 times as long as wide, with outer margins smoothly converging from base to apex</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia tuberculata</tp:taxon-name></italic> Shi et al., 2010</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Pronotum widest before middle, lateral margins more arcuately protruding. Elytral surface smooth, with fine punctures and irregular wrinkles. Plantar surface of mesotarsomere 1 with apical tuft of pale hairs. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 12</xref>) more elongate, 2.0 times as long as wide, with outer margins sinuate in basal 1/4</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia cordiformis</tp:taxon-name></italic> Shi &amp; Ren, 2007</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">14</td>
+                                <td rowspan="1" colspan="1">Anterior 2/3 or only apical part of outer margin of epipleura visible from above</td>
+                                <td rowspan="1" colspan="1">15</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Less than anterior 1/2 of outer margin of epipleura visible from above</td>
+                                <td rowspan="1" colspan="1">16</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">15</td>
+                                <td rowspan="1" colspan="1">Pronotal surface not flattened along outer margins. Outer margin of epipleura in dorsal view concealed by outer convexity of elytra only in apical 1/3. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 13</xref>) with outer margins smoothly converging from base to apex. Body significantly smaller, length 9.6 mm</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia trisetosa</tp:taxon-name></italic> Medvedev, 1998</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Pronotal surface widely flattened along outer margins in basal half. Outer margin of epipleura visible from above only in apex. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 14</xref>) with outer margins slightly sinuate in apical part. Body large, length 10.8–11.7 mm</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia mera</tp:taxon-name></italic> Medvedev, 1998</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">16</td>
+                                <td rowspan="1" colspan="1">Prosternum in front of procoxae oblique to horizontal plane. Apical part of outer margin of epipleura visible from above. Upper spur of protibiae massive, longer than protarsomere 1. Plantar surface of mesotarsomere without hair brush. Apicale of aedeagus (<xref ref-type="fig" rid="F2">Fig. 15</xref>) 1.51 times as long as wide</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia medvedevi</tp:taxon-name></italic> Shi et al., 2010</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">Prosternum in front of procoxae steeply sloping. Apical part of outer margin of epipleura invisible from above. Upper spur of protibiae not massive, shorter than protarsomere 1. Plantar surface of mesotarsomeres 1 to 2 with hair brushes. Apicale of aedeagus (<xref ref-type="fig" rid="F4">Fig. 36</xref>) 1.43 times as long as wide</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> sp. n.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Itagonia</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">tibialis</tp:taxon-name-part>
+                            <object-id xlink:type="simple">urn:lsid:zoobank.org:act:0A1C342C-D3B4-44D7-B98A-D96D08FC5720</object-id>
+                            <object-id xlink:type="simple">http://species-id.net/wiki/Itagonia_tibialis</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F3">Figs 16–29</xref>
+                        <xref ref-type="fig" rid="F5">, 44–45</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type material">
+                        <title>Type material.</title>
+                        <p>Holotype male: China, Sichuan, Jinchuan, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">31°29'N, 102°05'E</named-content>, 2647 m, 31 Jul. 2012, Y. C. Li and Y. P. Lai leg. (MCWNU). Paratypes: 9 males and 5 females, same data as the holotype (MCWNU).</p>
+                        <!--PageBreak-->
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p>This new species can be distinguished from other <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> species by the following differences: each elytron with traces of two longitudinal carinae; inner surface of male protibiae with arcuate prominence near base. <italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> sp. n. belongs to the group including also <italic><tp:taxon-name>Itagonia bisetosa</tp:taxon-name></italic> Medvedev, 1998, <italic><tp:taxon-name>Itagonia tuberculata</tp:taxon-name></italic> Shi et al., 2010 and <italic><tp:taxon-name>Itagonia trisetosa</tp:taxon-name></italic> Medvedev, 1998. Representatives of this group differ from other <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic> species in having apicale of aedeagus flat, smoothly tapering from base to apex, forming no sharp narrowing in apical part (<xref ref-type="fig" rid="F2">Figs 9, 11, 13</xref>, <xref ref-type="fig" rid="F3">22</xref>). Occurring together with <italic><tp:taxon-name>Itagonia bisetosa</tp:taxon-name></italic>, <italic><tp:taxon-name>Itagonia tuberculata</tp:taxon-name></italic> and <italic><tp:taxon-name>Itagonia trisetosa</tp:taxon-name></italic>, the new species can be distinguished by upper edge of inner surface of profemur forming in apical part rectangular tooth. Also, the described species sharply differs from <italic><tp:taxon-name>Itagonia bisetosa</tp:taxon-name></italic> and <italic><tp:taxon-name>Itagonia trisetosa</tp:taxon-name></italic> in having less than anterior 1/2 of outer margin of epipleura visible from above, and from <italic><tp:taxon-name>Itagonia tuberculata</tp:taxon-name></italic> in having the pronotum widest before middle.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology">
+                        <title>Etymology.</title>
+                        <p>Named after the protibiae of male, inner surface of which has an arcuate prominence near base. This sharply differs from those of other species of <italic><tp:taxon-name>Itagonia</tp:taxon-name></italic>.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description">
+                        <title>Description.</title>
+                        <p>Body black, elytra dull, other parts of body weakly shining.</p>
+                        <p><bold>Male</bold> (<xref ref-type="fig" rid="F3">Figs 16, 18–26</xref>). Anterior margin of clypeus weakly sinuate. Lateral margin of head almost without incision above antennal base. Genal margin parallel before <!--PageBreak-->eyes. Eyes not protruding beyond contour of head. Vertex slightly convex or flat, with moderately dense punctures. Frontoclypeal suture very shallow or invisible. Antennae (<xref ref-type="fig" rid="F3">Fig. 16</xref>) reaching or nearly reaching pronotal base. Length (width) ratio of antennomeres 2 to 11 as follows: 18(17): 67(18): 25(16): 27(17): 31(18): 31(18): 23(22): 22(24): 21(25): 31(23).</p>
+                        <p>Pronotum (<xref ref-type="fig" rid="F3">Fig. 18</xref>) 1.15–1.24 (1.19 on average, n=10) times as wide as long, maximum width before middle, 1.63–1.77 (1.68 on average, n=10) times as wide as head. Ratio of pronotal width at anterior margin to its maximum width and width at base (n=10) 0.55: 1.00: 0.94 on average. Lateral margins of pronotum sharply arcuately converging to anterior margin in anterior 1/3, slightly narrowing to base in basal half or nearly parallel in basal 1/4, entirely bordered. Anterior margin of pronotum weakly sinuate, bordered laterally; base straight, not bordered. Anterior angles of pronotum weakly obtuse, rounded apically; posterior ones weakly obtuse or nearly rectangular. Pronotal surface between lateral margins weakly convex, with shallow median depression at disc; punctures as large as those on head, fine at disc center and larger laterally. Propleura concave in basal half, with wrinkles and very sparse granules. Prosternum in front of procoxae gently sloping; intercoxal process with shallow median depression, steeply sloping behind procoxae.</p>
+                        <p>Elytra elongate-oval, 1.56–1.65 (1.60 on average, n=10) times as long as wide, maximum width in anterior 1/3, 1.35–1.44 (1.41 on average, n=10) times as wide as pronotum. Less than anterior 1/2 of outer margin of epipleura visible from above. <!--PageBreak-->Elytral surface between epipleura and sutural margin convex. Each elytron with traces of 2 longitudinal carinae, dense granules and sparse irregular prominences. Epipleural surface smooth, with sparse wrinkles and very sparse granules. Abdominal ventrites with punctures and short brown setae, abdominal ventrites 1 to 3 with longitudinal wrinkles, basal two abdominal ventrites with concave impression in middle.</p>
+                        <p>Legs (<xref ref-type="fig" rid="F3">Figs 19–21</xref>) moderately robust, length (width) ratio of pro-, meso- and metafemora 74(26): 74(19): 100(21); tibiae: 70(11): 63(13): 95(14). Upper edge of inner surface of profemur with rectangular tooth in apical part. Inner surface of protibiae with arcuate prominence near base. Upper spur of protibiae not very massive, shorter than protarsomere 1, lower spur fine and pointed. Plantar surface of protarsomeres 1 and 2 and mesotarsomere 1 with hair brushes. Metatibiae weakly incurved, regularly widening apicad. Length (width) ratio of metatarsomeres 1 to 4 as follows: 25(6.4): 12(6.0): 12(5.7): 22(6.4).</p>
+                        <!--PageBreak-->
+                        <p>Aedeagus (<xref ref-type="fig" rid="F3">Figs 22–24</xref>): length 3.83 mm, width 0.79 mm. Apicale 1.33 mm long and 0.70 mm wide, with outer margins arcuately narrowing to apex. Spiculum gastrale as in <xref ref-type="fig" rid="F3">Fig. 25</xref>. Apical margin of abdominal ventrite 8 sinuate (<xref ref-type="fig" rid="F3">Fig. 26</xref>).</p>
+                        <p><bold>Female</bold> (<xref ref-type="fig" rid="F3">Figs 17, 27–29</xref>). Body wider. Antennae (<xref ref-type="fig" rid="F3">Fig. 17</xref>) shorter than in male. Pronotum 1.24–1.33 (1.28 on average, n=5) times as wide as long. Elytra 1.41–1.48 (1.44 on average, n=5) times as long as wide. Less than anterior 1/3 of outer margin of epipleura visible from above. Protibiae nearly straight. Upper spur of protibiae massive and rounded apically; lower spur fine. Metatibiae straight. Plantar surface of protarsomeres and mesotarsomeres without brush. Ovipositor as in <xref ref-type="fig" rid="F3">Figs 27–28</xref>. Spiculum ventrale as in <xref ref-type="fig" rid="F3">Fig. 29</xref>.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Measurements">
+                        <title>Measurements.</title>
+                        <p>Male body length 13.4–15.1 mm, width 5.4–6.3 mm; female body length 13.8–15.6 mm, width 6.7–7.2 mm.</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figures 2–15.</label>
+                            <caption><p>Apicale of aedeagus in dorsal view. <bold>2</bold> <italic><tp:taxon-name>Itagonia szetschwana</tp:taxon-name></italic> Schuster, 1923 <bold>3</bold> <italic><tp:taxon-name>Itagonia semenowi</tp:taxon-name></italic> Reitter, 1889 <bold>4</bold> <italic><tp:taxon-name>Itagonia provostii</tp:taxon-name></italic> (Fairmaire, 1888) <bold>5</bold> <italic><tp:taxon-name>Itagonia zayica</tp:taxon-name></italic> Shi &amp; Ren, 2007 <bold>6</bold> <italic><tp:taxon-name>Itagonia baxoica</tp:taxon-name></italic> Liu &amp; Ren, 2009 <bold>7</bold> <italic><tp:taxon-name>Itagonia elegans</tp:taxon-name></italic> Medvedev, 1998 <bold>8</bold> <italic><tp:taxon-name>Itagonia longicornis</tp:taxon-name></italic> Shi &amp; Ren, 2007 <bold>9</bold> <italic><tp:taxon-name>Itagonia bisetosa</tp:taxon-name></italic> Medvedev, 1998 <bold>10</bold> <italic><tp:taxon-name>Itagonia xinlongensis</tp:taxon-name></italic> Shi et al., 2010 <bold>11</bold> <italic><tp:taxon-name>Itagonia tuberculata</tp:taxon-name></italic> Shi et al., 2010 <bold>12</bold> <italic><tp:taxon-name>Itagonia cordiformis</tp:taxon-name></italic> Shi &amp; Ren, 2007 <bold>13</bold> <italic><tp:taxon-name>Itagonia trisetosa</tp:taxon-name></italic> Medvedev, 1998 <bold>14</bold> <italic><tp:taxon-name>Itagonia mera</tp:taxon-name></italic> Medvedev, 1998 <bold>15</bold> <italic><tp:taxon-name>Itagonia medvedevi</tp:taxon-name></italic> Shi et al., 2010. (figs 2–3 from <xref ref-type="bibr" rid="B5">Medvedev 2001</xref>; figs 4 and 6 from from <xref ref-type="bibr" rid="B3">Liu and Ren 2009</xref>; figs 7, 9 and 13–14 from <xref ref-type="bibr" rid="B4">Medvedev 1998</xref>)</p></caption>
+                            <graphic xlink:href="ZooKeys-309-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figures 16–29.</label>
+                            <caption><p><italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> sp. n. <bold>16</bold> antenna of male <bold>17</bold> antenna of female <bold>18</bold> pronotum of male <bold>19</bold> profemur and protibiae of male <bold>20</bold> mesofemur and mesotibiae of male <bold>21</bold> mtafemur and metatibiae of male <bold>22–23</bold> apicale of aedeagus in dorsal and ventral views <bold>24</bold> aedeagus in lateral view <bold>25</bold> spiculum gastrale <bold>26</bold> abdominal ventrite 8 of male <bold>27–28</bold> ovipositor in dorsal and ventral views <bold>29</bold> spiculum ventrale.</p></caption>
+                            <graphic xlink:href="ZooKeys-309-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Itagonia</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">litangensis</tp:taxon-name-part>
+                            <object-id xlink:type="simple">urn:lsid:zoobank.org:act:6964C433-F497-425E-A637-4D06DD365417</object-id>
+                            <object-id xlink:type="simple">http://species-id.net/wiki/Itagonia_litangensis</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F4">Figs 30–43</xref>
+                        <xref ref-type="fig" rid="F5">, 46–47</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type material">
+                        <title>Type material.</title>
+                        <p>Holotype male: China, Sichuan, Litang, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">30°18'N, 100°16'E</named-content>, 3410 m, 2 Aug. 2012, A. M. Shi leg. (MCWNU). Paratypes: 5 males and 4 females, same data as the holotype (MCWNU).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p>The new species resembles <italic><tp:taxon-name>Itagonia medvedevi</tp:taxon-name></italic> Shi et al., 2010 and <italic><tp:taxon-name>Itagonia cordiformis</tp:taxon-name></italic> Shi &amp; Ren, 2007 by less than anterior 1/2 of outer margin of epipleura visible from above and apicale of aedeagus with outer margins sinuate, apical part rather sharply narrowing apicad (<xref ref-type="fig" rid="F2">Figs 12, 15</xref>, <xref ref-type="fig" rid="F4">36</xref>). <italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> sp. n. differs from <italic><tp:taxon-name>Itagonia medvedevi</tp:taxon-name></italic> and <italic><tp:taxon-name>Itagonia cordiformis</tp:taxon-name></italic> in having the prosternum in front of procoxae steeply sloping; upper spur of protibiae not massive, shorter than protarsomere 1; plantar surface of mesotarsomeres 1 to 2 with hair brushes; apical margin of abdominal sternite 8 weakly sinuate. Also, the new species can be distinguished from <italic><tp:taxon-name>Itagonia medvedevi</tp:taxon-name></italic> by apical part of outer margin of epipleura invisible from above, and from <italic><tp:taxon-name>Itagonia cordiformis</tp:taxon-name></italic> by lateral margins of pronotum weakly arcuately protruding.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology">
+                        <title>Etymology.</title>
+                        <p>Named after the type locality, Litang.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description">
+                        <title>Description.</title>
+                        <p>Body black, weakly shining.</p>
+                        <p><bold>Male</bold> (<xref ref-type="fig" rid="F4">Figs 30, 32–40</xref>). Anterior margin of clypeus nearly straight. Lateral margin of head with obtuse-angled shallow incision above antennal base. Genal margin arcuately converging to clypeal base. Eyes not protruding beyond contour of head. Vertex slightly convex, with moderately dense punctures. Frontoclypeal suture shallow. Antennae (<xref ref-type="fig" rid="F4">Fig. 30</xref>) reaching posterior 1/4 of pronotum. Length (width) ratio of antennomeres 2 to 11 as follows: 16(13): 33(14): 18(14): 18(14): 18(14): 20(14): 18(17): 18(19): 18(20): 25(19).</p>
+                        <p>Pronotum (<xref ref-type="fig" rid="F4">Fig. 32</xref>) transverse, 1.25–1.35 (1.28 on average, n=6) times as wide as long, maximum width before middle, 1.77–1.86 (1.84 on average, n=6) times <!--PageBreak-->as wide as head. Ratio of pronotal width at anterior margin to its maximum width and width at base (n=6) 0.67: 1.00: 0.91 on average. Lateral margins of pronotum more sharply arcuately narrowing to anterior margin than to base, entirely bordered. Anterior margin of pronotum nearly straight; base straight, both bordered laterally. Anterior angles of pronotum obtuse, rounded apically; posterior ones weakly obtuse. Pronotal surface between lateral margins convex, with short median depression at disc; punctures as large as those on head, fine at disc center and larger laterally. Propleura slightly concave, with wrinkles and very sparse granules. Prosternum in front of procoxae steeply sloping; intercoxal process with shallow median depression, steeply sloping behind procoxae.</p>
+                        <p>Elytra elongate-oval, 1.35–1.42 (1.39 on average, n=6) times as long as wide, maximum width before middle, 1.21–1.31 (1.25 on average, n=6) times as wide as pronotum. Less than anterior 1/2 of outer margin of epipleura visible from above. Elytral surface between outer margin of epipleura and sutural margin convex, sparsely covered with irregular fine wrinkles and fine punctures. Epipleural surface with sparse <!--PageBreak-->wrinkles. Abdominal ventrites with punctures and brown setae, abdominal ventrites 1 to 3 with longitudinal wrinkles.</p>
+                        <p>Legs (<xref ref-type="fig" rid="F4">Figs 33–35</xref>) robust, length (width) ratio of pro-, meso- and metafemora 78(22): 82(20): 100(21); tibiae: 74(11): 71(12): 94(16). Upper spur of protibiae not <!--PageBreak-->massive, shorter than protarsomere 1, lower spur fine and pointed. Plantar surface of protarsomeres 1 to 3 and mesotarsomeres 1 to 2 with hair brushes. Metatibiae weakly incurved. Length (width) ratio of metatarsomeres 1 to 4 as follows: 24(8.0): 13(7.5): 12(6.7): 25(6.7).</p>
+                        <p>Aedeagus (<xref ref-type="fig" rid="F4">Figs 36–38</xref>): length 2.24 mm, width 0.71 mm. Apicale 0.69 mm long and 0.48 mm wide, with outer margins slightly sinuate in basal 1/3. Spiculum gastrale as in <xref ref-type="fig" rid="F4">Fig. 39</xref>. Apical margin of abdominal ventrite 8 weakly sinuate (<xref ref-type="fig" rid="F4">Fig. 40</xref>).</p>
+                        <p><bold>Female</bold> (<xref ref-type="fig" rid="F4">Figs 31, 41–43</xref>). Body wider. Antennae (<xref ref-type="fig" rid="F4">Fig. 31</xref>) shorter than in male. Pronotum 1.27–1.35 (1.32 on average, n=4) times as wide as long. Elytra 1.27–1.35 (1.31 on average, n=4) times as long as wide. Less than anterior 1/3 of outer margin of epipleura visible from above. Upper spur of protibiae massive and rounded apically; lower spur missing. Plantar surface of protarsomeres and mesotarsomeres without brush. Ovipositor as in <xref ref-type="fig" rid="F4">Figs 41–42</xref>. Spiculum ventrale as in <xref ref-type="fig" rid="F4">Fig. 43</xref>.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Measurements">
+                        <title>Measurements.</title>
+                        <p>Male body length 11.0–12.2 mm, width 5.2–5.8 mm; female body length 11.4–12.1 mm, width 5.6–6.1 mm.</p>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Figures 30–43.</label>
+                            <caption><p><italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> sp. n. <bold>30</bold> antenna of male <bold>31</bold> antenna of female <bold>32</bold> pronotum of male <bold>33</bold> profemur and protibiae of male <bold>34</bold> mesofemur and mesotibiae of male <bold>35</bold> mtafemur and metatibiae of male <bold>36–37</bold> apicale of aedeagus in dorsal and ventral views <bold>38</bold> aedeagus in lateral view <bold>39</bold> spiculum gastrale <bold>40</bold> abdominal ventrite 8 of male <bold>41–42</bold> ovipositor in dorsal and ventral views <bold>43</bold> spiculum ventrale.</p></caption>
+                            <graphic xlink:href="ZooKeys-309-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F5" position="float" orientation="portrait">
+                            <label>Figures 44–47.</label>
+                            <caption><p><bold>44–45</bold> <italic><tp:taxon-name>Itagonia tibialis</tp:taxon-name></italic> sp. n. <bold>44</bold> male, length 14.2 mm <bold>45</bold> female, length 14.9 mm <bold>46–47</bold> <italic><tp:taxon-name>Itagonia litangensis</tp:taxon-name></italic> sp. n. <bold>46</bold> male, length 11.5 mm <bold>47</bold> female, length 11.8 mm.</p></caption>
+                            <graphic xlink:href="ZooKeys-309-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>I’m grateful to Yun-chun Li (China West Normal University) and Yong-ping Lai (China West Normal University) for their collaboration on the field trip. I think Wolfgang Schawaller and Otto Merkl for their comments which helped to improve my manuscript. This study is supported by the Key Research Project of the Sichuan Province Education Department of China (10ZA023) and Sichuan Key Provincial Discipline (SZD0420).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Egorov</surname> <given-names>LV</given-names></name></person-group> (<year>2007</year>) <article-title>A new synonym in the tribe Blaptini (Coleoptera, Tenebrionidae).</article-title> <source>Entomologicheskoe Obozrenie</source> <volume>86</volume> (<issue>1</issue>): <fpage>171</fpage>-<lpage>175</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fairmaire</surname> <given-names>L</given-names></name></person-group> (<year>1888</year>) <article-title>Diagnoses de quelques coléoptères recueillis à Pékin par M. Provost.</article-title> <source>Bulletin de la Société Entomologique de France</source> <volume>8</volume>: <fpage>200</fpage>-<lpage>201</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liu</surname> <given-names>HY</given-names></name><name name-style="western"><surname>Ren</surname> <given-names>GD</given-names></name></person-group> (<year>2009</year>) <article-title>The Chinese species of the genus <italic>Itagonia</italic> Reitter (Coleoptera, Tenebrionidae, Blaptini), with description of one new species.</article-title> <source>Acta Zootaxonomica Sinica</source> <volume>34</volume> (<issue>3</issue>): <fpage>446</fpage>-<lpage>450</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Medvedev</surname> <given-names>GS</given-names></name></person-group> (<year>1998</year>) <article-title>New species of tenebrionid beetles of the tribe Blaptini (Coleoptera, Tenebrionidae) from Hissaro-Darvaz Mountains and the Plateau of Tibet.</article-title> <source>Entomologicheskoe Obozrenie</source> <volume>77</volume> (<issue>3</issue>): <fpage>555</fpage>-<lpage>586</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Medvedev</surname> <given-names>GS</given-names></name></person-group> (<year>2001</year>) <source>Evolyucia i sistema zhukov-chernotelok triby Blaptini (Coleoptera, Tenebrionidae). [Evolution and system of darkling beetles of the tribe Blaptini (Coleoptera: Tenebrionidae)] – Meetings in memory of N. A. Cholodkovsky, vol. 53.</source> <publisher-name>Russian Entomological Society</publisher-name>, <publisher-loc>Sankt-Petersburg</publisher-loc>, <lpage>332</lpage> pp.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Medvedev</surname> <given-names>GS</given-names></name></person-group> (<year>2004</year>) <article-title>New species of the darkling-beetle tribe Blaptini (Coleoptera, Tenebrionidae) from India, Nepal, and China.</article-title> <source>Entomologicheskoe Obozrenie</source> <volume>83</volume> (<issue>1</issue>): <fpage>163</fpage>-<lpage>189</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Medvedev</surname> <given-names>GS</given-names></name><name name-style="western"><surname>Merkl</surname> <given-names>O</given-names></name></person-group> (<year>2002</year>) <source><italic>Viettagona vietnamensis</italic> gen. et sp. n. from Vietnam (Coleoptera, Tenebrionidae: Blaptini). Acta Zoologica Academiae Scientiarum Hungaricae 48(4): 317–332.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Reinig</surname> <given-names>WF</given-names></name></person-group> (<year>1931</year>) <article-title>Entomologische Ergebnisse der Deutsch-Russischen Alai-Pamir-Expedition 1928 (II). 5. Coleoptera II. Tenebrionidae.</article-title> <source>Mitteilungen aus dem Zoologischen Museum Berlin</source> <volume>16</volume>: <fpage>865</fpage>-<lpage>912</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Reitter</surname> <given-names>E</given-names></name></person-group> (<year>1887</year>) <article-title>Insecta in itinere Cl. N. Przewalskii in Asia Centrali novissime lecta. IX. Tenebrionidae.</article-title> <source>Horae Societatis Entomologicae Rossicae</source> <volume>21</volume>: <fpage>355</fpage>-<lpage>389</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Reitter</surname> <given-names>E</given-names></name></person-group> (<year>1889</year>) <article-title>Insecta, a cl. G. N. Potanin in China et in Mongolia novissime lecta. XIII. Tenebrionidae.</article-title> <source>Horae Societatis Entomologicae Rossicae</source> <volume>23</volume>: <fpage>678</fpage>-<lpage>710</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schuster</surname> <given-names>A</given-names></name></person-group> (<year>1914</year>) <article-title><italic>Itagonia ganglbaueri</italic> nov. spec. (Col., Tenebr.).</article-title> <source>Entomologische Mitteilungen</source> <volume>3</volume>: <fpage>58</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schuster</surname> <given-names>A</given-names></name></person-group> (<year>1923</year>) <article-title>Neue paläarktische Tenebrioniden (Coleopt.).</article-title> <source>Wiener Entomologische Zeitung</source> <volume>40</volume>: <fpage>156</fpage>-<lpage>162</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shi</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Ren</surname> <given-names>GD</given-names></name></person-group> (<year>2007a</year>) <article-title>Two new species of <italic>Itagonia</italic> Reitter (Coleoptera, Tenebrionidae: Blaptini) from Tibet, China.</article-title> <source>Zootaxa</source> <volume>1483</volume>: <fpage>33</fpage>-<lpage>39</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shi</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Ren</surname> <given-names>GD</given-names></name></person-group> (<year>2007b</year>) <source>A new species of <italic>Itagonia</italic> Reitter, 1887 (Coleptera: Tenebrionidae) from Xizang. Journal of China West Normal University (Natural Sciences) 28(3): 176–178.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shi</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Yuan</surname> <given-names>SB</given-names></name><name name-style="western"><surname>Wu</surname> <given-names>CL</given-names></name></person-group> (<year>2010</year>) <article-title>Three new species of <italic>Itagonia</italic> Reitter, 1887 (Coleoptera, Tenebrionidae: Blaptini) from Sichuan, China.</article-title> <source>Zootaxa</source> <volume>2573</volume>: <fpage>57</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,602 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+	
+    <front>
+
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.56.522</article-id>
+            <title-group>
+                <article-title>
+                    Revision of the genus Phloeoditica Schedl - with description of two new genera and two new species in Phloeosinini (Coleoptera, Curculionidae, Scolytinae)
+                </article-title>
+            </title-group>
+	
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Jordal</surname>
+                        <given-names>Bjarte H.</given-names>
+                    </name>
+                    <aff>
+                    	Natural History Collections, Bergen Museum, University of Bergen, NO-5007 Bergen, Norway
+                    </aff>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:62B587DB-09CB-450E-B1E1-3708889ECBAE</uri>			           				         	
+                </contrib>             
+            </contrib-group>
+
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author:  Bjarte H. Jordal (<email xlink:type="simple">bjarte.jordal@zmb.uib.no</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: S.M. Smith</p>
+                </fn>
+            </author-notes>
+
+            <pub-date pub-type="epub">
+                <day>17</day>
+                <month>9</month>
+                <year>2010</year>
+            </pub-date>
+            <issue>56</issue>
+            <fpage>141</fpage>
+            <lpage>156</lpage>
+
+            <history>
+                <date date-type="received">
+                    <day>11</day>
+                    <month>8</month>
+                    <year>2009</year>
+                </date>
+                <date date-type="accepted">
+                    <day>25</day>
+                    <month>12</month>
+                    <year>2009</year>
+                </date>
+            </history>
+
+            <permissions>
+                <copyright-statement>Bjarte H. Jordal</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:2D762F2D-40A3-449A-942D-19F20DA0A614</self-uri>
+            
+            <abstract>
+                <label>Abstract</label>
+                <p>The genus <tp:taxon-name>Phloeoditica</tp:taxon-name> Schedl currently includes four species from Southeast Asia. These species vary substantially in important morphological characters and indicate the existence of multiple genera for these species. A revision based on morphological and in part molecular data resulted in the transfer of <tp:taxon-name>Phloeoditica setosa</tp:taxon-name> to <tp:taxon-name>Pseudoxylechinus</tp:taxon-name> the erection of a new genus <tp:taxon-name>Asiophilus</tp:taxon-name> for <tp:taxon-name>Phloeoditica phloeosinoides</tp:taxon-name> and a new species <tp:taxon-name>Asiophilus macropunctatus</tp:taxon-name> from Vietnam. Another new genus with affinities to <tp:taxon-name>Phloeoditica</tp:taxon-name> is described based on the new species <tp:taxon-name>Microditica uniseriata</tp:taxon-name> from Thailand. The new genera are included in a revised key to the tribe <tp:taxon-name>Phloeosinini</tp:taxon-name>.</p>
+            </abstract>
+	
+            <kwd-group>       
+                <label>Keywords</label>      	
+                <kwd>Phloeoditica</kwd>
+                <kwd>Pseudoxylechinus</kwd>
+                <kwd>Asiophilus</kwd>
+                <kwd>Microditica</kwd>
+                <kwd>Phloeosinini</kwd>
+                <kwd>South-East Asia</kwd>            	          	           	
+            </kwd-group>
+
+        </article-meta>
+    </front>
+
+    
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p><xref ref-type="bibr" rid="B9">Schedl (1962</xref>, <xref ref-type="bibr" rid="B10">1963</xref>) described the genus <tp:taxon-name>Phloeoditica</tp:taxon-name> based on the species <tp:taxon-name>Kissophagus curtus</tp:taxon-name> <xref ref-type="bibr" rid="B3">Eggers (1925)</xref>. In the same publication he also transferred <tp:taxon-name>Kissophagus setosus</tp:taxon-name> <xref ref-type="bibr" rid="B4">Eggers (1939)</xref> to the same genus and described two new species, <tp:taxon-name>Phloeoditica elegans</tp:taxon-name> and <tp:taxon-name>Phloeoditica obscura</tp:taxon-name>. <!--PageBreak--><xref ref-type="bibr" rid="B2">Browne (1966)</xref> added a fifth species, <tp:taxon-name>Phloeoditica phloeosinoides</tp:taxon-name>, which he with some hesitation placed in <tp:taxon-name>Phloeoditica</tp:taxon-name>. <tp:taxon-name>Phloeoditica obscura</tp:taxon-name> Schedl was later transferred to <tp:taxon-name>Pseudodiamerus</tp:taxon-name> by <xref ref-type="bibr" rid="B14">Wood (1988)</xref>. The doubts expressed by Browne and the uncritical inclusion of <tp:taxon-name>Kissophagus setosus</tp:taxon-name> and <tp:taxon-name>Phloeoditica obscura</tp:taxon-name> in <tp:taxon-name>Phloeoditica</tp:taxon-name> by Schedl indicate a heterogeneous taxonomic history and a current uncertainty in the assembly of <tp:taxon-name>Phloeoditica</tp:taxon-name> species. Recent collections from Vietnam and Thailand have furthermore revealed two additional undescribed species with affiliations to some of the species currently included in the genus. A revision is therefore needed.</p>
+        </sec>
+        <sec sec-type="Material and methods"><title>Material and methods</title>
+            <p>Measurements follow the protocol by <xref ref-type="bibr" rid="B11">Wood (1982)</xref> and <xref ref-type="bibr" rid="B5">Jordal (1998)</xref>. Four of the revised species were represented by only a single specimen in a condition which prevented genitalia and proventriculus preparations. Long series were available for the type species of <tp:taxon-name>Phloeoditica</tp:taxon-name> and one undescribed species in a closely related genus, which allowed dissections and DNA extraction. PCR amplification followed primers and protocols given in <xref ref-type="bibr" rid="B6">Jordal and Hewitt (2004)</xref>.</p>
+            <p>Type material and other material are deposited in collections indicated by the following abbreviations:</p>
+            <p>CMNO	Canadian Museum of Nature, Ottawa</p>
+            <p>NHCB	Natural History Collections, Bergen Museum, Bergen</p>
+            <p>NHMW	Natural History Museum, Vienna</p>
+            <p>NHRS	National Museum of Natural History (Riksmuseet), Stockholm</p>
+            <p>ZMUC	Zoological Museum, Copenhagen</p>
+        </sec>
+        <sec sec-type="Results and discussion"><title>Results and discussion</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Phloeoditica</tp:taxon-name-part>
+                    </tp:taxon-name> 
+                       <tp:taxon-authority>Schedl</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                  			<tp:nomenclature-citation><tp:taxon-name>Phloeoditica</tp:taxon-name><comment> <xref ref-type="bibr" rid="B10">Schedl 1963: 260</xref></comment></tp:nomenclature-citation>
+												<tp:nomenclature-citation><tp:taxon-name>Phloeoditica</tp:taxon-name><comment>: <xref ref-type="bibr" rid="B9">Schedl 1962: 189</xref> (<xref ref-type="bibr" rid="B1">Alonso-Zarazaga and Lyal 2009</xref>: unavailable name)</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species"><title>Type species:</title>
+                    <p><tp:taxon-name>Kissophagus curtus</tp:taxon-name> Eggers</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Typical phloeosinine having a 5-segmented funicle and flattened club with oblique sutures and broadly separated pro- and mesocoxae. Readily recognised by a unique pair of long denticles at the outer apical margin of protibiae, and an unusually long and laterally curved inner uncus.<!--PageBreak--></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Size range 1.7–2.5 mm. Frons convex to moderately flattened in both sexes; antennal funicle 5-segmented, large club with two oblique sutures, the first marked by a septum, the second suture only marked by setae. Pronotum smooth, densely punctured, with short bristle-like setae. Scutellum not visible from above. Elytra with interstrial ground vestiture consisting of hair-like or scale-like setae; mesal grove immediately behind scutellum without interlocking nodules and cavities. Metepisternum clothed by plumose scales; sclerolepidia present, small and hair-like. Postnotum fused to metanotum; scutoscutellar suture parallel to scutellar groove for less than one-third of its length, then gradually curved laterally. Pleural suture nearly straight. Procoxae and metacoxae broadly separated. Outer apical angle of protibiae with a pair of projecting long socketed denticles, mostly embedded in cuticle; inner mucro extended into a large uncus curved towards outer margin.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments:</title>
+                    <p>The name <tp:taxon-name>Phloeoditica</tp:taxon-name> is feminine as documented by <xref ref-type="bibr" rid="B1">Alonso-Zarazaga and Lyal (2009)</xref>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Taxa included"><title>Taxa included:</title>
+                    <p><tp:taxon-name>Phloeoditica curta</tp:taxon-name> (Eggers, 1925), <tp:taxon-name>Phloeoditica elegans</tp:taxon-name> <xref ref-type="bibr" rid="B10">Schedl (1963)</xref>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Taxa excluded"><title>Taxa excluded:</title>
+                    <p><tp:taxon-name>Phloeoditica phloeosinoides</tp:taxon-name> <xref ref-type="bibr" rid="B2">Browne (1966)</xref> to <tp:taxon-name>Asiophilus</tp:taxon-name>, <tp:taxon-name>Phloeoditica setosa</tp:taxon-name> (Eggers, 1939) to <tp:taxon-name>Pseudoxylechinus</tp:taxon-name>, <tp:taxon-name>Pseudoxylechinus obscura</tp:taxon-name> Schedl, 1963, to <tp:taxon-name>Pseudodiamerus</tp:taxon-name> (by <xref ref-type="bibr" rid="B14">Wood 1988</xref>).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Phloeoditica</tp:taxon-name-part> 
+                    	<tp:taxon-name-part taxon-name-part-type="species">curta</tp:taxon-name-part>
+                    </tp:taxon-name>
+                      <tp:taxon-authority>(Eggers, 1925)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1a</xref>
+                    <xref ref-type="fig" rid="F4">4a</xref>
+                    <xref ref-type="fig" rid="F5">5a</xref>
+                    <xref ref-type="fig" rid="F6">6a</xref>
+                    <xref ref-type="fig" rid="F7">7a</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Kissophagus curtus</tp:taxon-name><comment> <xref ref-type="bibr" rid="B3">Eggers 1925: 155</xref></comment></tp:nomenclature-citation>
+												<tp:nomenclature-citation><tp:taxon-name>Phloeoditica curtus</tp:taxon-name><comment> (Eggers); <xref ref-type="bibr" rid="B9">Schedl 1962</xref>: 189</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material examined"><title>Type material examined.</title>
+                    <p>Lectotype: Burma with the following label data - “Kissophagus curtus n.sp. cotype, Eggers det 1924 / Mus. Pragense, Tenasserim, coll. Helfer / Cotype/ Dauerpräparat nr 2696 Fuehler, coll. Schedl” (NHMW) - current designation. Other material examined: Bangladesh, Khulna, Sunderbaans, Katka, ex <tp:taxon-name>Pongamia pinnata</tp:taxon-name>, 27 Feb. 1997, L. R. Kirkendall, leg (6 specimens, NHCB); Vietnam, with the following label: “Hoa-Binh (Tonkin) (A. de Cooman). Coll. J. Clermont” (1 specimen, NHMW). The locality in Hoa-Binh is located west of Hanoi in Vietnam, and not the island of Tonkin as incorrectly inferred by <xref ref-type="bibr" rid="B15">Wood and Bright (1992)</xref>. Tonkin was the old colonial name of Vietnam.</p>
+												
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p>Dorsal and frontal view of <tp:taxon-name>Phloeoditica curta</tp:taxon-name> (A), <tp:taxon-name>Phloeoditica elegans</tp:taxon-name> (B), <tp:taxon-name>Pseudoxylechinus setosus</tp:taxon-name> (C, D).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis:</title>
+                    <p>Interstriae broad and strongly elevated, with about three irregular rows of rounded scales and one median row of longer bristles separated on average by their length. Apex of metatibiae truncated and slightly excavated, surrounded by 4–5 proximally pointing small spines and a larger inner mucro. It is readily distinguished from <tp:taxon-name>Phloeoditica elegans</tp:taxon-name> by the rounded scales on the interstriae. DNA sequences in Genbank: COI, GQ470889; EF1a, AF308402.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Length 2.1–2.5 mm, 1.9–2.1 times longer than wide. Colour dark brown, with yellow setae. Head. Frons slightly convex, transversely impressed above epistoma, a weaker and more narrow impressed area in central area, sometimes with a <!--PageBreak-->narrow and shallow median longitudinal groove towards upper level of eyes. Frons finely pubescent, setae coarse and slightly longer in impressed area, a few longer setae along epistomal margin. Eyes three times longer (dorso-ventrally) than wide, separated above by 2.2 times their width. Antennal club large, one oblique suture indicated by weak septum and a second false suture indicated by setae. Funiculus 5-segmented, scapus about three quarter length of funiculus and club combined. Pronotum 0.85 times as long as wide, constricted on anterior fourth, anterior margin and notum smooth, shiny, punctures separated by half their diameter; short bristle-like setae from each puncture. Elytra 1.4–1.5 times longer than wide, 1.9–2.0 times longer than pronotum, sides parallel on anterior two-thirds, apex subacuminate due to elevated interstriae 1 and 3. Base of elytra moderately procurved and elevated by a complete row of crenulations. Striae deeply impressed, punctures large, subquadrate, separated by half the length of a puncture and formed by transverse ridges. Interstriae as wide as striae, strongly elevated, interstriae 2 and 4 less elevated on declivity, punctures obscure, small granules of variable size mainly on declivity. Interstriae 10 not elevated, reaches level of metacoxae. Vestiture consisting of 2–3 irregular interstrial rows of densely placed rounded scales and one central row of longer bristles, each separated on average by their length. Hind wing with weakly pigmented veins, stigmal patch without apical tubercles or setae, six short setae along costal margin of stigma, cluster of five longer and softer costal setae at junction between R and<!--PageBreak--> SC-C. Sclerolepidia present along entire margin of metepisternum, small and hair-like; metepisternum with densely placed plumose scales. Legs. Procoxae separated by two-thirds the width of one coxa. Precoxal ridges very short, sharp. Mesocoxae separated by the width of one procoxa, mesocoxal process slightly proclinate. Metacoxae broadly separated. Protibiae armed by a long inner uncus curved towards outer margin and three socketed teeth embedded in cuticle along the outer lateral margin, the lower two close together and of similar size (type) or the inner tooth shorter (Bangladesh series). Mesotibiae armed by 4 lateral, socketed teeth. Metatibiae armed by 2 small lateral socketed teeth close to apex and 4–5 additional small apical spines along the outer and inner apical margin forming a semi-closed corbel-like structure. Proventriculus with apical plate about one-third as long as proventriculus, without median suture, with about 7 transverse and blunt ridges; femoral teeth small, irregularly placed; closing teeth few, long and soft; mastigatory brush rather weakly developed. Aedeagus about 5 times longer than wide, narrowly rounded at apex; apophyses about 2.5 times longer than aedeagal body (not clearly demarcated); a pair of short and narrow terminal plates present at apex; long inflated internal sac reaching half way between the apophyses, lightly sclerotised at apex. Tegmen a closed simple ring. Spiculum gastrale robust and L-shaped, with a tiny knob at posterior angle, about 0.8 as long as aedeagus. Female rectum with loop.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p>The type locality in Tenasserim is most likely in the province Tanintharyi of Myanmar (Burma). A designation of a lectotype is necessary because syntypes are mixed with specimens from different localities. The series examined from Bangladesh differ marginally from the type series collected in Myanmar and Vietnam by the smaller inner tooth at the protibial apex.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Phloeoditica</tp:taxon-name-part> 
+                    	<tp:taxon-name-part taxon-name-part-type="species">elegans</tp:taxon-name-part> 
+                    </tp:taxon-name>
+                      <tp:taxon-authority>Schedl, 1962</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1b</xref>
+                    <xref ref-type="fig" rid="F4">4b</xref>
+                    <xref ref-type="fig" rid="F5">5b</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Phloeoditica elegans</tp:taxon-name><comment> <xref ref-type="bibr" rid="B9">Schedl 1962: 190</xref></comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material examined"><title>Type material examined.</title>
+                    <p>2 paratypes: Vietnam with the following label data - “Tonkin, reg. de Hoa-Binh, A. de Cooman / Dauerpräparat nr 2081 Fuehler, coll. Schedl” and “Museum Paris, Tonkin, reg de Hoa-Binh, A. de Cooman 1929 / Dauerpräparat nr 2356 Fuehler, coll. Schedl” (NHMW).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis:</title>
+                    <p>Distinguished from <tp:taxon-name>Phloeoditica curta</tp:taxon-name> by the smaller size and the less elevated interstriae having a single row of erect hair-like bristles on interstria 1 and irregular rows of hair-like bristles on the remaining interstriae. The first suture of the antennal club has a more distinct septum visible without preparation.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Length 1.7–2.0 mm, 2.0–2.2 times longer than wide. Colour dark brown, with yellow setae. Head. Frons convex, transversely impressed on lower half, especially just above epistoma. Short bristle-like setae evenly distributed from upper level of eyes to epistoma. Eyes three times longer (dorso-ventrally) than wide, separated above by 2.2 times their width. Antennal club large, one oblique suture indicated by a distinct <!--PageBreak-->septum and a second false suture indicated by setae only. Funiculus 5-segmented, scapus about three quarter length of funiculus and club combined. Pronotum 0.9 times as long as wide, weakly constricted on anterior third, anterior margin and notum smooth, shiny, punctures deep, subconfluent; short spatula-shaped setae from each puncture. Elytra 1.5 times longer than wide, 1.9 times longer than pronotum, sides slightly diverging posteriorly, rounded behind. Base of elytra moderately procurved and elevated by a complete row of crenulations. Striae slightly impressed, punctures large, deep, transversely oval, separated by half the length of a puncture. Interstriae slightly wider than striae, slightly elevated, punctures at base of erect setae obscure. Interstriae 10 sharply elevated, reaches level of metacoxae. Vestiture consisting of 2–3 irregular interstrial rows of recumbent bristle-like setae slightly longer than distance between them and one central row of longer erect bristles each separated on average by 2–3 times their length. Sclerolepidia present along entire margin of metepisternum, small and hair-like; metepisternum with densely placed plumose scales. Legs. Procoxae separated by one-third the width of one coxa. Precoxal ridges very short, sharp. Mesocoxae separated by the width of one procoxa, mesocoxal process proclinate. Protibiae armed by a long inner uncus curved laterally and three socketed teeth embedded in cuticle along the outer lateral margin, the lower two of similar size and closer together, much larger. Mesotibiae armed by 4 lateral, socketed teeth. Metatibiae armed by 3 lateral socketed teeth close to apex.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p>Types were mounted on cardboard which prevented examination of posterior ventral body parts. Types were not dissected for internal characters.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Pseudoxylechinus</tp:taxon-name-part> 
+                    	<tp:taxon-name-part taxon-name-part-type="species">setosus</tp:taxon-name-part>
+                    </tp:taxon-name>
+                      <tp:taxon-authority>(Eggers, 1939)</tp:taxon-authority>
+                      <tp:taxon-status>comb. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1c, d</xref>
+                    <xref ref-type="fig" rid="F4">4c</xref>
+                    <tp:nomenclature-citation-list>
+                  			<tp:nomenclature-citation><tp:taxon-name>Kissophagus setosus</tp:taxon-name><comment> <xref ref-type="bibr" rid="B4">Eggers 1939: 3</xref></comment></tp:nomenclature-citation>
+												<tp:nomenclature-citation><tp:taxon-name>Phloeoditica setosa</tp:taxon-name><comment> (Eggers); <xref ref-type="bibr" rid="B9">Schedl 1962: 188</xref></comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material examined"><title>Type material examined.</title>
+                    <p>Holotype: Burma with the following label data - “N. E. Burma, Kambaiti, 7000ft., 1.5.1934, R. Malaise/ Typus [red paper]/ Kissophagus setosus n. sp. Type Eggers det 1938 / 301 65”(NHRS). Other material examined: 1 specimen with the same data as holotype, status of specimen not specified (NHMW).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Distinguished from all genera in <tp:taxon-name>Phloeosinini</tp:taxon-name> by the strongly concave frons and further from <tp:taxon-name>Phloeoditica</tp:taxon-name> and <tp:taxon-name>Microditica</tp:taxon-name> genus nov. by the visible large and dome shaped scutellum, and by the gradually rounded lateral margin of the protibia having socketed teeth. It is distinguished from other <tp:taxon-name>Pseudoxylechinus</tp:taxon-name> species except <tp:taxon-name>Pseudoxylechinus indicus</tp:taxon-name> Wood by the strongly concave frons and hair-like ground vestiture, and further from <tp:taxon-name>Pseudoxylechinus indicus</tp:taxon-name> by the more obtusely rounded lower lateral margin of the impressed frons, by the broader pronotum, and by the broader interstriae.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Length 2.7 mm, 2.1 times longer than wide. Colour dark brown with yellow setae. Head. Frons deeply concave between eyes from epistoma to upper level of eyes, upper half of impressed area reticulate with minute granules, shi<!--PageBreak-->ning below. Vestiture consisting of moderately long coarse setae over impressed area, slightly longer setae along lateral margin, sparse, minute setae above eyes. Eyes three times longer (dorso-ventrally) than wide, separated above by 3 times their width. Antennal club flattened, with one septate suture; funiculus possibly 6-segmented. Pronotum 0.8 times as long as wide, constricted on anterior third, anterior margin and notum lightly rugose, reticulate, punctures shallow, confluent; vestiture consisting of dense hair-like setae interspersed by a smaller number of longer and coarser bristles. Elytra 1.5 times longer than wide, 2.1 times longer than pronotum, sides subparallel on anterior two-thirds, rounded behind. Base of elytra procurved and elevated by a complete row of crenulations. Striae weakly impressed, punctures small, shallow, separated on average by less than their diameter. Interstriae three times wider than striae, weakly elevated, feebly granulated, punctures obscure. Interstria 10 not elevated, short, reaching beginning of metepisternum. Vestiture consisting of 4–5 irregular interstrial rows of hair-like setae (ground vestiture) and one central row of longer bristles each separated on average by their length. Sclerolepidia present along entire margin of metepisternum as small plumose scales; metepisternum with densely placed plumose scales. Legs. Procoxae separated by about half the width of one coxa (covered in glue). Precoxal ridges very short, sharp. Protibiae armed by six socketed teeth along the lateral and apical margin, the uppermost teeth half way and the remaining five close to the apical margin, inner uncus distinctly curved caudally. Mesotibiae armed by 4 lateral, socketed teeth. Metatibiae armed by 3 small lateral socketed teeth close to apex.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p>The holotype has lost both antennae and only a badly preserved microscope slide of the non-type specimen was available, indicating most likely a 6-segmented funicle. However, the similarity in other characters to the species of <tp:taxon-name>Pseudoxylechinus</tp:taxon-name> <xref ref-type="bibr" rid="B13">Wood and Huang (1986)</xref> is striking and the species undoubtedly belongs here. Some authors have noted that <tp:taxon-name>Pseudoxylechinus</tp:taxon-name> may be a synonym of the recently resurrected genus <tp:taxon-name>Longulus</tp:taxon-name> Krivolutskaya, but the two genera remained separate in the absence of sufficient type material (<xref ref-type="bibr" rid="B8">Mandelshtam et al. 2007</xref>). Most species of <tp:taxon-name>Pseudoxylechinus</tp:taxon-name> are nevertheless distinguished from <tp:taxon-name>Longulus</tp:taxon-name> by having a distinctly impressed lower male frons, particularly so in <tp:taxon-name>Pseudoxylechinus indicus</tp:taxon-name> and <tp:taxon-name>Pseudoxylechinus setosus</tp:taxon-name> (see <xref ref-type="bibr" rid="B12">Wood 1986</xref>).</p>
+                    <p>The distribution of the genus ranges from Japan in the east, via Yunnan and Tibet to Darjeeling in the west (<xref ref-type="bibr" rid="B12">Wood 1986</xref>). Consequently <tp:taxon-name>Pseudoxylechinus setosus</tp:taxon-name> fits well within this geographical pattern.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Asiophilus</tp:taxon-name-part> 
+                    	<object-id xlink:type="simple">urn:lsid:zoobank.org:act:936D10AE-DBA2-4ABB-9021-442FB0904F76</object-id>
+                    </tp:taxon-name>
+                      <tp:taxon-authority>Jordal</tp:taxon-authority>
+                      <tp:taxon-status>gen. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species"><title>Type species:</title>
+                    <p><tp:taxon-name>Phloeoditica phloeosinoides</tp:taxon-name> Browne, 1966, by current designation.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis:</title>
+                    <p>A typical phloeosinine genus with 5-segmented funicle, flattened club with two oblique sutures and widely separated pro- and mesocoxae. It is readily distin<!--PageBreak-->guished from <tp:taxon-name>Phloeosinus</tp:taxon-name> by the entire eye and less produced outer apical margin of the protibiae, and by the ascending venter.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Body length 1.5–1.65 mm. Frons convex; eyes entire, distance between eyes 2.7–2.9 their width; funicle 5-segmented, antennal club large and moderately flattened, with two oblique sutures. Pronotum and elytra roughly punctured, with a pair of medial closely set erect setae. Scutellum large, flat, slightly sunken with a small depression in elytra around scutellum; elytral base procurved, raised with a single complete row of crenulations. Metepisternal setae hair-like or bifid. All coxae widely separated; protibiae with 5–6 lateral and apical socketed teeth. Venter ascending to meet elytral apex.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>From the Greek word philos (having affinity for) and Asia, referring to the type localities in Vietnam and Philippines.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p><xref ref-type="bibr" rid="B2">Browne (1966)</xref> placed <tp:taxon-name>Phloeoditica phloeosinoides</tp:taxon-name> in <tp:taxon-name>Phloeoditica</tp:taxon-name> with much hesitation and referred to several characters that deviate from <tp:taxon-name>Phloeoditica curta</tp:taxon-name> and <tp:taxon-name>Phloeoditica elegans</tp:taxon-name>, e.g. the larger and dorsally visible scutellum, the scant vestiture, and two real sutures in the antennal club. Species of this genus bear some superficial resemblance to the hylesinine genus <tp:taxon-name>Ficicis</tp:taxon-name>, but is readily distinguished by the 5-segmented funicle and the lack of pronotal asperities. Taxa included: <tp:taxon-name>Asiophilus phloeosinoides</tp:taxon-name> (Browne) and <tp:taxon-name>Asiophilus macropunctatus</tp:taxon-name> Jordal, sp. n.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Asiophilus</tp:taxon-name-part> 
+                    	<tp:taxon-name-part taxon-name-part-type="species">phloeosinoides</tp:taxon-name-part> 
+                    </tp:taxon-name>
+                      <tp:taxon-authority>(Browne, 1966)</tp:taxon-authority>
+                      <tp:taxon-status>comb. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Figs 2a–c</xref>
+                    <xref ref-type="fig" rid="F4">4d</xref>
+                    <xref ref-type="fig" rid="F5">5c</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Asiophilus phloeosinoides</tp:taxon-name><comment> <xref ref-type="bibr" rid="B2">Browne 1966: 243</xref>.</comment>
+                        </tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material examined"><title>Type material examined.</title>
+                    <p>Holotype: “Philippines, Tawi Tawi, Tarawakan, north of Batu Batu, 21. Oct 1961, Noona Dan Exp. 61–62 / Caught by mercury-light 18.30–00.30”. The holotype is pinned on a minuten-pin.</p>
+
+												
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>Dorsal, sinistral and front view of <tp:taxon-name>Asiophilus phloeosinoides</tp:taxon-name> (A–C) and <tp:taxon-name>Asiophilus macropunctatus</tp:taxon-name> (D–F).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Distinguished from <tp:taxon-name>Asiophilus macropunctatus</tp:taxon-name> by the more sparsely punctured frons, by the less asperate interstriae, by the scant elytral vestiture, and by the protibiae bearing 5 and not 6 lateral socketed teeth.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Length 1.5 mm, 2.0 times longer than wide. Colour dark reddish-brown. Head. Frons weakly convex above to flattened below, transversely impressed just above epistoma; punctures few, small and shallow. Vestiture consisting of 5–6 setae along epistomal margin, and almost invisible fine setae above. Eyes three times longer (dorso-ventrally) than wide, separated above by 2.7 times their width. Antennal club large, moderately flattened and oval, with two regularly spaced oblique sutures, finely pubescent. Funiculus 5-segmented, scapus about 0.8 times as long as the length of funiculus and club combined. Pronotum 0.85 times as long as wide, distinctly constricted on anterior third, notum roughly punctured, weakly granulated along anterior-lateral areas, punctures irregularly separated by about half their diameter; vestiture consisting of scant minute setae in punctures and a pair of medially placed longer<!--PageBreak--> erect setae. Elytra 1.3 times longer than wide, 1.7 times longer than pronotum, sides subparallel on anterior half, apex rounded. Base of elytra procurved and elevated by a complete row of crenulations. Striae impressed, punctures variably large, deep, subconfluent. Interstriae as wide as striae, slightly elevated, rugose, shining, with punctures about half the size of strial punctures and more widely spaced. Interstriae 10 reaching level of metacoxae. Vestiture consisting of interstrial rows of tiny recumbent setae. Sclerolepidia present along entire margin of metepisternum, very small; metepisternum almost glabrous, with scant minute setae. Legs. Procoxae separated by width of one coxa. Precoxal ridges short, distinct. Mesocoxae separated by slightly more than the width of procoxa, mesocoxal process vertical. Protibiae armed by 5 socketed teeth along the lateral and apical margin and one lightly curved inner mucro. Mesotibiae armed by 5 lateral, socketed teeth. Metatibiae armed by 4 lateral socketed teeth on apical half.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p>This species is only known from the unique type specimen. The type locality Tawi Tawi is a small island just east of Sabah.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Asiophilus</tp:taxon-name-part> 
+                    	<tp:taxon-name-part taxon-name-part-type="species">macropunctatus</tp:taxon-name-part>
+                    	<object-id xlink:type="simple">urn:lsid:zoobank.org:act:C7E42DF9-B578-4296-ABC1-4C0B1E293DA9</object-id>
+                    </tp:taxon-name>
+                      <tp:taxon-authority>Jordal</tp:taxon-authority>
+                      <tp:taxon-status>sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Figs 2d–f</xref>
+                    <xref ref-type="fig" rid="F4">4e</xref>
+                    <xref ref-type="fig" rid="F5">5d</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype: “Vietnam: Lao Cai, ca. 12km along road from Sapa to Lai Chau, 1950m, 22°20'58"N; 103°46'15"E, 1–12.V.1999, B. Hubley, pan traps (yellow), margin of 6m wide stream, edge of bamboo/2° forest”.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Distinguished from <tp:taxon-name>Asiophilus phloeosinoides</tp:taxon-name> by the more coarsely punctured frons and pronotum, by the elytral vestiture consisting of bristle-like interstrial setae, and by the protibiae bearing 6 lateral socketed teeth.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Length 1.65 mm, 2.0 times longer than wide. Colour dark brown or black. Head. Frons weakly convex, transversely impressed just above epistoma, punctures large, nearly confluent. Scant minute setae in punctures, about 12 longer setae along the epistomal margin. Eyes three times longer (dorso-ventrally) than wide, separated above by 2.9 times their width. Antennal club large, moderately flattened and oval, with two regularly spaced oblique sutures, finely pubescent. Funiculus 5-segmented, scapus about 0.8 times as long as the length of funiculus and club combined. Pronotum 0.8 times as long as wide, distinctly constricted on anterior third, notum roughly and densely punctured, punctures subconfluent; vestiture consisting of scant minute setae in punctures and a pair of median longer erect setae. Elytra 1.3 times longer than wide, 1.9 times longer than pronotum, sides subparallel on anterior two-thirds, apex rounded. Base of elytra strongly procurved and elevated by a complete row of crenulations. Striae impressed, punctures large, deep, separated by about one-quarter their diameter. Interstriae as wide as striae, slightly elevated, rugose, shining, with irregularly sized and more widely spaced punctures about half the size of strial punctures. Interstriae 8 and 9 on posterior half more elevated and sharply <!--PageBreak-->crenulated; interstriae 10 reaching level of metacoxae. Vestiture on disk consisting of interstrial rows of recumbent hair-like setae separated by less than their length, strial setae minute; on declivity interstrial setae in two confused rows. Sclerolepidia present along entire margin of metepisternum, very small; metepisternum with scant bifid setae, densely clothed closer to endosternum. Legs. Procoxae separated by width of one coxa. Precoxal ridges short, distinct. Mesocoxae separated by slightly more than the width of procoxa, mesocoxal process vertical. Protibiae armed by 6 socketed teeth along the lateral and apical margin and one lightly curved inner mucro. Mesotibiae armed by 6 lateral, socketed teeth. Metatibiae armed by 5 lateral socketed teeth on apical half.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p>Only known by the unique type specimen from high altitude in Northern Vietnam.<!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Microditica</tp:taxon-name-part>
+                    	<object-id xlink:type="simple">urn:lsid:zoobank.org:act:284A0489-1042-4083-AB27-3BF7E41B399F</object-id>
+                    </tp:taxon-name>
+                      <tp:taxon-authority>Jordal</tp:taxon-authority>
+                      <tp:taxon-status>gen. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species"><title>Type species:</title>
+                    <p><tp:taxon-name>Microditica uniseriata</tp:taxon-name> Jordal, sp. n., monotypic.</p>
+											
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Dorsal and sinistral view of <tp:taxon-name>Microditica uniseriatus</tp:taxon-name>.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Typical phloeosinine genus with a 5-segmented funicle, barely visible scutellum and the broadly separated pro- and mesocoxae. The genus is diagnosed by the unique long and laterally curved inner uncus (mucro) of the protibiae, by the deeply grooved antennal club, and by the short crenulations at the elytral base reaching only to interstriae 5.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p>Frons convex and nearly glabrous in both sexes; eyes entire; funicle 5-segmented, antennal club large, with deeply grooved sutures. Pronotum smooth and shiny. Scutellum very small, flush with elytra and mainly visible on anterior slope. Elytral base nearly straight, with a single row of crenulations from scutellum to interstriae 5. Metepisternal setae scale-like; sclerolepidia distinct, small. Protibiae with the inner uncus very large and curved laterally, lateral teeth apparently unsocketed. Hind wings with four setae along costal margin at stigmal patch, hind margin from base to tip with long setae. All coxae widely separated, mesosternal process vertical. Postnotum fused to metanotum, scutoscutellar suture parallel to sutural groove for two-third of its length, then curves relatively abruptly laterally. Proventriculus simple, without apical sutural teeth or posterior mastigatory brush. Male aedeagus weakly sclerotised, spiculum gastrale weakly forked and tegmen a simple ring.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The Greek name micro (small) refers to the small size of a bark boring beetle; ditica is a Latinised form of the Greek feminine adjective dytiké (that likes to penetrate) (<xref ref-type="bibr" rid="B1">Alonso-Zarazaga and Lyal 2009</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments:</title>
+                    <p>This genus shares most characteristics with <tp:taxon-name>Phloeoditica</tp:taxon-name> but is readily distinguished by the differently shaped protibia, the incomplete row of crenulations at the base of elytra, by the lack of ground vestiture, by the number and position of setae on the front and hind margin of the hind wings, and by the scutoscutellar suture following the scutellar grove much longer posteriad. The long setae along the hind margin are typical for small sized beetles (<xref ref-type="bibr" rid="B7">Kuschel et al. 2000</xref>) and may not be of significant <!--PageBreak-->phylogenetic value. Phylogenetic analyses of combined COI and EF-1α nucleotide data show that <tp:taxon-name>Microditica</tp:taxon-name> and <tp:taxon-name>Phloeoditica</tp:taxon-name> are quite unrelated and do not necessarily form a monophyletic group (unpublished data). This taxon share a few characters with other tribes such as <tp:taxon-name>Phloeotribini</tp:taxon-name> (semiarticulated antennal club) and <tp:taxon-name>Hypoborini</tp:taxon-name> (interrupted row of crenulations at base of elytra), but is readily distinguished from all taxa in those tribes by the broadly separated coxae.<!--PageBreak--></p>
+
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p>Posterior face of the left protibia of <tp:taxon-name>Phloeoditica curta</tp:taxon-name> (A), <tp:taxon-name>Phloeoditica elegans</tp:taxon-name> (B), <tp:taxon-name>Pseudoxylechinus setosus</tp:taxon-name> (C), <tp:taxon-name>Asiophilus phloeosinoides</tp:taxon-name> (D), <tp:taxon-name>Asiophilus macropunctatus</tp:taxon-name> (E), <tp:taxon-name>Microditica uniseriatus</tp:taxon-name> (F).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+												
+												
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p>Antennal club and funicle of<tp:taxon-name>Phloeoditica curta</tp:taxon-name> (A), <tp:taxon-name>Phloeoditica elegans</tp:taxon-name> (B), <tp:taxon-name>Asiophilus phloeosinoides</tp:taxon-name> (C), <tp:taxon-name>Asiophilus macropunctatus</tp:taxon-name> (D), <tp:taxon-name>Microditica uniseriatus</tp:taxon-name> (E).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+												
+												
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figure 6.</label>
+                        <caption><p>Basal part of hind wings in <tp:taxon-name>Phloeoditica curta</tp:taxon-name> (A)and <tp:taxon-name>Microditica uniseriata</tp:taxon-name> (B).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+												
+												    
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figure 7.</label>
+                      	<caption><p>Male genitalia with spiculum gastrale (A–B) and proventriculus (C–D) in <tp:taxon-name>Phloeoditica curta</tp:taxon-name> (A, C) and <tp:taxon-name>Microditica uniseriata</tp:taxon-name> (B, D).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/522/supp/ZooKeys-056-141-g007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+												
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Microditica</tp:taxon-name-part> 
+                    	<tp:taxon-name-part taxon-name-part-type="species">uniseriata</tp:taxon-name-part> 
+                    	<object-id xlink:type="simple">urn:lsid:zoobank.org:act:F4626599-BD94-43CF-B48C-24B13035E8C3</object-id>
+                    </tp:taxon-name>
+                      <tp:taxon-authority>Jordal</tp:taxon-authority>
+                      <tp:taxon-status>sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F3">Figs 3</xref>
+                    <xref ref-type="fig" rid="F4">4f</xref>
+                    <xref ref-type="fig" rid="F5">5e</xref>
+                    <xref ref-type="fig" rid="F6">6b</xref>
+                    <xref ref-type="fig" rid="F7">7b, d</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype: Thailand, Railay Beach - Krabi, 8.014N; 98.840E, 21 Nov. 1999 K. Harkestad, leg. (NHCB). Paratypes: Same locality as holotype (8 specimens, NHCB).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Very small body size; frons convex and shining in both sexes; large club with two deep grooves; protibiae with large inner uncus directed laterad; base of elytra with a single row of crenulations between scutellum and interstriae 5; uniseriate rows of interstrial spatulate bristles. DNA sequences in Genbank: COI, GQ470890; EF1a, GQ470891)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Length 0.85–0.95 mm, 2.0–2.1 times longer than wide. Colour light brown. Head. Frons convex, shiny, sparsely dotted by small shallow punctures separated by 2–4 times their diameter. Vestiture consisting of sparse minute hair-like setae, a few longer setae close to epistoma. Eyes 2.5 times longer (dorso-ventrally) than wide, separated above by 2.4 times their width. Antennal club large, two segments clearly marked by deep grooves, almost articulated; funiculus 5-segmented; scapus about 0.7 times as long as funiculus and club combined. Pronotum 0.95 times as long as wide, broadly rounded anteriorly, constriction on anterior fourth vaguely indicated. Disk smooth, shiny, with small and shallow punctures variably separated by 1–3 times their diameter. Vestiture consisting of scant minute hair-like setae and two median pairs and two anterior pairs of longer setae. Elytra 1.2 times longer than wide, 1.6 times longer than pronotum. Sides subparallel on anterior half, apex rounded. Base of elytra straight, with a single row of raised crenulations between scutellum and interstriae 5. Striae lightly impressed, punctures large, deep, separated by half their diameter. Interstriae smooth, punctures obscure, with a single row of small granules mainly on declivity and associated with the base of setae. Interstriae 10 not elevated, reaching level of metacoxae. Vestiture consisting of interstrial rows of erect spatulate <!--PageBreak-->bristles, each separated on average by their length. Sclerolepidia present along entire metepisternal suture, sparse metepisternal scale-like setae. Legs. Procoxae separated by width of 1 coxa; precoxal ridges very short but distinct. Mesocoxae 1.2 times wider than one procoxa; mesocoxal process vertical. Metacoxae broadly separated. Protibiae with two lateral unsocketed teeth, a third tooth just mesal to the second tooth, then gently curved to meet a large and laterally curved inner uncus. Mesotibiae and metatibiae each armed by 4 lateral socketed teeth. Proventriculus simple, apical plate short, about one-quarter of total length, with 3–4 transverse blunt ridges or rugae; femoral teeth weakly developed at base of 4–5 closing teeth. Mastigatory brushes not developed. Aedeagus weakly sclerotised, about 6–7 times longer than wide, apophyses very thin, longer than aedeagal body; tegmen a simple ring. Spiculum gastrale slightly shorter than aedeagus, weakly forked in the caudal end.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The specific epithet uniseriata refers to the uniseriate rows of interstrial bristles.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Comments"><title>Comments.</title>
+                    <p><tp:taxon-name>Microditica uniseriata</tp:taxon-name> has been collected only from the type locality and was taken from the bark of an unknown dead shrub together with <tp:taxon-name>Hypothenemus birmanus</tp:taxon-name> (Eichhoff).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Key to the genera of Phloeosinini of the World"><title>Key to the genera of <tp:taxon-name>Phloeosinini</tp:taxon-name> of the World</title>
+
+            <table-wrap content-type="key" position="float" orientation="portrait">
+                <table>
+                    <tbody>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">1.</td>
+                            <td rowspan="1" colspan="1">Eye entire</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Eye emarginate or divided</td>
+                            <td rowspan="1" colspan="1">10</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">2.</td>
+                            <td rowspan="1" colspan="1">Protibiae slender, armed by three apparently unsocketed teeth (denticles largely embedded in cuticle), inner uncus very large and long, curved towards outer margin (<xref ref-type="fig" rid="F4">Figs 4a–b, f</xref>)</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Protibiae broader, armed by at least four lateral socketed teeth of equal size, inner uncus/mucro shorter, directed caudally or nearly straight (<xref ref-type="fig" rid="F4">Figs 4c–e</xref>)</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">3.</td>
+                            <td rowspan="1" colspan="1">Protibiae armed on outer apical angle by two closely set projecting teeth and a smaller tooth on lateral margin (<xref ref-type="fig" rid="F4">Figs 4a–b</xref>); crenulations at elytral bases reaching humeral angles; interstrial ground vestiture consisting of hair-like setae or scales (<xref ref-type="fig" rid="F1">Figs 1a</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeoditica</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Protibia armed by two lateral teeth of equal size, and one mesal smaller tooth (<xref ref-type="fig" rid="F4">Fig 4f</xref>); crenulations at elytral bases reaching interstriae 5; ground vestiture absent (<xref ref-type="fig" rid="F3">Fig 3</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Microditica</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">4.</td>
+                            <td rowspan="1" colspan="1">Funicle 5-segmented</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Funicle 6- or 7-segmented</td>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">5.</td>
+                            <td rowspan="1" colspan="1">Antennal club symmetrical (<xref ref-type="fig" rid="F5">Figs 5c–d</xref>); crenulations at elytral base a single row (<xref ref-type="fig" rid="F2">Fig. 2</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Asiophilus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennal club strongly asymmetrical; additional elytral crenulations close to scutellum</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">6.</td>
+                            <td rowspan="1" colspan="1">Antennal club without sutures</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Chramesus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennal club with two strongly procurved sutures</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Pseudochramesus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">7.</td>
+                            <td rowspan="1" colspan="1">Funicle 7-segmented</td>
+                            <td rowspan="1" colspan="1">8</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Funicle 6-segmented</td>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">8.</td>
+                            <td rowspan="1" colspan="1">Scutellum visible; base of elytra strongly procurved; procoxa broadly separated</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dendrosinus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Scutellum not visible, base of elytra weakly procurved, procoxae contiguous</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Hyleops</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">9.</td>
+                            <td rowspan="1" colspan="1">Body slender, about 2.1 times longer than wide; antennal club symmetrical</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Carphotoreus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Body stout, about 1.6 times longer than wide; club strongly asymmetrical</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Catenophorus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">10.</td>
+                            <td rowspan="1" colspan="1">Procoxa contiguous; antennal club subglobular; funicle 5- or 6-segmented</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Cladoctonus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Procoxa separated; antennal club elongated; funicle 5-segmented</td>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">11.</td>
+                            <td rowspan="1" colspan="1">Interstriae 10 extended to level of ventrite 3; humeral angles of elytra extended anteriorly, with largest crenulations</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeocranus</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Interstriae 10 reaching level of metacoxae; elytral bases moderately procurved, with a single row of equally sized crenulations</td>
+                            <td rowspan="1" colspan="1">12</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">12.</td>
+                            <td rowspan="1" colspan="1">Pronotum finely asperate; antennal club with transverse sutures; eyes broadly emarginate</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeosinopsoides</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotum smooth; club with oblique sutures; eyes deeply emarginated or divided</td>
+                            <td rowspan="1" colspan="1">13</td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">13.</td>
+                            <td rowspan="1" colspan="1">Eyes divided or nearly so; tarsal segment 3 slender</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Hyledius</tp:taxon-name></td>
+                        </tr>
+												
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Eyes deeply emarginated; tarsal segment 3 broad and emarginate</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeosinus</tp:taxon-name></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <label>Acknowledgments</label>
+            <p>R. Beaver suggested that <tp:taxon-name>Microditica</tp:taxon-name> is a member of <tp:taxon-name>Phloeosinini</tp:taxon-name>, close to <tp:taxon-name>Phloeoditica</tp:taxon-name>. I would furthermore like to thank the curators H. Schönmann, F. Genier, A. Solodovnikov and B. Viklund for preparing the loan of type material for this study. Finally, I would like to thank M. Knížek for providing pictures of a <tp:taxon-name>Pseudoxylechinus setosus</tp:taxon-name> specimen in NHMW.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Alonso-Zarazaga</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Lyal</surname> <given-names>CHC</given-names></name></person-group> (<year>2009</year>)<article-title> A catalogue of family and genus group names in Scolytinae (incl. Platypodini) with nomenclatural remarks (Coleoptera: Curculionidae).</article-title> <source>Zootaxa</source> <volume>2258</volume>:<fpage>1</fpage>-<lpage>134</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Browne</surname> <given-names>FG</given-names></name></person-group> (<year>1966</year>)<article-title> Some Platypodidae and Scolytidae (Coleoptera) from the Philippine, Bismarck and Solomone Islands.</article-title> <source>Entomologiske Meddelelser</source> <volume>34</volume>:<fpage>233</fpage>-<lpage>257</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eggers</surname> <given-names>H</given-names></name></person-group> (<year>1925</year>)<article-title> Ipidae aus Birma.</article-title> <source>Sbornik Faunistickych Praci Entomologickeho Oddeleni Norodniho Museo Musea v Praze</source> <volume>3</volume> (<issue>21</issue>):<fpage>151</fpage>-<lpage>160</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eggers</surname> <given-names>H</given-names></name></person-group> (<year>1939</year>) <article-title>Entomological results from the Swedish expedition 1934 to Burma and British India. Coleoptera: Ipidae, gesammelt von Rene Malaise.</article-title> <source>Arkiv för Zoologi</source> <volume>31A(4)</volume>: <fpage>1</fpage>–<lpage>14</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jordal</surname> <given-names>BH</given-names></name></person-group> (<year>1998</year>)<article-title> A review of Scolytodes Ferrari (Coleoptera: Scolytidae) associated with Cecropia (Cecropiaceae) in the northern Neotropics.</article-title> <source>Journal of Natural History</source> <volume>32</volume>:<fpage>31</fpage>-<lpage>84</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jordal</surname> <given-names>BH</given-names></name><name name-style="western"><surname>Hewitt</surname> <given-names>GM</given-names></name></person-group> (<year>2004</year>)<article-title> The origin and radiation of Macaronesian beetles breeding in Euphorbia: the relative importance of multiple data partitions and population sampling.</article-title> <source>Systematic Biology</source> <volume>53</volume>:<fpage>711</fpage>-<lpage>734</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kuschel</surname> <given-names>G</given-names></name><name name-style="western"><surname>Leschen</surname> <given-names>RAB</given-names></name><name name-style="western"><surname>Zimmerman</surname> <given-names>EC</given-names></name></person-group> (<year>2000</year>)<article-title> Platypodidae under scrutiny.</article-title> <source>Invertebrate Taxonomy</source> <volume>14</volume>:<fpage>771</fpage>-<lpage>805</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mandelshtam</surname> <given-names>M</given-names></name><name name-style="western"><surname>Petrov</surname> <given-names>AV</given-names></name><name name-style="western"><surname>Barclay</surname> <given-names>MVL</given-names></name><name name-style="western"><surname>Knížek</surname> <given-names>M</given-names></name><name name-style="western"><surname>Beaver</surname> <given-names>RA</given-names></name></person-group> (<year>2007</year>)<article-title> Taxonomic changes in Scolytinae (Coleoptera: Curculionidae) from Eastern Asia.</article-title> <source>Russian Entomological Journal</source> <volume>16</volume>:<fpage>459</fpage>-<lpage>464</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schedl</surname> <given-names>KE</given-names></name></person-group> (<year>1962</year>)<article-title> Borken und AmbrosiaKäfer aus Hinterindien. 207. Beitrag zur Morphologie und Systematik der Scolytoidea.</article-title> <source>Verhandlungen der Naturforschenden Gesellschaft in Basel</source>, <volume>73</volume> (<issue>1</issue>):<fpage>184</fpage>-<lpage>193</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schedl</surname> <given-names>KE</given-names></name></person-group> (<year>1963</year>)<article-title> Zur Synonymie der Borkenkäfer IX. 209. Beitrag zur Morphologie und Systematik der Scolytoidea.</article-title> <source>Entomologische Abhandlungen und Berichte aus dem Staatlichen Museum für Tierkunde in Dresden</source>, <volume>28</volume> (<issue>6</issue>):<fpage>257</fpage>-<lpage>268</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname> <given-names>SL</given-names></name></person-group> (<year>1982</year>)<article-title> The bark and ambrosia beetles of North and Central America (Coleoptera: Scolytidae), a taxonomic monograph.</article-title> <source>Great Basin Naturalist Memoirs</source>, <volume>6</volume>:<fpage>1</fpage>-<lpage>1359</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname> <given-names>SL</given-names></name></person-group> (<year>1986</year>) <article-title>New Pseudoxylechinus (Coleoptera: Scolytidae) from India.</article-title> <source>Great Basin Naturalist</source> <volume>46</volume>: <lpage>468</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname> <given-names>SL</given-names></name><name name-style="western"><surname>Huang</surname> <given-names>FS</given-names></name></person-group> (<year>1986</year>)<article-title> New genus of Scolytidae (Coleoptera) from Asia.</article-title> <source>Great Basin Naturalist</source> <volume>46</volume>:<fpage>465</fpage>-<lpage>467</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname> <given-names>SL</given-names></name></person-group> (<year>1988</year>)<article-title> Nomenclatural changes and new species of Scolytidae (Coleoptera).</article-title> <source>Great Basin Naturalist</source> <volume>48</volume>:<fpage>188</fpage>-<lpage>195</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname> <given-names>SL</given-names></name><name name-style="western"><surname>Bright</surname> <given-names>D</given-names></name></person-group> (<year>1992</year>)<article-title> A catalog of Scolytidae and Platypodidae (Coleoptera). Part 2: Taxonomic index.</article-title> <source>Great Basin Naturalist Memoirs</source> <volume>13</volume>:<fpage>1</fpage>-<lpage>1553</lpage>.</mixed-citation></ref>        
+        </ref-list>
+    </back>
+</article>

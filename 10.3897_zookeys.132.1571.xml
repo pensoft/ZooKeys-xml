@@ -1,0 +1,614 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.132.1571</article-id>
+            <title-group>
+                <article-title>Taxonomic review of the genus 
+                    <italic>Tambinia</italic> Stål (Hemiptera, Fulgoromorpha, Tropiduchidae) with descriptions of four new species from the Pacific region
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Wang</surname>
+                        <given-names>Rong-rong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:02FAFFA8-66AA-47D3-AD21-1C9FDF58495A</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Liang</surname>
+                        <given-names>Ai-Ping</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:862BAA85-A5A9-44DE-A6E4-99D30C39B2C9</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, Chinese Academy of Sciences, 1 Beichen West Road, Chaoyang District, Beijing 100101, China
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Ai-Ping Liang (<email xlink:type="simple">liangap@ioz.ac.cn</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Mike Wilson</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>10</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>132</issue>
+            <fpage>13</fpage>
+            <lpage>31</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>8</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Rong-rong Wang, Ai-Ping Liang</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:252D5F9C-86D3-42EA-834E-E4B516C7DD9D</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>Four new species of <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> Stål (<tp:taxon-name>Hemiptera</tp:taxon-name>: <tp:taxon-name>Fulgoromorpha</tp:taxon-name>: <tp:taxon-name>Tropiduchidae</tp:taxon-name>), <italic><tp:taxon-name>Tambinia conus</tp:taxon-name></italic> <bold>sp. n.</bold> (Papua New Guinea), <italic><tp:taxon-name>Tambinia macula</tp:taxon-name></italic> <bold>sp. n.</bold> (Malaysia: Borneo), <italic><tp:taxon-name>Tambinia robustocarina</tp:taxon-name></italic> <bold>sp. n.</bold> (Malaysia: Sabah) and <italic><tp:taxon-name>Tambinia sexmaculata</tp:taxon-name></italic> <bold>sp. n.</bold> (Australia: Kuranda) are described and illustrated from the Pacific region. The diagnostic characters of this genus are redefined. A checklist and a key to the known species of <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> are provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Tambinia</italic></kwd>
+                <kwd>Tropiduchidae</kwd>
+                <kwd>Fulgoromorpha</kwd>
+                <kwd>new species</kwd>
+                <kwd>Pacific region</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The tropiduchid planthopper genus <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> was established by <xref ref-type="bibr" rid="B17">Stål (1859)</xref> for <italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic> Stål, <italic><tp:taxon-name>Tambinia debilis</tp:taxon-name></italic> Stål and <italic><tp:taxon-name>Tambinia rufoornata</tp:taxon-name></italic> Stål, all from Sri Lanka. The type species, <italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic> Stål, was fixed later by <xref ref-type="bibr" rid="B3">Distant (1906)</xref> by subsequent designation. <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic><!--PageBreak--> is currently placed in the tribe <tp:taxon-name>Tambiniini</tp:taxon-name> Kirkaldy, 1907 (<xref ref-type="bibr" rid="B14">Metcalf 1954</xref>; <xref ref-type="bibr" rid="B7">Fennah 1982</xref>). The tropiduchid tribe <tp:taxon-name>Tambiniini</tp:taxon-name>, as redefined by <xref ref-type="bibr" rid="B7">Fennah (1982)</xref>, comprises ten genera, <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic>, <italic><tp:taxon-name>Ossoides</tp:taxon-name></italic>, <italic><tp:taxon-name>Sumbana</tp:taxon-name></italic>, <italic><tp:taxon-name>Kallitaxila</tp:taxon-name></italic>, <italic><tp:taxon-name>Kallitambinia</tp:taxon-name></italic>, <italic><tp:taxon-name>Nesotaxila</tp:taxon-name></italic>, <italic><tp:taxon-name>Garumna</tp:taxon-name></italic>, <italic><tp:taxon-name>Paragarumna</tp:taxon-name></italic>, <italic><tp:taxon-name>Athestia</tp:taxon-name></italic> and <italic><tp:taxon-name>Biruga</tp:taxon-name></italic>. However, in a recent study about tribe <tp:taxon-name>Tambiniini</tp:taxon-name>, <xref ref-type="bibr" rid="B19">Wang et al. (2009)</xref> established one new genus <italic><tp:taxon-name>Garumnella</tp:taxon-name></italic>, and <italic><tp:taxon-name>Paragarumna</tp:taxon-name></italic> was placed as a junior synonym of <italic><tp:taxon-name>Garumna</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B16">O’Brien (2010)</xref> also established one new genus <italic><tp:taxon-name>Diambon</tp:taxon-name></italic> in the study of New World <tp:taxon-name>Tambiniini</tp:taxon-name> from palms. Members of <tp:taxon-name>Tambiniini</tp:taxon-name> are mainly distributed in the tropical regions of the World.</p>
+            <p>Although maximum attention has been paid to the monophyly and phylogeny in <tp:taxon-name>Fulgoromorpha</tp:taxon-name>, relatively little is known about the monophyly of both the <tp:taxon-name>Tambiniini</tp:taxon-name> and <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> and their relationships with other tropiduchid taxa in a cladistic sense. Only few papers provided valuable information about <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic>: <xref ref-type="bibr" rid="B20">Wilson (1986)</xref> has stated that the Oriental and Australasian genera <italic><tp:taxon-name>Nesotaxila</tp:taxon-name></italic> and <italic><tp:taxon-name>Kallitaxila</tp:taxon-name></italic> appear to be most closely related to <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B1">Asche and Wilson (1989)</xref> have indicated that some similarity exists in the aedeagal structure in <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> species and <italic><tp:taxon-name>Ommatissus</tp:taxon-name></italic> Fieber, 1875 (<tp:taxon-name>Trypetimorphini</tp:taxon-name>). A cladistic analysis is needed, but is beyond the scope of this paper.</p>
+            <p>While sorting and identifying <tp:taxon-name>Tropiduchidae</tp:taxon-name> from material on loan from the California Academy of Sciences, San Francisco, California, USA (CAS), National Museum of Natural History, Smithsonian Institution, Washington, DC, USA (USNM) and elsewhere, we found four new species of <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> from Papua New Guinea, Malaysia (Borneo, Sabah) and Australia (Kuranda). A revised generic diagnosis and a checklist of all known species of <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> are provided. A key to known species is also updated.</p>
+        </sec>
+        <sec sec-type="materials|methods"><title>Materials and methods</title>
+            <p>Dry pinned specimens were used for the descriptions and illustrations. External morphology was observed under a stereoscopic microscope and characters were measured with an ocular micrometer. Abdomens were removed and macerated in cold 10% KOH overnight. Precise dissections and cleaning of genitalic structures were finished in distilled water. Observations and drawings were done in glycerine under a compound light microscope. Photographs of the types were taken with a Nikon Coolpix 5400 digital camera. The digital images were then imported into Adobe Photoshop 8.0 for labeling and plate composition. Line figures were drawn with the aid of a camera lucida mounted on a Zeiss Stemi SV-11 stereomicroscope.</p>
+            <p>Specimens of three previously described species of the genus <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic>, i.e. <italic><tp:taxon-name>Tambinia bizonata</tp:taxon-name></italic> Matsumura, 1914, <italic><tp:taxon-name>Tambinia rubrolineata</tp:taxon-name></italic> Liang, 2003 and <italic><tp:taxon-name>Tambinia similis</tp:taxon-name></italic> Liang, 2003, have been examined. No specimens of the other seventeen previously described species were available for examination. However, there is no doubt concerning the identity of those species because the descriptions and illustrations were very clear and detailed. For detailed descriptions and figures of the seventeen previously described species, see (<xref ref-type="bibr" rid="B3">Distant (1906</xref>, <xref ref-type="bibr" rid="B4">1916</xref>), (<xref ref-type="bibr" rid="B5">Fennah (1956</xref>, <xref ref-type="bibr" rid="B6">1970</xref>, <xref ref-type="bibr" rid="B7">1982</xref>), <xref ref-type="bibr" rid="B8">Ghauri (1976)</xref>, <xref ref-type="bibr" rid="B11">Matsumura (1914)</xref>, <xref ref-type="bibr" rid="B10">Melichar (1914)</xref>, (<xref ref-type="bibr" rid="B13">Metcalf (1946</xref>, <xref ref-type="bibr" rid="B14">1954</xref>), <xref ref-type="bibr" rid="B12">Men et al. (2009)</xref>, <xref ref-type="bibr" rid="B15">Muir (1931)</xref>, <xref ref-type="bibr" rid="B20">Wilson (1986)</xref> and <xref ref-type="bibr" rid="B21">Wilson and Malenovský (2007)</xref>.</p>
+            <p>Specimens examined during the course of this study are deposited in the CAS, USNM and Bernice P. Bishop Museum, Honolulu, Hawaii, USA (BPBM). The terminology follows <xref ref-type="bibr" rid="B2">Bourgoin and Huang (1990)</xref> and <xref ref-type="bibr" rid="B19">Wang et al. (2009)</xref>.</p>
+        </sec>
+        <sec sec-type="Taxonomy"><title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>Genus</label>
+                    <tp:taxon-name>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Tambinia</object-id>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Tambinia</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Stål, 1859</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Tambinia</tp:taxon-name><comment> <xref ref-type="bibr" rid="B17">Stål 1859</xref>: 316; <xref ref-type="bibr" rid="B3">Distant 1906</xref>: 276; Bierman 1910: 26; <xref ref-type="bibr" rid="B15">Muir 1931</xref>: 303; <xref ref-type="bibr" rid="B14">Metcalf 1954</xref>: 100; <xref ref-type="bibr" rid="B9">Liang and Jiang 2003</xref>. Type species <italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic> Stål by subsequent designation.</comment></tp:nomenclature-citation>
+                        <tp:nomenclature-citation><tp:taxon-name>Ossa</tp:taxon-name><comment> de Motschulsky, 1863: 106; Bierman 1910: 26.</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnostic characters"><title>Diagnostic characters.</title>
+                    <p> Small-sized tropiduchids. Head (<xref ref-type="fig" rid="F1">Figs 1A–E</xref>) with eyes narrowed than pronotum, distinctly produced in front of eyes and apically rounded, usually strongly dorsoventrally depressed and distinctly flattened in lateral view. Vertex (<xref ref-type="fig" rid="F1">Figs 1A–E</xref>, <xref ref-type="fig" rid="F2">2</xref><xref ref-type="fig" rid="F3"/><xref ref-type="fig" rid="F4"/>–<xref ref-type="fig" rid="F5">5A</xref>) tricarinate, disc of vertex (excluding median carina) depressed, posterior margin straight. Frons (<xref ref-type="fig" rid="F2">Figs 2</xref><xref ref-type="fig" rid="F3"></xref><xref ref-type="fig" rid="F4"></xref>–<xref ref-type="fig" rid="F5">5C</xref>) distinctly reclined caudad, somewhat flat and smooth, with or without median carina, rarely covered with sparsely microsetae. Clypeus triangular, relatively convex, with or without median carina, lateral margins not carinate. Rostrum short, not reaching mesotrochanters. Ocelli very small. Antennae with scape very small, pedicel cylindrical, covered with long setulae, sensory plaques present on top surface of pedical. Pronotum (<xref ref-type="fig" rid="F2">Figs 2</xref><xref ref-type="fig" rid="F3"/><xref ref-type="fig" rid="F4"/>–<xref ref-type="fig" rid="F5">5A</xref>) tricarinate, anterior margin straight and hind margin angulately excavate, with a single carina between eye and tegula. Mesonotum tricarinate. Hind titiae each with 2 distinct lateral spines; spinal formula of hind leg (4–5)–(4–5)–2; metatarsal segment II short and small. Forewings (<xref ref-type="fig" rid="F1">Figs 1A–E</xref>) with oblique nodal line, apical portion flexing ventrad at this line, basal portion somewhat sub-hyaline, with or without granulate, thicker than apical portion, costal cell without cross veins.</p>
+                    <p>Male genitalia. Pygofer (<xref ref-type="fig" rid="F2">Figs 2F–H</xref>, <xref ref-type="fig" rid="F3">3E, 3G, 3H</xref>, <xref ref-type="fig" rid="F4">4E–G</xref>, <xref ref-type="fig" rid="F5">5F–H</xref>) symmetrical, dorsal margin deeply excavated to accommodate anal tube. Gonostylus (<xref ref-type="fig" rid="F2">Figs 2F, 2H</xref>, <xref ref-type="fig" rid="F3">3E, 3G, 3H</xref>, <xref ref-type="fig" rid="F4">4E, 4G</xref>, <xref ref-type="fig" rid="F5">5F, 5H</xref>) elongate, bilaterally symmetrical, membranously fused with pygofer at base, with a conical, median process in ventral view, with a dorsally directed process arising from inner side near base and a laminate, inward directed, triangular process arising from inner side near middle. Periandrium (<xref ref-type="fig" rid="F2">Figs 2F</xref>, <xref ref-type="fig" rid="F3">3E</xref>, <xref ref-type="fig" rid="F4">4E</xref>, <xref ref-type="fig" rid="F5">5F</xref>) dorsally connected with ventrobasal margin of anal tube, membranously fused with pygofer at ventral side, tube-like, distinctly sclerotized, surrounding aedeagus subapically or mesially, and visible in lateral view. Aedeagus (<xref ref-type="fig" rid="F2">Figs 2F</xref>, <xref ref-type="fig" rid="F3">3E</xref>, <xref ref-type="fig" rid="F4">4E, 4F</xref>, <xref ref-type="fig" rid="F5">5F, 5G</xref>), asym<!--PageBreak-->metrical, elongate and tubular, shaft of aedeagus (<xref ref-type="fig" rid="F2">Figs 2F</xref>, <xref ref-type="fig" rid="F3">3E</xref>, <xref ref-type="fig" rid="F4">4E, 4F</xref>, <xref ref-type="fig" rid="F5">5F, 5G</xref>) slender and elongate, tubular, and sinuate in lateral view, subapically or mesially embraced in periandrium, endosoma membranous, with or without spines.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion"><title>Discussion.</title>
+                    <p> The genus <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> comprises twenty-four species and is distributed in Oriental, Australasian and Afrotropical regions (<xref ref-type="bibr" rid="B3">Distant 1906</xref>, <xref ref-type="bibr" rid="B4">1916</xref>, <xref ref-type="bibr" rid="B5">Fennah 1956</xref>, <xref ref-type="bibr" rid="B6">1970</xref>, <xref ref-type="bibr" rid="B7">1982</xref>, <xref ref-type="bibr" rid="B8">Ghauri 1976</xref>, <xref ref-type="bibr" rid="B11">Matsumura 1914</xref>, <xref ref-type="bibr" rid="B10">Melichar 1914</xref>, <xref ref-type="bibr" rid="B13">Metcalf 1946</xref>, <xref ref-type="bibr" rid="B14">1954</xref>, <xref ref-type="bibr" rid="B15">Muir 1931</xref>, <xref ref-type="bibr" rid="B20">Wilson 1986</xref>, <xref ref-type="bibr" rid="B21">Wilson and Malenovský 2007</xref>). The tropiduchid planthoppers are usually weak fliers and have poor ability for long-distance migration by themselves. So, we indicate that new species have formed through geographical isolation over the disjunct distribution of the genus across widely separated island groups.</p>
+                    <p>In external appearance, the genus <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> is similar to the Oriental and Australasian genera <italic><tp:taxon-name>Nesotaxila</tp:taxon-name></italic>, <italic><tp:taxon-name>Kallitaxila</tp:taxon-name></italic> and <italic><tp:taxon-name>Kallitambinia</tp:taxon-name></italic>. These four genera form a distinct group within tribe <tp:taxon-name>Tambiniini</tp:taxon-name>. They can be distinguished from the other known genera in the tribe by the head relatively dorsoventrally depressed, produced in front of eyes, but not extreme produced into a linguiform prolongation, apex not broadly rounded to base of frons, and hind tibia with two lateral spines. The four genera can be distinguished as follows:</p>
+                    <table-wrap content-type="key" position="anchor" orientation="portrait">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">Two carinae on each side of pronotum between eye and tegula and an incomplete carina behind eye</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nesotaxila</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">At most only one complete and one incomplete carina on each side of pronotum between eye and tegula</td>
+                                    <td rowspan="1" colspan="1">2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">2</td>
+                                    <td rowspan="1" colspan="1">One complete and one incomplete carina on either side of pronotum between eye and tegula; vertex with sublateral carinae distinct and stubby</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Kallitaxila</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">A single carina laterally on pronotum between eye and tegula; vertex without sublateral carinae, if not, only slender sublateral carinae present</td>
+                                    <td rowspan="1" colspan="1">3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">3</td>
+                                    <td rowspan="1" colspan="1">Forewings with corium granulate; anal tube extreme long, distinctly surpassing terminal of genitalia, aedeagus a simple tube with accompanying spike</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Kallitambinia</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Forewings with corium not granulate, or only obscurely granulation present; anal tube relatively short, not surpassing or slightly surpassing surpassing terminal of genitalia</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia</tp:taxon-name></italic></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <sec sec-type="Check list of species of Tambinia Stål"><title>Check list of species of <tp:taxon-name>Tambinia</tp:taxon-name> Stål</title>
+                        <p><italic><tp:taxon-name>Tambinia atrosignata</tp:taxon-name></italic> Distant, 1906; Sri Lanka (Paradeniya).</p>
+                        <p><italic><tp:taxon-name>Tambinia bizonata</tp:taxon-name></italic> Matsumura, 1914; China (Taiwan), Japan.</p>
+                        <p><italic><tp:taxon-name>Tambinia capitata</tp:taxon-name></italic> Distant, 1906; Burma, Malay States, India.</p>
+                        <p><italic><tp:taxon-name>Tambinia conus</tp:taxon-name></italic> sp. n.; Papua New Guinea.</p>
+                        <p><italic><tp:taxon-name>Tambinia debilis</tp:taxon-name></italic> Stål, 1859; India, Sri Lanka, Vietnam, South China (Anhui Province, Guangdong Province, Guangxi Zhuang Autonomous Region, Zhejiang Province,<!--PageBreak--> Fujian Province, Hainan Island, Hong Kong, Taiwan), Japan, Malacca, Malaysia, Singapore.</p>
+                        <p><italic><tp:taxon-name>Tambinia exoleta</tp:taxon-name></italic> Melichar, 1914; New Guinea (Moroka).</p>
+                        <p><italic><tp:taxon-name>Tambinia fasciculosa</tp:taxon-name></italic> Melichar, 1914; New Guinea (Moroka).</p>
+                        <p><italic><tp:taxon-name>Tambinia guamensis</tp:taxon-name></italic> Metcalf, 1946; Micronesia (Guam).</p>
+                        <p><italic><tp:taxon-name>Tambinia inconspicua</tp:taxon-name></italic> Distant, 1906; Burma.</p>
+                        <p><italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic> Stål, 1859; Sri Lanka.</p>
+                        <p><italic><tp:taxon-name>Tambinia macula</tp:taxon-name></italic> sp. n.; Malaysia (Borneo).</p>
+                        <p><italic><tp:taxon-name>Tambinia menglunensis</tp:taxon-name></italic> Men &amp; Qin, 2009; China (Yunnan Province).</p>
+                        <p><italic><tp:taxon-name>Tambinia pitho</tp:taxon-name></italic> Fennah, 1970; Philippines.</p>
+                        <p><italic><tp:taxon-name>Tambinia robustocarina</tp:taxon-name></italic> sp. n.; Malaysia (Sabah).</p>
+                        <p><italic><tp:taxon-name>Tambinia rubrolineata</tp:taxon-name></italic> Liang, 2003; South China (Hainan Island), Laos, Vietnam.</p>
+                        <p><italic><tp:taxon-name>Tambinia rubromaculata</tp:taxon-name></italic> Distant, 1916; Sri Lanka.</p>
+                        <p><italic><tp:taxon-name>Tambinia rufoornata</tp:taxon-name></italic> Stål, 1859; Sri Lanka.</p>
+                        <p><italic><tp:taxon-name>Tambinia sexmaculata</tp:taxon-name></italic> sp. n.; Australia (Kuranda).</p>
+                        <p><italic><tp:taxon-name>Tambinia similis</tp:taxon-name></italic> Liang, 2003; Vietnam.</p>
+                        <p><italic><tp:taxon-name>Tambinia sisyphus</tp:taxon-name></italic> Fennah, 1956; Micronesia (Western Caroline Islands: Palau).</p>
+                        <p><italic><tp:taxon-name>Tambinia theivora</tp:taxon-name></italic> Fennah, 1982; Malaysia (Cameron Highlands).</p>
+                        <p><italic><tp:taxon-name>Tambinia venusta</tp:taxon-name></italic> (Kirkaldy, 1906); Australia (Queensland), New Guinea.</p>
+                        <p><italic><tp:taxon-name>Tambinia verticalis</tp:taxon-name></italic> Distant, 1916; India (Southern India, Coorg, Madras), Zanzibar, Tanga.</p>
+                        <p><italic><tp:taxon-name>Tambinia zonata</tp:taxon-name></italic> Muir, 1931; India (Madras).</p>
+                    </sec>
+                    <sec sec-type="Key to species of genus Tambinia"><title>Key to species of genus <tp:taxon-name>Tambinia</tp:taxon-name></title>
+                        <table-wrap content-type="key" position="anchor" orientation="portrait">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">1</td>
+                                        <td rowspan="1" colspan="1">Vertex shorter in middle than the widest breadth, or about as long as broad</td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex distinctly longer in middle than the widest breadth</td>
+                                        <td rowspan="1" colspan="1">11</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">Frons with carina obsolete</td>
+                                        <td rowspan="1" colspan="1">3</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Frons with carina distinct</td>
+                                        <td rowspan="1" colspan="1">4</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">3</td>
+                                        <td rowspan="1" colspan="1">Frons about as long as broad, forewings with two black elongate spots near bases of sutural margins, nodal line marked with several fuscous spots (see Distant, 1906: 278)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia atrosignata</tp:taxon-name></italic> Distant</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Frons (<xref ref-type="fig" rid="F3">Fig. 3C</xref>) distinctly longer than broad, forewings (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3D</xref>) with two red elongate marks near bases of sutural margins, many orange or red spots marked from basal part to nodal line, nodal line suffused with one transverse orange to red band</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia macula</tp:taxon-name></italic> sp. n.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">4</td>
+                                        <td rowspan="1" colspan="1">Forewings with granulate</td>
+                                        <td rowspan="1" colspan="1">5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings without granulate</td>
+                                        <td rowspan="1" colspan="1">6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">5</td>
+                                        <td rowspan="1" colspan="1">Forewings marked without transverse bands (see <xref ref-type="bibr" rid="B3">Distant 1906</xref>: 279, Fig. 129; <xref ref-type="bibr" rid="B3">Distant 1906</xref>: 277)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia debilis</tp:taxon-name></italic> Stål</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings marked with two brown transverse bands across wing sub-basally, on nodal line and in clavus (<xref ref-type="bibr" rid="B23">Yang et al. 1989</xref>: 80, Fig.6)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia bizonata</tp:taxon-name></italic> Matsumura</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"><!--PageBreak-->6</td>
+                                        <td rowspan="1" colspan="1">Forewings with nodal line near apex</td>
+                                        <td rowspan="1" colspan="1">7</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings with nodal line near middle</td>
+                                        <td rowspan="1" colspan="1">9</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">7</td>
+                                        <td rowspan="1" colspan="1">Forewings with marks and stripes distinct</td>
+                                        <td rowspan="1" colspan="1">8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings with marks and stripes very pale, nearly absent (<xref ref-type="fig" rid="F1">Fig. 1C</xref>)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia similis</tp:taxon-name></italic> Liang</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">8</td>
+                                        <td rowspan="1" colspan="1">Forewings with 11 apical cells, 4–5 subapical cells (see Liang, 2003: 511; Fig. 1)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia rubrolineata</tp:taxon-name></italic> Liang</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings with 9 apical cells, 3–4 subapical cells (see <xref ref-type="bibr" rid="B7">Fennah 1982</xref>: 641, Fig. 35)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia theivora</tp:taxon-name></italic> Fennah</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">9</td>
+                                        <td rowspan="1" colspan="1">Body suffused with distinct spots and markings</td>
+                                        <td rowspan="1" colspan="1">10</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Body (<xref ref-type="fig" rid="F1">Fig. 1D</xref>) without spots and markings, median carinae of vertex and pronotum thickened and broad, frons (<xref ref-type="fig" rid="F4">Fig. 4C</xref>) with basal part of median carina strongly broad and thickened, not reaching to frontoclypeal suture, obsolete on level of antennae</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia robustocarina</tp:taxon-name></italic> sp. n.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">10</td>
+                                        <td rowspan="1" colspan="1">Vertex, pronotum and mesonotum marked with reddish spots, forewings with nodal line suffused with red stripes (see Men and Qin 2009: 263, Figs 1, 2)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia menglunensis</tp:taxon-name></italic> Men &amp; Qin</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex without spots, pronotum with posterior margin marked with reddish stripes, mesonotum with carinae reddish, forewings with nodal line suffused with fuscous (see <xref ref-type="bibr" rid="B3">Distant 1906</xref>: 278)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia rufoornata</tp:taxon-name></italic> Stål</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">11</td>
+                                        <td rowspan="1" colspan="1">Vertex medially 1.1–1.3 times as long as maximum breadth</td>
+                                        <td rowspan="1" colspan="1">12</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex medially 1.4–1.8 times as long as maximum breadth</td>
+                                        <td rowspan="1" colspan="1">18</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">12</td>
+                                        <td rowspan="1" colspan="1">Body above suffused with marks or different colors</td>
+                                        <td rowspan="1" colspan="1">13</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Body above concolorous, without marks or different colors</td>
+                                        <td rowspan="1" colspan="1">16</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">13</td>
+                                        <td rowspan="1" colspan="1">Vertex with sublateral carinae basally between median carina and lateral margins</td>
+                                        <td rowspan="1" colspan="1">14</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex without sublateral carinae between median carina and lateral margins</td>
+                                        <td rowspan="1" colspan="1">15</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">14</td>
+                                        <td rowspan="1" colspan="1">Vertex (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5A</xref>) with six red spots, pronotum and mesonotum without spots, forewings (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5D</xref>) with two pairs of red spots near bases of sutural margins and distad of level of union of claval veins relatively</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia sexmaculata</tp:taxon-name></italic> sp. n.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A</xref>) with two short reddish stripes, pronotum with a pair of orange spots outside lateral carinae, carinae on vertex and pronotum orange, mesonotum with a pair of orange spots beside lateral carinae near posterior margin, forewings (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2D</xref>) with many reddish spots marked from basal part to nodal line</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia conus</tp:taxon-name></italic> sp. n.</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">15</td>
+                                        <td rowspan="1" colspan="1">Carinae on vertex, pronotum and mesonotum without pigmentation, mesonotum suffused with ochraceous (see Distant, 1906: 276, Fig. 127)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic> Stål</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Carinae on vertex, pronotum and mesonotum reddish, mesonotum suffused with dark brown (see Muir, 1931: 303)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia zonata</tp:taxon-name></italic> Muir</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">16</td>
+                                        <td rowspan="1" colspan="1">Head not prominently narrowed anteriorly</td>
+                                        <td rowspan="1" colspan="1">17<!--PageBreak--></td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Head gradually narrowed to apex (see <xref ref-type="bibr" rid="B3">Distant 1906</xref>: 278)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia capitata</tp:taxon-name></italic> Distant</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">17</td>
+                                        <td rowspan="1" colspan="1">Forewings with Cu<sub>1</sub> forking distad of level of union of claval veins, with 12 apical cells, subapical cells less than 5 (see <xref ref-type="bibr" rid="B5">Fennah 1956</xref>: 188, Fig. 54 a, d, g)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia guamensis</tp:taxon-name></italic> Metcalf</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings with Cu<sub>1</sub> forking basad of level of union of claval veins, with 14 apical cells, subapical cells more than 6 (see <xref ref-type="bibr" rid="B6">Fennah 1970</xref>: 77, Fig. 46)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia pitho</tp:taxon-name></italic> Fennah</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">18</td>
+                                        <td rowspan="1" colspan="1">Body concolorous, without marks or different colors</td>
+                                        <td rowspan="1" colspan="1">19</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Body suffused with marks or different colors</td>
+                                        <td rowspan="1" colspan="1">20</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">19</td>
+                                        <td rowspan="1" colspan="1">Vertex medially 1.4 times as long as maximum breadth, pronotum without short carinae between median carina and lateral margin (see <xref ref-type="bibr" rid="B3">Distant 1906</xref>: 277, Fig. 128)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia inconspicua</tp:taxon-name></italic> Distant</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex medially 1.7 times as long as maximum breadth, pronotum with a pair of short carinae basally between median carina and lateral margins (see <xref ref-type="bibr" rid="B5">Fennah 1956</xref>: 189, Fig. 54 e, f, i)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia sisyphus</tp:taxon-name></italic> Fennah</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">20</td>
+                                        <td rowspan="1" colspan="1">Forewings with nodal line suffused with pigmentation</td>
+                                        <td rowspan="1" colspan="1">21</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings with nodal line concolorous, without pigmentation</td>
+                                        <td rowspan="1" colspan="1">22</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">21</td>
+                                        <td rowspan="1" colspan="1">Vertex and pronotum with orange marks, nodal line suffused with fuscous (see <xref ref-type="bibr" rid="B20">Wilson 1986</xref>: 386, Figs 1, 3)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia verticalis</tp:taxon-name></italic> Distant</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex, pronotum and mesonotum red, carinae green (see <xref ref-type="bibr" rid="B21">Wilson and Malenovský 2007</xref>, Fig. 3)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia fasciculosa</tp:taxon-name></italic> Melichar</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">22</td>
+                                        <td rowspan="1" colspan="1">Forewings suffused with marks</td>
+                                        <td rowspan="1" colspan="1">23</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Forewings without marks (see <xref ref-type="bibr" rid="B10">Melichar 1914</xref>: 86)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia exoleta</tp:taxon-name></italic> Melichar</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">23</td>
+                                        <td rowspan="1" colspan="1">Vertex and pronotum finely marked with red spots (see <xref ref-type="bibr" rid="B4">Distant 1916</xref>: 48)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia rubromaculata</tp:taxon-name></italic> Distant</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">–</td>
+                                        <td rowspan="1" colspan="1">Vertex marked with six red spots, pronotum with lateral carinae red (see <xref ref-type="bibr" rid="B10">Melichar 1914</xref>: 87)</td>
+                                        <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tambinia venusta</tp:taxon-name></italic> Kirkaldy</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                    </sec>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Tambinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">conus</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:B4955F97-4D85-485C-8200-345005DD0F1B</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Tambinia_conus</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1A</xref>
+                    <xref ref-type="fig" rid="F2">2A–H</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length (from apex of vertex to tip of forewings): ♂ 6.5 mm (N=1).</p>
+                    <p>Colour. General colour tawny yellow, vertex (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A</xref>) with two short reddish stripes, pronotum (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A</xref>) with a pair of orange spots outside lateral carinae, median carinae on vertex and pronotum orange, mesonotum (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A</xref>) with a pair of orange spots beside lateral carinae near posterior margin, genae (<xref ref-type="fig" rid="F2">Fig. 2B</xref>) with orange patch between eye and lateral margin of frons, forewings (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2D</xref>) with many reddish spots marked from basal part to nodal line, tips of spines on hind tibiae and tarsi black.</p>
+                    <p><!--PageBreak--><!--PageBreak-->Head and thorax. Head (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A, 2B</xref>) projecting before eyes approximately median length of eye, strongly dorsoventrally depressed. Vertex (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A</xref>) slightly longer in middle than the widest breadth (1.1: 1), distinctly longer than pronotum at midline (1.6: 1); anterior margin projected at an obtuse angle in dorsal view, lateral margins ridged and converged anteriorly; median carina thin and percurrent, wit<!--PageBreak-->h a pair of short sublateral carinae basally between median carina and lateral margins; posterior margin straight. Frons (<xref ref-type="fig" rid="F2">Fig. 2C</xref>) longer in middle than the widest breadth (1.4: 1), disc flat and smooth, covered with sparsely microsetae (<xref ref-type="fig" rid="F2">Fig. 2B</xref>); lateral margins sinuous, diverging from apex, slightly concave at level of eyes, then diverging further to reach their widest point before converging to the clypeus; median carina slender, gradually thinning and obsolete posteriorly, almost reaching to frontoclypeal suture. Clypeus (<xref ref-type="fig" rid="F2">Fig. 2C</xref>) triangular, with broad median carina. Pronotum (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2A</xref>) distinctly shorter than mesonotum in midline (0.4: 1), carinae strongly ridged, lateral carinae diverging posteriorly, median carina distinct, reaching posterior margin. Pronotum and mesonotum together medially 2.2 times as long as median length of vertex. Hind tibiae each with 2 distinct lateral spines; spinal formula of hind leg 5–5–2. Forewings (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2D</xref>) relatively elongate and narrow, 2.7 times as long as maximum breadth, with corium smooth, not granulate, Sc+R forking at 2/5 apical, Cu<sub>1</sub> forking after level of junction of claval veins, cell Sc with a short cross vein at its apical angle, with 13 apical cells and 6 subapical cells, claval veins uniting basad of middle of clavus.</p>
+                    <p>Male genitalia. Pygofer (<xref ref-type="fig" rid="F2">Figs 2F–H</xref>) narrow and relatively high, wider ventrally than dorsally, anterior margin moderately concave, posterior margin nearly straight on ventral half in lateral view. Anal tube (<xref ref-type="fig" rid="F2">Figs 2F, 2G</xref>) distinctly elongate, surpassing to apex of gonostylus, ventral margin slightly bent ventrad in lateral view; lateral margins narrowing distad, apical margin distinctly forked in dorsal view; anal styles relatively short and stout, not surpassing apex of anal tube in dorsal view. Gonostylus (<xref ref-type="fig" rid="F2">Figs 2F, 2H</xref>) very narrow, apical part dorsoposteriorly directed in lateral view; median conical process distinctly elongate and strong, sclerotized, nearly reaching to middle part of gonostylus in ventral view. Periandrium (<xref ref-type="fig" rid="F2">Fig. 2F</xref>) distinctly short, ring-shape, with a long process directed caudad at ventral side, surround aedeagusat medially. Aedeagus (<xref ref-type="fig" rid="F2">Fig. 2F</xref>) with shaft sinuate and apical half dorsoposteriorly directed in lateral view, apical part forking at endosoma, forming two process, which dorsal one distinctly longer than the ventral one; endosoma membranous, slightly expanded.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p> Dorsal habitus of <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic> species <bold>A</bold> <italic><tp:taxon-name>Tambinia conus</tp:taxon-name></italic> sp. n. (male, Papua New Guinea, CAS) <bold>B</bold> <italic><tp:taxon-name>Tambinia macula</tp:taxon-name></italic> sp. n. (male, Malaysia:Borneo, CAS) <bold>C</bold> <italic><tp:taxon-name>Tambinia similis</tp:taxon-name></italic> Liang (male, Vietnam, BPBM) <bold>D</bold> <italic><tp:taxon-name>Tambinia robustocarina</tp:taxon-name></italic> sp. n.( male, Malaysia: Sabah, USUM) <bold>E</bold> <italic><tp:taxon-name>Tambinia sexmaculata</tp:taxon-name></italic> sp. n.( male, Australia:Kuranda, CAS).</p></caption>
+                        <graphic xlink:href="ZooKeys-132-015-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p> <italic><tp:taxon-name>Tambinia conus</tp:taxon-name></italic> sp. n. <bold>A</bold> head, pronotum and mesonotum, dorsal view <bold>B</bold> head, pronotum and mesonotum, lateral view <bold>C</bold> head, ventral view <bold>D</bold> right fore wing <bold>E</bold> right hind wing <bold>F</bold> male genitalia, left view <bold>G</bold> anal segment and pygofer, dorsal view <bold>H</bold> pygofer and gonostylus, ventral view. Scale bars: Figs A–C = 0.25 mm; D–E = 0.5 mm; F–H = 0.25 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-132-015-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p> Holotype ♂, PAPUA NEW GUINEA: Madang Province, Finisterre Range, Teptep, stream NE of town, 2100-2560 m, 23 Mar 1989, Stop #89-40A, D. H. Kavanaugh and G. E. Ball collectors, PAPUA NEW GUINEA EXPEDITION-1989 (CAS).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> This new species is named for the presence of a strong median conical process at apically inner margin of gonostylus (<xref ref-type="fig" rid="F2">Figs 2F, 2H</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p> Papua New Guinea.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p> This species is similar to <italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic> Stål, 1859 collected from Sri Lanka, but can be distinguished from the latter in the vertex with two short reddish stripes, pronotum with a pair of orange spots outside lateral carinae, carinae of vertex and pronotum orange, mesonotum with a pair of orange spots beside lateral carinae near posterior margin, forewings with many reddish spots marked from basal part to nodal line and the frons with ratio of median length to the widest breadth 1.4:1 (in <italic><tp:taxon-name>Tambinia languida</tp:taxon-name></italic>, vertex and pronotum without pigmentation, mesonotum sometimes suffused <!--PageBreak-->with ochraceous, the frons with ratio of median length to the widest breadth 2:1, see Stål, 1859: 317; Melichar, 1914: 85).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Tambinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">macula</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:AD6252E1-EF47-441F-A4CC-8F6D1A721CE8</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Tambinia_macula</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1B</xref>
+                    <xref ref-type="fig" rid="F3">3A–H</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length (from apex of vertex to tip of forewings): ♂ 5.6 mm (N=1).</p>
+                    <p>Colour. General colour ocherous, vertex (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3A</xref>) with median carina suffused reddish, the reddish extending from the sides, forming two reddish long stripes, its outer margins irregular, pronotum (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3A</xref>) with a pair of reddish spots at disc depression between median and lateral carinae, frons (<xref ref-type="fig" rid="F3">Fig. 3C</xref>) suffused with pale reddish, forewings (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3D</xref>) with basal portion ocherous, with two red elongate marks near bases of sutural margins, many orange or red spots marked from basal part to nodal line, nodal line suffused with one transverse orange to red band, tips of spines on hind tibiae and tarsi black.</p>
+                    <p>Head and thorax. Head (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3A</xref>) projecting before eyes approximately median length of eye, strongly dorsoventrally depressed. Vertex (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3A</xref>) about as long as broad, two times as long as median length of pronotum, anterior margin projected at an obtuse angle in dorsal view, lateral margins ridged and converged anteriorly; median carina thin and percurrent; posterior margin straight. Frons (<xref ref-type="fig" rid="F3">Fig. 3C</xref>) longer in middle than the widest breadth (1.3: 1), disc slightly depressed, covered with sparsely microsetae (<xref ref-type="fig" rid="F3">Figs 3B, 3C</xref>); lateral margins sinuous, diverging from apex, slightly concave at level of eyes, then diverging further to reach their widest point before converging to the clypeus; without median carina. Clypeus (<xref ref-type="fig" rid="F3">Fig. 3C</xref>) triangular, without median carina. Pronotum (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3A</xref>) distinctly shorter than mesonotum in midline (0.3: 1), carinae strongly ridged, lateral carinae diverging posteriorly, median carina distinct, reaching posterior margin. Pronotum and mesonotum together medially 2.1 times as long as median length of vertex. Hind tibiae each with 2 distinct lateral spines; spinal formula of hind leg 5–5–2. Forewings (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F3">3D</xref>) relatively broad, with basal portion semihyaline, thicker than apical portion, without granulation, 2.7 times as long as maximum breadth, Sc+R forking about medially, Cu<sub>1</sub> forking after level of junction of claval veins, cell Sc with a short cross vein at its apical angle, with 12 apical cells and 5 subapical cells, claval veins uniting distad of middle of clavus.</p>
+                    <p>Male genitalia. Pygofer (<xref ref-type="fig" rid="F3">Figs 3E, 3G, 3H</xref>) narrow and high, wider ventrally than dorsally, anterior margin concave medially, posterior margin produced caudad in lateral view. Anal tube (<xref ref-type="fig" rid="F3">Figs 3E, 3F</xref>) relatively elongate, ventral margin nearly straight and directed caudad in lateral view; lateral margins slightly diverging distad, apical margin concave in dorsal view; anal styles relatively long, distinctly surpassing apex of anal tube in dorsal view. Gonostylus (<xref ref-type="fig" rid="F3">Figs 3E, 3G, 3H</xref>) elongate, basal half broad and apical half abruptly narrow in lateroventral view; median conical process very thin and sle<!--PageBreak-->nder, sclerotized in ventral view. Periandrium (<xref ref-type="fig" rid="F3">Fig. 3E</xref>) tube-like, distinctly sclerotized, with a short process directed ventrad at dorsal apex, surrounding aedeagus medially. Aedeagus (<xref ref-type="fig" rid="F3">Fig. 3E</xref>) with shaft very long and thin, simple tubule, sinuate and its apex directed caudad in lateral view, endosoma indistinct.</p>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p> <italic><tp:taxon-name>Tambinia macula</tp:taxon-name></italic> sp. n.<bold>A</bold> head, pronotum and mesonotum, dorsal view <bold>B</bold> head, pronotum and mesonotum, lateral view <bold>C</bold> head, ventral view <bold>D</bold> right fore wing <bold>E</bold> male genitalia, left view <bold>F</bold> anal segment, dorsal view <bold>G</bold> pygofer and gonostylus, ventral view <bold>H</bold> gonostylus, dorsal view. Scale bars: Figs A–D = 0.25 mm; E–H = 0.125 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-132-015-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p> Holotype ♂, MALAYSIA: Banaakan Borneo, 1927.I, Pemberton Coll. (CAS).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> This new species is named for the presence of many reddish markings on vertex, pronotum and tegmina (<xref ref-type="fig" rid="F1">Fig. 1B</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p> Malaysia (Borneo).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p> This species is similar to <italic><tp:taxon-name>Tambinia atrosignata</tp:taxon-name></italic> Distant, 1906, but can be distinguished from the latter in vertex with two reddish long stripes, pronotum with a pair of reddish spots, forewings with basal portion ocherous, with two red elongate marks near bases of sutural margins, many orange or red spots marked from basal part to nodal line and nodal line suffused with one transverse orange to red band.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Tambinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">robustocarina</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:4583165F-DBE6-4F7A-AA36-FC1FBF6369FF</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Tambinia_robustocarina</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1D</xref>
+                    <xref ref-type="fig" rid="F4">4A–G</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length (from apex of vertex to tip of forewings): ♂ 6.8 mm (N=1).</p>
+                    <p>Colour. General colour tawny yellow, forewings (<xref ref-type="fig" rid="F1">Figs 1D</xref>, <xref ref-type="fig" rid="F4">4D</xref>) with two fuscous elongate marks near bases of sutural margins, nodal line suffused with pale brown marks, many fuscous spots marked from nodal line to apex, tips of spines on hind tibiae and tarsi black.</p>
+                    <p>Head and thorax. Head (<xref ref-type="fig" rid="F1">Figs 1D</xref>, <xref ref-type="fig" rid="F4">4A</xref>) projecting before eyes approximately 3/5 median length of eye, not strongly dorsoventrally depressed. Vertex (<xref ref-type="fig" rid="F1">Figs 1D</xref>, <xref ref-type="fig" rid="F4">4A, 4B</xref>) distinctly shorter in middle than the widest breadth (0.6: 1), distinctly longer than pronotum at midline (1.7: 1), anterior margin convex, broadly callused, uniting with base of frons to form smooth surface, lateral margins ridged and converged anteriorly, median carina long and percurrent, thickened and broad, posterior margin straight. Frons (<xref ref-type="fig" rid="F4">Fig. 4C</xref>) slightly longer medially than greatest width (1.3: 1), disc flat and smooth, covered with sparsely microsetae (<xref ref-type="fig" rid="F4">Fig. 4B</xref>), lateral margins diverging to below level of eyes, distinctly callused; median carina with basal part strongly broad and thickened, not reaching to frontoclypeal suture, obsolete on level of antennae. Clypeus (<xref ref-type="fig" rid="F4">Fig. 4C</xref>) triangular, with distinctly broad median carina. Pronotum (<xref ref-type="fig" rid="F1">Figs 1D</xref>, <xref ref-type="fig" rid="F4">4A</xref>) distinctly shorter than mesonotum in midline (0.2: 1), carinae broadly ridged, lateral carinae diverging posteriorly, median carina distinctly thickened and broad, reaching posterior margin. Pronotum and mesonotum together medially 3.0 times as long as median length of vertex. Hind tibiae each with 2 distinct lateral spines; spinal formula of hind leg 5–5–2. Forewings (<xref ref-type="fig" rid="F1">Figs 1D</xref>, <xref ref-type="fig" rid="F4">4D</xref>) relatively elongate and narrow, 3.0 times as long as maximum breadth, with corium smooth, not granulate, Sc+R forking at apical 2/5, Cu<sub>1</sub> forking after level of junction of claval veins, with 11 apical cells and 6 subapical cells, claval veins uniting at about middle of clavus.</p>
+                    <p>Male genitalia. Pygofer (<xref ref-type="fig" rid="F4">Figs 4E–G</xref>) irregular subquadrate in lateral view, anterior margin concave on dorsal 1/3, posterior margin produced caudad in lateral view. Anal tube (<xref ref-type="fig" rid="F4">Figs 4E, 4F</xref>) relatively elongate, ventral margin slightly bent ventrad in lateral view; lateral margins convex medially then narrowing distad, apical margin slightly<!--PageBreak--> concave in dorsal view; anal styles relatively long and narrow, surpassing apex of anal tube in dorsal view. Gonostylus (<xref ref-type="fig" rid="F4">Figs 4E, 4G</xref>) elongate, but not surpassing to apex of gonostylus, apical half narrow and basal half broad in lateral view; median conical process very small, sclerotized in ventral view. Periandrium (<xref ref-type="fig" rid="F4">Fig. 4E</xref>) distinctly elongate and slender, tube-like, distinctly sclerotized, with a short process directed caudad at dorsal apex, surrounding aedeagus subapically. Aedeagus (<xref ref-type="fig" rid="F4">Figs 4E, 4F</xref>) with shaft thin and tubular, arched and its apex directed ventrad in lateral view, endosoma membra<!--PageBreak-->nous, moderately expanded, with two, anteroventrally directed, spinous processes on right side in lateral view.</p>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p> <italic><tp:taxon-name>Tambinia robustocarina</tp:taxon-name></italic> sp. n.<bold>A</bold> head, pronotum and mesonotum, dorsal view <bold>B</bold> head, pronotum and mesonotum, lateral view <bold>C</bold> head, ventral view <bold>D</bold> left fore wing <bold>E</bold> male genitalia, left view <bold>F</bold> male genitalia, dorsal view <bold>G</bold> pygofer and gonostylus, ventral view. Scale bars: Figs A–C = 0.25 mm; D = 0.5 mm; E–G = 0.25 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-132-015-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p> Holotype ♂, MALAYSIA: Malaysia: Sabah: 25 km N Tambunan, 1500 m, 1983.IX.3, at black light, G. F. Hevel &amp; W. E. Steiner (USNM).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> This new species is named for the presence of a robust median carina on the vertex (<xref ref-type="fig" rid="F1">Figs 1D</xref>, <xref ref-type="fig" rid="F4">4A</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p> Malaysia (Sabah).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p> Based on the following combination of characters: head relatively short, not strongly dorsoventrally depressed, broadly produced anteriorly; vertex with median carina strongly thickened and broad; pronotum with median carina relatively broad and frons with basal part of median carina strongly broad and thickened, this species and the four previously described species, <italic><tp:taxon-name>Tambinia menglunensis</tp:taxon-name></italic>, <italic><tp:taxon-name>Tambinia rubrolineata</tp:taxon-name></italic>, <italic><tp:taxon-name>Tambinia similis</tp:taxon-name></italic> and <italic><tp:taxon-name>Tambinia theivora</tp:taxon-name></italic> form a very distinct group within <italic><tp:taxon-name>Tambinia</tp:taxon-name></italic>.</p>
+                    <p>In external appearance, this species is similar to <italic><tp:taxon-name>Tambinia similis</tp:taxon-name></italic> (<xref ref-type="fig" rid="F1">Fig. 1C</xref>) and but differs from the latter in the median carina on vertex long and percurrent, thickened and broad, but not spatula-like, forewings relatively broad, nodal line relatively near middle and cell Sc without a short cross vein at its apical angle. This species is also similar to <italic><tp:taxon-name>Tambinia menglunensis</tp:taxon-name></italic> (see Men and Qin, 2009: 263, Figs 1, 2), but differs from the latter in the obsolete spots and markings on the vertex, pronotum, mesomotum and forewings, median carinae on vertex, pronotum and frons strongly thickened and broad, and gonostylus with median conical process very small.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Tambinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">sexmaculata</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:56274E10-6B5F-41CC-9DB7-563446EC4CD2</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Tambinia_sexmaculata</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1E</xref>
+                    <xref ref-type="fig" rid="F5">5A–H</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body length (from apex of vertex to tip of forewings): ♂ 6.2 mm (N=1), ♀, 6.6–6.8 mm (N=2).</p>
+                    <p>Colour. General colour tawny yellow, vertex (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5A</xref>) with six red spots, genae (<xref ref-type="fig" rid="F5">Fig. 5B</xref>) with orange patch between eye and lateral margin of frons, forewings (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5D</xref>) with two pairs of red spots near bases of sutural margins and distad of level of union of claval veins, relatively, tips of spines on hind tibiae and tarsi black.</p>
+                    <p>Head and thorax. Head (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5A</xref>) projecting before eyes 1.2 times as long as median length of eye, strongly dorsoventrally depressed. Vertex (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5A</xref>) distinctly longer in middle than the widest breadth (1.1: 1), distinctly longer than pronotum at midline (2.3: 1); anterior margin projected at an obtuse angle in dorsal view, lateral margins ridged and converged anteriorly; median carina thin and percurrent, with a pair of short sublateral carinae basally between median carina and lateral margins; posterior margin nearly straight. Frons (<xref ref-type="fig" rid="F5">Fig. 5C</xref>) longer in middle than the widest breadth (1.6: 1), disc flat and smooth, covered with very sparsely microsetae (<xref ref-type="fig" rid="F5">Figs 5B, 5C</xref>); lateral margins sinuous, diverging from apex, slightly concave at level of eyes, then slightly diverging to<!--PageBreak--> reach their widest point before converging to the clypeus; median carina long and slender, nearly reaching to frontoclypeal suture. Clypeus (<xref ref-type="fig" rid="F5">Fig. 5C</xref>) triangular, with distinct median carina. Pronotum (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5A</xref>) distinctly shorter than mesonotum in midline (0.3: 1), carinae strongly ridged, lateral carinae moderately diverging posteriorly, median <!--PageBreak-->carina distinct, reaching posterior margin. Pronotum and mesonotum together medially 2.0 times as long as median length of vertex. Hind titiae each with 2 distinct lateral spines; spinal formula of hind leg 4–5–2. Forewings (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5D</xref>) relatively elongate and narrow, 2.8 times as long as maximum breadth, with corium smooth, not granulate, Sc+R forking at 2/5 apical, Cu<sub>1</sub> forking at level of junction of claval veins, with 12–13 apical cells and 5 subapical cells, claval veins uniting distad of middle of clavus.</p>
+                    <p>Male genitalia. Pygofer (<xref ref-type="fig" rid="F5">Figs 5F–H</xref>) moderately broad, anterior margin concave on dorsal 1/3, posterior margin convex caudad in lateral view. Anal tube (<xref ref-type="fig" rid="F5">Figs 5F, 5G</xref>) distinctly elongate, almost surpassing to apex of gonostylus, ventral margin slightly curve dorsad in lateral view; lateral margins concave medially then diverging from apex, apical margin distinctly concaved in dorsal view; anal styles long and strong, surpassing apex of anal tube in dorsal view. Gonostylus (<xref ref-type="fig" rid="F5">Figs 5F, 5H</xref>) very narrow, expanded subapically then narrowing to apex, directed caudad in lateral view; median conical process distinct, relatively short. Periandrium (<xref ref-type="fig" rid="F5">Figs 5F, 5G</xref>) distinctly elongate and sclerotized, tube-like, surrounding aedeagus medially, with a long, sinuate process at left side, dorsoposteriorly directed. Aedeagus (<xref ref-type="fig" rid="F5">Figs 5F, 5G</xref>) with shaft tubular, apical part abruptly curved through approximately 30˚, directed to right; endosoma indistinct.</p>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p> <italic><tp:taxon-name>Tambinia sexmaculata</tp:taxon-name></italic> sp. n. <bold>A</bold> head, pronotum and mesonotum, dorsal view <bold>B</bold> head, pronotum and mesonotum, lateral view <bold>C</bold> head, ventral view <bold>D</bold> right fore wing <bold>E</bold> right hind wing <bold>F</bold> male genitalia, left view <bold>G</bold> male genitalia, dorsal view <bold>H</bold> pygofer and gonostylus, ventral view. Scale bars: Figs A–C = 0.25 mm; D–E = 0.5 mm; F–H = 0.25 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-132-015-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p> Holotype ♂, AUSTRALIA: Kuranda N. Q. Australia, 1904.VIII.10. Koebele, W. M. Giffard Collection (CAS). Paratypes. 2♀♀, the same data with Holotype (CAS).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> This new species is named for the presence of six reddish markings on vertex (<xref ref-type="fig" rid="F1">Figs 1E</xref>, <xref ref-type="fig" rid="F5">5A</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p> Australia (Kuranda).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p> This species is similar to <italic><tp:taxon-name>Tambinia conus</tp:taxon-name></italic> but can be distinguished from the latter in the vertex with six red spots, forewings with two pairs of red spots and by the male genitalia structure (<xref ref-type="fig" rid="F5">Figs 5F–H</xref>), especially the shape of anal tube, median conical process of gonostylus relatively small, periandrium relatively long, with a long, sinuate process at left side, dorsoposteriorly directed, and the shaft of aedeagus apical part abruptly curved through approximately 30˚, directed to right.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>The work on which this paper is based was supported by the following sources: the National Natural Science Foundation of China (grant number 30900145), awarded to RRW and the National Natural Science Foundation of China (grant numbers 30530110, 30770269, 30970400), a grant (No. O529YX5105) from the Key Laboratory of the Zoological Systematics and Evolution of the Chinese Academy of Sciences, the National Science Fund for Fostering Talents in Basic Research (Special subjects in animal taxonomy, NSFC-J0630964/J0109), all awarded to APL.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Asche</surname><given-names>M</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>MR</given-names></name></person-group> (<year>1989</year>)<article-title> The plant-feeding planthopper genus Ommatissus (Homoptera, Fulgoroidea: Tropiduchidae).</article-title> <source>Systematic Entomology </source> <volume>14</volume>: <fpage>127</fpage>-<lpage>147</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-3113.1989.tb00271.x" xlink:type="simple">doi: 10.1111/j.1365-3113.1989.tb00271.x</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bourgoin</surname><given-names>T</given-names></name><name name-style="western"><surname>Huang</surname><given-names>J</given-names></name></person-group> (<year>1990</year>)<article-title> Morphologie comparée des genitalia mâles des Trypetimorphini et remarques phylogénétiques (Hemiptera: Fulgoromorpha: Tropiduchidae).</article-title> <source>Annales de la Société Entomologique de France (Nouvelle Série) </source> <volume>26</volume>: <fpage>555</fpage>-<lpage>564</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Distant</surname><given-names>WL</given-names></name></person-group> (<year>1906</year>)<source> The Fauna of British India, Including Ceylon and Burma, Rhynchota 3 (Heteroptera-Homoptera),Taylor &amp; Francis, London, 175–491.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Distant</surname><given-names>WL</given-names></name></person-group> (<year>1916</year>)<source> The Fauna of British India, Including Ceylon and Burma, Rhynchota 6 (Heteroptera-Homoptera), Taylor &amp; Francis, London, 17–145.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fennah</surname><given-names>RG</given-names></name></person-group> (<year>1956</year>)<article-title> Homoptera: Fulgoroidea.</article-title> <source>Insects of Micronesia </source> <volume>6</volume> (<issue>3</issue>): <fpage>1</fpage>-<lpage>211</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fennah</surname><given-names>RG</given-names></name></person-group> (<year>1970</year>)<article-title> The Tropiduchidae collected by the Noona Dan Expedition in the Philippines and Bismarck Archipelago (Insect, Homoptera, Fulgoroidea).</article-title> <source>Steenstrupia </source> <volume>1</volume>: <fpage>61</fpage>-<lpage>82</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fennah</surname><given-names>RG</given-names></name></person-group> (<year>1982</year>)<article-title> A tribal classification of the Tropiduchidae (Homoptera: Fulgoroidea), with the description of a new species on tea in Malaysia.</article-title> <source>Bulletin of Entomological Research </source> <volume>72</volume>: <fpage>631</fpage>-<lpage>643</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0007485300008658" xlink:type="simple">doi: 10.1017/S0007485300008658</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ghauri</surname><given-names>MSK</given-names></name></person-group> (<year>1976</year>)<article-title> The genus <italic>Numicia</italic> from economic plants in the oriental region (Homoptera: Fulgoroidea).</article-title> <source>Systematic Entomology </source> <volume>1</volume> (<issue>1</issue>): <fpage>9</fpage>-<lpage>13</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-3113.1976.tb00027.x" xlink:type="simple">doi: 10.1111/j.1365-3113.1976.tb00027.x</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liang</surname><given-names>AP</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>GM</given-names></name></person-group> (<year>2003</year>)<article-title> Two new species of <italic>Tambinia</italic> Stål (Hemiptera: Tropiduchidae) from China, Laos and Vietnam, with description of eggs.</article-title> <source>Journal of the Kansas Entomological Society </source> <volume>76</volume> (<issue>3</issue>): <fpage>509</fpage>-<lpage>517</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Melichar</surname><given-names>L</given-names></name></person-group> (<year>1914</year>)<article-title> Monographie der Tropiduchinen (Homoptera).</article-title> <source>Verhandlungen des Naturforschenden Vereins in Brünn </source> <volume>53</volume>: <fpage>1</fpage>-<lpage>145</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Matsumura</surname><given-names>S</given-names></name></person-group> (<year>1914</year>)<article-title> Beitrag zur kenntnis der Fulgoriden Japans.</article-title> <source>Annales Historico-Naturales Musei Nationalis Hungarici </source> <volume>12</volume>: <fpage>261</fpage>-<lpage>305</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Men</surname><given-names>QL</given-names></name><name name-style="western"><surname>Qin</surname><given-names>DZ</given-names></name><name name-style="western"><surname>Liu</surname><given-names>GL</given-names></name></person-group> (<year>2009</year>)<article-title> A Taxonomic Study of the Genus <italic>Tambinia</italic> Stål (Hemiptera: Fulgoroidea: Tropiduchidae) from China.</article-title> <source>Entomotaxonomia </source> <volume>31</volume> (<issue>1</issue>): <fpage>6</fpage>-<lpage>8</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Metcalf</surname><given-names>ZP</given-names></name></person-group> (<year>1946</year>)<article-title> Insects of Guam. II. Homoptera. Fulgoroidea and Jassoidea of Guam. Bulletin of the Bernice P.</article-title> <source>Bishop Museum </source> <volume>189</volume>: <fpage>105</fpage>-<lpage>148</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Metcalf</surname><given-names>ZP</given-names></name></person-group> (<year>1954</year>)<source> General Catalogue of the Homoptera. Fasc. IV. Fulgoroidea. Part 11. Tropiduchidae), North Carolina State College, Raleigh, NC, USA, 1–167.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Muir</surname><given-names>F</given-names></name></person-group> (<year>1931</year>)<article-title> New and little-known Fulgoroidea in the British Museum (Homoptera).</article-title> <source>Annals and Magazine of Natural History </source> <volume>7</volume> (<issue>10</issue>): <fpage>297</fpage>-<lpage>314</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>O’Brien</surname><given-names>LB</given-names></name></person-group> (<year>2010</year>)<article-title> New species of New World Tambiniini from palms.</article-title> <source>Cicadina </source> <volume>11</volume>: <fpage>3</fpage>-<lpage>12</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stål</surname><given-names>C</given-names></name></person-group> (<year>1859</year>)<article-title> Novae quaedem Fulgorinorum formae speciesque insigniores.</article-title> <source>Berliner Entomologische Zeitschrift </source> <volume>3</volume>: <fpage>313</fpage>-<lpage>327</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stål</surname><given-names>C</given-names></name></person-group> (<year>1870</year>)<article-title> Hemiptera insularum Philippinarum. Bidrag till Philippinska öarnes Hemiptera-fauna. Öfversigt af Kongl.</article-title> <source>Vetenskaps-akademiens förhandlingar </source> <volume>27</volume>: <fpage>607</fpage>-<lpage>776</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>RR</given-names></name><name name-style="western"><surname>Liang</surname><given-names>AP</given-names></name><name name-style="western"><surname>Webb</surname><given-names>MD</given-names></name></person-group> (<year>2009</year>)<article-title> A new tropiduchid planthopper genus and species from China with descriptions of in copula genitalic structures (Hemiptera: Fulgoromorpha).</article-title> <source>Systematic Entomology </source> <volume>34</volume>: <fpage>434</fpage>-<lpage>442</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-3113.2009.00475.x" xlink:type="simple">doi: 10.1111/j.1365-3113.2009.00475.x</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilson</surname><given-names>MR</given-names></name></person-group> (<year>1986</year>)<article-title> An Indian Tropiduchid planthopper <italic>Tambinia verticalis</italic> Distant (Hemiptera: Fulgoroi4a) breeding on coconut in Zanzibar.</article-title> <source>Bulletin of Entomological Research </source> <volume>76</volume>: <fpage>385</fpage>-<lpage>388</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0007485300014875" xlink:type="simple">doi: 10.1017/S0007485300014875</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilson</surname><given-names>MR</given-names></name><name name-style="western"><surname>Malenovský</surname><given-names>I</given-names></name></person-group> (<year>2007</year>)<article-title> Tropiduchidae described by Leopold Melichar (Hemiptera, Fulgoromorpha).</article-title> <source>Acta Musei Moraviae, Scientiae biologicae (Brno) </source> <volume>92</volume>: <fpage>137</fpage>-<lpage>153</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilson</surname><given-names>SW</given-names></name><name name-style="western"><surname>O’Brien</surname><given-names>LB</given-names></name></person-group> (<year>1987</year>)<article-title> A survey of planthoppers pests of economically important plants (Homoptera: Fulgoroidea).</article-title> In: <person-group><name name-style="western"><surname>Wilson</surname><given-names>MR</given-names></name><name name-style="western"><surname>Nault</surname><given-names>LR</given-names></name></person-group> (<role>Eds</role>). <issue-title>Proceedings of 2nd International Workshop on Leafhoppers and Planthoppers of Economic Importance, Provo, Utah, USA, 28th July-1st August 1986.</issue-title> <source>CAB International Institute of Entomology, London</source>: <fpage>343</fpage>-<lpage>360</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yang</surname><given-names>JT</given-names></name><name name-style="western"><surname>Yang</surname><given-names>CT</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>MR</given-names></name></person-group> (<year>1989</year>)<article-title> Tropiduchidae of Taiwan (Homoptera: Fulgoroidea).</article-title> <source>Collected Papers on Homoptera of Taiwan, Taiwan Musesum Special Publication </source> <volume>8</volume>: <fpage>65</fpage>-<lpage>115</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

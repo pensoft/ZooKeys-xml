@@ -1,0 +1,200 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3179</article-id>
+            <title-group>
+                <article-title>OpenUp! Creating a cross-domain pipeline for natural history data</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Berendsohn</surname>
+                        <given-names>Walter G.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Güntsch</surname>
+                        <given-names>Anton</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biodiversity Informatics and Laboratories, Botanic Garden and Botanical Museum Berlin-Dahlem, Freie Universität Berlin, Königin-Luise-Straße 6-8, D-14195 Berlin, Germany
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: W. G. Berendsohn (<email xlink:type="simple">w.berendsohn@bgbm.org</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Vladimir Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>47</fpage>
+            <lpage>54</lpage>
+            <history>
+                <date date-type="received">
+                    <day>2</day>
+                    <month>4</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Walter G. Berendsohn, Anton Güntsch</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Multimedia data held by Natural History Museums and Universities are presently not readily accessible, even within the natural history community itself. The EU project OpenUp! is an effort to mobilise scientific biological multimedia resources and open them to a wider audience using the EUROPEANA data standards and portal. The connection between natural history and EUROPEANA is accomplished using well established BioCASe and GBIF technologies. This is complemented with a system for data quality control, data transformation and semantic enrichment. With this approach, OpenUp! will provide at least 1,1 Million multimedia objects to EUROPEANA by 2014. Its lean infrastructure is sustainable within the natural history community and will remain functional and effective in the post-project phase.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>OpenUp!</kwd>
+                <kwd>BioCASe</kwd>
+                <kwd>EUROPEANA</kwd>
+                <kwd>GBIF</kwd>
+                <kwd>Multimedia</kwd>
+                <kwd>ABCD</kwd>
+                <kwd>ESE</kwd>
+                <kwd>EDM</kwd>
+                <kwd>Biodiversity Informatics</kwd>
+                <kwd>Collections</kwd>
+                <kwd>Natural History</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The vast majority of global collections of biological organisms and images of organisms are held by institutions such as natural history museums and universities, in the realm of natural sciences. Nevertheless, nature is of course a major subject in the context of cultural history and humanities, and numerous cultural objects represent organisms <!--PageBreak-->(<xref ref-type="fig" rid="F1">Fig. 1</xref>). Both communities have started to digitise their objects and to publish the resulting multimedia data to make them accessible to a wider audience. The prevalent disjunction between them, however, has led to procedures, technologies, and data standards being optimized for the respective community’s needs. The resulting incompatibilities prevent semantic linking and joined access.
+            </p>
+            <p>In fact, there is a significant need for convenient joint access to the collection and multimedia holdings of different scientific communities. In the context of art history, for example, access to plant identifications provided by herbaria can be an important tool for the analysis of, e.g., ornaments in works of art. In turn, linking artwork with natural history specimens raises the general awareness of this important research tool and thus serves the museum community. And cultural background may be documented with natural history specimens; e.g. the collections during famous expeditions like those of Humboldt and Bonpland, and data on local uses recorded with the description of the collected organism.</p>
+            <p>EUROPEANA is the European portal to museums, libraries, archives, and audio-visual collections (<xref ref-type="bibr" rid="B15">Purday 2009</xref>). EUROPEANA has the potential to bridge the gulf between multimedia collections held by different communities by providing a common cross-domain user portal and web services based on unified metadata standards. During its first years of construction, EUROPEANA was clearly focused on cultural content,<!--PageBreak--> largely neglecting natural science objects. A series of biodiversity-related EU-projects such as STERNA (<xref ref-type="bibr" rid="B16">Sterna 2008</xref>), BHL-Europe (<xref ref-type="bibr" rid="B3">BHL-Europe 2009</xref>), Natural Europe (<xref ref-type="bibr" rid="B12">Natural Europe 2012</xref>), and OpenUp! (<xref ref-type="bibr" rid="B2">Berendsohn et al. 2011</xref>) widened EUROPEANA’s scope to include natural history content. OpenUP! is the instrument for mobilizing and providing high volumes of biological multimedia collection objects for EUROPEANA. By end of the project (March 2014), OpenUp! will have delivered access to at least 1,1 Million objects and their corresponding data and metadata. More importantly, OpenUp! implements a sustainable pipeline from natural history collections to EUROPEANA (and potentially to other portals using the EUROPEANA standards). Recent initiatives to further digitisation of specimens (e.g. in the context of the industrial-scale e-RECOLNAT project in France, digitising all French herbarium specimens; or the NSF-funded iDigBio initiative in the US) will bring massive amounts of such objects on line. Using the OpenUp! approach, collection holders can publish their metadata and image locations, making them available to a wide audience beyond the natural history community. This pipeline scales up and will continue to function and provide access to the rapidly growing stock of multimedia content held by natural history institutions.
+            </p>
+            <p>Of course we are fully aware of the problems of semantic mapping of metadata, especially with the taxonomic concepts represented by the name (e.g. <xref ref-type="bibr" rid="B8">Geoffroy and Berendsohn 2003</xref>). However, though this (as most of the retrievable information on the Internet) is not satisfying from a scientific view, we still posit that exposing natural history object information to a hugely enlarged audience (as offered by EUROPEANA) will help both the data providers as well as the users. The former will gain by the raised awareness of their holdings and by drawing attention to their cultural context, the latter will (in many cases for the first time in their life) become aware that such collections exist. And as a major side effect of mobilising the information for various networks simultaneously, researchers can choose to access the information through other interfaces that are less fuzzy in that respect (e.g. <xref ref-type="bibr" rid="B10">Güntsch et al. 2009</xref>).
+            </p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Herbarium specimen Crocus vernus L. (© Botanic Garden and Botanical Museum Berlin-Dahlem, Germany) and Tapestry called Krokus by Britta Rendahl (1976) (© Upplandsmuseet, Uppsala, Sweden).</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-209-047-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="The OpenUp! approach">
+            <title>The OpenUp! approach</title>
+            <p>OpenUp! creates an information flow from holders of collection multimedia data to the EUROPEANA data portal and services, but it avoids as much as possible the development and deployment of project-specific software modules. Rather, existing and well established protocols, standards, and software tools are used, resulting in an infrastructure that can be maintained with low maintenance costs beyond the funded project phase (<xref ref-type="fig" rid="F2">Fig. 2</xref>).
+            </p>
+            <p>OpenUp! data providers are usually connecting their existing collection management databases to the network. These databases are part of their institutional work flow so that maintenance and updating is part of the institutional setup. Connection is accomplished by equipping the local database with an installation of the BioCASe provider software package (<xref ref-type="bibr" rid="B11">Holetschek et al. 2009</xref>), and by mapping the local data definitions to the TDWG Biodiversity Information Standard “Access to Biological <!--PageBreak-->Collection Information” (ABCD, <xref ref-type="bibr" rid="B1">Berendsohn 2005</xref>). The software translates the local data to ABCD and allows querying the database over the Internet. The same installation is also used to provide data to the GBIF network. The only difference is that the configuration of the provider software for OpenUp! has to ensure that a minimal set of data elements required by the EUROPEANA portal are made available. The central OpenUp! aggregator notifies providers if this condition has not been met.
+            </p>
+            <p>Harvesting of ABCD data and storage on the central aggregation server is performed using the GBIF Harvesting and Indexing Toolkit (HIT, <xref ref-type="bibr" rid="B7">GBIF 2011</xref>). The aggregator database stores only the textual data, including the URIs of the multimedia data. It is implemented using the same system that is used by the BHL Europe project. From there, the data from the ABCD standard used by the natural history domain are transformed into ESE (<xref ref-type="bibr" rid="B6">ESE 2011</xref>), which is used as a cross-domain metadata standard in EUROPEANA. The transformation is carried out using Pentaho Data Integration (aka Kettle, <xref ref-type="bibr" rid="B14">Pentaho 2011</xref>). The mapping between ABCD and ESE concepts is based on a thorough analysis of both standards, considering the semantics of natural history data elements used in a cross-domain context (<xref ref-type="bibr" rid="B17">Theeten et al. 2012</xref>).<!--PageBreak-->
+            </p>
+            <p>OpenUp! metadata are periodically harvested by EUROPEANA via a single OAI-PMH access point at the aggregator database. Previews of multimedia objects for presentation and queries in the EUROPEANA portal are generated by EUROPEANA from full object URLs given in the metadata. The object itself and its presentation (e.g. using an image server or streaming software for audio files) stay with the provider, who also retains full rights of the multimedia file. The existence of the file is checked during the ABCD/ESE conversion process. Additionally, the central OpenUp! server will cyclically check the links to multimedia files and warn data providers if files become unavailable. In case of enduring problems, the links metadata will be excluded from the process.</p>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Information flow from a collection data provider via the central OpenUp! aggregator to the EUROPEANA harvester and portal. The collection database uses standard BioCASe/ABCD technology for connecting up to the network.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-209-047-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <sec sec-type="Data Quality Control">
+                <title>Data Quality Control</title>
+                <p>Organising the basic information flow and data transformation process from biological multimedia collections to the EUROPEANA portal took considerable project resources. However, improving the content with regard to data quality and usability is the main item in the OpenUp! budget (which is co-funded by the European Union and the participants in the project). To support this process, some tools were implemented to support providers in the detection of data quality problems in their databases. Again, this “Data Quality Toolkit” mostly relies on existing systems and only a relatively lightweight interface layer is specific to OpenUp!</p>
+                <p>The OpenUp! Data Quality Toolkit (<xref ref-type="fig" rid="F3">Fig. 3</xref>) operates directly on a given individual installation of the BioCASE provider software. It pages through a subset of ABCD records defined in its web-based user interface (<xref ref-type="bibr" rid="B13">OpenUp! 2012</xref>). Based on the user’s choice of data quality rules to be applied, ABCD elements are then sent to an evolving set of data quality services analysing particular aspects of the data. This includes botanical and zoological name and concept checks for identifications, checks of compliance of ABCD elements to controlled vocabularies (e.g. country codes, mime types <!--PageBreak-->for multimedia objects), and syntax of email-elements, dates and URLs. The toolkit then writes potential data problems as XML-encoded annotations directly into the ABCD-records they refer to and sends the compilation of all problem-records back to the user (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Users may also choose asynchronous access to avoid waiting periods. The tool provides suggestions to providers, which they may (or may not) take up in their OpenUp! quality enhancement task.
+                </p>
+                <p>By decoupling the Data Quality Toolkit user interface layer from the underlying data quality services, the services themselves can be used in other contexts, and in turn, OpenUp! can integrate data quality services provided by other projects or initiatives. Collaborations have already started with the EU project BioVeL (Biodiversity Virtual e-Laboratory, <xref ref-type="bibr" rid="B4">BioVeL 2012</xref>) and the reBiND project funded by the German research foundation (<xref ref-type="bibr" rid="B9">Güntsch and Berendsohn in press</xref>).
+                </p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>The OpenUp! Data Quality Toolkit</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-047-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>OpenUp! Data Quality Toolkit annotation indicating that an identification is using a name which is a synonym (according to a concept reconciliation service provided by Kew Gardens).</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-047-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Semantic Enrichment">
+                <title>Semantic Enrichment</title>
+                <p>The impact of the presentation of natural history specimens in a cross-domain context like EUROPEANA will partly depend on the possibilities for semantic linking with other content. Semantic linking is made possible by the metadata provided, so it can be enhanced by enriching the domain vocabularies used by the providers in the metadata. For example, in natural history databases typically the Latin scientific name is entirely sufficient (and indeed the most precise way) to denote the identification of the specimen. In contrast, content from the cultural domain will usually refer to an organism by<!--PageBreak--> means of a common name. Users from that domain would not find the corresponding natural history object with their searches. Enhancing the natural history metadata by adding common names will close that gap.</p>
+                <p>In OpenUp! the botanical and zoological name services will be used to add synonym lists to the Latin names provided by the collection holders. A forthcoming OpenUp! service will be used for adding multilingual common names to the scientific names. In addition, external services will be used for adding further geographic information to the place names contained in the specimen data.</p>
+            </sec>
+            <sec sec-type="Outlook">
+                <title>Outlook</title>
+                <p>During the first project year, OpenUp! has mobilised more than 220,000 natural history multimedia objects and made them available through EUROPEANA and GBIF, and the numbers are rapidly growing. Specimens displayed in the EUROPEANA portal demonstrate the feasibility of the principle data flows in OpenUp!. However, they also brought to light the weakness of the portal or in fact of the underlying ESE standard. Multimedia objects representing collection objects often have a strong relation to each other (e.g. several images from one specimen), which the portal does not adequately represent in its present stage. With the transition to the new metadata standard EDM (Europeana Data Model, <xref ref-type="bibr" rid="B5">Doerr et al. 2010</xref>) planned for 2012, nested object structures will be implemented. The millions of objects expected from the Natural History world will provide an ideal test bed for both metadata for linked objects and portal user interfaces and services providing searchable access to complex structured data.
+                </p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name></person-group> (<role>Ed</role>) (<year>2005</year>-) <source>Access to Biological Collection Data. ABCD Schema 2.06 – ratified TDWG Standard.</source> <publisher-name>TDWG Task Group on Access to Biological Collection Data, BGBM</publisher-name>, <publisher-loc>Berlin</publisher-loc>. <ext-link ext-link-type="uri" xlink:href="http://www.bgbm.org/TDWG/CODATA/Schema/default.htm" xlink:type="simple">http://www.bgbm.org/TDWG/CODATA/Schema/default.htm</ext-link> [accessed 26 Mar 2012]</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name></person-group> (<year>2011</year>)<source> OpenUp! Creating a cross-domain pipeline for biodiversity data. Abstracts. TDWG 2011 Annual Conference. <ext-link ext-link-type="uri" xlink:href="https://mbgserv18.mobot.org/ocs/index.php/tdwg/2011/paper/view/96" xlink:type="simple">https://mbgserv18.mobot.org/ocs/index.php/tdwg/2011/paper/view/96</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>BHL-Europe</surname></name></person-group> (<year>2009</year>)<source> Biodiversity Heritage Library Europe. <ext-link ext-link-type="uri" xlink:href="http://www.bhl-europe.eu/" xlink:type="simple">http://www.bhl-europe.eu/</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>BioVeL</surname></name></person-group> (<year>2012</year>)<source> BioVeL – Biodiversity Virtual e-Laboratory. <ext-link ext-link-type="uri" xlink:href="http://www.biovel.eu/" xlink:type="simple">http://www.biovel.eu/</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Doerr</surname> <given-names>M</given-names></name><name name-style="western"><surname>Gradmann</surname> <given-names>S</given-names></name><name name-style="western"><surname>Hennicke</surname> <given-names>S</given-names></name><name name-style="western"><surname>Isaac</surname> <given-names>A</given-names></name><name name-style="western"><surname>Meghini</surname> <given-names>C</given-names></name><name name-style="western"><surname>Van de Sompel</surname> <given-names>H</given-names></name></person-group> (<year>2010</year>)<source> The Europeana Data Model (EDM). World Library and Information Congress: 76th IFLA General Conference and Assembly. <ext-link ext-link-type="uri" xlink:href="http://www.ibi.hu-berlin.de/forschung/publikationen/wissensmanagement/DoerrEtAl2010" xlink:type="simple">http://www.ibi.hu-berlin.de/forschung/publikationen/wissensmanagement/DoerrEtAl2010</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>ESE</surname></name></person-group> (<year>2011</year>)<source> Europeana: Europeana semantic Elements (ESE). <ext-link ext-link-type="uri" xlink:href="http://www.europeana.eu/schemas/ese/" xlink:type="simple">http://www.europeana.eu/schemas/ese/</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>GBIF</surname></name></person-group> (<year>2011</year>)<source> The GBIF Harvesting and Indexing Toolkit (HIT). <ext-link ext-link-type="uri" xlink:href="http://code.google.com/p/gbif-indexingtoolkit/" xlink:type="simple">http://code.google.com/p/gbif-indexingtoolkit/</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Geoffroy</surname> <given-names>M</given-names></name><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name></person-group> (<year>2003</year>)<article-title> The concept problem in taxonomy: importance, components, approaches.</article-title> <source>Schriftenreihe Vegetationsk </source> <volume>39</volume>: <fpage>5</fpage>-<lpage>14</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Güntsch</surname> <given-names>A</given-names></name><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name></person-group> (<year>in press</year>)<source> A rescue strategy for threatened biodiversity data. In: Proceedings of PV2011 - Ensuring long-term preservation and adding value to scientific and technical data, Toulouse.</source></mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Güntsch</surname> <given-names>A</given-names></name><name name-style="western"><surname>Hoffmann</surname> <given-names>N</given-names></name><name name-style="western"><surname>Kelbert</surname> <given-names>P</given-names></name><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name></person-group> (<year>2009</year>)<source> Effectively searching specimen and observation data with TOQE, the Thesaurus Optimized Query Expander. Biodiversity Informatics 6: 53–58. <ext-link ext-link-type="uri" xlink:href="https://journals.ku.edu/index.php/jbi/article/view/1631/3472" xlink:type="simple">https://journals.ku.edu/index.php/jbi/article/view/1631/3472</ext-link> [accessed 22 Jun 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holetschek</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kelbert</surname> <given-names>P</given-names></name><name name-style="western"><surname>Müller</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ciardelli</surname> <given-names>P</given-names></name><name name-style="western"><surname>Güntsch</surname> <given-names>A</given-names></name><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name></person-group> (<year>2009</year>)<source> International Networking of Large Amounts of Primary Biodiversity Data. In: Fischer S, Maehle E, Reischuk R (Eds) INFORMATIK 2009, Im Focus das Leben. Lecture Notes in Informatics (LNI) 154: 23; 552–564.</source></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Natural Europe</surname></name></person-group> (<year>2012</year>)<source> Natural Europe. <ext-link ext-link-type="uri" xlink:href="http://www.natural-europe.eu/" xlink:type="simple">http://www.natural-europe.eu/</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>OpenUp!</surname></name></person-group> (<year>2012</year>)<source> The ABCD Data Quality Toolkit. <ext-link ext-link-type="uri" xlink:href="http://services.bgbm.org/DataQualityToolkit/" xlink:type="simple">http://services.bgbm.org/DataQualityToolkit/</ext-link> [accessed 29 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pentaho</surname></name></person-group> (<year>2011</year>)<source> Pentaho Kettle Project. <ext-link ext-link-type="uri" xlink:href="http://kettle.pentaho.com/" xlink:type="simple">http://kettle.pentaho.com/</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Purday</surname> <given-names>J</given-names></name></person-group> (<year>2009</year>)<source> Think culture: Europeana.eu from concept to construction, The Electronic Library 27(6): 919–937. <ext-link ext-link-type="uri" xlink:href="http://www.emeraldinsight.com/journals.htm?articleid=1827227" xlink:type="simple">http://www.emeraldinsight.com/journals.htm?articleid=1827227</ext-link> [accessed 22 Jun 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sterna</surname></name></person-group> (<year>2008</year>)<source> About Sterna. <ext-link ext-link-type="uri" xlink:href="http://www.sterna-net.eu/index.php/en/about" xlink:type="simple">http://www.sterna-net.eu/index.php/en/about</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Theeten</surname> <given-names>F</given-names></name><name name-style="western"><surname>Roca Ristol</surname> <given-names>P</given-names></name><name name-style="western"><surname>Jacob</surname> <given-names>B</given-names></name><name name-style="western"><surname>Jõgeva</surname> <given-names>J</given-names></name></person-group> (<year>2012</year>)<source> OpenUp! Guidelines for users and content providers v. 1. <ext-link ext-link-type="uri" xlink:href="http://open-up.cybertaxonomy.africamuseum.be/file/722/download/739" xlink:type="simple">http://open-up.cybertaxonomy.africamuseum.be/file/722/download/739</ext-link> [accessed 26 Mar 2012]</source></mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,648 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.100.1532</article-id>
+            <title-group>
+                <article-title>
+                A plea for using qualitative aspects in the interpretation of ecological field data as revealed by the proof of carabid beetle assemblages of a pristine salt marsh
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Mossakowski</surname>
+                        <given-names>Dietrich</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Dormann</surname>
+                        <given-names>Wolfgang</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Seeweg 10, D-23942 Groß Schwansee
+            </aff>
+            <aff id="A2">
+                <label>2</label>Am Rolandsgraben 11, D-28865 Lilienthal
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Dietrich Mossakowski (<email xlink:type="simple">dmossa@uni-bremen.de</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Th. Assmann</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>5</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>100</issue>
+            <fpage>273</fpage>
+            <lpage>286</lpage>
+            <history>
+                <date date-type="received">
+                    <day>1</day>
+                    <month>12</month>
+                    <year>2009</year>
+                </date>
+                <date date-type="accepted">
+                    <day>28</day>
+                    <month>12</month>
+                    <year>2010</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Dietrich Mossakowski, Wolfgang Dormann</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The evaluation of ecological field data can be done by an increasing number of quantitative methods. The application of these methods often is often blind against two kinds of problems: (i) the data often do not meet the requirements of a method, e.g., as an ultra-metric structure of the data in the case of hierarchical cluster analysis. In such cases, the result will be misleading because the presentation of results is ultra-metric independent on the structure of the data. (ii) Most of the animals are able to move actively or may  drift passively by wind, etc. Therefore, species occurring by accident like vagrants have to be eliminated from the assemblage of animals at a particular site before a quantitative method is applied. In addition, the result of a quantitative analysis has to be checked for its ecological plausibility. This is a qualitative step, which can only be done by taking into account the known data on biology and ecology of the species.</p>
+                <p>Some pitfalls of an exclusive application of quantitative methods will be demonstrated in this paper using a data set of salt marsh <tp:taxon-name>Carabidae</tp:taxon-name>.</p>    
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Cluster analysis</kwd>
+                <kwd>indicator value</kwd>
+                <kwd>qualitative interpretation</kwd>
+                <kwd>ecological field data</kwd>
+                <kwd>Carabidae</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>In the literature, the representation and evaluation of ecological field data is achieved by a broad spectrum of different methods ranging from vegetation tables to trees of similarity of sites. <xref ref-type="bibr" rid="B10">McGeoch (1998)</xref> recommended a nine-step procedure for the evaluation of ecological field data in a paper on terrestrial insects as bioindicators. She explicitly demands that ecologists use quantitative data and procedures including statistics. In general, quantitative data are indispensable, and the interpretation and representation of data by quantitative methods is a must. But two kinds of problems exist when a quantitative method is applied blindly. (i) The data often do not meet the requirements of a method, e.g., as an ultra-metric structure of the data in the case of hierarchical cluster analysis. In such cases, the result will be misleading because the presentation of results is ultra-metric independent on the structure of the data. (ii) Most of the animals are able to move actively or may drift passively by wind etc. Therefore, species occurring by accident like vagrants have to be eliminated from the assemblage of animals at a particular site before a quantitative method is applied. In addition, the result of a quantitative analysis has to be checked for its ecological plausibility. This is a qualitative step, which can only be done by taking into account the known data on biology and ecology of the species.</p>
+            <p><xref ref-type="bibr" rid="B8">Dufrène and Legendre (1997)</xref> developed the ‘Indicator Value’ (IndVal) method, which combines data on both abundance and frequency in an optimal manner. <xref ref-type="bibr" rid="B11">McGeoch and Chown (1998)</xref> published an enthusiastic review of the IndVal method entitled “Scaling up the value of bioindicators”. Subsequently, this method was applied in many studies. In the intervening period, this method has been extended by <xref ref-type="bibr" rid="B2">Clarke et al. (2006</xref>; zero-adjusted Bray–Curtis coefficient), <xref ref-type="bibr" rid="B3">Dai et al. (2006</xref>; Total Indicator Value Method), and <xref ref-type="bibr" rid="B1">Bakker (2008</xref>; improvement of permutation test, consistency of index and binary data).</p>
+            <p>We use mainly the IndVal method to call attention to some problems of the application of quantitative methods and to show that qualitative aspects have to be included for data interpretation. In this paper the following questions are addressed:</p>
+            <p>§	Hierarchical cluster analyses were often used to generate trees to arrange sites by the similarity of their faunal assemblages. What are the objectionable effects of these methods?</p>
+            <p>§	Is the IndVal index simple and based only on within-species abundance and occurrence comparisons, without any comparison among species?</p>
+            <p>§	Is it wise to always use the maximum of IndVal?</p>
+            <p>§	What is the impact of a qualitative approach?</p>
+            <p>Salt marshes are considered to be optimal for the purpose of this paper because they offer a structured elevation gradient and they are an extreme habitat for carabid beetles (<xref ref-type="bibr" rid="B12">Mossakowski 2007</xref>): a low number of stenotopic species occur in high abundances in particular in lower salt marsh zones.<!--PageBreak--></p>
+        </sec>
+        <sec sec-type="material|methods"><title>Material and Methods</title>
+            <sec sec-type="Material"><title>Material</title>
+                <p>The test data were collected in a project on salt marshes and climate impact (<xref ref-type="bibr" rid="B7">Dormann et al. 2000</xref>, <xref ref-type="bibr" rid="B6">Dormann et al. 2008</xref>) on the pristine salt marshes of the East Frisian island Mellum, Germany. Pitfall traps were exposed during the seasons of three years from April to October in different configurations. To avoid damage from the tide and waves, an air-bell trap (<xref ref-type="bibr" rid="B5">Dormann 2000</xref>) was constructed and exposed at the lower salt marsh sites, between 20 cm below Mean High Water Level (MHW) (-20), at MHW and up to 40 cm above MHW. Only ‘year’ catches of 1998 (April to October) were used and numbered by elevation (<xref ref-type="table" rid="T1">Table 1</xref>). At 100 cm above MHW, three sites were selected due to different soil conditions at this elevation and indicated by adding an integer to the last position of the site number (101, 102, 103). Five traps were exposed at each site. Each trap was numbered with site elevation and a digit (–20-5: trap five at site –20; 101-1: trap one at site one of elevation 100).</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Elevation gradient and number of exposed pitfall traps in the salt marshes of Mellum. </p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="2"/>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="12">Elevation above MHV (cm)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">-20</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">10</td>
+                                <td rowspan="1" colspan="1">20</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">40</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">60</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">80</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">100</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">120</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="15">Number of pitfall traps</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">3×5</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Quantitative methods"><title>Quantitative methods</title>
+                <p>1. IndVal of Dufrène and Legendre</p>
+                <p>In our opinion, the Indicator Value (IndVal) method of <xref ref-type="bibr" rid="B8">Dufrène and Legendre (1997)</xref> comprises three steps: (i) the arrangement of catches/sites. The data are represented in a tree constructed preferably from the distances in the species-site matrix. <xref ref-type="bibr" rid="B8">Dufrène and Legendre (1997)</xref> use a non-hierarchical cluster analysis in their paper but in their original program a hierarchical one is required. (ii) The information of the resulting tree must be transformed by hand into a matrix, which reflects hierarchically the arrangement of sites in the tree. (iii) The appropriate IndVal search for characteristic species: The maximum IndVal is calculated using the fidelity and specificity of a species for groups of sites that are taken from the tree via the matrix of step ii.</p>
+                <p>Test calculations with our data were performed with the original IndVal program (IndVal 2.0; Dufréne &amp; Legendre 1997) using Ward’s method with Relative Euclidean distances as well as with UPGMA with Bray-Curtis (Sœrensen) distances (step i). The problems of hierarchical cluster analysis were demonstrated by a calculation with the full data set. A recalculation was done after deletion of two sites (102 and 103).</p>
+                <p><!--PageBreak-->The impact of the tree structure (generated in step ii) on the result (step iii) is shown by a comparison of a hierarchical tree with a freehand produced tree on the basis of the site specific data.</p>
+                <p>2. The IndVal procedure of PC-ORD (<xref ref-type="bibr" rid="B9">McCune and Mefford 2006</xref>) was applied with the same data and a series of free-hand produced trees.</p>
+                <p>3. Other quantitative methods are applied to the identical sets of data: Principal Coordinate Analysis (PCO)/MVSP; Discriminant Analysis/Brodgar; Multivariate Partitioning (mvpart) Brodgar/R.</p>
+                <p>Applied statistics for IndVal: Random permutation test (999). Significance level: 0.01.</p>
+            </sec>
+            <sec sec-type="Qualitative methods"><title>Qualitative methods</title>
+                <p>A table of year-catches for species x traps is presented (Appendix III), which covers the original year-catch numbers in an arrangement like that in vegetation tables. These data were freehand interpreted under consideration of the specific conditions at the study sites and the biological and ecological demands of the species.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <sec sec-type="Quantitative evaluation: IndVal original program"><title>Quantitative evaluation: IndVal original program</title>
+                <p>The first step of the IndVal procedure yielded similar results with different procedures. In order to demonstrate characteristic effects of cluster methods, the result of Ward’s method with Relative Euclidean distances including all trap-sites is presented in <xref ref-type="fig" rid="F1">Fig. 1</xref>. In the resulting tree, two sites of very different elevation levels clustered together: four out of five traps of site –20 and all traps of site 103. They were placed together with another cluster of 0, 10, 20, 40 and the fifth trap of –20 (–20-5). All remaining sites of higher elevation (60–120) clustered closely together.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>Result of a cluster analysis using Relative Euclidean distances and Ward’s method.  Most traps of the site at the lowest elevation (-20 cm below MHW) cluster with those of 100 cm above MHW. Arrow: One trap of -20 behaves differently.</p></caption>
+                    <graphic xlink:href="ZooKeys-100-273-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+                <p>The result obtained by UPGMA with Bray-Curtis distances also showed a basic split of –20 against the cluster of 0, 10, 20, 40 and –20-5. At the other end, 103 splits off at the basis of all the sites at higher elevation.</p>
+                <p>Elimination of site 102 and 103 resulted in more plausible trees. In the case of Ward’s method with Relative Euclidean distances, the traps of elevation –20 and those of site 20 and 40 were put in the cluster next to that of 0 and 10, which included trap –20-5.</p>
+                <p>In the second step of the original IndVal procedure, the information of the tree was transformed into a hierarchical notification (Appendix I). In order to get a clearly arranged result, the tree of the first step was simplified, as was the matrix for the calculation<!--PageBreak--><!--PageBreak--> of the IndVal values. Sites 103 and 102 were omitted and all five traps of equal elevation were assigned to the same group.</p>
+                <p>The third step was performed first by the original IndVal program. <xref ref-type="fig" rid="F2">Fig. 2</xref> demonstrates the distribution of successive IndVal’s at different levels of this simplified tree showing the result of one calculation for a single species. As an example, <italic><tp:taxon-name>Dicheirotrichus gustavii</tp:taxon-name></italic> was chosen as a highly abundant and specific species in salt marshes. All values shown are significant.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>IndVals at different levels in the UPGMA tree. Result for a single species, <italic><tp:taxon-name>Dicheirotrichus gustavii</tp:taxon-name></italic>, calculated by the original IndVal program. Eight values of the nine levels are significant. Data: abundance/frequency data. 7/4: a total of seven specimens were found in four of the five traps. Sites 102 and 103 are omitted.</p></caption>
+                    <graphic xlink:href="ZooKeys-100-273-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+                <p>A result for <italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic> is shown in <xref ref-type="fig" rid="F3">Fig. 3</xref> in order to show the dependence of the IndVals on the tree structure. In the lower section, the original (simplified) matrix was used. A maximum indicator value of 90% was found for this species (sites –20 to 20) by the original IndVal program. In a calculation using a free-hand self-constructed, alternative tree, higher values were found.</p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Results of the IndVal procedure depend on the tree used. Data: abundance/frequency of <italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic> along the elevation gradient. 3/3: a total of three specimens was found in three of the five traps. Sites 102 and 103 are omitted.</p></caption>
+                    <graphic xlink:href="ZooKeys-100-273-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+            </sec>
+            <sec sec-type="Quantitative evaluation: IndVal by PC-ORD"><title>Quantitative evaluation: IndVal by PC-ORD</title>
+                <p>The application of the same data to the IndVal procedure of PC-ORD was carried out by different arrangements of sites to groups. The obvious first step was to take the five traps per elevation as groups (first data line in <xref ref-type="table" rid="T2">Table 2</xref>). Each result consists of a table of IndVals in which scores for each species and the chosen arrangement of groups are listed. As an example of differing results from multiple calculations with changing arrangements, the scores for <italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic> are listed in <xref ref-type="table" rid="T2">Table 2</xref>. The notation results differ from those of the original IndVal program; scores were not listed hierarchically, they were listed parallel. Therefore, scores of other groups apart from the maximum can be evaluated.</p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <label>Table 2.</label>
+                    <caption><p>Indicator Values as a result of multiple calculations performed by PC-ORD. Results for <italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic>. Each line represents a separate calculation with the groups indicated by vertical lines. Bold face numbers indicate significance. <bold>MHW</bold>: Mean High Water Level. </p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><italic>MHV</italic></th>
+                                <th rowspan="1" colspan="1"><italic>-20</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>0</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>10</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>20</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>40</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>60</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>80</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>101</italic></th>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic>120</italic></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">(1)</td>
+                                <td rowspan="1" colspan="1">48</td>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">(2)</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic>100</italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">(3)</td>
+                                <td rowspan="1" colspan="1"><italic>65</italic></td>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">34</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">(4)</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic>98</italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">(5)</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic>98</italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">(6)</td>
+                                <td rowspan="1" colspan="1"><italic>85</italic></td>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">|</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Quantitative methods: Principal Coordinate Analysis"><title>Quantitative methods: Principal Coordinate Analysis</title>
+                <p>The test data were also applied to methods that do not use distance-based algorithms. As an example, the result of Principal Coordinate Analysis (PCO) is shown in the Appendix II. Similar to the grouping by distance methods, the lower sites form one group while the higher sites form another. One trap at site –20 is also positioned close to those of higher elevation (site 0, 10 etc). The position of site 103 is remarkable because it is arranged near to the site with the lowest elevation – far from those at equal elevation (101 and 102). The results of Discriminant Analysis and Multivariate Partitioning (not shown here) display similar effects.</p>
+            </sec>
+            <sec sec-type="Qualitative methods"><title>Qualitative methods</title>
+                <p>In order to apply qualitative aspects of interpretation, we present the full data set in the Appendix III in order to enable the reader to evaluate our statements. We focus on two species, characteristic in a different way, of flooded and salty habitats.</p>
+                <p>The occurrence of <italic><tp:taxon-name>Dicheirotrichus gustavii</tp:taxon-name></italic> along the elevation gradient is characterised by very high numbers at an elevation 10 cm above MHW (site 10 with a mean of 3606, range 1181 - 5844 specimens per year-trap) and at MHW (site 0 with a mean of 824, range 256 - 1355). This species was found only in one trap at lower elevation (–20-5) and in moderate numbers at higher sites.</p>
+                <p><italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic> was collected in traps of elevation –20 and 0 in moderate numbers (–20: mean = 74, range: 6–309; 0: mean = 76, range 6–161). This species occurred with single specimens at elevations 10 and 20.</p>
+                <p>Habitat conditions at the lower part of the Mellum salt marshes differ markedly in soil and flood frequency: sites –20 and 0 contain about 70–80% sand, they flooded regularly, at least once per day (1 – 1.5 times per day). Above this level, 10 to 80 cm above MHW, the soil consists of a high amount of clay and a low sand content. Site 10 is flooded about 0.7 times, site 20 about 0.5 times, and site 40 lower than 0.2 times per day.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <sec sec-type="Effects of cluster methods"><title>Effects of cluster methods</title>
+                <p>There are two unexpected results in <xref ref-type="fig" rid="F1">Fig. 1</xref>: (i) the position of trap –20-5 and (ii) that of site 103. These effects do occur also in results of multivariate methods but shall be discussed using the example of cluster analysis.</p>
+                <p>In particular, the positioning effects mentioned afore can be interpreted by viewing the data in detail. (i) In trap –20-5, <italic><tp:taxon-name>Dicheirotrichus gustavii</tp:taxon-name></italic> was caught but is missing completely in the other traps at elevation –20. But the number of this species found in this deviant trap is very low in comparison with the very high abundance at higher elevations (see full data in Appendix III). We have to take into account that these specimens are migrants from higher sites. (ii) The position of all the traps of site 103 depends on quite a different assemblage of species, which is obviously different not only from those at comparable elevations but also from all sites. This depends on the differences in sand content and wetness between the three sites at 100 cm above MHW: site 103 is a very dry, sandy habitat, and consequently, the assemblage of species is quite different (<xref ref-type="table" rid="T3">Table 3</xref>).</p>
+                <table-wrap id="T3" position="float" orientation="portrait">
+                    <label>Table 3.</label>
+                    <caption><p>Selected carabid species to show differences at site 100 (100 cm above MHW). Only species with characteristic distribution (more or less exclusive or missing) are included. The catches of five traps per site are summarized. </p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><italic>Elevation Taxon</italic></th>
+                                <th rowspan="1" colspan="1"><italic>-20</italic></th>
+                                <th rowspan="1" colspan="1"><italic>0</italic></th>
+                                <th rowspan="1" colspan="1"><italic>10</italic></th>
+                                <th rowspan="1" colspan="1"><italic>20</italic></th>
+                                <th rowspan="1" colspan="1"><italic>40</italic></th>
+                                <th rowspan="1" colspan="1"><italic>60</italic></th>
+                                <th rowspan="1" colspan="1"><italic>80</italic></th>
+                                <th rowspan="1" colspan="1"><italic>101</italic></th>
+                                <th rowspan="1" colspan="1"><italic>102</italic></th>
+                                <th rowspan="1" colspan="1"><italic>103</italic></th>
+                                <th rowspan="1" colspan="1"><italic>120</italic></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus erratus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">89</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara fulva</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">30</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amara spreta</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">20</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus ochropterus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">19</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Harpalus affinis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Trechoblemus micros</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dicheirotrichus gustavii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">136</td>
+                                <td rowspan="1" colspan="1">4134</td>
+                                <td rowspan="1" colspan="1">18687</td>
+                                <td rowspan="1" colspan="1">334</td>
+                                <td rowspan="1" colspan="1">163</td>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">12</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion minimum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">761</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bembidion guttula</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Badister bullatus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">14</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">17</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Badister sodalis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">22</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">10</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pterostichus niger</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">280</td>
+                                <td rowspan="1" colspan="1">264</td>
+                                <td rowspan="1" colspan="1">168</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">130</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calathus fuscipes</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">37</td>
+                                <td rowspan="1" colspan="1">59</td>
+                                <td rowspan="1" colspan="1">216</td>
+                                <td rowspan="1" colspan="1">164</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">368</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dyschirius globosus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">562</td>
+                                <td rowspan="1" colspan="1">1210</td>
+                                <td rowspan="1" colspan="1">1030</td>
+                                <td rowspan="1" colspan="1">267</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">923</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Because the clustering process will put the tho step most similar sites together in a step-by-step approach, site 103 and most traps of –20 remain at the end of the clustering process.</p>
+                <p>In general, a basic problem of distance methods is that trees showing similarity of sites are the result of a cluster analysis. This is critical because the condition for use, the existence of metric or ultra-metric data (Appendix IV), is often not realized in ecological field data and neither tested nor discussed by many authors. In the example<!--PageBreak--> demonstrated, this problem is easy to see. But the problem exists also in the case of data with a structure closer to an ultra-metric one. But it will not be as obvious as in our example. The distance matrix can be tested for ultra-metric conditions by checking each triplicate of values whether the strengthened triangle inequality is given (see Appendix IV). But the programs do not output the distance matrix.</p>
+            </sec>
+            <sec sec-type="Transformation from tree to matrix"><title>Transformation from tree to matrix</title>
+                <p>In the original IndVal program, a hierarchical tree is specified. Arranging a matrix with the correct information requires some patience. This may be because it is done for the first time, or because trees are usually being used for phylogenies. As such, this procedure is not simple.</p>
+            </sec>
+            <sec sec-type="IndVal based only on within-species data"><title>IndVal based only on within-species data</title>
+                <p>This statement is only correct when considering the last step of IndVal evaluation. However, as has already been stated by <xref ref-type="bibr" rid="B8">Dufrène and Legendre (1997)</xref>, and shown in <xref ref-type="fig" rid="F3">Fig. 3</xref>, the resulting IndVal of a species depends on the arrangement of sites to groups, the corresponding tree or matrix. Therefore, the data of the total assemblage have an indirect influence on the IndVal scores. This is true, not only when using a cluster analysis but also for other techniques.</p>
+            </sec>
+            <sec sec-type="Qualitative interpretation and IndVal maximum"><title>Qualitative interpretation and IndVal maximum</title>
+                <p>As an example, the data and IndVals for <italic><tp:taxon-name>Dicheirotrichus gustavii</tp:taxon-name></italic> are shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>. The highest value for this species (96%) was found for a group of sites; 0, 10, and 20. However, sites 0 and 10 form a group with an index (94%) similar to the former. Both are significant. But what is the difference? How can it be tested? Compared to the data for sites 0 and 10, the relatively low numbers below and above this elevation may indicate a suboptimal habitat for this species. Otherwise, we have to take into account that these beetles are able to walk and to fly or they may drift during flooding, which occurs at least once per day at this elevation. Thus, we prefer to take this species as an indicator for sites at elevation 0 and 10 (see also Appendix III).</p>
+                <p>The same problem can be identified for <italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic> (<xref ref-type="fig" rid="F3">Fig. 3</xref>). A purely quantitative view will find an IndVal of max. 98.8%. But if we consider qualitative data, our knowledge of the ecology and biology of the species, the lower value (96.7%; for sites 0 and –20) is the appropriate one. <italic><tp:taxon-name>Cillenus lateralis</tp:taxon-name></italic> inhabits more or less pure sandy soils (about 70–80% sand at site –20 and 0 on Mellum), which must be flooded regularly. <!--PageBreak-->These conditions are only realized at this elevation. Specimens occurring above this level have to be classified as vagrants.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Conclusions"><title>Conclusions</title>
+            <p>1.	The construction of a tree using distance data by hierarchical cluster analysis always results in an ultra-metric tree although the data are not ultra-metric. Therefore, such procedures should not be used. Also non-distance methods yielded problematic results with the data set under study.</p>
+            <p>2.	Because the original IndVal program requires a hierarchical tree transformed into a matrix, which is also structured hierarchically, we recommend using the IndVal function in PC-ORD as a simple procedure (not free of charge). The Mac version of the original IndVal program does not run on IntelMac. See also <xref ref-type="bibr" rid="B1">Bakker (2008</xref>; appendix: program in R).</p>
+            <p>3.	The IndVal method is not only based on the within-species data because the arrangement of sites to groups depends on the whole data set.</p>
+            <p>4.	The examples of <italic><tp:taxon-name>Cillenus</tp:taxon-name></italic> and <italic><tp:taxon-name>Dicheirotrichus</tp:taxon-name></italic> demonstrate that a quantitative analysis may involve some pitfall traps, e.g. the maximum of IndVal. An additional qualitative interpretation is necessary which incorporates biological and ecological data known for the species. It has to be remembered that a particular study never represents more than a small sample of the complete diversity. Thus, external data should be incorporated in order to avoid a narrow focus on one’s own limited set of data. Large and good data sets on species and sites are presented by our colleagues in the Netherlands (Alders et al. 1991, <xref ref-type="bibr" rid="B15">Turin 2000</xref>).</p>
+            <p>5.	The necessity to incorporate qualitative aspects is also an argument against the use of only binary (presence/absence) data recently proposed by <xref ref-type="bibr" rid="B1">Bakker (2008)</xref>.</p>
+            <p>6.	The classic characterization of ecological field data along habitat preference classes should be revived. As a student, D.M. learned from Wolfgang <xref ref-type="bibr" rid="B13">Tischler (1949)</xref> that we have to eliminate non-indigenous species such as vagrants - even if they occur in larger numbers.</p>
+            <p>Consequently, a more qualitative evaluation requires the publication of a detailed specification of methods and of species x site data as done or requested by <xref ref-type="bibr" rid="B8">Dufrène and Legendre (1997)</xref>, <xref ref-type="bibr" rid="B4">Desender et al. (2007)</xref> and <xref ref-type="bibr" rid="B1">Bakker (2008)</xref>.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>We would like to thank Raimund Kesel for assistance with some computer-related matters and a share of the calculations, and to two anonymous reviewers for challenging and helpful comments, and for improving our English.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bakker</surname><given-names>JD</given-names></name></person-group> (<year>2008</year>)<article-title>Increasing the utility of Indicator Species Analysis</article-title>. <source>Journal of Applied Ecology</source> <volume>45</volume> (<issue>6</issue>): <fpage>1829</fpage>–<lpage>1835</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2664.2008.01571.x" xlink:type="simple">doi:10.1111/j.1365-2664.2008.01571.x</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Clarke</surname><given-names>KR</given-names></name><name name-style="western"><surname>Somerfield</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Gee Chapman</surname><given-names>M</given-names></name></person-group> (<year>2006</year>)<article-title> On resemblance measures for ecological studies, including taxonomic dissimilarities and a zero-adjusted Bray–Curtis coefficient for denuded assemblages.</article-title> <source>Journal of Experimental Marine Biology and Ecology</source> <volume>330</volume>:<fpage>55</fpage>-<lpage>80</lpage>.<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jembe.2005.12.017" xlink:type="simple">doi:10.1016/j.jembe.2005.12.017</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dai</surname><given-names>X</given-names></name><name name-style="western"><surname>Page</surname><given-names>B</given-names></name><name name-style="western"><surname>Duffy</surname><given-names>KJ</given-names></name></person-group> (<year>2006</year>)<article-title> Indicator value analysis as a group prediction technique in community classification.</article-title> <source>South African Journal of Botany</source> <volume>72</volume>:<fpage>589</fpage>-<lpage>596</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.sajb.2006.04.008" xlink:type="simple">doi:10.1016/j.sajb.2006.04.008</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Desender</surname><given-names>K</given-names></name><name name-style="western"><surname>Maelfait</surname><given-names>JP</given-names></name><name name-style="western"><surname>Baert</surname><given-names>L</given-names></name></person-group> (<year>2007</year>)<article-title> Ground beetles as ‘early warning-indicators’ in restored salt marshes and dune slacks.</article-title> <source>In: Isermann M, Kiehl K (Eds) Restoration of Coastal Ecosystems Coastline Reports</source> <volume>7</volume>:<fpage>25</fpage>-<lpage>39</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dormann</surname><given-names>W</given-names></name></person-group> (<year>2000</year>)<article-title> A new pitfall trap for use in periodically inundated habitats</article-title>. In: <person-group><name name-style="western"><surname>Brandmayr</surname><given-names>P</given-names></name><name name-style="western"><surname>Lövei</surname><given-names>G</given-names></name><name name-style="western"><surname>Zetto-Brandmayr</surname><given-names>T</given-names></name><name name-style="western"><surname>Casale</surname><given-names>A</given-names></name><name name-style="western"><surname>Vigna Taglianti</surname><given-names>A</given-names></name></person-group> (<role>Eds</role>) <source>Natural History and applied Ecology of Carabid Beetles. (Proc. IXth European Carabidologidt’s Meeting, Cosenza 1998)</source>. <publisher-name>Pensoft Publishers</publisher-name>, <publisher-loc>Sofia-Moscow</publisher-loc>, <fpage>247</fpage>–<lpage>250</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dormann</surname><given-names>W</given-names></name><name name-style="western"><surname>Metzing</surname><given-names>D</given-names></name><name name-style="western"><surname>Mossakowski</surname><given-names>D</given-names></name></person-group> (<year>2008</year>)<article-title> Klimafolgen und Küsten: Auswirkungen auf die Verteilung und Verbreitung von Laufkäfern der Salzwiesen (Carabidae).</article-title> <source>Insecta</source> <volume>11</volume>:<fpage>51</fpage>-<lpage>62</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dormann</surname><given-names>W</given-names></name><name name-style="western"><surname>Mißkampf</surname><given-names>R</given-names></name><name name-style="western"><surname>Mossakowski</surname><given-names>D</given-names></name></person-group> (<year>2000</year>)<article-title> Reaktionen terrestrischer Salzwiesen-Zoozönosen auf Temperaturerhöhungen und verstärktes Flutgeschehen infolge globaler Klimaveränderungen</article-title>. <source>Abschlußbericht des BMBF-Verbundprojektes</source>. Teil B 8, <publisher-name>TIB Hannover</publisher-name>,  <lpage>163</lpage> pp.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dufrène</surname><given-names>M</given-names></name><name name-style="western"><surname>Legendre</surname><given-names>P</given-names></name></person-group> (<year>1997</year>)<article-title> Species assemblages and indicator species: the need for a flexible asymmetrical approach</article-title>. <source>Ecological Monographs</source> <volume>67</volume>: <fpage>345</fpage>–<lpage>367</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCune</surname><given-names>B</given-names></name><name name-style="western"><surname>Mefford</surname><given-names>MJ</given-names></name></person-group> (<year>2006</year>)<source> PC-ORD. Multivariate Analysis of Ecological Data. Version 5</source>. <publisher-name>MjM Software</publisher-name>, <publisher-loc>Gleneden Beach, Oregon, USA</publisher-loc>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McGeoch</surname><given-names>MA</given-names></name></person-group> (<year>1998</year>)<article-title> The selection, testing and application of terrestrial insects as bioindicators.</article-title> <source>Biological Reviews,</source> <volume>73</volume>:<fpage>181</fpage>-<lpage>201</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S000632319700515X" xlink:type="simple">doi:10.1017/S000632319700515X</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McGeoch</surname><given-names>MA</given-names></name><name name-style="western"><surname>Chown</surname><given-names>SL</given-names></name></person-group> (<year>1998</year>)<article-title> Scaling up the value of bioindicators.</article-title> <source>Trends in Ecology and Evolution,</source> <volume>13</volume>:<fpage>46</fpage>-<lpage>47</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0169-5347(97)01279-2" xlink:type="simple">doi:10.1016/S0169-5347(97)01279-2</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mossakowski</surname><given-names>D</given-names></name></person-group> (<year>2007</year>)<article-title> Salzwiesen und Hochmoore: Extremstandorte?</article-title> <source>Angewandte Carabidologie</source> <volume>8</volume>: <fpage>9</fpage>–<lpage>16</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tischler</surname><given-names>W</given-names></name></person-group> (<year>1949</year>)<source> Gründzüge der terrestrischen Tierökologe</source>. <publisher-name>Vieweg</publisher-name>, <publisher-loc>Braunschweig</publisher-loc>, <lpage>219</lpage> pp.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Turin</surname><given-names>H</given-names></name><name name-style="western"><surname>Alders</surname><given-names>K</given-names></name><name name-style="western"><surname>Boer PJ</surname><given-names>den</given-names></name><name name-style="western"><surname>Essen, S</surname><given-names>van</given-names></name><name name-style="western"><surname>Heijerman</surname><given-names>T</given-names></name><name name-style="western"><surname>Laane, W Penterman</surname><given-names>E</given-names></name></person-group> (<year>1991</year>)<article-title> Ecological characterization of carabid species (Coleoptera: Carabidae) in the Netherlands from thirty years of pitfall sampling.</article-title> <source>Tijdschrift voor Entomologie</source> <volume>134</volume>:<fpage>279</fpage>-<lpage>304</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Turin</surname><given-names>H</given-names></name></person-group> (<year>2000</year>)<article-title> De Nederlandse loopkevers, verspreiding en oecologie (Coleoptera: Carabidae)</article-title>. <source>Nederlandse Fauna</source> <volume>3</volume>. <publisher-name>Nationaal Natuurhistorisch Museum Naturalis</publisher-name>, <publisher-loc>Leiden</publisher-loc>, <lpage>666</lpage> pp.</mixed-citation></ref>
+        </ref-list>
+        <app-group>
+		        <app id="appendixi"><title>Appendix I</title>
+		            <p>Arrangement of sites represented by a tree and a matrix. (<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.100.1532.app1" xlink:type="simple">doi: 10.3897/zookeys.100.1532.app1</ext-link>) File format: Adobe Arcobat PDF.</p>
+		            <p><bold>Explanation note:</bold> Sites are numbered by elevation (right column). The structure of the tree is displayed by a hierarchical notification of the matrix.</p>
+		            <p>Copyright notice: This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.</p>
+		        </app>
+		        <app id="appendixii"><title>Appendix II</title>
+		            <p>Principal Coordinate Analysis of the whole data set. (<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.100.1532.app2" xlink:type="simple">doi: 10.3897/zookeys.100.1532.app2</ext-link>) File format: Adobe Arcobat PDF.</p>
+		            <p>Copyright notice: This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.</p>
+		        </app>
+		        <app id="appendixiii"><title>Appendix III</title>
+		            <p>Catches of carabid beetles on the island of Mellum. (<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.100.1532.app3" xlink:type="simple">doi: 10.3897/zookeys.100.1532.app3</ext-link>) File format: HTML.</p>
+		            <p><bold>Explanation note:</bold> Yellow colour indicates congruence between a pure quantitative and our qualitative interpretation. Blue colour indicates additional significant IndVal's due to pure quantitative results. Halobiontic and halophilic species are listed in the upper section (above first break).  The first 30 species (above second break) are used for the calculations of IndVals. Sites were numbered by their elevation above MHW [cm]. 1,2...5: trap</p>
+		            <p>Copyright notice: This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.<!--PageBreak--></p>
+		        </app>
+		        <app id="appendixiv"><title>Appendix IV</title>
+		            <p>Triangles and trees, the distance matrices of which fulfil metric or ultra‐metric conditions respectively. (<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.100.1532.app4" xlink:type="simple">doi: 10.3897/zookeys.100.1532.app4</ext-link>) File format: Adobe Arcobat PDF.</p>
+		            <p>Copyright notice: This dataset is made available under the Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Dataset while maintaining this same freedom for others, provided that the original source and author(s) are credited.</p>
+		        </app>
+        </app-group>
+    </back>
+</article>

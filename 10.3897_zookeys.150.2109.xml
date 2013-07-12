@@ -1,0 +1,215 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="review-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.150.2109</article-id>
+            <title-group>
+                <article-title>Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bachman</surname>
+                        <given-names>Steven</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Moat</surname>
+                        <given-names>Justin</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Hill</surname>
+                        <given-names>Andrew W.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Torre</surname>
+                        <given-names>Javier de la</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Scott</surname>
+                        <given-names>Ben</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Royal Botanic Gardens, Kew, UK
+            </aff>
+            <aff id="A2">
+                <label>2</label>Vizzuality, Spain
+            </aff>
+            <aff id="A3">
+                <label>3</label>Natural History Museum, UK
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Steven Bachman (<email xlink:type="simple">s.bachman@kew.org</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Smith</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>150</issue>
+            <fpage>117</fpage>
+            <lpage>126</lpage>
+            <history>
+                <date date-type="received">
+                    <day>16</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Steven Bachman, Justin Moat, Andrew W. Hill, Javier de la Torre, Ben Scott</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>GeoCAT is an open source, browser based tool that performs rapid geospatial analysis to ease the process of Red Listing taxa. Developed to utilise spatially referenced primary occurrence data, the analysis focuses on two aspects of the geographic range of a taxon: the extent of occurrence (EOO) and the area of occupancy (AOO). These metrics form part of the IUCN Red List categories and criteria and have often proved challenging to obtain in an accurate, consistent and repeatable way. Within a familiar Google Maps environment, GeoCAT users can quickly and easily combine data from multiple sources such as GBIF, Flickr and Scratchpads as well as user generated occurrence data. Analysis is done with the click of a button and is visualised instantly, providing an indication of the Red List threat rating, subject to meeting the full requirements of the criteria. Outputs including the results, data and parameters used for analysis are stored in a GeoCAT file that can be easily reloaded or shared with collaborators. GeoCAT is a first step toward automating the data handling process of Red List assessing and provides a valuable hub from which further developments and enhancements can be spawned.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Red List</kwd>
+                <kwd>Conservation</kwd>
+                <kwd>Open Source</kwd>
+                <kwd>Biodiversity</kwd>
+                <kwd>Mapping</kwd>
+                <kwd>IUCN</kwd>
+                <kwd>GBIF</kwd>
+                <kwd>Flickr</kwd>
+                <kwd>Geospatial</kwd>
+                <kwd>Google maps</kwd>
+                <kwd>HTML5</kwd>
+                <kwd>JSON</kwd>
+                <kwd>AJAX</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>Recent estimates suggest there could be 8.7 million (± 1.3 million) species on the planet (<xref ref-type="bibr" rid="B11">Mora et al. 2011</xref>). Even at the lowest estimate, less than 1% (61,914, <xref ref-type="bibr" rid="B7">IUCN 2011</xref>) of those species have been formally assessed using the Red List system to determine their conservation status i.e. an assessment of the risk that they will become extinct. A key factor in the lack of progress in the production of species conservation assessments is the scarcity of user friendly, but powerful, analytical tools which are readily available to scientists and communities to carry out these assessments. Furthermore, large amounts of primary biodiversity data are now available via services such as the Global Biodiversity Information Facility (GBIF), but have yet to be fully utilised for conservation action. With the trend in biodiversity loss increasing across the globe (<xref ref-type="bibr" rid="B12">Secretariat of the Convention on Biological Diversity 2010</xref>) it is essential that we speed up the production of assessments. This will enable us to more quickly identify species and regions at greatest risk so that it may guide conservation action. To scale up the production of conservation assessments to the level of mega-diverse groups such as plants and insects, there needs to be significant progress in the development of automated and semi-automated techniques that scientists and other experts can harness. Here, we present the Geospatial Conservation Assessment Tool (GeoCAT - <ext-link ext-link-type="uri" xlink:href="http://geocat.kew.org" xlink:type="simple">http://geocat.kew.org</ext-link>), which is a first step towards that goal.</p>
+        </sec>
+        <sec sec-type="methods"><title>Methods</title>
+            <sec sec-type="Analysis using GeoCAT"><title>Analysis using GeoCAT</title>
+                <p>GeoCAT can be accessed from the following URL: <ext-link ext-link-type="uri" xlink:href="http://geocat.kew.org/" xlink:type="simple">http://geocat.kew.org/</ext-link>. The tool was developed to utilise spatially referenced primary occurrence data to analyse two aspects of the geographic range of a taxon: the extent of occurrence (EOO) and the area of occupancy (AOO). These two measures are the foundation of the ‘B’ criterion of the IUCN Red List system (<xref ref-type="bibr" rid="B6">IUCN 2001</xref>) - see ‘<italic>Technology and algorithms</italic>’ section below for full definition of EOO and AOO. <xref ref-type="fig" rid="F1">Figure 1</xref> illustrates how GeoCAT users<!--PageBreak--><!--PageBreak--> can quickly and easily add, review, edit and analyse data and finally save and export the results.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure1.</label>
+                    <caption><p>GeoCAT workflow; Start a new project and add data to the map via the three options. Existing data may be derived from an output of an existing database or from an online source such as GBIF, Flickr or Scratchpads. Alternatively, click directly on the map to create markers to signify the occurrence of the taxon you wish to assess.</p><p>The intuitive mapping interface allows interaction with the data to delete, move or hide points from analysis. The metadata window exposes the attributes of the occurrences e.g. date of collection, collector, location and provides a direct link to the raw data.&lt;br/&gt; After editing the data the analysis can be enabled and the results are displayed as grpahics on the map and through a report window. The EOO/AOO values, preliminary IUCN categories and parameters are shown. AOO cell size can be adjusted.</p><p>Statistics generated from the analysis and a basic map can be downloaded as a report. Occurrence data used in the analysis can be downloaded as a kml file for integration with Google Earth or as a CSV file. In addition, a single geocat. file encompassing all analysis results, parameters, map settings and occurrence data can be saved for later use, or to pass to collaborators for additional work.</p></caption>
+                    <graphic xlink:href="ZooKeys-150-117-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Technology and algorithms"><title>Technology and algorithms</title>
+                <p>GeoCAT is built using the latest web-technologies based in JavaScript and HTML5. The result is a responsive and intuitive environment for web-based GIS and conservation analysis algorithms. The tool was built to combine private data provided by the user, public resources such as Flickr, and scientific resources such as GBIF. GeoCAT makes importing geospatial species data simple, by either searching and loading data from the online sources or importing and mapping CSV files. The Google Maps API and the custom user interface provide a high quality map environment to perform geographic analysis of data location and its quality; the user can delete or move data individually or through filters (e.g. drawing bounding boxes) also defining thresholds for common components of the data such as coordinate precision. Algorithms for measuring species threat are implemented directly in the browser, avoiding any need to move data to desktop applications or to send the data for server-side processing. The GeoCAT file format streamlines the process of restarting a project by encoding all data, including algorithm parameters, outputs, and application state, into a web syntax called JSON. The file can then be stored by a user for sharing or later use.</p>
+                <p>The inclusion of external data from GBIF and Flickr was an important feature for bringing a robust species assessment tool to the web. To achieve this functionality, GeoCAT relies on cross domain AJAX requests, where the application in the user’s browser directly queries, receives, and parses data from the external sources. Therefore the application relies heavily on consistent data standards, where the data received will be in a predictable format. For example, GBIF provides a REST API where data can be queried and downloaded, the data standards are encoded in their web-services documentation, <ext-link ext-link-type="uri" xlink:href="http://data.gbif.org/ws/" xlink:type="simple">http://data.gbif.org/ws/</ext-link>. Georeferenced images from Flickr are queried using machine tags and a keyword search.</p>
+                <p>GeoCAT presently uses two algorithms to calculate EOO and the AOO (after <xref ref-type="bibr" rid="B15">Willis et al. 2003</xref>). These were originally developed in the Avenue scripting language for ArcView 3.3 within the Conservation Assessment Tools (CAT) extension (developed at the Royal Botanic Gardens, Kew and downloadable from: <ext-link ext-link-type="uri" xlink:href="http:// www.kew.org/gis/projects/cats" xlink:type="simple">http:// www.kew.org/gis/projects/cats</ext-link> (<xref ref-type="bibr" rid="B10">Moat 2007</xref>)), these were reprogrammed in JavaScript for GeoCAT.</p>
+                <p>EOO is a measure of the geographic range size of a species. One of the simplest methods to calculate this is a convex hull which is defined as the smallest polygon in which no internal angle exceeds 180˚ and contains all sites of occurrence (see <xref ref-type="fig" rid="F2">Figure 2</xref>). There are many algorthims developed to calculate the convex hull from a set of points, but within GeoCAT we use a quickhull (<xref ref-type="bibr" rid="B4">Eddy 1977</xref> and <xref ref-type="bibr" rid="B1">Bykat 1978</xref>) with code developed from Echo 2 (<ext-link ext-link-type="uri" xlink:href="http://blogs.infoecho.net/echo/2007/03/" xlink:type="simple">http://blogs.infoecho.net/echo/2007/03/</ext-link>) and Eriestuff (<ext-link ext-link-type="uri" xlink:href="http://eriestuff.blogspot.com/2008/03/google-maps-convex-hull-of-point-set-or.html" xlink:type="simple">http://eriestuff.blogspot.com/2008/03/google-maps-convex-hull-of-point-set-or.html</ext-link>)</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Illustration of a convex hull of a set of points. Imagine stretching a rubber band so that all points are inside it, then releasing it; when it becomes tight, the area enclosed is the convex hull.</p></caption>
+                    <graphic xlink:href="ZooKeys-150-117-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>AOO is a measure of the area in which a species occurs. One of the more straightforward ways of measuring this is to sum the area of square grids the species occupies. <!--PageBreak-->There is much discussion on the influence of scale and what cell size is appropriate (Kunin and Hartley 2003, <xref ref-type="bibr" rid="B15">Willis et al. 2003</xref>, <xref ref-type="bibr" rid="B2">Callmander et al. 2007</xref>). IUCN states that: ‘‘the most appropriate scale will depend on the taxon in question, and the origin and comprehensiveness of the distribution data’’ (<xref ref-type="bibr" rid="B8">IUCN Standards and Petitions Subcommittee 2010</xref>). Within GeoCAT we have allowed the user to choose the cell size using three methods. The default is 2km<sup>2</sup> cell size (as recommended in the IUCN guidelines - IUCN 2010), user defined cell size and finally 1/10th of the maximum distance between the most distance pair of points (<xref ref-type="bibr" rid="B15">Willis et al. 2003</xref>). The last method uses a factor of 10 as this reflects the relationship between EOO and AOO in the IUCN criteria and gives a size of the grid reflecting the geographic scale of the species distribution. Cells are calculated using simple maths to degrade each point to the lower left corner of the cell ((Floor ((x or y)/cellwidth) * cellwidth )), cells are then constructed from this lower left corner. In addition, the number of points within the cell are recorded and used to colour the cell on the map to give an indication of density of collections.</p>
+            </sec>
+            <sec sec-type="Open source"><title>Open source</title>
+                <p>GeoCAT was developed as an open source tool. This means that the methods and contributions of the code itself can help inform the informatics community in the future. Open source also aids in the transparency of decision making, by allowing anyone to see and audit algorithms. The code is accessible to anyone from the project’s Github repository (<ext-link ext-link-type="uri" xlink:href="https://github.com/Vizzuality/GeoCAT" xlink:type="simple">https://github.com/Vizzuality/GeoCAT</ext-link>). We hope that this will help lower the cost of attracting new algorithms and community developed solutions with the tool.</p>
+            </sec>
+            <sec sec-type="Scratchpad integration"><title>Scratchpad integration</title>
+                <p>GeoCAT relies on primary occurrence data to drive the analysis. One of the major new platforms for primary biodiversity data is the Scratchpads project (<xref ref-type="bibr" rid="B13">Smith et al. 2009</xref>). With 281 sites across a broad spectrum of natural history science (including the lesser known groups where their conservation status is poorly known) and thousands of primary data records, the Scratchpads project is an obvious choice for integration with GeoCAT. Scratchpad users will be able to access specimen or occurrence data directly from GeoCAT. Similar to the GBIF and Flickr ‘source data’ options it is possible to<!--PageBreak--> query data from a specific Scratchpad site to directly access and plot specimen data for analysis. In addition, from within a Scratchpad site, users will be able to open GeoCAT directly from a Scratchpad page where structured specimen or occurrence data exists. This will instantly display the data, assuming it contains georeferenced records. Finally, users will be able to upload a .geocat report file to a Scratchpad page. From here a URL link can take the user back to GeoCAT site where further analysis can be performed. In summary:</p>
+                <p>•	GeoCAT will be able to access and import Scratchpad specimens via a new web service to output structured data in Darwin Core format.</p>
+                <p>•	GeoCAT can be opened directly from within a scratchpad page, using a link encoded with URL parameters to retrieve the structured data source.</p>
+                <p>•	Users should be able to upload a .geocat file report in a scratchpad page and the page will offer the option to open it in GeoCAT.</p>
+                <p>Other systems containing large amounts of primary data such as BRAHMS (<ext-link ext-link-type="uri" xlink:href="http://dps.plants.ox.ac.uk/bol/BRAHMS/Home/Index" xlink:type="simple">http://dps.plants.ox.ac.uk/bol/BRAHMS/Home/Index</ext-link>) have also integrated with GeoCAT by supporting the export of a compatible CSV file.</p>
+            </sec>
+            <sec sec-type="Caveats"><title>Caveats</title>
+                <p>It is intended that the tool is utilised primarily by those wishing to carry out Red List conservation assessments, although it also functions well as a simple web mapping tool for other uses such as georeference checking. It is expected that the user has a good understanding of the taxa being assessed, the quality of the underlying data and a good knowledge of the Red List criteria. GeoCAT can provide metrics that partially fulfil criterion B assessments and allow a preliminary rating to be obtained. In order to complete a full Red List assessment a number of additional sub-criteria must be met and a minimum set of data are required to accompany the assessment. For further information see the IUCN Red List technical documents: (<ext-link ext-link-type="uri" xlink:href="http://www.iucnredlist.org/technical-documents/data-organization" xlink:type="simple">http://www.iucnredlist.org/technical-documents/data-organization</ext-link>).</p>
+                <p>It is not within the scope of this paper to discuss the use of EOO and AOO for Red List assessments as this has been considered elsewhere (see <xref ref-type="bibr" rid="B8">IUCN Standards and Petitions Subcommitte 2010</xref> and references therein). It is hoped that complementary algorithms such as Alpha hulls (α-hulls - generalisations of convex hulls) can be incorporated into later versions of GeoCAT to provide the user with a wider range of options for a more robust analysis. The use of α-hulls may be a more appropriate method for investigating reductions or continuing declines in EOO (IUCN 2010).</p>
+                <p>At present there are some limitations on number of occurrence records that can be displayed from both GBIF (500) and Flickr (250). Users will be informed if their query returns more points than the display limit. Initial performance tests suggest the map display can handle many thousands of points, but further testing is needed. The <!--PageBreak-->records displayed are the first to be queried, but it is hoped that later versions of GeoCAT will provide further refinements to this query e.g. most recently collected records first or those with highest georeference precision.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Conclusion"><title>Conclusion</title>
+            <sec sec-type="Future directions"><title>Future directions</title>
+                <p>It is anticipated that significant improvements will be made for later versions of GeoCAT. An obvious shortcoming is that the tool only deals with one aspect of the IUCN criteria and can only report a preliminary assessment based on the two range measures extent of occurrence (EOO) and area of occupancy (AOO). An obvious extension is to incorporate additional range based analysis that can inform other aspects of the IUCN criteria such as number of locations, sub-populations and degree of fragmentation.</p>
+                <p>Although the tool is geospatial in its focus, there is the opportunity to extend analysis into the temporal elements of museum specimen data, such as the date of collection. Statistical approaches have already been investigated (<xref ref-type="bibr" rid="B14">Solow and Roberts 2003</xref>, <xref ref-type="bibr" rid="B9">McPherson and Myer 2009</xref>, <xref ref-type="bibr" rid="B3">Collen et al. 2010</xref>) and could simply be modified for inclusion in GeoCAT as an additional module. Examining occurrence data through time could open up other parts of the Red List criteria such as Criterion A that deals with ‘reduction’ or decline in population size. For example within GeoCAT historical specimens can be removed when they occur in areas known to have been subject to recent habitat loss. Reductions in EOO and AOO can then be recorded and potentially applied to Criterion A.</p>
+                <p>At present assessments can only be carried out one at a time. In order to scale up the production of assessments a batch option is needed whereby a single file of occurrence data for multiple species can be uploaded and processed. This would allow hundreds of assessments to be processed in a matter of seconds.</p>
+                <p>Further enhancements can also be made with regard to the handling of point data through the GBIF portal. The added bonus of the slick mapping interface makes GeoCAT a useful tool for georeference checking and cleaning. Querying the raw data from GBIF can often reveal obvious georeferencing mistakes such as outliers or swapped latitude and longitude pairs. The easy click and drag editing of points means they can be accurately placed on the map to ensure the most precise analysis. GeoCAT allows you to track which points have been edited, but at present there is no easy mechanism for feeding back this information to the original data provider – this could be a service integrated into the GBIF portal. Until this feedback loop is established the erroneously georeferenced records from data providers will continue to be served up by GBIF.</p>
+                <p>Harvesting of GBIF data also provides an opportunity to put the occurrence data of your target species in the context of the background collecting rate in a region.<!--PageBreak--> Presence of your target species i.e. the one you wish to assess is easy to determine with a verified record, but absence is more difficult. GBIF data can be used to determine a background collecting rate for your target group e.g. plants. Absence of your target species in an area with a high intensity of background sampling provides evidence that your target species may be absent.</p>
+                <p>An exciting potential extension of GeoCAT is to provide better integration with cloud based data such as Google Fusion tables. This could work in three ways: i) linking GeoCAT to specimen data stored in the cloud thereby allowing on-the-fly editing ii) exporting assessment results to tables in the cloud and iii) linking to custom layer data in kml/kmz format. This could lead to the first entirely automated cloud based conservation assessments.</p>
+                <p>The functionality of adding user generated kml/kmz files also offers significant potential. Threat datasets from fires to land cover change and deforestation can be added. At present the layer files can be visualised, but it is not possible to interact with the layers via spatial queries in the same was as a GIS. Adding this kind of functionality would instantly allow more rigorous data driven assessments.</p>
+            </sec>
+            <sec sec-type="Benefits"><title>Benefits</title>
+                <p>GeoCAT provides a mechanism for data driven conservation assessments in a transparent, repeatable and rapid way through a user friendly environment. The benefits can be summarised as the following:</p>
+                <p>•	Data driven assessments, giving an auditable data trail i.e. complete transparency of data used for assessments</p>
+                <p>•	A simple, modern and easy to use interface.</p>
+                <p>•	Accessible - opening up to assessors across the world - only an Internet connection is needed.</p>
+                <p>•	Standardised, automated and repeatable analysis.</p>
+                <p>•	Single-click analysis of Extent of Occurrence (EOO) and Area of Occupancy (AOO)</p>
+                <p>•	Ability to import occurrence data from online sources such as GBIF or Flickr and other systems such as Brahms and Scratchpads. GeoCAT also allows export and reporting to other formats for further analysis or storage.</p>
+                <p>•	Quick to use and easy to distribute data which can only accelerate the production of Red List assessments.</p>
+                <p>•	Code is open source and development of algorithms are encouraged so the tool can develop towards a powerful automated assessment tool and for other geographic analysis.</p>
+                <p>GeoCAT responds directly to the growing need for more data driven analytical tools to aid the process of assessing species against the Red List criteria. The tool is <!--PageBreak-->intended to be a platform from which enhancements can be made and we encourage the developer community to engage with the GeoCAT project. We believe there are many exciting possibilities for the future development of GeoCAT. We hope GeoCAT can be utilised for the assessment of taxa at any spatial scale and across any taxonomic group, but especially those that are poorly represented on the Red List at present.</p>
+                <p>If you wish to acknowledge use of GeoCAT please use the following citation:</p>
+                <p>Bachman S, Moat J, Hill AW, de la Torre J, Scott B (2011) Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. In: Smith V, Penev L (Eds) e-Infrastructures for data publishing in biodiversity science. ZooKeys 150: 117–126. (version XX).<!--PageBreak--></p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <graphic xlink:href="ZooKeys-150-117-i001.jpg" position="anchor" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bykat</surname><given-names>A</given-names></name></person-group> (<year>1978</year>)<article-title> Convex hull of a finite set of points in two dimensions. Information Processing Letters.</article-title>  <volume>7</volume>: <fpage>296</fpage>-<lpage>298</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Callmander</surname><given-names>MW</given-names></name><name name-style="western"><surname>Schatz</surname><given-names>GE</given-names></name><name name-style="western"><surname>Lowry PP</surname><given-names>II</given-names></name><name name-style="western"><surname>Laivao</surname><given-names>MO</given-names></name><name name-style="western"><surname>Raharimampionona</surname><given-names>J</given-names></name><name name-style="western"><surname>Andriambololonera</surname><given-names>S</given-names></name><name name-style="western"><surname>Raminosoa</surname><given-names>T</given-names></name><name name-style="western"><surname>Consiglio</surname><given-names>T</given-names></name></person-group> (<year>2007</year>)<source> Identification of priority areas for plant conservation in Madagascar using Red List criteria: rare and threatened Pandanaceae indicate sites in need of protection. Oryx 41, 2: 168–176. </source>doi: 10.1017/S0030605307001731</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Collen</surname><given-names>B</given-names></name><name name-style="western"><surname>Purvis</surname><given-names>A</given-names></name><name name-style="western"><surname>Mace</surname><given-names>G</given-names></name></person-group> (<year>2010</year>)<article-title> When is a species really extinct? Testing extinction inference from a sighting record to inform conservation assessment.</article-title> <source>Diversity and Distributions </source> <volume>16</volume>: <fpage>755</fpage>-<lpage>764</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1472-4642.2010.00689.x" xlink:type="simple">doi: 10.1111/j.1472-4642.2010.00689.x</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eddy</surname><given-names>W</given-names></name></person-group> (<year>1977</year>)<article-title> A new convex hull algorithm for planar sets.</article-title> <source>ACM Transactions on Mathematical Software </source> <volume>3</volume>: <fpage>398</fpage>-<lpage>403</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hartley</surname><given-names>S</given-names></name><name name-style="western"><surname>Kunin</surname><given-names>WE</given-names></name></person-group> (<year>2003</year>)<article-title> Scale dependence of rarity, extinction risk, and conservation priority.</article-title> <source>Conservation Biology </source> <volume>17</volume>: <fpage>1559</fpage>-<lpage>1570</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1523-1739.2003.00015.x" xlink:type="simple">doi: 10.1111/j.1523-1739.2003.00015.x</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>IUCN</surname></name></person-group> (<year>2001</year>)<source> IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission. IUCN, Gland, Switzerland and Cambridge, UK: 30 pp.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>IUCN</surname></name></person-group> (<year>2011</year>)<source> IUCN Red List of Threatened Species. Version 2011.2 Available here: <ext-link ext-link-type="uri" xlink:href="http://www.iucnredlist.org/" xlink:type="simple">http://www.iucnredlist.org/</ext-link></source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>IUCN Standards and Petitions</surname><given-names>Subcommitte</given-names></name></person-group> (<year>2010</year>)<source> Guidelines for using the IUCN Red List Categories and Criteria. Version 8.1 (August 2010) Prepared by the Standards and Petitions Subcommittee in March 2010. <ext-link ext-link-type="uri" xlink:href="http://intranet.iucn.org/webfiles/doc/SSC/RedList/RedListGuidelines.pdf" xlink:type="simple">http://intranet.iucn.org/webfiles/doc/SSC/RedList/RedListGuidelines.pdf</ext-link>.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McPherson</surname><given-names>JM</given-names></name><name name-style="western"><surname>Myer</surname><given-names>RA</given-names></name></person-group> (<year>2009</year>)<article-title> How to infer population trends in sparse data: examples with opportunistic sighting records for great white shark.</article-title> <source>Diversity and Distributions</source> <volume>15</volume>: <fpage>880</fpage>-<lpage>890</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1472-4642.2009.00596.x" xlink:type="simple">doi: 10.1111/j.1472-4642.2009.00596.x</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moat</surname><given-names>J</given-names></name></person-group> (<year>2007</year>)<source> Conservation Assessment Tools Extension for ArcView 3.x, Version 1.0. GIS Unit. Royal Botanic Gardens, Kew. <ext-link ext-link-type="uri" xlink:href="http:// www.kew.org/gis/projects/cats" xlink:type="simple">http:// www.kew.org/gis/projects/cats</ext-link></source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mora</surname><given-names>C</given-names></name><name name-style="western"><surname>Tittensor</surname><given-names>DP</given-names></name><name name-style="western"><surname>Adl</surname><given-names>S</given-names></name><name name-style="western"><surname>Simpson</surname><given-names>AGB</given-names></name><name name-style="western"><surname>Worm</surname><given-names>B</given-names></name></person-group> (<year>2011</year>)<source> How Many Species Are There on Earth and in the Ocean? PLoS Biol 9(8):e1001127. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.1001127" xlink:type="simple">doi: 10.1371/journal.pbio.1001127</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Secretariat of the Convention on Biological</surname><given-names>Diversity</given-names></name></person-group> (<year>2010</year>)<source> Global Biodiversity Outlook 3. Montréal, 94 pp.</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>VS</given-names></name><name name-style="western"><surname>Rycroft</surname><given-names>SD</given-names></name><name name-style="western"><surname>Harman</surname><given-names>KT</given-names></name><name name-style="western"><surname>Scott</surname><given-names>B</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name></person-group> (<year>2009</year>)<source> Scratchpads: a data-publishing framework to build, share and manage information on the diversity of life. BMC Bioinformatics 10(Suppl 14):S6 </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2105-10-S14-S6" xlink:type="simple">doi: 10.1186/1471-2105-10-S14-S6</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Solow</surname><given-names>AR</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>DL</given-names></name></person-group> (<year>2003</year>)<article-title> A nonparametric test for extinction based on a sighting record.</article-title> <source>Ecology </source> <volume>84</volume>: <fpage>1329</fpage>-<lpage>1332</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1890/0012-9658(2003)084[1329:ANTFEB]2.0.CO;2" xlink:type="simple">doi: 10.1890/0012-9658(2003)084[1329:ANTFEB]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Willis</surname><given-names>F</given-names></name><name name-style="western"><surname>Moat</surname><given-names>J</given-names></name><name name-style="western"><surname>Paton</surname><given-names>A</given-names></name></person-group> (<year>2003</year>)<article-title> Defining a role for herbarium data in Red List assessments: a case study of Plectranthus from eastern and southern tropical Africa.</article-title> <source>Biodiversity and Conservation </source> <volume>12</volume>: <fpage>1537</fpage>-<lpage>1552</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1023679329093" xlink:type="simple">doi: 10.1023/A:1023679329093</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,224 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.156.1893</article-id>
+            <title-group>
+                <article-title>A remarkable case of mosaic parapatry in millipedes</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Mesibov</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Queen Victoria Museum and Art Gallery, Launceston, Tasmania 7250, Australia
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Robert Mesibov (<email xlink:type="simple">mesibov@southcom.com.au</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: S. Golovatch</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>12</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>156</issue>
+            <fpage>71</fpage>
+            <lpage>84</lpage>
+            <history>
+                <date date-type="received">
+                    <day>10</day>
+                    <month>8</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Robert Mesibov</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The parapatric boundary between <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> Mesibov, 2010 and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> Mesibov, 2010 (<tp:taxon-name>Polydesmida</tp:taxon-name>: <tp:taxon-name>Dalodesmidae</tp:taxon-name>) in northwest Tasmania was mapped in preparation for field studies of parapatry and speciation. Both millipede species can be collected as adults throughout the year, are often abundant in eucalypt forest and tolerate major habitat disturbance. The parapatric boundary between the two species is ca 100 m wide in well-sampled sections and ca 230 km long. It runs from sea level to 600-700 m elevation, crosses most of the river catchments in northwest Tasmania and several major geological boundaries, and one portion of the boundary runs along a steep rainfall gradient. The location of the boundary is estimated here from scattered sample points using a method based on Delaunay triangulation.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Diplopoda</kwd>
+                <kwd>Polydesmida</kwd>
+                <kwd>Dalodesmidae</kwd>
+                <kwd>millipede</kwd>
+                <kwd>Australia</kwd>
+                <kwd>Tasmania</kwd>
+                <kwd>parapatry</kwd>
+                <kwd>boundary estimation</kwd>
+                <kwd>Delaunay triangulation</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Millipedes commonly form lineage mosaics (<xref ref-type="bibr" rid="B4">Mesibov 2003c</xref>), in which each species has a discrete range that overlaps very little or not at all with the ranges of other species in the same genus (<xref ref-type="bibr" rid="B8">Shelley 1990a</xref>, <xref ref-type="bibr" rid="B9">1990b</xref>). Tasmanian examples in the dalodesmid Polydesmida are found in the genera <italic><tp:taxon-name>Atrophotergum</tp:taxon-name></italic> Mesibov, 2004 (<xref ref-type="bibr" rid="B5">Mesibov 2004</xref>), <italic><tp:taxon-name>Dasystigma</tp:taxon-name></italic> Mesibov, 2003 (<xref ref-type="bibr" rid="B2">Mesibov 2003a</xref>), <italic><tp:taxon-name>Gasterogramma</tp:taxon-name></italic> Jeekel, 1982 (<xref ref-type="bibr" rid="B3">Mesibov 2003b</xref>), <italic><tp:taxon-name>Lissodesmus</tp:taxon-name></italic> Chamberlin, 1920 (<xref ref-type="bibr" rid="B6">Mesibov 2006</xref>) and <italic><tp:taxon-name>Tasmaniosoma</tp:taxon-name></italic> Verhoeff, 1936 (<xref ref-type="bibr" rid="B7">Mesibov 2010</xref>).</p>
+            <p>It is not yet known how the tight parapatry seen in these mosaics originates and is maintained (<xref ref-type="bibr" rid="B4">Mesibov 2003c</xref>). What is apparent is that parapatric boundaries between millipede species are not necessarily congruent with environmental boundaries. In Tasmania the boundaries cross rivers and traverse different underlying geologies, soil types, local climates and vegetation types.</p>
+            <p>I document below a remarkable parapatric boundary of the ‘environmentally incongruent’ kind between two congeneric millipedes in northwest Tasmania. I also demonstrate a simple analytical method for estimating and visualising the location of a parapatric boundary from point localities.</p>
+        </sec>
+        <sec sec-type="Materials and methods">
+            <title>Materials and methods</title>
+            <sec sec-type="Millipede species">
+                <title>Millipede species</title>
+                <p>The endemic Tasmanian species <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> Mesibov, 2010 and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> Mesibov, 2010 were named, described and provisionally mapped in <xref ref-type="bibr" rid="B7">Mesibov (2010)</xref>. Both are ca 15 mm long as adults. The two species are very similar in appearance, but live and freshly preserved males and females can usually be identified by a difference in colour: <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> are red-brown, while <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> are yellow-brown with a distinct light patch just under the lateral margin of each paranotum (<xref ref-type="fig" rid="F1">Fig. 1</xref> in <xref ref-type="bibr" rid="B7">Mesibov 2010</xref>). Unfortunately, live colouring in both species is somewhat variable, and some females cannot be confidently assigned to species. For this reason, locations for females not associated with males are marked separately in the map Figures, below, and parapatric boundary estimation is based on males only.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 1.</bold> Localities for male <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic>. Scale bar = 100 km. Rectangle indicates map extent in Figs 2–6.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Colour in the two species fades quickly in alcohol. Preserved females cannot be identified by colour after a few months, and long-preserved museum specimens can only be identified by examining the gonopods of mature males.</p>
+            </sec>
+            <sec sec-type="Millipede sampling">
+                <title>Millipede sampling</title>
+                <p>For the present study I collected <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> by hand during the daytime at 351 sites in northwest Tasmania between July 2009 and August 2011. Adults are night-wandering and can be found sheltering during the day under loose fragments of bark on dead tree stems and branches, under flat pieces of bark and woody litter on the ground, and within narrow, curled lengths of fallen bark from eucalypt crown branches. At most sites adults were collected within 30 minutes, but at sites where <italic><tp:taxon-name>Tasmaniosoma</tp:taxon-name></italic> spp. were uncommon I extended the search to ca 1 hour. Several sites were searched on more than one field day before <italic><tp:taxon-name>Tasmaniosoma</tp:taxon-name></italic> spp. were found, and a number of specimens were kindly provided by other collectors during the study period. All specimens were preserved in 80% ethanol and deposited as registered lots in the Queen Victoria Museum and Art Gallery, Launceston, Tasmania.<!--PageBreak--></p>
+                <p>Sites were located in the field with a handheld GPS unit, or later the same day by reference to Google Earth. Because I collected specimens over an area up to ca 1 ha at each site, the uncertainty associated with each locality was recorded as ±25 m or ±50 m as appropriate.</p>
+                <p><bold>Note:</bold> All known specimen records for <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> are listed in the Appendix. The reader should refer to this Appendix for locations of placenames and other geographic features mentioned in the Results and Discussion sections. Site locations can be plotted from Appendix data either as UTM grid references or as latitude/longitude in GIS, or in Google Earth or other spatial data browsers using the included KML files.</p>
+            </sec>
+            <sec sec-type="Boundary estimation">
+                <title>Boundary estimation</title>
+                <p>A parapatric boundary can be marked on a map by drawing a line equidistant from localities for each of the two species near the boundary. A ‘halfway between’ line of <!--PageBreak-->this kind is an appropriate estimator of the true location of the boundary if sampling localities are few and the map scale is coarse.</p>
+                <p>The present study generated hundreds of species localities and I was interested to trace the path of the main parapatric boundary (see below) at a scale appropriate to the spatial intensity of the sampling. I first generated a Delaunay network for male localities in the area of interest using the Delaunay triangulation tool in Quantum GIS version 1.4.0 (<ext-link ext-link-type="uri" xlink:href="http://qgis.org/">http://qgis.org/</ext-link>); see <xref ref-type="fig" rid="F4">Fig. 4</xref> and its caption for more details. I then deleted from the Delaunay polygon shapefile all triangles which had the same species at all three vertices. For clarity, I also deleted triangles running seawards from the two coastal ends of the boundary. The remaining set of 163 polygons (<xref ref-type="fig" rid="F5">Fig. 5</xref>; see also its caption) consisted of triangles with one species at two of the vertices and the other species at the third. Finally, I generated centroids for the 163 triangles (<xref ref-type="fig" rid="F6">Fig. 6</xref>) using the freeware Center of Mass extension (Jenness Enterprises, Flagstaff AZ, USA, <ext-link ext-link-type="uri" xlink:href="http://www.jennessent.com/">http://www.jennessent.com/</ext-link>) for ArcView 3.2 GIS (ESRI, Redlands CA, USA).</p>
+                <p>Each of the 163 centroids is a point estimate for the location of the parapatric boundary. Where sampling localities are close together, the centroids approximate a line; see the eastern section of the boundary in <xref ref-type="fig" rid="F6">Fig. 6</xref>. Where sampling localities are far apart, the centroids are diffusely distributed. The method used here is similar to triangulation wombling for scattered point data (<xref ref-type="bibr" rid="B1">Fortin and Drapeau 1995</xref>), but tentative ‘boundary elements’ have not been generated by joining centroids. The ‘cloud of centroids’ in <xref ref-type="fig" rid="F6">Fig. 6</xref> shows the relative uncertainty in estimating the location of the boundary from place to place, something which a hand-drawn or computed line cannot easily do.</p>
+            </sec>
+            <sec sec-type="Spatial data sources">
+                <title>Spatial data sources</title>
+                <p>The GIS layers used in <xref ref-type="fig" rid="F7">Fig. 7</xref> for elevation contours, major streams, generalised geology and rainfall isohyets were sourced from the spatial data library of the Tasmanian state government (<ext-link ext-link-type="uri" xlink:href="http://www.thelist.tas.gov.au">http://www.thelist.tas.gov.au</ext-link>) through the Queen Victoria Museum and Art Gallery.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Millipede sampling overview">
+                <title>Millipede sampling overview</title>
+                <p>Adult <italic><tp:taxon-name>Tasmaniosoma</tp:taxon-name></italic> spp. were collected in every month of the year during the study period, but were much harder to find in the Tasmanian summer, December to March.</p>
+                <p>In northwest Tasmania, <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> appear to be most abundant in natural forest and woodland of the regional <italic><tp:taxon-name>Eucalyptus</tp:taxon-name></italic> species, namely <italic><tp:taxon-name>Eucalyptus brookeriana</tp:taxon-name></italic>, <italic><tp:taxon-name>Eucalyptus delegatensis</tp:taxon-name></italic>, <italic><tp:taxon-name>Eucalyptus nitida</tp:taxon-name></italic>, <italic><tp:taxon-name>Eucalyptus obliqua</tp:taxon-name></italic>, <italic><tp:taxon-name>Eucalyptus ovata</tp:taxon-name></italic> and <italic><tp:taxon-name>Eucalyptus viminalis</tp:taxon-name></italic>. Both species can also be found in riparian or fire-sere stands of <italic><tp:taxon-name>Acacia dealbata</tp:taxon-name></italic> and <italic><tp:taxon-name>Acacia melanoxylon</tp:taxon-name></italic>. Both millipede species occur in eucalypt communities ranging from open forest with<!--PageBreak--> an iris ground layer (<italic><tp:taxon-name>Diplarrena</tp:taxon-name></italic> sp.), to regrowth forest with a dense understorey of small trees (<italic><tp:taxon-name>Pomaderris apetala</tp:taxon-name></italic> or <italic><tp:taxon-name>Leptospermum</tp:taxon-name></italic> spp.), to old-growth forest with an understorey of mature rainforest tree species (<italic><tp:taxon-name>Nothofagus cunninghamii</tp:taxon-name></italic>, <italic><tp:taxon-name>Phyllocladus aspleniifolius</tp:taxon-name></italic>, <italic><tp:taxon-name>Atherospermum moschatum</tp:taxon-name></italic>). Neither species is easy to find in old-growth <italic><tp:taxon-name>Nothofagus cunninghamii</tp:taxon-name></italic> rainforest or in heathland.</p>
+                <p>Populations of both <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> appear to be tolerant of major habitat disturbance, including intense wildfire and clearfelling followed by burning and reafforestation. Both species are abundant in some plantations of <italic><tp:taxon-name>Eucalyptus globulus</tp:taxon-name></italic>, <italic><tp:taxon-name>Eucalyptus nitens</tp:taxon-name></italic> and <italic><tp:taxon-name>Pinus radiata</tp:taxon-name></italic>, especially first-rotation plantations established on former native forest sites and plantations closely bordering native forest, including narrow remnant strips close to watercourses. Both species are also occasionally found in small (&lt;0.1 ha) vegetation remnants on cleared farmland, e.g. an isolated eucalypt copse or a riparian strip of <italic><tp:taxon-name>Acacia melanoxylon</tp:taxon-name></italic> over blackberry (<italic><tp:taxon-name>Rubus fruticosus</tp:taxon-name></italic>) and other weed species.</p>
+                <p>I was unable to find either species in certain apparently suitable habitat patches, despite repeated searches during the two-year study period. These distribution gaps were mainly clustered in the southeast of the study area near Waratah and Guildford, but were also close to former <italic><tp:taxon-name>Poa</tp:taxon-name></italic> grassland/woodland sites near Oonah. Populations of <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> or <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> were found at sites within a few kilometres of the gaps.</p>
+            </sec>
+            <sec sec-type="Main parapatric boundary">
+                <title>Main parapatric boundary</title>
+                <p><italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> is widespread in western Tasmania but there is a ca 4000 km<sup>2</sup> gap in its distribution in the northwest (<xref ref-type="fig" rid="F1">Figs 1</xref>, <xref ref-type="fig" rid="F2">2</xref>). The gap is filled by the distribution of <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The main parapatric boundary between the two species is ca 230 km long (<xref ref-type="fig" rid="F6">Fig. 6</xref>) and has been closely mapped along Jefferson Road southeast of Preolenna and Rebecca Spur 3 southeast of Temma. At these two locations the boundary is ca 100 m wide (<xref ref-type="fig" rid="F9">Fig. 8</xref>). The boundary appears to be just as narrow along Leonards Road south of Henrietta, Lyons Road south of Lapoinya, the Murchison Highway southeast of Waratah and at the north end of Hellyer Gorge, Oonah Road west of Oonah and Robbins Island Road north of West Montagu. At these locations I was unable to collect enough males during the study period for reliable fine-scale mapping.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 2.</bold> Localities for <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> males (filled squares) and females identified by colour (open squares). Ellipse encloses Arthur-Hellyer ‘island’ (see text for explanation). Scale bar = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F3" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 3.</bold> Localities for <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> males (filled squares) and females identified by colour (open squares). Outliers (circled) are at the Vale of Belvoir. Scale bar = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Boundary mapping is no longer possible near Wynyard, Redpa and other farming localities in northwest Tasmania. <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> populations persist in native vegetation remnants in these areas, but are separated by intensively managed pasture and cropland. Mapping is also difficult along the southern and southwestern sections of the main parapatric boundary, which traverses unroaded, largely wild country.</p>
+            </sec>
+            <sec sec-type="Arthur-Hellyer ‘island’">
+                <title>Arthur-Hellyer ‘island’</title>
+                <p>A ca 40 km<sup>2</sup> ‘island’ of <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> localities occurs in the upper reaches of the Arthur and Hellyer Rivers near Hellyer Gorge (<xref ref-type="fig" rid="F2">Fig. 2</xref>), apparently enclosed by <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic><!--PageBreak--> localities. The parapatric boundary of this ‘island’ has not yet been closely mapped on its eastern and northern sides, and the western and southern sections of the boundary (not yet located) are in unroaded, steeply dissected and thickly vegetated terrain.</p>
+            </sec>
+            <sec sec-type="Possible translocations">
+                <title>Possible translocations</title>
+                <p>Males of <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> were found ca 20 km within the <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> range at the Vale of Belvoir (<xref ref-type="fig" rid="F3">Fig. 3</xref>). It is not yet known whether this is a naturally isolated occurrence or the result of translocation. The ca 500 ha of open grassland at the Vale has been grazed by cattle during the summer months for more than 100 years, and <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> may have been unintentionally introduced into the area by cattle-carrying trucks.</p>
+                <p>Translocations of <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> over shorter distances may also have occurred in intensively managed forest close to the main parapatric boundary. For example, I co<!--PageBreak-->llected females of this species at three neighbouring sites along Ten Foot Track off Preolenna Road. The three sites are surrounded by <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> occurrences and are close to a logging road used by log-carting trucks in recent years.</p>
+            </sec>
+            <sec sec-type="Co-occurrence">
+                <title>Co-occurrence</title>
+                <p>At two sites along the main parapatric boundary (<xref ref-type="fig" rid="F4">Figs 4</xref>-<xref ref-type="fig" rid="F6">6</xref>) I found males of <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> within a few metres of each other, on Leonards Road south of Henrietta and on Talunah Road west of Hampshire. At another 11 sites close to the main parapatric boundary I found possible co-occurrences, but at least one species was represented only by females identified by colour. At two of the latter sites, both species were found sheltering under loose bark on the same fallen tree.</p>
+                <fig id="F4" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 4.</bold> Delaunay triangulation of localities for male <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> (filled circles), <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> (open circles) and co-occurrences (stars). The set of localities used has been trimmed to the vicinity of the parapatric boundary, and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> localities in the Arthur-Hellyer ‘island’ and <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> localities at the Vale of Belvoir have been excluded. Scale bar = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F5" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 5.</bold> Edited Delaunay triangulation of localities for male <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> (filled circles), <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> (open circles) and co-occurrences (stars); see text for explanation. Scale bar = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F6" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 6.</bold> Centroids of triangles in Figure 5. Co-occurrences of <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> males are circled. Arrow points to area shown in Figure 8. Scale bar = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="No evidence of hybrids">
+                <title>No evidence of hybrids</title>
+                <p>None of the males collected near the main parapatric boundary or the boundary of the Arthur-Hellyer ‘island’ had gonopods intermediate between <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic>, or were intermediate in live colouring.</p>
+            </sec>
+            <sec sec-type="Environmental incongruence">
+                <title>Environmental incongruence</title>
+                <p>As shown in <xref ref-type="fig" rid="F7">Fig. 7A</xref>, the main parapatric boundary rises from the north coast near Robbins Island (western section of the boundary) to 600-700 m at its southeast corner, then returns to the coast near Table Cape, ca 75 km from its starting point. It crosses most of the west coastal rivers north of Sandy Cape and the headstreams of both the major inland river systems in the region (Arthur and Pieman) before descending to the north coast; the northeast section of the boundary more or less follows the Flowerdale River (<xref ref-type="fig" rid="F7">Fig. 7B</xref>). The parapatric boundary crosses numerous geological boundaries (<xref ref-type="fig" rid="F8">Fig. 7C</xref>) and its eastern section runs along a fairly steep rainfall gradient (<xref ref-type="fig" rid="F8">Fig. 7D</xref>), i.e. at right angles to isohyets.<!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak--></p>
+                <p>Both <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> occur in a wide range of vegetation types close to the parapatric boundary. If there are major environmental boundaries which are spatially congruent with the biogeographical one separating the two species, they are not obviously related to topography, geology, climate or vegetation.</p>
+                <fig id="F7" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 7A, B.</bold> Centroids from Fig. 6 superimposed on 100 m elevation contours <bold>A</bold> and principal rivers <bold>B</bold>. Scale bars = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F8" position="float" orientation="portrait">
+                    <caption><p><bold>Figure 7C, D.</bold> Centroids from Fig. 6 superimposed on simplified bedrock geology <bold>C</bold> and mean annual rainfall isohyets, in mm <bold>D</bold>. In <bold>C</bold>, colours crossed by main parapatric boundary represent (anticlockwise from top left) Quaternary coastal sand and gravel (gray-blue), Precambrian siltstone and mudstone (orange), Precambrian metamorphics (green), Cambrian conglomerate and siltstone (gray-green), Tertiary basalt (light brown) and Permian glaciomarine sedimentary rocks (red-brown). Scale bars = 25 km.</p></caption>
+                    <graphic xlink:href="ZooKeys-156-071-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>The aim of this study was to map the boundary between the <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> distributions as a knowledge base for future studies of parapatry and speciation. The parapatric boundary between these two species is the longest and narrowest I am aware of in the Australian millipede fauna. It is particularly well-suited to field study because much of it is easily accessed by all-weather roads, and because sections of the boundary run through little-disturbed tracts of native vegetation, including prima<!--PageBreak-->ry forest. The two millipede species are ecologically resilient and can be very abundant in eucalypt forest at lower elevations.</p>
+            <p>Several of the the largest and least disturbed patches of forest along the boundary are on public land managed by Forestry Tasmania, a government-owned forestry business. One such patch covers ca 12 km<sup>2</sup> on the upper Flowerdale River between Lapoinya and Preolenna Roads, on the eastern arm of the boundary. The forest is a mosaic of formal and informal reserves, production forest and plantation, with privately owned forest on the periphery. A similar but smaller mosaic is found along Rebecca Spur 3 and south of the Rebecca Road – Rebecca Spur 3 junction (<xref ref-type="fig" rid="F9">Fig. 8</xref>) on the western arm of the boundary.</p>
+            <fig id="F9" position="float" orientation="portrait">
+                <caption><p><bold>Figure 8.</bold> Rebecca Spur 3 area (marked with arrow in Fig. 6) in Google Earth image dated 11 October 2010. Markers: <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> males (darker green) and females identified by colour (lighter green), <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> males (darker red) and females identified by colour (lighter red), and possible co-occurrence of females identified by colour (yellow).</p></caption>
+                <graphic xlink:href="ZooKeys-156-071-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>The parapatric boundary also crosses private land. Because the future of privately owned forest is less certain in Tasmania than that of formally reserved forest on public land, future field studies on suitable private blocks might be given a high priority. I was allowed access during the study period to a large private block near Henrietta, just north of the Takone Road. The Henrietta block carries even-aged eucalypt regrowth and populations of both <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> and <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic>.</p>
+            <p>An unanswered question is whether the two millipede species are well-distributed across heathland near the west coast. <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> is abundant in shrubby coastal vegetation, and to the east <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic> has been found close to scattered, small eucalypts in heath. As currently estimated (<xref ref-type="fig" rid="F6">Fig. 6</xref>), the main parapatric boundary crosses ca 50 km of heathland in the formally reserved Arthur-Pieman Conservation Area.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>I thank Matthew French, Daniel Lester, Renate van Riet and my wife Trina Moule for help with collecting, and Mark Alexander and Kevin Bonham for additional specimens. I am especially grateful to the many friendly farmers and other small-property owners in northwest Tasmania who gave me access to their properties for millipede sampling, and to the larger-property owners and managers who offered access through more formal protocols: Forestry Tasmania (represented by Nigel Foss), Grange Resources (Daniel Lester), Gunns Ltd (Robert Onfray) and the Van Diemens Land Company (Brent Anstis). This study was funded by the author.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fortin</surname> <given-names>M-J</given-names></name><name name-style="western"><surname>Drapeau</surname> <given-names>P</given-names></name></person-group> (<year>1995</year>)<article-title> Delineation of ecological boundaries: comparison of approachesand significance tests.</article-title> <source>Oikos </source> <volume>72</volume>: <fpage>323</fpage>-<lpage>332</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3546117">10.2307/3546117</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2003a</year>)<article-title> A new genus of Tasmanian millipedes (Diplopoda, Polydesmida, Dalodesmidae) with unusual spiracles and a mosaic distribution.</article-title> <source>Memoirs of Museum Victoria </source> <volume>60</volume> (<issue>2</issue>): <fpage>197</fpage>-<lpage>206</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2003b</year>)<article-title> The millipede genus <italic>Gasterogramma</italic> (Diplopoda: Polydesmida: Dalodesmidae) in Tasmania, Australia, with descriptions of seven new species.</article-title> <source>Memoirs of Museum Victoria </source> <volume>60</volume> (<issue>2</issue>): <fpage>207</fpage>-<lpage>219</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2003c</year>)<article-title> Lineage mosaics in millipedes.</article-title> <source>African Invertebrates </source> <volume>44</volume> (<issue>1</issue>): <fpage>203</fpage>-<lpage>212</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2004</year>)<article-title> A new genus of millipedes (Diplopoda: Polydesmida: Dalodesmidae) from Tasmania, Australia with a mosaic distribution.</article-title> <source>Zootaxa </source> <volume>480</volume>: <fpage>1</fpage>-<lpage>23</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2006</year>)<article-title> The millipede genus <italic>Lissodesmus</italic> Chamberlin, 1920 (Diplopoda: Polydesmida: Dalodesmidae) from Tasmania and Victoria, with descriptions of a new genus and 24 new species.</article-title> <source>Memoirs of Museum Victoria </source> <volume>62</volume> (<issue>2</issue>): <fpage>103</fpage>-<lpage>146</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2010</year>)<article-title> The millipede genus <italic>Tasmaniosoma</italic> Verhoeff, 1936 (Diplopoda, Polydesmida, Dalodesmidae) from Tasmania, Australia, with descriptions of 18 new species.</article-title> <source>ZooKeys </source> <volume>41</volume>: <fpage>31</fpage>-<lpage>80</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.41.420">10.3897/zookeys.41.420</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shelley</surname> <given-names>RM</given-names></name></person-group> (<year>1990a</year>)<article-title> Revision of the milliped family Eurymerodesmidae (Polydesmida: Chelodesmidea).</article-title> <source>Memoirs of the American Entomological Society </source> <volume>37</volume>: <fpage>1</fpage>-<lpage>112</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shelley</surname> <given-names>RM</given-names></name></person-group> (<year>1990b</year>)<source> Are allopatric/parapatric mosaic complexes widespread in the Diplopoda? In: Minelli A (Ed) Proceedings of the 7th International Congress of Myriapodology. EJ Brill, Leiden, 2 3.</source></mixed-citation></ref>
+        </ref-list>
+        <app-group>
+        <app>
+            <title>Appendix</title>
+            <p>Specimen records as of 8 August 2011 for <italic><tp:taxon-name>Tasmaniosoma compitale</tp:taxon-name></italic>, <italic><tp:taxon-name>Tasmaniosoma hickmanorum</tp:taxon-name></italic> and unassigned females of these species. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.156.1893.app">10.3897/zookeys.156.1893.app</ext-link></p>
+            <p><bold>Description.</bold> Complete records are given in the annotated CSV file ‘Parapatry_records.csv’. The compressed file ‘Parapatry_KML.zip’ contains separate KML files for males of the two species, females and juveniles of the two species (identified by colour), co-occurrences, and females not assignable to either species. Each KML record has an associated museum registration number and users should refer to ‘Parapatry_records.csv’ for more information on that record.</p>
+        </app>
+        </app-group>
+    </back>
+</article>

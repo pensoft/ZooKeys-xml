@@ -1,0 +1,251 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="review-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.150.2248</article-id>
+            <title-group>
+                <article-title>Data standards, sense and stability: Scratchpads, the ICZN and ZooBank</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Baker</surname>
+                        <given-names>Edward</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Michel</surname>
+                        <given-names>Ellinor</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>International Commission on Zoological Nomenclature, London, United Kingdom
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Entomology, Natural History Museum, London, United Kingdom
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Edward Baker (<email xlink:type="simple">edwbaker@gmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Smith</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>150</issue>
+            <fpage>167</fpage>
+            <lpage>176</lpage>
+            <history>
+                <date date-type="received">
+                    <day>14</day>
+                    <month>10</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>22</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Edward Baker, Ellinor Michel</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The International Commission of Zoological Nomenclature has used the Scratchpads platform (currently being developed and maintained by ViBRANT) as the foundation for its redesigned website and as a platform for engaging with its users. The existing Scratchpad tools, with extensions to provide additional functions, have allowed for a major transformation in presentation of linked nomenclatural tools. Continued development of the new website will act as a springboard for the ICZN to participate more fully in the wider community of biodiversity informatics.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>International Commission on Zoological Nomenclature</kwd>
+                <kwd>Scratchpads</kwd>
+                <kwd>Bulletin of Zoological Nomenclature</kwd>
+                <kwd>BioStor</kwd>
+                <kwd>BioCode</kwd>
+                <kwd>ZooBank</kwd>
+                <kwd>Global Names Architecture</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The International Commission on Zoological Nomenclature (ICZN: <ext-link ext-link-type="uri" xlink:href="http://iczn.org" xlink:type="simple">http://iczn.org</ext-link>) aims to provide ‘standards, sense and stability for animal names in science’ by acting as an advisor and arbiter for the zoological community. The ICZN produces the <italic>International Code of Zoological Nomenclature</italic> (‘the Code’) - a set of rules for the naming of animals and the resolution of nomenclatural problems. In addition it publishes the <!--PageBreak--><italic>Bulletin of Zoological Nomenclature</italic> (BZN) containing applications (Cases) made to the ICZN, Comments on these Cases, and the rulings of the Commission (Opinions). The ICZN is also responsible for creating ZooBank (<ext-link ext-link-type="uri" xlink:href="http://zoobank.org" xlink:type="simple">http://zoobank.org</ext-link>), an online repository of nomenclatural acts intended to be the official registry of zoological nomenclature, currently under consideration as a prerequisite for electronic-only publication under the Code (details of this discussion with links to associated publications can be found at <ext-link ext-link-type="uri" xlink:href="http://iczn.org/content/availability-electronic-publication" xlink:type="simple">http://iczn.org/content/availability-electronic-publication</ext-link>).</p>
+            <p>Work began in December 2009 to move the ICZN’s website to the Scratchpads (<ext-link ext-link-type="uri" xlink:href="http://scratchpads.eu" xlink:type="simple">http://scratchpads.eu</ext-link>; <xref ref-type="bibr" rid="B10">Smith et al. 2011</xref>) platform. Prior to this the website was made of individual, hand-written HTML pages; with an increasing volume of content it was becoming difficult to maintain. The lack of a content management system (CMS) prevented many improvements to the site, including its visual appearance, use of metadata and development of new functionality.</p>
+            <p>Currently the ICZN finds itself at the centre of a biodiversity information crisis (e.g. <xref ref-type="bibr" rid="B4">Godfray 2002</xref>, <xref ref-type="bibr" rid="B5">2007</xref>). The number of unrecognised taxa is estimated to be an order of magnitude more than currently described (e.g. <xref ref-type="bibr" rid="B8">Mora et al. 2011</xref>), legacy information is hidden behind barriers to access and shifting frames of reference, and fields such as molecular biology, not in existence at the founding of the ICZN in 1895, are presenting masses of data that is sometimes poorly contextualised and lacking a taxonomic framework. Maintaining a correct and stable nomenclature is important to all concerned with the living world, including those working in policy, public health and customs enforcement. The solution to the biodiversity information crisis will come as much from improved informatics and computer science as it will from biology - it is for this reason that the ICZN is investing considerable time in making functional and stable resources for nomenclature, and the sciences that it supports.</p>
+            <p>Another set of problems are sociological rather than technological in nature; as useful as the Code and ICZN rulings are to those who make use of zoological nomenclature, they require the acceptance of, and adoption by, the entire zoological community - from taxonomists to journal editors. A recent example of journal editors not fully understanding the requirements of the Code was the publication of <italic><tp:taxon-name>Darwinius masillae</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B2">Franzen et al. (2009)</xref> in the (normally) electronic-only journal PLoS One. Since electronic-only publication is not allowed under the 4th Code, had the name been published as planned in e-only format, it would have been unavailable. In this instance the ICZN worked with the journal editors to create an interim solution of hard copy production of the journal for this nomenclatural act (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/plos" xlink:type="simple">http://iczn.org/plos</ext-link>).</p>
+            <p>The ICZN’s response to these challenges is to develop ZooBank as an online repository for names, and the new website (using Scratchpads) as a platform for delivering not only the BZN but for outreach to the biological (and other) communities.</p>
+            <p>The initial transfer of content to the new website was completed at the end of March 2010 and the website has continued to evolve since then. The use of Scratc<!--PageBreak-->hpads and the underlying Drupal CMS has allowed the ICZN to create a larger, more functional online presence and begin to create, organise and disseminate its outputs in a way that is standards-compliant, scalable and allows integration with other online services (e.g. BioStor). Outreach to the zoological community has been improved by online Frequently Asked Questions, guidelines of editors of journals publishing taxonomic papers, translations of the Code into foreign languages and providing a forum for discussing the draft BioCode.</p>
+        </sec>
+        <sec sec-type="How the ICZN uses Scratchpads">
+            <title>How the ICZN uses Scratchpads</title>
+            <p>The aim of the ICZN site is to provide information about the Commission, its supporting body (the International Trust for Zoological Nomenclature), and provide access to the the Code and BZN. In this respect it differs from the majority of Scratchpad sites, which generally have a taxonomic focus. Unlike other Scratchpads, the ICZN website is not a resource built directly by a community (although Cases and Comments are written by the zoological community, only the ICZN Secretariat can add content to the site). The use of the Scratchpads platform has however allowed parts of the site to be used as a tool for community engagement (e.g. the draft BioCode).</p>
+            <sec sec-type="Customisation overview">
+                <title>Customisation overview</title>
+                <p>The ICZN site builds on the functionality of a standard Scratchpads installation in a number of ways including novel use of existing tools. The most obvious of these is a new theme designed for the ICZN, as well as a number of modules that are either not enabled in a standard Scratchpad (contemplate, views_Accordion), or that have been written for the ICZN website (iczn_aker, icznblocks) - <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Additional modules used by the ICZN site over a standard Scratchpads installation</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Module</bold></td>
+                                <td rowspan="1" colspan="1"><bold>Functionality</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">contemplate</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://drupal.org/project/contemplate" xlink:type="simple">http://drupal.org/project/contemplate</ext-link> - Allows individual content types to be templated easily.</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">views_accordion</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://drupal.org/project/views_accordion" xlink:type="simple">http://drupal.org/project/views_accordion</ext-link> - Extends the Views module functionality to provide expanadable/collapsible displays of contents. (see e.g. <ext-link ext-link-type="uri" xlink:href="http://iczn.org/category/faqs/frequently-asked-questions" xlink:type="simple">http://iczn.org/category/faqs/frequently-asked-questions</ext-link>)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">iczn_aker</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="https://github.com/edwbaker/ICZN-Aker" xlink:type="simple">https://github.com/edwbaker/ICZN-Aker</ext-link> - Used to include (server-side) content from the private Case management Scratchpad onto iczn.org</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">icznblocks</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="https://github.com/edwbaker/ICZN-Blocks" xlink:type="simple">https://github.com/edwbaker/ICZN-Blocks</ext-link> - Provides the tabbed block on the iczn.org home page. Makes use of jQuery UI to provide transitioning effects.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="Bulletin of Zoological Nomenclature">
+            <title>Bulletin of Zoological Nomenclature</title>
+            <p>The Bulletin of Zoological Nomenclature (BZN: <ext-link ext-link-type="uri" xlink:href="http://iczn.org/bzn" xlink:type="simple">http://iczn.org/bzn</ext-link>) publishes Cases sent to the ICZN, Comments on these Cases and the rulings of the Commission (Opinions). Information relating to an individual Case is therefore spread out over several issues of the BZN. This, combined with the fact that taxonomists are generally interested in particular taxa, means that the traditional journal browsing structure of volume/issue/article is not necessarily the best way for visitors to find content. Previously BZN content was displayed as a series of Tables of Content for individual issues, and individual articles did not have their own page or associated metadata.</p>
+            <sec sec-type="BZN: Improvements">
+                <title>BZN: Improvements</title>
+                <p><bold>Browsing</bold></p>
+                <p>Visitors are able to browse the content of the BZN by major taxonomic group (a restricted vocabulary the ICZN has used for many years) and Case number in addition to the standard volume and issue. Browsing by Case allows the entire published history of a Case to be accessible on a single page (e.g. <ext-link ext-link-type="uri" xlink:href="http://iczn.org/case/3455" xlink:type="simple">http://iczn.org/case/3455</ext-link>). This is the first time this has been achieved and demonstrates the clear advantage of digital management of distributed information such as nomenclatural cases and judgements.</p>
+                <p><bold>Communication</bold></p>
+                <p>Having the BZN online in a structured form for the first time has allowed the ICZN to automatically alert users automatically to new content by e-mail or RSS feed (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/content/notification-cases-comments-and-opinions" xlink:type="simple">http://iczn.org/content/notification-cases-comments-and-opinions</ext-link>).</p>
+                <p>Creating an account on the site allows the user to subscribe to e-mail notifications for all BZN content, or a subset defined by the ICZN’s taxonomic groups.</p>
+                <p><bold>Digitisation and metadata creation</bold></p>
+                <p>The ICZN website has full bibliographic data for all BZN papers from Volume 63 (2006) to the present. In addition, the full text of Comments is also available (Cases and Opinions only have abstracts available).</p>
+                <p>The Biodiversity Heritage Library (BHL: <ext-link ext-link-type="uri" xlink:href="http://www.biodiversitylibrary.org/bibliography/51603" xlink:type="simple">http://www.biodiversitylibrary.org/bibliography/51603</ext-link>) has scans of Volumes 1-67, although it has no article-level metadata for these scans. The ICZN is using Rod Page’s BioStor (<ext-link ext-link-type="uri" xlink:href="http://biostor.org/issn/0007-5167" xlink:type="simple">http://biostor.org/issn/0007-5167</ext-link>) tool to collect metadata for those volumes for which we have no data for at present. Once data collection is completed, an export from BioStor will be used to populate the missing volumes on the ICZN website. These articles will have a link back to the article on the BioStor site (e.g. <ext-link ext-link-type="uri" xlink:href="http://biostor.org/reference/66840" xlink:type="simple">http://biostor.org/reference/66840</ext-link>) where<!--PageBreak--> visitors will be able to view the relevant pages from BHL, or download the article in PDF format.</p>
+                <p>In the near future it is planned to release a set of simple instructions for people who would like to contribute to BZN metadata creation on BioStor; this will expediate collection of these data through crowd-sourcing.</p>
+            </sec>
+            <sec sec-type="BZN: Technical implementation">
+                <title>BZN: Technical implementation</title>
+                <p>BZN papers belong to one of four categories; (General) Articles, Cases, Comments or Opinions. All papers are entered into the standard Drupal Biblio module (<ext-link ext-link-type="uri" xlink:href="http://drupal.org/project/biblio" xlink:type="simple">http://drupal.org/project/biblio</ext-link>).</p>
+                <p>Several other Scratchpads are used as an online platform for journals. The European Mosquito Bulletin (<ext-link ext-link-type="uri" xlink:href="http://e-m-b.org" xlink:type="simple">http://e-m-b.org</ext-link>) has many articles online, however there is no article-level metadata which is an essential requirement for the ICZN, and easily achieved with the Drupal biblio module which is part of the standard Scratchpads profile. A more scalable and functionally robust system has been used for the journal Phasmid Studies (<ext-link ext-link-type="uri" xlink:href="http://phasmid-study-group.org/category/PSG-Publications/1165" xlink:type="simple">http://phasmid-study-group.org/category/PSG-Publications/1165</ext-link>), storing article data using the biblio module, and creating a browsable volume/issue hierarchy using a standard Drupal vocabulary.</p>
+                <p>In an extension of the method used by Phasmid Studies the browsing of the BZN by volume/issue, taxonomic group and Case number is facilitated by the use of three separate vocabularies. These vocabularies are browsed using the Scratchpads TinyTax taxonomy browser (originally intended to navigate biological taxonomies). Pages relating to terms in these taxonomies are generated dynamically using the Mado module (originally designed to display species pages) and a small number of custom views.</p>
+            </sec>
+            <sec sec-type="BZN: Future plans">
+                <title>BZN: Future plans</title>
+                <p>The use of web technologies can bring three key improvements to the BZN in the future:</p>
+                <p>1.	easier submission of Cases</p>
+                <p>2.	shorter time between a Case being submitted and an Opinion being issued</p>
+                <p>3.	wider reach and community involvement</p>
+                <p>Online submission of Cases and Comments is a priority for the ICZN. The method we use to implement this functionality must integrate closely with the website, allowing papers submitted and edited online to be published to the site with a single click once they have passed the review. The Scratchpads platform already has support for the creation of papers and their electronic submission to a journal (<xref ref-type="bibr" rid="B1">Blagoderov et al. 2010</xref>) and it is hoped that we can adapt this process to fit our existing editorial and publication protocols.</p>
+                <p>It is hoped that the amount of time between a Case being published and an Opinion being issued will be reduced by allowing the pre-publication of Comments ac<!--PageBreak-->cepted for publication on the ICZN website. This is already being trialled for selected Comments (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/preprints" xlink:type="simple">http://iczn.org/preprints</ext-link>).</p>
+                <p>Expanding the reach of the ICZN and increasing community involvement can be partially achieved by extending the automatic notification of new BZN papers by RSS or e-mail to mailing lists (e.g. Taxacom, ICZN-List). By expanding the at-present crude (although functional for a print journal) classification to order or family level for new Cases it will be possible to customise these alerts to contain only notifications about a given taxonomic group. This customisation would allow the editors of taxon-specific journals to easily publish details of new Cases, and for individual scientists to be made aware of Cases that might impact the nomenclature of ‘their’ group. Linking these feeds to social media platforms such as Facebook and Twitter will allow further dissemination of information to interested parties and help consolidate the ICZN’s current social media presence.</p>
+                <p>The online BZN will be enhanced with additional XML metadata to allow nomenclatural acts to be automatically included in ZooBank. The XML schema to be used is currently under consideration by the ZooBank developers in consultation with Pensoft and others.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Case management">
+            <title>Case management</title>
+            <sec sec-type="Case management: technical implementation">
+                <title>Case management: technical implementation</title>
+                <p>The ICZN uses a separate and private Scratchpad (Aker: <ext-link ext-link-type="uri" xlink:href="http://aker.iczn.org" xlink:type="simple">http://aker.iczn.org</ext-link>) to manage data about Cases. A custom content type holds basic information about each Case and it’s progress from submission, through publication, voting by the Commission and finally the publication of a Commission ruling (Opinion).</p>
+                <p>Customised views in Aker provide HTML content to the ICZN website. Currently this information is limited to a list of Case submissions that have yet to be published (new Cases) and Cases currently accepting Comments (open Cases). The use of the matrix editor allows batches of Cases to be edited simultaneously, which is particularly useful when it comes to advancing Cases through the system on BZN publication dates.</p>
+                <p>Aker provides information on new and open Cases in HTML format to the ICZN website. Using XHTML as the transfer format makes it easier for other people to re-use this content on their own sites either using an HTML iframe or a server-side solution.</p>
+                <p>The HTML is generated by using the ‘XML data document’ style in the Views module. The style options used to generate the HTML document are as follows:</p>
+                <p>Root element name	- ul</p>
+                <p>Top-level child element name	- li</p>
+                <p>Content-type - text/html</p>
+                <p>These settings result in a standard HTML unordered (bulleted) list.<!--PageBreak--></p>
+                <p>A custom module, iczn_aker, is used on the ICZN website to provide a server-side solution to the display of these views.</p>
+            </sec>
+            <sec sec-type="Case management: future plans">
+                <title>Case management: future plans</title>
+                <p>We are planning to develop a system for online submission that integrates with the private Scratchpad, allowing for seamless online management of Cases. Similar technology already exists in the Scratchpad’s publication module, but is likely to need extensive customisation as we need not only to allow for the creation and submission of articles, but also to see them through review and publication.</p>
+                <p>The ability to filter the XHTML output of Case information by the ICZN’s taxonomic grouping would allow external websites to include details of relevant new and open Cases dynamically. Adding the ability to search by taxon name would allow details to be displayed on dynamically created taxon pages, such as those used generated by Scratchpads and SpeciesFile.</p>
+            </sec>
+            <sec sec-type="The Code">
+                <title>The Code</title>
+                <p>The International Code of Zoological Nomenclature is a set of rules and protocols for the naming of animals.</p>
+            </sec>
+            <sec sec-type="The Code: future plans">
+                <title>The Code: future plans</title>
+                <p>The Code is a long and technical document that can be challenging or intimidating to first-time users. The ICZN Secretariat has written concise instructions for journal editors publishing nomenclatural acts that explains what they must do to meet the Code’s requirements. It is hoped that this will be the first of several sets of guidelines. Although these documents will stand in their own right, they must also be integrated with both the ICZN Scratchpad and the online Code.</p>
+                <p>At present, foreign-language versions of the Code are not presented via the same interface as the official code. As Drupal has in-built support for translations in the long-term there is a possibility that this could function as a platform for both the transcription and display of future translations.</p>
+                <p>There is currently an Editorial Committee charged with writing a new edition of the Code. Discussions are active on whether the revised Code could be streamlined and simplified by more dynamic, linked structure. Development of the new Code in conjunction with the Scratchpads structure could present technical improvements that make the Code a more widely accessible tool.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Official Lists and Indexes">
+            <title>Official Lists &amp; Indexes</title>
+            <p>The Official Lists and Indexes of Names and Works in Zoology (<xref ref-type="bibr" rid="B6">ICZN 1987</xref>; Supplement: <xref ref-type="bibr" rid="B7">ICZN 2001</xref>) give details of the names and works (publications) ruled upon by the ICZN. Although when dealing with paper publications such lists and indexes provide a useful, if not essential, entry point to the BZN, with an improved and metadata-rich online presentation of the journal the need for separately maintained entry points is eliminated. The expanded metadata required to allow harvesting of BZN papers by ZooBank will provide the information required to create an automatically updated, searchable version of the print publication that can also be filtered by taxonomic group and that links directly to the Case history and associated Opinion.</p>
+        </sec>
+        <sec sec-type="Draft BioCode">
+            <title>Draft BioCode</title>
+            <p>The 2011 draft BioCode aims to “provide an over-arching common framework” (<ext-link ext-link-type="uri" xlink:href="http://www.bionomenclature.net/biocode2011.html" xlink:type="simple">http://www.bionomenclature.net/biocode2011.html</ext-link>) for biological nomenclature, working alongside the existing (or special) Codes. The 2011 draft BioCode was published in various journals and websites (e.g. <xref ref-type="bibr" rid="B3">Greuter et al. 2011</xref>). In order to make it clearer how the BioCode relates to the special Codes an article level treatment was created on the ICZN Scratchpad (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/biocode" xlink:type="simple">http://iczn.org/biocode</ext-link>) showing the BioCode article alongside relevant articles from, and links to, the special Codes.</p>
+            <p>Although the draft BioCode is not an output of the ICZN it was decided that providing a forum for its discussion would benefit the zoological community and improve response. People wishing to contribute to the discussion can create a free account (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/user" xlink:type="simple">http://iczn.org/user</ext-link>) and leave comments on individual articles. It is hoped that grouping articles from the draft BioCode and special Codes together in a thematic format will provide a useful resource not only for putting the draft BioCode in context but also for comparisons of style, language, structure and methodology between the existing Codes.</p>
+            <sec sec-type="Draft BioCode: technical implementation">
+                <title>Draft BioCode: technical implementation</title>
+                <p>BioCode articles are linked to articles form the special Codes via a standard nodereference field.</p>
+                <p>The collapsible/expandable views are created using the Views Accordion plugin for the Drupal Views module. These are included on BioCode article pages using the Contemplate module and the views_embed_view() function. This functionality is not enabled by default on Scratchpad sites as it would allow site owners to run arbitrary PHP code.<!--PageBreak--></p>
+            </sec>
+        </sec>
+        <sec sec-type="Outreach">
+            <title>Outreach</title>
+            <p>In addition to the technical procedures outlined above the use of a CMS has allowed more time for additional content to be made available online. The bulk of this content has focused on bridging the sociological gap between working biologists and the nomenclatural community. Examples of this work include a series of Frequently Asked Questions (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/faqs" xlink:type="simple">http://iczn.org/faqs</ext-link>), some educational resources about nomenclature (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/education_outreach" xlink:type="simple">http://iczn.org/education_outreach</ext-link>), videos of ICZN sponsored events (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/video" xlink:type="simple">http://iczn.org/video</ext-link>) and even a PodCast (<ext-link ext-link-type="uri" xlink:href="http://iczn.org/podcast" xlink:type="simple">http://iczn.org/podcast</ext-link>).</p>
+        </sec>
+        <sec sec-type="The future">
+            <title>The future</title>
+            <p>“The Linnean Enterprise has persisted for two and a half centuries, and the ICZN Code is itself more than a century old” (<xref ref-type="bibr" rid="B9">Pyle and Michel 2010</xref>).</p>
+            <p>The ICZN has responsibilities that go far beyond serving the current generations of zoologists. It must also honor and preserve the “robust historical legacy” (<xref ref-type="bibr" rid="B9">Pyle and Michel 2010</xref>) of existing zoological nomenclature whilst also ensuring a stable platform for its long-term future. This can only happen by working with the zoological community in its entirety.</p>
+            <p>Through ZooBank the ICZN will help to create the Global Names Architecture - allowing taxonomic and other biological resources across the web to connect to each other and create a resource far greater than the sum of its parts. The ICZN website will continue to expand, not just as a destination for people to find information, but as an active platform and arena for the zoological and other nomenclatural communities to converse with the Commission and each other.</p>
+            <p>The Scratchpads platform has enabled the ICZN to make large strides towards its goals, both technical and sociological. In the future we wish to build upon this relationship, both as a user of, and contributor to, the Scratchpads platform and via ZooBank as an engaged participant of the global biodiversity informatics landscape.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The ICZN would like to thank NHM volunteers Mike Higginson and Alex Panagiotopoulos who have contributed to digitisation and metadata creation for the BZN as well as Tom Ensom who has helped in the compilation of articles from the special Codes for the BioCode comparison project. The authors would like to thank Rod Page for facilitating our use of BioStor as a tool for BZN digitisation and for sharing his ideas on the future of both the BZN and the ICZN.</p>
+            <p>This work uses infrastructure that has been developed by the EU funded ViBRANT project (Contract no. RI-261532).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Brake</surname> <given-names>I</given-names></name><name name-style="western"><surname>Georgiev</surname> <given-names>T</given-names></name><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name><name name-style="western"><surname>Roberts</surname> <given-names>D</given-names></name><name name-style="western"><surname>Rycroft</surname> <given-names>S</given-names></name><name name-style="western"><surname>Scott</surname> <given-names>B</given-names></name><name name-style="western"><surname>Agosti</surname> <given-names>D</given-names></name><name name-style="western"><surname>Catapano</surname> <given-names>T</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name></person-group> (<year>2010</year>)<article-title> Streamlining taxonomic publication: a working example with Scratchpads and ZooKeys.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>17</fpage>-<lpage>28</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.539" xlink:type="simple">10.3897/zookeys.50.539</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Franzen</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Gingerich</surname> <given-names>PD</given-names></name><name name-style="western"><surname>Habersetzer</surname> <given-names>J</given-names></name><name name-style="western"><surname>Hurum</surname> <given-names>JH</given-names></name><name name-style="western"><surname>von Koenigswald</surname> <given-names>W</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>BH</given-names></name></person-group> (<year>2009</year>)<source> Complete Primate Skeleton from the Middle Eocene of Messel in Germany: Morphology and Paleobiology. PLoS One 4(5): e5723. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0005723" xlink:type="simple">10.1371/journal.pone.0005723</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Greuter</surname> <given-names>W</given-names></name><name name-style="western"><surname>Garrity</surname> <given-names>G</given-names></name><name name-style="western"><surname>Hawksworth</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Jahn</surname> <given-names>R</given-names></name><name name-style="western"><surname>Kirk</surname> <given-names>P</given-names></name><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>McNeill</surname> <given-names>J</given-names></name><name name-style="western"><surname>Michel</surname> <given-names>E</given-names></name><name name-style="western"><surname>Patterson</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Pyle</surname> <given-names>R</given-names></name><name name-style="western"><surname>Tindall</surname> <given-names>BJ</given-names></name></person-group> (<year>2011</year>)<source> Draft BioCode (2011): Principles and Rules Regulating the Naming of Organisms. Bulletin of Zoological Nomenclature 68: 10-28. <ext-link ext-link-type="uri" xlink:href="http://iczn.org/node/7216" xlink:type="simple">http://iczn.org/node/7216</ext-link></source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Godfray</surname> <given-names>C</given-names></name></person-group> (<year>2002</year>)<article-title> Challenges for taxonomy.</article-title> <source>Nature </source> <volume>417</volume>: <fpage>17</fpage>-<lpage>19</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/417017a" xlink:type="simple">10.1038/417017a</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Godfray</surname> <given-names>C</given-names></name></person-group> (<year>2007</year>)<article-title> Linnaeus in the information age.</article-title> <source>Nature </source> <volume>446</volume>: <fpage>259</fpage>-<lpage>260</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/446259a" xlink:type="simple">10.1038/446259a</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname></name></person-group> (<year>1987</year>)<source> Official Lists and Indexes of Names and Works in Zoology. London: International Trust for Zoological Nomenclature.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ICZN</surname></name></person-group> (<year>2001</year>)<source> Official Lists and Indexes of Names and Works in Zoology. Supplement: 1986-200. London: International Trust for Zoological Nomenclature.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mora</surname> <given-names>C</given-names></name><name name-style="western"><surname>Pittensor</surname> <given-names>DP</given-names></name><name name-style="western"><surname>Adl</surname> <given-names>S</given-names></name><name name-style="western"><surname>Simpson</surname> <given-names>AGB</given-names></name><name name-style="western"><surname>Worm</surname> <given-names>B</given-names></name></person-group> (<year>2011</year>)<source> How Many Species Are There on Earth and in the Ocean?. PLoS One 9(8): e1001127. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.1001127" xlink:type="simple">10.1371/journal.pbio.1001127</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pyle</surname> <given-names>RL</given-names></name><name name-style="western"><surname>Michel</surname> <given-names>E</given-names></name></person-group> (<year>2010</year>)<article-title> ZooBank: Revieweing the First Year and Preparing for the Next 250.</article-title> In: <person-group><name name-style="western"><surname>Polaszek</surname> <given-names>A</given-names></name></person-group> (<role>Ed</role>). <issue-title>Systema Naturae 250 - The Linnean Ark.</issue-title> <source>CRC Press, Boca Raton</source>: <fpage>173</fpage>-<lpage>184</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1201/EBK1420095012-c16" xlink:type="simple">10.1201/EBK1420095012-c16</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name><name name-style="western"><surname>Rycroft</surname> <given-names>SD</given-names></name><name name-style="western"><surname>Brake</surname> <given-names>I</given-names></name><name name-style="western"><surname>Scott</surname> <given-names>B</given-names></name><name name-style="western"><surname>Baker</surname> <given-names>E</given-names></name><name name-style="western"><surname>Livermore</surname> <given-names>L</given-names></name><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Roberts</surname> <given-names>D</given-names></name></person-group> (<year>2011</year>)<article-title> Scratchpads 2.0: a Virtual Research Environment supporting scholarly collaboration, communication and data publication in biodiversity science.</article-title> In: <person-group><name name-style="western"><surname>Smith</surname> <given-names>V</given-names></name><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name></person-group> (<role>Eds</role>). <issue-title> e-Infrastructures for data publishing in biodiversity science.</issue-title> <source>ZooKeys </source> <volume>150</volume>: <fpage>53</fpage>–<lpage>70</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.150.2193" xlink:type="simple">10.3897/zookeys.150.2193</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

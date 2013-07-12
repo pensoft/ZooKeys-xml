@@ -1,0 +1,787 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="review-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.150.2213</article-id>
+            <title-group>
+                <article-title>XML schemas and mark-up practices of taxonomic literature</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Penev</surname>
+                        <given-names>Lyubomir</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lyal</surname>
+                        <given-names>Christopher HC</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Weitzman</surname>
+                        <given-names>Anna</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Morse</surname>
+                        <given-names>David R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>King</surname>
+                        <given-names>David</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Sautter</surname>
+                        <given-names>Guido</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Georgiev</surname>
+                        <given-names>Teodor</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Morris</surname>
+                        <given-names>Robert A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Catapano</surname>
+                        <given-names>Terry</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Agosti</surname>
+                        <given-names>Donat</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A8">8</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Bulgarian Academy of Sciences &amp; Pensoft Publishers, Sofia, Bulgaria
+            </aff>
+            <aff id="A2">
+                <label>2</label>The Natural History Museum, Cromwell Road, London, UK
+            </aff>
+            <aff id="A3">
+                <label>3</label>Smithsonian Institution, Washington, DC, USA
+            </aff>
+            <aff id="A4">
+                <label>4</label>The Open University, Milton Keynes, UK
+            </aff>
+            <aff id="A5">
+                <label>5</label>IPD Böhm, Karlsruhe Institute of Technology, Germany &amp; Plazi, Bern, Switzerland
+            </aff>
+            <aff id="A6">
+                <label>6</label> Pensoft Publishers, Sofia, Bulgaria
+            </aff>
+            <aff id="A7">
+                <label>7</label>University of Massachusetts, &amp; Harvard University Herbaria, Boston, USA
+            </aff>
+            <aff id="A8">
+                <label>8</label>Plazi, Bern, Switzerland
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Lyubomir Penev (<email xlink:type="simple">info@pensoft.net</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Smith</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>150</issue>
+            <fpage>89</fpage>
+            <lpage>116</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>10</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>23</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Lyubomir Penev, Christopher HC Lyal, Anna Weitzman, David R. Morse, David King, Guido Sautter, Teodor Georgiev, Robert A. Morris, Terry Catapano, Donat Agosti</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>We review the three most widely used XML schemas used to mark-up taxonomic texts, TaxonX, TaxPub and taXMLit. These are described from the viewpoint of their development history, current status, implementation, and use cases. The concept of “taxon treatment” from the viewpoint of taxonomy mark-up into XML is discussed. TaxonX and taXMLit are primarily designed for legacy literature, the former being more lightweight and with a focus on recovery of taxon treatments, the latter providing a much more detailed set of tags to facilitate data extraction and analysis. TaxPub is an extension of the National Library of Medicine Document Type Definition (NLM DTD) for taxonomy focussed on layout and recovery and, as such, is best suited for mark-up of new publications and their archiving in PubMedCentral. All three schemas have their advantages and shortcomings and can be used for different purposes.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>mark-up</kwd>
+                <kwd>XML schema</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>TaxonX</kwd>
+                <kwd>TaxPub</kwd>
+                <kwd>taXMLit</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Traditional taxonomic publication has led to a vast quantity of valuable data effectively trapped in paper publications. Recent developments in transferring these to digital media, <!--PageBreak-->particularly using PDF format and placing them on the web, have increased overall access to publications dramatically but not taken taxonomic publication to a format appropriate to today’s methodologies of accessing and re-purposing data. Although simple searches of single or multiple documents may lead to the user finding the search terms in context, this context may not be what the user sought or, if the search is successful, the information sought (e.g. taxon treatments, specimen data) are not retrieved in a format suitable for repurposing (such as analysis of specimen data). To allow more precise searching for prioritised components of publications and retrieval of data in a format that is repurposable, taxonomic papers are being marked-up in XML and interfaces for queries being developed (<xref ref-type="bibr" rid="B19">Kirkup et al. 2005</xref>; <xref ref-type="bibr" rid="B14">Curry and Connor 2007</xref>, <xref ref-type="bibr" rid="B15">2008</xref>; <xref ref-type="bibr" rid="B3">Agosti et al. 2007</xref>; <xref ref-type="bibr" rid="B20">Lyal and Weitzman 2008</xref>; <xref ref-type="bibr" rid="B24">Penev et al. 2010a</xref>; <xref ref-type="bibr" rid="B35">Willis et al. 2010</xref>).
+            </p>
+            <p>The XML format has been identified as an important means of extending access to data from scientific papers (<xref ref-type="bibr" rid="B22">Murray-Rust and Rzepa 2002</xref>; <xref ref-type="bibr" rid="B10">Cui 2008b</xref>). Standards in XML for a range of taxonomic data have been developed through Biodiversity Information Standards (<xref ref-type="bibr" rid="B32">TDWG</xref>) such as for taxonomic names (Taxonomic Concept Transfer Schema), specimen data (<xref ref-type="bibr" rid="B1">ABCD</xref>, <xref ref-type="bibr" rid="B16">Darwin Core</xref>) and taxonomic descriptions (Structured Descriptive Data, SDD) (<xref ref-type="bibr" rid="B17">Hagedorn et al. 2005</xref>), for example, although so far there is no agreed-upon standard for taxonomic literature. An alternative to XML may be RDF, but there is less work done on RDF in the context of taxonomic literature; the relative merits and demerits of each will not be explored here, although it is worth noting that XML can be used as a stage in conversion to RDF where desired and appropriate (<xref ref-type="bibr" rid="B9">Cui 2008a</xref>; <xref ref-type="bibr" rid="B12">Cui et al. 2010a</xref>, and see below). XML mark-ups are currently being used both for new papers which are ‘born-digital’ and legacy literature, whose very varied structure poses much greater problems.
+            </p>
+            <p>There are currently several different XML schemas and Document Type Definitions (DTD) (in the text, schema refers to both, unless specifically mentioned) being used for the mark-up of taxonomic literature, of which the three most widely used ones are discussed in this publication. The different schema designs reflect different priorities and consequently criteria for development. One distinction is whether the focus of the mark-up is on structure of the document as a whole (document-centric) or some part of the content of the document (content-centric). Another is the extent to which the marked-up text is potentially interoperable with (or using common elements with) other implementations. Notably, even with these distinctions, there are developing convergences between different approaches. An example of the content-centric approach is a focus on morphological descriptions (<xref ref-type="bibr" rid="B18">Heidorn et al. 2002</xref>; <xref ref-type="bibr" rid="B11">Cui and Heidorn 2007</xref>; <xref ref-type="bibr" rid="B9">Cui 2008a</xref>, <xref ref-type="bibr" rid="B10">b</xref>). In their work the publication is viewed more as metadata and the emphasis placed on the detail of morphological terms and the potential or repurposing the content. In this, the mark-up approaches SDD (<xref ref-type="bibr" rid="B17">Hagedorn et al. 2005</xref>), a schema produced explicitly for descriptive data. At the other extreme, some projects have employed a very generic schema to contain the document and structural information (i.e., pages, paragraphs, lines, headings, etc.) and used particular elements of taxonomic texts to assist in mark-up, relying on repeatable structural components of taxonomic descriptions (for example distributions, taxon names, morphological d<!--PageBreak-->escriptions, stratigraphic detail, etc.) (<xref ref-type="bibr" rid="B19">Kirkup et al. 2005</xref>; <xref ref-type="bibr" rid="B14">Curry and Connor 2007</xref>, <xref ref-type="bibr" rid="B15">2008</xref>). <xref ref-type="bibr" rid="B33">Weitzman and Lyal (2004)</xref> used a version of the TEI-Lite schema (<ext-link ext-link-type="uri" xlink:href="http://www.tei-c.org/Guidelines/Customization/" xlink:type="simple">http://www.tei-c.org/Guidelines/Customization/</ext-link>) with some taxonomy tags as an interim mark-up standard in the INOTAXA project. This is a very generic solution to properly model the complexity of taxonomic texts and, while the broader TEI tag set can certainly be customized for retrospective conversion of legacy taxonomic literature, TEI-Lite <italic>per se</italic> is not an ideal fit; the version of TEI-Lite created has not been used outside the INOTAXA project.
+            </p>
+            <p>More elaborate schemas have been designed to have a wide application to legacy taxonomic literature, provide access to more detail, and incorporate bibliographic information about the publication that is at least compatible with standards used in other sectors (particularly libraries). TaxonX (<ext-link ext-link-type="uri" xlink:href="http://www.taxonx.org" xlink:type="simple">http://www.taxonx.org</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxonx" xlink:type="simple">http://sourceforge.net/projects/taxonx</ext-link>) was created by an interdisciplinary group around Plazi (<ext-link ext-link-type="uri" xlink:href="http://www.plazi.org" xlink:type="simple">http://www.plazi.org</ext-link>, see also <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/Plazi" xlink:type="simple">http://en.wikipedia.org/wiki/Plazi</ext-link>) (<xref ref-type="bibr" rid="B3">Agosti et al. 2007</xref>; <xref ref-type="bibr" rid="B2">Agosti and Egloff 2009</xref>). The goal of TaxonX is to model taxon treatments in publications to provide a basis for data mining and extraction, while generic textual features are given marginal importance. A further schema,taXMLit, (<xref ref-type="bibr" rid="B33">Weitzman and Lyal 2004</xref>) (<ext-link ext-link-type="uri" xlink:href="http://www.sil.si.edu/digitalcollections/bca/documentation/taxmlitv1-3intro.pdf;" xlink:type="simple">http://www.sil.si.edu/digitalcollections/bca/documentation/taxmlitv1-3intro.pdf;</ext-link> <ext-link ext-link-type="uri" xlink:href="http://wiki.tdwg.org/twiki/bin/viewfile/Literature/WebHome?rev=1;filename=taXMLit_v5-04.xsd" xlink:type="simple">http://wiki.tdwg.org/twiki/bin/viewfile/Literature/WebHome?rev=1;filename=taXMLit_v5-04.xsd</ext-link>) has been developed as part of the INOTAXA project (<ext-link ext-link-type="uri" xlink:href="www.inotaxa.org">http://www.inotaxa.org</ext-link>). It was seen as a step towards developing an interoperable system allowing simultaneous access to both literature content and other data types such as specimen data and names. The goal is to provide very flexible possibilities for data mining though tagging a wide range of components within the taxonomic papers.
+            </p>
+            <p>TaxonX and taXMLit are mark-up XML schemas developed primarily to encode historical (legacy) taxonomic literature (implying any text post-publication including modern texts, although neither has been used by publishers as a vehicle to deliver new publications). In contrast, the TaxPub DTD (<ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxpub" xlink:type="simple">http://sourceforge.net/projects/taxpub</ext-link>), an extension of the DTD of the US National Library of Medicine (NLM, <ext-link ext-link-type="uri" xlink:href="http://dtd.nlm.nih.gov" xlink:type="simple">http://dtd.nlm.nih.gov</ext-link>), has been developed specifically to facilitate mark-up of new, “born digital” taxonomic publications as part of the publication process. While TaxonX has been developed primarily to model treatments but model the entire publication at a very generic level, taXMLit and TaxPub provide an extensive tag set (in TaxPub’s case inherited from the base NLM DTD) for mark-up of generic (i.e., non Taxonomy-specific) document features, enabling location of relevant content throughout the document.
+            </p>
+            <p>Once a document is marked-up into XML the full potential of that transformation can only be achieved through the creation of queries tailored to the schema elements. These can be incorporated into a portal for ease of human use, as well as built into web services. For TaxonX the portal is Plazi (<ext-link ext-link-type="uri" xlink:href="http://www.plazi.org" xlink:type="simple">http://www.plazi.org</ext-link>), for taXMLit the portal is INOTAXA (<ext-link ext-link-type="uri" xlink:href="http://www.inotaxa.org" xlink:type="simple">http://www.inotaxa.org</ext-link>).
+            </p>
+            <p>An important aspect for use of a schema is the ease with which text may be parsed into it. A mark-up tool, GoldenGATE, was developed by Plazi (together with IPD Böhm at the Karlsruhe Institute of Technology, Germany) to facilitate this process <!--PageBreak-->(<ext-link ext-link-type="uri" xlink:href="http://plazi.org/?q=GoldenGATE" xlink:type="simple">http://plazi.org/?q=GoldenGATE</ext-link>). Pensoft Publishers have developed the Pensoft Mark-up Tool (PMT) based on TaxPub for routine use in their publishing practices (<xref ref-type="bibr" rid="B24">Penev et al. 2010a</xref>; <xref ref-type="bibr" rid="B25">b</xref>). <xref ref-type="bibr" rid="B9">Cui (2008a)</xref> and <xref ref-type="bibr" rid="B13">Cui et al. (2010b)</xref> discussed a mark-up tool for species descriptions.
+            </p>
+            <p><xref ref-type="bibr" rid="B28">Sautter et al. (2007a)</xref> compared seven different schemas for mark-up of taxonomic publications: <xref ref-type="bibr" rid="B1">ABCD</xref>, SDD/UBIF, TaxonX, taXMLit, Linnaean Core, <xref ref-type="bibr" rid="B16">Darwin Core</xref> and NCD (Natural Collection Description). The authors concluded that only four of them – <xref ref-type="bibr" rid="B1">ABCD</xref>, TaxonX , taXMLit and SDD/UBIF, were appropriate for mark-up of taxonomic documents; the first three of them have been evaluated as more “document-centric” and the last one as clearly “data-centric”, the former being more optimal for mark-up of variously and inconsistently structured documents in the legacy literature than the latter. TaxonX and taXMLit have been analysed comparatively in order to investigate the possibility of mapping between them (<xref ref-type="bibr" rid="B8">Catapano and Weitzman 2007</xref>).
+            </p>
+            <p>In this paper two schemas reviewed by <xref ref-type="bibr" rid="B28">Sautter et al. (2007a)</xref>, <xref ref-type="bibr" rid="B1">ABCD</xref> (designed for specimen data) and SDD (designed for morphological descriptive data) are not considered further, as we assess them as much less appropriate for full mark-up of publications than the others. However, in the near future the relationships of the schemas designed for literature to more data-centric schemas, such as SDD and <xref ref-type="bibr" rid="B16">Darwin Core</xref>, should certainly be explored as being of primary interest for integration of “data-centric” and “document-centric” schemas.
+            </p>
+            <p>The present paper aims at understanding the prioritized functions and scope of the three schemas most widely used for mark-up of taxonomic literature, namely TaxonX, taXMLit and TaxPub, and summarizes the experience and use cases accumulated during the four years following the analysis by <xref ref-type="bibr" rid="B28">Sautter et al. (2007a)</xref>. In the context of an EU-funded project to support the development of virtual research communities involved in biodiversity science, ViBRANT, it is important to increase the compatibility of these schemas and this paper is a first step towards this.</p>
+        </sec>
+        <sec sec-type="The concept of “taxon treatment”">
+            <title>The concept of “taxon treatment”</title>
+            <p>Perhaps the most significant component of taxonomic literature is the ‘taxon treatment’: information about a single taxon, typically headed by the taxon name and including morphological, distributional, taxonomic and other information about that taxon. Taxonomic treatments are important because they permit labelling and delimiting a dedicated piece of information describing a taxon within a document from other similar pieces of information, describing other taxa. The retrieval of this content type has been identified as valuable to users of marked up text through formal and informal assessment (<xref ref-type="bibr" rid="B23">Parr and Lyal 2007</xref>), and the importance of enabling the user to retrieve a digitized taxon treatment as a core element has been recognised by most projects employing XML for taxonomic publications (e.g., <xref ref-type="bibr" rid="B33">Weitzman and Lyal 2004</xref>; <xref ref-type="bibr" rid="B19">Kirkup et al. 2005</xref>;<!--PageBreak--> <xref ref-type="bibr" rid="B20">Lyal and Weitzman 2008</xref>; <xref ref-type="bibr" rid="B3">Agosti et al. 2007</xref>; <xref ref-type="bibr" rid="B28">Sautter et al. 2007a</xref>). Subsequent usages of the marked-up paper, for example dissemination of content to various aggregators, can in some cases be performed at the level of treatments. In addition, marked-up text or data can be retrieved by machine from either within or outside treatments. Inevitably the concept of the taxon treatment is incorporated in most if not all schemas developed for taxonomic literature, both in the mark-up process and to inform user queries.
+            </p>
+            <p>Determining the boundaries of taxon treatments in the mark-up process can be problematic and require manual intervention. <xref ref-type="bibr" rid="B15">Curry and Connor (2008)</xref> described the automatic identification and tagging of elements that typically occur within treatments, using stylistic rules to parse the text; they seem to have identified treatment boundaries <italic>a priori</italic>. More extensive algorithms also based on publication-specific stylistic rules (but not requiring <italic>a priori</italic> identification of treatment boundaries) were employed in a trial mark-up of a large single volume of the <italic>Biologia Centrali-Americana</italic> into taXMLit (<xref ref-type="bibr" rid="B34">Weitzman and Lyal 2006</xref>; <xref ref-type="bibr" rid="B20">Lyal and Weitzman 2008</xref>). The Plazi project atomises the publication into taxon treatments and, seek to maximize the number and consistency of tags by machine (either before or after publication) (<xref ref-type="bibr" rid="B3">Agosti et al. 2007</xref>; <xref ref-type="bibr" rid="B7">Catapano 2010</xref>; <xref ref-type="bibr" rid="B24">Penev et al. 2010a</xref>). The concept of taxon treatments from the viewpoint of their mark-up in taxonomic literature has been described by <xref ref-type="bibr" rid="B7">Catapano (2010)</xref> and <xref ref-type="bibr" rid="B24">Penev et al. (2010a)</xref>. Therefore, we shall only briefly summarize the main features of treatments.
+            </p>
+            <p>According to a definition by Norman Johnson (pers. commun.) adopted by <xref ref-type="bibr" rid="B7">Catapano (2010)</xref>, a taxon treatment is a “publication or (more frequently) section of a publication documenting the features or distribution of a related group of organisms (called a “taxon”, plural “taxa”) in ways adhering to highly formalized conventions”. Some of these conventions (those pertaining to a subset of the treatment dealing with nomenclature) are maintained by scientific commissions accepted by the taxonomic profession, including the <italic>International Code for Zoological Nomenclature</italic> (ICZN) for animals, and the <italic>International Code of Nomenclature for algae, fungi, and plants (ICNafp)</italic>.
+            </p>
+            <p>There is considerable structural diversity in taxon treatments across taxonomic literature, the main sources of variation being historical differences in the approach to treatments between different groups of taxonomists and across time, and different editorial and publishers’ formats. Nevertheless, it is possible to identify a few key features commonly found in treatments, such as the “Nomenclature” section, containing names and synonyms, “Material examined”, containing data on the studied specimens, “Type designation” (for new or revised taxa), “Morphological description”, “Etymology”, on the origin of the newly proposed names, “Differential diagnosis” separating the taxon from similar taxa, as well as data on biology, ecology, or conservation status, etc.</p>
+            <p><xref ref-type="bibr" rid="B24">Penev et al. (2010a)</xref> listed the following cases in which a logically delimited block of text within a taxonomy paper can be regarded as a taxon treatment:</p>
+            <p>1.	New taxon description or re-description of a known taxon</p>
+            <p>2.	Change of a nomenclatorial status of a taxon (a nomenclatural act)</p>
+            <p><!--PageBreak-->3.	Summary of some or all previous knowledge on a taxon from literature sources, usually structured in logical pieces, e.g., nomenclature, morphological description, distribution, ecology, biology</p>
+            <p>4.	Summary of some or all previous knowledge plus newly published data on the same taxon, e.g., localities, ecological/biological observations</p>
+            <p>5.	Summary of newly published data on an already known taxon</p>
+            <p>6.	Summary of treatments of subordinated taxa, for instance a revision or catalogue of a genus listing treatments of ALL or SOME of its species is a treatment of that genus</p>
+            <p>7.	Listing of subordinated taxa, e.g., a checklist of a family from a region forms a treatment of that family.</p>
+            <p>At the same time, the following cases do not usually constitute a treatment:</p>
+            <p>1.	A citation of a taxon name within a text, although such a citation usually holds information linked to the particular taxon. For instance, listing of a species within a “plain” checklist cannot usually be a treatment of that species (in early literature under the ICZN such an instance must be considered a treatment in certain circumstances); a sentence within a text paragraph stating that “taxon X is parasitic on taxon Y” is neither a treatment of taxon X nor of taxon Y.</p>
+            <p>2.	An identification key, because in some cases keys are constructed for related taxa that do not form a taxon (they may form a “species-group” or “taxa-group”, but this is not a taxon unless a name is given to that group). Identification keys, even they are exhaustive for a named taxon, are usually tagged separately from taxon treatments. However, some keys include all of the information within a publication about a given taxon, and the practice may be to consider them treatments. In some cases keys include taxon treatments, including those of new taxa, or synonymies. How keys are tagged is probably an editorial matter.</p>
+            <p>3.	A single picture or group of pictures of a taxon. In some early publications, however, a taxon is based exclusively on an image and its caption, a source which is available under the relevant Code, and therefore the picture and caption have to be regarded as a treatment.</p>
+            <p>4.	A single map or group of maps of the occurrences of a taxon.</p>
+            <p>5.	Gene sequence(s) of a taxon.</p>
+            <p>6.	SDD (Structured Descriptive Data) (or any) matrices, or raw data, or databases. Treatments can be relatively easily generated from databases, however, and information on a taxon can be considered as becoming a treatment when (a) it is published, and (b) corresponds to the aforementioned description of a taxon treatment.</p>
+            <p>A publication may consist of one or many treatments of different taxa of different taxonomic ranks. One taxon may have more than one treatment within a publication, although the tradition of systematics publishing usually assumes one “core” treatment per taxon within a document. One treatment can include nested treatments, e.g., a genus and its species.<!--PageBreak--></p>
+            <p>Implementation of the TaxonX schema and the TaxPub DTD largely follow the above restrictions. Implementation of taXMLit has been less restrictive in marking up complete papers, encompassing the less usual formats discussed above where appropriate, since more open-ended concepts of what makes a treatment have proven necessary, authors having been found to publish nomenclatural and taxonomic changes and treatments in a much wider variety of ways than listed in the more restricted list above. In the electronic era, broader notions of a treatment can easily be added to the electronic forms by simple extension of the schema or DTD.</p>
+        </sec>
+        <sec sec-type="Descriptions of schemas">
+            <title>Descriptions of schemas</title>
+            <sec sec-type="1. TaxonX">
+                <title>1. TaxonX</title>
+                <p><bold>1.1. Sources:</bold>
+                </p>
+                <p><ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxonx/;" xlink:type="simple">http://sourceforge.net/projects/taxonx/;</ext-link> <ext-link ext-link-type="uri" xlink:href="http://www.taxonx.org/schema/v1/taxonx1.xsd;" xlink:type="simple">http://www.taxonx.org/schema/v1/taxonx1.xsd;</ext-link> <ext-link ext-link-type="uri" xlink:href="http://www.plazi.org">www.plazi.org</ext-link>, <xref ref-type="bibr" rid="B28">Sautter et al. 2007a</xref>
+                </p>
+                <p><bold>1.2. Description</bold>
+                </p>
+                <p>TaxonX is an XML schema for encoding taxonomic literature in order to:</p>
+                <p>•	Create open, stable, persistent, full text digital surrogates of taxonomic treatments</p>
+                <p>•	Identify taxonomic treatments and their major structural components to enable networked reference and citation</p>
+                <p>•	Identify lower level textual data such as scientific names and localities (<xref ref-type="bibr" rid="B16">Darwin Core</xref> or any other relevant schema may be used), morphological characters, and bibliographic citations in order to facilitate their extraction by, and integration with, external applications and resources</p>
+                <p>•	Study and describe the structure of systematics publications by creating few typical corpora of literature, such as entire journals (e.g., AMNH Novitates, Zootaxa), taxa (e.g., all ant systematics papers post 1995), or faunistic studies (e.g. all ant systematics paper covering Madagascar ranging from 1758 to 2011)</p>
+                <p>TaxonX is a lightweight (with only 30+ elements) and flexible schema for mark-up of treatments which can be quickly learned and may be applied to the wide variety of formatting present in legacy documents as well as new publications. In many cases it relies on use of external schemas for modelling certain kinds of information [e.g., the use of MODS (Metadata Object Description Schema: <ext-link ext-link-type="uri" xlink:href="http://www.loc.gov/standards/mods/" xlink:type="simple">http://www.loc.gov/standards/mods/</ext-link>) for file level bibliographical metadata; <xref ref-type="bibr" rid="B16">Darwin Core</xref> for observation <!--PageBreak-->data: <ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/" xlink:type="simple">http://rs.tdwg.org/dwc/</ext-link>]. It has loose content requirements that allow for a wide variety of instances to be encoded over time and at many levels of granularity, while maintaining validity through iterations. Additionally, TaxonX contains mechanisms for semantic normalization of the data contained in treatments.
+                </p>
+                <p><bold>1.3. Design and development</bold>
+                </p>
+                <p>Development of TaxonX began at the American Museum of Natural History (AMNH) and continued through the duration of a subsequent NSF/DFG grant (see below). As the project was concluding, participants established Plazi, a Switzerland-based independent not-for-profit organization aiming to help remove technological, social, and legal barriers to the creation of and access to taxonomic literature. Among its many activities, Plazi maintains the TaxonX schema and a repository of XML-encoded publications, develops the semi-automatic mark-up tool GoldenGATE (<xref ref-type="bibr" rid="B28">Sautter et al. 2007a</xref>), and strenuously advocates open access to scientific literature (<xref ref-type="bibr" rid="B2">Agosti and Egloff 2009</xref>).
+                </p>
+                <p>TaxonX provides for the encoding of taxon treatments, with elements for the major structural components of treatments (e.g., Nomenclature, Materials examined, Description, etc.) and phrase-level features of interest in taxonomy (e.g., scientific names, locality names, characters, etc.) as well as mechanisms for linking to external resources and the semantic normalization of terms mentioned in the source document. The TaxonX instances encoded by Plazi contain a moderate degree of mark-up. Bibliographic metadata for the source documents are provided in each instance. Other sections of treatments are identified and named when they occur, but are not always present due to the wide variability of the structure of the source documents. All scientific names are marked and associated with an LSID, but other features may not always be identified. The section “Materials examined” can be broken down to individual materials citations, which in turn may normalized and linked to external resources, such as a type specimen, through LSIDs or other links.</p>
+                <p>A special emphasis has been given to link data to external resources, such as Life Science Identifiers (LSIDs). Tools in GoldenGATE have been developed to communicate automatically with external sources such as nameservers to retrieve LSIDs to taxonomic names in case they have already been entered, or to enter them upon discovery in an article, create the record and subsequently retrieve the LSIDs (e.g., in collaboration with the <tp:taxon-name>Hymenoptera</tp:taxon-name> Name Server), or on a manual base with Zoobank.</p>
+                <p><bold>1.4. Implementations</bold>
+                </p>
+                <p><bold>Use Case 1: The GoldenGATE (GG) software tool</bold> (<ext-link ext-link-type="uri" xlink:href="http://plazi.org/?q=Golden" xlink:type="simple">http://plazi.org/?q=Golden</ext-link> GATE). GG development is lead by Guido Sautter (<xref ref-type="bibr" rid="B29">Sautter et al. 2007b</xref>) to serve the mark-up of legacy literature. GG itself is highly flexible and integrates a set of tools and modules that allow highly automated large-scale output of documents marked in TaxonX or other XML schemas. The use cases listed below have been pe<!--PageBreak-->rformed using GG. In 2010, GG launched a web interface to integrate social networking elements like crowdsourcing in the mark-up process.
+                </p>
+                <p><bold>Use Case 2:</bold> <bold>Ants of Madagascar.</bold> In 2006-2008, all available literature on the ants of Madagascar was OCR-ed, marked-up to the treatment level and stored on Plazi’s treatment repository; this comprises ca 4,000 treatments from ca. 2,500 pages extracted from 119 legacy publications with taxonomic descriptions.The project formed the basis for the subsequent development of Plazi’s mark-up projects (see below).
+                </p>
+                <p><bold>Use Case 3:</bold> <bold>The Zootaxa-TaxonX-ZooBank Project.</bold> In 2007, GBIF approved a Seed Money Award project entitled “Extracting Nomenclatural Data, Species Descriptions and Collecting Events from Legacy Publications: The Zootaxa-TaxonX-ZooBank Project” (GBIF Tracking Number 2007-94). Within this project, a TAPIR protocol has been developed for first time to render to GBIF occurrence data that have been marked up in taxonomic publications (<ext-link ext-link-type="uri" xlink:href="http://data.gbif.org/datasets/provider/241" xlink:type="simple">http://data.gbif.org/datasets/provider/241</ext-link>).
+                </p>
+                <p><bold>Use Case 4:</bold> <bold>SPM (Species Profile Model) export from Plazi to Encyclopedia of Life (EOL).</bold> Plazi has developed a web service providing treatments in Species Profile Model (SPM) format allowing EOL and other interested parties, such as GBIF and others, to automatically harvest and consume content. Plazi received a small grant from EOL (managed by GBIF) to implement a service based on the SPM for the provision of taxonomic descriptions to EOL to complement a previous GBIF Seed Money Award to Zootaxa and Plazi that mobilised species occurrence records for the GBIF network (Use Case 3). The data for the project were taxonomic publications related to ants (Use Case 1). An XSLT conversion to SPM RDF/XML was developed and deployed as a web service using the eXist XML database (www.exist-db.org) so that SPM files generated dynamically from the TaxonX files can be retrieved via an HTTP GET request. A documented Application Programming Interface (API) is provided for the service, which allows the client applications latitude on tailoring the service. Sufficient documentation is provided so that clients can use the service for processing of the underlying XML document. At the date of writing (September 2011), 5892 treatments have been made accessible to EOL, including fish, ant and platygasteroid wasps.
+                </p>
+                <p><bold>Use Case 5:</bold> <bold>Overall content in taxonX.</bold> At the date of writing, 1,012 articles from 131 different journals and books spanning a period from 1758 to 2011 have been converted into TaxonX resulting in 15,863 treatments accessible on plazi.org. Most of the taxa covered are animals with an increasing number on plants and fungi taxa, (Plazi.org, accessed November 21, 2011).
+                </p>
+                <p><bold>1.5. Problems encountered and lessons learned</bold>
+                </p>
+                <p>Based on accumulated experience, the following success factors of TaxonX can be summarized:</p>
+                <p>•	It is a lightweight and flexible schema which can be quickly learned and may be applied to a wide variety of formatting found in legacy documents</p>
+                <p><!--PageBreak-->•	It relies on use of external schemata (see use of MODS for file-level bibliographical metadata).</p>
+                <p>•	Its loose content requirements allow for instances to be encoded over time and at many levels of granularity, while maintaining validity through iterations.</p>
+                <p>•	It contains mechanisms for semantic normalization of the data contained in treatments. See TaxonX‘s use of <xref ref-type="bibr" rid="B16">Darwin Core</xref> (soon perhaps Linnaean Core, SDD, etc.) to normalize phrase level data, and xid elements for inclusion of LSID‘s, ITIS, HNS, or other external identifiers.</p>
+                <p>However, there are also some hurdles for the adoption of TaxonX, such as:</p>
+                <p>•	The heterogeneity and structural looseness of the data contained in some legacy taxonomic treatments makes encoding and semantic normalization even by a lightweight and flexible schema difficult and requires substantial expert intervention.</p>
+                <p>•	The flexibility of the schema may present difficulties both in authoring and in profiling the encoded data for use by external applications as well as in conversion into other schemas/DTDs, but not at a very basic level, that is treatment and nomenclature element.</p>
+                <p>•	Dependence on external schemas requires vigilance and active maintenance of the schema; may complicate long-term validation of instances; namespace wrangling makes authoring difficult</p>
+                <p>•	Mark-up, even in a light way, needs some domain specific expertise, namely specific quality controls to assure that the elements are properly identified, and therefore costs time.</p>
+                <p>Potential users of TaxonX could be:</p>
+                <p>•	Biodiversity Heritage Library would become much more useful if at least treatment boundaries, nomenclatural elements and respective names were to be marked-up and linked to the respective scan on BHL.</p>
+                <p>•	Ultimately, one could envision this to be an intermediary step to extract and store the treatments in more powerful structures, such as databases. All the treatments are primarily linked to genetic, distributional, nomenclatural and other data via the taxonomic name applied to the treatment. At Antbase/HNS, this link is in a simple form already implemented by a link from each citation to the respective PDF copy of the referring page.</p>
+                <p>•	Future aggregators of treatments might be institutions like ZooBank, or essentially dedicated databases allowing specific applications, like iSpecies (<ext-link ext-link-type="uri" xlink:href="http://www.ispecies.org">http://www.ispecies.org</ext-link>), or the Taxon Pensoft Profile (<ext-link ext-link-type="uri" xlink:href="http://ptp.pensoft.eu" xlink:type="simple">http://ptp.pensoft.eu</ext-link>), to collect the treatments and use them for specific purposes.
+                </p>
+                <p>•	All aggregators that will benefit from improved search, information retrieval, and information extraction.<!--PageBreak--></p>
+            </sec>
+            <sec sec-type="2. TaxPub">
+                <title>2. TaxPub</title>
+                <p><bold>2.1. Sources:</bold>
+                </p>
+                <p><ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxpub/;" xlink:type="simple">http://sourceforge.net/projects/taxpub/;</ext-link> <xref ref-type="bibr" rid="B7">Catapano 2010</xref>
+                </p>
+                <p><bold>2.2. Description</bold>
+                </p>
+                <p>TaxPub was designed with the aim to enable the mark-up of new “born-digital” taxonomic literature that could forgo unnecessary variation in style and form and adhere to a limited set of data elements so as to lower costs of both authoring and processing. TaxPub is an extension of the Journal Publishing Tag Set of the U.S. National Library of Medicine’s Journal Archiving Tag Suite (see <ext-link ext-link-type="uri" xlink:href="http://dtd.nlm.nih.gov/" xlink:type="simple">http://dtd.nlm.nih.gov/</ext-link>). For more details see <xref ref-type="bibr" rid="B7">Catapano (2010)</xref>.
+                </p>
+                <p><bold>2.3. Design and development</bold>
+                </p>
+                <p>Starting in 2008, TaxPub was designed and developed by members of Plazi with the assistance of experts from the U.S. National Center for Biotechnology Information. The TaxPub extension is maintained as an open source project at SourceForge (<ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxpub/" xlink:type="simple">http://sourceforge.net/projects/taxpub/</ext-link>) inheriting from the base DTD an extensive and robust set of elements for generic textual structures while adding a small number of elements relevant to taxonomy. These include elements for mark-up of taxon names, citations to specimens and other material, and statements describing morphology, as well as for treatments and treatment sections. Further semantics may be applied to many elements through use of terms in external vocabularies (such as <xref ref-type="bibr" rid="B16">Darwin Core</xref>) as values of attributes (more details in <xref ref-type="bibr" rid="B7">Catapano 2010</xref> and <ext-link ext-link-type="uri" xlink:href="http://species-id.net/wiki/TaxPub" xlink:type="simple">http://species-id.net/wiki/TaxPub</ext-link>).
+                </p>
+                <p>TaxPub, being part of the National Library of Medicines Journal Article Tag Suite (JATS), has the additional advantage that it can directly be archived in PubMedCentral, one of the most secure existing archives and, as a consequence, its content is cross-linked with the huge body of biomedical literature stored therein.</p>
+                <p><bold>2.4. Implementations</bold>
+                </p>
+                <p>The first TaxPub encoded treatments were provided from the Ohio State University based “vSysLab” (Virtual Systematics Laboratory) presentation of data on wasps (<tp:taxon-name>Platygastroidea</tp:taxon-name>) described as part of the US National Science Foundation’s Planetary Biodiversity Inventories program (see <ext-link ext-link-type="uri" xlink:href="http://vsyslab.osu.edu/home_page.html" xlink:type="simple">http://vsyslab.osu.edu/home_page.html</ext-link>).
+                </p>
+                <p>Soon after the initial release of TaxPub, Plazi was joined by Pensoft, the publisher of the online open access taxonomy journal ZooKeys, in a collaboration to integrate TaxPub into its publication workflow. The approach differed from OSU’s in applying mark-up to submitted manuscripts. Pensoft faced a set of challenges similar to those in retrospective conversion. Among them was the identification and encoding of treat<!--PageBreak-->ments, scientific names, and bibliographic references. Developing their own software tool (Pensoft Mark-up Tool, PMT, see <xref ref-type="bibr" rid="B24">Penev et al. 2010a</xref>), in 2010 ZooKeys began to publish TaxPub versions of their articles. Although lacking a very fine-grained level of mark-up granularity (for example, &lt;material-citation&gt; is not used), the ZooKeys articles accomplish many of the goals of the TaxPub extension. Treatments are identified, and thus are directly and easily machine addressable, as are treatment sub-sections. All scientific names and name parts are tagged with &lt;tp:taxon-name&gt; elements. &lt;tp:nomenclature-citation&gt; elements include &lt;tp:taxon-name&gt; and link to full bibliographic entries, themselves marked up with &lt;mixed-citation&gt;. Specifically, because TaxPub motivated and enabled its use of the NLM DTD, ZooKeys and PhytoKeys articles are approved for display and archiving in PubMedCentral.</p>
+                <p>The ZooKeys’ exemplar papers (<xref ref-type="bibr" rid="B30">Stoev et al. 2010</xref>; <xref ref-type="bibr" rid="B5">Blagoderov et al. 2010b</xref>; <xref ref-type="bibr" rid="B6">Brake and von Tschirnhaus 2010</xref>; <xref ref-type="bibr" rid="B31">Taekul et al. 2010</xref>) are entirely based on revision #123 available from the SVN trunk of TaxPub (<ext-link ext-link-type="uri" xlink:href="http://sourceforge.net/projects/taxpub" xlink:type="simple">http://sourceforge.net/projects/taxpub</ext-link>). In fact, the present exemplar papers are the first published TaxPub articles in biodiversity science, intended to demonstrate the advantages of the XML-based mark-up and editorial workflow in the way biodiversity information is being published and disseminated.
+                </p>
+                <p><bold>Use Case 1: Editorial use at Pensoft.</bold> TaxPub is used to mark-up taxonomic papers during the editorial process, using the Pensoft Mark-up Tool (PMT). As a result, through PMT and InDesign, 3 electronic versions of a paper are generated and routinely published: (1) PDF identical to the printed version; (2) HTML to provide links to external resources and semantic enhancements to published texts for interactive reading; (3) XML version compatible to PubMedCentral archiving NLM DTD TaxPub extension), thus providing a machine-readable copy to facilitate future data mining.
+                </p>
+                <p>Currently TaxPub is used routinely in the editorial process of six journals published by Pensoft:</p>
+                <p>•	ZooKeys – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/zookeys/">www.pensoft.net/journals/zookeys</ext-link></p>
+                <p>•	PhytoKeys – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/phytokeys/">www.pensoft.net/journals/phytokeys</ext-link></p>
+                <p>•	MycoKeys – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/mycokeys/">www.pensoft.net/journals/mycokeys</ext-link></p>
+                <p>•	International Journal for Hymenoptera Research – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/jhr/">www.pensoft.net/journals/jhr</ext-link></p>
+                <p>•	International Journal of Myriapodology – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/ijm/">www.pensoft.net/journals/ijm</ext-link></p>
+                <p>•	Comparative Cytogenetics – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/compcytogen/">www.pensoft.net/journals/compcytogen</ext-link></p>
+                <p>In addition, the TaxPub DTD and some of its phrase-level elements, such as taxon names, are used in Pensoft’s ecology journals:</p>
+                <p>•	BioRisk – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/biorisk/">www.pensoft.net/journals/biorisk</ext-link></p>
+                <p>•	NeoBiota – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/neobiota/">www.pensoft.net/journals/neobiota</ext-link></p>
+                <p>•	Nature Conservation  – <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/natureconservation/" xlink:type="simple">http://www.pensoft.net/journals/natureconservation</ext-link>
+                </p>
+                <p><bold>Use Case 2: Export of new taxa to EOL.</bold> All new species descriptions in Pensoft journals are exported to EOL on the day of publication through a tool that maps the<!--PageBreak--> content to EOL elements; the file contains bibliographic metadata, taxonomic classification, species description and links to the species images. The exported XML file is harvested by EOL on a daily basis.
+                </p>
+                <p><bold>Use Case 3: Export of taxon treatments to Plazi.</bold> All taxon treatments identified within the XML file of a published paper are harvested by Plazi and uploaded to the Plazi Treatment Repository. Thereafter, treatments are available for use by various organizations and individuals, e.g., EOL.
+                </p>
+                <p><bold>Use Case 4: Export of taxon treatments to the Wiki environment Species-ID</bold> (<ext-link ext-link-type="uri" xlink:href="http://species-id.net/wiki/Main_Page" xlink:type="simple">http://species-id.net/wiki/Main_Page</ext-link>). All taxon treatments at the level of genera and species identified within the XML file of a published paper are exported to Species-ID through a special software tool, including images, keys and bibliographies. The citation template of the taxon’s wiki page automatically includes the original source (article) to provide a permanent scientific record, as well as all consequent contributors to the respective wiki page (<xref ref-type="bibr" rid="B26">Penev et al. 2011</xref>).
+                </p>
+                <p><bold>Use Case 5: Archiving in PubMedCentral.</bold> ZooKeys was accepted for indexing and archiving in PubMedCentral in August 2010, followed by PhytoKeys. Since then TaxPub XML output of ZooKeys issues 50-54 has passed 4 rounds of testing at NLM. All suggestions have been implemented in the XML export and, where needed, corrections implemented in TaxPub.
+                </p>
+                <p><bold>Use Case 6: Use of TaxPub XML files to create a semantically enhanced HTML version of the publication.</bold> The process was described and exemplified in issue 50 of ZooKeys (<xref ref-type="bibr" rid="B24">Penev et al. 2010a</xref>, <xref ref-type="bibr" rid="B25">b</xref>); from then it has become routine practice for several of Pensoft’s journals (list provided above in the text).
+                </p>
+                <p><bold>Use Case 7: Acceptance of manuscript in XML by Journal.</bold> InZooKeys 50, <xref ref-type="bibr" rid="B25">Penev et al. (2010b)</xref> and <xref ref-type="bibr" rid="B4">Blagoderov et al. (2010a)</xref> piloted acceptance of manuscripts in XML format, generated from two independent sources: Scratchpads (sample papers: <xref ref-type="bibr" rid="B5">Blagoderov et al. 2010b</xref>; <xref ref-type="bibr" rid="B6">Brake and Tschirnhaus 2010</xref>) and the SysLab tool from the <tp:taxon-name>Hymenoptera</tp:taxon-name> Online database (<xref ref-type="bibr" rid="B31">Taekul et al. 2010</xref>). This process should become routine practice during the ViBRANT project.
+                </p>
+            </sec>
+            <sec sec-type="3. taXMLit">
+                <title>3. taXMLit</title>
+                <p><bold>3.1. Sources:</bold>
+                </p>
+                <p><ext-link ext-link-type="uri" xlink:href="http://wiki.tdwg.org/twiki/bin/viewfile/Literature/WebHome?rev=1;filename=ta" xlink:type="simple">http://wiki.tdwg.org/twiki/bin/viewfile/Literature/WebHome?rev=1;filename=ta</ext-link> XMLit_v5-04.xsd; <xref ref-type="bibr" rid="B33">Weitzman and Lyal (2004)</xref>
+                </p>
+                <p><bold>3.2. Description</bold>
+                </p>
+                <p>The taXMLit schema is designed to accommodate taxonomic literature. It was developed particularly in the context of Zoological and Botanical publications and should also be applicable to publications on fungi and palaeontology, although this has yet to <!--PageBreak-->be tested. The schema does not take into account the kinds of data needed for viral or bacterial publications. It covers all of the components of taxonomic publications and the taxon treatments contained within them, but does not encode individual character statements, which are dealt with by other projects such as SDD.</p>
+                <p>The schema is highly atomised, permitting both recovery of publication components (e.g. taxon treatments, diagnostic keys, images, bibliographic entries, discussion paragraphs) and of data within those components, such as specimen data, biological associations, atomised taxonomic names, and nomenclatural and taxonomic acts. It can be applied to the entire text of a publication and not only formal treatments as discussed above. The richness permits full application to any legacy format so far encountered. The full taXMLit contains data elements extracted from the text that permit detailed data querying, browsing, and download; a version that does not include the respective elements and is more document-centric has also been developed (‘taXMLite’: <ext-link ext-link-type="uri" xlink:href="http://wiki.tdwg.org/twiki/bin/viewfile/Literature/WebHome?rev=1;filename=taXMLite_v5-04.xsd" xlink:type="simple">http://wiki.tdwg.org/twiki/bin/viewfile/Literature/WebHome?rev=1;filename=taXMLite_v5-04.xsd</ext-link>). This was developed to permit preliminary mark-up and subsequent upload access through the INOTAXA interface developed for taXMLit (see below); it is not discussed further here.
+                </p>
+                <p>Implementation of the schema in an appropriate system (‘INOTAXA’ –  <ext-link ext-link-type="uri" xlink:href="http://www.inotaxa.org" xlink:type="simple">http://www.inotaxa.org</ext-link> has been designed for this purpose) allows the text of marked-up taxonomic publications to be fully humanly searchable. In INOTAXA users may chose to view and download data (e.g. taxonomic names, specimen data, citations, biological association data, persons’ names) for use in analysis or other applications, or access taxon treatments, keys, images, or other content components as reference resources. In conjunction with the appropriate system, the schema would also facilitate static links from the text to other data sources (e.g. specimen databases on the web, ZooBank). Use of the schema for multiple taxonomic works allows these to be searched or browsed simultaneously, and permits links between different works that cover the same taxa or their synonyms. Moreover, this paves the way for uses to create virtual compilations of taxon treatments, comprising components of more than one original work, e.g. checklists, faunas, and floras. These applications require that the schema should, in the appropriate parts, use elements the same as or similar to those in schemas used by other relevant systems, and be mappable to them.
+                </p>
+                <p><bold>3.3. Design and development</bold>
+                </p>
+                <p>TaXMLit and INOTAXA were conceived in 2001 in a Mellon-funded meeting focussing on the potential for combining information, literature, and research data, and funded in 2001 by the Atherton Seidell Fund. The project initially selected the <italic>Biologia Centrali-Americana</italic> to use in trials (57 volumes, more than 50,000 taxon treatments) with a wide coverage of animals and plants and a variety of editorial styles applied. This provided a varied base for testing the schema and also developing a called-for resource. Subsequently a number of other texts published between 1758 to 2008 and including formal taxonomic publications, catalogues and other formats have also been marked<!--PageBreak--> up to provide an even stronger test of applicability of the schema. Some of these are currently accessible through the INOTAXA.org pilot (currently accessible are two papers from Zootaxa, the more recent being <xref ref-type="bibr" rid="B27">Pyle et al. (2008)</xref> on <italic><tp:taxon-name>Chromis</tp:taxon-name></italic>, a paper that has been used by a number of initiatives to enable comparison); others will be made available in the near future.
+                </p>
+                <p>An initial problem was source quality. Most legacy literature is not born digital, and incorporates outdated fonts, complex terms not easily resolvable by OCR, diacritic marks and other problematic aspects. Tests against BHL content in 2009 indicated a success rate for correct recognition of the scientific name of only 14-35% (Weitzman, unpublished; Freeland, unpublished). <xref ref-type="bibr" rid="B21">Morse et al. (2009)</xref> examined this problem and presented some solutions to be incorporated in the ViBRANT workflow. To date, mark-up to taXMLit has been undertaken through preliminary mark-up to TEI-Lite with a systematic ‘flavour’ (created by Weitzman and Lyal), and subsequent parsing to taXMLit, this being been either manual or automated through use of a purpose-written script based on stylistic features and landmarks introduced in the TEI-Lite mark-up.
+                </p>
+                <p>Within taXMLit each text paragraph in the original publication (i.e., any text component terminated by the stroke of an ‘Enter’ key) is captured entire and given an ElementID, which run sequentially through the text. This facilitates later reconstruction of the order of the text components. In some cases, reconstruction will require a different order than the original. For example, polytomous keys, which have the structure of a tree, can be spread throughout the text with contrasting statements at the same level (called ‘lugs’ by taxonomists) separated by treatments or other complex elements, but need to be reconstructed without these interruptions. Individual paragraphs are then be parsed into more or less detailed elements as required. The ElementID allows the use of an IDREF attribute (a cross-reference within the mark-up). The full set of elements within taXMLit is large, designed to accommodate the atomisation of many elements (taxonomic names, for example, are fully atomised, with a rank assigned to each component) and provide the detail required for search, browse and download of identified components. While taXMLit uses elements that cover the same concepts as those used in other schemas (e.g. <xref ref-type="bibr" rid="B1">ABCD</xref> and <xref ref-type="bibr" rid="B16">Darwin Core</xref>, designed for specimen data), the individual elements are not all exactly the same, because the data as presented in the literature may be different in format from those recovered from specimen labels, for example, and may not be as easy to interpret. However, taXMLit is designed to permit mapping to <xref ref-type="bibr" rid="B1">ABCD</xref> and <xref ref-type="bibr" rid="B16">Darwin Core</xref>.
+                </p>
+                <p>Much taxonomic literature employs abbreviations as standard (e.g. for genus names after the first use, or author names) and descriptors may be omitted (e.g. for suprageneric hierarchical ranks, or for repeated components of label data). While this information is simple to interpret for a human reader, it is less accessible to machine processing or amenable to database storage. For this reason taXMLit uses the attribute ‘Explicit’ with many elements to denote whether the information included is explicitly stated or implicit and derived either by programming code or by a human in the final mark-up verification.</p>
+                <p>The use of ‘Implicit’ is intended as a matter of project policy to accommodate only unequivocal interpretation (e.g. the abbreviation “A.” in front of a species name <!--PageBreak-->where the only genus name in context is “A-us” marked as that name). While editorial practice is to limit interpretations of the text drawing on information and knowledge from outside the text itself, the schema includes an element to accommodate alternative spellings of the same name included in a single text, to capture interpreted place names and, for added geographical coordinates, using a ‘source’ attribute. The facility for retrieving such interpretations is being developed.</p>
+                <p>Some of the original formatting is retained (e.g. underlining, italics, bold etc), although font and line indentation, for example, are not. Page numbers are retained.</p>
+                <p>As described by <xref ref-type="bibr" rid="B23">Parr and Lyal (2007)</xref> a formal assessment of user needs including taxonomists and some other groups was carried out as part of the development, and part of the testing of each phase of the INOTAXA build was carried out by taxonomists and others new to the system. The elements of taXMLit, the selection of elements to index in the INOTAXA database, and the query and browse functionalities of the INOTAXA interface, were designed in concert with this user assessment.
+                </p>
+                <p>To support querying and browsing content, search speed is maximised by storing the marked-up texts in a relational database. Fifty-seven of the fields are indexed to permits Boolean searches. To date, upload to the database has been via individual scripts, but the database has recently been simplified and made scalable, and a generic upload tool is being built.</p>
+                <p><bold>3.4. Implementations</bold>
+                </p>
+                <p><bold>Use Case 1:</bold> <bold>Mark-up of ‘old’ taxonomic literature.</bold> Literature used for this is primarily the <italic>Biologia Centrali-Americana</italic> (BCA) (<ext-link ext-link-type="uri" xlink:href="http://www.sil.si.edu/digitalcollections/bca" xlink:type="simple">http://www.sil.si.edu/digitalcollections/bca</ext-link>), but also employed other papers including parts of Linnaeus 1758 <italic>Systema Naturae</italic> and Linnaeus 1752 <italic>Species Plantarum</italic>. The lessons learned enabled the schema to be developed to deliver the flexibility required for older literature written before more modern standardization and the advent of the nomenclatural codes.
+                </p>
+                <p><bold>Use case 2: Mark-up of recent taxonomic zoological and botanical taxonomic literature</bold>. Fourteen texts in different formats were marked up spanning the dates 1992-2008, including ‘standard’ taxonomic papers from the Coleopterist’s Bulletin, Mosquito Systematics, Proceedings of the Biological Society of Washington, Systematic Botany, Transactions of the American Entomological Society and Zootaxa, part of a synonymic catalogue and a book chapter. As with older pre-Code texts, lessons learned enabled the schema to be refined to accommodate variation in modern literature, and manage multiple publications including treatments of the same taxa under the same and different names and in different systematic placements.
+                </p>
+                <p><bold>Use case 3:</bold> <bold>Storage of mark-up.</bold> To enable rapid search and retrieval of marked up content in a scalable manner a database with selected (high-usage) fields indexed was constructed in MySQL. This permits much more rapid access and retrieval of simple and complex queries than would be possible from storage as simple XML documents.
+                </p>
+                <p><bold>Use case 4:</bold> <bold>Human search and browse of content.</bold> The INOTAXA interface to content in taXMLit was built in several phases with testing of each phase primarily<!--PageBreak--> by taxonomists who were new to the system. The prototype includes three publications (a BCA volume on <tp:taxon-name>Coleoptera</tp:taxon-name>: <tp:taxon-name>Curculionidae</tp:taxon-name>, a Zootaxa paper on <tp:taxon-name>Curculionidae</tp:taxon-name> taxa also included in the BCA volume, and <xref ref-type="bibr" rid="B27">Pyle et al. (2008)</xref> on <italic><tp:taxon-name>Chromis</tp:taxon-name></italic> fish), together including more than 800 taxon treatments (<xref ref-type="bibr" rid="B34">Weitzman and Lyal 2006</xref>; <xref ref-type="bibr" rid="B20">Lyal and Weitzman 2008</xref>). Two additional sources of information were added: the digitised contents of Vaurie and Selander (1971) (georeferenced localities for specimens in the BCA) and a list of person names in all possible formats (e.g. Smith, Smith, J., J. Smith, J Smith etc) – this allows expressing synonymy of different name strings representing the same individual without editing / changing the original text. A link between the treatment retrieved and the treatment in the original text in PDF or JPEG format is available through the interface, as are links to any original images. Further information on INOTAXA and the queries that it permits is available at <ext-link ext-link-type="uri" xlink:href="http://www.inotaxa.org" xlink:type="simple">http://www.inotaxa.org</ext-link>.
+                </p>
+                <p><bold>Use case 5: Availability of content to Encyclopedia of Life.</bold> Currently marked-up text is mapped to the EoL schema and delivered to EoL with associated images for display on their pages (866 pages). The process is automatic and will deliver further pages on the next data upload to INOTAXA.
+                </p>
+                <p><bold>3.5. Problems encountered and lessons learned</bold>
+                </p>
+                <p>•	Interoperability. So that the schema could potentially deliver data in a format usable by other applications two choices were available: to incorporate elements of the target schemas or develop new schema elements within taXMLit that could be mapped to others. The latter was selected with the logic that taXMLit could be versioned as a stand-alone entity and updated by users as appropriate, without having to accommodate independent changes by embedded schemas.</p>
+                <p>•	GUIDs. Initially unique identifiers were not explicitly included; however, as biodiversity informatics has moved towards implementation, a placeholder for GUIDs has been included in many elements.</p>
+                <p>•	Accommodating multiple formats of legacy literature. Although taxonomic literature is reputedly standardized in content, experience with many different papers and books has demonstrated the extreme variability of formatting and structure applied, even within single papers. To accommodate the observed variation most of the complex elements of taXMLit are optional and available in many different places within the schema.</p>
+                <p>•	Implicit content. Much content is implicit in nature (see discussion above). Care must be taken in recognizing such content, but it is necessary to do so to facilitate searching and browsing functionality in the interface, and even to retrieve some taxon treatments. Such implicit content is indicated as such in display by the use of a different font colour and annotation.</p>
+                <p>•	Policy on correction of errors. Because spelling errors and other infelicities in the original publication may have nomenclatural significance, and because correction relies on individual expertise, apparent errors are not changed in the current im<!--PageBreak-->plementation of taXMLit and INOTAXA. Such change or annotation must be explicitly authored, and the ability to do this will be introduced in a later implementation.</p>
+                <p>•	Mark-up. Semi-automated mark-up has been achieved using a purpose-written script, incorporating rules developed to accommodate the structure of the individual publication. Even with this, there are places where specialist knowledge is required. To facilitate this, a SpecialistReview attribute has been introduced throughout the schema.</p>
+                <p>•	Recovery of original formatting. Only some of the original formatting is retained, where this aids in understanding (e.g. italicisation). INOTAXA delivers content in a standardised format to aid comprehension, but allows (subject to copyright) access to the original text.</p>
+                <p>•	Hierarchies. Each publication marked up in taXMLit inevitably has an independent taxonomic hierarchy, which is displayed in INOTAXA. Where a work is produced in multiple fascicles, it is assumed unless stated otherwise that the hierarchy does not change.</p>
+            </sec>
+            <sec sec-type="Evaluation, comparison and cross-points between taxonX, TaxPub and taXMLit">
+                <title>Evaluation, comparison and cross-points between taxonX, TaxPub and taXMLit</title>
+                <p>The three schemas discussed above serve different purposes, but to an extent have to address the same issues. One is the identity of the communities who will use the output, and an understanding of the uses to which this output will be put. Further user needs analysis would be valuable, including building on <xref ref-type="bibr" rid="B1">Parr and Lyal’s (2007)</xref> analysis. So far, there has been no published study that explicitly makes use of marked up literature (although the number of views of content harvested by EOL from INOTAXA, Plazi and Pensoft indicate that this product at least is valued).</p>
+                <p>One question arising from a consdideration of meeting user needs relates to the size of the data ‘packages’ identified by elements within the schemas, a ‘package’ being a logical unit of information delivery enabling reuse. Packages discussed above include the taxon treatment, collection data for a single specimen, taxon name and publication citation, among others. The schemas discussed target different sizes of packages, taXMLit opting for the largest number and smallest packages, although these are nested within larger more encompassing packages (e.g. taxon treatments). Interoperability with non-literature schemas seems to require a high degree of atomisation (<xref ref-type="bibr" rid="B20">Lyal and Weitzman 2008</xref>). A related issue is that while data may be extracted from a publication (such as locality data for a specimen) the relevant metadata that are given elsewhere in the text (such as confidence limits in a georeference) may not be associated.
+                </p>
+                <p>The complexity and atomisation of the mark-up (number, size and nesting of data packages) is likely to be proportional to the cost of mark-up, which will differ between the three schemas. A cost-benefit analysis may be helpful, although would need to be in the context of the uses planned for the marked up text (see below). There are pro<!--PageBreak-->spects to reduce costs through automation of the different phases (<xref ref-type="bibr" rid="B14">Curry and Connor 2007</xref>; <xref ref-type="bibr" rid="B29">Sautter et al. 2007b</xref>; <xref ref-type="bibr" rid="B21">Morse et al. 2009</xref>; <xref ref-type="bibr" rid="B12">Cui et al. 2010a</xref>).
+                </p>
+                <p>One of the strategic goals of biodiversity informatics is an increase in accessibility, compatibility and interoperability of data originating from different sources. If elements of taxonomic information coming from different sources are compatible (and thus can be made interoperable) they can then be easily harvested, indexed, collated, used and reused. The format of the final output of the individual schemas – in a form of XSLT stylesheets for instance – will be determined by the expectations and needs of the end users (<xref ref-type="fig" rid="F1">Fig. 1</xref>).
+                </p>
+                <p>In the context of schemas for taxonomy mark-up, compatibility is understood here as the <italic>ability of the schemas to identify, mark-up and export elements used in both legacy and prospective taxonomic literature and needed for data mining and reuse by users</italic>. An important criterion of compatibility is that schemas can be mapped to a shared (<xref ref-type="bibr" rid="B32">TDWG</xref>) vocabulary, thus allowing conversion between both literature schemas and others. <xref ref-type="table" rid="T1">Table 1</xref> presents a rough evaluation of the schemas under consideration here with regard to a set of criteria that might prevent or facilitate generating a unified output from different taxonomic sources (and marked up with different schemas).
+                </p>
+                <p><!--PageBreak-->TaxonX and TaxPub are largely interoperable since both have been developed by the same author and contributors, and also because both schemas have been used together in some of the cases mentioned above. The challenge will be to ensure output compatibility between taXMLit and the others, particularly with TaxonX.</p>
+                <p>The schemas themselves are only part of the necessary comparison with respect to mark-up. Given the various complexities and challenges faced in the process of retrospective mark-up, different teams are developing different protocols and editorial decisions. Some of these have been indicated above. <xref ref-type="table" rid="T2">Table 2</xref> provides comparison of some of the critical decision areas.<!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak-->
+                </p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>Flowchart of mark-up, publication, dissemination and use of taxonomic information. Scratchpads (<ext-link ext-link-type="uri" xlink:href="http://scratchpads.eu/" xlink:type="simple">http://scratchpads.eu/</ext-link>) and EDIT Cybertaxonomy Platform (<ext-link ext-link-type="uri" xlink:href="http://wp5.e-taxonomy.eu/" xlink:type="simple">http://wp5.e-taxonomy.eu/</ext-link>) stand for the community-based collaborative platforms for taxonomists developed by the EDIT FP6 project (<ext-link ext-link-type="uri" xlink:href="http://www.e-taxonomy.eu/" xlink:type="simple">http://www.e-taxonomy.eu/</ext-link>).</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-150-089-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Conclusions">
+            <title>Conclusions</title>
+            <p>There is a rich legacy of several hundred years of taxonomic literature. In addition to this, many new papers are published each year, driven by the recording of an estimated ca. 17,000 new taxa being described with some unknown number of re-descriptions. We can use technology to help us process this data overload, but only if we can first impose some form of structure on the data that facilitates machine-processing. Applying structure to a text is a remarkably challenging activity. This paper has considered three XML schemas devised to help address this problem.</p>
+            <p><xref ref-type="table" rid="T1">Table 1</xref> shows that the three currently most widely used schemas - TaxonX, TaxPub and taXMLit - cover the key text elements used by taxonomists fairly equally. This is encouraging as it suggests interoperability should be achievable among the schemas. Equally, it might lead one to ask why there should be three separate schemas.
+            </p>
+            <p>The answer lies in <xref ref-type="table" rid="T2">Table 2</xref>. This table shows a greater range of answers to its questions, each schema with its own strengths, weaknesses and associated editorial practices. Reading this table in conjunction with the main text of this paper, we can see that each schema is focused on a different user need.
+            </p>
+            <p>TaxonX addresses core data requirements of working taxonomists. <xref ref-type="table" rid="T2">Table 2</xref> shows that it focuses on the three core elements required by taxonomists: treatments, names, and taxonomic and nomenclatural acts. Its use in Plazi has shown how it can successfully meet this basic user need. The focus on taxon treatments has led to some exciting developments towards making the data available as RDF triples in conjunction with GBIF or through the Species Model transfer (SPM) to the Encyclopedia of Life. This development will permit greater linking of taxonomic data across repositories.
+            </p>
+            <p>TaxPub addresses the need to ensure that data in new publications is immediately accessible. Being specifically targeted at new literature, it can avoid many of the problems applicable only to historic literature (leading in <xref ref-type="table" rid="T2">Table 2</xref> the frequent statement ‘n/a in prospective publishing’). This focus has allowed TaxPub not only to be successfully piloted as a publication tool, but for systems using the schema to automatically populate other resources, such as Plazi and Species-ID, and the prospect of generating treatments from and uploading to databases. Hence, data in the new text are immediately available for other researchers. In addition, <xref ref-type="table" rid="T2">table 2</xref> shows it is the schema most suited to archival use as befits a schema targeted at publication and derived from JATS (Journal Archiving and Interchange Tag Suite - <ext-link ext-link-type="uri" xlink:href="http://dtd.nlm.nih.gov/" xlink:type="simple">http://dtd.nlm.nih.gov/</ext-link>).
+            </p>
+            <p>TaXMLit provides the richest mark-up of the three schemas. <xref ref-type="table" rid="T2">Table 2</xref> shows it handles a greater range of data and in more detail than the other schemas and, for example, is the only schema that can handle a change in geographic place name since publication. However, this richness comes at a cost, since to efficiently exploit the data within a series of taXMLit texts they are ideally converted to a searchable database (as exemplified by INOTAXA), and to create a fully marked-up text is both time consuming and requires expert input. The future development goals for taXMLit include <!--PageBreak-->greater automation of mark-up, and a possible lightweight derivative taXMLite. The full taXMLit schema best serves the needs of a wide variety of researchers, and for those who wish to trawl the data as opposed to answer pre-defined questions, such as those working on the impact of climate change.
+            </p>
+            <p>Therefore, we may conclude that having three solutions to the one problem of marking up taxonomic literature is appropriate because each schema addresses a different user need. TaxPub is the most suitable for born-digital literature, and the mark-up can be achieved at relatively low cost. There are few technical hurdles, for example, as the source material is already in digital format; and if there are ambiguities in the text they can be presented to the author(s) while they prepare their text. However, in focusing on new literature, TaxPub is not meant for handling historic texts (although there is an archival version in JATS that is designed for legacy literature, and might not only be used for mark-up but could also be submitted to PubMedCentral; this version, however, has not yet been customized for taxonomy). In contrast, both TaxonX and taXMLit can handle the issues that accompany historic texts. TaxonX focuses on taxon treatments, whereas taXMLit covers all data within a text. Hence, TaxonX is easier and cheaper to mark-up, but the results are not as widely usable as they would be had the original text been marked up in taXMLit. There is a clear need to understand the cost-benefit of marking up texts to assist users to decide which of the two schemas is more appropriate for them.</p>
+            <p>All three schemas have a role to play in ViBRANT. Both TaxonX and taXMLit could benefit from ViBRANT’s investigations into the use of citizen scientists to review texts and the use of automatic tools for data mining historic literature. This aims to enhance the accuracy of the data extracted, and to reduce the cost and time required to produce the mark-up. TaxPub at the same time will allow ViBRANT to publish its content in a semantically enhanced and state of the art way that not only provides the already proven option for easy dissemination of its content as well as provide a stable archive of the valuable content created through ViBRANT’s infrastructure.</p>
+            <p>This paper has discussed a means of achieving more use of the data in taxonomic literature by making that data easier to share, search, link, and combine, especially through semantic enhancement, and by exposing the data to new automated analytical techniques such as data mining. To achieve these goals, it is necessary to apply some form of structure to the literature. In the context of taxonomic literature mark-up we are fortunate to have seen the development of these three schemas to apply structure, for each addresses a particular user need. In addition, the schemas’ common coverage assures us that the core data they contain can be converted from one schema to another, and so could be equally accessible to any tool-sets developed to exploit each schema. This is true now of marked up taxonomic literature and is also true of future marked up taxonomic literature, whether newly written born-digital texts or digitised historic texts. These are the tools to support our advance towards liberating the data stored in taxonomic literature or to prevent their confinement from begin with.<!--PageBreak--></p>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Evaluation of the three most widely used schemas for taxonomy mark-up (taxonX, TaxPub, taXMLit) with regard to availability of key text structure elements. Legend: “-” absent; “+” present, but needs further development; ++ available. Notes in table: <sup>1 </sup>TaxonXhas a focus on treatments;<sup> 2</sup> taXMLIt bibliographic metadata can be mapped to MODs etc; <sup>3</sup> taXMLit recognises a more inclusive definition of taxon treatments and marks all the same way; <sup>4</sup>taXMLit marks citations, nomenclature, specimens, distributions and elements within these in detail, and identifies paragraph types; no further granularity is planned; <sup>5</sup>The intention is that it can be mapped; <sup>6</sup>Can be mapped to DC2; <sup>7</sup>Reference lists, in-text citations of bibliographic references, but only generic link between both.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Criteria</bold>
+                            </td>
+                            <td rowspan="1" colspan="1"><bold>Taxon X</bold>
+                            </td>
+                            <td rowspan="1" colspan="1"><bold>TaxPub</bold>
+                            </td>
+                            <td rowspan="1" colspan="1"><bold>taXMLit</bold>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Overall structure of document captured</td>
+                            <td rowspan="1" colspan="1">n/a<sup>1</sup>
+                            </td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Bibliographic metadata: uses / can be mapped to current widely adopted standards (NLM, BibTex, MARC, MODS, etc)</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+<sup>2</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Taxon name mark-up fully granular, including names, ranks and authorities</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+</td>
+                            <td rowspan="1" colspan="1">++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Nomenclatural acts: use of controlled vocabularies and normalized (standardized) tags for different acts</td>
+                            <td rowspan="1" colspan="1">+</td>
+                            <td rowspan="1" colspan="1">+</td>
+                            <td rowspan="1" colspan="1">+</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Taxon treatments (as defined in text) delimited within texts</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++<sup>3</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Internal structure of treatments – level of mark-up granularity</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++<sup>4</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Nomenclature section of treatments (names, authorities, synonyms separately tagged)</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Species occurrence data (Localities): compliance to <xref ref-type="bibr" rid="B16">Darwin Core</xref>; formats for use of geographical coordinates</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++<sup>5</sup>
+                            </td>
+                            <td rowspan="1" colspan="1">++<sup>6</sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Reference lists, in-text citations and links between both</td>
+                            <td rowspan="1" colspan="1">+<sup>7</sup>
+                            </td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Accommodates persistent identifiers (UUID, GUID, LSIDs, DOI etc.) to identify different elements (taxon names, publications, treatments, datasets, keys, phylogenetic trees etc.)</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Permits annotation so original text and annotation both visible to user</td>
+                            <td rowspan="1" colspan="1">+/- </td>
+                            <td rowspan="1" colspan="1">n/a</td>
+                            <td rowspan="1" colspan="1">+</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap position="float" orientation="portrait" id="T2">
+                <label>Table 2.</label>
+                <caption><p>Evaluation of editorial and mark-up practices employed by main users of the three most widely used schemas (taxonX, TaxPub, taXMLit) in retrospective mark-up of historical taxonomic literature. Legend: “-” weak; “+” present, but needs further development; “++” good; “+++” very good.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Criteria</th>
+                            <th rowspan="1" colspan="1">taxonX</th>
+                            <th rowspan="1" colspan="1">TaxPub</th>
+                            <th rowspan="1" colspan="1">taXMLit</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1) What are the tolerances for text accuracy?</td>
+                            <td rowspan="1" colspan="1">Generally high – structural mark-up generation is mostly independent of text, detail mark-up to some degree depends on text accuracy - text accuracy is checked during mark-up generation</td>
+                            <td rowspan="1" colspan="1">n/a in prosepective publishing.</td>
+                            <td rowspan="1" colspan="1">Text accuracy managed through pre-mark-up checking manually and through processes developed in ABLE project (<xref ref-type="bibr" rid="B21">Morse et al. 2009</xref>)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2) What are the editorial policies for, among others:</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">a) corrections/retention of typos and other errors in the text</td>
+                            <td rowspan="1" colspan="1">Retained if in original publication</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Retained If in original publication; some corrections marked as implicit if unequivocal.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">b) interpretation of unclear text</td>
+                            <td rowspan="1" colspan="1">What is “unclear text”? Abbreviated or omitted taxonomic epithets are disambiguated or filled in, respectively, during mark-up generation</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Use ‘implicit’ attribute for unequivocal clarification; if reliant on subjective interpretation not changed.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">c) choice of “copy-text”, i.e., the exemplar from which the digitized version of the text will be made. It is highly unlikely that every copy of any edition of a work will have exactly the same text </td>
+                            <td rowspan="1" colspan="1">Probably not relevant to TaxonX – most documents marked are journals or journal articles, which extremely rarely have more than one edition</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Source copy text in large institutional libraries. Possibility for multiple copies of same work to be uploaded if marked up. Within texts treat cancels and cancellands separately.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3) What are the policies and practices for normalization and other annotation, such as:</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">a) expansion of abbreviations</td>
+                            <td rowspan="1" colspan="1">Abbreviations get tagged, data they imply stored in DwC children of dedicated tax:xmldata element, but not widely used as of yet</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Use of ‘implicit’ attribute for unequivocal expansions (e.g. generic names, author names)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">b) normalization of taxon names, personal names, corporate names, etc.</td>
+                            <td rowspan="1" colspan="1">Taxon names atomized, epithets expanded or filled in where abbreviated or missing, normalized epithets stored in DwC children of dedicated tax:xmldata elementNo normalization for person or corporate names as of yet</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Primarily reproduced as original; in some cases for both taxon names and person names, some normalization occurs in a separate part of the mark-up. Facility for linking synonyms of Parties / Agents outside text in place through INOTAXA.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">c) modernization of archaic or changed place names (e.g., Rhodesia/Zimbabwe)</td>
+                            <td rowspan="1" colspan="1">None as of yet</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Primarily reproduced as original; also has ability to capture an ‘interpreted’ place name. Facility for searching forms of changed place names being developed in INOTAXA.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">d) annotation and other editorialization, as for example, correction of incorrect taxon names, assignment of coordinates to location names</td>
+                            <td rowspan="1" colspan="1">Actual taxon name stays as in original publication, normalized epithets stored in DwC children of dedicated tax:xmldata element usually contain correct value</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">Primarily reproduced as original; also has ability to capture corrections and additions as ‘interpreted’ data and, for added coordinates, using a ‘source’ attribute,</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4) What are the textual objects of interest which will be encoded (i.e., do not aim to tag everything). What is in scope, and what is not? What has the highest priority?</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">treatments</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++ (high)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">keys</td>
+                            <td rowspan="1" colspan="1">+</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+++ (high)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Phylogenetic and other trees</td>
+                            <td rowspan="1" colspan="1">+</td>
+                            <td rowspan="1" colspan="1">+</td>
+                            <td rowspan="1" colspan="1">++ (low)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Front and back matter</td>
+                            <td rowspan="1" colspan="1">-</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++ (medium)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Discussion paragraphs</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++ (medium)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Names</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++ (high)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Specimen data</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+++ (high)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Taxonomic and nomenclatural acts</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">++ (medium)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">bibliographies</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++ (medium)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">other</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Front and Back Mattersection types, image legends, indexes</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5) What are the purposes of the mark-up? One just cannot “tag everything”, as no single encoding of a text is going to be equally suitable for all thinkable purposes. Three main categories can be seen as:</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">a) rendition/representation of the text in HTML, PDF, ePub, or other formats</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">b) archiving of the text for long term preservation</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">c) analysis, data mining, and other processing</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                            <td rowspan="1" colspan="1">++</td>
+                            <td rowspan="1" colspan="1">+++</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6) What are the policies and practices for the handing of non-textual features such as illustrations, inserted plates, fold-out maps, etc.?</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">a) how should multi-column text be handled?</td>
+                            <td rowspan="1" colspan="1">Multi-column text normalized into single column</td>
+                            <td rowspan="1" colspan="1">According to NLM publishing and archiving Tag Suite.</td>
+                            <td rowspan="1" colspan="1">Currently most layout elements such as this are ignored unless columns numbered separately in original, in which case each column is treated as if it were a page.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">b) what are the policies and practices regarding overlapping hierarchies in the text (say, a significant section starts in one chapter and concludes in another chapter of a book)?</td>
+                            <td rowspan="1" colspan="1">Not encountered so far, so no respective policy – most documents marked in TaxonX are journals or journal articles, which next to never exhibit overlapping hierarchies</td>
+                            <td rowspan="1" colspan="1">n/a in prospective publishing</td>
+                            <td rowspan="1" colspan="1">+ treatments are dated from the first date of publication; supplements handled separately.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The current work is funded in part by the ViBRANT (Virtual Biodiversity Research and Access Network for Taxonomy, <ext-link ext-link-type="uri" xlink:href="http://vbrant.eu" xlink:type="simple">http://vbrant.eu</ext-link>) FP7 project. We also thank all the numerous colleagues who helped in the establishment of the schemas in one way or another, mostly by comments, testing or providing working examples.
+            </p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ABCD</surname></name></person-group><source> - Access to Biological Collection Data - a joint CODATA and TDWG initiative.</source> <ext-link ext-link-type="uri" xlink:href="http://www.bgbm.org/TDWG/CODATA/" xlink:type="simple">http://www.bgbm.org/TDWG/CODATA/</ext-link>)</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Egloff</surname><given-names>W</given-names></name></person-group> (<year>2009</year>)<source> Taxonomic information exchange and copyright: the Plazi approach. BMC Research Notes 2: 53. <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1756-0500/2/53" xlink:type="simple">http://www.biomedcentral.com/1756-0500/2/53</ext-link> </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1756-0500-2-53" xlink:type="simple">doi: 10.1186/1756-0500-2-53</ext-link></mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Klingenberg</surname><given-names>C</given-names></name><name name-style="western"><surname>Sautter</surname><given-names>G</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>N</given-names></name><name name-style="western"><surname>Stephenson</surname><given-names>C</given-names></name><name name-style="western"><surname>Catapano</surname><given-names>T</given-names></name></person-group> (<year>2007</year>)<source> Why not let the computer save you time by reading the taxonomic papers for you? Biológico, São Paulo 69 (suplemento 2): 545–548. <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/10199/15441" xlink:type="simple">http://hdl.handle.net/10199/15441</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blagoderov</surname><given-names>V</given-names></name><name name-style="western"><surname>Brake</surname><given-names>I</given-names></name><name name-style="western"><surname>Georgiev</surname><given-names>T</given-names></name><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name><name name-style="western"><surname>Rycroft</surname><given-names>S</given-names></name><name name-style="western"><surname>Scott</surname><given-names>B</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Catapano</surname><given-names>T</given-names></name><name name-style="western"><surname>Smith</surname><given-names>VS</given-names></name></person-group> (<year>2010a</year>)<article-title> Streamlining taxonomic publication: a working example with Scratchpads and ZooKeys.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>17</fpage>-<lpage>28</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.539" xlink:type="simple">doi: 10.3897/zookeys.50.539</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blagoderov</surname><given-names>V</given-names></name><name name-style="western"><surname>Hippa</surname><given-names>H</given-names></name><name name-style="western"><surname>Nel</surname><given-names>A</given-names></name></person-group> (<year>2010b</year>)<article-title> <italic>Parisognoriste</italic>, a new genus of Lygistorrhinidae (Diptera, Sciaroidea) from the Oise amber with redescription of Palaeognoriste Meunier.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>79</fpage>-<lpage>90</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.506" xlink:type="simple">doi: 10.3897/zookeys.50.506</ext-link></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brake</surname><given-names>I</given-names></name><name name-style="western"><surname>von Tschirnhaus</surname><given-names>M</given-names></name></person-group> (<year>2010</year>)<article-title> Stomosis arachnophila sp. n., a new kleptoparasitic species of freeloader flies (Diptera, Milichiidae).</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>91</fpage>-<lpage>96</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.505" xlink:type="simple">doi: 10.3897/zookeys.50.505</ext-link></mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Catapano</surname><given-names>T</given-names></name></person-group> (<year>2010</year>)<source> TaxPub: An extension of the NLM/NCBI Journal Publishing DTD for taxonomic descriptions. Proceedings of the Journal Article Tag Suite Conference 2010. <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/books/NBK47081/#ref2" xlink:type="simple">http://www.ncbi.nlm.nih.gov/books/NBK47081/#ref2</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Catapano</surname><given-names>T</given-names></name><name name-style="western"><surname>Weitzman</surname><given-names>AL</given-names></name></person-group> (<year>2007</year>)<source> Progress in making literature easily accessible: schemas and marking up TaxonX / Goldengate &amp; taXMLit / INOTAXA. TDWG Annual Meeting 2007. <ext-link ext-link-type="uri" xlink:href="http://wiki.tdwg.org/twiki/pub/Literature/WebHome/Catapano_Weitzman_Markup_Final.pdf" xlink:type="simple">http://wiki.tdwg.org/twiki/pub/Literature/WebHome/Catapano_Weitzman_Markup_Final.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cui</surname><given-names>H</given-names></name></person-group> (<year>2008a</year>)<source> Converting Taxonomic Descriptions To New Digital Formats. Biodiversity Informatics 5: 20–40 <ext-link ext-link-type="uri" xlink:href="https://journals.ku.edu/index.php/jbi/article/view/46/1551" xlink:type="simple">https://journals.ku.edu/index.php/jbi/article/view/46/1551</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cui</surname><given-names>H</given-names></name></person-group> (<year>2008b</year>)<source> Approaches to Semantic Mark-up for Natural Heritage Literature. Proceedings of the iConference 2008. <ext-link ext-link-type="uri" xlink:href="http://ischools.org/conference08/pc/PA5-2_iconf08.doc" xlink:type="simple">http://ischools.org/conference08/pc/PA5-2_iconf08.doc</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cui</surname><given-names>H</given-names></name><name name-style="western"><surname>Heidorn</surname><given-names>PB</given-names></name></person-group> (<year>2007</year>)<source> The reusability of induced knowledge for the automatic semantic mark-up of taxonomic descriptions. Journal of the American Society for Information Science and Technology. 58(1): 133–149. <ext-link ext-link-type="uri" xlink:href="http://www3.interscience.wiley.com/cgi-bin/fulltext/113466052/PDFSTART" xlink:type="simple">http://www3.interscience.wiley.com/cgi-bin/fulltext/113466052/PDFSTART</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Cui</surname><given-names>H</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Sanyal</surname><given-names>PP</given-names></name></person-group> (<year>2010a</year>)<source> From Text to RDF Triple Store: An Application for Biodiversity Literature[Demo]. Proceedings of the 73rd ASIS&amp;T Annual Meeting v. 47. Oct 22–27, 2010. Pittsburg, PA. <ext-link ext-link-type="uri" xlink:href="http://www.asis.org/asist2010/proceedings/proceedings/ASIST_AM10/submissions/415_Final_Submission.pdf" xlink:type="simple">http://www.asis.org/asist2010/proceedings/proceedings/ASIST_AM10/submissions/415_Final_Submission.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cui</surname><given-names>H</given-names></name><name name-style="western"><surname>Boufford</surname><given-names>D</given-names></name><name name-style="western"><surname>Selden</surname><given-names>P</given-names></name></person-group> (<year>2010b</year>)<source>. Semantic Annotation of Biosystematics Literature without Training Examples. Journal of American Society of Information Science and Technology. 61 (3): 522–542. <ext-link ext-link-type="uri" xlink:href="http://harvard.academia.edu/DavidBoufford/Papers/740926/Semantic_annotation_of_biosystematics_literature_without_training_examples" xlink:type="simple">http://harvard.academia.edu/DavidBoufford/Papers/740926/Semantic_annotation_of_biosystematics_literature_without_training_examples</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Curry</surname><given-names>GB</given-names></name><name name-style="western"><surname>Connor,</surname><given-names>RJ</given-names></name></person-group> (<year>2007</year>)<source> Automated extraction of biodiversity data from taxonomic descriptions. In: Curry GB, Humphries CJ (Eds) Biodiversity databases: Techniques, politics, and applications: Systematics Association Special Volume 73: Boca Raton, Florida, CRC Press, Chapter 6: 63–81.
+</source></mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Curry</surname><given-names>GB</given-names></name><name name-style="western"><surname>Connor</surname><given-names>RCH</given-names></name></person-group> (<year>2008</year>)<article-title> Automated extraction of data from text using an XML parser: An earth science example using fossil descriptions.</article-title> <source>Geosphere </source> <volume>4</volume> (<issue>1</issue>): <fpage>159</fpage>-<lpage>169</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Darwin Core</surname></name></person-group> (<year>2008</year>)<source> <ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/" xlink:type="simple">http://rs.tdwg.org/dwc/</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hagedorn</surname><given-names>G</given-names></name><name name-style="western"><surname>Thiele</surname><given-names>K</given-names></name><name name-style="western"><surname>Morris</surname><given-names>R</given-names></name><name name-style="western"><surname>Heidorn</surname><given-names>PB</given-names></name></person-group> (<year>2005</year>)<source> The Structured Descriptive Data (SDD) w3c-xml-schema, version 1.0. <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/standards/116/" xlink:type="simple">http://www.tdwg.org/standards/116/</ext-link>.
+</source></mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heidorn</surname><given-names>PB</given-names></name><name name-style="western"><surname>Cui</surname><given-names>H</given-names></name><name name-style="western"><surname>Yu</surname><given-names>B</given-names></name><name name-style="western"><surname>Wu</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name></person-group> (<year>2002</year>)<source> Taxonomic description creation, search and display in XML. Abstract. Botany 2002. <ext-link ext-link-type="uri" xlink:href="http://www.isrl.illinois.edu/~pheidorn/papers/Botany2002Abstract.pdf" xlink:type="simple">http://www.isrl.illinois.edu/~pheidorn/papers/Botany2002Abstract.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kirkup</surname><given-names>D</given-names></name><name name-style="western"><surname>Malcolm</surname><given-names>P</given-names></name><name name-style="western"><surname>Christian</surname><given-names>G</given-names></name><name name-style="western"><surname>Paton</surname><given-names>A</given-names></name></person-group> (<year>2005</year>)<article-title> Towards a digital African Flora.</article-title> <source>Taxon </source> <volume>5</volume> (<issue>2</issue>): <fpage>457</fpage>-<lpage>466</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lyal</surname><given-names>CHC</given-names></name><name name-style="western"><surname>Weitzman</surname><given-names>L</given-names></name></person-group> (<year>2008</year>)<source> Releasing the content of taxonomic papers: solutions to access and data mining. Proceedings of the BNCOD Workshop “Biodiversity Informatics: challenges in modelling and managing biodiversity knowledge” <ext-link ext-link-type="uri" xlink:href="http://biodiversity.cs.cf.ac.uk/bncod/LyalAndWeitzman.pdf" xlink:type="simple">http://biodiversity.cs.cf.ac.uk/bncod/LyalAndWeitzman.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Morse</surname><given-names>D</given-names></name><name name-style="western"><surname>Dil</surname><given-names>A</given-names></name><name name-style="western"><surname>King</surname><given-names>D</given-names></name><name name-style="western"><surname>Willis</surname><given-names>A</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name><name name-style="western"><surname>Lyal</surname><given-names>C</given-names></name></person-group> (<year>2009</year>)<source> Improving search in scanned documents: Looking for OCR mismatches.  In:  Bernardi R, Chambers S, Gottfried B (Eds) Proceedings of the workshop on advanced technologies for digital libraries (AT4DL 2009): 58–61 <ext-link ext-link-type="uri" xlink:href="http://www.unibz.it/en/public/universitypress/publications/all/Documents/9788860460301.pdf" xlink:type="simple">http://www.unibz.it/en/public/universitypress/publications/all/Documents/9788860460301.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Murray-Rust</surname><given-names>P</given-names></name><name name-style="western"><surname>Rzepa</surname><given-names>HS</given-names></name></person-group> (<year>2002</year>)<article-title> Scientific publications in XML - towards a global knowledge base.</article-title> <source>Data Science </source> <volume>1</volume>: <fpage>84</fpage>-<lpage>98</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Parr</surname><given-names>CS</given-names></name><name name-style="western"><surname>Lyal</surname><given-names>CHC</given-names></name></person-group> (<year>2007</year>)<source> Use cases for online taxonomic literature from taxonomists, conservationists, and others. TDWG Annual Conference, Slovakia <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/proceedings/article/view/269" xlink:type="simple">http://www.tdwg.org/proceedings/article/view/269</ext-link>.
+</source></mixed-citation>
+            </ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Georgiev</surname><given-names>T</given-names></name><name name-style="western"><surname>Catapano</surname><given-names>T</given-names></name><name name-style="western"><surname>Miller</surname><given-names>J</given-names></name><name name-style="western"><surname>Blagoderov</surname><given-names>V</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name><name name-style="western"><surname>Smith</surname><given-names>V</given-names></name><name name-style="western"><surname>Brake</surname><given-names>I</given-names></name><name name-style="western"><surname>Ryrcroft</surname><given-names>S</given-names></name><name name-style="western"><surname>Scott</surname><given-names>B</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>N</given-names></name><name name-style="western"><surname>Morris</surname><given-names>R</given-names></name><name name-style="western"><surname>Sautter</surname><given-names>G</given-names></name><name name-style="western"><surname>Chavan</surname><given-names>V</given-names></name><name name-style="western"><surname>Robertson</surname><given-names>T</given-names></name><name name-style="western"><surname>Remsen</surname><given-names>D</given-names></name><name name-style="western"><surname>Stoev</surname><given-names>P</given-names></name><name name-style="western"><surname>Parr</surname><given-names>C</given-names></name><name name-style="western"><surname>Knapp</surname><given-names>S</given-names></name><name name-style="western"><surname>Kress</surname><given-names>W</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>C</given-names></name><name name-style="western"><surname>Erwin</surname><given-names>T</given-names></name></person-group> (<year>2010a</year>)<article-title> Semantic tagging of and semantic enhancements to systematics papers: ZooKeys working examples.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>1</fpage>-<lpage>16</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.538" xlink:type="simple">doi: 10.3897/zookeys.50.538</ext-link></mixed-citation>
+            </ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name><name name-style="western"><surname>Smith</surname><given-names>V</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Erwin</surname><given-names>T</given-names></name></person-group> (<year>2010b</year>)<article-title> Taxonomy shifts up a gear: New publishing tools to accelerate biodiversity research.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>1</fpage>-<lpage>4</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.543" xlink:type="simple">doi: 10.3897/zookeys.50.543</ext-link></mixed-citation>
+            </ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name><name name-style="western"><surname>Hagedorn</surname><given-names>G</given-names></name><name name-style="western"><surname>Mietchen</surname><given-names>D</given-names></name><name name-style="western"><surname>Georgiev</surname><given-names>T</given-names></name><name name-style="western"><surname>Stoev</surname><given-names>P</given-names></name><name name-style="western"><surname>Sautter</surname><given-names>G</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Plank</surname><given-names>A</given-names></name><name name-style="western"><surname>Balke</surname><given-names>M</given-names></name><name name-style="western"><surname>Hendrich</surname><given-names>L</given-names></name><name name-style="western"><surname>Erwin</surname><given-names>T</given-names></name></person-group> (<year>2011</year>)<article-title> Interlinking journal and wiki publications through joint citation: Working examples from ZooKeys and Plazi on Species-ID.</article-title> <source>ZooKeys </source> <volume>90</volume>: <fpage>1</fpage>-<lpage>12</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.90.1369" xlink:type="simple">doi: 10.3897/zookeys.90.1369</ext-link></mixed-citation>
+            </ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pyle</surname><given-names>RL</given-names></name><name name-style="western"><surname>Earle</surname><given-names>JL</given-names></name><name name-style="western"><surname>Greene</surname><given-names>BD</given-names></name></person-group> (<year>2008</year>)<article-title> Five new species of the damselfish genus <italic>Chromis</italic> (Perciformes: Labroidei: Pomacentridae) from deep coral reefs in the tropical western Pacific.</article-title> <source>Zootaxa </source> <volume>1671</volume>: <fpage>3</fpage>-<lpage>31</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sautter</surname><given-names>G</given-names></name><name name-style="western"><surname>Böhm</surname><given-names>K</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name></person-group> (<year>2007</year>)<source> A Quantitative Comparison of XML Schemas for Taxonomic Publications. Biodiversity Informatics 4: 1–13. <ext-link ext-link-type="uri" xlink:href="https://journals.ku.edu/index.php/jbi/article/view/36" xlink:type="simple">https://journals.ku.edu/index.php/jbi/article/view/36</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sautter</surname><given-names>G</given-names></name><name name-style="western"><surname>Agosti</surname><given-names>D</given-names></name><name name-style="western"><surname>Böhm</surname><given-names>K</given-names></name></person-group> (<year>2007a</year>)<source> Semi-Automated XML Markup of Biosystematics Legacy Literature with the GoldenGATE Editor. Proceedings of PSB 2007, Wailea, HI, USA, 2007. <ext-link ext-link-type="uri" xlink:href="http://psb.stanford.edu/psb-online/proceedings/psb07/sautter.pdf" xlink:type="simple">http://psb.stanford.edu/psb-online/proceedings/psb07/sautter.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stoev</surname><given-names>P</given-names></name><name name-style="western"><surname>Akkari</surname><given-names>N</given-names></name><name name-style="western"><surname>Zapparoli</surname><given-names>M</given-names></name><name name-style="western"><surname>Porco</surname><given-names>D</given-names></name><name name-style="western"><surname>Enghoff</surname><given-names>H</given-names></name><name name-style="western"><surname>Edgecombe</surname><given-names>GD</given-names></name><name name-style="western"><surname>Georgiev</surname><given-names>T</given-names></name><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name></person-group> (<year>2010b</year>)<article-title> The centipede genus <italic>Eupolybothrus</italic> Verhoeff, 1907 (Chilopoda: Lithobiomorpha: Lithobiidae) in North Africa, a cybertaxonomic revision, with a key to all species in the genus and the first use of DNA barcoding for the group.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>29</fpage>-<lpage>77</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.504" xlink:type="simple">doi: 10.3897/zookeys.50.504</ext-link></mixed-citation>
+            </ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Taekul</surname><given-names>C</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>NF</given-names></name><name name-style="western"><surname>Masner</surname><given-names>L</given-names></name><name name-style="western"><surname>Polaszek</surname><given-names>A</given-names></name><name name-style="western"><surname>Rajmohana</surname><given-names>K</given-names></name></person-group> (<year>2010</year>)<article-title> World species of the genus Platyscelio Kieffer (Hymenoptera, Platygastridae).</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>97</fpage>-<lpage>126</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.485" xlink:type="simple">doi: 10.3897/zookeys.50.485</ext-link></mixed-citation>
+            </ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>TDWG</surname></name></person-group> (<year>2007</year> onwards) <source>TDWG: standards. Biodiversity Information Standards.</source> <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/standards/" xlink:type="simple">http://www.tdwg.org/standards/</ext-link></mixed-citation>
+            </ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weitzman</surname><given-names>AL</given-names></name><name name-style="western"><surname>Lyal</surname><given-names>CHC</given-names></name></person-group> (<year>2004</year>)<source> An XML schema for taxonomic literature – taXMLit - <ext-link ext-link-type="uri" xlink:href="http://www.sil.si.edu/digitalcollections/bca/documentation/taXMLitv1-3Intro.pdf" xlink:type="simple">http://www.sil.si.edu/digitalcollections/bca/documentation/taXMLitv1-3Intro.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weitzman</surname><given-names>AL</given-names></name><name name-style="western"><surname>Lyal</surname><given-names>CHC</given-names></name></person-group> (<year>2006</year>)<source> INOTAXA — INtegrated Open TAXonomic Access and the “<italic>Biologia Centrali-Americana</italic>”. Proceedings Of The Contributed Papers Sessions Biomedical And Life Sciences Division, SLA. 8pp. <ext-link ext-link-type="uri" xlink:href="http://units.sla.org/division/dbio/Baltimore/index.html" xlink:type="simple">http://units.sla.org/division/dbio/Baltimore/index.html</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Willis</surname><given-names>A</given-names></name><name name-style="western"><surname>King</surname><given-names>D</given-names></name><name name-style="western"><surname>Morse</surname><given-names>D</given-names></name><name name-style="western"><surname>Dil</surname><given-names>A</given-names></name><name name-style="western"><surname>Lyal</surname><given-names>C</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name></person-group> (<year>2010</year>)<source> From XML to XML: The Why and How of Making the Biodiversity Literature Accessible to Researchers. Proceedings of the Seventh conference on International Language Resources and Evaluation (LREC’10). Valletta, Malta: European Language Resources Association (ELRA). <ext-link ext-link-type="uri" xlink:href="http://www.lrec-conf.org/proceedings/lrec2010/pdf/787_Paper.pdf" xlink:type="simple">http://www.lrec-conf.org/proceedings/lrec2010/pdf/787_Paper.pdf</ext-link></source></mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

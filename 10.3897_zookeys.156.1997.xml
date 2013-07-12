@@ -1,0 +1,668 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.156.1997</article-id>
+            <title-group>
+                <article-title>Detecting taxonomic signal in an under-utilised character system: geometric morphometrics of the forcipular coxae of Scutigeromorpha (Chilopoda)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Gutierrez</surname>
+                        <given-names>Beatriz Lopez</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>MacLeod</surname>
+                        <given-names>Norman</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Edgecombe</surname>
+                        <given-names>Gregory D.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biological Sciences, Imperial College, London SW7 2AZ, UK
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Palaeontology, The Natural History Museum, Cromwell Road, London SW7 5BD, UK
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Gregory D. Edgecombe (<email xlink:type="simple">g.edgecombe@nhm.ac.uk</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: M. Zapparoli</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>12</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>156</issue>
+            <fpage>49</fpage>
+            <lpage>66</lpage>
+            <history>
+                <date date-type="received">
+                    <day>1</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Beatriz Lopez Gutierrez, Norman MacLeod, Gregory D. Edgecombe</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>To date, the forcipules have played almost no role in determining the systematics of scutigeromorph centipedes though in his 1974 review of taxonomic characters Markus Würmli suggested some potentially informative variation might be found in these structures. Geometric morphometric analyses were used to evaluate Würmli’s suggestion, specifically to determine whether the shape of the forcipular coxa contains information useful for diagnosing species. The geometry of the coxae of eight species from the genera <italic><tp:taxon-name>Sphendononema</tp:taxon-name></italic>, <italic><tp:taxon-name>Scutigera</tp:taxon-name></italic>, <italic><tp:taxon-name>Dendrothereua</tp:taxon-name></italic>, <italic><tp:taxon-name>Thereuonema</tp:taxon-name></italic>, <italic><tp:taxon-name>Thereuopoda</tp:taxon-name></italic>, <italic><tp:taxon-name>Thereuopodina</tp:taxon-name></italic>, <italic><tp:taxon-name>Allothereua</tp:taxon-name></italic> and <italic><tp:taxon-name>Parascutigera</tp:taxon-name></italic> was characterised using a combination of landmark- and semi-landmark-based sampling methods to summarize group-specific morphological variation. Canonical variates analysis of shape data characterizing the forcipular coxae indicates that these structures differ significantly between taxa at various systematic levels. Models calculated for the canonical variates space facilitate identification of the main shape differences between genera, including overall length/width, curvature of the external coxal margin, and the extent to which the coxofemoral condyle projects laterally. Jackknifed discriminant function analysis demonstrates that forcipular coxal training-set specimens were assigned to correct species in 61% of cases on average, the most accurate assignments being those of <italic><tp:taxon-name>Parascutigera</tp:taxon-name></italic> (<italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic>) and <italic><tp:taxon-name>Thereuonema</tp:taxon-name></italic> (<italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic>). The geographically widespread species <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic>, <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic>, <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic>, and <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> exhibit the least diagnostic coxae in our dataset. <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> populations sampled from different parts of East and Southeast Asia were significantly discriminated from each other, suggesting that, in this case, extensive synonymy may be obscuring diagnosable inter-species coxal shape differences.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Centipedes</kwd>
+                <kwd>forcipules</kwd>
+                <kwd>eigenshape</kwd>
+                <kwd>Procrustes superposition</kwd>
+                <kwd>canonical variates analysis</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The Scutigeromorpha (Chilopoda) is the only extant representative of the centipede subclass Notostigmophora. These centipedes retain several primitive characters such as compound eyes, a domed head capsule, and deposition of the spermatophore on the ground rather than on a web. These characteristics, together with molecular sequence data, identify them as the sister group of all other centipedes (<xref ref-type="bibr" rid="B18">Murienne et al. 2010</xref>).</p>
+            <p>Scutigeromorph taxonomy in its present form was largely established by K. W. Verhoeff in a series of studies that spanned the first half of the 20<sup>th</sup> century. <xref ref-type="bibr" rid="B22">Verhoeff (1905)</xref> was also the first investigator to present a hypothesis of phylogenetic relationships for the group. He named most of the genera (<xref ref-type="bibr" rid="B21">Verhoeff 1904</xref>, <xref ref-type="bibr" rid="B22">1905</xref>, <xref ref-type="bibr" rid="B23">1925</xref>, <xref ref-type="bibr" rid="B25">1944</xref>) and a large number of species, many of which have been synonymised subsequently (see <xref ref-type="bibr" rid="B26">Würmli 1973a</xref>,<xref ref-type="bibr" rid="B27">b</xref>, <xref ref-type="bibr" rid="B30">1977</xref>, <xref ref-type="bibr" rid="B31">1978</xref>, <xref ref-type="bibr" rid="B32">1979</xref>, <xref ref-type="bibr" rid="B33">2005</xref>). Despite the inclusion of new morphological character data (e.g., from scanning electron microscopy) and extensive molecular sequencing (<xref ref-type="bibr" rid="B6">Edgecombe and Giribet 2006</xref>, <xref ref-type="bibr" rid="B7">2009</xref>), the taxonomy and phylogenetic relationships of the ca 100 valid scutigeromorph species remain controversial, in part because many aspects of this group’s morphology are highly conserved.</p>
+            <p>Among such complex, but apparently conservative, character systems are the forcipules, the appendages of the first trunk segment that are a functional part of the head and house the poison gland. Scutigeromorph forcipular coxae are separated from a vestigial sternite (<xref ref-type="bibr" rid="B17">Manton 1965</xref>) and each coxa bears four long spine-bristles along its anterior margin (<xref ref-type="fig" rid="F1">Fig. 1</xref>). <xref ref-type="bibr" rid="B28">Würmli (1974)</xref> drew attention to the importance of the shape – the relative lengths and widths of the coxa — and the prominences on the inner margin of these structures. However, the degree to which these shape characters can be used to identify taxa (either species or infra/supraspecific groups) reliably has never been subjected to systematic investigation. Indeed, the forcipules have played almost no role in scutigeromorph systematics to date.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Ventral view of head and forcipules of <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> placed in a standard horizontal position. BM 1952.9.8.574-575, Kuching, Sarawak, Malaysia.</p></caption>
+                <graphic xlink:href="ZooKeys-156-049-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>Geometric morphometrics has been used for the past 25 years to quantify biological form via the use of landmark and semi-landmark data (<xref ref-type="bibr" rid="B19">Rohlf and Marcus 1993</xref>, <xref ref-type="bibr" rid="B1">Adams et al. 2004</xref>, <xref ref-type="bibr" rid="B9">MacLeod 2002a</xref>, <xref ref-type="bibr" rid="B10">2002b</xref>, <xref ref-type="bibr" rid="B11">2005</xref>; see also <xref ref-type="bibr" rid="B2">Bolton et al. 2009</xref> for an application to the female gonopods of Scutigeromorpha). Whereas a number of authors have suggested that morphometrics could be useful in resolving traditional taxonomic characters and contributing to taxonomic and phylogenetic analysis (e.g., <xref ref-type="bibr" rid="B9">MacLeod 2002a</xref>), morphometric approaches have traditionally been used to evaluate characters that have been recognized by taxonomists via qualitative inspection. In the case of the scutigeromorph forcipules, despite their morphological complexity these structures have defeated qualitative analysis; taxonomically and phylogenetically <!--PageBreak-->informative morphological characters have necessarily been sourced from other parts of the body.</p>
+            <p>The primary objective of this investigation was to determine the degree which the forcipular coxae can be used to characterise scutigeromorph taxonomic and phylogenetic groups accurately based on an assessment of their shape. In doing so, we also explored the extent to which Procrustes principal component analysis (see <xref ref-type="bibr" rid="B15">MacLeod 2010</xref>) as well as canonical variates analysis (CVA) and shape models calculated for the CVA ordination space can help identify characters that add support for existing or alternative taxonomic placements.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec sec-type="Taxonomic sampling">
+                <title>Taxonomic sampling</title>
+                <p>Specimens fixed in ethanol were sourced from The Natural History Museum (London). Specimens of the three Australian species were sourced from the Australian Museum (Sydney) and the Queensland Museum (Brisbane); specimens of two Dominican Republic species were located in the collections of the U.S. National Museum of Natural History.</p>
+                <p>Landmark and outline data were collected for 108 specimens (<xref ref-type="table" rid="T1">Table 1</xref>), representing eight species and eight genera within two of the three scutigeromorph families. The Neotropical/Afrotropical family <tp:taxon-name>Pselliodidae</tp:taxon-name> is here represented by <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic> (Newport, 1844), and the family <tp:taxon-name>Scutigeridae</tp:taxon-name>, where sampling was densest, includes members of both recognized subfamilies, <tp:taxon-name>Scutigerinae</tp:taxon-name> and <tp:taxon-name>Thereuoneminae</tp:taxon-name>. The <tp:taxon-name>Scutigerinae</tp:taxon-name> were represented by <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic> (Linnaeus, 1758) and <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> (Wood, 1867); the <tp:taxon-name>Thereuoneminae</tp:taxon-name> by <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> (Meinert, 1886), <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> (Fabricius, 1793), <italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic> Verhoeff, 1925, <italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic> (Newport, 1844), and <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic> Verhoeff, 1904. All species were chosen on the basis of being members of accessible collections with sample size adequate for statistical analysis, and to represent a broad sample of generic/subfamilial diversity. The remaining scutigeromorph family, <tp:taxon-name>Scutigerinidae</tp:taxon-name>, was not included as too few specimens were available. Voucher details for all specimens used in this study are listed in the Appendix (Table 1 therein).</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Sample number and distribution of species employed in the present study</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Species</bold></td>
+                                <td rowspan="1" colspan="1"><bold>Sample number (N)</bold></td>
+                                <td rowspan="1" colspan="1"><bold>Distribution</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">Central and South America</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">12</td>
+                                <td rowspan="1" colspan="1">Mediterranean, cosmopolitan by introduction</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">North-Central America, Caribbean</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">14</td>
+                                <td rowspan="1" colspan="1">East Africa, Middle East</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">19</td>
+                                <td rowspan="1" colspan="1">India, southeast Asia</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">14</td>
+                                <td rowspan="1" colspan="1">Northeastern Australia</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">Southern Australia</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">18</td>
+                                <td rowspan="1" colspan="1">Northeastern Australia</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold>Total</bold></td>
+                                <td rowspan="1" colspan="1"><bold>108</bold></td>
+                                <td rowspan="1" colspan="1"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>The species concept for <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> follows <xref ref-type="bibr" rid="B27">Würmli (1973b)</xref>, applying this name to populations distributed from the southern U.S. to Panamá. Analyses of molecular data suggest that multiple species may be represented in this aggregation (<xref ref-type="bibr" rid="B7">Edgecombe and Giribet 2009</xref>), but using the traditional concept of a widespread species allows exploring the variability in this taxonomic grouping. Identifications of other widespread species follow their most recent revisions (<italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> = <italic><tp:taxon-name>Thereuonema syriaca</tp:taxon-name></italic>: <xref ref-type="bibr" rid="B29">Würmli 1975</xref>; <xref ref-type="bibr" rid="B20">Stoev and Geoffroy 2004</xref>; <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic>: <xref ref-type="bibr" rid="B30">Würmli 1977</xref>; <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic>: <xref ref-type="bibr" rid="B31">Würmli 1978</xref>; <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic>: Würmli 1979; <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic>: <xref ref-type="bibr" rid="B7">Edgecombe and Giribet 2009</xref>). As in the study of <xref ref-type="bibr" rid="B2">Bolton et al. (2009)</xref>, the name <italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic> is applied to populations from arid parts of New South Wales and South Australia that belong to <italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic> (sensu <xref ref-type="bibr" rid="B23">Verhoeff 1925</xref>), though their conspecificity with the Western Australian type material is dubious.</p>
+                <p>Specimens were chosen so that at least one of the forcipular coxae and the spine bristles on its anterior margin were visible and complete. To minimise the effects of<!--PageBreak--> variation due to potential shape changes in ontogeny, specimens are all mature or nearly mature (maturus and pseudomaturus stages of <xref ref-type="bibr" rid="B21">Verhoeff 1904</xref>) apart from some of the smaller <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic>.</p>
+            </sec>
+            <sec sec-type="Image capture and landmarks">
+                <title>Image capture and landmarks</title>
+                <p>In order to quantify the outline of each forcipular coxa, specimens were placed ventral surface uppermost and pinned to a horizontal standard orientation (i.e., the forcipular coxae positioned as horizontal as possible) (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Each specimen was imaged perpendicularly using a Leica MZ16 stereomicroscope with a Zeiss Axiocam™ high-resolution imaging system.</p>
+                <p>Imaging the specimens in the correct orientation while in alcohol proved difficult as many specimens were not perfectly straight and even the slightest movement disturbed the alcohol and blurred the image. Additionally, the forcipular coxae are not completely flat, rendering some areas of the coxa out of focus. To overcome focusing problems, a stack of images of each specimen at different focal depths was taken and the set then merged to form a single, extended focus composite using HELICON FOCUS™ (Helicon Software Ltd.) software. All composite images were then cropped, placed on a black background, and contrast adjusted using Adobe PHOTOSHOP™ software while referring to the original images for guidance. Images were excluded if (1) the original image stack was insufficiently focused to accurately detect the coxal outline and/or the base of all the spine-bristles, and/or (2) their orientation did not conform to an acceptable standard.</p>
+                <p>Media Cybernetics’ IMAGE-PRO PLUS™ software was used to collect landmarks and outline co-ordinate points from the right and the left coxae individually. Symmetry between the right and left coxae was established (see Results section), and subsequently the left coxal landmark and outline coordinate points were reflected across the <italic>y</italic>-axis, only one coxa being used per specimen to eliminate redundancy. Ten landmarks (<xref ref-type="fig" rid="F2">Fig. 2</xref>) were manually located from the interior to the exterior part of each coxa. The first landmark (L1) was calculated by drawing the longest diagonal line from the anterolateral to the posteromedial edge of the coxa, the second landmark (L2) was placed at the coxofemoral condyle, and landmarks L3-L10 were situated at the base of the projection bearing each spine-bristle. In addition, 100 equally-spaced outline semi-landmark co-ordinate points were obtained by automatic tracing along the mesial, posterior and lateral edges of the image from landmarks L10 to L3. The outline along the anterior margin (from landmarks 3 to 10) was obtained manually as the spine-bristles were not used in the shape analysis. These structures are very fragile and were disarticulated in a large subset of the specimens available or their length was partially obscured by other structures. Accordingly the manual tracing truncated the spine-bristles across their level of insertion into the coxae.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Landmarks (L1-L10) used in morphometric analysis. Diagonal line to L1 is the longest line from anterolateral to posteromedial corners of the coxa. Spine-bristles numbered 1-4 (blue) from interior to exterior. Throughout text, left and right coxae refer to dorsal orientation (inverted 180° relative to this ventral view).</p></caption>
+                    <graphic xlink:href="ZooKeys-156-049-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Shape">
+                <title>Shape</title>
+                <p>Initially, combinations of both landmark and outline data were analysed using routines written in Wolfram Research’s MATHEMATICA<italic>™</italic> software using the semi-landmark sampling protocol described by <xref ref-type="bibr" rid="B8">MacLeod (1999)</xref>. This protocol, part of the extended eigenshape analysis procedure, combines the coordinates of semi-landmark points along the outline and landmarks placed at comparable geometrical points which constrain the sequencing of the boundary coordinate points by forcing them into alignment, thereby reducing the degree of shape variation generated through biological miscorrespondence (<xref ref-type="bibr" rid="B8">MacLeod 1999</xref>). For this investigation a shape accuracy tolerance criterion of 0.975 was used to control the outline interpolation process. The analysis generated a series of <italic>x-y</italic> boundary outline (= semi-landmark) coordinate values that were used to represent the outline shape of each coxa.</p>
+                <p>No attempt was made to ‘slide’ the resulting semi-landmark points to positions of minimum bending energy relative to the sample mean as has been advocated for use in the analysis of semi-landmark data by some (e.g., <xref ref-type="bibr" rid="B4">Bookstein 1996</xref>, <xref ref-type="bibr" rid="B35">Zelditch et al. 2004</xref>). Such a transformation would destroy the shape correspondences that are the point of morphometric analysis. Moreover, all current implementations of the sliding semi-landmark approach of which we are aware do not slide the semi-landmark along the boundary outline itself, but rather along straight lines tangent to the boundary<!--PageBreak--> outline (see Rohlf’s documentation for the tpsRelw program, available as part of that program at the SB Morphometrics web site: <ext-link ext-link-type="uri" xlink:href="http://life.bio.sunysb.edu/morph/">http://life.bio.sunysb.edu/morph/</ext-link>). This convention has been adopted to simplify the computations required to reposition the semi-landmarks. However, use of this approach to semi-landmark adjustment obviously does not achieve a configuration of minimum bending energy for the curve that was measured because the act of sliding semi-landmarks along local tangents deforms the original measured curve. This wholly artificial deformation will not apply uniformly to the entire shape, but will be more pronounced in regions that exhibit high outline curvatures. Irrespective of this consideration, experiments have shown that minimal semi-landmark sliding results from the high-density sampling program used in extended eigenshape analysis.</p>
+                <p>The output of semilandmark interpolation procedure was aligned using Procrustes (GLS) superposition, which minimizes differences in position, scale, and rotation for sets of landmarks and semilandmark points (<xref ref-type="bibr" rid="B13">MacLeod 2009a</xref>). The superimposed coordinates were then analysed via PCA using the covariance matrix as a basis for the assessment of shape similarity. This technique explores the relations between variables to create new independent variables, the set of principal components, which represent a variance-optimised and mutually independent set of shape descriptors derived from the information contained in the original measurement set, reducing the dimensionality of the data set (<xref ref-type="bibr" rid="B5">Dunteman 1989</xref>; <xref ref-type="bibr" rid="B11">MacLeod 2005</xref>). In addition, this set of variables (= eigenvectors) can be used to define an ordination space that can be used to graphically portray shape relations and to create models of shape deformation trends that graphically embody the geometric meanings of the variables (<xref ref-type="bibr" rid="B3">Bookstein 1991</xref>; <xref ref-type="bibr" rid="B14">MacLeod 2009b</xref>, <xref ref-type="bibr" rid="B15">2010</xref>).</p>
+                <p>Subsequently, canonical variates analysis (CVA) was performed on the PCA scores on a shape variance-optimised subset of the PCA axes to maximize the ratio of between-group and within-group variation for the eight species, thus discriminating between the groups (<xref ref-type="bibr" rid="B35">Zelditch et al. 2004</xref>). CVA was also used to investigate asymmetry differences between the right and left coxae, sexual dimorphism, and whether these shapes are informative for geographical patterns at an infraspecific level.</p>
+                <p>The geometric interpretation of the CVA axes that support group separation was then assessed using a CVA modelling procedure that projects points from the CVA space into the original PCA variable space to calculate a series of shape models that express the major shape trends involved in inter-group separation (see <xref ref-type="bibr" rid="B12">MacLeod 2007</xref>; <xref ref-type="bibr" rid="B2">Bolton et al. 2009</xref>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>In order to determine whether left and right coxae exhibit shape differences, data collected from both sides of specimens were subjected to CVA after coordinate data from the right coxae were reflected across the <italic>y</italic>-axis. No obvious differences in the scatter of left and right coxa along the first discriminant axes were evident. This re<!--PageBreak-->sult was then confirmed statistically using a likelihood ratio test (see <xref ref-type="bibr" rid="B16">Manley 1994</xref>; ф = 9.66, df = 12, p &gt; 0.001). This same procedure was used to test for significant male-female shape differences (ф = 41.11, df = 24, p &gt; 0.001). In both cases the null hypotheses of no between group shape differences could not be rejected. Additionally, a measurement error analysis was carried out using two randomly selected replicates of 12 specimens to estimate the level of data-collection accuracy that was achieved for the data set as a whole. This analysis also identified no significant statistical coxal shape differences (ф = 0.385, df = 9, p &gt; 0.001) between replicate data collection sessions.</p>
+            <p>Ordinations of coxal outline shape projected along the first few Procrustes PCA axes for each species analysed independently did not reflect any obvious infraspecific clusters. The structure of infraspecific coxal shape was further investigated by grouping the data within <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> and <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> by geographic locality. These geographically widespread species were selected because sufficient specimens were available from enough localities to allow a more rigorous comparison. Results of a CVA of the Procrustes PCA score data rejected the null hypothesis of no significant infraspecific differences in coxal shape between geographic groups in <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> (likelihood ratio: ф = 71.14, df = 22, p &lt; 0.001). This result was supported by unexpectedly impressive discriminations by the CVA results. The set of CVA discriminant function axes revealed that specimens of <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> were assigned to their correct geographic group with 89% accuracy (<xref ref-type="table" rid="T2">Table 2</xref>), indicating marked and consistent infraspecific coxal shape differences. Furthermore, the inspection of CVA scatterplots (<xref ref-type="fig" rid="F3">Fig. 3</xref>) shows that specimens from each of six pre-defined geographic regions within the species’ ordinations plot close to each other in the discriminant space. Results for <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> are shown in the Appendix (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+            <table-wrap id="T2" position="float" orientation="portrait">
+                <label>Table 2.</label>
+                <caption><p>CV discriminant function analysis of <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> geographic data.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Groups</bold></td>
+                            <td rowspan="1" colspan="1"><bold>Sumatra</bold></td>
+                            <td rowspan="1" colspan="1"><bold>N. Borneo</bold></td>
+                            <td rowspan="1" colspan="1"><bold>Peninsular Malaysia</bold></td>
+                            <td rowspan="1" colspan="1"><bold>Thailand</bold></td>
+                            <td rowspan="1" colspan="1"><bold>Burma</bold></td>
+                            <td rowspan="1" colspan="1"><bold>China</bold></td>
+                            <td rowspan="1" colspan="1"><bold>Total Correct</bold></td>
+                            <td rowspan="1" colspan="1"><bold>% Correct</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Sumatra</bold></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>N. Borneo (Sarawak)</bold></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">67</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Peninsular Malaysia</bold></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">83</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Thailand</bold></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Burma</bold></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>China</bold></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><bold>Total Correct</bold></td>
+                            <td rowspan="1" colspan="1"><bold>17</bold></td>
+                            <td rowspan="1" colspan="1"><bold>89</bold></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p><italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> scatterplot of coxal shape data along the discriminant subspace formed by the first two CV axes, which together account for 74.17% of observed between-group shape variation.</p></caption>
+                <graphic xlink:href="ZooKeys-156-049-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>When the sample of all eight species was pooled, Procrustes PCA identified a total of 12 axes that were required to account for 95% of the observed coxal shape variation (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Subsequent CVA analysis of the Procrustes PCA scores for these<!--PageBreak--> 12 latent shape variables revealed a clear tendency to group separation that is more pronounced for some species (<italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic>, <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic>, <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> and <italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic>) than for others (<italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> and <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic>; see <xref ref-type="fig" rid="F5">Fig. 5</xref>). There is a high degree of overlap evident in plots of species scatter in low-dimensional CVA subspaces. However, the degree of this true overlap among species point clouds is exaggerated in such plots as only two or three (out of the seven) discriminant axes were used in constructing the figure. Using the complete set of CV discrimination function axes, the overall proportion of correct specimen assignments (77%) was unexpectedly high for a character complex previously regarded as being of little taxonomic value. This, along with the likelihood ratio test results (ф = 308.5, df = 84, p &lt; 0.001), indicates the presence of substantial and consistent between-species coxal shape differences for these data. <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic>, <italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic> and <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> exhibit the most distinct coxal shape with 94%, 85%, and 79%, respectively, of specimens correctly assigned based on discriminant function analysis, whereas the least distinct were <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic> (60%) and <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> (68%). A jackknifed identification test to assess the stability of the discriminant axes (<xref ref-type="table" rid="T4">Table 4</xref>) indicates that, across the dataset as a whole, the individual training set outlines were assigned to the correct species with 61% accuracy. The most stable results, with reference to generalized group identification, are those for <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic> and <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> (89% and 71% correct identifications, respectively).</p>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figure 4.</label>
+                <caption><p>Scatterplots of Procrustes PCA scores for coxal shape data. The first two shape variation axes (top) together account for 62.63% of the observed shape variation; PC-2 and PC-3 axes (bottom) together account for 27.58% of the observed shape variation.</p></caption>
+                <graphic xlink:href="ZooKeys-156-049-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figure 5.</label>
+                <caption><p>Results of the CVA of coxal shape data for all eight species, showing the subspaces formed by the first three discriminant axes, which together account for more than 79% of observed between-group shape variation. Within each subspace plot the black circles represent the coordinate locations for each of the five along-axis shape models depicted in <xref ref-type="fig" rid="F6">Fig. 6</xref>.</p></caption>
+                <graphic xlink:href="ZooKeys-156-049-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figure 6.</label>
+                <caption><p>Strobe models of five positions along the canonical variates indicated in <xref ref-type="fig" rid="F5">Fig. 5</xref>. CV-1, CV-2, and CV-3 axes account for 79.5% of the observed between-species shape variation. Landmarks and semi-landmarks are superimposed in the figure to the right of each sequence to express the magnitudes and directions (arrows) of shape trends. In all models, the mesial margin of the coxa is depicted to the left, the lateral margin to the right.</p></caption>
+                <graphic xlink:href="ZooKeys-156-049-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p><xref ref-type="fig" rid="F6">Figure 6</xref> illustrates the forcipular coxal models that project three of seven CVA axes back into the space of the original Procrustes PCA axes. These three axes express more than 75% of between-species shape differences. The major shape trends illustrated in <!--PageBreak--><!--PageBreak--><!--PageBreak-->the first three CV axes were repeated along the four remaining axes. Models calculated for CV-1 show clear and pronounced variation from the coxofemoral condyle to the fourth spine-bristle (i.e., the course of the lateral margin of the coxa), which trends from distinctly concave to slightly convex, corresponding to a relative increase in coxal width. In addition, the posteromedial coxal edge also indicates a slight variation, further increasing the coxal width in its posterior part. In contrast, a small variation in the anterior medial margin of the coxa involves a reduction in the width of the coxa in its anterior part.</p>
+            <p>The CV-2 models also exhibited variation in the exterior/lateral margin of the coxa. However, variation here is (expectedly) more subtle than in CV-1 and the shift oriented in the opposite direction. The anterior margin of the coxa of CV-2 illustrates some variation anteriorly, particularly between the second and the fourth spine bristles, reducing the coxal length. In contrast, there is a slight variation in the posteromedial edge of the coxa that increases the coxal width in its posterior part.</p>
+            <p>The CV-3 model series identifies changes in three different areas of the coxa: (1) extension towards the coxofemoral condyle becomes more prominent; (2) the anterior edge exhibits a variation similar to CV-2 but in reverse, slightly increasing the coxal length; (3) the coxal interior margin exhibits a shift that reduces the coxal width. T<!--PageBreak-->he overall coxal shape displays a slight increase in relative length and a reduction in width along the CV-3 axis.</p>
+            <p>Using the CV models from <xref ref-type="fig" rid="F6">Figure 6</xref> and the canonical variates space (<xref ref-type="fig" rid="F5">Fig. 5</xref>) to interpret these results taxonomically, it can be seen that <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic> has a relatively narrower forcipular coxa than the other sampled taxa, exhibiting a concave exterior margin with a very pronounced extension to the coxofemoral condyle. Alternatively, <italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic> and <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> display relatively wider coxae. <italic><tp:taxon-name>Thereuopodina</tp:taxon-name></italic>, however, exhibits a convex exterior margin, whereas <italic><tp:taxon-name>Dendrothereua</tp:taxon-name></italic> has a slightly shorter coxa with a concave exterior margin. In contrast, most specimens of <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> and <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic> exhibit a long and narrow coxa; <italic><tp:taxon-name>Thereuonema</tp:taxon-name></italic> exhibits a slight concave exterior margin and more pronounced coxofemoral condyle, while <italic><tp:taxon-name>Scutigera</tp:taxon-name></italic> has a straight exterior coxal margin. <italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic> specimens are characterized by intermediate shapes along the axes. As reflected by their discriminant function results (<xref ref-type="table" rid="T3">Tables 3</xref>, <xref ref-type="table" rid="T4">4</xref>), <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> and <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic> each display substantial variability in forcipular coxal shape.</p>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>The morphometric results obtained from the Procrustes PCA of these landmark-registered semi-landmark outline data and the CVA models back-projected in the PC space suggest that forcipular coxal shape differs significantly between taxa at various taxonomic levels. This character complex is clearly valuable in the assessment of scutigeromorph systematics because the group has historically been classified on the basis of a small number of taxonomically informative characters (principally exoskeletal prominences on the tergal plates and female gonopod shape). Our finding that specimens can for the most part be assigned to species with a high degree of accuracy (<xref ref-type="table" rid="T3">Table 3</xref>) substantiates a prediction by <xref ref-type="bibr" rid="B28">Würmli (1974)</xref> that coxal shape contains taxonomic information. Until now, however, this variation had not been quantified or harnessed taxonomically or phylogenetically. The outlines and landmarks illustrated in <xref ref-type="fig" rid="F2">Figure 2</xref> may possibly form the bases for future analysis of coxal differences.</p>
+            <table-wrap id="T3" position="float" orientation="portrait">
+                <label>Table 3.</label>
+                <caption><p>CV discriminant function analysis showing the percentage of specimens that were correctly assigned to their original species.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Taxa</bold></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><bold>Total Correct</bold></td>
+                            <td rowspan="1" colspan="1"><bold>% Correct</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">85</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">69</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">94</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">75</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">60</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">68</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">79</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">71</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><bold>Total Correct</bold></td>
+                            <td rowspan="1" colspan="1"><bold>83</bold></td>
+                            <td rowspan="1" colspan="1"><bold>77</bold></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Controversies over the status of particular species, and indeed the species concept applied across the group as a whole, are informed by the results of this study. For example, the geographically widespread <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> shows a variable coxal shape and, as a result, a relatively poor capacity for assigning specimens accurately, with 68% correct discrimination of the training set (<xref ref-type="table" rid="T3">Table 3</xref>). Furthermore, coxal shape variability in <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> has a discernible geographical pattern (<xref ref-type="fig" rid="F3">Fig. 3</xref>), with specimens from each sampled southeast Asian region plotting near each other. <xref ref-type="bibr" rid="B22">Verhoeff (1905</xref>, <xref ref-type="bibr" rid="B24">1937</xref>, and elsewhere) distinguished an array of nominal species of <italic><tp:taxon-name>Thereuopoda</tp:taxon-name></italic> that were later synonymised into <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> by Würmli (1979). This difference in the number of valid species (as extreme as 26 species versus one) reflects, at least in part, the observation that some characters employed at the species level by Verhoeff were subsequently found to have overlapping variation as sample sizes were increased, and in part reflects a historical shift towards species being seen as polymorphic, geographically widespread entities by later 20<sup>th</sup> century taxonomists. The coxal shape differences observed between geographic groups of <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> (specimens assigned to their correct geographic group with 89% accuracy; see <xref ref-type="table" rid="T2">Table 2</xref>) suggest that some of the subjective synonyms of <italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic> may actually include valid species.</p>
+            <p>Another species with a comparably wide geographic range and complex taxonomic history, <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic>, likewise has a comparatively poor capacity to be discriminated (Tables 3, 4). The family <tp:taxon-name>Pselliodidae</tp:taxon-name> has long been identified as a high-ranking clade (<xref ref-type="bibr" rid="B21">Verhoeff 1904</xref>; <xref ref-type="bibr" rid="B31">Würmli 1978</xref>, 2005; <xref ref-type="bibr" rid="B6">Edgecombe and Giribet 2006</xref>). Our CVA models (<xref ref-type="fig" rid="F6">Fig. 6</xref>) show that although <italic><tp:taxon-name>Sphendononema</tp:taxon-name></italic> has a relative short and wide forcipular coxa with a convex exterior margin, it is not readily distinguished from some members of <tp:taxon-name>Scutigeridae</tp:taxon-name> on coxal shape alone. Current taxonomic practice (including species identifications in this study) follows <xref ref-type="bibr" rid="B31">Würmli (1978)</xref> in placing many (22) nominal species in synonymy with <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic>, though some aspects of variation (e.g., female gonopod variability explored by <xref ref-type="bibr" rid="B2">Bolton et al. 2009</xref>) suggest the presence of multiple species. The low discriminant function scores for <italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic>, in spite of a small sample size, would be consistent with a mixed-species sample.<!--PageBreak--></p>
+            <p><xref ref-type="bibr" rid="B27">Würmli (1973b)</xref> and <xref ref-type="bibr" rid="B34">Würmli and Negrea (1977)</xref> united <italic><tp:taxon-name>Scutigera linceci</tp:taxon-name></italic> as a single geographically widespread species which was later recognised as multiple species of <italic><tp:taxon-name>Dendrothereua</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B7">Edgecombe and Giribet (2009)</xref>. The latter regarded it as ‘exceedingly doubtful’ that <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> constitutes a single species because specimens from the limits of the geographic range (Costa Rica versus the southern U.S.) had molecular sequence divergences that greatly exceeded those in uncontroversial morphospecies. Although no significant infraspecific coxal differences can be related to geography, pooling specimens from each of Mexico (Guerrero), Guatemala and Hispaniola (Appendix, Fig. 1 therein), both the raw and jackknifed discriminant function scores (69% and 46%, respectively) indicate that a relatively low percentage of specimens are correctly assigned to this species (Tables 3, 4). Coxal shape does not provide strong corroboration for <italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic> being a single species.</p>
+            <p>The small sample size for some of the geographic groups within <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic> prohibits statistical testing of whether infraspecific coxal shape differences can be related to geography. <xref ref-type="bibr" rid="B26">Würmli (1973a</xref>, 1977) revised the species-level taxonomy of <italic><tp:taxon-name>Scutigera</tp:taxon-name></italic>, proposing the synonymy of several species with <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic>, consistent with the view that <italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic> is a synanthropic species throughout large extents of its geographic range, as well as with short molecular branch lengths between specimens from populations in different parts of that range (<xref ref-type="bibr" rid="B7">Edgecombe and Giribet 2009</xref>). The specimens studied here include native parts of the species’ distribution (Italy, Greece, Madeira, Algeria) as well as introduced parts (St. Helena, Bermuda). The assignment of specimens to this species with 75% accuracy for raw CVA scores (<xref ref-type="table" rid="T3">Table 3</xref>) does not appear to be a stable result based on the poor capacity for identification in CVA jackknife tests (<xref ref-type="table" rid="T4">Table 4</xref>).</p>
+            <table-wrap id="T4" position="float" orientation="portrait">
+                <label>Table 4.</label>
+                <caption><p>CV discriminant function of jackknife analysis showing the percentage of specimens that were correctly assigned to their original species.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Taxa</bold></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><bold>Total Correct</bold></td>
+                            <td rowspan="1" colspan="1"><bold>% Correct</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allothereua maculata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">69</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothereua linceci</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">46</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">89</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scutigera coleoptrata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">42</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphendononema guildingii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">40</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopoda longicornis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">58</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">71</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thereuopodina queenslandica</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">46</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><bold>Total Correct</bold></td>
+                            <td rowspan="1" colspan="1"><bold>65</bold></td>
+                            <td rowspan="1" colspan="1"><bold>61</bold></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>In contrast to the variability discerned in the species discussed above, some species, notably <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic> and <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic>, display consistently distinct coxal shapes (<xref ref-type="table" rid="T3">Table 3</xref>) and these results are stable when subjected to a jackknife test (<xref ref-type="table" rid="T4">Table 4</xref>). The diagnosability of these species with respect to coxal shape is in agreement with recent classifications that have established <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B7">Edgecombe and Giribet 2009</xref>) and <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B20">Stoev and Geoffroy 2004</xref>) as valid species. Both species have narrow forcipular coxae, but <italic><tp:taxon-name>Parascutigera guttata</tp:taxon-name></italic> has a pronounced concave exterior margin with a distinct projection of the coxofemoral condyle whereas <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> exhibits a longer coxa with a straighter exterior margin. It should be noted that the high discriminant function score for <italic><tp:taxon-name>Thereuonema microstoma</tp:taxon-name></italic> might be expected to decrease were more specimens from distant parts of its geographic range included; nearly all specimens used in this study were from a small part of its total distribution, in the Sudan.</p>
+        </sec>
+        <sec sec-type="Conclusion">
+            <title>Conclusion</title>
+            <p>Geometric morphometrics of forcipular coxal shape indicates that these structures contain taxonomic information at the species level. Discriminant function analysis indicates that a majority of specimens of all eight species sampled in this study were <!--PageBreak-->assigned correctly according to their established taxonomy, in several cases with a high degree of accuracy. This investigation also demonstrates that morphometric approaches and CVA modelling procedures can be of considerable use in the analysis of subtle morphological features, and can support a wide variety of comparisons between groups at different taxonomical levels even in character systems that had been opaque to qualitative analysis, such as the forcipular coxae of Scutigeromorpha.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>For arranging loans of material used in this study, we thank Graham Milledge (Australian Museum), Daniel Perez-Gelabert (U.S. National Museum of Natural History), and Owen Seeman (Queensland Museum). As always, Jan Beccaloni facilitated access to collections at The Natural History Museum. BLG thanks Melissa Marr for providing support throughout this project. The journal’s referees provided useful advice. Research on Australian Scutigeromorpha has been supported by Australian Biological Resources Study Grant 2005–208.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Adams</surname> <given-names>D</given-names></name><name name-style="western"><surname>Rohlf</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Slice</surname> <given-names>DE</given-names></name></person-group> (<year>2004</year>)<article-title> Geometric morphometrics: ten years of progress following the ‘revolution’.</article-title> <source>Italian Journal of Zoology </source> <volume>71</volume>: <fpage>5</fpage>-<lpage>16</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/11250000409356545">10.1080/11250000409356545</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bolton</surname> <given-names>S</given-names></name><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name><name name-style="western"><surname>Edgecombe</surname> <given-names>GD</given-names></name></person-group> (<year>2009</year>)<article-title> Geometric approaches to the taxonomic analysis of centipede gonopods (Chilopoda: Scutigeromorpha).</article-title> <source>Zoological Journal of the Linnean Society </source> <volume>156</volume>: <fpage>239</fpage>-<lpage>259</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-3642.2009.00564.x">10.1111/j.1096-3642.2009.00564.x</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bookstein</surname> <given-names>FL</given-names></name></person-group> (<year>1991</year>)<source> Morphometric tools for landmark data: geometry and biology.</source> <publisher-name>Cambridge University Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc>, <lpage>435</lpage> pp.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bookstein</surname> <given-names>FL</given-names></name></person-group> (<year>1996</year>)<article-title> Landmark methods for forms without landmarks: Localizing group differences in outline shape.</article-title> In: <person-group><name name-style="western"><surname>Amini</surname> <given-names>A</given-names></name><name name-style="western"><surname>Bookstein</surname> <given-names>FL</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>D</given-names></name></person-group> (<role>Eds</role>). <issue-title>Proceedings of the Workshop on Mathematical Methods in Biomedical Image Analysis.</issue-title> <source>IEEE Computer Society Press, San Francisco</source>: <fpage>279</fpage>-<lpage>289</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dunteman</surname> <given-names>GH</given-names></name></person-group> (<year>1989</year>)<source> Principal Component Analysis.</source> <publisher-name>Sage Publications</publisher-name>, <publisher-loc>California</publisher-loc>, <lpage>7</lpage> pp.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Edgecombe</surname> <given-names>GD</given-names></name><name name-style="western"><surname>Giribet</surname> <given-names>G</given-names></name></person-group> (<year>2006</year>)<article-title> A century later – a total evidence re-evaluation of the phylogeny of scutigeromorph centipedes (Myriapoda: Chilopoda).</article-title> <source>Invertebrate Systematics </source> <volume>20</volume>: <fpage>503</fpage>-<lpage>525</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1071/IS05044">10.1071/IS05044</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Edgecombe</surname> <given-names>GD</given-names></name><name name-style="western"><surname>Giribet</surname> <given-names>G</given-names></name></person-group> (<year>2009</year>)<article-title> Phylogenetics of scutigeromorph centipedes (Myriapoda: Chilopoda) with implications for species delimitation and historical biogeography of the Australian and New Caledonian faunas.</article-title> <source>Cladistics </source> <volume>25</volume>: <fpage>406</fpage>-<lpage>427</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-0031.2009.00253.x">10.1111/j.1096-0031.2009.00253.x</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>1999</year>)<article-title> Generalizing and extending the eigenshape method of shape space visualization and analysis.</article-title> <source>Paleobiology </source> <volume>25</volume>: <fpage>107</fpage>-<lpage>138</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2002a</year>)<article-title> Phylogenetic signals in morphometric data.</article-title> In: <person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name><name name-style="western"><surname>Forey</surname> <given-names>PL</given-names></name></person-group> (<role>Eds</role>). <issue-title>Morphology, Shape and Phylogeny.</issue-title> <source>Taylor &amp; Francis, London</source>: <fpage>100</fpage>-<lpage>138</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1201/9780203165171.ch7">10.1201/9780203165171.ch7</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2002b</year>)<article-title> Geometric morphometrics and geological form-classification systems.</article-title> <source>Earth Science Reviews </source> <volume>59</volume>: <fpage>27</fpage>-<lpage>47</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0012-8252(02)00068-5">10.1016/S0012-8252(02)00068-5</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2005</year>)<article-title> Principal Components Analysis (eigenanalysis &amp; regression 5).</article-title> <source>Palaeontological Association Newsletter </source> <volume>59</volume>: <fpage>42</fpage>-<lpage>54</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2007</year>)<source> Groups II: Palaeontological Association Newsletter 65: 36–49.</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2009a</year>)<source> Who is Procrustes and what has he done with my data? Palaeontological Association Newsletter 70: 21–36.</source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2009b</year>)<article-title> Form &amp; shape models.</article-title> <source>Palaeontological Association Newsletter </source> <volume>72</volume>: <fpage>14</fpage>-<lpage>27</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>MacLeod</surname> <given-names>N</given-names></name></person-group> (<year>2010</year>)<article-title> Shape models II: the thin plate spline.</article-title> <source>Palaeontological Association Newsletter </source> <volume>73</volume>: <fpage>24</fpage>-<lpage>39</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Manley</surname> <given-names>BFJ</given-names></name></person-group> (<year>1994</year>)<source> Multivariate statistical methods: a primer.</source> <publisher-name>Chapman &amp; Hall, Bury, St. Edmonds</publisher-name>, <publisher-loc>Suffolk</publisher-loc>, <lpage>215</lpage> pp.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Manton</surname> <given-names>SM</given-names></name></person-group> (<year>1965</year>)<article-title> The evolution of arthopodan locomotory mechanisms, Part 8. Functional requirements and body design in Chilopoda, together with a comparative account of their skeleto-muscular systems and an Appendix on a comparison between burrowing forces of annelids and chilopods and its bearing upon the evolution of the arthropodan haemocoel.</article-title> <source>Journal of the Linnean Society (Zoology) </source> <volume>46</volume>: <fpage>252</fpage>-<lpage>483</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Murienne</surname> <given-names>J</given-names></name><name name-style="western"><surname>Edgecombe</surname> <given-names>GD</given-names></name><name name-style="western"><surname>Giribet</surname> <given-names>G</given-names></name></person-group> (<year>2010</year>)<article-title> Including secondary structure, fossils and molecular dating in the centipede tree of life.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>57</volume>: <fpage>301</fpage>-<lpage>313</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2010.06.022">10.1016/j.ympev.2010.06.022</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rohlf</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Marcus</surname> <given-names>LF</given-names></name></person-group> (<year>1993</year>)<article-title> A revolution in morphometrics.</article-title> <source>Trends in Ecology and Evolution </source> <volume>8</volume> (<issue>4</issue>): <fpage>129</fpage>-<lpage>132</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0169-5347(93)90024-J">10.1016/0169-5347(93)90024-J</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stoev</surname> <given-names>P</given-names></name><name name-style="western"><surname>Geoffroy</surname> <given-names>JJ</given-names></name></person-group> (<year>2004</year>)<article-title> An annotated catalogue of the scutigeromorph centipedes in the collection of the Muséum National d’Histoire Naturelle, Paris (France) (Chilopoda: Scutigeromorpha).</article-title> <source>Zootaxa </source> <volume>635</volume>: <fpage>1</fpage>-<lpage>12</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1904</year>)<article-title> Ueber Gattungen der Spinnenasseln (Scutigeriden).</article-title> <source>Sitzungs-Berichte der Gesellschaft naturforschender Freunde zu Berlin </source> <volume>1904</volume>: <fpage>245</fpage>-<lpage>285</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1905</year>)<article-title> Über Scutigeriden. 5. Aufsatz.</article-title> <source>Zoologischer Anzeiger </source> <volume>29</volume>: <fpage>73</fpage>-<lpage>119</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1925</year>)<source> Results of Dr. E. Mjöberg’s Swedish scientific expeditions to Australia 1910-1913. 39. Chilopoda. Arkiv för Zoologi 26A: 1–62.</source></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1937</year>)<article-title> Chilopoden aus Malacca, nach den Objecten des Raffles Museum in Singapore.</article-title> <source>Bulletin of the Raffles Museum </source> <volume>13</volume>: <fpage>198</fpage>-<lpage>270</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1944</year>)<article-title> Eine neue Scutigeriden-Gattung aus Brasilien.</article-title> <source>Zoologischer Anzeiger </source> <volume>144</volume>: <fpage>195</fpage>-<lpage>200</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1973a</year>)<article-title> Zur Systematik der Scutigeriden Europas und Kleinasiens (Chilopoda: Scutigeromorpha).</article-title> <source>Annalen des Naturhistorisches Museum in Wien </source> <volume>77</volume>: <fpage>399</fpage>-<lpage>408</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1973b</year>)<article-title> Die Scutigeromorpha (Chilopoda) von Costa Rica. Ueber <italic>Dendrothereua arborum</italic> Verhoeff, 1944.</article-title> <source>Studies on the Neotropical Fauna </source> <volume>8</volume>: <fpage>75</fpage>-<lpage>80</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/01650527309360454">10.1080/01650527309360454</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1974</year>)<article-title> Systematic criteria in the Scutigeromorpha.</article-title> <source>Symposium of the Zoological Society of London </source> <volume>32</volume>: <fpage>89</fpage>-<lpage>98</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1975</year>)<article-title> Revision der Hundertfűßer-Gattung <italic>Thereuonema</italic> (Chilopoda: Scutigeridae).</article-title> <source>Entomologica Germanica </source> <volume>2</volume>: <fpage>189</fpage>-<lpage>196</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1977</year>)<article-title> Zur Systematik der Gattung <italic>Scutigera</italic>.</article-title> <source>Abhandlungen und Verhandlungen des naturwissenschaftlichen Vereins in Hamburg </source> <volume>20</volume>: <fpage>123</fpage>-<lpage>131</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1978</year>)<article-title> Synopsis der neotropischen Pselliodidae (Chilopoda: Scutigeromorpha).</article-title> <source>Studies on Neotropical Fauna and Environment </source> <volume>13</volume>: <fpage>135</fpage>-<lpage>142</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/01650527809360536">10.1080/01650527809360536</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>1979</year>)<article-title> Taxonomic problems in the genus <italic>Thereuopoda</italic> (Chilopoda Scutigeromorpha: Scutigeridae): the role of postmaturational moultings.</article-title> In: <person-group><name name-style="western"><surname>Camatini</surname> <given-names>M</given-names></name></person-group> (<role>Ed</role>). <issue-title>Myriapod Biology.</issue-title> <source>Academic Press, London</source>: <fpage>39</fpage>-<lpage>48</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name></person-group> (<year>2005</year>)<article-title> Revision der afrikanischer Pselliodiden (Chilopoda: Scutigerida: Pselliodidae).</article-title> <source>Schubartiana </source> <volume>1</volume>: <fpage>3</fpage>-<lpage>8</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Würmli</surname> <given-names>M</given-names></name><name name-style="western"><surname>Negrea</surname> <given-names>S</given-names></name></person-group> (<year>1977</year>)<article-title> Les scutigéromorphes de l’île de Cuba (Chilopoda: Scutigeromorpha).</article-title> <source>Fragmenta Faunistica </source> <volume>23</volume>: <fpage>75</fpage>-<lpage>81</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zelditch</surname> <given-names>ML</given-names></name><name name-style="western"><surname>Swiderski</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Sheets</surname> <given-names>HD</given-names></name><name name-style="western"><surname>Fink</surname> <given-names>WL</given-names></name></person-group> (<year>2004</year>)<source> Geometric morphometrics for biologists: a primer.</source> <publisher-name>Elsevier/Academic Press</publisher-name>, <publisher-loc>Amsterdam</publisher-loc>, <lpage>443</lpage> pp.</mixed-citation></ref>
+        </ref-list>
+        <app-group>
+        <app>
+            <title>Appendix 1</title>
+            <p>Voucher data for specimens use din morphometric analyses and supplementary figures of Canonical Variates scatterplots. File format: Adobe Acrobat (pdf) file.</p>
+        </app>
+        </app-group>
+    </back>
+</article>

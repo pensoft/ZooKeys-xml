@@ -1,0 +1,636 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.130.1563</article-id>
+            <title-group>
+                <article-title>New shore bug (Hemiptera, Heteroptera, Saldidae) from the Early Cretaceous of China with phylogenetic analyses</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Zhang</surname>
+                        <given-names>Weiting</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"/>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:4F8C0034-AB0C-4839-B6C1-E3C164BD4CA7</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Yao</surname>
+                        <given-names>Yunzhi</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"/>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:6286B0B0-BB05-4EFE-9D80-4E4DAFDC770C</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Ren</surname>
+                        <given-names>Dong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1"/>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:D507ABBD-6BA6-43C8-A1D5-377409BD3049</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label/>College of Life Sciences, Capital Normal University, 105 Xisanhuanbeilu, Haidian District, Beijing 100048, China
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Yunzhi Yao (<email xlink:type="simple">yaoyz100@gmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: D. Shcherbakov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>24</day>
+                <month>9</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>130</issue>
+            <fpage>185</fpage>
+            <lpage>198</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>4</day>
+                    <month>7</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Weiting Zhang, Yunzhi Yao, Dong Ren</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:5EBFAD3B-6F27-4324-A8AE-1A48FBBD0ECE</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new genus with a new species of <tp:taxon-name>Saldidae</tp:taxon-name>, <italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> <bold>gen. et sp. n.</bold>, is described and illustrated. The fossil specimen was found from the Early Cretaceous Yixian Formation of Duolun County, Inner Mongolia, China. Phylogenetic analyses within <tp:taxon-name>Saldidae</tp:taxon-name> were performed, and the results indicate <italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> <bold>gen. et sp. n.</bold> should be assigned to the subfamily <tp:taxon-name>Chiloxanthinae</tp:taxon-name>.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Saldidae</kwd>
+                <kwd>fossil</kwd>
+                <kwd>phylogeny</kwd>
+                <kwd>Early Cretaceous</kwd>
+                <kwd>China</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The <tp:taxon-name>Saldidae</tp:taxon-name> is a small family of insects belonging to <tp:taxon-name>Heteroptera</tp:taxon-name>. About 335 extant species have been described in this cosmopolitan family (<xref ref-type="bibr" rid="B33">Schuh and Polhemus 2009</xref>). Most saldids are littoral, inhabiting lake shores, beaches and stream banks and they <!--PageBreak-->are predaceous, feeding on small insects and decaying animal materials (<xref ref-type="bibr" rid="B1">Brooks and Kelton 1967</xref>).</p>
+            <p><xref ref-type="bibr" rid="B3">Cobben (1959)</xref> proposed a classification of <tp:taxon-name>Saldidae</tp:taxon-name>, and divided <tp:taxon-name>Saldidae</tp:taxon-name> into three subfamilies: <tp:taxon-name>Aepophilinae</tp:taxon-name>, <tp:taxon-name>Chiloxanthinae</tp:taxon-name> and <tp:taxon-name>Saldinae</tp:taxon-name>. <xref ref-type="bibr" rid="B32">Schuh and Polhemus (1980)</xref> later considered the <tp:taxon-name>Aepophilinae</tp:taxon-name> to be of family rank based on their cladistic and phenetic analysis of the infraorder Leptopodomorpha. At present, <tp:taxon-name>Saldidae</tp:taxon-name> is divided into two subfamilies, <tp:taxon-name>Chiloxanthinae</tp:taxon-name> and <tp:taxon-name>Saldinae</tp:taxon-name> (<xref ref-type="bibr" rid="B31">Schuh and Slater 1995</xref>). The phylogenetic analyses concerning relationships within <tp:taxon-name>Saldidae</tp:taxon-name> (<xref ref-type="bibr" rid="B21">Polhemus 1977</xref>, <xref ref-type="bibr" rid="B33">Schuh and Polhemus 2009</xref>) present valuable information and conclusions.</p>
+            <p>To date, 6 incontrovertible fossil species in 3 generahave been reported: <italic><tp:taxon-name>Oligosaldina</tp:taxon-name></italic> Statz &amp; Wagner, 1950 with three species, <italic><tp:taxon-name>Oligosaldina rottensis</tp:taxon-name></italic>, <italic><tp:taxon-name>Oligosaldina rhenana</tp:taxon-name></italic> and <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic>, found from Upper Oligocene deposits in Germany; <italic><tp:taxon-name>Propentacora froeschneri</tp:taxon-name></italic> (= <italic><tp:taxon-name>Oreokora froeschneri</tp:taxon-name></italic>) found in Miocene Latah Formation in USA (<xref ref-type="bibr" rid="B15">Lewis 1969</xref>); <italic><tp:taxon-name>Salda exigua</tp:taxon-name></italic> Germar &amp; Berendt, 1856 found in Eocene Baltic amber, and <italic><tp:taxon-name>Salda littoralis</tp:taxon-name></italic> found in Recent Late Glacial clay (<xref ref-type="bibr" rid="B13">Jessen 1923</xref>).</p>
+            <p>However, 2 genera assigned to this group previously are not saldids. <italic><tp:taxon-name>Leptosalda chiapensis</tp:taxon-name></italic> (Cobben, 1971) from Mexico amber was assigned to the subfamily <tp:taxon-name>Leptosaldinae</tp:taxon-name> within <tp:taxon-name>Saldidae</tp:taxon-name> first, but was later transferred to <tp:taxon-name>Leptopodidae</tp:taxon-name> by <xref ref-type="bibr" rid="B32">Schuh and Polhemus (1980)</xref>. <xref ref-type="bibr" rid="B26">Popov (1973)</xref> erected a subfamily <tp:taxon-name>Saldoniinae</tp:taxon-name> in <tp:taxon-name>Saldidae</tp:taxon-name> with one genus <italic><tp:taxon-name>Saldonia</tp:taxon-name></italic> and one species <italic><tp:taxon-name>Saldonia rasnitsyni</tp:taxon-name></italic> Popov, 1973, but later (<xref ref-type="bibr" rid="B27">Popov 1985</xref>) transferred the genus to <tp:taxon-name>Archegocimicidae</tp:taxon-name>, synonymized <tp:taxon-name>Saldoniinae</tp:taxon-name> under <tp:taxon-name>Archegocimicidae</tp:taxon-name>, and added two more species <italic><tp:taxon-name>Saldonia sibirica</tp:taxon-name></italic> Popov, 1985 and <italic><tp:taxon-name>Saldonia maculata</tp:taxon-name></italic> Popov, 1985, all from the Lower or Middle Jurassic of Transbaikalia, Russia. <tp:taxon-name>Archegocimicidae</tp:taxon-name> is similar to <tp:taxon-name>Saldidae</tp:taxon-name>, and it was assigned to the infraorder Leptopodomorpha (<xref ref-type="bibr" rid="B27">Popov 1985</xref>, <xref ref-type="bibr" rid="B28">1989</xref>, <xref ref-type="bibr" rid="B29">Popov et al. 1994</xref>). <xref ref-type="bibr" rid="B21">Polhemus (1977)</xref> thought <italic><tp:taxon-name>Saldonia</tp:taxon-name></italic> probably should be classified into <tp:taxon-name>Dipsocoridae</tp:taxon-name> based on its wing venation. <xref ref-type="bibr" rid="B7">Cobben (1987)</xref> didn’t consider this genus as a member of the infraorder Leptopodomorpha, but he didn’t give detailed explanation.</p>
+            <p>In this paper, we described a new fossil shore bug, <italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> gen. et sp. n., from the Yixian Formation, Baitugou, Nanyingpan Village, Sanbeigou Town, Duolun County, Inner Mongolia, China. <xref ref-type="bibr" rid="B37">Xing et al. (2005)</xref> and <xref ref-type="bibr" rid="B39">Zhang et al. (2004)</xref>, respectively, based on isotope data and abundant statistical analysis of fossils data came to the consistent opinion that the age of the Yixian Formation is Early Cretaceous. And this opinion has been accepted widely (<xref ref-type="bibr" rid="B34">Swisher et al. 1999</xref>, <xref ref-type="bibr" rid="B16">Lu 2000</xref>, <xref ref-type="bibr" rid="B40">Zhou et al. 2003</xref>, <xref ref-type="bibr" rid="B10">Fürsich et al. 2007</xref>). Here we consider the age of the Yixian Formation as the Early Cretaceous (about 125 Ma).</p>
+        </sec>
+        <sec sec-type="material|methods"><title>Material and methods</title>
+            <p>Our fossil specimen is deposited in the Key Laboratory of Insect Evolution and Environmental Changes, Capital Normal University, Beijing, China. It was examined with the LEICA MZ 12.5 dissecting microscope. The specimens were examined without a<!--PageBreak-->lcohol and under alcohol. Photos were taken by a Nikon Digital Camera DXM1200C. Line drawings were made with Photoshop graphic software. Morphological terminology used here follows that of <xref ref-type="bibr" rid="B31">Schuh and Slater (1995)</xref>.</p>
+            <p>The body length was measured from the apex of head to the apex of abdomen; body width, at the maximal width of body; pronotum length, along the midline; pronotum width, across the broadest part at its posterior angles; wing length, from the basal to the apex of anterior margin; wing width, at the maximal width of the wing. All measurements are in millimeters (mm).</p>
+        </sec>
+        <sec sec-type="Systematic paleontology"><title>Systematic paleontology</title>
+            <p><bold>Order <tp:taxon-name>Hemiptera</tp:taxon-name> Linnaeus, 1758</bold></p>
+            <p><bold>Suborder <tp:taxon-name>Heteroptera</tp:taxon-name> Latreille, 1810</bold></p>
+            <p><bold>Infraorder <tp:taxon-name>Leptopodomorpha</tp:taxon-name> Popov, 1971</bold></p>
+            <p><bold>Family <tp:taxon-name>Saldidae</tp:taxon-name> Amyot &amp; Serville, 1843</bold></p>
+            <p><bold>Subfamily <tp:taxon-name>Chiloxanthinae</tp:taxon-name> Cobben, 1959</bold></p>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Brevrimatus</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:B57D1B53-16FE-421A-BCA6-8F3141142A84</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Brevrimatus</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status>gen. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species"><title>Type species.</title>
+                    <p> <italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> sp. n.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Body ovate, moderate in size, macropterous. Head relatively short. Rostrum reaching to the base of hind coxae. Corium with large pale spots, medial fracture short, costal fracture of hemelytra very long, hypocostal ridge and associated secondary hypocostal ridge present on hemelytra, membrane with five closed cells. Posterior margin of female sternum VII concave along the midline. Base of ovipositor exposed.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> The generic name is a combination of the Latin prefix “<italic>brev-</italic>” (short) and Latin word “<italic>rimatus</italic>” (fracture), which indicated the genus with short medial fracture. Gender masculine.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p> China.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Brevrimatus</tp:taxon-name-part>
+                    	<tp:taxon-name-part taxon-name-part-type="species">pulchalifer</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:80999FB3-E52E-459A-8A25-46CEAF6D947E</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Brevrimatus_pulchalifer</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status>sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1</xref>
+                    <xref ref-type="fig" rid="F2">2</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p> Holotype, ♀, CNU-HET-ND2010334 p/c (part and counterpart).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality and horizon"><title>Type locality and horizon.</title>
+                    <p> Baitugou, Nanyingpan Village, Sanbeigou Town, Duolun County, Inner Mongolia, China, Yixian Formation. Early Cretaceous.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> Head relatively short. The last segment of antennae slightly swollen. Corium with three large pale spots, medial fracture short, costal fracture of hemelytra very long; membrane with five cells, apex of innermost cell of membrane extending past apex of outermost cell. Posterior margin of female sternum VII extremely concave along the midline.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Body ovate, about 2.4 times as long as wide.</p>
+                    <p>Head 1.4 times as wide as long. Antennae slender, 4-segmented, first segment shortest, second segment longest, 1.47 times as long as the third segment, fourth segment slightly shorter than third segment. Eyes reniform, moderately protrusive, located at the posterolateral angles of the head. Ocelli round, raised slightly, ocelli separated by 1.3 times the width of an ocellus, ocelli closer to each other than to margins of eyes. Rostrum reaching to the hind coxae. Length of head subequal to the length of pronotum on midline.</p>
+                    <p>Pronotum transverse, 3.2 times as wide as long, Anterior and posterior margins of pronotum concave, lateral margins straight, anterior and posterior angles feebly rounded. Scutellum distinctly longer than pronotum on midline, triangular, 1.3 times as wide as long. Tarsal formula: 3–3–3. Fore tibiae about 2.0 times as long as corresponding tarsi, fore tarsomere I shortest, tarsomeres II and III almost subequal in length; mid femora 1.3 times as long as tibiae, tibiae 2.3 times as long as tarsi, tarsomere I shortest, tarsomere II slightly longer than tarsomere III; hind tibiae long, almost 1.5 times as long as hind femora, and 2.3 times as long as tarsi. Fore wing macropterous, 0.6 times as long as body; corium and membrane clearly delimited; corium with embolium;<!--PageBreak--> medial fracture short, 0.3 times as long as fore wing; costal fracture of hemelytra very long, reaching to the middle of the corium; venation of corium weakly indicated; membrane large, with five closed cells, cells reduced gradually from the inner to the outer. Claval commissure shorter than scutellum length at median line. Hemelytra with only slight modification for mating, the embolar region slightly thickened.</p>
+                    <p>Anterior margin of female sternum VII curve; posterior margin of female sternum VII extremely concave along the midline. Base of ovipositor exposed ventrally.</p>
+                    <p><bold>Measurements (in mm).</bold> Body length 8.00, width 3.18. Head length 0.84, width 1.24. Antennal measurements I–IV: 0.56, 1.30, 0.92, 0.85. Interocular space of ocelli 0.12. Interocular space of eyes 0.84. Pronotum length 0.78, width 2.52. Scutellum length 1.43, width 1.78. Length fore leg: tibia 1.22, tarsomeres I–III: 0.13, 0.23, 0.23; length mid leg: femur 1.91, tibia 1.57, tarsomeres I–III: 0.18, 0.27, 0.23; length hind leg: femur 2.14, tibia 3.15, tarsomeres I–III: 0.22, 0.69, 0.52. Hemelytron length 5.14, width 1.73.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p> <italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> gen. et sp. n., line drawings. Holotype, CNU-HET-ND2010334 p/c. <bold>A</bold> dorsal view <bold>B</bold> ventral view. Scale bar=2 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-185-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p> <italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> gen. et sp. n., photographs. Holotype, CNU-HET-ND2010334 p/c. <bold>A</bold>part and <bold>B</bold> counterpart. Scale bar=2 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-185-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> The species name is a combination of the Latin prefix “<italic>pulch-</italic>” (beautiful) and Latin word “<italic>alifer</italic>” (wing), meaning beautiful wing. Gender masculine.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p>The Leptopodomorpha consists of four extant families (<tp:taxon-name>Saldidae</tp:taxon-name>, <tp:taxon-name>Aepophilidae</tp:taxon-name>, <tp:taxon-name>Leptopodidae</tp:taxon-name>, <tp:taxon-name>Omaniidae</tp:taxon-name>) and three extinct families (<tp:taxon-name>Archegocimicidae</tp:taxon-name>, <tp:taxon-name>Mesolygaeidae</tp:taxon-name>, <tp:taxon-name>Palaeoleptidae</tp:taxon-name>). <xref ref-type="bibr" rid="B29">Popov et al. (1994)</xref> synonymized <tp:taxon-name>Mesolygaeidae</tp:taxon-name> to <tp:taxon-name>Archegocimicidae</tp:taxon-name>. <!--PageBreak-->But herein we think it is better to treat them as two separated families, because of their distinct difference in forewing. We compared our fossil with all the families in Leptopodomorpha. The body sizes of aepophilids and omaniids are less than 2mm, while the new species reaches to 8mm, much larger than aepophilids and omaniids. In <tp:taxon-name>Leptopodidae</tp:taxon-name>, rostrum at most reaches to the base of the fore coxae, while rostrum of the new species reaches to the base of the hind coxae. Besides that, anterior margin of pronotum is distinctly narrower than head in <tp:taxon-name>Leptopodidae</tp:taxon-name>, but anterior margin of pronotum of the new species is almost as wide as head. All the extinct families from Mesozoic are contemporaneous with the new fossil species. But they are different in some characters. Nine cells present in <tp:taxon-name>Archegocimicidae</tp:taxon-name> (<xref ref-type="bibr" rid="B12">Handlirsch 1906–1908</xref>), and the arrangement of the cells (<xref ref-type="bibr" rid="B27">Popov 1985</xref>) are totally different from the new species. Fore wing of <tp:taxon-name>Palaeoleptidae</tp:taxon-name> is nearly completely coriaceous except for small membrane (<xref ref-type="bibr" rid="B19">Poinar and Buckley 2009</xref>), which is different from the new species with large membrane. And wing venation consists of eight cells in <tp:taxon-name>Palaeoleptidae</tp:taxon-name>, which differs from the new species with five cells. The pronotum of <tp:taxon-name>Mesolygaeidae</tp:taxon-name> is divided into two parts (<xref ref-type="bibr" rid="B38">Zhang 1991</xref>), but in the new species no groove present on pronotum. The structure of end of abdomen is also different between the new species and mesolygaeids. So we classified our fossil into <tp:taxon-name>Saldidae</tp:taxon-name> based on the combined characters: compound eyes large and reniform, rostrum long, posterior margin of pronotum indented, hemelytra with costal fracture, medial fracture well developed and membrane with five cells.</p>
+            <sec sec-type="Phylogenetic analysis"><title>Phylogenetic analysis</title>
+                <p>The new genus possesses some typical <tp:taxon-name>Chiloxanthinae</tp:taxon-name> characters, such as costal fracture very long, female sternum VII truncate with mesal concavity and base of ovipositor exposed. On the other hand, it possesses short medial fracture as <tp:taxon-name>Saldinae</tp:taxon-name>. Therefore, we carried out phylogenetic analyses to determine the placement of our new genus.</p>
+                <p>For the phylogenetic analyses, we selected three extant genera from <tp:taxon-name>Chiloxanthinae</tp:taxon-name>, five extant genera from <tp:taxon-name>Saldinae</tp:taxon-name>, our new fossil genus, and an unambiguous fossil species <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic> as in-group. Following previous studies (<xref ref-type="bibr" rid="B21">Polhemus 1977</xref>, <xref ref-type="bibr" rid="B32">Schuh and Polhemus 1980</xref>, <xref ref-type="bibr" rid="B33">2009</xref>), we chose representatives from the family <tp:taxon-name>Leptopodidae</tp:taxon-name> (<italic><tp:taxon-name>Patapius thaiensis</tp:taxon-name></italic> Cobben, 1968) and <tp:taxon-name>Aepophilidae</tp:taxon-name> (<italic><tp:taxon-name>Aepophilus bonnairei</tp:taxon-name></italic> Signoret, 1879) as our out-group taxa. The 12 taxa that we chose for these phylogenetic analyses are listed in <xref ref-type="table" rid="T1">Table 1</xref>. We carried out phylogenetic analyses respectively with the fossil taxon <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic> andwithout this fossil taxon.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p> Taxa included in the phylogenetic analysis (*: only included when we carried out phylogenetic analysis with <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic>)</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"/>
+                                <th rowspan="1" colspan="1"><italic><tp:taxon-name>Family</tp:taxon-name></italic> </th>
+                                <th rowspan="1" colspan="1"><italic>Subfamily</italic></th>
+                                <th rowspan="1" colspan="1"><italic>Tribe</italic></th>
+                                <th rowspan="1" colspan="1"><italic>Species</italic></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">out-group</td>
+                                <td rowspan="1" colspan="1">Leptopodidae</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Patapius thaiensis</tp:taxon-name></italic> Cobben, 1968</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Aepophilidae</td>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aepophilus bonnairei</tp:taxon-name></italic> Signoret, 1879</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="10" colspan="1">in-group</td>
+                                <td rowspan="10" colspan="1">Saldidae</td>
+                                <td rowspan="5" colspan="1">Saldinae</td>
+                                <td rowspan="2" colspan="1">Saldini</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Salda lugubris</tp:taxon-name></italic> (Say, 1832)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Teloleuca altaica</tp:taxon-name></italic> Vinokurov, 2009</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">Saldoidini</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Saldula montana</tp:taxon-name></italic> Cobben, 1966</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calacanthia sichuanicus</tp:taxon-name></italic> Chen &amp; Zheng, 1987</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Saldunculini</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Salduncula swezeyi</tp:taxon-name></italic> (Usinger, 1946)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="1">Chiloxanthinae</td>
+                                <td rowspan="4" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chiloxanthus pilosus</tp:taxon-name></italic> (Fallén, 1807)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pentacora ligata</tp:taxon-name></italic> (Say, 1832)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Paralosalda innova</tp:taxon-name></italic> Polhemus &amp; Evans, 1969</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic>*Oligosaldina aquatilis</italic> Statz &amp; Wagner, 1950</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> gen. et sp. n.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Most character information of the extent taxa was extracted from literatures (<xref ref-type="bibr" rid="B3">Cobben 1959</xref>, <xref ref-type="bibr" rid="B4">1969</xref>, <xref ref-type="bibr" rid="B9">Drake 1961</xref>, <xref ref-type="bibr" rid="B8">Cobben and Polhemus 1966</xref>, <xref ref-type="bibr" rid="B23">Polhemus and Evans 1969</xref>, <xref ref-type="bibr" rid="B20">Polhemus 1972</xref>, 1977, 1991, <xref ref-type="bibr" rid="B6">Cobben 1980</xref>, <xref ref-type="bibr" rid="B14">King and Fordy 1984</xref>, <xref ref-type="bibr" rid="B2">Chen and Zheng 1987</xref>, <xref ref-type="bibr" rid="B35">Vinokurov 2005</xref>, <xref ref-type="bibr" rid="B36">2009</xref>, <xref ref-type="bibr" rid="B33">Schuh and Polhemus 2009</xref>). The descriptions for the 17 characters and character states are listed in the Appendix. All characters were treated as unordered and weighted equally. A maximum parsimony analysis of the character matrix (<xref ref-type="table" rid="T2">Table 2</xref>) edited by NDE (Nexus Data Editor) version 0.5.0 (<xref ref-type="bibr" rid="B18">Page 2001</xref>), was<!--PageBreak--> performed on NONA (<xref ref-type="bibr" rid="B11">Goloboff 1998</xref>), using the Multiple TBR+TBR search strategy, options set to hold 10000 trees, 1000 replications with 100 starting tree replication. The unambiguous characters were mapped by WinClada (<xref ref-type="bibr" rid="B17">Nixon 2000</xref>).</p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <label>Table 2.</label>
+                    <caption><p> Matrix of 17 characters and the 12 taxa used for phylogenetic analysis (*: only included when we carried out phylogenetic analysis with <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic>)</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1"/>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Taxon/Character</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">7</td>
+                                <td rowspan="1" colspan="1">8</td>
+                                <td rowspan="1" colspan="1">9</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">3</td>
+                                <td rowspan="1" colspan="1">4</td>
+                                <td rowspan="1" colspan="1">5</td>
+                                <td rowspan="1" colspan="1">6</td>
+                                <td rowspan="1" colspan="1">7</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Patapius thaiensis</tp:taxon-name></italic> </td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">–</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aepophilus bonnairei</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">–</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">–</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Salda lugubris</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">–</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Teloleuca altaica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">–</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Saldula montana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Calacanthia sichuanicus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Salduncula swezeyi</tp:taxon-name></italic> </td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Chiloxanthus pilosus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pentacora ligata</tp:taxon-name></italic> </td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Paralosalda innova</tp:taxon-name></italic> </td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Brevrimatus pulchalifer</tp:taxon-name></italic> gen. et sp. n.</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">*<italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">2</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">1</td>
+                                <td rowspan="1" colspan="1">0</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1">?</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Phylogenetic results"><title>Phylogenetic results</title>
+                <p>For the phylogenetic analyses excluding fossil species <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic>, we got two equally most parsimonious trees (<xref ref-type="fig" rid="F3">Fig. 3A, B</xref>), with the following main characteristics: tree <!--PageBreak-->length = 28, consistency index (CI) = 82, retention index (RI) = 87. The strict consensus tree is shown in <xref ref-type="fig" rid="F3">Figure 3C</xref>. Phylogenetic resultsindicate Saldidae is a monophyletic group, which is supported by four synapomorphies: posterior pronotal margin indented distinctly (Character 4:1); eversible glands present posterolaterally between sterna VI and VII (Character 9:1); eggs with aeropyles (Character 15:1); larval organ present (Character 16:1). Some synapomorphic characters, such as apicolateral sclerotized structures of penis present (Character 13:1) and filum gonopori coiled one to four times, like a watch-spring (Character 14:1) supported the monophyly of the subfamily Saldinae. Chiloxanthinae with our fossil species included is a monophyletic group, which is supported by four synapomorphies: five well defined cells in membrane (Character 6:1); medial fracture long (Character 8:2); female subgenital plate truncate with concavity along the midline (Character 11:2); base of ovipositor exposed (Character 12:1). In summary, phylogenetic results suggest our new fossil genus is in Chiloxanthinae and short medial fracture was treated as a reversal character.</p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Phylogeny of Saldidae. <bold>A, B</bold>the most parsimonious trees based on 11 taxa and 17 characters. <bold>C</bold> the strict consensus tree based on 11 taxa and 17 characters <bold>D</bold> the most parsimonious trees based on 12 taxa and 17 characters. (●) non-homoplasious; (○) homoplasious.</p></caption>
+                    <graphic xlink:href="ZooKeys-130-185-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+                <p>For the phylogenetic analysis including fossil species <italic><tp:taxon-name>Oligosaldina aquatilis</tp:taxon-name></italic>, we got one most parsimonious tree (<xref ref-type="fig" rid="F3">Fig. 3D</xref>), tree length = 28, CI = 82, RI = 88. The monophyly of Saldidae is supported by four synapomorphies (Character 4:1, 9:1, 15:1 and 16:1) as the results above. In this phylogenetic result, besides Character 13:1 and Character<!--PageBreak--> 14:1, short costal fracture of hemelytra (Character 7:1) supports the monophyly of the subfamily Saldinae. Five well defined cells in membrane (Character 6:1) indicate that our new genus should be in the branch of Chiloxanthinae. Therefore, both of the phylogenetic analyses suggest our fossil species should be classified into Chiloxanthinae.</p>
+                <p>Comparison with Chiloxanthinae indicates the new fossil species differs from other extant chiloxanthines in its short medial fracture. Besides this character, the boundary between corium and membrane is not clear in <italic><tp:taxon-name>Enalosalda</tp:taxon-name></italic>, which is different from <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. with clear boundary. <italic><tp:taxon-name>Paralosalda</tp:taxon-name></italic> has four membrane cells, which is different from <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. with five cells. Embolar modification of female is well developed in <italic><tp:taxon-name>Pentacora</tp:taxon-name></italic>, but in <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. the embolar region is slightly thickened. Sublateral cell of membrane is shortest in <italic><tp:taxon-name>Chiloxanthus</tp:taxon-name></italic>, which differs from <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. with the lateralmost cell is shortest. We further compared it with other fossil Saldidae. The arrangement of the cells of <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. is similar to that of <italic><tp:taxon-name>Oligosaldina</tp:taxon-name></italic>, but lateralmost cell of membrane is distinctly smaller than that of <italic><tp:taxon-name>Oligosaldina</tp:taxon-name></italic>. Long costal fracture is present on <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n., but absent on <italic><tp:taxon-name>Oligosaldina</tp:taxon-name></italic>. A deep furrow is present in the pronotum of <italic><tp:taxon-name>Oligosaldina</tp:taxon-name></italic>, while it is absent in our new genus<italic>. Propentacora</italic> contains five closed cells in the wing membrane, but the corial veinof <italic><tp:taxon-name>Propentacora</tp:taxon-name></italic> appears to continue between the third and fourth membrane cells, which is different from the new genus. <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. is distinctly different from <italic><tp:taxon-name>Salda</tp:taxon-name></italic>, which can be seen in phylogenetic result. Comparing our fossils with the fossil species <italic><tp:taxon-name>Salda exigua</tp:taxon-name></italic>, we can separate them in the following characters: <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. possesses five closed cells in the forewing membrane, while <italic><tp:taxon-name>Saldonia exigua</tp:taxon-name></italic> has three closed cells and rostrum of <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. reaches to the base of hind coxae, while in <italic><tp:taxon-name>Saldonia exigua</tp:taxon-name></italic>, rostrum just reaches to the fore coxae. Therefore <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. is different from all other fossil genera. In geological age, all of the previously recorded fossil saldids are from Cenozoic. So far, <italic><tp:taxon-name>Brevrimatus</tp:taxon-name></italic> gen. n. found in the Lower Cretaceous sedimentary stratum is the oldest saldid.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We make a grateful acknowledgement for Alexandr Rasnitsyn’s contribution to paleoentomology. We sincerely thank Dr. Nikolai N. Vinokurov (Institute for Biological Problems of Cryolithozone, Siberian Branch, Russian Academy of Sciences), Ganyang Zhang (Entomology Department, University of California) and Hui Liu (Entomological Laboratory, Faculty of Agriculture, Kyushu University) for sending papers to us. Thanks to Dr. Shih ChungKun (College of Life Science, Capital Normal University) for his improvement of our manuscript, and to two anonymous reviewers and the editor for constructive comments. This research was supported by grants from the National Natural Science Foundation of China (No. 40872022, 31071964, 30800095), Nature Science Foundation of Beijing (No. 5082002), Beijing Talented Scholar Program Foundation (No. 20081D050160092) and the PHR20090509 Project of Beijing Municipal Commission of Education.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brooks</surname><given-names>AR</given-names></name><name name-style="western"><surname>Kelton</surname><given-names>LA</given-names></name></person-group> (<year>1967</year>)<article-title> Aquatic and semiaquatic Heteroptera of Alberta, Saskatchewan, and Manitoba (Hemiptera).</article-title> <source>Memoirs of the Entomological Society of Canada </source> <volume>51</volume>: <fpage>1</fpage>-<lpage>92</lpage>. doi: 10.4039/entm9951fv</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chen</surname><given-names>PP</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>LY</given-names></name></person-group> (<year>1987</year>)<article-title> A new species and some new records of shore bug from China (Hemiptera: Saldidae).</article-title> <source>Acta Zootaxonomica Sinica </source> <volume>12</volume> (<issue>4</issue>): <fpage>393</fpage>-<lpage>397</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cobben</surname><given-names>RH</given-names></name></person-group> (<year>1959</year>)<article-title> Notes on the classification of Saldidae with the description of a new species from Spain.</article-title> <source>Zoologische Mededelingen </source> <volume>36</volume> (<issue>22</issue>): <fpage>303</fpage>-<lpage>316</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cobben</surname><given-names>RH</given-names></name></person-group> (<year>1969</year>)<article-title> A new species of Leptopodidae from Thailand (Hemiptera-Heteroptera).</article-title> <source>Pacific Insects </source> <volume>10</volume>(<issue>3–4</issue>): <fpage>529</fpage>-<lpage>533</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cobben</surname><given-names>RH</given-names></name></person-group> (<year>1971</year>)<article-title> A fossil shore bug from the Tertiary amber of Chiapas Mexico (Heteroptera, Saldidae).</article-title> <source>University of California Publications in Entomology</source> <volume>63</volume>: <fpage>49</fpage>-<lpage>56</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cobben</surname><given-names>RH</given-names></name></person-group> (<year>1980</year>)<article-title> On some species of <italic>Pentacora</italic>, with the description of a new species from Australia (Heteroptera, Saldidae).</article-title> <source>Zoologische Mededelingen </source> <volume>55</volume>: <fpage>115</fpage>-<lpage>126</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cobben</surname><given-names>RH</given-names></name></person-group> (<year>1987</year>)<article-title> New African Leptopodomorpha (Heteroptera: Saldidae, Omaniidae, Leptopodidae), with an annotated checklist of Saldidae from Africa. I. New species of the genus <italic>Saldula</italic> (Saldidae).</article-title> <source>Revue de Zoologie Africaine </source> <volume>100</volume>: <fpage>399</fpage>-<lpage>421</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cobben</surname><given-names>RH</given-names></name><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name></person-group> (<year>1966</year>)<article-title> African Saldidae in the Snow Entomological Museum (Hemiptera).</article-title> <source>Journal of the Kansas Entomological Society </source> <volume>39</volume> (<issue>3</issue>): <fpage>382</fpage>-<lpage>396</lpage></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drake</surname><given-names>CJ</given-names></name></person-group> (<year>1961</year>)<article-title> Insects of Micronesia Hemiptera Saldidae.</article-title> <source>Insects of Micronesia </source> <volume>7</volume> (<issue>6</issue>): <fpage>287</fpage>-<lpage>305</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fürsich</surname><given-names>TF</given-names></name><name name-style="western"><surname>Sha</surname><given-names>JG</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>BY</given-names></name><name name-style="western"><surname>Pan</surname><given-names>YH</given-names></name></person-group> (<year>2007</year>)<article-title> High resolution palaeoecological and taphonomic analysis of Early Cretaceous lake biota, western Liaoning (NE-China).</article-title> <source>Palaeogeography, Palaeoclimatology, Palaeoecology </source> <volume>253</volume>: <fpage>434</fpage>-<lpage>457</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goloboff</surname><given-names>PA</given-names></name></person-group> (<year>1998</year>)<source> NONA, Version 2.0. Program and Documentation</source>. <publisher-name>American Museum of Natural History</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Handlirsch</surname><given-names>A</given-names></name></person-group> (<year>1906–1908</year>) <article-title>Die fossilen Insekten und die Phylogenie der rezenten Formen</article-title>. <source>Ein Handbuch für Paläontologen und Zoologen</source>. <publisher-name>Wilhelm Engelmann</publisher-name>, <publisher-loc>Leipzig</publisher-loc>, <lpage>1430</lpage> pp.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jessen</surname><given-names>K</given-names></name></person-group> (<year>1923</year>)<article-title> A submerged peat-bog in the harbour of Rungsted and changes of sea-level in the sound in the late-glacial period.</article-title> <source>Dansk Geologisk Forening </source> <volume>6</volume> (<issue>14</issue>): <fpage>1</fpage>-<lpage>18</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>King</surname><given-names>PE</given-names></name><name name-style="western"><surname>Fordy</surname><given-names>MR</given-names></name></person-group> (<year>1984</year>)<article-title> Observations on <italic>Aepophilus bonnairei</italic> (Signoret) (Saldidae: Heteroptera) an intertidal insect of rocky shores.</article-title> <source>Zoological Journal of the Linnean Society </source> <volume>80</volume>: <fpage>231</fpage>-<lpage>238</lpage>. doi: 10.1111/j.1096-3642.1984.tb01975.x</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lewis</surname><given-names>SE</given-names></name></person-group> (<year>1969</year>)<article-title> Fossil Insects of the Latah Formation (Miocene) of Eastern Washington and Northern Idaho.</article-title> <source>Northwest Science </source> <volume>41</volume> (<issue>3</issue>): <fpage>99</fpage>-<lpage>115</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lu</surname><given-names>CH</given-names></name></person-group> (<year>2000</year>)<article-title> The age and disintegration of Yixian Formation.</article-title> <source>Liaoning geology </source> <volume>17</volume> (<issue>1</issue>): <fpage>51</fpage>-<lpage>56</lpage> [in Chinese with English abstract]</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nixon</surname><given-names>KC</given-names></name></person-group> (<year>2000</year>)<source> WinClada, Version 0.9.99.60. Program.</source></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Page</surname><given-names>RDM</given-names></name></person-group> (<year>2001</year>)<source> Nexus Data Editor for Windows, version 0.5.0.</source></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Poinar</surname><given-names>G</given-names></name><name name-style="western"><surname>Buckley</surname><given-names>R</given-names></name></person-group> (<year>2009</year>)<article-title> <italic>Palaeoleptus burmanicus</italic> n. gen., n. sp., an Early Cretaceous shore bug (Hemiptera: Palaeoleptidae n. fam.) in Burmese amber.</article-title> <source>Cretaceous Research </source> <volume>30</volume>: <fpage>1000</fpage>-<lpage>1004</lpage>. doi: 10.1016/j.cretres.2009.03.003</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name></person-group> (<year>1972</year>)<article-title> Notes concerning Mexican Saldidae including the description of two new species (Hemiptera).</article-title> <source>Great Basin Naturalist </source> <volume>32</volume>: <fpage>137</fpage>-<lpage>153</lpage></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name></person-group> (<year>1977</year>)<source> The biology and systematics of the Saldidae of Mexico and middle America</source>. PhD thesis, <publisher-loc>Boulder</publisher-loc>: <publisher-name>University of Colorado</publisher-name>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name></person-group> (<year>1991</year>)<article-title> Three new species of <italic>Salduncula</italic> Brown from the Malay Archipelago, with the key to the known species (Heteroptera: Saldidae).</article-title> <source>Raffles Bulletin of Zoology </source> <volume>39</volume> (<issue>1</issue>): <fpage>153</fpage>-<lpage>160</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name><name name-style="western"><surname>Evans</surname><given-names>WG</given-names></name></person-group> (<year>1969</year>)<article-title> A new genus of intertidal Saldidae from the Eastern Tropical Pacific with notes on its biology (Hemiptera).</article-title> <source>Pacific Insects </source> <volume>11</volume>(<issue>3–4</issue>): <fpage>571</fpage>-<lpage>578</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name><name name-style="western"><surname>Chapman</surname><given-names>HC</given-names></name></person-group> (<year>1979</year>)<article-title> Family Saldidae/Shore Bugs.</article-title> In: <person-group><name name-style="western"><surname>Menke</surname><given-names>AS</given-names></name></person-group> (<role>Ed</role>). <issue-title>The semiaquatic and aquatic Hemiptera of California (Heteroptera: Hemiptera).</issue-title> <source>Bulletin of the California Insect Survey 21. University of California Press, Berkeley, California</source>: <fpage>16</fpage>-<lpage>33</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Popov</surname><given-names>YuA</given-names></name></person-group> (<year>1971</year>)<article-title> The historical development of Hemiptera infraorder Nepomorpha (Heteroptera).</article-title> <source>Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR </source> <volume>129</volume>: <fpage>1</fpage>-<lpage>230</lpage> [in Russian]</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Popov</surname><given-names>YuA</given-names></name></person-group> (<year>1973</year>)<article-title> The first discovery of the hemipteran family Saldidae (Heteroptera) in the Mesozoic of Siberia.</article-title> <source>Doklady Akademii Nauk SSSR </source> <volume>209</volume>: <fpage>703</fpage>-<lpage>705</lpage> [in Russian]</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Popov</surname><given-names>YuA</given-names></name></person-group> (<year>1985</year>)<article-title> Jurassic bugs and Coleorrhyncha of southern Siberia and western Mongolia.</article-title> <source>In: Rasnitsyn AP (Ed), Jurassic insects of Siberia and Mongolia, Trudy Paleontologicheskogo Instituta Akademii Nauk SSSR </source> <volume>211</volume>: <fpage>28</fpage>-<lpage>47</lpage> [in Russian]</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Popov</surname><given-names>YuA</given-names></name></person-group> (<year>1989</year>)<article-title> Some aspects of systematic of Leptopodoidea.</article-title> <source>Acta Biologica Silesiana </source> <volume>13</volume> (<issue>30</issue>): <fpage>63</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Popov</surname><given-names>YuA</given-names></name><name name-style="western"><surname>Dolling</surname><given-names>WR</given-names></name><name name-style="western"><surname>Whalley</surname><given-names>PES</given-names></name></person-group> (<year>1994</year>)<article-title> British Upper Triassic and Lower Jurassic Heteroptera and Coleorrhyncha (Insecta: Hemiptera).</article-title> <source>Genus </source> <volume>5</volume> (<issue>4</issue>): <fpage>307</fpage>-<lpage>347</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Statz</surname><given-names>G.</given-names></name><name name-style="western"><surname>Wagner</surname><given-names>E</given-names></name></person-group> (<year>1950</year>)<article-title> Geocorisae (Landwanzen) aus den Oberoligocäner Ablagerungen von Rott. Palaeontographica (abt.</article-title> <source>A) </source> <volume>98</volume>: <fpage>97</fpage>-<lpage>136</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schuh</surname><given-names>RT</given-names></name><name name-style="western"><surname>Slater</surname><given-names>JA</given-names></name></person-group> (<year>1995</year>)<source> True Bugs of the World (Hemiptera: Heteroptera).</source> <publisher-name>Classification and Natural History.Cornell University Press, Ithaca</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>336</lpage> pp.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schuh</surname><given-names>RT</given-names></name><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name></person-group> (<year>1980</year>)<article-title> Analysis of taxonomic congruence among morphological, ecological, and biogeographic data sets for the Leptopodomorpha (Hemiptera).</article-title> <source>Systematic Zoology </source> <volume>29</volume> (<issue>1</issue>): <fpage>1</fpage>-<lpage>26</lpage>. doi: 10.2307/2412623</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schuh</surname><given-names>RT</given-names></name><name name-style="western"><surname>Polhemus</surname><given-names>JT</given-names></name></person-group> (<year>2009</year>)<article-title> Revision and analysis of <italic>Pseudosaldula</italic> Cobben (Insecta: Hemiptera: Saldidae): a group with a classic Andean distribution.</article-title> <source>Bulletin of the American Museum of Natural History </source> <volume>323</volume>: <fpage>1</fpage>-<lpage>102</lpage>. doi: 10.1206/323.1</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swisher</surname><given-names>CC</given-names></name><name name-style="western"><surname>Wang</surname><given-names>YQ</given-names></name><name name-style="western"><surname>Wang</surname><given-names>XL</given-names></name><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name></person-group> (<year>1999</year>)<article-title> Cretaceous age for the feathered dinosaurs of Liaoning, China.</article-title> <source>Nature </source> <volume>400</volume>: <fpage>58</fpage>-<lpage>61</lpage>. doi: 10.1038/21872</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vinokurov</surname><given-names>NN</given-names></name></person-group> (<year>2005</year>)<article-title> A review of the shore-bug genus <italic>Chiloxanthus</italic> Reut. (Heteroptera, Saldidae) in the fauna of Russia and adjacent countries.</article-title> <source>Entomological Review</source> <volume>85</volume> (<issue>2</issue>): <fpage>118</fpage>-<lpage>130</lpage>.</mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vinokurov</surname><given-names>NN</given-names></name></person-group> (<year>2009</year>)<article-title> A review of species of the genus <italic>Teloleuca</italic> (Heteroptera, Saldidae) in the fauna of Russia and adjacent territories.</article-title> <source>Entomological Review </source> <volume>89</volume> (<issue>9</issue>): <fpage>1092</fpage>-<lpage>1103</lpage>. doi: 10.1134/S0013873809090115</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Xing</surname><given-names>DH</given-names></name><name name-style="western"><surname>Sun</surname><given-names>CL</given-names></name><name name-style="western"><surname>Sun</surname><given-names>YW</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>LD</given-names></name><name name-style="western"><surname>Peng</surname><given-names>YD</given-names></name><name name-style="western"><surname>Chen</surname><given-names>SW</given-names></name></person-group> (<year>2005</year>)<article-title> New knowledge on Yixian Formation.</article-title> <source>Acta geoscientica sinica </source> <volume>26</volume> (<issue>1</issue>): <fpage>25</fpage>-<lpage>30</lpage> [in Chinese with English abstract]</mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Zhang</surname><given-names>JF</given-names></name></person-group> (<year>1991</year>)<article-title> Going further into Late Mesozoic mesolygaeids (Heteroptera, Insecta).</article-title> <source>Acta Palaeontologica Sinica </source> <volume>30</volume> (<issue>6</issue>): <fpage>679</fpage>-<lpage>704</lpage> [in Chinese with English abstract]</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhang</surname><given-names>LD</given-names></name><name name-style="western"><surname>Jin</surname><given-names>CZ</given-names></name><name name-style="western"><surname>Guo</surname><given-names>SZ</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Peng</surname><given-names>YD</given-names></name><name name-style="western"><surname>Chen</surname><given-names>SW</given-names></name><name name-style="western"><surname>Xing</surname><given-names>DH</given-names></name><name name-style="western"><surname>Ding</surname><given-names>QH</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>YJ</given-names></name></person-group> (<year>2004</year>)<article-title> The precious fossil-bearing beds of Yixian Formation in Beipiao-Yixian area: their ages and correlation.</article-title> <source>Geology and resources </source> <volume>13</volume> (<issue>4</issue>): <fpage>193</fpage>-<lpage>201</lpage> [in Chinese with English abstract]</mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name><name name-style="western"><surname>Hilton</surname><given-names>J</given-names></name></person-group> (<year>2003</year>)<article-title> An exceptionally preserved Lower Cretaceous ecosystem.</article-title> <source>Nature </source> <volume>42</volume>: <fpage>807</fpage>-<lpage>814</lpage>. doi: 10.1038/nature01420</mixed-citation></ref>
+        </ref-list>
+				<app-group>
+        <app id="appendix"><title>Appendix</title>
+						<sec sec-type="List of characters and character states used in phylogenetic analysis"><title>List of characters and character states used in phylogenetic analysis</title>
+            <p><bold>Distance between ocelli:</bold> equal to width of ocellus (0); less than width of ocellus (1); more than width of ocellus (2). [We treat this character inapplicable in Aepophilidae that doesn’t have ocellus.]</p>
+            <p><bold>Rostrum reaches to:</bold></p>
+                <p> fore coxae (0); middle coxae (1); hind coxae (2). [Rostrum of Leptopodidae is very short, reaching to fore coxae at most. Rostrum of Saldidae is relatively long, reaching to middle coxae or hind coxae. Rostrum of <italic>Brevrimatus pulchalifer</italic> sp. n. and <italic>Oligosaldina aquatilis</italic> reaches to hind coxae. Long rostrum is the primitive character (<xref ref-type="bibr" rid="B25">Popov 1971</xref>).]</p>
+                <p><bold>Postclypeus:</bold> absent (0); present (1). [Postclypeus present in <italic>S. lugubris</italic>, <italic>T. altaica</italic>, <italic>S. montana</italic>, <italic>C. sichuanicus</italic>. This character cannot be identified in our fossil specimen. In other groups postclypeus is absent.]</p>
+                <p><bold>Posterior pronotal margin:</bold> non-indented (0); indented distinctly (1). [Posterior pronotal margin nearly straight in Aepophilidae, so we threat this character in Aepophilidae as non-indented. Posterior pronotal margin of Saldidae is demonstrated briefly in <xref ref-type="fig" rid="F4">Figure 4A</xref> showing the indented posterior pronotal margin and Leptopodidae in <xref ref-type="fig" rid="F4">Figure 4B</xref> showing the non-indented posterior pronotal margin. This character is considered as the synapomorphy for Saldidae.]</p>
+                <p><bold>Forewing:</bold> macroptery or submacroptery (0); semibrachypterous moderately or strongly (1); brachyptery (2). [Wing polymorphism occurs in Saldidae. Wing pattern can be separated into five categories based on the reduction of the membrane of fore wing (Cobben 1980). The membrane of Aepophilidae completely reduced, so it is brachyptery. <italic>C. sichuanicus</italic> with the semibrachypterous forewing.]</p>
+                <p><bold>Cells:</bold> Four well defined cells in membrane (0); five well defined cells in membrane (1). [In Aepophilidae, forewing greatly reduced, in form of pads without membrane, so we treated this character inapplicable in this family. Usually, Saldinae have four cells and Chiloxanthinae have five cells, but the distinction in hemelytral cells between the Saldinae and Chiloxanthinae is not constant (Polhemus and Chapman 1979). The fossil species, <italic>B. pulchalifer</italic> sp. n. and <italic>O. aquatilis</italic> have five cells.]</p>
+                <p><bold>Costal fracture of hemelytra:</bold> absent (0); present, short (1); present, very long (2). [Costal fracture length is a stable character within subfamily. Saldinae usually<!--PageBreak--> possesses short costal fracture and Chiloxanthinae usually possesses long costal fracture. Polhemus (1977) consider the long costal fracture in Chiloxanthinae to be a derived character providing a synapomorphy for the group. Costal fracture is absent in <italic>P. thaiensis</italic>, <italic>A. bonnairei</italic> and <italic>O. aquatilis</italic>. Costal fracture in our fossil species, <italic>B. pulchalifer</italic> sp. n., is long.]</p>
+                <p><bold>Medial fracture:</bold> absent (0); present, short (1); present, very long (2). [Long medial fracture reaches at least to level of posterior end of claval suture, and short medial fracture not reaches anteriorly more than half the distance from costal fracture to posterior end of claval suture (<xref ref-type="bibr" rid="B31">Schuh and Slater 1995</xref>). Medial fracture is absent in <italic>A. bonnairei</italic>. In <italic>P. thaiensis</italic>, <italic>B. pulchalifer</italic> sp. n. and members of Saldinae, medial fracture is short. <italic>C. pilosus</italic>, <italic>P. ligata</italic> and <italic>P. innova</italic> have long medial fracture.]</p>
+                <p><bold>Eversible glands:</bold> absent (0); present posterolaterally between sterna VI and VII (1). [Saldidae has paired abdominal eversible glands with their openings locating between sterna VI and VII. Eversible glands is absent in Leptopodidae and Aepophilidae. This structure is unknown in <italic>B. pulchalifer</italic> sp. n. and <italic>O. aquatilis</italic>. Eversible glands is considered to be a apomorphic character in Saldidae (Polhemus 1977).]</p>
+                <p><bold>S</bold><bold>clerite adjacent to eversible gland:</bold> present (0); absent (1). [This sclerite is present in Saldinae, but absent in Chiloxanthinae.]</p>
+                <p><bold>Female subgenital plate:</bold> truncate without concavity along the midline (0); triangular, posterior margin of produced caudad along the midline (1); truncate with concave along the midline (2). [In <italic>A. bonnairei</italic> female subgenital plate just like a normal abdominal sternite. Subgenital plate is truncate with concave along the midline is found in the members of Chiloxanthinae and <italic>B. pulchalifer</italic> sp. n. as <xref ref-type="fig" rid="F4">Figure 4C</xref>. Subgenital plate is triangular in Saldinae as <xref ref-type="fig" rid="F4">Figure 4D</xref>]</p>
+                <p><bold>Base of ovipositor:</bold> hidden by posterior medial prolongation of subgenital plate (0); exposed (1). [The base of ovipositor is hidden in Aepophilidae and Saldinae, but <!--PageBreak-->exposed in Chiloxanthinae and <italic>B. pulchalifer</italic> sp. n. The exposed ovipositor is considered a derived character (Polhemus 1977)]</p>
+                <p><bold>Apicolateral sclerotized structures of penis:</bold> absent (0), present (1). [This structure absent in Aepophilidae and Chiloxanthinae, but present in Saldinae.]</p>
+                <p><bold>Filum gonopori:</bold> base of penis-filum not curled or at most forming one closed ring (0); filum gonopori coiled one to four times, like a watch-spring (1). [Base of penis-filum not curled in Leptopodidae and Aepophilidae, and coiled less than one ring in Chiloxanthinae. In Saldinae, base of penis-filum like a watch-spring.]</p>
+                <p><bold>Eggs:</bold> without aeropyles (0); with aeropyles (1). [Eggs with aeropyles is regarded as a synapomorphy for Saldidae.]</p>
+                <p><bold>Larval organ:</bold> absent (0); present (1). [Larval organ is absent in Leptopodidae and Aepophilidae, <italic>S. lugubris</italic> and <italic>T. altaica</italic>. Larval organ present in <italic>S. montana</italic>, <italic>C. sichuanicus</italic>, <italic>C. pilosus</italic>, <italic>P. ligata</italic>, <italic>P. innova</italic>. Larval organ present in most members of Saldidae. The absence condition in Saldini is presumed to be the secondary lost (Polhemus 1977).]</p>
+                <p><bold>Larval organ:</bold> larval organ lateral, adjacent to spiracle (0); larval organ located medially, some distance from the spiracle (1). [In Saldinae, larval organ when present adjacent to spiracle, while the later condition occurred in Chiloxanthinae.]</p>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p> <bold>A, B</bold> pronotum <bold>A</bold> posterior pronotal margin indented <bold>B</bold> posterior pronotal margin non-indented <bold>C, D</bold> female subgenital plate <bold>C</bold> truncate with concave along the midline <bold>D</bold> posterior margin of produced caudad along the midline (modified from Polhemus and Chapman 1979).</p></caption>
+                    <graphic xlink:href="ZooKeys-130-185-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                </fig>
+            </sec>
+        </app>
+				</app-group>
+    </back>
+</article>

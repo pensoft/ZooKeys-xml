@@ -1,0 +1,771 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.306.5289</article-id>
+            <title-group>
+                <article-title>Iberian Odonata distribution: data of the BOS Arthropod Collection (University of Oviedo, Spain)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Torralba-Burrial</surname>
+                        <given-names>Antonio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Ocharan</surname>
+                        <given-names>Francisco J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Universidad de Oviedo, Cluster de Energía, Medioambiente y Cambio Climático, Plaza de Riego 4, 33071, Oviedo, Spain
+            </aff>
+            <aff id="A2">
+                <label>2</label>Universidad de Oviedo, Biología Organismos y Sistemas, 33071, Oviedo, Spain
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Antonio Torralba-Burrial (<email xlink:type="simple">antoniotb@hotmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Chavan</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>306</issue>
+            <fpage>37</fpage>
+            <lpage>58</lpage>
+            <history>
+                <date date-type="received">
+                    <day>9</day>
+                    <month>4</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Antonio Torralba-Burrial, Francisco J. Ocharan</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><tp:taxon-name>Odonata</tp:taxon-name> are represented from the Iberian Peninsula by 79 species. However, there exists a significant gap in accessible knowledge about these species,especially regarding their distribution. This data paper describes the specimen-based <tp:taxon-name>Odonata</tp:taxon-name> data of the Arthropod Collection of the Department of Biología de Organismos y Sistemas (BOS), University of Oviedo, Spain. The specimens were mainly collected from the Iberian Peninsula (98.63% of the data records), especially the northern region. The earliest specimen deposited in the collection dates back to 1950, while the 1980’s and 2000’s are the best-represented time periods. Between 1950 and 2009, 16, 604 <tp:taxon-name>Odonata</tp:taxon-name> specimens were deposited and are documented in the dataset. Approximately 20% of the specimens belong to the families <tp:taxon-name>Coenagrionidae</tp:taxon-name> and <tp:taxon-name>Calopterygidae</tp:taxon-name>. Specimens include the holotype and paratypes of the Iberian subspecies <italic><tp:taxon-name>Calopteryx haemorrhoidalis asturica</tp:taxon-name></italic> Ocharan, 1983 and <italic><tp:taxon-name>Sympetrum vulgatum ibericum</tp:taxon-name></italic> Ocharan, 1985. The complete dataset is also provided in Darwin Core Archive format.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Odonata</kwd>
+                <kwd>Arthropoda</kwd>
+                <kwd>Iberian Peninsula</kwd>
+                <kwd>Entomological collections</kwd>
+                <kwd>Biodiversity collections</kwd>
+                <kwd>Distribution</kwd>
+                <kwd>datasets</kwd>
+                <kwd>Spain</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>Resource citation</meta-name>
+                    <meta-value><bold>Resource citation:</bold> Torralba-Burrial A, Ocharan FJ (2013 -). BOS Arthropod Collection Dataset: Iberian <tp:taxon-name>Odonata</tp:taxon-name> distribution. 16604 records. Contributed by Torralba-Burrial A, Ocharan FJ, Outomuro D, Ocharan R, Salona MI, Benitez-Donoso A, Martinez JA, Martinez SR, and Brotons-Padilla M. Online at <ext-link ext-link-type="uri" xlink:href="http://www.gbif.es:8080/ipt/archive.do?r=Bos-Odo" xlink:type="simple">http://www.gbif.es:8080/ipt/archive.do?r=Bos-Odo</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.unioviedo.es/BOS/Zoologia/artropodos/odonata" xlink:type="simple">http://www.unioviedo.es/BOS/Zoologia/artropodos/odonata</ext-link>, Version 1.0 (last updated on 2013-04-08), GBIF key: <ext-link ext-link-type="uri" xlink:href="http://gbrds.gbif.org/browse/agent?uuid=7e31baf8-f762-11e1-a439-00145eb45e9a">http://gbrds.gbif.org/browse/agent?uuid=7e31baf8-f762-11e1-a439-00145eb45e9a</ext-link>. Data Paper ID: doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.306.5289" xlink:type="simple">10.3897/zookeys.306.5289</ext-link></meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="General description">
+            <title>General description</title>
+            <p><bold>Purpose:</bold> The purpose of this dataset is to make data associated with <tp:taxon-name>Odonata</tp:taxon-name> specimens deposited in the BOS Arthropod Collection (subcollection of <tp:taxon-name>Odonata</tp:taxon-name>: BOS-Odo) of the University of Oviedo, Spain. Iberian <tp:taxon-name>Odonata</tp:taxon-name> (and available data sets) and dragonfly data records are scanty when compared with the distribution data records from other European countries (e.g. Belgium, France, Germany, United Kingdom). Prior to publishing of this dataset, only 2700 data records associated with Iberian <tp:taxon-name>Odonata</tp:taxon-name> are accessible through GBIF data portal [accessed 2013/04/04], where as nearly 12000 data records from Iberian region for the period 1784-2009 can be tagged or extracted from various publications (includes authors unpublished data), some of which cite the specimens deposited in BOS Arthropod Collection (few listed in reference section). As depicted in <xref ref-type="fig" rid="F1">Figure 1</xref>, other European data sets on dragonfly exceed by far the Iberian available records. For instance, British <tp:taxon-name>Odonata</tp:taxon-name> database comprises 500,000 records (<xref ref-type="bibr" rid="B27">Parr 2010</xref>), Dutch database more than 307,000 (<xref ref-type="bibr" rid="B32">Termaat et al. 2010</xref>), North Rhine-Westphalia 150,000 <!--PageBreak-->(<xref ref-type="bibr" rid="B10">Conce et al. 2010</xref>) or Flandes 55,000 (<xref ref-type="bibr" rid="B12">De Knijf and Anselin 2010</xref>). On this backdrop, the BOS-Odo dataset makes significant contribution of primary data about Iberian odonates for ecological, faunistic and conservation studies. Therefore main objective of this data set development were three fold; (1) provide a large dataset with primary distribution data of Iberian <tp:taxon-name>Odonata</tp:taxon-name>, (2) describe the <tp:taxon-name>Odonata</tp:taxon-name> subcollection of the BOS Arthopod Collection, (3) promote increasing inhouse and external use of the Collection and the biodiversity data associated.</p>
+            <p><bold>Additional information:</bold> A list of publications citing Iberian odonate data contained in this dataset is provided in point 2 of reference section.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p><tp:taxon-name>Odonata</tp:taxon-name> data records in major European data sets. Sources: BOS-Odo (this dataset); Flandes (<xref ref-type="bibr" rid="B12">De Knijf and Anselin 2010</xref>); Iberian Peninsula other GBIF data (GBIF dataportal <ext-link ext-link-type="uri" xlink:href="http://data.gbif.org" xlink:type="simple">http://data.gbif.org</ext-link>); Netherlands (<xref ref-type="bibr" rid="B32">Termaat et al. 2010</xref>); North Rhine-Westphalia (<xref ref-type="bibr" rid="B10">Conce et al. 2010</xref>); United Kingdom (<xref ref-type="bibr" rid="B27">Parr 2010</xref>).</p></caption>
+                <graphic xlink:href="ZooKeys-306-037-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Project details">
+            <title>Project details</title>
+            <p><bold>Project title:</bold> Informatización de la Colección de Artrópodos BOS de la Universidad de Oviedo / Digitisation of the BOS Arthropod Collection of University of Oviedo.</p>
+            <p><bold>Project personnel:</bold> Antonio Torralba-Burrial</p>
+            <p><bold>Former curator and promoter:</bold> Francisco J. Ocharan</p>
+            <p><bold>Another administrative contact</bold>: Araceli Anadón.</p>
+            <p><bold>BOS-Odo collectors</bold>: Collectors who have deposited more than 50 specimens include Antonio Torralba-Burrial, Francisco. J. Ocharan, David Outomuro, Rocío Ocharan, Marta I. Saloña, Antonio Benítez-Donoso, José Alberto Martínez, Saúl Ro-dríguez-Martínez, Matías Brotons-Padilla.</p>
+            <p><bold>Funding:</bold> Digitisation of this biological collection is supported by Spanish National R+D+i Plan (MICINN, Spanish Government, grant ref. PTA2010-4108-I) and PCTI Asturias (Asturias Regional Government, ref. COF11-38) through a contract for ATB.</p>
+            <p><bold>Study area descriptions/descriptor:</bold> Majority of the <tp:taxon-name>Odonata</tp:taxon-name> specimens depo-sited in BOS Arthropod Collection are from Iberian Peninsula, which has a geographic extent of 581,300 km<sup>2</sup>, located between latitude 36° and 43°47'N, and between longitude 3°29'E and 9° 29'W, placed at southwest end of Europe. The geographic location and relief distribution of the Iberian Peninsula was responsible for it being glacial refuge (and speciation centre) for many groups of organisms during quaternary period, with limited contact with the rest of the continent. Later on se-veral faunal species belonging to other regions colonised the Iberian Peninsula, which makes it an interesting place for biogeographic or distribution range variations linked to climate change studies. Climatic variation in the Iberian Peninsula is diverse, with annual average air temperature ranges between 2.5 °C in high mountains in the north (Pyrenees) and 17 °C in thermo-Mediterranean zones in the south. Annual average rainfall varies between less than 200 mm in south east (e.g. some zones in Almeria province) and about 2200 mm in the north-west (north Portugal and south Galicia) (<xref ref-type="bibr" rid="B1">AEMET and IM 2011</xref>). This climate variation can be analysed in a bioclimatic belts scheme (<xref ref-type="bibr" rid="B30">Rivas-Martínez 1987</xref>) or a Köppen-Geiger climate classification system (<xref ref-type="bibr" rid="B1">AEMET and IM 2011</xref>). Both systems shown a more humid zone in the north and more dry <!--PageBreak-->in the rest of the Iberian Peninsula, although mountain ranges in this zone have their peculiar less dry/less thermic climates.</p>
+            <p>According to the European Union Habitats Directive (Directive 92/43/CEE), most of the Iberian Peninsula is included in the Mediterranean region, with a narrow band in the north belonging to the Atlantic region and a bit of the Alpine region in the <!--PageBreak-->Pyrenees Mountains (biogeographic regions based on vegetation types are the same: <xref ref-type="bibr" rid="B31">Rivas-Martínez et al. 2004</xref>). Geographic limits between Mediterranean region and the other are along the southern slopes of the Cantabrian and Pyrenean ranges and in Galicia/northwest of Portugal. Although classification of limnological regions shows the first two bioregions joined in the Iberic-Macaronesian region and the Pyrenees retain as a separate region (<xref ref-type="bibr" rid="B19">Illies 1978</xref>, adopted in the Water Framework European Directive, Directive 2000/60/CE) and odonates are aquatic organism, their Iberian distribution seems better explained in the bioclimatic belts scheme (e.g., <xref ref-type="bibr" rid="B5">Brotons et al. 2009</xref>, <xref ref-type="bibr" rid="B26">Outomuro et al. 2010</xref>).</p>
+            <p><bold>Design description:</bold> <xref ref-type="fig" rid="F2">Figure 2</xref>, depicts the digitisation workflow. Prior to digitisation, specimen is carefully examined for its preservation status and if necessary, curative treatment is provided. Subsequent to this taxonomic identification status is examined. In case of non-identified specimens, taxonomic identification is carried out involving experts. Thereafter, data associated with specimens is digitised using ZOORBAR software. In case of absence of precise geo-coordinates, retrospective georeferencing is carried out. If the geo-coordinates are present, they are verified using digital cartography. Best practices as suggested by <xref ref-type="bibr" rid="B6">Chapman 2005a</xref>, <xref ref-type="bibr" rid="B9">Chapman and Wieczorek 2006</xref> are followed for the geo-referencing processes. Current accurate spelling of scientific names (<xref ref-type="bibr" rid="B2">Askew 2004</xref>, <xref ref-type="bibr" rid="B14">Dijkstra and Lewington 2006</xref>) and identification of specimens were reviewed in laboratory with suitable literature (<xref ref-type="bibr" rid="B18">Heidemann and Seidenbusch 2002</xref>, <xref ref-type="bibr" rid="B2">Askew 2004</xref>, <xref ref-type="bibr" rid="B14">Dijkstra and Lewington 2006</xref>, <xref ref-type="bibr" rid="B15">Doucet 2010</xref>) as there are explained at quality controls section.</p>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>BOS Arthropod Collection digitisation and data publishing workflow.</p></caption>
+                <graphic xlink:href="ZooKeys-306-037-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Taxonomic coverage">
+            <title>Taxonomic coverage</title>
+            <p><bold>General taxonomic coverage description:</bold> All specimens were identified to species or subspecies level with the help of authoritative literature (<xref ref-type="bibr" rid="B18">Heidemann and Seidenbusch 2002</xref>, <xref ref-type="bibr" rid="B2">Askew 2004</xref>, <xref ref-type="bibr" rid="B14">Dijkstra and Lewington 2006</xref>, <xref ref-type="bibr" rid="B15">Doucet 2010</xref>) and expert input. All nine dragonfly families recorded from the Iberian Peninsula are present in the collection and dataset. As shown in <xref ref-type="fig" rid="F3">Figure 3</xref>, <tp:taxon-name>Coenagrionidae</tp:taxon-name> and <tp:taxon-name>Calopterygidae</tp:taxon-name> are the most abundant families in the BOS Arthropod Collection: each represents approximately 21% of the total specimens deposited. The next most abundant families are the <tp:taxon-name>Libellulidae</tp:taxon-name> and <tp:taxon-name>Gomphidae</tp:taxon-name>, each representing approximately 16% of the total specimens deposited. Of the 79 species of known <tp:taxon-name>Odonata</tp:taxon-name> from the Iberian Peninsula (<xref ref-type="bibr" rid="B34">Torralba Burrial 2009</xref>, <xref ref-type="bibr" rid="B21">Mezquita Aranburu et al. 2011</xref>), 71 have specimens deposited in the BOS Arthropod Collection. <xref ref-type="table" rid="T1">Table 1</xref> provides an account of the number of specimens of key taxa. The BOS Arthropod Collection also includes the holotype and paratypes of the Iberian subspecies <italic><tp:taxon-name>Calopteryx haemorrhoidalis asturica</tp:taxon-name></italic> Ocharan, 1983 and <italic><tp:taxon-name>Sympetrum vulgatum ibericum</tp:taxon-name></italic> Ocharan, 1985 (<xref ref-type="table" rid="T2">Table 2</xref>). Records of four protected species and nine threatened species (<italic>sensu</italic> the last update of the Spanish Invertebrate Red List: <xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref>) are also included in the dataset. Details about the type specimens and those of threatened and protected species housed in the BOS Arthropod Collection are provided in <xref ref-type="table" rid="T2">Table 2</xref>.</p>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p>Taxonomic distribution of the Iberian <tp:taxon-name>Odonata</tp:taxon-name> BOS-Odo dataset.</p></caption>
+                <graphic xlink:href="ZooKeys-306-037-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p>Taxonomic spread of specimens housed in BOS Arthropod collection.&lt;br/&gt;</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Taxa</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Nos. of genera</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Nos. of species</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Nos. of specimens in the collection</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Calopterygidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">3114</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Calopteryx</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">3114</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Coenagrionidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">3578</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Ceriagrion</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">203</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Coenagrion</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">872</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Enallagma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">434</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Erythromma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">267</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Ischnura</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">1453</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Pyrrhosoma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">349</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Lestidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">1160</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Chalcolestes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">403</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Lestes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">644</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Sympecma</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">113</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Platycnemididae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">499</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Platycnemis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">499</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Aeshnidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">1774</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Aeshna</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">481</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Anaciaeschna</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Anax</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">240</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Boyeria</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1042</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Brachytron</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Cordulegastridae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">387</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Cordulegaster</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">387</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Corduliidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">297</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Cordulia</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Macromia</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Oxygastra</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">290</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Somatochlora</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Gomphidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">2687</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Gomphus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">97</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Onychogomphus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">2590</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family <tp:taxon-name>Libellulidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">2778</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Brachythemis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">13</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Crocothemis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">321</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Leucorrhinia</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Libellula</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">179</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Orthetrum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">565</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Selysiothemis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Sympetrum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">1654</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Trithemis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">41</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic>Genus</italic> <italic><tp:taxon-name>Zygonyx</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">TOTAL</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">78</td>
+                            <td rowspan="1" colspan="1">16604</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T2" position="float" orientation="portrait">
+                <label>Table 2.</label>
+                <caption><p>Type specimens and specimens of threatened and protected species housed in BOS Arthropod collection.&lt;br/&gt;</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Scientific name</bold></th>
+                            <th rowspan="1" colspan="1"><bold>BOS-Odo ID</bold></th>
+                            <th rowspan="1" colspan="1"><bold><xref ref-type="fn" rid="FN1">*</xref></bold></th>
+                            <th rowspan="1" colspan="1"><bold>Reference</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aeshna juncea</tp:taxon-name></italic> (Linnaeus, 1758)</td>
+                            <td rowspan="1" colspan="1">1201-1213, 4421, 4665-4668, 6736-6737, 9499-9507, 10000-10002, 12120-12126, 13983-13985, 16235-16237</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Brachytron pratense</tp:taxon-name></italic> (Müller, 1764)</td>
+                            <td rowspan="1" colspan="1">1268-1271, 5668</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B38">Verdú and Galante 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" colspan="1"><italic><tp:taxon-name>Calopteryx haemorrhoidalis asturica</tp:taxon-name></italic> Ocharan, 1983</td>
+                            <td rowspan="1" colspan="1">3715</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B22">Ocharan 1983</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3705-3714, 3716-3756, 3775-3804, 7381-7385,7393</td>
+                            <td rowspan="1" colspan="1">P</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B22">Ocharan 1983</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coenagrion caerulescens</tp:taxon-name></italic> (Fonsbolombe, 1838)</td>
+                            <td rowspan="1" colspan="1">1944-1972, 4096-4100, 4972-4980, 5077-5079, 5777-5079, 5787-5788, 6123-6158, 6560-6561, 7115-7140, 11608, 11830-11831, 14367-14375</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coenagrion mercuriale</tp:taxon-name></italic>(Charpentier, 1840)</td>
+                            <td rowspan="1" colspan="1">1877-1943, 3894-4005, 4101-4124, 5109-5125, 5475-5476, 5738-5739, 5759, 6054-6086, 7141-7156, 8102-8106, 8374-8380, 11609-11620, 14354-14362</td>
+                            <td rowspan="1" colspan="1">L</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coenagrion scitulum</tp:taxon-name></italic>(Rambur, 1842)</td>
+                            <td rowspan="1" colspan="1">2012-2035, 4158-4162, 5068-5076, 5766-5770, 8373, 11595-11607, 11810-11819, 14364-14366,</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cordulegaster bidentata</tp:taxon-name></italic> Selys, 1843</td>
+                            <td rowspan="1" colspan="1">2847</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gomphus graslinii</tp:taxon-name></italic> Rambur, 1842</td>
+                            <td rowspan="1" colspan="1">4655-4656, 7258-7259, 13867-13868, 13883, 13931, 14205-14215, 16072-16074</td>
+                            <td rowspan="1" colspan="1">L</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B38">Verdú and Galante 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gomphus simillimus</tp:taxon-name></italic> Selys, 1840</td>
+                            <td rowspan="1" colspan="1">798, 4561, 5962, 6993, 8048-804, 13869-13882, 13972, 14203-14204, 14401-14402, 15924-15929, 16075-16077, 16128</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gomphus vulgatissimus</tp:taxon-name></italic>(Linnaeus, 1758)</td>
+                            <td rowspan="1" colspan="1">797, 5327-5328, 8051-8052, 16241</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Macromia splendens</tp:taxon-name></italic> (Pictet, 1843)</td>
+                            <td rowspan="1" colspan="1">14197-14198</td>
+                            <td rowspan="1" colspan="1">L</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B38">Verdú and Galante 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Onychogomphus costae</tp:taxon-name></italic> Selys, 1885</td>
+                            <td rowspan="1" colspan="1">5963, 6779-6780, 11788</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Orthetrum nitidinerve</tp:taxon-name></italic>(Selys, 1841)</td>
+                            <td rowspan="1" colspan="1">592-593, 3064</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oxygastra curtisii</tp:taxon-name></italic>(Dale, 1834)</td>
+                            <td rowspan="1" colspan="1">789-792, 4333-4335, 8041, 14186-14196, 14269-14275, 14612-14689, 14923-15019, 15543-15596, 16026-16059</td>
+                            <td rowspan="1" colspan="1">L</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B38">Verdú and Galante 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sympetrum flaveolum</tp:taxon-name></italic>(Linnaeus, 1758)</td>
+                            <td rowspan="1" colspan="1">187-193, 2871-2873, 2901, 4633-4634, 4645, 16133-16135, 16209-16233</td>
+                            <td rowspan="1" colspan="1">T</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B39">Verdú et al. 2011</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sympetrum striolatum</tp:taxon-name></italic> (Charpentier, 1840)</td>
+                            <td rowspan="1" colspan="1">16245, 16247</td>
+                            <td rowspan="1" colspan="1">G</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B37">Torralba-Burrial and Ocharan 2009</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sympetrum vulgatum ibericum</tp:taxon-name></italic> Ocharan, 1985</td>
+                            <td rowspan="1" colspan="1">194-206, 5640</td>
+                            <td rowspan="1" colspan="1">P</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B23">Ocharan 1985</xref></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <fn id="FN1">
+                        <p>*: G = gynandromorph, H = holotypus; L = legally protected species; P = paratypus; T = threatened sp. in Spain.</p>
+                    </fn>
+                </table-wrap-foot>
+            </table-wrap>
+            <!--PageBreak-->
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Taxonomic ranks">
+            <title>Taxonomic ranks</title>
+            <p><bold>Kingdom:</bold> <tp:taxon-name>Animalia</tp:taxon-name></p>
+            <p><bold>Phylum:</bold> <tp:taxon-name>Arthropoda</tp:taxon-name></p>
+            <p><bold>Class:</bold> <tp:taxon-name>Insecta</tp:taxon-name></p>
+            <p><bold>Order:</bold> <tp:taxon-name>Odonata</tp:taxon-name></p>
+            <p><bold>Family:</bold> <tp:taxon-name>Calopterygidae</tp:taxon-name>, <tp:taxon-name>Coenagrionidae</tp:taxon-name>, <tp:taxon-name>Lestidae</tp:taxon-name>, <tp:taxon-name>Platycnemididae</tp:taxon-name>, <tp:taxon-name>Aeshnidae</tp:taxon-name>, <tp:taxon-name>Cordulegastridae</tp:taxon-name>, <tp:taxon-name>Corduliidae</tp:taxon-name>, <tp:taxon-name>Gomphidae</tp:taxon-name>, <tp:taxon-name>Libellulidae</tp:taxon-name>.</p>
+            <p><bold>Common names:</bold> Dragonflies, Insects, Arthropods.</p>
+        </sec>
+        <sec sec-type="Spatial coverage">
+            <title>Spatial coverage</title>
+            <p><bold>General spatial coverage:</bold> As evident from <xref ref-type="fig" rid="F4">Figure 4</xref>, majority of the specimens (98.63% of total data) are from the Iberian Peninsula (mainly Spain, but also records of Portugal). The Northern part of the Peninsula is better covered: Asturias (~ 4100 specimens) and Huesca (~3400) are the provinces with more exemplars, followed by Navarra, Teruel, Zaragoza, León, Álava and Vizcaya (between 1700-500 records). Data of other 32 Spanish provinces and 2 old Portuguese continental provinces (3 districts) are available in the database (<xref ref-type="fig" rid="F5">Fig. 5</xref>). Other countries appear in the collection with few specimens: Morocco and Austria, the following countries by specimens, have 40 registers each one.</p>
+            <p><bold>Coordinates:</bold> 30°0'0&quot;N and 47°0'0&quot;N Latitude; 27°0'0&quot;W and 32°0'0&quot;E Longitude.</p>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figure 4.</label>
+                <caption><p>Geographic distribution of specimens in the BOS-Odo dataset: <bold>a</bold> global distribution <bold>b</bold> Iberian distribution.</p></caption>
+                <graphic xlink:href="ZooKeys-306-037-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figure 5.</label>
+                <caption><p>Specimens in each Spanish/Portuguese provinces in the BOS-Odo dataset.</p></caption>
+                <graphic xlink:href="ZooKeys-306-037-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Temporal coverage">
+            <title>Temporal coverage</title>
+            <p>1950 – 2012.</p>
+        </sec>
+        <sec sec-type="Natural collections description">
+            <title>Natural collections description</title>
+            <p><bold>Parent collection identifier:</bold> Colección de Artrópodos BOS</p>
+            <p><bold>Collection name:</bold> Colección de Artrópodos BOS de la Universidad de Oviedo: <tp:taxon-name>Odonata</tp:taxon-name> (BOS-Odo)</p>
+            <p><bold>Collection identifier:</bold> <ext-link ext-link-type="uri" xlink:href="http://data.gbif.org/datasets/resource/12776/" xlink:type="simple">http://data.gbif.org/datasets/resource/12776/</ext-link></p>
+            <p><bold>Specimen preservation method:</bold> Specimens are preserved as dry specimens (pinned or in transparent envelopes or in tubes) or in 70° ethanol, sorted alphabetically by family/genus/species and numerically by specimen code in drawers of metallic mobile cabinets in a cold chamber at 6 °C. In drawers with dry specimens paradichlorobenzene is used as insecticide, an additional protection for when the drawers are taken to the lab for study (see <xref ref-type="bibr" rid="B3">Barrientos 2004</xref>).</p>
+            <p><bold>Curatorial unit:</bold> 16604 with an uncertainty of 0 (Specimens)</p>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p><bold>Method step description:</bold> The processing workflow is shown in <xref ref-type="fig" rid="F2">Figure 2</xref>. Prior to di-gitisation, odonate specimens in the BOS Arthropod Collection were examined and their preservation status revised: specimens were pinned, labelled and frozen to deparasitize when necessary. The status of the prepared specimens is now as follows: half (48%) of the specimens hosted in the collection are pinned adults, 22% are preserved in 70% ethanol, 18% are dried exuviae and 11% are dry specimens in transparent envelopes. All specimens are stored in metal cabinets in a cold chamber (6°C). More information about these preparation and preservation methods can be found in Entomology handbooks (e.g., <xref ref-type="bibr" rid="B3">Barrientos 2004</xref>). Dry specimens pinned before the year 2000 were in entomological boxes with naphthalene as an insecticide; this product was later replaced <!--PageBreak-->by paradichlorobenzene. Use of these insecticides does not seem to impede the extraction and amplification of DNA from specimens (<xref ref-type="bibr" rid="B16">Espeland et al. 2010</xref>), but it can affect specimens’ colours (<xref ref-type="bibr" rid="B11">Dawson 1988</xref>) and researchers’ health (see <xref ref-type="bibr" rid="B17">Guerrero and Corsi 2012</xref> for a recent review of these insecticide effects). The amount of insecticides used in the BOS Arthropod Collection has been reduced in recent years for these reasons.</p>
+            <p>If a dragonfly specimen had been identified before the digitisation process, then its identification was revised. When the identification label was lacking or incomplete, specimens were identified with suitable literature (see section on quality control). All biodiversity data available on the specimens’ labels (i.e., specimen code, species identification and name of determiner, sex, biological phase, locality, date, habitat, collector and observations) were included in a database using ZOORBAR software (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.es/zoorbar/zoorbar.php" xlink:type="simple">http://www.gbif.es/zoorbar/zoorbar.php</ext-link>), which exports data in Darwin Core (v1.2) format.</p>
+            <p>A taxonomic thesaurus was developed that includes all synonyms used in Iberian <tp:taxon-name>Odonata</tp:taxon-name> publications and spelling variants of scientific names. The thesaurus was used to convert the species identifications archived in the offline database (i.e., the species names appearing on the original specimen labels) to the correct/verified scientific name prior to being exported to the online ZOORBAR database.</p>
+            <p>Other geographic data (municipality, GPS coordinates, altitude, etc.) from specimen labels or associated publications were added to the database when available. GPS coordinates (in UTM/MGRS format) were included without resolution changes (grids of 10 × 10 km or 1 × 1 km are common in entomological studies); ZOORBAR converts the coordinates to decimal degrees and fills out the uncertainty radius at the export data step. Retrospective georeferencing of specimens (see <xref ref-type="bibr" rid="B9">Chapman and Wieczorek 2006</xref>) was carried out using digital cartography tools (Google Earth and IBERPIX) if coordinates were not present on the specimen labels or in primary publications. Google Earth can be used to obtain locality coordinates and altitude; it also incorporates a measurement tool that can be used to calculate the uncertainty radius of the place georeferenced. IBERPIX (<ext-link ext-link-type="uri" xlink:href="http://www2.ign.es/iberpix/visoriberpix/visorign.html" xlink:type="simple">http://www2.ign.es/iberpix/visoriberpix/visorign.html</ext-link>) is a public gazetteer combining data, maps, satellite images and orthophotographs compiled by the Spanish National Geographic Institute, with a better searchable toponyms database. An accurate, effective, reliable and quick georeferencing process can be acheived by combining the information provided by both tools. Records were sorted geographically for batch retrospective georeferencing, starting with larger batches (<xref ref-type="bibr" rid="B9">Chapman and Wieczorek 2006</xref>).</p>
+            <p>Biodiversity data were exported to a dataset in Darwin Core (v1.2) format. DARWIN_TEST software was used to validate and clean the geographic, taxonomic and additional data associated with the specimens. Erroneous data were corrected and data cleaning was repeated to enhance the data quality (see details in the section on quality control).</p>
+            <p>Coordinates of threatened species protected by law (e.g., <italic><tp:taxon-name>Macromia splendens</tp:taxon-name></italic>, <italic><tp:taxon-name>Oxygastra curtisii</tp:taxon-name></italic>, <italic><tp:taxon-name>Gomphus graslinii</tp:taxon-name></italic> and <italic><tp:taxon-name>Coenagrion mercuriale</tp:taxon-name></italic>, included in the European Union Habitats Directive and in the Spanish Catalogue of Threatened Species) have been generalised to 0.01° in the online database (see <xref ref-type="bibr" rid="B8">Chapman and Grafton 2008</xref> for details on generalising sensitive data).</p>
+            <p><!--PageBreak-->The dataset was transformed to a Darwin Core Archive format with metadata and was uploaded to the Integrated Publishing Toolkit (IPT v2.0.4) of the Spanish node of the Global Biodiversity Information Facility (GBIF) (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.es:8080/ipt" xlink:type="simple">http://www.gbif.es:8080/ipt</ext-link>). On the BOS Arthropod Collection website (<ext-link ext-link-type="uri" xlink:href="http://www.unioviedo.es/BOS/Zoologia/artropodos" xlink:type="simple">http://www.unioviedo.es/BOS/Zoologia/artropodos</ext-link>), links to data pertaining to the BOS odonate specimens included in the GBIF data portal were also provided. The offline version of the dataset includes the identification history of each specimen (17846 items), the habitats in which the specimens were collected, and notes on materials derived from specimens (e.g., microscopic preparations, morphometric data, publications, etc.). This information is available on request.</p>
+            <p><bold>Study extent description:</bold> Specimens are mainly from the north half of the Iberian Peninsula, and were collected between 1973 and 2012 (though there are some outliers from other territories or time periods). Half of the Iberian odonate records in the dataset are from the 2000s and a quarter from the 1980s, which can facilitate comparisons over time to assess changes in distribution related to global change, climate change or specific alterations of ecosystems.</p>
+            <p><bold>Sampling description:</bold> Material deposited in the <tp:taxon-name>Odonata</tp:taxon-name> subcollection of the BOS Arthropod Collection has been collected in three ways (<xref ref-type="fig" rid="F6">Fig. 6</xref>):</p>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figure 6.</label>
+                <caption><p>Sources of dragonfly specimens in this dataset.</p></caption>
+                <graphic xlink:href="ZooKeys-306-037-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>1)	Specimens from PhD dissertations carried out at the University of Oviedo (<xref ref-type="bibr" rid="B24">Ocharan Larrondo 1987</xref>, <xref ref-type="bibr" rid="B33">Torralba-Burrial 2008</xref>, <xref ref-type="bibr" rid="B25">Outomuro Priede 2011</xref>) (54.75% of specimens).</p>
+            <p>2)	Specimens collected during research projects, contracts, and development studies in the Department of Biology of Organisms and Systems of the University of Oviedo (32.15%).</p>
+            <p>3)	Specimens from other sources: collections from students in Biology and Forestry Engineering programs at the University of Oviedo, practical courses and other sources (13.1%).</p>
+            <p>Odonates from source types 1 and 2 were collected using standardized sampling methods according to the requirements of each PhD thesis or project. Specimens from source type 3 are considered to be derived from opportunistic, unplanned and non-standardized sampling. General sampling methods include the collection of adult dragonflies with an entomological net (75.76% of records), exuviae picked directly from a substrate (18.35%), and larvae collected with an entomological net or a Surber sampler (5.82%) (see <xref ref-type="bibr" rid="B3">Barrientos 2004</xref>, <xref ref-type="bibr" rid="B36">Torralba-Burrial and Ocharan 2007b</xref>).</p>
+            <p>Specimens deposited by <xref ref-type="bibr" rid="B24">Ocharan (1987)</xref> were collected mainly in the provinces of Asturias (42.14%), Guipúzcoa (12.95%), Burgos and Cáceres (both ~8.8%), León (6.57%), Cantabria and Vizcaya (both 3.2%). Sampling was carried out with the intent to capture all species present in each locality. Specimens collected by <xref ref-type="bibr" rid="B33">Torralba-Burrial (2008)</xref> are from Aragón, and include adults (184 localities; sampling was performed until all species seen in each locality each day were captured, with a minimum two sampling sessions), larvae (standardized Surber samples from 140 fluvial reaches: <xref ref-type="bibr" rid="B35">Torralba-Burrial and Ocharan 2007a</xref>) and exuviae (visual search of the river banks of <!--PageBreak-->the 140 reaches sampled, with at least two sampling sessions in each locality). <xref ref-type="bibr" rid="B25">Outomuro’s (2011)</xref> specimens are almost all adults of <italic><tp:taxon-name>Calopteryx</tp:taxon-name></italic> spp.</p>
+            <p>It is not feasible to describe in detail the specific methodologies of each project or study of source 2), but all follow the general guidelines outlined above (examples of different methods in <xref ref-type="bibr" rid="B20">Martínez and Ocharan 2006</xref>, <xref ref-type="bibr" rid="B36">Torralba-Burrial and Ocharan 2007b</xref>, 2008). In the last few years, conservation efforts have led to a reduction in the collection of adults and an increased use of photographic records (not included in the dataset) unless the sacrifice of specimens is deemed necessary.</p>
+            <p><bold>Quality control description:</bold> Validation and cleaning of geographic, taxonomic and additional data associated with the dragonfly specimens was incorporated at se-veral steps of the process (<xref ref-type="fig" rid="F2">Fig. 2</xref>) as an essential component of the digitisation project (see <xref ref-type="bibr" rid="B6">Chapman 2005a</xref>, <xref ref-type="bibr" rid="B7">b</xref>).</p>
+            <p>The identifications of all specimens were revised (or performed for the first time when no determination label was available with the original material) by A. Torralba-Burrial between 2010-2012 using suitable literature (adults: <xref ref-type="bibr" rid="B2">Askew 2004</xref>, <xref ref-type="bibr" rid="B14">Dijkstra and Lewington 2006</xref>; larvae and exuviae: <xref ref-type="bibr" rid="B18">Heidemann and Seidenbusch 2002</xref>, <xref ref-type="bibr" rid="B2">Askew 2004</xref>, <xref ref-type="bibr" rid="B15">Doucet 2010</xref>).</p>
+            <p>Scientific names on labels were checked with a taxonomic thesaurus. This thesaurus was generated by the authors and includes all synonyms used in Iberian <tp:taxon-name>Odonata</tp:taxon-name> publications, as well as spelling variants of scientific names. Current European dra-gonfly taxonomy trends (<xref ref-type="bibr" rid="B14">Dijkstra and Lewington 2006</xref>, <xref ref-type="bibr" rid="B13">Dijkstra and Kalkman 2012</xref>) have been considered in the assignment of valid scientific names. Geographic data <!--PageBreak-->appearing on the original specimen labels were cross-checked with known published localities when available. Geographic/UTM/MGRS coordinates shown in published sources were assumed to be correct when no coordinates were included on the labels.</p>
+            <p>Unique collections’ accession numbers were assigned to each specimen. Other validation procedures, including geographic coordinates format, coordinates within country/provincial boundaries, congruence between collection and identification dates and absence of ASCII anomalous characters in the dataset were checked with DARWIN_TEST (v1.3) software (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.es/darwin_test/Darwin_test.php" xlink:type="simple">http://www.gbif.es/darwin_test/Darwin_test.php</ext-link>). Specimens with original MGRS coordinates in a 10 × 10 km grid failed to meet the bounding-box validation in localities near coastlines and country or provincial boundaries, but these coordinates (converted to decimal degrees) were kept in the dataset with the estimated uncertainty radius.</p>
+        </sec>
+        <sec sec-type="Datasets">
+            <title>Datasets</title>
+            <sec sec-type="Dataset description">
+                <title>Dataset description</title>
+                <p><bold>Object name:</bold> Darwin Core Archive Iberian <tp:taxon-name>Odonata</tp:taxon-name> distribution: data of the BOS Arthropod Collection of the University of Oviedo</p>
+                <p><bold>Character encoding:</bold> UTF-8</p>
+                <p><bold>Format name:</bold> Darwin Core Archive format</p>
+                <p><bold>Format version:</bold> 1.0</p>
+                <p><bold>Distribution:</bold> <ext-link ext-link-type="uri" xlink:href="http://www.gbif.es:8080/ipt/archive.do?r=Bos-Odo" xlink:type="simple">http://www.gbif.es:8080/ipt/archive.do?r=Bos-Odo</ext-link></p>
+                <p><bold>Publication date of data:</bold> 2013-04-08</p>
+                <p><bold>Language:</bold> Spanish</p>
+                <p><bold>Licenses of use:</bold> This dataset [Colección de Artrópodos BOS de la Universidad de Oviedo: <tp:taxon-name>Odonata</tp:taxon-name> (BOS-Odo)] is made available under the Open Data Commons Attribution License: <ext-link ext-link-type="uri" xlink:href="http://www.opendatacommons.org/licenses/by/1.0/" xlink:type="simple">http://www.opendatacommons.org/licenses/by/1.0/</ext-link></p>
+            </sec>
+            <sec sec-type="External datasets">
+                <title>External datasets</title>
+                <p><bold>Dataset description</bold></p>
+                <p><bold>Object name:</bold> Colección de Artrópodos Biología de Organismos y Sistemas, Oviedo: odonatos</p>
+                <p><bold>Character encoding:</bold> iso-8859-1</p>
+                <p><bold>Format name:</bold> Darwin Core Archive</p>
+                <p><bold>Format version:</bold> 1.0</p>
+                <p><bold>Distribution:</bold> <ext-link ext-link-type="uri" xlink:href="http://data.gbif.org/datasets/resource/12776" xlink:type="simple">http://data.gbif.org/datasets/resource/12776</ext-link></p>
+                <p><bold>Metadata language:</bold> English</p>
+                <p><bold>Date of metadata creation:</bold> 2013-03-20</p>
+                <p><bold>Hierarchy level:</bold> Dataset</p>
+                <!--PageBreak-->
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Pablo Muñoz (Universidad Autónoma de Madrid) and Francisco Pando (Spanish GBIF node - CSIC) reviewed the manuscript and provided helpful comments. Vishwas Chavan and anonymous reviewers enhanced it with their suggestions. The Global Biodiversity Information Facility (GBIF) financed the publication of this data paper.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref-list>
+            <label>1) References cited within the metadata</label>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>AEMET</surname> <given-names>IM</given-names></name></person-group> (<year>2011</year>) <source>Atlas climático ibérico / Iberian climate atlas.</source> <publisher-name>Agencia Estatal de Meteo-rología, Ministerio de Medio Ambiente y Rural y Marino, Madrid</publisher-name>, <publisher-loc>Instituto de Meteorologia de Portugal</publisher-loc>, <lpage>80</lpage> pp.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Askew</surname> <given-names>RR</given-names></name></person-group> (<year>2004</year>) <source>The dragonflies of Europe (revised edition).</source> <publisher-name>Harley Books</publisher-name>, <publisher-loc>Colchester</publisher-loc>, <lpage>308</lpage> pp.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Barrientos</surname> <given-names>JA (Ed)</given-names></name></person-group> (<year>2004</year>) <source>Curso práctico de Entomología.</source> <publisher-name>Asociación Española de Entomología, CIBIO Centro Iberoamericano de la Biodiversidad, Alicante, Universitat Autònoma de Barcelona</publisher-name>, <publisher-loc>Bellaterra</publisher-loc>, <lpage>947</lpage> pp.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Boudot</surname> <given-names>JP</given-names></name><name name-style="western"><surname>Kalkman</surname> <given-names>VJ</given-names></name><name name-style="western"><surname>Azpilicueta</surname> <given-names>Amorín M</given-names></name><name name-style="western"><surname>Bogdanović</surname> <given-names>T</given-names></name><name name-style="western"><surname>Cordero</surname> <given-names>Rivera A</given-names></name><name name-style="western"><surname>Degabriele</surname> <given-names>G</given-names></name><name name-style="western"><surname>Domanget</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Ferreira</surname> <given-names>S</given-names></name><name name-style="western"><surname>Garrigós</surname> <given-names>B</given-names></name><name name-style="western"><surname>Jović</surname> <given-names>M</given-names></name><name name-style="western"><surname>Kotarac</surname> <given-names>M</given-names></name><name name-style="western"><surname>Lopau</surname> <given-names>W</given-names></name><name name-style="western"><surname>Masrinov</surname> <given-names>M</given-names></name><name name-style="western"><surname>Mihoković</surname> <given-names>N</given-names></name><name name-style="western"><surname>Riservato</surname> <given-names>E</given-names></name><name name-style="western"><surname>Samraoui</surname> <given-names>B</given-names></name><name name-style="western"><surname>Schneider</surname> <given-names>W</given-names></name></person-group> (<year>2009</year>) <article-title>Atlas of the Odonata of the Mediterranean and North Africa.</article-title> <source>Libellula Supplement</source> <volume>9</volume>: <fpage>1</fpage>-<lpage>256</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brotóns</surname> <given-names>Padilla M</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>) <article-title><italic>Anaciaeschna isoceles</italic> (Müller, 1767) en el ámbito iberobalear (Odonata: Aeshnidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>44</volume>: <fpage>365</fpage>-<lpage>374</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name></person-group> (<year>2005a</year>) <source>Principles and Methods of Data Cleaning – Primary Species and Species-Occurrence Data, version 1.0.</source> <publisher-name>Global Biodiversity Information Facility</publisher-name>, <publisher-loc>Copenhagen</publisher-loc>, <lpage>75</lpage> pp.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name></person-group> (<year>2005b</year>) <source>Principles of Data Quality, version 1.0.</source> <publisher-name>Global Biodiversity Information Facility</publisher-name>, <publisher-loc>Copenhagen</publisher-loc>, <lpage>61</lpage> pp.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Grafton</surname> <given-names>O</given-names></name></person-group> (<year>2008</year>) <source>Guide to Best Practices for Generalising Sensitive Species Occurence Data, version 1.0.</source> <publisher-name>Global Biodiversity Information Facility</publisher-name>, <publisher-loc>Copenhagen</publisher-loc>, <lpage>27</lpage> pp.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Wieczorek</surname> <given-names>J</given-names></name></person-group> (<role>Eds</role>) (<year>2006</year>) <source>Guide to Best Practices for Georeferencing.</source> <publisher-name>Global Biodiversity Information Facility</publisher-name>, <publisher-loc>Copenhagen</publisher-loc>, <lpage>90</lpage> pp.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Conze</surname> <given-names>K-J</given-names></name><name name-style="western"><surname>Grönhagen</surname> <given-names>N</given-names></name><name name-style="western"><surname>Lohr</surname> <given-names>M</given-names></name><name name-style="western"><surname>Menke</surname> <given-names>N</given-names></name></person-group> (<year>2010</year>) <article-title>Trends in occurrence of thermophilous dragonfly species in North Rhine-Westphalia (NRW).</article-title> <source>BioRisk</source> <volume>5</volume>: <fpage>31</fpage>-<lpage>45</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/biorisk.5.841" xlink:type="simple">10.3897/biorisk.5.841</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dawson</surname> <given-names>J</given-names></name></person-group> (<year>1988</year>) <article-title>The effects on insecticides on museum artifacts and materials.</article-title> In: <person-group><name name-style="western"><surname>Zycherman</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Schrock</surname> <given-names>JR</given-names></name></person-group> (<role>Eds</role>). <issue-title>A guide to museum pest control.</issue-title> <source>Foundation of the American Ins-titute for Conservation of Historic and Artistic works and the Associations of Systematics Collections, Washington D.C.</source>: <fpage>135</fpage>-<lpage>150</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Knijf</surname> <given-names>G</given-names></name><name name-style="western"><surname>Anselin</surname> <given-names>A</given-names></name></person-group> (<year>2010</year>) <article-title>When south goes north: Mediterranean dragonflies (Odonata) conquer Flanders (North-Belgium).</article-title> <source>BioRisk</source> <volume>5</volume>: <fpage>141</fpage>-<lpage>153</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/biorisk.5.855" xlink:type="simple">10.3897/biorisk.5.855</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dijkstra</surname> <given-names>KDB</given-names></name><name name-style="western"><surname>Kalkman</surname> <given-names>VJ</given-names></name></person-group> (<year>2012</year>) <article-title>Phylogeny, classification and taxonomy of European dragonflies and damselflies (Odonata): a review.</article-title> <source>Organisms Diversity &amp; Evolution</source> <volume>12</volume>: <fpage>209</fpage>-<lpage>227</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s13127-012-0080-8" xlink:type="simple">10.1007/s13127-012-0080-8</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dijkstra</surname> <given-names>KDB</given-names></name><name name-style="western"><surname>Lewington</surname> <given-names>R</given-names></name></person-group> (<year>2006</year>) <source>Field guide to the Dragonflies of Britain and Europe.</source> <publisher-name>Bri-tish Wildlife Publishing</publisher-name>, <publisher-loc>Dorset</publisher-loc>, <lpage>320</lpage> pp.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Doucet</surname> <given-names>G</given-names></name></person-group> (<year>2010</year>) <source>Clé de détermination des Exuvies des Odonates de France.</source> <publisher-name>Société française d’odonatologie</publisher-name>, <publisher-loc>Bois-d’Arcy</publisher-loc>, <lpage>68</lpage> pp.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Espeland</surname> <given-names>M</given-names></name><name name-style="western"><surname>Irestedt</surname> <given-names>M</given-names></name><name name-style="western"><surname>Johanson</surname> <given-names>KA</given-names></name><name name-style="western"><surname>Åkerlund</surname> <given-names>M</given-names></name><name name-style="western"><surname>Bergh</surname> <given-names>JE</given-names></name><name name-style="western"><surname>Källersjö</surname> <given-names>M</given-names></name></person-group> (<year>2010</year>) <source>Dichlorvos exposure impedes extraction and amplification of DNA from insects in museum collections. Frontiers in Zoology 7:2.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1742-9994-7-2" xlink:type="simple">10.1186/1742-9994-7-2</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Guerrero</surname> <given-names>PA</given-names></name><name name-style="western"><surname>Corsi</surname> <given-names>RL</given-names></name></person-group> (<year>2012</year>) <article-title>Emissions of p-dichlorobenzene and naphthalene from consumer products.</article-title> <source>Journal of the Air &amp; Waste Management Association</source> <volume>62</volume>: <fpage>1075</fpage>-<lpage>1084</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10962247.2012.694399" xlink:type="simple">10.1080/10962247.2012.694399</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heidemann</surname> <given-names>H</given-names></name><name name-style="western"><surname>Seidenbusch</surname> <given-names>R</given-names></name></person-group> (<year>2002</year>) <source>Larves et exuvies des libellules de France et d’Allemagne (sauf de Corse).</source> <publisher-name>Société française d’odonatologie</publisher-name>, <publisher-loc>Bois-d’Arcy</publisher-loc>, <lpage>416</lpage> pp.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Illies</surname> <given-names>J (Ed)</given-names></name></person-group> (<year>1978</year>) <source>Limnofauna europaea.</source> <publisher-name>Gustav Fischer Verlag, Stuttgart</publisher-name>, <publisher-loc>Swets &amp; Zeitlinger B. V. Amsterdam</publisher-loc>, <lpage>533</lpage> pp.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Martínez</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <article-title>Los odonatos de la cuenca alta del río Narcea (Asturias, norte de España).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>38</volume>: <fpage>279</fpage>-<lpage>285</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mezquita-Aranburu</surname> <given-names>I</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>) <article-title>Primera cita de <italic>Orthetrum albistylum</italic>(Sélys, 1848) (Odonata: Libellulidae) para la Península Ibérica.</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>35</volume>: <fpage>519</fpage>-<lpage>523</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1983</year>) <article-title><italic>Calopteryx haemorrhoidalis asturica</italic>, nueva subespecie de caballito del diablo del Norte de España (Odonata; Zygoptera).</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>31</volume>: <fpage>3</fpage>-<lpage>10</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1985</year>) <article-title><italic>Sympetrum vulgatum ibericum</italic>, n. ssp (Odonata, Libellulidae). Nueva subespecie de libélula del Norte de España.</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>36</volume>: <fpage>75</fpage>-<lpage>85</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>Larrondo FJ</given-names></name></person-group> (<year>1987</year>) <source>Los Odonatos de Asturias y España. Aspectos sistemáticos y faunísticos. PhD thesis, Oviedo, Spain: Universidad de Oviedo.</source></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>Priede D</given-names></name></person-group> (<year>2011</year>) <source>Posibles causas evolutivas de la variabilidad morfológica en especies ibéricas de <italic>Calopteryx</italic> Leach, 1815 (Odonata). PhD thesis, Oviedo, Spain: Universidad de Oviedo.</source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2010</year>) <source>Distribution of the Iberian <italic>Calopteryx</italic> damselflies and its relation with bioclimatic belts: Evolutionary and biogeographic implications. Journal of Insect Science, 10: 61.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1673/031.010.6101" xlink:type="simple">10.1673/031.010.6101</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Parr</surname> <given-names>AJ</given-names></name></person-group> (<year>2010</year>) <article-title>Monitoring of Odonata in Britain and possible insights into climate change.</article-title> <source>BioRisk</source> <volume>5</volume>: <fpage>127</fpage>-<lpage>139</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/biorisk.5.846" xlink:type="simple">10.3897/biorisk.5.846</ext-link></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pinniger</surname> <given-names>DB</given-names></name></person-group> (<year>2010</year>) <article-title>Saving our heritage. Pest management in museums and historic houses.</article-title> <source>Outlooks on Pest Management</source> <volume>21</volume>: <fpage>239</fpage>-<lpage>241</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1564/21oct12" xlink:type="simple">10.1564/21oct12</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Reguzzi</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Gariboldi</surname> <given-names>S</given-names></name><name name-style="western"><surname>Chiappini</surname> <given-names>E</given-names></name></person-group> (<year>2011</year>) <article-title>Preliminary observations on the use of low temperatures in the cultural heritage protection.</article-title> <source>Journal of Entomological and Acarological Research</source> <volume>43</volume>: <fpage>191</fpage>-<lpage>196</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rivas-Martínez</surname> <given-names>S</given-names></name></person-group> (<year>1987</year>) <source>Memoria del mapa de series de vegetación de España 1:400.000.</source> <publisher-name>Instituto Nacional para la Conservación de la Naturaleza</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>268</lpage> pp.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rivas-Martínez</surname> <given-names>S</given-names></name><name name-style="western"><surname>Penas</surname> <given-names>A</given-names></name><name name-style="western"><surname>Díaz</surname> <given-names>TE</given-names></name></person-group> (<year>2004</year>) <source>Biogeographic map of Europe. Cartographic Service University of León, León.</source></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Termaat</surname> <given-names>T</given-names></name><name name-style="western"><surname>Kalkman</surname> <given-names>VJ</given-names></name><name name-style="western"><surname>Bouwman</surname> <given-names>JH</given-names></name></person-group> (<year>2010</year>) <article-title>Changes in the range of dragonflies in the Netherlands and the possible role of temperature change.</article-title> <source>BioRisk</source> <volume>5</volume>: <fpage>155</fpage>-<lpage>173</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/biorisk.5.847" xlink:type="simple">10.3897/biorisk.5.847</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba</surname> <given-names>Burrial A</given-names></name></person-group> (<year>2008</year>) <source>Estado ecológico, comunidades de macroinvertebrados y de odonatos de la red fluvial de Aragón. PhD thesis, Oviedo, Spain: Universidad de Oviedo.</source></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>) <article-title>Odonatofauna ibérica y cambios recientes.</article-title> In: <person-group><name name-style="western"><surname>Sánchez</surname> <given-names>A</given-names></name><name name-style="western"><surname>Pérez</surname> <given-names>J</given-names></name><name name-style="western"><surname>Jiménez</surname> <given-names>E</given-names></name><name name-style="western"><surname>Tovar</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>). <issue-title>Los Odonatos de Extremadura.</issue-title> <source>Consejería de Industria, Energía y Medio Ambiente, Junta de Extremadura, Mérida</source>: <fpage>309</fpage>-<lpage>318</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007a</year>) <article-title>Protocolo para la evaluación del estado ecológico de la red fluvial de Aragón (NE de España) según sus comunidades de macroinvertebrados bentónicos.</article-title> <source>Limnetica</source> <volume>26</volume>: <fpage>149</fpage>-<lpage>162</lpage>.</mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007b</year>) <article-title>Comparación del muestreo de macroinvertebrados bentónicos fluviales con muestreador Surber y con red manual en ríos de Aragón (NE Península Ibérica).</article-title> <source>Limnetica</source> <volume>26</volume>: <fpage>13</fpage>-<lpage>24</lpage>.</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan,</surname> <given-names>FJ</given-names></name></person-group> (<year>2009</year>) <article-title>Two gynandromorphs of <italic>Sympetrum striolatum</italic> (Charpentier, 1840) (Odonata: Libellulidae).</article-title> <source>Entomological Science</source> <volume>12</volume>: <fpage>182</fpage>-<lpage>187</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1479-8298.2009.00321.x" xlink:type="simple">10.1111/j.1479-8298.2009.00321.x</ext-link></mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verdú</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Galante</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>) (<year>2009</year>) <source>Atlas de los Invertebrados Amenazados de España (Especies En Peligro Crítico y En Peligro).</source> <publisher-name>Dirección General para la Biodiversidad, Ministerio de Medio Ambiente</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>340</lpage> pp.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verdú</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Numa</surname> <given-names>C</given-names></name><name name-style="western"><surname>Galante</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>) (<year>2011</year>) <source>Atlas y Libro Rojo de los Invertebrados amenazados de España (Especies Vulnerables).</source> <publisher-name>Dirección General de Medio Natural y Política Forestal, Ministerio de Medio Ambiente, Medio Rural y Marino</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>1318</lpage> pp.</mixed-citation></ref>
+            </ref-list>
+            <ref-list>
+            <label>2) Publications using data of this dataset</label>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Álvarez</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2012</year>) <source>Primera cita de <italic>Sympetrum meridionale</italic> (Selys, 1841) (Odonata: Libellulidae) para Asturias (norte de la Península Ibérica). Boletín de la Sociedad Entomológica Aragonesa 51: 346.</source></mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brotóns</surname> <given-names>Padilla M</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>) <article-title><italic>Anaciaeschna isoceles</italic> (Müller, 1767) en el ámbito iberobalear (Odonata: Aeshnidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>44</volume>: <fpage>365</fpage>-<lpage>374</lpage>.</mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eroukhmanoff</surname> <given-names>F</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Svensson</surname> <given-names>EI</given-names></name></person-group> (<year>2009</year>) <article-title>Patterns of phenotypic divergence in wing covariance structure of calopterygid damselflies.</article-title> <source>Evolutionary Biology</source> <volume>102</volume>: <fpage>263</fpage>-<lpage>274</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s11692-009-9057-8" xlink:type="simple">10.1007/s11692-009-9057-8</ext-link></mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Galante</surname> <given-names>E</given-names></name><name name-style="western"><surname>Verdú</surname> <given-names>JR</given-names></name></person-group> (<year>2000</year>) <source>Los Artrópodos de la “Directiva Hábitats” en España.</source> <publisher-name>Organismo Autónomo de Parques Nacionales, Ministerio de Medio Ambiente</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>247</lpage> pp.</mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Martínez</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <article-title>Los odonatos de la cuenca alta del río Narcea (Asturias, norte de España).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>38</volume>: <fpage>279</fpage>-<lpage>285</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nores</surname> <given-names>Quesada C</given-names></name><name name-style="western"><surname>García-Rovés</surname> <given-names>González P</given-names></name></person-group> (<role>Eds</role>) (<year>2006</year>) <source>Libro Rojo de la Fauna del Principado de Asturias.</source> <publisher-name>Gobierno del Principado de Asturias y Obra social “la Caixa”</publisher-name>, <publisher-loc>Oviedo</publisher-loc>, <lpage>524</lpage> pp.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1980</year>) <article-title>Catálogo de la Colección de Odonatos (Insecta) del Departamento de Zoología de la Universidad de Oviedo.</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>26</volume>: <fpage>111</fpage>-<lpage>119</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1980</year>) <article-title>Sobre la presencia en Asturias de <italic>Calopteryx haemorrhoidalis occasi</italic> Capra, 1945 (Odonata; Zygoptera).</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>25</volume>: <fpage>129</fpage>-<lpage>133</lpage>.</mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1983</year>) <article-title><italic>Brachythemis leucosticta</italic> (Burm.) (Odonata: Libellulidae) en el Norte de España.</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>32</volume>: <fpage>3</fpage>-<lpage>9</lpage>.</mixed-citation></ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1983</year>) <article-title><italic>Calopteryx haemorrhoidalis asturica</italic>, nueva subespecie de caballito del diablo del Norte de España (Odonata; Zygoptera).</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>31</volume>: <fpage>3</fpage>-<lpage>10</lpage>.</mixed-citation></ref>
+            <ref id="B50"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1984</year>) <article-title>Captura de <italic>Gomphus vulgatissimus</italic> (L.) en el norte de España (Odonata: Gomphidae).</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos,</source> <volume>34</volume>: <fpage>3</fpage>-<lpage>6</lpage>.</mixed-citation></ref>
+            <ref id="B51"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1984</year>) <article-title>Odonatos capturados en el Parque Nacional de Covadonga (N de España).</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>34</volume>: <fpage>63</fpage>-<lpage>67</lpage>.</mixed-citation></ref>
+            <ref id="B52"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1985</year>) <article-title>Odonatos de Extremadura y Salamanca de la colección de Odonatos del Dpto. de Zoología de la Universidad de Oviedo.</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>36</volume>: <fpage>109</fpage>-<lpage>125</lpage>.</mixed-citation></ref>
+            <ref id="B53"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1985</year>) <article-title><italic>Sympetrum vulgatum ibericum</italic>, n. ssp (Odonata, Libellulidae). Nueva subespecie de libélula del Norte de España.</article-title> <source>Boletín de Ciencias Naturales del Instituto de Estudios Asturianos</source> <volume>36</volume>: <fpage>75</fpage>-<lpage>85</lpage>.</mixed-citation></ref>
+            <ref id="B54"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1987</year>) <article-title>Nuevos datos sobre los Odonatos de Menorca.</article-title> <source>Boletín de la Real Sociedad Española de Historia Natural (Sección Biológica)</source> <volume>83</volume>: <fpage>155</fpage>-<lpage>161</lpage>.</mixed-citation></ref>
+            <ref id="B55"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1988</year>) <article-title>Composición de la odonatofauna Ibérica.</article-title> <source>Revista de Biología de la Universidad de Oviedo</source> <volume>6</volume>: <fpage>83</fpage>-<lpage>93</lpage>.</mixed-citation></ref>
+            <ref id="B56"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1990</year>) <article-title>Variabilidad en poblaciones ibéricas de <italic>Cordulegaster boltoni</italic> (Donovan, 1807) (Odonata, Cordulegastridae).</article-title> <source>Revista de Biología de la Universidad de Oviedo</source> <volume>7</volume>: <fpage>109</fpage>-<lpage>121</lpage>.</mixed-citation></ref>
+            <ref id="B57"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1990</year>) <article-title>Variabilidad cromática en los Platycnemididae ibéricos (Odonata: Zygoptera).</article-title> <source>Oxyura</source> <volume>6</volume>: <fpage>41</fpage>-<lpage>47</lpage>.</mixed-citation></ref>
+            <ref id="B58"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1992</year>) <article-title>Odonata collected in Morocco and southern Andalucia (Spain).</article-title> <source>Notulae odonatologicae</source> <volume>3</volume>: <fpage>143</fpage>-<lpage>145</lpage>.</mixed-citation></ref>
+            <ref id="B59"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2004</year>) <article-title>La relación entre los odonatos y la altitud: el caso de Asturias (Norte de España) y la Península Ibérica (Odonata).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>35</volume>: <fpage>103</fpage>-<lpage>116</lpage>.</mixed-citation></ref>
+            <ref id="B60"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name></person-group> (<year>2006</year>) <source>Confirmación de la presencia de <italic>Anaciaeschna isosceles</italic> (Müller, 1767) en Asturias y primera cita para Cantabria (N España) (Odonata: Aeshnidae). Boletín de la Sociedad Entomológica Aragonesa 39: 396.</source></mixed-citation></ref>
+            <ref id="B61"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name></person-group> (<year>2007</year>) <article-title><italic>Brachytron pratense</italic> (Müller, 1764) en la Península Ibérica (Odonata, Aeshnidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>41</volume>: <fpage>307</fpage>-<lpage>312</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B62"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>Larrondo FJ</given-names></name></person-group> (<year>1987</year>) <source>Los Odonatos de Asturias y España. Aspectos sistemáticos y faunísticos. PhD thesis, Oviedo, Spain: Universidad de Oviedo.</source></mixed-citation></ref>
+            <ref id="B63"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>Larrondo FJ</given-names></name><name name-style="western"><surname>Anadón</surname> <given-names>Alvarez MA</given-names></name><name name-style="western"><surname>Melero</surname> <given-names>Cimas VX</given-names></name><name name-style="western"><surname>Monteserín</surname> <given-names>Real S</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>Ibarra R</given-names></name><name name-style="western"><surname>Rosa</surname> <given-names>García R</given-names></name><name name-style="western"><surname>Vázquez</surname> <given-names>Felechosa MT</given-names></name></person-group> (<year>2003</year>) <source>Invertebrados de la Reserva Natural Integral de Muniellos, Asturias.</source> <publisher-name>Consejería de Medio Ambiente del Principado de Asturias and KRK Ediciones</publisher-name>, <publisher-loc>Oviedo</publisher-loc>, <lpage>352</lpage> pp.</mixed-citation></ref>
+            <ref id="B64"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>R</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2002</year>) <article-title>Odonatos del Valle de Cuartango (Álava).</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>26</volume>: <fpage>97</fpage>-<lpage>110</lpage>.</mixed-citation></ref>
+            <ref id="B65"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ocharan</surname> <given-names>R</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2012</year>) <article-title>Primeras citas de <italic>Anax parthenope</italic> (Sélys, 1839) (Odonata: Aeshnidae) en Asturias (N España).</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>36</volume>: <fpage>465</fpage>-<lpage>467</lpage>.</mixed-citation></ref>
+            <ref id="B66"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name></person-group> (<year>2009</year>) <article-title>Patrones morfológicos latitudinales en poblaciones ibéricas de <italic>Calopteryx</italic> Leach, 1815 (Odonata, Calopterygidae): posibles causas ambientales y evolutivas.</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>33</volume>: <fpage>299</fpage>-<lpage>319</lpage>.</mixed-citation></ref>
+            <ref id="B67"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <source>Despigmentación alar en <italic>Calopteryx xanthostoma</italic> (Charpentier, 1825) (Odonata: Calopterygidae). Boletín de la Sociedad Entomológica Aragonesa 39: 360.</source></mixed-citation></ref>
+            <ref id="B68"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <article-title>Mordeduras y daños en las alas como resultado del combate territorial en <italic>Calopteryx</italic> (Odonata: Calopterygidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>39</volume>: <fpage>421</fpage>-<lpage>422</lpage>.</mixed-citation></ref>
+            <ref id="B69"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2010</year>) <article-title><italic>Gomphus simillimus</italic> Sélys, 1840 (Odonata, Gomphidae) en la cuenca del Segura y el sur de la cuenca del Duero (SE y Centro de España).</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>34</volume>: <fpage>245</fpage>-<lpage>248</lpage>.</mixed-citation></ref>
+            <ref id="B70"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan,</surname> <given-names>FJ</given-names></name></person-group> (<year>2011</year>) <article-title>The larval-life history of <italic>Calopteryx virgo meridionalis</italic> in Northern Spain and the voltinism in the South-western European species of the genus Calopteryx (Odonata: Calopterygidae).</article-title> <source>Entomologia Generalis</source> <volume>33</volume>: <fpage>125</fpage>-<lpage>135</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1127/entom.gen/33/2011/125" xlink:type="simple">10.1127/entom.gen/33/2011/125</ext-link></mixed-citation></ref>
+            <ref id="B71"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Herrero</surname> <given-names>F</given-names></name><name name-style="western"><surname>Pérez-Andueza</surname> <given-names>G</given-names></name></person-group> (<year>2010</year>) <article-title>Primera cita de <italic>Oxygastra curtisii</italic> (Dale, 1834) para la provincia de Ávila (Odonata: Corduliidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>46</volume>: <fpage>615</fpage>-<lpage>616</lpage>.</mixed-citation></ref>
+            <ref id="B72"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2010</year>) <source>Distribution of the Iberian <italic>Calopteryx</italic> damselflies and its relation with bioclimatic belts: Evolutionary and biogeographic implications. Journal of Insect Science, 10: 61.</source></mixed-citation></ref>
+            <ref id="B73"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Outomuro</surname> <given-names>Priede D</given-names></name></person-group> (<year>2011</year>) <source>Posibles causas evolutivas de la variabilidad morfológica en especies ibéricas de <italic>Calopteryx</italic> Leach, 1815 (Odonata). PhD thesis, Oviedo, Spain: Universidad de Oviedo.</source></mixed-citation></ref>
+            <ref id="B74"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rodríguez-Martínez</surname> <given-names>S</given-names></name><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2012</year>) <article-title>Teratología en el paraprocto derecho de una exuvia de <italic>Aeshna cyanea</italic> (Müller, 1764) (Odonata: Aeshnidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>51</volume>: <fpage>321</fpage>-<lpage>322</lpage>.</mixed-citation></ref>
+            <ref id="B75"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rodríguez-Martínez</surname> <given-names>S</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2011</year>) <article-title>Odonatos de la cuenca baja del Porcía y alrededores (Asturias, norte de España).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>48</volume>: <fpage>484</fpage>-<lpage>486</lpage>.</mixed-citation></ref>
+            <ref id="B76"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Saloña</surname> <given-names>Bordas MI</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1984</year>) <article-title>Odonatos de Vizcaya. I. Zigópteros.</article-title> <source>Cuadernos de Investigación Biológica (Bilbao),</source> <volume>5</volume>: <fpage>45</fpage>-<lpage>56</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B77"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Saloña</surname> <given-names>Bordas MI</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>1984</year>) <article-title>Odonatos de Vizcaya. II. Anisópteros.</article-title> <source>Cuadernos de Investigación Biológica (Bilbao),</source> <volume>6</volume>: <fpage>1</fpage>-<lpage>10</lpage>.</mixed-citation></ref>
+            <ref id="B78"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba</surname> <given-names>Burrial A</given-names></name></person-group> (<year>2008</year>) <source>Estado ecológico, comunidades de macroinvertebrados y de odonatos de la red fluvial de Aragón. PhD thesis, Oviedo, Spain: Universidad de Oviedo.</source></mixed-citation></ref>
+            <ref id="B79"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>) <source>Estado ecológico, comunidades de macroinvertebrados bentóni-cos y de odonatos de la red fluvial de Aragón.</source> <publisher-name>Consejo Económico y Social de Aragón</publisher-name>, <publisher-loc>Zaragoza</publisher-loc>, <lpage>224</lpage> pp.</mixed-citation></ref>
+            <ref id="B80"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>) <article-title>Odonatofauna ibérica y cambios recientes.</article-title> In: <person-group><name name-style="western"><surname>Sánchez</surname> <given-names>A</given-names></name><name name-style="western"><surname>Pérez</surname> <given-names>J</given-names></name><name name-style="western"><surname>Jiménez</surname> <given-names>E</given-names></name><name name-style="western"><surname>Tovar</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>). <issue-title>Los Odonatos de Extremadura.</issue-title> <source>Consejería de Industria, Energía y Medio Ambiente, Junta de Extremadura, Mérida</source>: <fpage>309</fpage>-<lpage>318</lpage>.</mixed-citation></ref>
+            <ref id="B81"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>) <article-title>Les llibélules d’Asturies.</article-title> <source>Ciencies, Cartafueyos Asturianos de Ciencia y Teunoloxía</source> <volume>1</volume>: <fpage>54</fpage>-<lpage>79</lpage>.</mixed-citation></ref>
+            <ref id="B82"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Alonso-Naveiro</surname> <given-names>M</given-names></name></person-group> (<year>2009</year>) <article-title>Las comunidades de libélulas (Odonata) del Parque Natural de Sierra de Cebollera (La Rioja, N España).</article-title> <source>Zubia</source> <volume>27</volume>: <fpage>7</fpage>-<lpage>52</lpage>.</mixed-citation></ref>
+            <ref id="B83"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Alonso-Naveiro</surname> <given-names>M</given-names></name></person-group> (<year>2010</year>) <article-title>Biodiversidad de odonatos de la sierra de Fon-fría y cuenca del Jiloca (Teruel): faunística.</article-title> <source>Xiloca</source> <volume>38</volume>: <fpage>111</fpage>-<lpage>147</lpage>.</mixed-citation></ref>
+            <ref id="B84"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Alonso-Naveiro</surname> <given-names>M</given-names></name></person-group> (<year>2011</year>) <article-title>Biodiversidad de odonatos de la sierra de Fon-fría y cuenca del Jiloca (Teruel): análisis de comunidades.</article-title> <source>Xiloca</source> <volume>39</volume>: <fpage>151</fpage>-<lpage>168</lpage>.</mixed-citation></ref>
+            <ref id="B85"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Mezquita</surname> <given-names>I</given-names></name></person-group> (<year>2009</year>) <article-title>Fallos en reconocimiento de pareja en libélulas: cinco tándems intrasexuales inter e intraespecíficos (Odonata: Lestidae, Coenagrionidae y Gomphidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>44</volume>: <fpage>522</fpage>-<lpage>524</lpage>.</mixed-citation></ref>
+            <ref id="B86"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2001</year>) <article-title>La calidad de las aguas del río Ara y sus comunidades de macroinvertebrados bentónicos. Sobrarbe.</article-title> <source>Revista del Centro de Estudios de Sobrarbe</source> <volume>7</volume>: <fpage>9</fpage>-<lpage>73</lpage>.</mixed-citation></ref>
+            <ref id="B87"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2002</year>) <article-title>Valoración preliminar del estado ecológico de los ríos del Parque Nacional de Ordesa y Monte Perdido (Huesca) según sus comunidades de macroinvertebrados bentónicos. Sobrarbe.</article-title> <source>Revista del Centro de Estudios de Sobrarbe</source> <volume>8</volume>: <fpage>127</fpage>-<lpage>164</lpage>.</mixed-citation></ref>
+            <ref id="B88"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2003</year>) <source>Emergencia tardía y voltinismo en <italic>Sympetrum fonscolombei</italic> (Odonata: Libellulidae). Boletín de la Sociedad Entomológica Aragonesa 33: 279–280.</source></mixed-citation></ref>
+            <ref id="B89"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2004</year>) <source>Deformación abdominal en <italic>Lestes viridis</italic> (Van der Linden, 1825) (Odonata: Lestidae). Boletín de la Sociedad Entomológica Aragonesa 34: 273.</source></mixed-citation></ref>
+            <ref id="B90"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2004</year>) <source>Fallo en la emergencia en <italic>Aeshna juncea</italic> (Odonata: Aeshnidae). Boletín de la Sociedad Entomológica Aragonesa 35: 279.</source></mixed-citation></ref>
+            <ref id="B91"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2004</year>) <article-title>Frogs as preys of dragonflies.</article-title> <source>Notulae Odonatologicae,</source> <volume>6</volume>: <fpage>42</fpage>-<lpage>44</lpage>.</mixed-citation></ref>
+            <ref id="B92"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2004</year>) <article-title>Pareja heterospecífica en el género <italic>Lestes</italic> Leach, 1815 (Odonata: Lestidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>35</volume>: <fpage>297</fpage>-<lpage>298</lpage>.</mixed-citation></ref>
+            <ref id="B93"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2004</year>) <article-title>Presencia y comportamiento invernal de adultos de <italic>Sympetrum striolatum</italic> en el NE de España (Odonata: Libellulidae).</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>28</volume>: <fpage>189</fpage>-<lpage>191</lpage>.</mixed-citation></ref>
+            <ref id="B94"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2004</year>) <article-title>Tándem heterospecífico en el género <italic>Onychogomphus</italic> Sélys, 1854 (Odonata: Gomphidae).</article-title> <source>Boletín de la Asociación española de Entomología</source> <volume>28</volume>: <fpage>181</fpage>-<lpage>183</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B95"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2005</year>) <article-title>Catálogo de los odonatos de Aragón (Odonata).</article-title> <source>Catalogus de la entomofauna aragonesa</source> <volume>32</volume>: <fpage>3</fpage>-<lpage>25</lpage>.</mixed-citation></ref>
+            <ref id="B96"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2005</year>) <article-title>Deformidad abdominal en <italic>Coenagrion mercuriale</italic> (Charpentier, 1825).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>36</volume>: <fpage>369</fpage>-<lpage>370</lpage>.</mixed-citation></ref>
+            <ref id="B97"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2005</year>) <source>Larga distancia recorrida en una emergencia fallida en <italic>Aeshna cyanea</italic> (Odonata: Aeshnidae). Boletín de la Sociedad Entomológica Aragonesa 36: 220.</source></mixed-citation></ref>
+            <ref id="B98"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2005</year>) <source>Primera cita de <italic>Ischnura elegans</italic> (Van der Linden, 1820) y <italic>Ceriagrion tenellum</italic> (Villers, 1789) (Odonata: Coenagrionidae) para Teruel (NE de España). Boletín de la Sociedad Entomológica Aragonesa 36: 284.</source></mixed-citation></ref>
+            <ref id="B99"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2005</year>) <source>Primera cita de <italic>Sympetrum vulgatum ibericum</italic> Ocharan, 1985 (Odonata, Libellulidae) para la provincia de Zaragoza. Boletín de la Sociedad Entomológica Aragonesa 36: 350.</source></mixed-citation></ref>
+            <ref id="B100"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <source>Confirmación de la presencia de <italic>Coenagrion mercuriale</italic> (Charpentier, 1825) e <italic>Ischnura elegans</italic> (Van der Linden, 1820) en la provincia de Zaragoza (NE España). Boletín de la Sociedad Entomológica Aragonesa 39: 284</source></mixed-citation></ref>
+            <ref id="B101"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <article-title>Deformación abdominal en <italic>Coenagrion puella</italic> (Linnaeus, 1758) (Odonata: Coenagrionidae).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>39</volume>: <fpage>439</fpage>-<lpage>440</lpage>.</mixed-citation></ref>
+            <ref id="B102"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <source>Deformidad abdominal en <italic>Pyrrhosoma nymphula</italic> (Sulzer, 1776) (Odonata: Coenagrionidae). Boletín de la Sociedad Entomológica Aragonesa 39: 437–438.</source></mixed-citation></ref>
+            <ref id="B103"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007</year>) <source>Presencia de <italic>Hemianax ephippiger</italic> (Burmeister, 1839) (Odonata: Aeshnidae) en la provincia de Huesca (NE España). Boletín de la Sociedad Entomológica Aragonesa 40: 426.</source></mixed-citation></ref>
+            <ref id="B104"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007</year>) <article-title>Comparación del muestreo de macroinvertebrados bentónicos fluviales con muestreador Surber y con red manual en ríos de Aragón (NE Península Ibérica).</article-title> <source>Limnetica</source> <volume>26</volume>: <fpage>13</fpage>-<lpage>24</lpage>.</mixed-citation></ref>
+            <ref id="B105"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007</year>) <article-title>Composición biogeográfica de la fauna de libélulas (Odonata) de la Península Ibérica, con especial referencia a la aragonesa.</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>41</volume>: <fpage>179</fpage>-<lpage>188</lpage>.</mixed-citation></ref>
+            <ref id="B106"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007</year>) <article-title>Dragonflies caught by plants (Odonata: Libellulidae).</article-title> <source>Entomologia Generalis</source> <volume>30</volume>: <fpage>301</fpage>-<lpage>305</lpage>.</mixed-citation></ref>
+            <ref id="B107"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007</year>) <article-title>Protocolo para la evaluación del estado ecológico de la red fluvial de Aragón (NE de España) según sus comunidades de macroinvertebrados bentónicos.</article-title> <source>Limnetica</source> <volume>26</volume>: <fpage>149</fpage>-<lpage>162</lpage>.</mixed-citation></ref>
+            <ref id="B108"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2008</year>) <article-title>Odonata de la red fluvial de la provincia de Teruel (España).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>42</volume>: <fpage>325</fpage>-<lpage>335</lpage>.</mixed-citation></ref>
+            <ref id="B109"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2008</year>) <article-title>Odonata de la red fluvial de la provincia de Huesca (NE España).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>43</volume>: <fpage>101</fpage>-<lpage>115</lpage>.</mixed-citation></ref>
+            <ref id="B110"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2008</year>) <article-title>Odonata del Somontano de Barbastro (Huesca, España).</article-title> <source>Boletín de la Sociedad Entomológica Aragonesa</source> <volume>42</volume>: <fpage>267</fpage>-<lpage>270</lpage>.</mixed-citation></ref>
+            <ref id="B111"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2009</year>) <source>Efectos de diversas piscifactorías aragonesas de trucha arco iris <italic>Oncorhynchus mykiss</italic> (Walbaum, 1792) sobre las comunidades de macroinvertebrados bentónicos. In: XII Congreso Nacional de Acuicultura, Madrid, 24–26 de noviembre, 732–733.</source></mixed-citation></ref>
+            <ref id="B112"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2009</year>) <article-title>Temporalidad y perturbaciones antrópicas en las comunidades de macroinvertebrados bentónicos de la subcuenca del río Arba (Zaragoza, NE España).</article-title> <source>Boletín de la Real Sociedad Española de Historia Natural (Sección Biológica)</source> <volume>103</volume>: <fpage>131</fpage>-<lpage>144</lpage>.</mixed-citation></ref>
+            <ref id="B113"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2010</year>) <source>Primera cita de <italic>Anax parthenope</italic> (Sélys, 1839) (Odonata: Aeshnidae) de La Rioja (España). Boletín de la Sociedad Entomológica Aragonesa 46: 418.</source></mixed-citation></ref>
+            <ref id="B114"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan,</surname> <given-names>FJ</given-names></name></person-group> (<year>2009</year>) <article-title>Two gynandromorphs of <italic>Sympetrum striolatum</italic> (Charpentier, 1840) (Odonata: Libellulidae).</article-title> <source>Entomological Science</source> <volume>12</volume>: <fpage>182</fpage>-<lpage>187</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1479-8298.2009.00321.x" xlink:type="simple">10.1111/j.1479-8298.2009.00321.x</ext-link></mixed-citation></ref>
+            <ref id="B115"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2010</year>) <source>Presencia de <italic>Ischnura elegans</italic>(Vander Linden, 1829)(Odonata: Coenagrionidae) en 1980 en Louro (Galicia, noroeste de España). Boletín de la Sociedad Entomológica Aragonesa 46: 466.</source></mixed-citation></ref>
+            <ref id="B116"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Dugnol</surname> <given-names>Menéndez J</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2006</year>) <source>Efectos de tres piscifactorías de salmónidos sobre las comunidades de macroinvertebrados bentónicos de los ríos donde se ubican. In: de Blas I, Velasco M, Montoya R (Eds) IV Congreso Iberoamericano Virtual de Acuicultura (CIVA 2006) 6-XII-2006/15-I-2007. Laboratorio de Ictopatología, Universidad de Zaragoza, Zaragoza, 529–540 (published 2007).</source></mixed-citation></ref>
+            <ref id="B117"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Melero</surname> <given-names>VX</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2007</year>) <source>Utilización de exuvias de <italic>Orthetrum brunneum</italic>(Fonscolombe, 1837) (Odonata: Libellulidae) como lugar de cría por <italic>Sibianor aurocinctus</italic> (Ohlert, 1865) (Araneae: Salticidae). Boletín de la Sociedad Entomológica Aragonesa 41: 344.</source></mixed-citation></ref>
+            <ref id="B118"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Torralba-Burrial</surname> <given-names>A</given-names></name><name name-style="western"><surname>Outomuro</surname> <given-names>D</given-names></name><name name-style="western"><surname>Ocharan</surname> <given-names>FJ</given-names></name></person-group> (<year>2008</year>) <source>Dos ejemplares teratológicos de <italic>Coenagrion puella</italic> (Linnaeus, 1758) (Odonata: Coenagrionidae). Boletín de la Sociedad Entomológica Aragonesa 42: 352.</source></mixed-citation></ref>
+            <ref id="B119"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verdú</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Galante</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>) (<year>2006</year>) <source>Libro Rojo de los Invertebrados de España.</source> <publisher-name>Dirección General de Conservación de la Naturaleza</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>411</lpage> pp.</mixed-citation></ref>
+            <ref id="B120"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verdú</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Galante</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>) (<year>2009</year>) <source>Atlas de los Invertebrados Amenazados de España (Especies En Peligro Crítico y En Peligro).</source> <publisher-name>Dirección General para la Biodiversidad, Ministerio de Medio Ambiente</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>340</lpage> pp.</mixed-citation></ref>
+            <ref id="B121"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verdú</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Numa</surname> <given-names>C</given-names></name><name name-style="western"><surname>Galante</surname> <given-names>E</given-names></name></person-group> (<role>Eds</role>) (<year>2011</year>) <source>Atlas y Libro Rojo de los Invertebrados amenazados de España (Especies Vulnerables).</source> <publisher-name>Dirección General de Medio Natural y Política Forestal, Ministerio de Medio Ambiente, Medio Rural y Marino</publisher-name>, <publisher-loc>Madrid</publisher-loc>, <lpage>1318</lpage> pp.</mixed-citation></ref>
+            <ref id="B122"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>VVAA</surname> <given-names></given-names></name></person-group> (<year>2012</year>) <source>Bases ecológicas preliminares para la conservación de las especies de interés comunitario en España: Invertebrados. Ministerio de Agricultura, Alimentación y Medio Ambiente, Madrid.</source></mixed-citation></ref>
+            </ref-list>
+        </ref-list>
+    </back>
+</article>

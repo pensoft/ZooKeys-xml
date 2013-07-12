@@ -1,0 +1,802 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.148.1854</article-id>
+            <title-group>
+                <article-title>Antennal cropping during colony foundation in termites</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Nalepa</surname>
+                        <given-names>Christine A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Evans</surname>
+                        <given-names>Theodore A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lenz</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Entomology, North Carolina State University, Raleigh, North Carolina 27695-7613 USA
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Biological Sciences, National University of Singapore, Singapore 117543
+            </aff>
+            <aff id="A3">
+                <label>3</label>CSIRO Ecosystem Services, Canberra ACT 2601 Australia
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Christine A. Nalepa (<email xlink:type="simple">christine_nalepa@ncsu.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Michael Engel</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>148</issue>
+            <fpage>185</fpage>
+            <lpage>196</lpage>
+            <history>
+                <date date-type="received">
+                    <day>27</day>
+                    <month>7</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>12</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Christine A. Nalepa, Theodore A. Evans, Michael Lenz</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The literature on pairing and mating behavior in termites indicates that a number of distal antennal segments in dealates of both sexes are often removed during colony foundation, with terms such as amputation, mutilation and cannibalism typically employed to report the phenomenon. Here we propose the use of the phrase ‘antennal cropping’ to describe the behavior, and assess naturally occurring levels of its occurrence by comparing the number of antennal segments in museum specimens of alates and dealates in 16 species of Australian termites (four families), supplemented by analyzing published data on <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic>. Dealates had significantly fewer antennal segments than alates in 14 of the 16 termite species, with both exceptions belonging to the family <tp:taxon-name>Termitidae</tp:taxon-name>. Levels of antennal cropping were not significantly different between the sexes but did vary by family. Dealates in the <tp:taxon-name>Kalotermitidae</tp:taxon-name> removed the most segments (41.3%) and those in the <tp:taxon-name>Termitidae</tp:taxon-name> removed the fewest (8.9%). We discuss the biological significance of this phylogenetically widespread termite behavior, and suggest that controlled antennal cropping is not only a normal part of their behavioral repertoire but also a key influence that changes the conduct and physiology of the royal pair during the initial stages of colony foundation.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>mutilation</kwd>
+                <kwd>cannibalism</kwd>
+                <kwd>density effects</kwd>
+                <kwd>incipient colony</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>Several studies of colony foundation in termites note that the antennae of newly flown alates are typically undamaged, but the terminal antennal segments in both sexes <!--PageBreak-->are removed during colony establishment (<xref ref-type="bibr" rid="B12">Heath 1903</xref>, <xref ref-type="bibr" rid="B16">Imms 1919</xref>, <xref ref-type="bibr" rid="B19">Mensa-Bonsu 1976</xref>, <xref ref-type="bibr" rid="B15">Hewitt et al. 1972</xref>, <xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti 1998</xref>). The phenomenon has been described as amputation (<xref ref-type="bibr" rid="B13">Heath 1927</xref>), mutilation (<xref ref-type="bibr" rid="B12">Heath 1903</xref>), and ‘mild’ or ‘restrained’ cannibalism (<xref ref-type="bibr" rid="B19">Mensa-Bonsu 1976</xref>, <xref ref-type="bibr" rid="B18">LaFage and Nutting 1978</xref>), and in all documented examples the removal of the antennal segments occured shortly after pair establishment. In <italic><tp:taxon-name>Zootermopsis</tp:taxon-name></italic> the behavior was observed after the nuptial cell was sealed (<xref ref-type="bibr" rid="B13">Heath 1927</xref>), three or four days after initial entry of the new pair (<xref ref-type="bibr" rid="B12">Heath 1903</xref>); it happened five to ten days after pairingin <italic><tp:taxon-name>Coptotermes havilandi</tp:taxon-name></italic> (now <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> – <xref ref-type="bibr" rid="B17">Kirton and Brown 2005</xref>) (<xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti 1998</xref>). The behavior may play a crucial role in the physiological and behavioral transitions that occur in imagoes during colony establishment (<xref ref-type="bibr" rid="B15">Hewitt et al. 1972</xref>), but is rarely quantified, <xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti (1998)</xref> being a notable exception. In this study we used counts of antennal segments in museum specimens of alate and dealate Australian termites to begin characterizing the nature of ‘antennal cropping’, which we advocate as a more neutral term to describe the behavior. Our goals were to establish the phylogenetic extent of the behavior, to determine the precision of the act, and to describe the variation between sexes, among species, and among families.</p>
+        </sec>
+        <sec sec-type="methods"><title>Methods</title>
+            <p>The Australian National Insect Collection (ANIC) at CSIRO Ecosystem Sciences, formerly CSIRO Entomology (Canberra, Australia), was systematically searched for termite species in which samples of both the alate and dealate stage were represented. Antennal segments of these stages were counted at 25× on a Wild M5A stereomicroscope (Meerbrugg, Switzerland), and included the scape, pedicel, and individual segments of the flagellum (= antennomeres or flagellomeres). Cropped antennae are easily distinguished from unaltered antennae as they typically have a melanized, healed wound at the distal tip. Because these are adult insects, wound healing occurs but there is no regeneration of lost segments. Data from the longer of the two antennae of each individual was used in the analysis. A dealate primary reproductive was included in the analysis only if it was collected with its mate or with colony members, or if it was physogastric, indicating that it was collected from an established colony. An individual was excluded from analysis if it exhibited any bodily damage resulting from the collection process. Individuals were sexed based on the shape of the terminal abdominal sternites (<xref ref-type="bibr" rid="B30">Weesner 1969</xref>). Sixteen species from ANIC were analyzed (see <xref ref-type="table" rid="T1">Table 1</xref> for species names and sample sizes), representing the termite families <tp:taxon-name>Stolotermitidae</tp:taxon-name> (n = 2), <tp:taxon-name>Kalotermitidae</tp:taxon-name> (n = 7), <tp:taxon-name>Rhinotermitidae</tp:taxon-name> (n = 3), and <tp:taxon-name>Termitidae</tp:taxon-name> (n = 4) (classification of <xref ref-type="bibr" rid="B9">Engel et al. 2009</xref>).</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p> The mean (± S.E.) number of of antennal segments in reproductives from 17 termite species. The t-tests are unpaired between alates and dealate.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Family</bold></th>
+                            <th rowspan="1" colspan="2"><bold>Length of antennae (# of segments)</bold></th>
+                            <th rowspan="1" colspan="2"><bold>Change in length of antennae</bold></th>
+                            <th rowspan="2" colspan="1"><bold>t</bold></th>
+                            <th rowspan="2" colspan="1"><bold>df</bold></th>
+                            <th rowspan="2" colspan="1"><bold>p</bold></th>
+                        </tr>
+                        <tr>
+                            <th rowspan="1" colspan="1"> <bold>Species</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Alates (n)</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Dealates (n)</bold></th>
+                            <th rowspan="1" colspan="1"><bold># of segments</bold></th>
+                            <th rowspan="1" colspan="1"><bold>%</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="8"><tp:taxon-name>Stolotermitidae</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Porotermes adamsoni</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">16.3 ± 0.9 (9)</td>
+                            <td rowspan="1" colspan="1">11.6 ± 1.1 (5)</td>
+                            <td rowspan="1" colspan="1">-4.7</td>
+                            <td rowspan="1" colspan="1">-32.1</td>
+                            <td rowspan="1" colspan="1">8.784</td>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Stolotermes victoriensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">14.9 ± 1.8 (8)</td>
+                            <td rowspan="1" colspan="1">10.2 ± 1.6 (12)</td>
+                            <td rowspan="1" colspan="1">-4.7</td>
+                            <td rowspan="1" colspan="1">-31.5</td>
+                            <td rowspan="1" colspan="1">6.038</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="8"><tp:taxon-name>Kalotermitidae</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Neotermes papua</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">18.5 ± 0.7 (2)</td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Neotermes insularis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">18.7 ± 1.3 (14)</td>
+                            <td rowspan="1" colspan="1">11.8 ± 1.3 (12)</td>
+                            <td rowspan="1" colspan="1">-6.9</td>
+                            <td rowspan="1" colspan="1">-36.9</td>
+                            <td rowspan="1" colspan="1">13.806</td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Ceratokalotermes spoliator</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">13.2 ± 0.8 (9)</td>
+                            <td rowspan="1" colspan="1">8.3 ± 1.2 (6)</td>
+                            <td rowspan="1" colspan="1">-4.9</td>
+                            <td rowspan="1" colspan="1">-33.3</td>
+                            <td rowspan="1" colspan="1">9.316</td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Kalotermes convexus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">13.6 ± 1.0 (10)</td>
+                            <td rowspan="1" colspan="1">7.8 ± 1.3 (15)</td>
+                            <td rowspan="1" colspan="1">-5.8</td>
+                            <td rowspan="1" colspan="1">-42.6</td>
+                            <td rowspan="1" colspan="1">12.277</td>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Glyptotermes brevicornis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">13.5 ± 0.8 (6)</td>
+                            <td rowspan="1" colspan="1">8.4 ± 1.6 (14)</td>
+                            <td rowspan="1" colspan="1">-5.1</td>
+                            <td rowspan="1" colspan="1">-37.8</td>
+                            <td rowspan="1" colspan="1">7.380</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Cryptotermes secundus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">16.5 ± 1.4 (14)</td>
+                            <td rowspan="1" colspan="1">8.5 ± 1.0 (12)</td>
+                            <td rowspan="1" colspan="1">-8.0</td>
+                            <td rowspan="1" colspan="1">-48.5</td>
+                            <td rowspan="1" colspan="1">16.490</td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Bifiditermes condonensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">17.7 ± 2.0 (9)</td>
+                            <td rowspan="1" colspan="1">9.1 ± 1.7 (11)</td>
+                            <td rowspan="1" colspan="1">-8.6</td>
+                            <td rowspan="1" colspan="1">-48.6</td>
+                            <td rowspan="1" colspan="1">10.372</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="8"><tp:taxon-name>Rhinotermitidae</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Heterotermes ferox</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">16.9 ± 1.0 (10)</td>
+                            <td rowspan="1" colspan="1">13.5 ± 2.1 (2)</td>
+                            <td rowspan="1" colspan="1">-3.4</td>
+                            <td rowspan="1" colspan="1">-20.1</td>
+                            <td rowspan="1" colspan="1">3.792</td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">0.004</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Schedorhinotermes actuosus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">18.8 ± 2.4 (12)</td>
+                            <td rowspan="1" colspan="1">13.0 ± 2.3 (5)</td>
+                            <td rowspan="1" colspan="1">-5.8</td>
+                            <td rowspan="1" colspan="1">-30.9</td>
+                            <td rowspan="1" colspan="1">4.533</td>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">20.2 ± 0.4 (80)</td>
+                            <td rowspan="1" colspan="1">12.9 ± 0.2 (80)</td>
+                            <td rowspan="1" colspan="1">-7.3</td>
+                            <td rowspan="1" colspan="1">-36.1</td>
+                            <td rowspan="1" colspan="1">15.541</td>
+                            <td rowspan="1" colspan="1">158</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Coptotermes lacteus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">18.4 ± 1.8 (16)</td>
+                            <td rowspan="1" colspan="1">13.2 ± 0.5 (4)</td>
+                            <td rowspan="1" colspan="1">-5.1</td>
+                            <td rowspan="1" colspan="1">-27.9</td>
+                            <td rowspan="1" colspan="1">5.585</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="8"><tp:taxon-name>Termitidae</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Microcerotermes turneri</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">13.8 ± 0.4 (9)</td>
+                            <td rowspan="1" colspan="1">12.7 ± 2.2 (18)</td>
+                            <td rowspan="1" colspan="1">-1.1</td>
+                            <td rowspan="1" colspan="1">-8.0</td>
+                            <td rowspan="1" colspan="1">1.454</td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">0.158</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Drepanotermes perniger</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">15.6 ± 2.2 (11)</td>
+                            <td rowspan="1" colspan="1">16.5 ± 1.7 (13)</td>
+                            <td rowspan="1" colspan="1">0.8</td>
+                            <td rowspan="1" colspan="1">+6.7</td>
+                            <td rowspan="1" colspan="1">1.058</td>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1">0.302</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Xylochomitermes occidualis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">14.9 ± 0.3 (14)</td>
+                            <td rowspan="1" colspan="1">13.2 ± 1.2 (19)</td>
+                            <td rowspan="1" colspan="1">-1.8</td>
+                            <td rowspan="1" colspan="1">-11.4</td>
+                            <td rowspan="1" colspan="1">5.548</td>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"> <italic><tp:taxon-name>Tumulitermes nastilis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">16.1 ± 1.0 (8)</td>
+                            <td rowspan="1" colspan="1">12.2 ± 0.4 (5)</td>
+                            <td rowspan="1" colspan="1">-3.9</td>
+                            <td rowspan="1" colspan="1">-23.0</td>
+                            <td rowspan="1" colspan="1">8.242</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>We supplemented our data with that obtained from <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti (1998</xref>: <xref ref-type="table" rid="T4">Table 4</xref>), who published antennal segment counts of<!--PageBreak--> alates and dealates without statistical analysis. As in our original data, we used data from the longer of the two antennae of <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> individuals.</p>
+            <sec sec-type="Statistical analyses"><title>Statistical analyses</title>
+                <p>The antennae lengths of the 17 species were analysed in a four factor Generalised Linear Model (GLM). The four factors used in analysis were species nested in families, families, sex, and wing status (alate or dealate). Planned posthoc pairwise comparisons were used to find differences between species and families; all comparisons were Tukey’s-adjusted to account for potential errors. The posthoc comparisons were unnecessary for sex and status as there were only two levels in these factors. Interactions<!--PageBreak--> between families, sex and wing status were also considered in the GLM. Finally, unpaired t-tests were performed on wing-status for each family.</p>
+                <p><xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti (1998)</xref> collected <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> alates from two sources, the first from a tree stump, i.e. before the alates had flown, and the second from a swarm, i.e. during the mating flight but prior to pairing. We compared the antennal length of these alates to determine whether there was a difference between pre-flight and during-flight alates using a two-way ANOVA with source and sex as the factors. In addition <xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti (1998)</xref> measured dealated, mated pairs of <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> twice; the first was at nine months after colony initiation and the second 2 years after colony initiation. We compared the antennal length from these dealates to determine whether there was a difference over time using a two-way ANOVA with age and sex as the two factors.</p>
+                <p>Statistical analyses were performed using <xref ref-type="bibr" rid="B26">Systat v. 9.0 (1998)</xref>.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <p>We documented a wide range of antennal lengths in the imaginal stage of termites (<xref ref-type="table" rid="T1">Table 1</xref>). Among alates, <italic><tp:taxon-name>Schedorhinotermes actuosus</tp:taxon-name></italic> had the highest number of antennal segments, around 19, and <italic><tp:taxon-name>Ceratokalotermes spoliator</tp:taxon-name></italic> had the fewest, with about 13. Among dealates segments were most numerous (around 16) in <italic><tp:taxon-name>Drepanotermes perniger</tp:taxon-name></italic>, and <italic><tp:taxon-name>Kalotermes convexus</tp:taxon-name></italic> had the fewest, with around eight.</p>
+            <p>Overall, the difference between the sexes was small, about one antennal segment, with overlapping standard errors; males had 14.5 ± 0.7 antennal segments whereas females had 13.5 ± 0.6. However the difference between winged and wingless adults was substantial, about five antennal segments, with non-overlapping standard errors. Alates averaged 16.3 ± 0.5 antennal segments, whereas dealates averaged 11.4 ± 0.6 (all averaged across species; <xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p> Average (± standard error) antenna length measured in number of antennal segments of 17 termite species for <bold>a</bold> male and females; and <bold>b</bold> alates and delates. Species names abbreviated as in Table 3.</p></caption>
+                <graphic xlink:href="ZooKeys-148-185-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>In the GLM analysis, significant differences were found between species (nested within families) (<italic>F</italic><sub>12,379</sub> = 8.151; <italic>p</italic> &lt; 0.001), termite families (<italic>F</italic><sub>3,379</sub> = 25.586; p &lt; 0.001), and wing status (<italic>F</italic><sub>1,379</sub> = 164.940; <italic>p</italic> &lt; 0.001), but no significant differences between the sexes (<italic>F</italic><sub>1, 379</sub> = 0.133; <italic>p</italic> = 0.715) (<xref ref-type="table" rid="T2">Table 2</xref>). The GLM analysis explained three quarters of the variation (<italic>r</italic><sup>2</sup> = 0.757). The mean differences in antennal length and Tukey-corrected posthoc pairwise comparisons between species are listed in <xref ref-type="table" rid="T3">Table 3</xref>. The general pattern is <italic><tp:taxon-name>Ceratokalotermes spoliator</tp:taxon-name></italic>, <italic><tp:taxon-name>Kalotermes convexus</tp:taxon-name></italic>, <italic><tp:taxon-name>Glyptotermes brevicornis</tp:taxon-name></italic> and <italic><tp:taxon-name>Cryptotermes secundus</tp:taxon-name></italic>, allin the <tp:taxon-name>Kalotermitidae</tp:taxon-name>, are different from <italic><tp:taxon-name>Schedorhinotermes actuosus</tp:taxon-name></italic>, <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> and <italic><tp:taxon-name>Coptotermes lacteus</tp:taxon-name></italic> in the <tp:taxon-name>Rhinotermitidae</tp:taxon-name>, and <italic><tp:taxon-name>Microcerotermes turneri</tp:taxon-name></italic>, <italic><tp:taxon-name>Drepanotermes perniger</tp:taxon-name></italic> and <italic><tp:taxon-name>Tumulitermes nastilis</tp:taxon-name></italic> in the <tp:taxon-name>Termitidae</tp:taxon-name>. Differences between species therefore can be clustered into differences between families.</p>
+            <table-wrap id="T2" position="float" orientation="portrait">
+                <label>Table 2.</label>
+                <caption><p> The results of the generalised linear model run on antennal length.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Factor</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Sum-of-Squares</bold></th>
+                            <th rowspan="1" colspan="1"><bold>df</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Mean-Square</bold></th>
+                            <th rowspan="1" colspan="1"><bold>F-ratio</bold></th>
+                            <th rowspan="1" colspan="1"><bold>p</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Species(Family)</td>
+                            <td rowspan="1" colspan="1">499.010</td>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">41.584</td>
+                            <td rowspan="1" colspan="1">8.151</td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family</td>
+                            <td rowspan="1" colspan="1">391.608</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">130.536</td>
+                            <td rowspan="1" colspan="1">25.586</td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Sex</td>
+                            <td rowspan="1" colspan="1">0.679</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.679</td>
+                            <td rowspan="1" colspan="1">0.133</td>
+                            <td rowspan="1" colspan="1">0.715</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Wing status</td>
+                            <td rowspan="1" colspan="1">841.514</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">841.514</td>
+                            <td rowspan="1" colspan="1">164.940</td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family × Sex</td>
+                            <td rowspan="1" colspan="1">16.775</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">5.592</td>
+                            <td rowspan="1" colspan="1">1.096</td>
+                            <td rowspan="1" colspan="1">0.351</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family × Wing status</td>
+                            <td rowspan="1" colspan="1">183.450</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">61.150</td>
+                            <td rowspan="1" colspan="1">11.986</td>
+                            <td rowspan="1" colspan="1">0.000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Sex × Wing status</td>
+                            <td rowspan="1" colspan="1">0.140</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0.140</td>
+                            <td rowspan="1" colspan="1">0.027</td>
+                            <td rowspan="1" colspan="1">0.868</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Family × Sex × Wing status</td>
+                            <td rowspan="1" colspan="1">4.612</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">1.537</td>
+                            <td rowspan="1" colspan="1">0.301</td>
+                            <td rowspan="1" colspan="1">0.824</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Error</td>
+                            <td rowspan="1" colspan="1">1933.631</td>
+                            <td rowspan="1" colspan="1">379</td>
+                            <td rowspan="1" colspan="1">5.102</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <table-wrap id="T3" position="float" orientation="portrait">
+                <label>Table 3.</label>
+                <caption><p> The matrix of pairwise mean differences in antennal length between species. Pairs that were significantly different in Tukey adjusted pairwise posthoc comparisons from the GLM posthoc are indicated as * <italic>p</italic> &lt; 0.05, † <italic>p</italic> &lt; 0.01, ‡ <italic>p</italic> &lt; 0.001. Nb. <italic><tp:taxon-name>Neotermes papue</tp:taxon-name></italic> was excluded due to a lack of data. Abbreviations: Por.a = <italic><tp:taxon-name>Porotermes adamsoni</tp:taxon-name></italic>; Sto.v = <italic><tp:taxon-name>Stolotermes victoriensis</tp:taxon-name></italic>; Neo.i = <italic><tp:taxon-name>Neotermes insularis</tp:taxon-name></italic>; Cero.s = <italic><tp:taxon-name>Ceratokalotermes spoliator</tp:taxon-name></italic>; Kalo.c = <italic><tp:taxon-name>Kalotermes convexus</tp:taxon-name></italic>; Glypt.b = <italic><tp:taxon-name>Glyptotermes brevicornis</tp:taxon-name></italic>; Cry.s = <italic><tp:taxon-name>Cryptotermes secundus</tp:taxon-name></italic>; Bif.c = <italic><tp:taxon-name>Bifiditermes condonensis</tp:taxon-name></italic>; Het.f = <italic><tp:taxon-name>Heterotermes ferox</tp:taxon-name></italic>; Sch.a = <italic><tp:taxon-name>Schedorhinotermes actuosus</tp:taxon-name></italic>; Cop.g = <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic>; Cop.l = <italic><tp:taxon-name>Coptotermes lacteus</tp:taxon-name></italic>; Mic.t = <italic><tp:taxon-name>Microcerotermes turneri</tp:taxon-name></italic>; Dre.p = <italic><tp:taxon-name>Drepanotermes perniger</tp:taxon-name></italic>; Xyl.o = <italic><tp:taxon-name>Xylochomitermes occidualis</tp:taxon-name></italic>; Tum.n = <italic><tp:taxon-name>Tumulitermes nastilis</tp:taxon-name></italic>.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"></th>
+                            <th rowspan="1" colspan="1"><bold>Por.a</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Sto.v</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Neo.i</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Cer.s</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Kal.c</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Gly.b</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Cry.s</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Bif.c</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Het.f</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Sch.a</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Cop.g</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Cop.l</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Mic.t</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Dre.p</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Xyl.o</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Sto.v</bold></td>
+                            <td rowspan="1" colspan="1">0.7</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Neo.i</bold></td>
+                            <td rowspan="1" colspan="1">1.1</td>
+                            <td rowspan="1" colspan="1">1.8</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Cer.s</bold></td>
+                            <td rowspan="1" colspan="1">3.1</td>
+                            <td rowspan="1" colspan="1">2.5</td>
+                            <td rowspan="1" colspan="1">4.2‡</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Kal.c</bold></td>
+                            <td rowspan="1" colspan="1">3.3*</td>
+                            <td rowspan="1" colspan="1">2.7</td>
+                            <td rowspan="1" colspan="1">4.5‡</td>
+                            <td rowspan="1" colspan="1">0.2</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Gly.b</bold></td>
+                            <td rowspan="1" colspan="1">3.1</td>
+                            <td rowspan="1" colspan="1">2.4</td>
+                            <td rowspan="1" colspan="1">4.2‡</td>
+                            <td rowspan="1" colspan="1">0.0</td>
+                            <td rowspan="1" colspan="1">0.3</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Cry.s</bold></td>
+                            <td rowspan="1" colspan="1">1.5</td>
+                            <td rowspan="1" colspan="1">0.9</td>
+                            <td rowspan="1" colspan="1">2.6†</td>
+                            <td rowspan="1" colspan="1">1.6</td>
+                            <td rowspan="1" colspan="1">1.8</td>
+                            <td rowspan="1" colspan="1">1.6</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Bif.c</bold></td>
+                            <td rowspan="1" colspan="1">0.8</td>
+                            <td rowspan="1" colspan="1">0.2</td>
+                            <td rowspan="1" colspan="1">2.0</td>
+                            <td rowspan="1" colspan="1">2.3</td>
+                            <td rowspan="1" colspan="1">2.5</td>
+                            <td rowspan="1" colspan="1">2.3</td>
+                            <td rowspan="1" colspan="1">0.7</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Het.f</bold></td>
+                            <td rowspan="1" colspan="1">0.5</td>
+                            <td rowspan="1" colspan="1">1.2</td>
+                            <td rowspan="1" colspan="1">0.6</td>
+                            <td rowspan="1" colspan="1">3.6</td>
+                            <td rowspan="1" colspan="1">3.8</td>
+                            <td rowspan="1" colspan="1">3.6</td>
+                            <td rowspan="1" colspan="1">2.0</td>
+                            <td rowspan="1" colspan="1">1.3</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Sch.a</bold></td>
+                            <td rowspan="1" colspan="1">2.2</td>
+                            <td rowspan="1" colspan="1">2.9</td>
+                            <td rowspan="1" colspan="1">1.1</td>
+                            <td rowspan="1" colspan="1">5.3‡</td>
+                            <td rowspan="1" colspan="1">5.5‡</td>
+                            <td rowspan="1" colspan="1">5.3‡</td>
+                            <td rowspan="1" colspan="1">3.7†</td>
+                            <td rowspan="1" colspan="1">3.0</td>
+                            <td rowspan="1" colspan="1">1.7</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Cop.g</bold></td>
+                            <td rowspan="1" colspan="1">2.5</td>
+                            <td rowspan="1" colspan="1">3.2*</td>
+                            <td rowspan="1" colspan="1">1.4</td>
+                            <td rowspan="1" colspan="1">5.6‡</td>
+                            <td rowspan="1" colspan="1">5.9‡</td>
+                            <td rowspan="1" colspan="1">5.6‡</td>
+                            <td rowspan="1" colspan="1">4.0‡</td>
+                            <td rowspan="1" colspan="1">3.4‡</td>
+                            <td rowspan="1" colspan="1">2.0</td>
+                            <td rowspan="1" colspan="1">0.3</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Cop.l</bold></td>
+                            <td rowspan="1" colspan="1">1.9</td>
+                            <td rowspan="1" colspan="1">2.6</td>
+                            <td rowspan="1" colspan="1">0.8</td>
+                            <td rowspan="1" colspan="1">5.0‡</td>
+                            <td rowspan="1" colspan="1">5.2‡</td>
+                            <td rowspan="1" colspan="1">5.0‡</td>
+                            <td rowspan="1" colspan="1">3.4*</td>
+                            <td rowspan="1" colspan="1">2.7</td>
+                            <td rowspan="1" colspan="1">1.4</td>
+                            <td rowspan="1" colspan="1">0.3</td>
+                            <td rowspan="1" colspan="1">0.6</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Mic.t</bold></td>
+                            <td rowspan="1" colspan="1">2.0</td>
+                            <td rowspan="1" colspan="1">2.7</td>
+                            <td rowspan="1" colspan="1">0.9</td>
+                            <td rowspan="1" colspan="1">5.1‡</td>
+                            <td rowspan="1" colspan="1">5.3‡</td>
+                            <td rowspan="1" colspan="1">5.1</td>
+                            <td rowspan="1" colspan="1">3.5*</td>
+                            <td rowspan="1" colspan="1">2.8</td>
+                            <td rowspan="1" colspan="1">1.5</td>
+                            <td rowspan="1" colspan="1">0.2</td>
+                            <td rowspan="1" colspan="1">0.5</td>
+                            <td rowspan="1" colspan="1">0.1</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Dre.p</bold></td>
+                            <td rowspan="1" colspan="1">1.8</td>
+                            <td rowspan="1" colspan="1">2.5</td>
+                            <td rowspan="1" colspan="1">0.7</td>
+                            <td rowspan="1" colspan="1">5.0‡</td>
+                            <td rowspan="1" colspan="1">5.2‡</td>
+                            <td rowspan="1" colspan="1">4.9†</td>
+                            <td rowspan="1" colspan="1">3.4*</td>
+                            <td rowspan="1" colspan="1">2.7</td>
+                            <td rowspan="1" colspan="1">1.3</td>
+                            <td rowspan="1" colspan="1">0.4</td>
+                            <td rowspan="1" colspan="1">0.7</td>
+                            <td rowspan="1" colspan="1">0.1</td>
+                            <td rowspan="1" colspan="1">0.</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Xyl.o</bold></td>
+                            <td rowspan="1" colspan="1">0.2</td>
+                            <td rowspan="1" colspan="1">0.9</td>
+                            <td rowspan="1" colspan="1">0.9</td>
+                            <td rowspan="1" colspan="1">3.4</td>
+                            <td rowspan="1" colspan="1">3.6</td>
+                            <td rowspan="1" colspan="1">3.3</td>
+                            <td rowspan="1" colspan="1">1.8</td>
+                            <td rowspan="1" colspan="1">1.1</td>
+                            <td rowspan="1" colspan="1">0.2</td>
+                            <td rowspan="1" colspan="1">1.9</td>
+                            <td rowspan="1" colspan="1">2.3*</td>
+                            <td rowspan="1" colspan="1">1.6</td>
+                            <td rowspan="1" colspan="1">1.8</td>
+                            <td rowspan="1" colspan="1">1.6</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Tum.n</bold></td>
+                            <td rowspan="1" colspan="1">0.3</td>
+                            <td rowspan="1" colspan="1">1.0</td>
+                            <td rowspan="1" colspan="1">0.8</td>
+                            <td rowspan="1" colspan="1">3.4†</td>
+                            <td rowspan="1" colspan="1">3.7‡</td>
+                            <td rowspan="1" colspan="1">3.4</td>
+                            <td rowspan="1" colspan="1">1.8</td>
+                            <td rowspan="1" colspan="1">1.1</td>
+                            <td rowspan="1" colspan="1">0.2</td>
+                            <td rowspan="1" colspan="1">1.9</td>
+                            <td rowspan="1" colspan="1">2.2</td>
+                            <td rowspan="1" colspan="1">1.6</td>
+                            <td rowspan="1" colspan="1">1.7</td>
+                            <td rowspan="1" colspan="1">1.5</td>
+                            <td rowspan="1" colspan="1">0.0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>This pattern is also seen in the results of the GLM, as the <italic>F</italic> ratios suggest that the effect of family was about three times more important than the effect of species. In particular the <tp:taxon-name>Rhinotermitidae</tp:taxon-name> had longer antennae than the other families. Species<!--PageBreak--> in the <tp:taxon-name>Termopsidae</tp:taxon-name> had 13.3 ± 1.3 antennal segments, those in <tp:taxon-name>Kalotermitidae</tp:taxon-name> 13.0 ± 1.2, the <tp:taxon-name>Rhinotermitidae</tp:taxon-name> 16.7 ± 0.3, and the <tp:taxon-name>Termitidae</tp:taxon-name> 14.4 ± 0.6. The mean pairwise differences in antennal length between families, and the Tukey-corrected posthoc pairwise comparisons, were significantly different for <tp:taxon-name>Kalotermitidae</tp:taxon-name> × <tp:taxon-name>Rhinotermitidae</tp:taxon-name> (mean difference 3.3, <italic>p</italic> &lt; 0.001), <tp:taxon-name>Kalotermitidae</tp:taxon-name> × <tp:taxon-name>Termitidae</tp:taxon-name> (md 2.1, <italic>p</italic> = 0.002) and <tp:taxon-name>Rhinotermitidae</tp:taxon-name> × <tp:taxon-name>Termitidae</tp:taxon-name> (md 2.0, <italic>p</italic> = 0.004); the remaining comparisons were not significant (<tp:taxon-name>Kalotermitidae</tp:taxon-name> × <tp:taxon-name>Termopsidae</tp:taxon-name> md 1.2, <italic>p</italic> = 0.098; <tp:taxon-name>Rhinotermitidae</tp:taxon-name> x <tp:taxon-name>Termitidae</tp:taxon-name> md 1.2, <italic>p</italic> = 0.239; <tp:taxon-name>Termitidae</tp:taxon-name> × <tp:taxon-name>Termopsidae</tp:taxon-name> md 0.8, <italic>p</italic> = 0.688).</p>
+            <p>The largest <italic>F</italic> ratio from the GLM was for wing status, which was about six times more important than family, and 20 times more important than species differences in determining antennae length. This is clear from the paired <italic>t</italic>-tests: 14 of the 16 possible alate vs. delate comparisons were significant (<xref ref-type="table" rid="T1">Table 1</xref>, <xref ref-type="fig" rid="F1">Fig. 1</xref>). The two species without a difference in alate and delate antennal length were <italic><tp:taxon-name>Microcerotermes turneri</tp:taxon-name></italic> and <italic><tp:taxon-name>Drepanotermes perniger</tp:taxon-name></italic>, which both belong to the same branch of the <tp:taxon-name>Termitinae</tp:taxon-name> in the <tp:taxon-name>Termitidae</tp:taxon-name>, whereas <italic><tp:taxon-name>Xylochomitermes occidualis</tp:taxon-name></italic> lies in another branch of the <tp:taxon-name>Termitinae</tp:taxon-name> and <italic><tp:taxon-name>Tumulitermes nastilis</tp:taxon-name></italic> is in the <tp:taxon-name>Nasutitermitinae</tp:taxon-name> (Inwood et al. 2007, Legendre et al. 2008).</p>
+            <p>Only one interaction was significant: family × wing status <italic>(F</italic><sub>3,389</sub> = 11.986, <italic>p</italic> &lt; 0.001), showing that antennal cropping varies among families. This variation is clear in <xref ref-type="fig" rid="F2">Fig. 2</xref>, with alates in <tp:taxon-name>Stolotermitidae</tp:taxon-name>, <tp:taxon-name>Kalotermitidae</tp:taxon-name> and <tp:taxon-name>Rhinotermitidae</tp:taxon-name> all losing five to seven antennal segments after dealation, whereas in <tp:taxon-name>Termitidae</tp:taxon-name> dealates lose perhaps two. Expressed as a percentage, kalotermids cropped on average the most antennal segments: <tp:taxon-name>Stolotermitidae</tp:taxon-name> 32.0%, <tp:taxon-name>Kalotermitidae</tp:taxon-name> 41.3%, <tp:taxon-name>Rhinotermitidae</tp:taxon-name> 28.8% and <tp:taxon-name>Termitidae</tp:taxon-name> 8.9%. The lack of an effect due to sex either as a main effect, <!--PageBreak-->or in the interaction terms (<xref ref-type="table" rid="T2">Table 2</xref>) is clear from <xref ref-type="fig" rid="F1">Figs. 1</xref> and <xref ref-type="fig" rid="F2">2</xref>, with mostly small and inconsistent differences between males and females.</p>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p> Average (± standard error) antenna length measured in number of antennal segments of four termite families for <bold>a</bold> male and females; and <bold>b</bold> alates and delates. Abbreviations: Stolo = <tp:taxon-name>Stolotermitidae</tp:taxon-name>; Kalo = <tp:taxon-name>Kalotermitidae</tp:taxon-name>, Rhino = <tp:taxon-name>Rhinotermitidae</tp:taxon-name>; Term = <tp:taxon-name>Termitidae</tp:taxon-name>.</p></caption>
+                <graphic xlink:href="ZooKeys-148-185-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <sec sec-type="Additional comparisons for Coptotermes gestroi"><title>Additional comparisons for <tp:taxon-name>Coptotermes gestroi</tp:taxon-name></title>
+                <p>The mean antennal length for <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> alates from the tree stump (i.e., prior to swarming) was 20.7 ± 0.7 for males and 19.8 ± 1.1 for females, and from the swarm it was 19.2 ± 0.9 for males and 21.0 ± 0.6 for females. There were no significant differences found either for alate source (<italic>F</italic><sub>1,76</sub> = 0.032; <italic>p</italic> = 0.858) or sex (<italic>F</italic><sub>1,76</sub> = 0.228; <italic>p</italic> = 0.635), and the interaction was not significant (<italic>F</italic><sub>1, 76</sub> = 2.594; <italic>p</italic> = 0.111).</p>
+                <p>The mean antennal length for <italic><tp:taxon-name>Coptotermes gestroi</tp:taxon-name></italic> dealates at nine months after colony initiation was 12.2 ± 0.6 for males and 13.6 ± 0.3 for females, and from 2 years after colony initiation it was 12.6 ± 0.3 for males and 13.3 ± 0.3 for females. There were no significant differences found for age (<italic>F</italic><sub>1,76</sub> = 0.035; <italic>p</italic> = 0.853) but there was a significant difference for sex (<italic>F</italic><sub>1,76</sub> = 7.122; <italic>p</italic> = 0.009), as females had longer antennae than males, albeit only one segment longer; the interaction was not significant (<italic>F</italic><sub>1, 76</sub> = 0.651; <italic>p</italic> = 0.422), indicating that the difference between the sexes did not change over time.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p>Our data suggest that antennal cropping is a phylogenetically widespread, fairly precise behavior. There was a significant decrease in the number of antennal segments in dealates when compared to alates in termites from all families except two species of <tp:taxon-name>Termitidae</tp:taxon-name>. No more than half of the antenna was trimmed in any case, although our data may slightly underestimate differences since we used the longer of the two antennae in our analysis. There is some variation in both the number of segments in the right and left antennae of individuals (<xref ref-type="bibr" rid="B7">Costa-Leonardo and Soares 1997</xref>, <xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti 1998</xref>), and among individuals within a species (<xref ref-type="bibr" rid="B23">Prestage et al. 1963</xref>). Our analysis supports<!--PageBreak--><!--PageBreak--> <xref ref-type="bibr" rid="B6">Costa-Leonardo and Barsotti’s (1998)</xref> conclusion that antennal cropping occurs only during the early stages of colony formation in termites, and <xref ref-type="bibr" rid="B15">Hewitt et al.’s (1972)</xref> suggestion that it is a controlled process. We propose that antennal cropping is part of the normal behavioral repertoire during colony foundation in lower termites and at least some of the <tp:taxon-name>Termitidae</tp:taxon-name>. As such, terms such as amputation, mutilation and cannibalism should be avoided. We acknowledge that interactions between reproductives in polygynous colonies (a derived condition) may influence the extent of antennal cropping (<xref ref-type="bibr" rid="B28">Thorne 1984</xref>, <xref ref-type="bibr" rid="B3">Brandl et al. 2001</xref>), and that ageing, accidents, laboratory conditions, or aggression in other contexts may result in the wounding of antennae, legs, mouthparts, and wing pads (e.g., <xref ref-type="bibr" rid="B32">Williams 1959</xref>, <xref ref-type="bibr" rid="B8">Darlington 1988</xref>, <xref ref-type="bibr" rid="B34">Zimmerman 1983</xref>).</p>
+            <p>The sole description of the behavioral process leading to the loss of antennal segments is by <xref ref-type="bibr" rid="B12">Heath (1903)</xref> in <italic><tp:taxon-name>Zootermopsis</tp:taxon-name></italic>; this author indicates that the condition results from both self-cropping (autotilly) and from a reciprocal interaction between the sexes. He describes individuals that repeatedly bit off small portions of their own antennae, as well as members of a pair taking turns biting off the antennal tips of their partner. In the latter case, the antennae assumed a more or less ‘stump-like condition’ within a few hours. <xref ref-type="bibr" rid="B12">Heath (1903)</xref> could fathom no possible functional significance of the behavior, since it ‘in no visible way affects their existence’. Later, <xref ref-type="bibr" rid="B22">Nel (1968)</xref>, <xref ref-type="bibr" rid="B15">Hewitt et al. (1972)</xref>, and <xref ref-type="bibr" rid="B29">Watson et al. (1972)</xref> studied <italic><tp:taxon-name>Hodotermes mossambicus</tp:taxon-name></italic> and concluded that antennal cropping was a key element in the complex transition from the preflight group behavior exhibited by alates within a parent colony, to the paired behavior shown by post-flight dealates during colony initiation. The suite of coordinated behavioral changes in paired <italic><tp:taxon-name>Hodotermes mossambicus</tp:taxon-name></italic> include mating, oviposition and building behavior, aggression to intruders, and markedly increased levels of water consumption (<xref ref-type="bibr" rid="B29">Watson et al. 1972</xref>).</p>
+            <!--PageBreak-->
+            <p>Antennal cropping was proposed to play a key role in the transition to pair behavior by decreasing the amount of physical contact perceived by the male and female (<xref ref-type="bibr" rid="B14">Hewitt and Nel 1969</xref>, <xref ref-type="bibr" rid="B15">Hewitt et al. 1972</xref>). The logic was that if an individual’s partner had stumpy antennae, then that individual would experience physical contact roughly equivalent to that of a solitary insect. Although <xref ref-type="bibr" rid="B15">Hewitt et al. (1972)</xref> demonstrated that it was the receipt of antennal stimulation on the body that was pivotal in the behavioral transitions of <italic><tp:taxon-name>Hodotermes mossambicus</tp:taxon-name></italic>, antennae are important in both transmitting and receiving information (<xref ref-type="bibr" rid="B10">Fraser and Nelson 1984</xref>). The loss of terminal antennal segments, then, likely results in a significant reduction in sensory input to the nervous sytem, the nature and extent of which would depend on the distribution and type of antennal receptors. Antennal sensillae in termites have been studied primarily in workers and soldiers, but in those developmental stages antennal sensillae of most types, including mechanoreceptors and chemoreceptors, increase in number or in length in the more distal segments (<xref ref-type="bibr" rid="B23">Prestage et al. 1963</xref>, <xref ref-type="bibr" rid="B27">Tarumingkeng et al. 1976</xref>, <xref ref-type="bibr" rid="B33">Yanagawa et al. 2009</xref>). If the same is true in alates, then the removal of the distal segments has potential to significantly reduce nervous input, with the loss of these signals affecting the endocrine system and, in turn, gene expression patterns (<xref ref-type="bibr" rid="B11">Gilbert 2005</xref>). Sensillae on the distal antennae of alates may be associated primarily with flight, mate finding, and mate evaluation, activities that occur only within the time frame prior to colony establishment. If so, these sensillae may be superfluous, and antennal cropping considered analogous to the shedding of wings: both behaviors remove a body part that no longer has functional significance. A detailed comparison of the sensillae in the proximal vs. distal halves of the antenna of alates would be of interest, because the proximal half of the antenna is required for successful colony foundation (<xref ref-type="bibr" rid="B15">Hewitt et al. 1972</xref>), and <xref ref-type="bibr" rid="B24">Richard (1969)</xref> noted that antennal cropping never reaches the level of the pedicel and its associated chordotonal organs.</p>
+            <p>The dual nature of the antenna as both transmitter and receiver dictates that regardless of whether a paired individual crops its own or its partner’s antenna, both members of the pair are likely to be affected (<xref ref-type="table" rid="T4">Table 4</xref>). In its role as receiver, antennal cropping would decrease an individual’s ability to detect environmental stimuli, including pheromones. In its role as transmitter, shorter antennae result in decreased tactile stimulation of the partner.</p>
+            <table-wrap id="T4" position="float" orientation="portrait">
+                <label>Table 4.</label>
+                <caption><p>The dual nature of antennal cropping: both partners are affected regardless of whether an individual crops its own or its partner’s antennae.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"></th>
+                            <th rowspan="1" colspan="1"><bold>Crop self</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Crop partner</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Effect on self</bold></td>
+                            <td rowspan="1" colspan="1">Decreases self ability to detect environmental stimuli</td>
+                            <td rowspan="1" colspan="1">Decreases tactile stimulation of self</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Effect on partner</bold></td>
+                            <td rowspan="1" colspan="1">Decreases tactile stimulation of partner</td>
+                            <td rowspan="1" colspan="1">Decreases partner’s ability to detect environmental stimuli</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Antennal cropping has been recorded in several cockroach taxa, but its functional significance is unknown. Nymphs of <italic><tp:taxon-name>Blattella germanica</tp:taxon-name></italic> self-prune their antennae – the ends are nipped off just prior to molting (<xref ref-type="bibr" rid="B5">Campbell and Ross 1979</xref>). Although<!--PageBreak--> first and second instars of <italic><tp:taxon-name>Cryptocercus punctulatus</tp:taxon-name></italic> almost always have intact antennae, cropped antennae can be found in third instars and are common in fourth instars (<xref ref-type="bibr" rid="B21">Nalepa 1990</xref>). Nymphs and adults of the myrmecophiles <italic><tp:taxon-name>Attaphila fungicola</tp:taxon-name></italic> and <italic><tp:taxon-name>Attaphila bergi</tp:taxon-name></italic> usually have cropped antennae (<xref ref-type="bibr" rid="B2">Bolívar 1901</xref>, <xref ref-type="bibr" rid="B4">Brossut 1976</xref>); <xref ref-type="bibr" rid="B31">Wheeler (1900)</xref> was of the opinion that the host ants trimmed them for their guests, likening it to the human habit of cropping the ears and tails of dogs.</p>
+        </sec>
+        <sec sec-type="Conclusion"><title>Conclusion</title>
+            <p>Antennal cropping should be considered a key factor when studying changes in behavior and physiology during termite colony foundation, as density dependent effects result at least in part from sensory input mediated by the antennae in both crickets and locusts (<xref ref-type="bibr" rid="B25">Saeki 1966</xref>, <xref ref-type="bibr" rid="B20">Mordue 1977</xref>, <xref ref-type="bibr" rid="B1">Applebaum and Heifetz 1999</xref>). The role of antennal cropping, however, may vary with species or family, and interact with a number of additional stimuli in instigating the abrupt change from group to paired behavior. These stimuli may include exposure to the outside environment, wing use, wing loss (dealation), tandem behavior, and digging behavior. Regardless of the influence of these stimuli in shifting imagoes from group to paired behavior during colony initiation, however, the royal pair eventually re-acclimates to group living as their own offspring increase in number.</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Applebaum</surname><given-names>SW</given-names></name><name name-style="western"><surname>Heifetz</surname><given-names>Y</given-names></name></person-group> (<year>1999</year>)<article-title> Density-dependent physiological phase in insects.</article-title> <source>Annual Review of Entomology </source> <volume>44</volume>: <fpage>317</fpage>-<lpage>341</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1146/annurev.ento.44.1.317" xlink:type="simple">doi: 10.1146/annurev.ento.44.1.317</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bolívar</surname><given-names>I</given-names></name></person-group> (<year>1901</year>)<article-title> Un nuevo orthóptero mirmecófilo <italic>Attaphila bergi</italic>.</article-title> <source>Comunicaciones del Museo Nacional de Buenos Aires </source> <volume>1</volume>: <fpage>331</fpage>-<lpage>336</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brandl</surname><given-names>R</given-names></name><name name-style="western"><surname>Hacker</surname><given-names>M</given-names></name><name name-style="western"><surname>Bagine</surname><given-names>RKN</given-names></name><name name-style="western"><surname>Kaib</surname><given-names>M</given-names></name></person-group> (<year>2001</year>)<article-title> Geographic variation of polygyny in the termite <italic>Macrotermes michaelseni</italic> (Sjostedt).</article-title> <source>Insects Sociaux </source> <volume>48</volume>: <fpage>134</fpage>-<lpage>137</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/PL00001755" xlink:type="simple">doi: 10.1007/PL00001755</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brossut</surname><given-names>R</given-names></name></person-group> (<year>1976</year>)<article-title> Etude morphologique de la blatte mrymecophile <italic>Attaphila fungicola</italic> Wheeler.</article-title> <source>Insectes Sociaux </source> <volume>23</volume>: <fpage>167</fpage>-<lpage>174</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02223849" xlink:type="simple">doi: 10.1007/BF02223849</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Campbell</surname><given-names>FL</given-names></name><name name-style="western"><surname>Ross</surname><given-names>MH</given-names></name></person-group> (<year>1979</year>)<article-title> On the pruning of its flagella by the German cockroach during postembryonic development.</article-title> <source>Annals of the Entomological Society of America </source> <volume>72</volume>: <fpage>580</fpage>-<lpage>582</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Costa-Leonardo</surname><given-names>AM</given-names></name><name name-style="western"><surname>Barsotti</surname><given-names>RC</given-names></name></person-group> (<year>1998</year>)<article-title> Swarming and incipient colonies of <italic>Coptotermes havilandi</italic> (Isoptera, Rhinotermitidae).</article-title> <source>Sociobiology </source> <volume>31</volume>: <fpage>131</fpage>-<lpage>142</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Costa-Leonardo</surname><given-names>AM</given-names></name><name name-style="western"><surname>Soares</surname><given-names>HX</given-names></name></person-group> (<year>1997</year>)<article-title> Morphological aspects of neotropical termite antenna under scanning microscopy.</article-title> <source>Revista Brasileira de Entomologia </source> <volume>41</volume>: <fpage>47</fpage>-<lpage>52</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Darlington</surname><given-names>JPEC</given-names></name></person-group> (<year>1988</year>)<article-title> Mutilation of the primary reproductives in termites of the genus <italic>Macrotermes</italic>.</article-title> <source>Insect Science and its Application </source> <volume>9</volume>: <fpage>81</fpage>-<lpage>83</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname><given-names>MS</given-names></name><name name-style="western"><surname>Grimaldi</surname><given-names>DA</given-names></name><name name-style="western"><surname>Krishna</surname><given-names>K</given-names></name></person-group> (<year>2009</year>)<article-title> Termites (Isoptera): Their phylogeny, classification, and rise to ecological dominance.</article-title> <source>American Museum Novitates </source> <volume>3650</volume>: <fpage>1</fpage>-<lpage>27</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/651.1" xlink:type="simple">doi: 10.1206/651.1</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fraser</surname><given-names>J</given-names></name><name name-style="western"><surname>Nelson</surname><given-names>MC</given-names></name></person-group> (<year>1984</year>)<article-title> Communication in the courtship of a Madagascan hissing cockroach. II. Effects of deantennation.</article-title> <source>Animal Behaviour </source> <volume>32</volume>: <fpage>204</fpage>-<lpage>209</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0003-3472(84)80338-3" xlink:type="simple">doi: 10.1016/S0003-3472(84)80338-3</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gilbert</surname><given-names>SF</given-names></name></person-group> (<year>2005</year>)<article-title> Mechanisms for the environmental regulation of gene expression: ecological aspects of animal development.</article-title> <source>Journal of Biosciences </source> <volume>30</volume>: <fpage>65</fpage>-<lpage>74</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02705151" xlink:type="simple">doi: 10.1007/BF02705151</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heath</surname><given-names>H</given-names></name></person-group> (<year>1903</year>)<article-title> The habits of California termites.</article-title> <source>Biological Bulletin </source> <volume>4</volume>: <fpage>47</fpage>-<lpage>63</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1535553" xlink:type="simple">doi: 10.2307/1535553</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heath</surname><given-names>HM</given-names></name></person-group> (<year>1927</year>)<article-title> Caste formation in the termite genus <italic>Termopsis</italic>.</article-title> <source>Journal of Morphology and Physiology </source> <volume>43</volume>: <fpage>387</fpage>-<lpage>425</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/jmor.1050430206" xlink:type="simple">doi: 10.1002/jmor.1050430206</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hewitt</surname><given-names>PH</given-names></name><name name-style="western"><surname>Nel</surname><given-names>JJC</given-names></name></person-group> (<year>1969</year>)<article-title> The influence of group size on the sacosomal activity and the behaviour of <italic>Hodotermes mossambicus</italic> alate termites.</article-title> <source>Journal of Insect Physiology </source> <volume>15</volume>: <fpage>2169</fpage>-<lpage>2177</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0022-1910(69)90082-1" xlink:type="simple">doi: 10.1016/0022-1910(69)90082-1</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hewitt</surname><given-names>PH</given-names></name><name name-style="western"><surname>Watson</surname><given-names>JAL</given-names></name><name name-style="western"><surname>Nel</surname><given-names>JJC</given-names></name><name name-style="western"><surname>Schoeman</surname><given-names>I</given-names></name></person-group> (<year>1972</year>)<article-title> Control of the change from group to pair behavior by <italic>Hodotermes mossambicus</italic> reproductives.</article-title> <source>Journal of Insect Physiology </source> <volume>18</volume>: <fpage>143</fpage>-<lpage>150</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0022-1910(72)90072-8" xlink:type="simple">doi: 10.1016/0022-1910(72)90072-8</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Imms</surname><given-names>AD</given-names></name></person-group> (<year>1919</year>)<article-title> On the structure and biology of <italic>Archotermopsis</italic>, together with descriptions of new species of intestinal protozoa, and general observations on the Isoptera. Philosophical Transactions of the Royal Society of London.</article-title> <volume>209</volume>: <fpage>75</fpage>-<lpage>180</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rstb.1920.0002" xlink:type="simple">doi: 10.1098/rstb.1920.0002</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kirton</surname><given-names>LG</given-names></name><name name-style="western"><surname>Brown</surname><given-names>VK</given-names></name></person-group> (<year>2005</year>)<article-title> The taxonomic status of pest species of <italic>Coptotermes</italic> in Southeast Asia: resolving the paradox in the pest status of the termites, <italic>Coptotermes gestroi, C. havilandi</italic> and <italic>C. travians</italic> (Isoptera: Rhinotermitidae).</article-title> <source>Sociobiology </source> <volume>42</volume>: <fpage>43</fpage>-<lpage>63</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>LaFage</surname><given-names>JP</given-names></name><name name-style="western"><surname>Nutting</surname><given-names>WL</given-names></name></person-group> (<year>1978</year>)<article-title> Nutrient dynamics of termites.</article-title> In: <person-group><name name-style="western"><surname>Brian</surname><given-names>MV</given-names></name></person-group> (<role>Ed</role>). <issue-title>Production Ecology of Ants and Termites.</issue-title> <source>Cambridge University Press, Cambridge</source>: <fpage>165</fpage>-<lpage>232</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mensa-Bonsu</surname><given-names>A</given-names></name></person-group> (<year>1976</year>)<article-title> The biology and development of <italic>Porotermes adamsoni</italic> (Froggatt) (Isoptera, Hodotermitidae).</article-title> <source>Insectes Sociaux </source> <volume>23</volume>: <fpage>155</fpage>-<lpage>156</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02223848" xlink:type="simple">doi: 10.1007/BF02223848</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mordue (Luntz)</surname><given-names>AJ</given-names></name></person-group> (<year>1977</year>)<article-title> Some effects of amputation of the antennae on pigmentation, growth and development in the locust, <italic>Schistocerca gregaria</italic>.</article-title> <source>Physiological Entomology </source> <volume>2</volume>: <fpage>293</fpage>-<lpage>300</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-3032.1977.tb00120.x" xlink:type="simple">doi: 10.1111/j.1365-3032.1977.tb00120.x</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nalepa</surname><given-names>CA</given-names></name></person-group> (<year>1990</year>)<article-title> Early development of nymphs and establishment of hindgut symbiosis in <italic>Cryptocercus punctulatus</italic> (Dictyoptera: Cryptocercidae).</article-title> <source>Annals of the Entomological Society of America </source> <volume>83</volume>: <fpage>786</fpage>-<lpage>789</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nel</surname><given-names>JJC</given-names></name></person-group> (<year>1968</year>)<article-title> Aggressive behaviour of the harvester termites <italic>Hodotermes mossambicus</italic> (Hagen) and <italic>Trinervitermes trinervoides</italic> (Sjöstedt).</article-title> <source>Insectes Sociaux </source> <volume>15</volume>: <fpage>145</fpage>-<lpage>156</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02223463" xlink:type="simple">doi: 10.1007/BF02223463</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Prestage</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Slifer</surname><given-names>EH</given-names></name><name name-style="western"><surname>Stephens</surname><given-names>LB</given-names></name></person-group> (<year>1963</year>)<article-title> Thin-walled sensory pegs on the antenna of the termite worker, <italic>Reticulitermes flavipes</italic>.</article-title> <source>Annals of the Entomological Society of America </source> <volume>56</volume>: <fpage>874</fpage>-<lpage>878</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Richard</surname><given-names>G</given-names></name></person-group> (<year>1969</year>)<article-title> Nervous system and sense organs.</article-title> In: <person-group><name name-style="western"><surname>Krishna</surname><given-names>K</given-names></name><name name-style="western"><surname>Weesner</surname><given-names>FM</given-names></name></person-group> (<role>Eds</role>). <issue-title>Biology of Termites Vol.</issue-title> <source>1. Academic Press, New York</source>: <fpage>161</fpage>-<lpage>192</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Saeki</surname><given-names>H</given-names></name></person-group> (<year>1966</year>)<article-title> The effect of the population density on the occurrence of the macropterous form in a cricket, <italic>Scapsipedus aspersus</italic> Walker (Orthoptera, Gryllidae).</article-title> <source>Japanese Journal of Ecology </source> <volume>16</volume>: <fpage>1</fpage>-<lpage>4</lpage>. [in Japanese with English summary]</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Systat</surname><given-names>v. 9.0</given-names></name></person-group> (<year>1998</year>)<source> SPSS, Inc., Chicago, IL.</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tarumingkeng</surname><given-names>RC</given-names></name><name name-style="western"><surname>Coppel</surname><given-names>HC</given-names></name><name name-style="western"><surname>Matsumura</surname><given-names>F</given-names></name></person-group> (<year>1976</year>)<article-title> Morphology and ultrastructure of the antennal chemoreceptors of worker <italic>Coptotermes formosanus</italic> Shiraki.</article-title> <source>Cell and Tissue Research </source> <volume>173</volume>: <fpage>173</fpage>-<lpage>178</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF00221373" xlink:type="simple">doi: 10.1007/BF00221373</ext-link></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thorne</surname><given-names>BL</given-names></name></person-group> (<year>1984</year>)<article-title> Polygyny in the neotropical termite <italic>Nasutitermes corniger</italic>: Life history consequences of queen mutualism.</article-title> <source>Behavioral Ecology and Sociobiology </source> <volume>14</volume>: <fpage>117</fpage>-<lpage>136</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF00291903" xlink:type="simple">doi: 10.1007/BF00291903</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Watson</surname><given-names>JAL</given-names></name><name name-style="western"><surname>Nel</surname><given-names>JJC</given-names></name><name name-style="western"><surname>Hewitt</surname><given-names>PH</given-names></name></person-group> (<year>1972</year>)<article-title> Behavioral changes in founding pairs of the termite <italic>Hodotermes mossambicus</italic>.</article-title> <source>Journal of Insect Physiology </source> <volume>18</volume>: <fpage>373</fpage>-<lpage>387</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0022-1910(72)90136-9" xlink:type="simple">doi: 10.1016/0022-1910(72)90136-9</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weesner</surname><given-names>FM</given-names></name></person-group> (<year>1969</year>)<article-title> External anatomy.</article-title> In: <person-group><name name-style="western"><surname>Krishna</surname><given-names>K</given-names></name><name name-style="western"><surname>Weesner</surname><given-names>FM</given-names></name></person-group> (<role>Eds</role>). <issue-title>Biology of Termites Vol.</issue-title> <source>1. Academic Press, New York</source>: <fpage>19</fpage>-<lpage>47</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wheeler</surname><given-names>WM</given-names></name></person-group> (<year>1900</year>)<article-title> A new myrmecophile from the mushroom gardens of the Texan leaf-cutting ant.</article-title> <source>The American Naturalist </source> <volume>34</volume>: <fpage>851</fpage>-<lpage>862</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1086/277806" xlink:type="simple">doi: 10.1086/277806</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Williams</surname><given-names>RMC</given-names></name></person-group> (<year>1959</year>)<article-title> Colony development in <italic>Cubitermes ugandensis</italic> Fuller (Isoptera: Termitidae).</article-title> <source>Insectes Sociaux </source> <volume>6</volume>: <fpage>21</fpage>-<lpage>304</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02224412" xlink:type="simple">doi: 10.1007/BF02224412</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yanagawa</surname><given-names>A</given-names></name><name name-style="western"><surname>Shimizu</surname><given-names>S</given-names></name><name name-style="western"><surname>Noma</surname><given-names>K</given-names></name><name name-style="western"><surname>Nishikawa</surname><given-names>M</given-names></name><name name-style="western"><surname>Kazumasa</surname><given-names>O</given-names></name><name name-style="western"><surname>Yokohari</surname><given-names>F</given-names></name></person-group> (<year>2009</year>)<article-title> Classification and distribution of antennal sensillae of the termite <italic>Coptotermes formosanus</italic> (Isoptera: Rhinotermitidae).</article-title> <source>Sociobiology </source> <volume>54</volume>: <fpage>327</fpage>-<lpage>349</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zimmerman</surname><given-names>RB</given-names></name></person-group> (<year>1983</year>)<article-title> Sibling manipulation and indirect fitness in termites.</article-title> <source>Behavioral Ecology and Sociobiology </source> <volume>12</volume>: <fpage>143</fpage>-<lpage>145</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF00343205" xlink:type="simple">doi: 10.1007/BF00343205</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

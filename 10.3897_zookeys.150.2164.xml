@@ -1,0 +1,514 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="review-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.150.2164</article-id>
+            <title-group>
+                <article-title>Studying the effects of virtual biodiversity research infrastructures</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Duin</surname>
+                        <given-names>Daphne</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Besselaar</surname>
+                        <given-names>Peter van den</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>VU-University Amsterdam, Dep. of Organization Sciences. &amp; Network Institute De Boelelaan 1081, 1081 HV, Amsterdam, The Netherlands
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Daphne Duin (<email xlink:type="simple">d.duin@vu.nl</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Smith</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>150</issue>
+            <fpage>193</fpage>
+            <lpage>210</lpage>
+            <history>
+                <date date-type="received">
+                    <day>29</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>25</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Daphne Duin, Peter van den Besselaar</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The research environment of scholars is increasingly web-based. This makes it urgent to study the effects of moving to the Web on research practices, scholarly output and innovation. We propose a theoretical framework and a methodology to study these effects. In a pilot study, we apply theory and method on an online community in biodiversity research, to demonstrate the feasibility of the approach. We also indicate the practical relevance of this kind of analysis for improving the quality of virtual research environments. In the last section, directions for further research are suggested.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Knowledge creation</kwd>
+                <kwd>users</kwd>
+                <kwd>scientific collaboration</kwd>
+                <kwd>Webscience</kwd>
+                <kwd>impact assessment</kwd>
+                <kwd>biodiversity and taxonomic research infrastructures</kwd>
+                <kwd>virtual communities of practice</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Moving science to the (social) Web has generated excitement for its potential to support knowledge creating activities in research environments (<xref ref-type="bibr" rid="B13">eResearch2020 2010</xref>). Core ideas behind social web applications and services are: to make the Web a place for user generated content; to harness the power of crowds; to provide access to data on a large scale; to offer an architecture for participation and to create network effects and openness (Tim O’Reilly in: <xref ref-type="bibr" rid="B2">Anderson 2007</xref> p.14). The social Web, also called Web <!--PageBreak-->2.0, brings people, ideas, tools and information resources together and is in this way a promising means to accelerate scientific developments and to disseminate scientific information for policy and education.
+            </p>
+            <p>In the field of biodiversity research numerous Web based tools are currently available. The tools facilitate knowledge creation within the global expert community of biodiversity researchers and bioinformaticians. The tools allow users to do collaborative work on the Web. Users can create content, share data and have access to knowledge that was once only available to individual researchers, whether in paper achieves, on stand-alone computers or in difficult to access data systems of their institutions. Several of these kind of tools are supported under the 7<sup>th</sup> Frame work Programme <xref ref-type="bibr" rid="B35">ViBRANT</xref>. A sum of such tools and online services is referred to as Virtual Research Environments (VREs), a cyberinfrastructures or e-infrastructures (<xref ref-type="bibr" rid="B14">Fraser 2005</xref>). These concepts are continuously evolving and often used interchangeably. The different terminologies have in common that they comprise digital infrastructures and services which enable research to take place (idem). Even though the expectations on the impact of Web-based science are high, most virtual research environments, being relatively new, struggle with engaging user communities and with the implementation of a sustainable model.
+            </p>
+            <p>Within the context of a larger trend to move biodiversity to the Web (see also: Global Biodiversity Information Facility <xref ref-type="bibr" rid="B16">GBiF</xref>; Encyclopedia of Life EOL; Biodiversity Heritage Library <xref ref-type="bibr" rid="B6">BHL</xref>; <xref ref-type="bibr" rid="B35">ViBRANT</xref>), we are interested in the effects that the move to the Web has on researchers’ work environment, research practices, scholarly output and the changing needs for support (see also <xref ref-type="bibr" rid="B20">JISC</xref> Virtual Research Environment programme). A better understanding of the effects will contribute to: i) a design and management that better fits the needs of the users; ii) improving sustainability; iii) and more generally to research on infrastructure policy.
+            </p>
+            <p>In this paper we will zoom-in on the questions mentioned above. Our main aim is methodological. We will elaborate a method for studying the effects of web-based biodiversity research infrastructures on scientific collaboration, innovation, and performance. In what follows we will put forward a theoretical framework, discuss empirical data and a methodology - which we think will help in answering the question. To illustrate the possibilities and limitations of the methodology suggested we will discuss empirical data that we collected for a pilot study on one online community of the Scratchpad platform [<ext-link ext-link-type="uri" xlink:href="http://scratchpads.eu/">http://scratchpads.eu/</ext-link>] and conclude with recommendations for further research. <xref ref-type="bibr" rid="B30">Scratchpads</xref> are an online platform for collaborative and distributed work in biodiversity research. The Scratchpad environment is currently one of the more established services that is coordinated under the <xref ref-type="bibr" rid="B35">ViBRANT</xref> FP7 umbrella and is in the air since 2007.
+            </p>
+            <p>Here we stressed why it is important to examine the effects of moving science to the Web. In the following paragraph we bring together previous research on the organisation of knowledge creation and discuss how we think we can use these findings in our own work.<!--PageBreak--></p>
+        </sec>
+        <sec sec-type="Knowledge creation">
+            <title>Knowledge creation</title>
+            <p>Knowledge creation is at the heart of the academic profession. Influencing the creation of new knowledge is a challenge for organisations as knowledge flourishes best when it is enabled, not managed (<xref ref-type="bibr" rid="B33">Sveiby 2001</xref>). Key concepts for understanding knowledge creation are “implicit knowledge” and “explicit knowledge” as put forward by <xref ref-type="bibr" rid="B25">Nonaka et al. (1994</xref>, <xref ref-type="bibr" rid="B26">1995</xref>). Implicit knowledge is experience based and context specific knowledge that cannot be expressed in words, sentences, numbers or formulas. This also includes cognitive skills such as beliefs, images, intuition and mental models as well as technical skills such as craft and knowhow. Explicit knowledge is codified, general knowledge that can be expressed in words, sentences, numbers or formulas. It includes theoretical approaches, problem solving, manuals and databases (<xref ref-type="bibr" rid="B27">Nonaka 1997</xref>). According to the authors, the answer to mobilisation and creation of knowledge is to enable interaction and the exchange of implicit (tacit) and explicit (codified) knowledge (<xref ref-type="bibr" rid="B28">Nonaka et al. 2000</xref>). <xref ref-type="bibr" rid="B38">Woo et al. (2003)</xref> and <xref ref-type="bibr" rid="B18">Herschel et al. (2001)</xref> emphasise that converting implicit knowledge to explicit knowledge is often seen a problematic task, labour intensive and expensive. One solution to overcome this problem is the creation of Communities of Practice (CoP). These CoPs bring together knowledgeable experts to work on complex problems (<xref ref-type="bibr" rid="B3">Andriessen 2005</xref>; <xref ref-type="bibr" rid="B37">Wenger 1998</xref>). This relates also to <xref ref-type="bibr" rid="B33">Sveiby’s (2001)</xref> observation that implicit knowledge is best kept in knowledgeable people and is achieved by making knowledgeable people communicate. According to him: “knowledge shared is knowledge doubled” (p. 347). <xref ref-type="bibr" rid="B24">McFayden et al. (2009)</xref> add to this the importance of combining diverse and overlapping knowledge inputs between exchange partners for the creation of new knowledge. Overlapping knowledge allows for greater specialisation and support in CoPs because a common knowledge base (e.g. mental frames, shared knowhow) eases communication (<xref ref-type="bibr" rid="B12">Demsetz 1991</xref>). On the other hand, heterogeneous or sparse networks provide more opportunities to secure access to new information and diverse perspectives (<xref ref-type="bibr" rid="B11">Burt 2001</xref>). In other words, a CoP needs a common basis of implicit and explicit knowledge for good communication flows and stability but also diversity in order to be innovative and flexible.
+            </p>
+            <p>Next to the contributions from knowledge management studies on innovation, also social network studies have also contributed important insights to our understanding of the conditions and constrains for knowledge creation. Scientists, like other professionals, bring more to work than skills and experience, “they also bring the assets they can procure through their social networks” (<xref ref-type="bibr" rid="B15">Gargiulo et al. 2000</xref>: p. 183). This is often referred to as “social capital” (Bourdieu 1980; Coleman 1988 in: <xref ref-type="bibr" rid="B15">Gargiulo et al. 2000</xref> p. 183; <xref ref-type="bibr" rid="B9">Burt 2001</xref>, <xref ref-type="bibr" rid="B10">2007</xref>). Burt demonstrates that “compensation, positive performance evaluations, promotions, and good ideas are disproportionately in the hands of people whose networks span structural holes” (2004, p. 349). Structural holes are non-redundant connections between actors in a network. In other words, structural holes are ties to people that are themselves not connected. People in an organisation who connect not connected groups are called “brokers”.
+            </p>
+            <p><!--PageBreak-->Social network studies make use of sociograms to support their analysis. These are graphic representations of social links that a person has. <xref ref-type="fig" rid="F1">Figure 1</xref> is an example of a sociogram of structural holes that are linked by of one actor in a network, represented by node A at the centre of the graph.
+            </p>
+            <p>The nodes are actors, the ties their connections. Actor A is a broker in this network because connects two groups that are otherwise unconnected (spans structural holes).</p>
+            <p>Social network studies show that brokers are valuable individuals for organisations. Brokers are people who have the capabilities to “”translate, coordinate and align between different perspectives (…) and address conflicting interest” (<xref ref-type="bibr" rid="B37">Wenger 1998</xref>: p. 109). Moreover brokers are more likely to express new ideas and to have them judged valuable (<xref ref-type="bibr" rid="B10">Burt 2004</xref>). This idea of “selection and synthesis across structural holes and between groups is not new” (<xref ref-type="bibr" rid="B10">Burt 2004</xref>: p. 350). Hence, most structural holes studies were carried out among local based workers (e.g assembly line workers of the same factory). What we aim to study is how this functions in online (distributed) research communities.
+            </p>
+            <p>Virtual research environments like <xref ref-type="bibr" rid="B30">Scratchpads</xref> aim not to replace existing data and communication systems but, rather offer additional ways of working with exis<!--PageBreak-->ting facilities. They add an additional organisational and network layer to the traditional work environment of a researcher. Researchers already participate in multiple professional and personal networks such as: at the level of their department; the institutions; national/international projects: alumni networks; advisory boards etc. Becoming a member of an online work group would add another network layer to their organisation of work. We would like to argue that to be able to study the effects of moving biodiversity online we have to take into consideration already existing structures of the researchers work environment and investigate to what extent these change when a new way of working is adapted. Hence, instead of looking at uniplex networks a study of multiplex networks will be helpful in getting a deeper understanding of how the introduction of a new network layer might change exiting organisational structures. As <xref ref-type="bibr" rid="B23">Lee et al.</xref> demonstrate “multiplex networks involve multiple relations that create multiple ties in one network have been shown to influence the formation or dissolution of ties in other networks” (2011, p. 759).
+            </p>
+            <p>Today, online networks are important vehicles for knowledge sharing and learning in the workplace (<xref ref-type="bibr" rid="B4">Ardichvili 2008</xref>). The expectation is that the social Web provides enabling conditions for knowledge creation as mentioned above. The social Web overcomes a number of barriers for knowledge exchange and interaction - by giving distributed communities the tools to control the level of openness of their communication and tools to simulate a face-to-face setting with help of online instruction videos, VOIP, document- /image- / biography- sharing tools, forums and other layouts of online communities. Triggered by the developments of Web 2.0 tools, the playing field of CoPs moves to the Web, which turns them into Virtual Communities of Practice (<xref ref-type="bibr" rid="B29">Samarah et al. 2008</xref>). The claims about the usefulness of Web 2.0 tools for knowledge creation are often made. However, there is a surprising dearth of empirical studies that show the impact of Web 2.0 tools on knowledge creation in virtual communities, with the exception of work by <xref ref-type="bibr" rid="B29">Samarah et al. (2008)</xref>.
+            </p>
+            <p>In summary, knowledge flourishes when knowledgeable people are brought together and interact. Especially the exchange of different but partly overlapping knowledge enables the creation of new knowledge within expert communities. Another important enabling condition that arises from the literature is the amount of social capital of individual actors as well as social capital kept within collective working groups (teams, labs, departments). The open question to be studied is whether Web 2.0 tools, such as <xref ref-type="bibr" rid="B30">Scratchpads</xref>, do provide these conditions. This is something to be studied.
+            </p>
+            <p>In this paper we will discuss a pilot study that examines the possibilities of a social network approach to study co-authorship and Scratchpad membership. But before we come to discuss our pilot study we will investigate the challenges of studying online social settings. Web data are still a relatively new empirical data source in the social sciences and there is some debate on how to collect and interpret data sets collected from the Web. In the following paragraph we will discuss some of the pros en cons of the use of web data to study organisation(s).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Brokerage and structural holes.</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-150-193-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Virtual communities of practice">
+            <title>Virtual communities of practice</title>
+            <p>The Web has become a major medium for communication in science. <xref ref-type="bibr" rid="B35">ViBRANT</xref> products and services, currently being developed under the 7<sup>th</sup> Frame Work programme, mirror a trend within biodiversity research moving science to the Web. In this paper we concentrate on one of the products of <xref ref-type="bibr" rid="B35">ViBRANT</xref>, the <xref ref-type="bibr" rid="B30">Scratchpads</xref>. <xref ref-type="bibr" rid="B30">Scratchpads</xref> are an online platform for biodiversity research where virtual communities of academic experts link remote resources together (people, biographies, images) and offer an environment for learning and knowledge creation that before was only possible in geographical proximity (<xref ref-type="bibr" rid="B32">Smith et al. 2009</xref>). The platform has today a global user community of &gt; 3000 people, which is steadily growing. The communities are created around different biodiversity research topics, such as around a particular group of organisms, around a project, or bioinformatics topics. Scratchpad communities are managed by individual researchers that apply for a site and can invite /or make it open to fellow researchers to register and participate in content sharing and analysis. Some sites are communities-of-one, other sites have more than 200 registered users. Also the level of activity among users of one Scratchpad may vary significantly. The content creation of some sites is the effort of a single researcher, while the other users of the site take a more “passive” role. For other Scratchpad sites the whole community is actively engaged in the creation of content. What all users have in common is that at one point they decide to register as a user of a community. They either saw an interest in connecting to the other users or to the content of the site, they identified with the people, the content or with both.
+            </p>
+            <p>From a previous study that we did among the users we know that <xref ref-type="bibr" rid="B30">Scratchpads</xref> are used among biodiversity researchers mainly: to disseminate research results; to share data; to collaborate in the writing of project proposals and papers; and for preparing meetings (<xref ref-type="bibr" rid="B31">Smith et al. 2010</xref> p.4). In the field of organisational knowledge creation <xref ref-type="bibr" rid="B30">Scratchpads</xref> can be coined Virtual Communities of Practice.
+            </p>
+            <p><italic>Virtual Communities of Practice are a type of knowledge based social network whose members rely primarily on networked ICT’s in order to 1) discuss problems and issues associated with their day to day activities 2) collaborate on projects 3) share documents, solutions or good and bad practices, plan for face to face meetings or continue face to face relationships and work beyond face-to-face events (<xref ref-type="bibr" rid="B1">Anandarajan and Anandarajan 2010</xref>, p.154)</italic>
+            </p>
+            <p>The move of science to the Web leads to new questions regarding the impact of the online environment on scholars’ behaviour, relations, and scholarly output. It also provides us with new types of data and methodologies. The Web is constituted by a myriad of socio-technical interactions which often leave digital traces. Users of the Web leave digital footprints of their behavior and network relations. Their footprints can be found in web server log file data or in the information that is stored on institutional web pages and social network sites. Consequently “it forms an interesting, modern site for research ethnography” (<xref ref-type="bibr" rid="B5">Beaulieu 2005</xref>, p. 183) and for quantitative studies of these<!--PageBreak--> digital traces (cf. <xref ref-type="bibr" rid="B34">Thelwall 2010</xref>). Today also offline activities can be studied from the Web as personal information about researchers’ work is disseminated widely online, in publication databases, conference websites and sharing tools for presentations and images, just to name some examples.</p>
+            <p>The use of such data sets for social research, like the digital footprints of researcher’s online activity, has several advantages. Firstly, the scale on which we can do research becomes much larger, as one can collect large datasets covering the actions of many users and over long periods of time and geographical distances. Secondly, research using such data is unobtrusive as the actors under study are not interrupted in their work by data collection activities. Thirdly, the data are observational, and not based on opinions only, such as in surveys and interviews. Fourthly, costs are potentially lower, as web data can be collected from behind a desk and are often freely available (cf. <xref ref-type="bibr" rid="B21">Johns et al. 2004</xref>). <xref ref-type="bibr" rid="B19">Hine (2005)</xref> describes the use of the Internet data for social research as a trend where excitement and anxiety come together. Some of the advantages are mentioned above. The disadvantages of the use of web data relate to lower responses rates of online surveys; non-representative of the sample, a decreasing quality of the data, and privacy issues. As a consequence, it is often argued that (secondary) web data is best used in combination with other, primary data, to control for issues such as representativeness (<xref ref-type="bibr" rid="B8">Buckman 2006</xref>). Something we plan to do in future research. In the next section we discuss the methods that we used for analyzing web data.
+            </p>
+        </sec>
+        <sec sec-type="Pilot study, data and methods">
+            <title>Pilot study, data and methods</title>
+            <p>As argued, the creation of new knowledge can be enabled by bringing a variety of knowledgeable people together in an environment that facilitates the interaction and exchange of heterogeneous and overlapping knowledge inputs. We carried out a pilot study on one Scratchpad community to explore this question and test our approach. The research questions are: 1) to what extent do <xref ref-type="bibr" rid="B30">Scratchpads</xref> connect people that were not connected before (as co-author)? 2) To what extent do <xref ref-type="bibr" rid="B30">Scratchpads</xref> create new links between different bodies of knowledge (structural holes) and reinforce existing links?
+            </p>
+            <p>For both questions we build on ideas and techniques stemming from bibliometrics (cf. <xref ref-type="bibr" rid="B17">Glänzel 2002</xref>) and Social Network Analysis (cf. <xref ref-type="bibr" rid="B36">Wasserman and Faust 1994</xref>). In the literature section above we explained why Social Network Analysis offers a useful framework. In order to answer the first question we compare the offline, traditional collaborative network connections of the Scratchpad users, their co-author relations, with Scratchpad membership. In other words, we are interest to know who connects to whom because of membership who was not connected before by co-author relations. Or, were all users already connected before they joined and is the Scratchpad only a different media to continue to work with people one already used to collaborate with? Co-author relations are valuable measure for academic collaboration but should be handled with care (<xref ref-type="bibr" rid="B17">Glänzel 2002</xref>). Also, co-authorship is certainly not the only form of collaboration in science. People are part of multiplex social networks (e.g department, <!--PageBreak-->institutions, editorial boards). Each network has its own type of interactions (drinking coffee, talking in meetings, peer reviewing on the same journal). The combined number and type of network connections and interactions has an effect on someone’s social capital. Sometimes networks overlap, you meet the same people in different settings taking on different roles. But sometimes new networks do not overlap and fill “missing links” in one’s social capital. In our data example we stack two networks on top each other: the co-author network and the Scratchpad membership network, and study to what extent the Scratchpad membership connects researchers that were not already connected by co-authorship ties.
+            </p>
+            <p>The second question deals with the potential of the Scratchpad community to create new knowledge (span structural holes) and create favorable conditions to continue to exist over a long period of time (redundancy). For this question the Scratchpad community is taken as an analogy for a research team where every member brings in social capital in the form of their co-author network. This time we did not look at the co-author relations among the 11 members but to what extent their ego, co-author relations overlap. Do the Scratchpad members co-author with the same peers, or do they bring in their personal, unique co-author contacts?</p>
+            <p>Our case is a single Scratchpad which we give here the fictional name Livingcreatures.info. User registration coming from automated bots, so called spam-signs ups, were excluded from the analysis. The member list that we used included members’ personal details such as their affiliation and was used as the starting point of studying co-author relations. For each member we collected their publications over a period of 10 years, preceding their online collaboration in Livingcreatures.info. Publications were searched for and downloaded from the ISI Web of Science database and combined with publications from Google Scholar (using Publish or Perish). The Web of Science is a much more structured database, with for instance better name ambiguity filters than Publish or Perish. However the combination of both was thought important as biodiversity research is underrepresented in the Web of Science (cf. <xref ref-type="bibr" rid="B22">Krell 2002</xref>). Therefore we needed to complement this with publication information from additional data sources. Publish or Perish uses Google Scholar data, with a much wider coverage. The resulting publication lists cover journal articles, books chapters, series and peer reviewed and non-peer reviewed papers. In the next step we retrieved the co-author relations of each Scratchpad member and this enables us to study to what extent the co-author relations of the members overlap. This indicates the degree of differences and similarities between the types of knowledge represented in Livingcreatures.info.</p>
+            <p>The Scratchpad under study was launched early 2011. As for August 2011, this Scratchpad has 11 registered members, all male. Ten of the members were in the period of our analysis affiliated to one of the natural history institutions in the world, number 11 is mentioned in the acknowledgements as a private taxonomic specialist. Their institutional addresses are located in five different continents (3 in Europe, 3 in Asia, 2 in Africa, 1 in South America, 1 in Oceania). Together, these 11 Scratchpad members have 187 co-authors (including inter-group relations) with whom they collaborated in<!--PageBreak--> the period from 2001-2010. <xref ref-type="table" rid="T1">Table 1</xref> gives the breakdown of the publications of the group. Together they contributed to 135 publications in ten years. Four Scratchpad members have no co-author relations. The information that we found during our web search suggests that this may be explained by individual characteristics. From the web data we learnt that two of them are early career researchers, number three is in a non-research position in a research institute, and number four is a volunteer researcher. <xref ref-type="table" rid="T1">Table 1</xref> shows the details about the publications and co-authors of the 11 members.
+            </p>
+            <p>We collected and analyzed the co-author data of the members of one Scratchpad and applied a social network approach to the data in order to get a better understanding of the effects of moving biodiversity research to the Web. In the next paragraph we discuss the results of the analysis.</p>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Scratchpad members<sup>†</sup>, number of papers and their co-authors. ( 2001-2010). </p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Scratchpad members </th>
+                            <th rowspan="1" colspan="1">number of publications</th>
+                            <th rowspan="1" colspan="1">number of unique co-authors</th>
+                            <th rowspan="1" colspan="1">number papers with one author</th>
+                            <th rowspan="1" colspan="1">number of papers with co-authors</th>
+                            <th rowspan="1" colspan="1">number papers with &gt; 2 authors</th>
+                            <th rowspan="1" colspan="1">max number of co-authors on 1 paper</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Group total</td>
+                            <td rowspan="1" colspan="1">135</td>
+                            <td rowspan="1" colspan="1">180</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">117</td>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1"> -</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 1</td>
+                            <td rowspan="1" colspan="1">30</td>
+                            <td rowspan="1" colspan="1">66</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">19</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 2</td>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 3</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 4</td>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 5</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 6</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 7</td>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">52</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 8</td>
+                            <td rowspan="1" colspan="1">70</td>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">61</td>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 9</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 10</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">member 11</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <fn>
+                        <p><sup>†</sup> Members from 1 Scratchpad site. Group total is not the sum of the cells, several members have collaborated on the same publication
+                        </p>
+                    </fn>
+                </table-wrap-foot>
+            </table-wrap>
+        </sec>
+        <sec sec-type="First results">
+            <title>First results</title>
+            <p>We operationalised the two research questions in the following way: Does Scratchpad membership: i) connect people that were otherwise not connected; ii) provide network conditions that are beneficial for the creation of new knowledge and conditions for stability, that is, does the Scratchpad link researchers from different but not too different fields?</p>
+            <sec sec-type="Do Scratchpad connect?">
+                <title>Do Scratchpad connect?</title>
+                <p>We used UCINET6 (<xref ref-type="bibr" rid="B7">Borgatti et al. 2002</xref>), a software tool for social network analysis, to construct the co-author matrices and to visualise the co-author relations within the Scratchpad community and with authors outside the community. <xref ref-type="fig" rid="F2">Figure 2</xref> is a visualisation of co-author ties between Scratchpad members (inter-group relations). The graph is based on a (symmetrical) adjacency matrix with 11rows and 11 columns. If member 1 has published with member 2 the cell contains a 1 if they did not publish together the cell entry is 0. The nodes represent the 11 Scratchpad members, the lines between the nodes their co-author relations.
+                </p>
+                <p>What does the network show? The graph shows that six of the members are connected through co-author relations. They do not form a dense clique as they do not connect all co-authors with each other. Of these six, four have published with three others in the group, the two members positioned at the tips of the graph have published with only one other group member. The four members (1, 2, 4, 8) in the center of the graph (with each three links) already were acquainted with one of the co-authors in the co-author network of their fellow Scratchpad member. On the other hand the two members in the tips seem more “peripheral players” in <italic>this</italic> network.
+                </p>
+                <p><xref ref-type="fig" rid="F2">Figure 2</xref> also shows that the Scratchpad connects the five isolated members (3,5,9,10,11) with each other and with the members that already co-authored before they joined the Scratchpad. In other words, the five isolates are each connected to 10 potential “new” peers. If we compute in a similar way a sociogram of the Scratchpad this would look as followed, see <xref ref-type="fig" rid="F3">figure 3</xref>. In the Scratchpad the 11 members are all linked to each other by <italic>membership</italic> of the same community. Note that a membership tie is different from as a co-author tie. A membership tie refers to sharing common interests and resources, a co-author tie refers to jointly producing a publication.
+                </p>
+                <p><!--PageBreak-->We studied the network of a particular Scratchpad community in isolation, not taking into consideration a possible overlap between different <xref ref-type="bibr" rid="B30">Scratchpads</xref> (currently more than 200 communities are active). <xref ref-type="fig" rid="F3">Figure 3</xref> looks trivial but serves to demonstrate the different structure as opposed to the co-author network (<xref ref-type="fig" rid="F2">Fig. 2</xref>). <xref ref-type="fig" rid="F4">Figure 4</xref> is a fictional example of a network structure of how the Scratchpad under study (this one is real, only has a fictional name!) might be embedded in a lager structure of Scratchpad communities. In this fictional example two members of Livingcreatures.info are also members in other <xref ref-type="bibr" rid="B30">Scratchpads</xref>, one around an EU project the other one of Flowers of India. This is a graph of a fictional situation to show possible complexity in the larger Scratchpad structure.
+                </p>
+                <p>In the next step, we extend the co-author network of the members with the co-author relations from outside the Scratchpad. The question is whether including these links changes the network topology, and whether the isolates are still isolates in the larger co-author network.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Graph of co-author ties<sup>†</sup> between the members of the Scratchpad Livingcreatures.info<sup>‡</sup>. (2001-2010).<sup>†</sup> Data sources: Web of Science and Publish or Perish. <sup>‡</sup> For privacy reasons we use a fictional name.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-150-193-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Graph of membership ties among Scratchpad members Livingcreatures.org</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-150-193-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Livingcreatures.info and ties with two other <xref ref-type="bibr" rid="B30">Scratchpads</xref>. This graph shows a fictional situation.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-150-193-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Overlapping and diverse knowledge">
+                <title>Overlapping and diverse knowledge</title>
+                <p>The literature discussed above concludes that a main enabling condition for knowledge creation and innovation is the prevalence of a mix of overlapping and diverse types of knowledge inputs that are exchanged. <xref ref-type="bibr" rid="B30">Scratchpads</xref> do so, if the membership is schol<!--PageBreak-->arly heterogeneous. Another conclusion is that if stability is important, a certain level of redundancy in the network is important (<xref ref-type="bibr" rid="B15">Gargiulo et al. 2000</xref>). <xref ref-type="fig" rid="F5">Figure 5</xref> is the visualization of these connections. This graph is based on a symmetrical 192 × 192 matrix representing the 192 authors and their “external co-author relations”.
+                </p>
+                <p>In red we still see the Scratchpad members. The layout is similar to <xref ref-type="fig" rid="F2">Figure 2</xref> to facilitate comparison. In blue we have the authors that are not in the Scratchpad. The red circles indicate those non-members that co-author with more than one Scratchpad member. Adding the external co-authors does not change much how the Scratchpad members are linked. The four core members have several indirect relations, in contrast to the more marginal members who lack these indirect links. Member 9 has his own small network. Adding the external authors did not link him to the large component. The other four members are the isolates, nodes without any co-author relations with other nodes.
+                </p>
+                <p><xref ref-type="table" rid="T2">Table 2</xref> shows the number of the shared co-authors for each of the members. Note that the co-author relations between Scratchpad members are not included. Seven Scratchpad members have co-authors who are also co-authors of other members. The number of ‘overlapping connections’ (redundancy) ranges between 1 (for members 6, 7, and 11) and 3 (members 1, 2, 4, and 8).
+                </p>
+                <p><xref ref-type="table" rid="T2">Table 2</xref> shows us that there are only a few shared co-authors and most of the 180 co-authors (see <xref ref-type="table" rid="T1">Table 1</xref>) are not shared by the Scratchpad members. The average number shared co-authors do not differ much among them. Total number of redundant connections that are brought in by the members is much lower than their contribution to bringing in new co-authors and so span structural holes. Redundancy as mentioned here refers to the Scratchpad level, meaning that overlapping co-authorships are redundant for the social capital of the Scratchpad community as a whole. At the level of the individual actor however the connection might have an added value. Redundancy at the network level will rise when Scratchpad members increase their collaboration with the same co-authors from outside the Scratchpad or when co-authors would decide to<!--PageBreak--> join the Scratchpad. Redundancy in the Scratchpad network will secure “access” to a specific co-author or group of authors. The goals that the Scratchpad members have set will define if more redundancy (more overlapping connections) at the network level is useful for the group.
+                </p>
+                <p>The shared co-authors are also interesting because they are part of the professional networks of several of the Scratchpad members, and therefore they may have an interest to join the Scratchpad. The network suggests that they would contribute to intensifying interaction and to the exchange of knowledge. Adding them to the network will add a second type of redundancy and therefore stability. However, from an innovation point of view, adding redundant actors to a network is wasted energy.</p>
+                <p>We conclude that the Scratchpad under study is a rather globally distributed Virtual Community of Practice in biodiversity research, some members have a long record of publications and others have a much shorter list (see <xref ref-type="table" rid="T1">Table 1</xref>), possibly because they just starting their academic career. Also from <xref ref-type="table" rid="T1">Table 1</xref> we conclude that the Scratchpad members of this community have a collaborative attitude. Their publication behavior demonstrates that they are used to collaborate with several authors on one paper, running from two authors up to 19 authors on a paper. When comparing co-author relations and Scratchpad membership we see that signing up for the Scratchpad has created new ties for every one of the 11 members, though some gained more new connections than others. Scratchpad members do share co-authors from outside with their fellow Scratchpad members, showing that the two knowledge networks (author network, Scratchpad network) partially overlap. However, most co-authors of every Scratchpad member are new to the other members, suggesting that members bring in not only similar but also different knowledge sources and skills. Depending on the goal of the Scratchpad the members could try to increase either the overlapping - either the diverse types of knowledge inputs at the network level (redundancy versus spanning structural holes).
+                </p>
+                <p>Of course, co-author ties and Scratchpad networks only form two of many types of networks of researchers. Other networks (e.g. based on organisation membership, committee membership etc.), may change the network configuration, and therefore may show a different role and effect of <xref ref-type="bibr" rid="B30">Scratchpads</xref> in the total network of biodiversity research. This is something to consider in future investigation. A second issue that needs further research is what Scratchpad members actually do in the Scratchpad, as this may teach us about the nature of the Scratchpad relations.
+                </p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>Graph of co-author ties<sup>†</sup> between the members of the Scratchpadlivingcreatures.info<sup>‡</sup>. (2001-2010). <sup>†</sup> Data sources: Web of Science and Publish or Perish. <sup>‡</sup> For privacy reasons we use a fictional name.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-150-193-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <table-wrap position="float" orientation="portrait" id="T2">
+                    <label>Table 2.</label>
+                    <caption><p>Scratchpad members and number of co-authors they share with fellow members. (2001-2010). </p>
+                    </caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1">Scratchpad members Livingcreatures.info</th>
+                                <th rowspan="1" colspan="1">Number co-authors † shared with fellow members</th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member1</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member2</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member3</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member4</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member5</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member6</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member7</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member8</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member9</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member10</td>
+                                <td rowspan="1" colspan="1">0</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">member11</td>
+                                <td rowspan="1" colspan="1">1</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                <table-wrap-foot>
+                    <fn>
+                    <p><sup>†</sup> Data sources: Web of Science and Publish or Perish.</p>
+                    </fn>
+                </table-wrap-foot>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>This paper aimed to explore what theoretical framework, method and data can be used to study the effects of the increasing role of web-based research environments on the practice, innovation and performance of biodiversity researchers.</p>
+            <p>We used the rich body of theories on organisational dimensions of knowledge creation, which suggests enabling conditions for knowledge production and innovation. The design of <xref ref-type="bibr" rid="B30">Scratchpads</xref> is partly based on the criteria in “bringing together knowledgeable people in communities of practice”. Social network theory teaches us how to study and assess the network configuration of these knowledgeable people, as the patterns of links determines the added value for individual actors as well as for the network as a whole, in terms of social capital, knowledge creating power and stability. The concept of multiplex networks reflects that scientists work in a ‘multi layered’ research environment: e-scientists are active in a variety of professional networks in and outside their organisation, real and virtual.
+            </p>
+            <p>As science moves to the Web, the behavioral footprints of scientific work practice are more and more available as (secondary) web data. Web data are an inexpensive way to ‘observe’ the behavior of large groups of people. From <xref ref-type="bibr" rid="B8">Buckman (2006)</xref> we took that the there is a challenge to compile a representative data set from the Web and that therefore the data has to be controlled for with use of a primary data set.</p>
+            <p>From our pilot study we learnt that through computing of relatively simple graphs, we get a better understanding of the effects of Scratchpad membership on scholarly networks. It enables us to compare characteristics of Scratchpad networks with e.g. co-authors. Our analysis suggests that <xref ref-type="bibr" rid="B30">Scratchpads</xref> do create links between researchers that do not exist in the co-author network, and therefore fill structural holes in the network. This is one of the enabling conditions for the creation of new knowledge.
+            </p>
+            <p>Analyzing the number of shared co-authors among members of Scratchpad Livingcreatures.info indicates that the members form a loosely collaborating group of researchers. However, if we also take into consideration the collaboration between the members, the network seems denser. Some Scratchpad members were already collaborating before joining the Scratchpad, however most co-author relations are from outside the Scratchpad community. In other works, the Scratchpad partly reinforces already existing relations, but also creates new links for those members that were not yet included in the co-author network.</p>
+            <p>Our pilot study shows that the selected approach is promising. In the next phase we will extend the study in several ways. Firstly, we used data on only one Scratchpad. We plan to repeat the analysis for a large set of <xref ref-type="bibr" rid="B30">Scratchpads</xref>, which will enable us to test whether the level of variety correlates with knowledge production and innovation, as the theory suggests. Secondly, in the current pilot study we treated all co-author relations as having the same importance, which does not well reflect real world relationships. This is also something to take into account in future research. Thirdly, we used only two different networks of the researchers (<xref ref-type="bibr" rid="B30">Scratchpads</xref>; co-authorships) while neglecting many others, such as organisational proximity, professor-student relations, project membership, and scientific specialisation. In order to get the full picture of the role of <xref ref-type="bibr" rid="B30">Scratchpads</xref> in scholarly networks, the analysis should be extended with the kind of networks mentioned. Fourthly, it is crucial to compare Scratchpad members with non-members, in order to test if changes in research practice and perfo<!--PageBreak-->rmance of members are different from eventual changes in the field at large. Finally, the Scratchpad we studied in this paper was launched in 2011. In order to assess the effects of the deployment of virtual environments, we suggest using a longitudinal research approach: have co-author networks and the thematic orientation of <xref ref-type="bibr" rid="B30">Scratchpads</xref> users changed over time, and is this change different from other researchers in the field?
+            </p>
+            <p>These questions are not only theoretical relevant, but may also be useful in the practice of organising <xref ref-type="bibr" rid="B30">Scratchpads</xref> and other virtual research environments. It may also help to identify potential interesting new Scratchpad members that might be actively invited to participate. Moreover, these lines of research could contribute to sustain user engagement and to general research infrastructure policy.
+            </p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Anandarajan</surname><given-names>M</given-names></name><name name-style="western"><surname>Anandarajan</surname><given-names>A</given-names></name></person-group> (<year>2010</year>)<source> e-research collaboration. theory, tools and techniques. Springer-Verlag, Germany.
+</source></mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Anderson</surname><given-names>P</given-names></name></person-group> (<year>2007</year>)<source> What is Web 2.0? Ideas, technologies and implications for education. JISC Technology &amp; Standards Watch. <ext-link ext-link-type="uri" xlink:href="http://www.jisc.ac.uk/media/documents/techwatch/tsw0701b.pdf">http://www.jisc.ac.uk/media/documents/techwatch/tsw0701b.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Andriessen</surname><given-names>JHE</given-names></name></person-group> (<year>2005</year>)<article-title> Archetypes of knowledge communities.</article-title> In: <person-group><name name-style="western"><surname>Van den Besselaar</surname><given-names>P</given-names></name><name name-style="western"><surname>De Michelis</surname><given-names>G</given-names></name><name name-style="western"><surname>Preece J and Simone</surname><given-names>C</given-names></name></person-group> (<role>Eds</role>) <issue-title>Communities and technologies.</issue-title> <source>Proceedings of the second communities and technologies conference Milano,(Italy) June 13–16, 2005</source>: <fpage>191</fpage>-<lpage>213</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/1-4020-3591-8_11" xlink:type="simple">doi: 10.1007/1-4020-3591-8_11</ext-link></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ardichvili</surname><given-names>A</given-names></name></person-group> (<year>2008</year>)<article-title> Learning and knowledge sharing in virtual communities of practice: motivators, barriers, and enablers.</article-title> <source>Advances in developing human resources </source> <volume>10</volume> (<issue>4</issue>): <fpage>541</fpage>-<lpage>554</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1177/1523422308319536" xlink:type="simple">doi: 10.1177/1523422308319536</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Beaulieu</surname><given-names>A</given-names></name></person-group> (<year>2005</year>)<article-title> Sociable hyperlinks. An ethnographic approach to connectivity.</article-title> In: <person-group><name name-style="western"><surname>Hine</surname><given-names>C</given-names></name></person-group> (<role>Ed</role>). <issue-title>Virtual methods.</issue-title> <source>Berg, New York</source>: <fpage>183</fpage>-<lpage>199</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>BHL</surname></name></person-group><source> - Biodiversity Heritage Library.</source> <ext-link ext-link-type="uri" xlink:href="http://www.biodiversitylibrary.org/">http://www.biodiversitylibrary.org/</ext-link></mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borgatti</surname><given-names>SP</given-names></name><name name-style="western"><surname>Everett</surname><given-names>MG</given-names></name><name name-style="western"><surname>Freeman</surname><given-names>LC</given-names></name></person-group> (<year>2002</year>)<source> UCINET for Windows. Software for Social Network Analysis. Harvard, MA: Analytic Technologies.
+</source></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Buckman</surname><given-names>A</given-names></name></person-group> (<year>2006</year>)<article-title> Analysis of log file data to understand behavior and learning in an online community.</article-title> In: <person-group><name name-style="western"><surname>Weiss</surname><given-names>J</given-names></name><name name-style="western"><surname>Nolan</surname><given-names>J</given-names></name><name name-style="western"><surname>Hunsinger,</surname><given-names>J</given-names></name><name name-style="western"><surname>Trifonas</surname><given-names>P</given-names></name></person-group> (<role>Eds</role>) <issue-title>The International Handbook of virtual learning environments.</issue-title> <source>Springer, Netherlands</source>: <fpage>1449</fpage>-<lpage>1465</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/978-1-4020-3803-7_58" xlink:type="simple">doi: 10.1007/978-1-4020-3803-7_58</ext-link></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Burt</surname><given-names>RS</given-names></name></person-group> (<year>2001</year>)<article-title> Structural holes versus network closure as social capital.</article-title> In: <person-group><name name-style="western"><surname>Lin</surname><given-names>N</given-names></name><name name-style="western"><surname>Cook</surname><given-names>K</given-names></name><name name-style="western"><surname>Burt</surname><given-names>RS</given-names></name></person-group> (<role>Eds</role>) <issue-title>Social capital.</issue-title> <source>Aldinede Gruyter, New York</source>: <fpage>31</fpage>-<lpage>56</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Burt</surname><given-names>RS</given-names></name></person-group> (<year>2004</year>)<article-title> Structural holes and good ideas.</article-title> <source>American Journal of Sociology </source> <volume>110</volume> (<issue>2</issue>): <fpage>349</fpage>-<lpage>99</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1086/421787" xlink:type="simple">doi: 10.1086/421787</ext-link></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Burt</surname><given-names>RS</given-names></name></person-group> (<year>2007</year>)<article-title> Brokerage and closure: An introduction to social capital.</article-title> <source>European Sociological Review </source> <volume>23</volume> (<issue>5</issue>): <fpage>666</fpage>-<lpage>667</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/esr/jcm030" xlink:type="simple">doi: 10.1093/esr/jcm030</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Demsetz</surname><given-names>H</given-names></name></person-group> (<year>1991</year>)<article-title> The theory of the firm revisited.</article-title> In: <person-group><name name-style="western"><surname>Williamson</surname><given-names>OE</given-names></name><name name-style="western"><surname>Winter</surname><given-names>SG</given-names></name><name name-style="western"><surname>Coase</surname><given-names>RH</given-names></name></person-group> (<role>Eds</role>) <issue-title>The Nature of the Firm.</issue-title> <source>Origins, Evolution, and Development. Oxford University Press, New York</source>: <fpage>159</fpage>-<lpage>179</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>eResearch2020</surname></name></person-group> (<year>2010</year>)<source> The role of e-infrastructures in the creation of global virtual research communities. <ext-link ext-link-type="uri" xlink:href="http://www.eresearch2020.eu/eResearch2020%20Final%20Report.pdf">http://www.eresearch2020.eu/eResearch2020%20Final%20Report.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fraser</surname><given-names>M</given-names></name></person-group> (<year>2005</year>)<source> Virtual Research Environments. Overview and activity: Ariadne 44. <ext-link ext-link-type="uri" xlink:href="http://www.ariadne.ac.uk/issue44/fraser/">http://www.ariadne.ac.uk/issue44/fraser/</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gargiulo</surname><given-names>M</given-names></name><name name-style="western"><surname>Benassidoi</surname><given-names>M</given-names></name></person-group> (<year>2000</year>)<source> Trapped in your own net? Network cohesion, structural holes, and the adaptation of social capital. Organization Science 11 (2): 183–196. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1287/orsc.11.2.183.12514" xlink:type="simple">doi: 10.1287/orsc.11.2.183.12514</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>GBiF</surname></name></person-group><source> - Global Biodiversity Information Facility.</source> <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/">http://www.gbif.org/</ext-link></mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Glänzel</surname><given-names>W</given-names></name></person-group> (<year>2002</year>)<article-title> Coauthorship patterns and trends in the sciences (1980–1998) :a bibliometric study with implications for database indexing and search strategies.</article-title> <source>Library trends </source> <volume>50</volume> (<issue>3</issue>): <fpage>461</fpage>-<lpage>473</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Herschel</surname><given-names>RT</given-names></name><name name-style="western"><surname>Nemati</surname><given-names>H</given-names></name><name name-style="western"><surname>Steiger</surname><given-names>D</given-names></name></person-group> (<year>2001</year>)<article-title> Tacit to explicit knowledge conversion. Knowledge exchange protocols.</article-title> <source>Journal of Knowledge Management </source> <volume>1</volume>: <fpage>107</fpage>-<lpage>116</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hine</surname><given-names>C</given-names></name></person-group> (<year>2005</year>)<article-title>. Introduction.</article-title> In: <person-group><name name-style="western"><surname>C</surname><given-names>Hine</given-names></name></person-group> (<role>Ed</role>). <issue-title>Virtual methods.</issue-title> <source>Issues in social research on the internet. Sage, Berg</source>: <fpage>109</fpage>-<lpage>113</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>JISC</surname></name></person-group><source> - Virtual research environment programme.</source> <ext-link ext-link-type="uri" xlink:href="http://www.jisc.ac.uk/whatwedo/programmes/vre.aspx">http://www.jisc.ac.uk/whatwedo/programmes/vre.aspx</ext-link></mixed-citation>
+            </ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johns</surname><given-names>MD</given-names></name><name name-style="western"><surname>Shing-Ling</surname><given-names>CL</given-names></name><name name-style="western"><surname>Hall</surname><given-names>GJ</given-names></name></person-group> (<role>Eds</role>) (<year>2004</year>)<source> Online Social Research: Methods, Issues and Ethics. Peter Lang, New York.
+</source></mixed-citation>
+            </ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krell</surname><given-names>FT</given-names></name></person-group> (<year>2002</year>)<source> Why impact factors don’t work for taxonomy. Nature 415 (6875): 957. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/415957a" xlink:type="simple">doi: 10.1038/415957a</ext-link></mixed-citation>
+            </ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lee</surname><given-names>S</given-names></name><name name-style="western"><surname>Monge</surname><given-names>P</given-names></name></person-group> (<year>2011</year>)<article-title>The coevolution of multiplex. Communication networks in organizational communities.</article-title> <source>Journal of Communication </source> <volume>61</volume>: <fpage>758</fpage>-<lpage>779</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1460–2466.2011.01566.x" xlink:type="simple">doi: 10.1111/j.1460–2466.2011.01566.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McFayden</surname><given-names>A</given-names></name><name name-style="western"><surname>Semadeni</surname><given-names>M</given-names></name><name name-style="western"><surname>Cannella Jr.</surname><given-names>AA</given-names></name></person-group> (<year>2009</year>)<article-title> Value of strong ties to disconnected others: examining knowledge creation in biomedicine.</article-title> <source>Organization Science </source> <volume>20</volume> (<issue>3</issue>): <fpage>552</fpage>-<lpage>564</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1287/orsc.1080.0388" xlink:type="simple">doi: 10.1287/orsc.1080.0388</ext-link></mixed-citation>
+            </ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nonaka</surname><given-names>I</given-names></name></person-group> (<year>1994</year>)<article-title> A dynamic theory of organizational knowledge creation.</article-title> <source>Organization Science </source> <volume>5</volume> (<issue>1</issue>): <fpage>14</fpage>-<lpage>37</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1287/orsc.5.1.14" xlink:type="simple">doi: 10.1287/orsc.5.1.14</ext-link></mixed-citation>
+            </ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nonaka</surname><given-names>I</given-names></name><name name-style="western"><surname>Takeushi</surname><given-names>H</given-names></name></person-group> (<year>1995</year>)<source> The knowledge-creating company. Oxford University Press, New York.
+</source></mixed-citation>
+            </ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nonaka</surname><given-names>I</given-names></name></person-group> (<year>1997</year>)<source> Organizational knowledge creation. Presentation at the Knowledge Advantage Conference held November 11–12. <ext-link ext-link-type="uri" xlink:href="http://www.knowledge-nurture.com/downloads/NONAKA.pdf">http://www.knowledge-nurture.com/downloads/NONAKA.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nonaka</surname><given-names>I</given-names></name><name name-style="western"><surname>Toyama</surname><given-names>R</given-names></name><name name-style="western"><surname>Konno</surname><given-names>N</given-names></name></person-group> (<year>2000</year>)<article-title> SECI, Ba and Leadership. A unified model of dynamic knowledge creation.</article-title> <source>Long Range Planning </source> <volume>33</volume> (<issue>1</issue>): <fpage>5</fpage>-<lpage>34</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0024–6301(99)00115–6" xlink:type="simple">doi: 10.1016/S0024–6301(99)00115–6</ext-link></mixed-citation>
+            </ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Samarah</surname><given-names>I</given-names></name><name name-style="western"><surname>Paul</surname><given-names>S</given-names></name><name name-style="western"><surname>Tadisina</surname><given-names>S</given-names></name></person-group> (<year>2008</year>)<source> Knowledge conversion in GSS-aided virtual teams. An empirical study. In: Proceedings of the 41st Hawaii International Conference on System Sciences (HICSS 2008): 344.
+</source></mixed-citation>
+            </ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Scratchpads</surname></name></person-group><source> - <ext-link ext-link-type="uri" xlink:href="http://scratchpads.eu/">http://scratchpads.eu/</ext-link></source></mixed-citation>
+            </ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>VS</given-names></name><name name-style="western"><surname>Duin</surname><given-names>D</given-names></name><name name-style="western"><surname>Self</surname><given-names>D</given-names></name><name name-style="western"><surname>Brake</surname><given-names>I</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name></person-group> (<year>2010</year>)<source>. Motivating online publication of scholarly research through social networking tools. Conference Proceedings paper delivered at COOP2010, the 9th International Conference on the Design of Cooperative Systems on 18 May, 2010 as part of a workshop titled Incentives and Motivation for Web-Based Collaboration: 329–340. <ext-link ext-link-type="uri" xlink:href="http://vsmith.info/files/Webincentives8.pdf">http://vsmith.info/files/Webincentives8.pdf</ext-link>
+</source></mixed-citation>
+            </ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>VS</given-names></name><name name-style="western"><surname>Rycroft</surname><given-names>SD</given-names></name><name name-style="western"><surname>Harman</surname><given-names>KT</given-names></name><name name-style="western"><surname>Scott</surname><given-names>B</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name></person-group> (<year>2009</year>)<source> Scratchpads: a data-publishing framework to build, share and manage information on the diversity of life. BMC Bioinformatics 10 (Suppl 14): S6. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471–2105–10-S14-S6" xlink:type="simple">doi: 10.1186/1471–2105–10-S14-S6</ext-link></mixed-citation>
+            </ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sveiby</surname><given-names>KE</given-names></name></person-group> (<year>2001</year>)<article-title> A knowledge-based theory of the firm to guide strategy formulation.</article-title> <source>journal of intellectual capital </source> <volume>2</volume> (<issue>4</issue>): <fpage>344</fpage>-<lpage>358</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1108/14691930110409651" xlink:type="simple">doi: 10.1108/14691930110409651</ext-link></mixed-citation>
+            </ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thelwall</surname><given-names>M</given-names></name><name name-style="western"><surname>Klitkou</surname><given-names>A</given-names></name><name name-style="western"><surname>Verbeek</surname><given-names>A</given-names></name><name name-style="western"><surname>Stuart</surname><given-names>D</given-names></name><name name-style="western"><surname>Vincent</surname><given-names>C</given-names></name></person-group> (<year>2010</year>)<article-title> Policy-relevant webometrics for individual scientific fields.</article-title> <source>Journal of the American Society for Information Science and Technology </source> <volume>61</volume> (<issue>7</issue>): <fpage>1464</fpage>-<lpage>1475</lpage> <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/asi.21345" xlink:type="simple">doi: 10.1002/asi.21345</ext-link></mixed-citation>
+            </ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ViBRANT</surname></name></person-group><source> - Virtual Biodiversity Research and Access Network for Taxonomy. <ext-link ext-link-type="uri" xlink:href="http://vbrant.eu/">http://vbrant.eu/</ext-link></source></mixed-citation>
+            </ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wasserman</surname><given-names>S</given-names></name><name name-style="western"><surname>Faust,</surname><given-names>K</given-names></name></person-group> (<year>1994</year>)<source> Social network analysis. Cambridge University Press, Cambridge.
+</source></mixed-citation>
+            </ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wenger</surname><given-names>E</given-names></name></person-group> (<year>1998</year>)<source> Communities of practice. Learning meaning, identity. Cambridge University Press, New York.
+</source></mixed-citation>
+            </ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Woo</surname><given-names>J-H</given-names></name><name name-style="western"><surname>Clayton</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>RE</given-names></name><name name-style="western"><surname>Flores</surname><given-names>BE</given-names></name><name name-style="western"><surname>Ellis</surname><given-names>C</given-names></name></person-group> (<year>2003</year>)<source> Dynamic knowledge map. Reusing experts’ tacit knowledge in the AEC industry. Automation in Construction 13: 203- 207. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.autcon.2003.09.003" xlink:type="simple">doi: 10.1016/j.autcon.2003.09.003</ext-link></mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

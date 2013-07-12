@@ -1,0 +1,490 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.307.5334</article-id>
+            <title-group>
+                <article-title>The remarkable scorpion diversity in the Ecuadorian Andes and description of a new species of
+                    <italic>Tityus</italic> C. L. Koch, 1836 (Scorpiones, Buthidae)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lourenço</surname>
+                        <given-names>Wilson R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:58448BD6-79D7-46CE-AFDD-91EFF2B7D4EF</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Ythier</surname>
+                        <given-names>Eric</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:06FD0852-A88E-49E5-B8E6-E1494B86C4E1</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Muséum national d’Histoire naturelle, Département Systématique et Evolution, UMR7205, CP 053, 57 rue Cuvier, 75005 Paris, France
+            </aff>
+            <aff id="A2">
+                <label>2</label>SynTech Research, 613 route du Bois de Loyse, 71570 La Chapelle de Guinchay, France
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Wilson R. Lourenço (<email xlink:type="simple">arachne@mnhn.fr</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Lyubomir Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>5</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>307</issue>
+            <fpage>1</fpage>
+            <lpage>13</lpage>
+            <history>
+                <date date-type="received">
+                    <day>16</day>
+                    <month>4</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>16</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Wilson R. Lourenço, Eric Ythier</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:9FDEEA6E-DB6F-4170-B102-E8622ADBB429</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new species of <italic><tp:taxon-name>Tityus</tp:taxon-name></italic>, subgenus <italic><tp:taxon-name>Atreus</tp:taxon-name></italic> (<tp:taxon-name>Scorpiones</tp:taxon-name>: <tp:taxon-name>Buthidae</tp:taxon-name>) is described from the Province of Pichincha in the Ecuadorian Andes. Ecuadorian scorpion fauna remains one of the less well studied among those of South America. Nevertheless, some comments are addressed about its remarkable diversity and high level of endemic elements.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Scorpiones</kwd>
+                <kwd>Buthidae</kwd>
+                <kwd><italic>Tityus</italic></kwd>
+                <kwd>Ecuador</kwd>
+                <kwd>New Species</kwd>
+                <kwd>diversity</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The scorpion fauna inhabiting the regions between Southern Colombia and the Ecuadorian Andes has attracted the attention of experts since the middle of the 19<sup>th</sup> century (e.g. <xref ref-type="bibr" rid="B7">Gervais 1844</xref>; <xref ref-type="bibr" rid="B28">Thorell 1876</xref>; <xref ref-type="bibr" rid="B25">Pocock 1893</xref>, <xref ref-type="bibr" rid="B26">1898</xref>; <xref ref-type="bibr" rid="B1">Borelli 1899</xref>; <xref ref-type="bibr" rid="B9">Kraepelin 1912a</xref>, <xref ref-type="bibr" rid="B10">b</xref>; <xref ref-type="bibr" rid="B24">Mello-Leitão 1945</xref>). Only since the 1980s has this fauna been more frequently <!--PageBreak-->studied and several new species have been described (<xref ref-type="bibr" rid="B11">Lourenço 1984</xref>, <xref ref-type="bibr" rid="B12">1988</xref>, <xref ref-type="bibr" rid="B13">1991</xref>, <xref ref-type="bibr" rid="B4">1992</xref>, <xref ref-type="bibr" rid="B15">1994a</xref>, <xref ref-type="bibr" rid="B17">1995</xref>, <xref ref-type="bibr" rid="B18">1997</xref>, <xref ref-type="bibr" rid="B19">1999</xref>, <xref ref-type="bibr" rid="B20">2000</xref>; <xref ref-type="bibr" rid="B2">Botero-Trujillo 2008</xref>, <xref ref-type="bibr" rid="B3">2009</xref>; <xref ref-type="bibr" rid="B4">Botero-Trujillo and Francke 2009</xref>).</p>
+            <p>Although studies by <xref ref-type="bibr" rid="B12">Lourenço (1988</xref>, <xref ref-type="bibr" rid="B17">1995</xref>) represented the first attempt to produce a synthesis of the Ecuadorian scorpion fauna, these contributions probably only represented a small part of the fauna actually present in Ecuador. This conjecture is supported by the descriptions of new species from different regions of the country (e. g. <xref ref-type="bibr" rid="B21">Lourenço 2005</xref>, <xref ref-type="bibr" rid="B22">2007</xref>). In the winter (southern hemisphere) of 2012, scorpions were collected from mountains within the Ecuadorian Andes. Two specimens (1 male, 1 female) were discovered to be a new species belonging to the genus <italic><tp:taxon-name>Tityus</tp:taxon-name></italic>. Herein, we describe this new species and comment on the scorpion fauna found within the Ecuadorian region, and suggest several hypotheses regarding mechanisms that generated this remarkable diversity.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>Illustrations and measurements were made with the aid of a Wild M5 stereo-microscope with a drawing tube (camera lucida) and an ocular micrometer. Measurements follow <xref ref-type="bibr" rid="B27">Stahnke (1970)</xref> and are given in mm. Trichobothrial notations follow <xref ref-type="bibr" rid="B30">Vachon (1974)</xref> while morphological terminology mostly follows <xref ref-type="bibr" rid="B8">Hjelle (1990)</xref>.</p>
+        </sec>
+        <sec sec-type="Taxonomic treatment">
+            <title>Taxonomic treatment</title>
+            <sec sec-type="Family Buthidae C. L. Koch, 1837">
+                <title>Family <tp:taxon-name>Buthidae</tp:taxon-name> C. L. Koch, 1837
+                Genus <italic><tp:taxon-name>Tityus</tp:taxon-name></italic> C. L. Koch, 1836
+                Subgenus <italic><tp:taxon-name>Atreus</tp:taxon-name></italic> Gervais, 1843</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Tityus</tp:taxon-name-part>
+                            (<tp:taxon-name-part taxon-name-part-type="subgenus">Atreus</tp:taxon-name-part>)
+                            <tp:taxon-name-part taxon-name-part-type="species">crassicauda</tp:taxon-name-part>
+                            <object-id xlink:type="simple">http://species-id.net/wiki/Tityus_crassicauda</object-id>
+                            <object-id xlink:type="simple">urn:lsid:zoobank.org:act:2F53526B-67DB-419D-8F64-650AF221B19E</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F1">Figs 1</xref>
+                        <xref ref-type="fig" rid="F7">–18</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Material examined">
+                        <title>Material examined.</title>
+                        <p>Ecuador, Pichincha Province, Tandayapa, 2200 m, VIII/2012 (G. Onore &amp; I. Tapia leg.). Inside of <tp:taxon-name>Lauraceae</tp:taxon-name> rotten logs.</p>
+                        <p>Male holotype and female paratype. Deposited in the Muséum national d’Histoire naturelle, Paris.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology">
+                        <title>Etymology.</title>
+                        <p>Specific name refers to the strongly enlarged posterior metasomal segments.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p>Scorpions of medium size in relation to other species within the genus. Total length in male and female, 51.9 and 50.5 mm, respectively. General coloration reddish-brown with darker blackish zones; carapace and tergites with three longitudi<!--PageBreak-->nal brownish stripes, separated by yellow zones. Metasomal segments flattened, comparatively to other species of the group; segments IV and V very strongly enlarged, especially in the male holotype. Dorsal carinae of metasomal II to IV terminating distally with two very strong spinoid granules, more distinct on the female paratype. Pectines small with 15–15 teeth on male and 15–14 on female; basal piece of the middle lamella strongly dilated on female, and oval in shape. Cutting edges of fixed and movable fingers of pedipalp chela with 12–13 and 12–14 rows of granules on the male and female, respectively.</p>
+                        <p>Relationships. The new species is clearly allied to <!--PageBreak--><italic><tp:taxon-name>Tityus forcipula</tp:taxon-name></italic> (Gervais, 1843) and other associated species such as <italic><tp:taxon-name>Tityus spinatus</tp:taxon-name></italic> Pocock, 1898 and <italic><tp:taxon-name>Tityus cuellari</tp:taxon-name></italic> Lourenço, 1994, species also known from the Colombian and Ecuadorian Andes and, previously defined as part of the <italic><tp:taxon-name>Tityus forcipula</tp:taxon-name></italic> complex (see <xref ref-type="bibr" rid="B11">Lourenço 1984</xref> for details). It can, however, be distinguished from all these species and in particular from <italic><tp:taxon-name>Tityus forcipula</tp:taxon-name></italic> by a number of features: (i) a distinct pattern of coloration and pigmentation, with brownish longitudinal stripes on the carapace and tergites, which are absent from the other species, (ii) sternites III to VII with a very strongly marked granulation but a moderately marked setation; granulations are less marked on the other species, <!--PageBreak-->(iii) metasomal segments strongly flattened and very strongly enlarged, especially in the male holotype; less enlarged in the other species, (iv) tergites with only moderately marked granulation, (v) pedipalp segments and chela are smooth to lustrous; somewhat granular in the other species.</p>
+                        <p>Description based on male holotype and female paratype (measurements in <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                        <p>Coloration. Reddish-brown with darker, blackish areas. Prosoma: carapace reddish-brown, with yellowish zones between posterior median carinae. Mesosoma: reddish-brown with three brown to blackish longitudinal stripes extending from the posterior zone of the carapace and over tergites I to VII. Metasomal segments I to III reddish-brown, with dark to blackish carinae; IV and V reddish-brown dorsally, blackish laterally and ventrally. Vesicle: brownish-black; aculeus yellowish. Venter is reddish-brown, with some yellowish zones. Chelicerae yellowish-brown, with a very dark thread of variegated spots; fingers dark; teeth reddish. Pedipalps: reddish; fingers blackish, with extremities yellowish. Legs reddish-yellow to reddish-brown, with some diffuse and discrete fuscous spots; tarsi yellowish.</p>
+                        <table-wrap id="T1" position="float" orientation="portrait">
+                            <label>Table 1.</label>
+                            <caption><p>Measurements (in mm) of male holotype and female paratype of <italic><tp:taxon-name>Tityus crassicauda</tp:taxon-name></italic> sp. n., and of male and female of <italic><tp:taxon-name>Tityus forcipula</tp:taxon-name></italic> from Pichincha. &lt;br/&gt;</p></caption>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="2"><bold><italic><tp:taxon-name>Tityus crassicauda</tp:taxon-name></italic> sp. n.</bold></td>
+                                        <td rowspan="1" colspan="2"><bold><italic><tp:taxon-name>Tityus forcipula</tp:taxon-name></italic></bold></td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1">♂</td>
+                                        <td rowspan="1" colspan="1">♀</td>
+                                        <td rowspan="1" colspan="1">♂</td>
+                                        <td rowspan="1" colspan="1">♀</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Total length (including telson)</td>
+                                        <td rowspan="1" colspan="1">51.9</td>
+                                        <td rowspan="1" colspan="1">50.5</td>
+                                        <td rowspan="1" colspan="1">58.4</td>
+                                        <td rowspan="1" colspan="1">57.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Carapace</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">5.7</td>
+                                        <td rowspan="1" colspan="1">5.7</td>
+                                        <td rowspan="1" colspan="1">6.4</td>
+                                        <td rowspan="1" colspan="1">6.3</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">anterior width</td>
+                                        <td rowspan="1" colspan="1">3.9</td>
+                                        <td rowspan="1" colspan="1">3.9</td>
+                                        <td rowspan="1" colspan="1">4.5</td>
+                                        <td rowspan="1" colspan="1">4.4</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">posterior width</td>
+                                        <td rowspan="1" colspan="1">6.5</td>
+                                        <td rowspan="1" colspan="1">6.9</td>
+                                        <td rowspan="1" colspan="1">7.4</td>
+                                        <td rowspan="1" colspan="1">7.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Mesosoma length:</td>
+                                        <td rowspan="1" colspan="1">13.3</td>
+                                        <td rowspan="1" colspan="1">14.9</td>
+                                        <td rowspan="1" colspan="1">13.6</td>
+                                        <td rowspan="1" colspan="1">17.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Metasomal segment I:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">4.1</td>
+                                        <td rowspan="1" colspan="1">3.7</td>
+                                        <td rowspan="1" colspan="1">4.3</td>
+                                        <td rowspan="1" colspan="1">4.4</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">3.7</td>
+                                        <td rowspan="1" colspan="1">3.5</td>
+                                        <td rowspan="1" colspan="1">4.2</td>
+                                        <td rowspan="1" colspan="1">3.7</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Metasomal segment II:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">4.9</td>
+                                        <td rowspan="1" colspan="1">4.2</td>
+                                        <td rowspan="1" colspan="1">5.5</td>
+                                        <td rowspan="1" colspan="1">4.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">4.0</td>
+                                        <td rowspan="1" colspan="1">3.3</td>
+                                        <td rowspan="1" colspan="1">4.3</td>
+                                        <td rowspan="1" colspan="1">3.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Metasomal segment III:</td>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1"></td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">5.3</td>
+                                        <td rowspan="1" colspan="1">4.6</td>
+                                        <td rowspan="1" colspan="1">6.2</td>
+                                        <td rowspan="1" colspan="1">5.4</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">4.3</td>
+                                        <td rowspan="1" colspan="1">3.5</td>
+                                        <td rowspan="1" colspan="1">4.8</td>
+                                        <td rowspan="1" colspan="1">3.9</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Metasomal segment IV:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">5.9</td>
+                                        <td rowspan="1" colspan="1">5.2</td>
+                                        <td rowspan="1" colspan="1">7.2</td>
+                                        <td rowspan="1" colspan="1">5.9</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">5.4</td>
+                                        <td rowspan="1" colspan="1">4.0</td>
+                                        <td rowspan="1" colspan="1">5.3</td>
+                                        <td rowspan="1" colspan="1">4.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Metasomal segment V:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">6.5</td>
+                                        <td rowspan="1" colspan="1">6.1</td>
+                                        <td rowspan="1" colspan="1">8.3</td>
+                                        <td rowspan="1" colspan="1">6.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">5.8</td>
+                                        <td rowspan="1" colspan="1">4.3</td>
+                                        <td rowspan="1" colspan="1">5.3</td>
+                                        <td rowspan="1" colspan="1">4.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">depth</td>
+                                        <td rowspan="1" colspan="1">3.2</td>
+                                        <td rowspan="1" colspan="1">2.6</td>
+                                        <td rowspan="1" colspan="1">4.3</td>
+                                        <td rowspan="1" colspan="1">3.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Telson length:</td>
+                                        <td rowspan="1" colspan="1">6.2</td>
+                                        <td rowspan="1" colspan="1">6.1</td>
+                                        <td rowspan="1" colspan="1">6.9</td>
+                                        <td rowspan="1" colspan="1">6.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Vesicle:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">3.0</td>
+                                        <td rowspan="1" colspan="1">2.6</td>
+                                        <td rowspan="1" colspan="1">3.3</td>
+                                        <td rowspan="1" colspan="1">3.2</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">depth</td>
+                                        <td rowspan="1" colspan="1">2.5</td>
+                                        <td rowspan="1" colspan="1">2.3</td>
+                                        <td rowspan="1" colspan="1">2.7</td>
+                                        <td rowspan="1" colspan="1">2.4</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Pedipalp Femur:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">6.0</td>
+                                        <td rowspan="1" colspan="1">5.5</td>
+                                        <td rowspan="1" colspan="1">6.8</td>
+                                        <td rowspan="1" colspan="1">6.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">1.7</td>
+                                        <td rowspan="1" colspan="1">1.8</td>
+                                        <td rowspan="1" colspan="1">2.0</td>
+                                        <td rowspan="1" colspan="1">2.0</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Pedipalp Patella:</td>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1"></td>
+                                        <td rowspan="1" colspan="1"></td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">6.8</td>
+                                        <td rowspan="1" colspan="1">6.1</td>
+                                        <td rowspan="1" colspan="1">7.7</td>
+                                        <td rowspan="1" colspan="1">7.1</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">2.5</td>
+                                        <td rowspan="1" colspan="1">2.2</td>
+                                        <td rowspan="1" colspan="1">2.8</td>
+                                        <td rowspan="1" colspan="1">2.4</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Pedipalp Chela:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">11.6</td>
+                                        <td rowspan="1" colspan="1">10.2</td>
+                                        <td rowspan="1" colspan="1">13.2</td>
+                                        <td rowspan="1" colspan="1">12.1</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">width</td>
+                                        <td rowspan="1" colspan="1">3.4</td>
+                                        <td rowspan="1" colspan="1">2.2</td>
+                                        <td rowspan="1" colspan="1">4.1</td>
+                                        <td rowspan="1" colspan="1">2.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">depth</td>
+                                        <td rowspan="1" colspan="1">3.5</td>
+                                        <td rowspan="1" colspan="1">2.0</td>
+                                        <td rowspan="1" colspan="1">3.9</td>
+                                        <td rowspan="1" colspan="1">2.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="5">Movable finger:</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">length</td>
+                                        <td rowspan="1" colspan="1">7.6</td>
+                                        <td rowspan="1" colspan="1">7.1</td>
+                                        <td rowspan="1" colspan="1">8.2</td>
+                                        <td rowspan="1" colspan="1">8.2</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                        <p>Morphology. Carapace moderately to strongly granular; anterior margin with a moderately marked concavity. Anterior median superciliary and posterior median carinae moderate to strong. Furrows moderately to strongly deep. Median ocular tubercle distinctly anterior to the centre of carapace. Eyes separated by a little more than one ocular diameter. Three pairs of lateral eyes. Sternum triangular. Mesosomal <!--PageBreak--><!--PageBreak-->tergites moderately granular. Median carina strong on all tergites. Tergite VII pentacarinate. Venter: genital operculum divided longitudinally, forming two semi-oval plates. Pectines small; pectinal tooth count 15–15 in male holotype and 15–14 in female paratype; basal piece of the middle lamellae of the female pectines oval shaped and strongly dilated. Sternites very strongly granular, in particular on male holotype; spiracles moderately elongated; VII with four moderately to strongly marked carinae. Metasomal segments strongly flattened dorsally; IV and V very strongly enlarged, especially in the male holotype; segments I and II with ten carinae; III and IV with eight carinae, crenulate; V with five carinae. Dorsal carinae on segments II to IV with two very strong spinoid granules, distally. Lateral inframedian carinae on segment I complete, crenulate; on II almost complete; absent from III and IV. Ventrolateral carinae strong, crenulated; ventral submedian carinae strongly crenulate. Intercarinal spaces moderately granular. Segment V with weak dorsolateral carinae; ventrolateral and ventromedian carinae strong, crenulate. Lateral intercarinal spaces moderately to strongly granular. Telson moderately granular, with a long, strongly curved aculeus. Dorsal surface smooth; ventral surface weakly granular; subaculear tooth strong and spino-rhomboidal in shape. Cheliceral dentition characteristic of the family <tp:taxon-name>Buthidae</tp:taxon-name> (Vachon, 1963); movable finger with two basal teeth well distinct; ventral aspect of <!--PageBreak--><!--PageBreak-->both fingers and manus with long, dense setae. Pedipalps: femur pentacarinate; patella with seven carinae; chela with nine carinae, more distinct on female paratype; all faces with only a few granules; smooth. Fixed and movable fingers of chela with respectively 12 and13 oblique rows of granules on the male holotype and 12–14 on the female paratype. Trichobothriotaxy; orthobothriotaxy A-α (alpha) (<xref ref-type="bibr" rid="B30">Vachon 1974</xref>, <xref ref-type="bibr" rid="B31">1975</xref>). Legs: tarsus with two series of 6–7 setae on ventral surface.</p>
+                        <fig id="F1" position="float" orientation="portrait">
+                            <label>Figures 1–2.</label>
+                            <caption><p><italic><tp:taxon-name>Tityus (Atreus) crassicauda</tp:taxon-name></italic> sp. n., male holotype, dorsal and ventral aspects.</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figures 3–4.</label>
+                            <caption><p><italic><tp:taxon-name>Tityus (Atreus) crassicauda</tp:taxon-name></italic> sp. n., female paratype, dorsal and ventral aspects.</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figures 5–9.</label>
+                            <caption><p><italic><tp:taxon-name>Tityus (Atreus) crassicauda</tp:taxon-name></italic> sp. n. Trichobothrial pattern of male holotype <bold>5–6</bold> Chela dorso-external and ventral aspects <bold>7–8</bold> Patella, dorsal and external aspects <bold>9</bold> Femur, dorsal aspect (scale bar = 3 mm).</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Figures 10–12.</label>
+                            <caption><p><italic><tp:taxon-name>Tityus (Atreus) crassicauda</tp:taxon-name></italic> sp. n. <bold>10</bold> Right chelicera, dorsal aspect (male holotype) <bold>11–12</bold> Metasomal segments III-V and telson, lateral aspect (male holotype and female paratype) <bold>13</bold> Segments IV, V and telson for <italic><tp:taxon-name>Tityus (Atreus) forcipula</tp:taxon-name></italic>, male holotype <bold>14</bold> Segments II to V and telson for <italic><tp:taxon-name>Tityus (Atreus) spinatus</tp:taxon-name></italic>, female holotype (scale bars = 3 mm).</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F5" position="float" orientation="portrait">
+                            <label>Figure 15.</label>
+                            <caption><p><italic><tp:taxon-name>Tityus (Atreus) crassicauda</tp:taxon-name></italic> sp. n. Male holotype alive in the field.</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F6" position="float" orientation="portrait">
+                            <label>Figures 16–17.</label>
+                            <caption><p>The natural habitat of <italic><tp:taxon-name>Tityus (Atreus) crassicauda</tp:taxon-name></italic> sp. n. <bold>16</bold> General view of the Andean Mountains <bold>17</bold> Detail of the vegetation cover.</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Habitat">
+                        <title>Habitat.</title>
+                        <p>The new species inhabits the tropical forests of the Ecuadorian Andean Mountains, in the Pichincha Province. The specimens were collected at an altitude of 2200 m, inside of rotten <tp:taxon-name>Lauraceae</tp:taxon-name> logs.</p>
+                        <fig id="F7" position="float" orientation="portrait">
+                            <label>Figure 18.</label>
+                            <caption><p>Map of Ecuador showing the distribution of the known species of <italic><tp:taxon-name>Tityus</tp:taxon-name></italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-307-001-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <!--PageBreak-->
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+        <sec sec-type="The remarkable diversity of the Ecuadorian scorpion fauna">
+            <title>The remarkable diversity of the Ecuadorian scorpion fauna</title>
+            <p>As already outlined by <xref ref-type="bibr" rid="B16">Lourenço (1994b)</xref>, many if not most authors working on the floras and faunas of the Neotropical region seem to agree that the possible ‘epicentre’ of global diversity occurs in the tropical and subtropical Andean region (the upper Amazon, North of Peru, and most of Ecuador and Southern Colombia). This hypothesis is supported by studies conducted on various taxa (plants, vertebrates and butterflies (<xref ref-type="bibr" rid="B5">Gentry 1988</xref>, <xref ref-type="bibr" rid="B6">1992</xref>)). In the same line of thinking, <xref ref-type="bibr" rid="B16">Lourenço (1994b)</xref> suggested that one of the areas exhibiting the highest alpha-diversity for scorpions in the world ranged from Southern Colombia, Ecuador, the Northeast region of Peru, and the Upper Amazon region of Brazil. This region has been already the subject of other previous research programs, namely the ‘Transecto Ecuadorial Pacifico Amazonico’, as defined by <xref ref-type="bibr" rid="B32">Van Velzen (1992)</xref>. Despite studies such as these, there still remain important gaps in the knowledge of scorpion communities within the Andean region. By expanding the area studied eastward, it would allow for a more accurate survey of Colombia, Peru and Brazil.</p>
+            <p>The number of endemic taxa in this region is very high - more than 80% - and is comparable to the number of endemic taxa found in other previously studied regions such as Baja California (about 75%) (<xref ref-type="bibr" rid="B33">Williams 1980</xref>; <xref ref-type="bibr" rid="B16">Lourenço 1994b</xref>). However, desert areas such as Baja California are much better studied than tropical areas. Consequently, a substantial increase in the total number of species in North American deserts is unlikely. The use of ultra-violet light in the detection of scorpions in open areas such as deserts has been intense for many decades. On the other hand, inventory work in tropical forests is still fairly new and UV light is not as efficient in this type of habitat, mainly because of the landscape vegetation. Moreover, for several sections of the tropical forests such as the canopy, knowledge of the scorpion fauna is virtually non-existent (<xref ref-type="bibr" rid="B23">Lourenço and Pézier 2002</xref>). Consequently, the effective number of species in rainforests may be much greater than what is presently estimated; see <xref ref-type="bibr" rid="B16">Lourenço (1994b)</xref> for comparative numbers.</p>
+            <p>The scorpion fauna of the Ecuadorian Andes is characterized by an outstanding concentration of species belonging to genera such as <italic><tp:taxon-name>Tityus</tp:taxon-name></italic> and <italic><tp:taxon-name>Teuthraustes</tp:taxon-name></italic> Simon, 1878 (<tp:taxon-name>Chactidae</tp:taxon-name>). Within each genus, the species show to be closely related. The speciation pattern of the scorpions corresponds to the explosive model proposed by <xref ref-type="bibr" rid="B6">Gentry (1992)</xref> for plants of the genus <italic><tp:taxon-name>Gasteranthus</tp:taxon-name></italic> which have a similar range of distribution in this same area. The proposed mechanism operating process is associated with some type of genetic transilience associated with genetic drift in small founder populations, a process also postulated for Hawaiian <italic><tp:taxon-name>Drosophila</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B6">Gentry 1992</xref>).</p>
+        </sec>
+        <sec sec-type="Acknowledgements">
+            <title>Acknowledgements</title>
+            <p>We are most grateful to Michael M. Webber, University of Nevada, Las Vegas for her comments and review of the manuscript and to two anonymous referees for useful <!--PageBreak-->comments and suggestions; to Elise-Anne Leguin, MNHN, Paris for the preparation of some photos and to Peter Schwendinger of the Geneva Museum for the loan of specimens of <italic><tp:taxon-name>Tityus forcipula</tp:taxon-name></italic>. We also want to express our sincere gratitude to Prof. G. Onore for providing the collected specimens.</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Borelli</surname> <given-names>A</given-names></name></person-group> (<year>1899</year>) <article-title>Viaggio del Dr. Enrico Festa nell’Ecuador e regioni vicine. XVIII: Scorpioni.</article-title> <source>Bollettino dei Musei di zoologia ed anatomia comparata della Real Università di Torino</source> <volume>14</volume> (<issue>345</issue>): <fpage>1</fpage>-<lpage>18</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Botero-Trujillo</surname> <given-names>R</given-names></name></person-group> (<year>2008</year>) <article-title>The scorpion genus <italic>Ananteris</italic> in Colombia: comments and description of two new species (Scorpiones, Buthidae).</article-title> <source>The Journal of Arachnology</source> <volume>36</volume>: <fpage>287</fpage>-<lpage>299</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1636/CH07-98.1" xlink:type="simple">10.1636/CH07-98.1</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Botero-Trujillo</surname> <given-names>R</given-names></name></person-group> (<year>2009</year>) <article-title>Two new species of <italic>Ananteris</italic> (Scorpiones, Buthidae) from El Tuparro Natural National Park, eastern Colombia.</article-title> <source>Comptes Rendus Biologies</source> <volume>332</volume>: <fpage>83</fpage>-<lpage>94</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.crvi.2008.08.012" xlink:type="simple">10.1016/j.crvi.2008.08.012</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Botero-Trujillo</surname> <given-names>R</given-names></name><name name-style="western"><surname>Francke</surname> <given-names>OF</given-names></name></person-group> (<year>2009</year>) <article-title>A new species of troglomorphic leaf litter scorpion from Colombia belonging to the genus <italic>Troglotayosicus</italic> (Scorpiones: Troglotayosicidae).</article-title> <source>Texas Memorial Museum Speleological Monograph</source> <volume>7</volume>: <fpage>1</fpage>-<lpage>10</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gentry</surname> <given-names>AH</given-names></name></person-group> (<year>1988</year>) <article-title>Tree species richness of upper Amazonian forests.</article-title> <source>Proceedings of the national Academy of Sciences USA</source> <volume>85</volume>: <fpage>156</fpage>-<lpage>159</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.85.1.156" xlink:type="simple">10.1073/pnas.85.1.156</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gentry</surname> <given-names>AH</given-names></name></person-group> (<year>1992</year>) <article-title>Tropical forest biodiversity: distributional patterns and their conservation significance.</article-title> <source>Oikos</source> <volume>63</volume> (<issue>1</issue>): <fpage>19</fpage>-<lpage>28</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3545512" xlink:type="simple">10.2307/3545512</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gervais</surname> <given-names>P</given-names></name></person-group> (<year>1844</year>) <article-title>Remarques sur la famille des Scorpions et description de plusieurs espèces nouvelles de la collection du Muséum.</article-title> <source>Archives du Muséum national d’Histoire naturelle</source> <volume>4</volume>: <fpage>203</fpage>-<lpage>240</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hjelle</surname> <given-names>JT</given-names></name></person-group> (<year>1990</year>) <article-title>Anatomy and morphology.</article-title> In: <person-group><name name-style="western"><surname>Polis</surname> <given-names>GA</given-names></name></person-group> (<role>Ed</role>). <issue-title> The Biology of Scorpions.</issue-title> <source>Stanford University Press, Stanford</source>: <fpage>9</fpage>-<lpage>63</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kraepelin</surname> <given-names>K</given-names></name></person-group> (<year>1912a</year>) <article-title>Neue Beiträge zur Systematik der Gliederspinnen.</article-title> <source>Mitteilungen aus dem Naturhistorischen Museum</source> <volume>29</volume>: <fpage>45</fpage>-<lpage>88</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kraepelin</surname> <given-names>K</given-names></name></person-group> (<year>1912b</year>) <article-title>Beitrag zur Kenntnis der Skorpione und Pedipalpen Columbiens.</article-title> <source>Mémoires de la Société des Sciences naturelles, Neuchâtel</source> <volume>5</volume>: <fpage>15</fpage>-<lpage>28</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1984</year>) <source>Etude systématique de quelques espèces appartenant au complexe <italic>Tityus forcipula</italic> (Gervais, 1844) (Scorpiones, Buthidae). Bulletin du Muséum national d’Histoire naturelle, Paris 4e sér., 6(A3): 729–739.</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1988</year>) <article-title>La faune des scorpions de l’Equateur. I. Les Buthidae. Systématique et biogéographie.</article-title> <source>Revue suisse de Zoologie</source> <volume>95</volume> (<issue>3</issue>): <fpage>681</fpage>-<lpage>687</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1991</year>) <article-title>Les scorpions (Chelicerata) de Colombie. II. Les faunes des régions de Santa Marta et de la Cordillère Orientale. Approche biogéographique.</article-title> <source>Senckenbergiana Biologica</source> <volume>7</volume>(<issue>4–6</issue>)): <fpage>275</fpage>-<lpage>288</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1992</year>) <source>Biogéographie des espèces du groupe naturel ‘ <italic>Tityus clathratus</italic>’ (Chelicerata, Scorpiones, Buthidae). Bulletin du Muséum national d’Histoire naturelle, Paris, 4e sér., 14(A2): 473–481.</source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1994a</year>) <article-title>Scorpions (Chelicerata) de Colombie. VI. Quatre nouvelles espèces de Buthidae des régions Amazonienne, Sud-Pacifique et de la Cordillère Orientale.</article-title> <source>Revista de la Academia Colombiana de Ciencias Exactas, Fisicas y Naturales</source> <volume>19</volume> (<issue>73</issue>): <fpage>387</fpage>-<lpage>392</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1994b</year>) <article-title>Diversity and endemism in tropical versus temperate scorpion communities.</article-title> <source>Biogeographica</source> <volume>70</volume> (<issue>3</issue>): <fpage>155</fpage>-<lpage>160</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1995</year>) <article-title>Les scorpions (Chelicerata, Scorpiones) de l’Equateur, avec quelques considérations sur la biogéographie et la diversité des espèces.</article-title> <source>Revue suisse de Zoologie</source> <volume>102</volume> (<issue>1</issue>): <fpage>61</fpage>-<lpage>88</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1997</year>) <article-title>Synopsis de la faune de scorpions de Colombia, avec des considérations sur la systématique et la biogéographie des espèces.</article-title> <source>Revue suisse de Zoologie</source> <volume>104</volume> (<issue>1</issue>): <fpage>61</fpage>-<lpage>94</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>1999</year>) <article-title>New species of <italic>Ananteris</italic> from the north of Chocó, Colombia (Scorpiones, Buthidae). Anales del Instituto de Biologia, UNAM, ser. Zool.</article-title>  <volume>70</volume> (<issue>2</issue>): <fpage>93</fpage>-<lpage>98</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>2000</year>) <article-title>Synopsis of the Colombian species of <italic>Tityus</italic> (Chelicerata, Scorpiones, Buthidae), with descriptions of three new species.</article-title> <source>Journal of Natural History</source> <volume>34</volume>: <fpage>449</fpage>-<lpage>461</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/002229300299561" xlink:type="simple">10.1080/002229300299561</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>2005</year>) <article-title>A new species of <italic>Tityus</italic> Koch, 1836 (Scorpiones, Buthidae) from Ecuador.</article-title> <source>Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg</source> <volume>14</volume> (<issue>171</issue>): <fpage>221</fpage>-<lpage>227</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name></person-group> (<year>2007</year>) <article-title>A new species of <italic>Tityus</italic> C. L. Koch, 1836 from Ecuador: the first element of the ‘ <italic>Tityus androcottoides</italic>’ subgroup for this country.</article-title> <source>Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg</source> <volume>14</volume> (<issue>176</issue>): <fpage>375</fpage>-<lpage>385</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lourenço</surname> <given-names>WR</given-names></name><name name-style="western"><surname>Pézier</surname> <given-names>A</given-names></name></person-group> (<year>2002</year>) <source>Addition to the scorpion fauna of the Manaus region (Brazil), with a description of two new species of <italic>Tityus</italic> from the canopy. Amazoniana 17(1/2): 177–186.</source></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mello-Leitão</surname> <given-names>C</given-names></name></person-group> (<year>1945</year>) <article-title>Escorpiões Sul Americanos.</article-title> <source>Arquivos do Museu Nacional, Rio de Janeiro</source> <volume>40</volume>: <fpage>1</fpage>-<lpage>468</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pocock</surname> <given-names>RI</given-names></name></person-group> (<year>1893</year>) <source>A contribution to the study of Neotropical Scorpions. Annals and Magazine of Natural History, ser. 6, 12: 77–103.</source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pocock</surname> <given-names>RI</given-names></name></person-group> (<year>1898</year>) <source>Description of some new scorpions from Ecuador. Annals and Magazine of Natural History, ser. 7, 1: 413–422.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/00222939808677995" xlink:type="simple">10.1080/00222939808677995</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stahnke</surname> <given-names>HL</given-names></name></person-group> (<year>1970</year>) <article-title>Scorpion nomenclature and mensuration.</article-title> <source>Entomological News</source> <volume>81</volume>: <fpage>297</fpage>-<lpage>316</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thorell</surname> <given-names>T</given-names></name></person-group> (<year>1876</year>) <source>On the classification of scorpions. Annals and Magazine of Natural History: 1–15.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/00222937608681889" xlink:type="simple">10.1080/00222937608681889</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vachon</surname> <given-names>M</given-names></name></person-group> (<year>1963</year>) <source>De l’utilité, en systématique, d’une nomenclature des dents des chélicères chez les Scorpions. Bulletin du Muséum national d’Histoire naturelle, Paris 2è sér. 35(2): 161–166.</source></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vachon</surname> <given-names>M</given-names></name></person-group> (<year>1974</year>) <article-title>Etude des caractères utilisés pour classer les familles et les genres de Scorpions (Arachnides). 1. La trichobothriotaxie en arachnologie. Sigles trichobothriaux et types de trichobothriotaxie chez les Scorpions. Bulletin du Muséum national d’Histoire naturelle, Paris, 3è sér. n° 140, Zool.</article-title>  <volume>104</volume>: <fpage>857</fpage>-<lpage>958</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vachon</surname> <given-names>M</given-names></name></person-group> (<year>1975</year>) <article-title>Sur l’utilisation de la trichobothriotaxie du bras des pédipalpes des Scorpions (Arachnides) dans le classement des genres de la famille des Buthidae Simon.</article-title> <source>Comptes Rendus de l’Académie des Sciences, Paris</source> <volume>281</volume>: <fpage>1597</fpage>-<lpage>1599</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Van Velzen</surname> <given-names>HP</given-names></name></person-group> (<year>1992</year>) <article-title>Priorities for conservation of the biodiversity in the Colombian Andes.</article-title> <source>Novedades Colombianas</source> <volume>4</volume>: <fpage>1</fpage>-<lpage>32</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Williams</surname> <given-names>SC</given-names></name></person-group> (<year>1980</year>) <article-title>Scorpions of Baja California, Mexico, and adjacent islands.</article-title> <source>Occasional Papers of the California Academy of Sciences</source> <volume>135</volume>: <fpage>1</fpage>-<lpage>127</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

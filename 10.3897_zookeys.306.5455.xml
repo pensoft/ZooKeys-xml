@@ -1,0 +1,1016 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.306.5455</article-id>
+            <title-group>
+                <article-title>Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Sartiami</surname>
+                        <given-names>Dewi</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Mound</surname>
+                        <given-names>Laurence A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Plant Protection, Bogor Agicultural University, Bogor, Indonesia
+            </aff>
+            <aff id="A2">
+                <label>2</label>CSIRO Ecosystem Sciences, PO Box 1700, ACT 2601, Australia
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Laurence A. Mound (<email xlink:type="simple">laurence.mound@csiro.au</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Lyubomir Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>306</issue>
+            <fpage>1</fpage>
+            <lpage>21</lpage>
+            <history>
+                <date date-type="received">
+                    <day>3</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Dewi Sartiami, Laurence A. Mound</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>An illustrated identification key is provided to 49 species of <tp:taxon-name>Thysanoptera</tp:taxon-name>, <tp:taxon-name>Terebrantia</tp:taxon-name> that have been found in association with cultivated plants in Java. This is the first published identification system to this group of insects from Indonesia, and includes 15 species not previously recorded from Indonesia, and a further three species not previously recorded from Java. A table is provided indicating the plants from which thrips were taken.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Identification keys</kwd>
+                <kwd>Indonesia</kwd>
+                <kwd>Thripidae</kwd>
+                <kwd>cultivated plants</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Judging from a list published by <xref ref-type="bibr" rid="B27">zur Strassen (1994)</xref>, the <tp:taxon-name>Thysanoptera</tp:taxon-name> fauna of Indonesia appears to be well known. That list documents 433 thrips species from Indonesia, 279 of which are from Java. Although a useful resource for checking the names and presence of a genus or species, the list has limitations as a basis for further work by Indonesian entomologists. The alphabetic arrangement of genera, rather than grouping by sub-order and family, makes it difficult to gauge the biological diversity of the fauna, particularly as biologies are not indicated, and no advice given on identification <!--PageBreak-->methods. For the Indonesian thrips fauna no practical identification system exists, although some progress has been made recently in studies on the thrips fauna of Peninsular Malaysia (<xref ref-type="bibr" rid="B7">Mound and Azidah 2009</xref>; <xref ref-type="bibr" rid="B13">Mound and Ng 2009</xref>; <xref ref-type="bibr" rid="B8">Mound et al. 2012</xref>), and a key to the Asian species of the genus <italic><tp:taxon-name>Thrips</tp:taxon-name></italic> was provided by <xref ref-type="bibr" rid="B23">Palmer (1992)</xref>. However, many of the Asian species treated in these keys remain known only from one or a few specimens. There is thus no knowledge of the variability of such species, and their validity remains questionable (<xref ref-type="bibr" rid="B4">Mound 2005</xref>). Extensive field studies are needed, to establish the structural variation within and between populations of several species, before a truly robust identification system can be produced.</p>
+            <p>Most of the species listed from Indonesia by <xref ref-type="bibr" rid="B27">zur Strassen (1994)</xref> were collected or acquired in the 1920’s by H.H.Karny whilst entomologist at the Buitenzorg Zoological Museum (Bogor). They were described either by Karny himself, or subsequently by H. Priesner who inherited most of Karny’s slide collection. These slides are now housed at the Senckenberg Museum, Frankfurt. Unfortunately, Karny considered that the mouth parts of thrips would be found to hold useful taxonomic characters. Thus he slide-mounted most specimens ventral side uppermost, and as a result it is often difficult or impossible to study the dorsal character states that are now considered essential. Moreover, a high proportion of the specimens are damaged or distorted.</p>
+            <p>The 279 species of <tp:taxon-name>Thysanoptera</tp:taxon-name> listed by <xref ref-type="bibr" rid="B27">zur Strassen (1994)</xref> from Java are predominantly members of the sub-order Tubulifera, family <tp:taxon-name>Phlaeothripidae</tp:taxon-name>. In contrast, most thrips that are of importance to agriculture and horticulture are members of the second sub-order, the <tp:taxon-name>Terebrantia</tp:taxon-name>, and only 90 of these are listed from Java, of which 23 are members of the genus <italic><tp:taxon-name>Thrips</tp:taxon-name></italic>. For Indonesian entomologists, the absence of suitable identification keys, also the absence of an authentic reference collection, makes the task of studying these small insects particularly difficult. The objective of the present work is to provide a means of identification of the species associated with cultivated plants in Java. The intention is to enable economic entomologists in Indonesia to identify the pest thrips associated with their crops, and thus facilitate studies on the biology of these insects. In this way it is hoped that an understanding of the rich and complex Indonesian thrips fauna may be developed progressively.</p>
+            <p>The material discussed here has been collected at the following sites: West Java at Bogor and Purwakarta (lowland sites), and at Bandung and Cianjur (highland sites); Central Java at Semarang and Demak (lowland), and Banjarnegara, Tegal (highland); East Java at Kediri, Situbondo and Malang (lowland). In the text below, *indicates the three species that are newly recorded from Java, and **indicates 15 species not previously recorded from any of the Indonesian islands. The slide-mounted specimens on which this report is based are housed in the Bogor Agricultural University. It is particularly noteworthy that the worldwide pest, Western Flower Thrips, <italic><tp:taxon-name>Frankliniella occidentalis</tp:taxon-name></italic>, has not yet been recorded from anywhere in Indonesia.</p>
+            <p>The classification adopted here is the widely accepted one that is web available (<xref ref-type="bibr" rid="B26">ThripsWiki 2013</xref>). That web site provides full nomenclatural details of all taxa discussed in this paper, together with references and other details. Moreover, many of the common widespread species that are considered here are fully described and illustrated <!--PageBreak-->in the web-available identification systems for Australia and California (<xref ref-type="bibr" rid="B8">Mound et al. 2012</xref>; <xref ref-type="bibr" rid="B1">Hoddle et al. 2012</xref>). Another useful source of information is the key to <tp:taxon-name>Thripinae</tp:taxon-name> genera associated with plant quarantine in Japan (<xref ref-type="bibr" rid="B2">Masumoto 2010</xref>).</p>
+        </sec>
+        <sec sec-type="Key to species">
+            <title>Key to species</title>
+            <table-wrap content-type="key" position="anchor" orientation="portrait">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">Antennae with 9-segments; sensoria on segments III–IV linear, either longitudinal along the segments or transverse; wing apex rounded (<xref ref-type="fig" rid="F1">Fig. 2</xref>)</td>
+                            <td rowspan="1" colspan="1">[<tp:taxon-name>Aeolothripidae</tp:taxon-name>] 2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennae usually with 7 or 8 segments (rarely with 6 or 9); sensoria on segments III–IV emergent, either forked or simple; wing apex more or less pointed (<xref ref-type="fig" rid="F1">Fig. 6</xref>)</td>
+                            <td rowspan="1" colspan="1">[<tp:taxon-name>Thripidae</tp:taxon-name>] 3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">Antennal segments III–IV long, III is 9 times as long as width (<xref ref-type="fig" rid="F1">Fig. 1</xref>); segments I–II  white</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Franklinothrips vespiformis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennal segments III–IV scarcely longer than wide (<xref ref-type="fig" rid="F1">Fig. 2</xref>), dark brown with many long setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mymarothrips bicolor</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">Hind tarsi more than 0.5 as long as hind tibia</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudodendrothrips</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Hind tarsi less than 0.3 as long as hind tibia</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">Fore wing anterior margin with cilia arising ventrally behind the margin (<xref ref-type="fig" rid="F1">Fig. 5</xref>); metathoracic furca Y-shaped and extending to mesothorax (<xref ref-type="fig" rid="F1">Fig. 8</xref>) [body white, brown area between eyes; fore wing banded]</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Asprothrips navsariensis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Fore wing anterior margin with cilia arising at margin; metathoracic furca usually not as above</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">Antennal segment IV with parallel-sided apical neck that is 50% as long as this segment (<xref ref-type="fig" rid="F1">Fig. 4</xref>); head and body yellow with no dark pigment</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Zaniothrips ricini</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennal segment IV without elongate apical neck (<xref ref-type="fig" rid="F1">Fig. 3</xref>), body colour various</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">Fore wing dark and setae on costa and first vein long with apices capitate (<xref ref-type="fig" rid="F5">Fig. 38</xref>), second vein with no setae; head and pronotum strongly reticulate, reticles with internal markings</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Echinothrips americanus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Fore wing setae not capitate, second vein rarely without setae; reticulation on head and thorax rarely with any internal markings</td>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">Head, body and fore femora boldly reticulate (<xref ref-type="fig" rid="F2">Figs 13, 14</xref>); mesothoracic furca without a median spinula; fore wing first vein usually fused to costa</td>
+                            <td rowspan="1" colspan="1">8</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head and body not boldly reticulate, fore femora without reticulation; mesothoracic furca usually with a median spinula (<xref ref-type="fig" rid="F1">Fig. 9</xref>); fore wing first vein distinct from  costa</td>
+                            <td rowspan="1" colspan="1">15</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">Abdominal tergite II anterolaterally with paired areas of specialised sculpture, either prominent recurved claw-like microtrichia or closely spaced ridges (<xref ref-type="fig" rid="F2">Figs 11, 12</xref>)</td>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Abdominal tergite II without paired areas of specialised sculpture</td>
+                            <td rowspan="1" colspan="1">12</td>
+                        </tr>
+                        <tr>
+                            <!--PageBreak-->
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">Dorsal surface of head with prominent transverse ridge (cf. <xref ref-type="fig" rid="F2">Fig. 14</xref>)</td>
+                            <td rowspan="1" colspan="1">10</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Dorsal surface of head without a transverse ridge</td>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">Fore wing costal setae longer than costal cilia (<xref ref-type="fig" rid="F2">Fig. 10</xref>); tergite II anterolaterally with paired area of recurved claw-like microtrichia (<xref ref-type="fig" rid="F2">Fig. 12</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Copidothrips octarticulatus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Fore wing costal setae shorter than costal cilia; tergite II anterolaterally with paired areas of parallel ridges (<xref ref-type="fig" rid="F2">Fig. 11</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Panchaetothrips indicus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">Terminal setae on tergite X pointed</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Astrothrips</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Terminal setae on tergite X with apices expanded</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Elixothrips brevisetis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">Fore wing uniformly dark, with two rows of prominent setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Selenothrips rubrocintus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Fore wing pale or banded, without two rows of large setae</td>
+                            <td rowspan="1" colspan="1">13</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">Fore wing second vein with row of setae (<xref ref-type="fig" rid="F1">Fig. 6</xref>); tergal antecostal ridge forming series of arches (<xref ref-type="fig" rid="F2">Fig. 15</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Helionothrips ananthakhrisnani</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Fore wing with no major setae; tergites without arch-like sculpture</td>
+                            <td rowspan="1" colspan="1">14</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">Head with equiangular reticulation, without transverse ridge (<xref ref-type="fig" rid="F2">Fig. 13</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Heliothrips haemorrhoidalis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head with complex irregular sculpture and transverse ridge (<xref ref-type="fig" rid="F2">Fig. 14</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Rhipiphorothrips pulchellus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">Head strongly prolonged in front of eyes (<xref ref-type="fig" rid="F2">Fig. 18</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Organothrips indicus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head rarely extending in front of eyes</td>
+                            <td rowspan="1" colspan="1">16</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">Lateral areas of abdominal tergites II–VII with numerous large microtrichia on broad triangular bases (<xref ref-type="fig" rid="F2">Fig. 16</xref>); fore wing banded, without setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothripoides innoxius</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Lateral thirds of tergites without such large microtrichia; fore wing veins with setae</td>
+                            <td rowspan="1" colspan="1">17</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">Pronotum with no long setae</td>
+                            <td rowspan="1" colspan="1">18</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotum with at least 1 pair of prominent setae</td>
+                            <td rowspan="1" colspan="1">19</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">Body sharply bicoloured, brown with abdominal segments III–V yellow; metanotum irregularly reticulate</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anaphothrips sudanensis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Body uniformly dark brown; metanotal sculpture transverse (<xref ref-type="fig" rid="F3">Fig. 19</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dichromothrips corbetii</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">Tergites with many closely spaced rows of fine microtrichia laterally (<xref ref-type="fig" rid="F2">Fig. 17</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scirtothrips dorsalis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Tergites without closely spaced rows of fine microtrichia laterally (<xref ref-type="fig" rid="F4">Fig. 26</xref>)</td>
+                            <td rowspan="1" colspan="1">20</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">Abdominal tergites without paired ctenidia laterally</td>
+                            <td rowspan="1" colspan="1">21</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Abdominal tergites V–VIII with paired ctenidia laterally (<xref ref-type="fig" rid="F4">Figs 26, 27</xref>)</td>
+                            <td rowspan="1" colspan="1">30</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">Pronotum with 6 pairs of long setae (<xref ref-type="fig" rid="F5">Fig. 39</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scolothrips rhagebianus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotum with no more than 3 pairs of long setae</td>
+                            <td rowspan="1" colspan="1">22</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with neither craspedum nor comb (<xref ref-type="fig" rid="F3">Fig. 25</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with either a comb of microtrichia or a craspedum</td>
+                            <td rowspan="1" colspan="1">23</td>
+                        </tr>
+                        <tr>
+                            <!--PageBreak-->
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with a craspedum but no comb (<xref ref-type="fig" rid="F1">Fig. 7</xref>)</td>
+                            <td rowspan="1" colspan="1">24</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with a comb of microtrichia (<xref ref-type="fig" rid="F4">Fig. 26</xref>), either complete or present only laterally</td>
+                            <td rowspan="1" colspan="1">25</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">Sternite VII with three pairs of marginal setae equidistant from each other</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Craspedothrips minor</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Sternite VII posteromarginal setae S1 and S2 close together medially, and distant from lateral setal pair S3</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Rhamphothrips</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">Pronotum anterior margin with 1 pair of elongate setae (<xref ref-type="fig" rid="F3">Fig. 20</xref>); metanotum almost without sculpture medially; abdominal tergites III–VI strongly reticulate (<xref ref-type="fig" rid="F3">Fig. 21</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ayyaria chaetophora</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotum anterior margin with no long setae; metanotum sculptured medially; tergites not strongly reticulate</td>
+                            <td rowspan="1" colspan="1">26</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">Metanotum with equiangular reticulation (<xref ref-type="fig" rid="F3">Fig. 23</xref>); ocellar setae pair III shorter than distance between two ocelli (<xref ref-type="fig" rid="F3">Fig. 22</xref>); antennal segment I without pair of dorso-apical setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lefroyothrips lefroyi</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Metanotal reticulation not equiangular; ocellar setae pair III longer than distance between two ocelli; antennal segment I with pair of setae at dorsal apex (<xref ref-type="fig" rid="F1">Fig. 3</xref>)</td>
+                            <td rowspan="1" colspan="1">27</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">Female tergite VIII with comb of long microtrichia complete medially</td>
+                            <td rowspan="1" colspan="1">28</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Female tergite VIII posterior margin with a few microtrichia laterall but none medially</td>
+                            <td rowspan="1" colspan="1">29</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">28</td>
+                            <td rowspan="1" colspan="1">Meso and metathroacic furca with long spinula; ocellar setae pair I arising side-by-side; fore wing pale or with transverse darker bands</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mycterothrips</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">No spinula on metathoracic furca (cf. <xref ref-type="fig" rid="F1">Fig. 9</xref>); ocellar setae pair I arising one setae in front of the other; fore wing uniformly dark</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ceratothripoides brunneus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">Abdominal sternite VII posteromarginal setae all arise on margin (<xref ref-type="fig" rid="F3">Fig. 24</xref>); antennal segments IV and V yellow on basal half</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megalurothrips typicus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Median pair of marginal setae on abdominal sternite VII arise in front of margin</td>
+                            <td rowspan="1" colspan="1">30</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">30</td>
+                            <td rowspan="1" colspan="1">All antennal segments brown</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megalurothrips distalis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennal segment III yellow</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1">Ctenidia on tergite VIII anterolateral to spiracle (<xref ref-type="fig" rid="F4">Fig. 26</xref>); head with pair of setae in front of first ocellus</td>
+                            <td rowspan="1" colspan="1">32</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Ctenidia on tergite VIII posteromesad to spiracle (<xref ref-type="fig" rid="F4">Fig. 27</xref>); head without pair of setae in front of first ocellus</td>
+                            <td rowspan="1" colspan="1">33</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with complete comb of microtrichia; ocellar seta III arise on anterior margin of ocellar triangle</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Frankliniella intonsa</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with no comb of microtrichia; ocellar seta III arise between posterior pair of ocelli</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Frankliniella schultzei</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">Abdominal sternites IV–VI with discal setae (<xref ref-type="fig" rid="F5">Fig. 35</xref>)</td>
+                            <td rowspan="1" colspan="1">34</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Abdominal sternites IV–VI with setae only at posterior margin (cf <xref ref-type="fig" rid="F3">Fig. 24</xref>)</td>
+                            <td rowspan="1" colspan="1">44</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">34</td>
+                            <td rowspan="1" colspan="1">Tergites II–VIII posterior margin with toothed craspedum (<xref ref-type="fig" rid="F4">Fig. 27</xref>); prosternum with 2 or more pairs of setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <!--PageBreak-->
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Tergites II–VIII without a toothed marginal craspedum; prosternum with no setae</td>
+                            <td rowspan="1" colspan="1">35</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1">Antennal segments III and IV with sensorium simple</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bolacothrips striatopennatus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennal segments III and IV with sensorium forked</td>
+                            <td rowspan="1" colspan="1">36</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">Pronotum with only one pair of long posteroangular setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips unipinus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotum with two pairs of prominent posteroangular setae</td>
+                            <td rowspan="1" colspan="1">37</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1">Sternite VII without discal setae (<xref ref-type="fig" rid="F5">Fig. 35</xref>); fore wing first vein setal row complete; pleurotergites with discal setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Sternite VII with discal setae present; fore wing first vein setal row interrupted; pleurotergites usually with no discal setae</td>
+                            <td rowspan="1" colspan="1">38</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1">Pronotal posteroangular setae short, usually shorter than median metanotal  setae</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips melastomae</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pronotal posteroangular setae at least as long as median metanotal setae and usually longer</td>
+                            <td rowspan="1" colspan="1">39</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">39</td>
+                            <td rowspan="1" colspan="1">Pleurotergites with discal seta (<xref ref-type="fig" rid="F4">Fig. 30</xref>); metanotum without campaniform  sensilla</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips alliorum</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pleurotergites without discal seta (<xref ref-type="fig" rid="F4">Fig. 32</xref>); metanotum usually with paired campaniform  sensilla</td>
+                            <td rowspan="1" colspan="1">40</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">Abdominal tergite II with 4 setae laterally</td>
+                            <td rowspan="1" colspan="1">41</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Abdominal tergite II with 3 setae laterally</td>
+                            <td rowspan="1" colspan="1">43</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">41</td>
+                            <td rowspan="1" colspan="1">Metanotal median setae arising just behind anterior margin; body colour varying from yellow to brown, but usually with tergite X brown and dark markings medially on some tergites</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips coloratus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Metanotal median setae arising at anterior margin; body brown, head and thorax sometimes yellow</td>
+                            <td rowspan="1" colspan="1">42</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1">Postocular setae pair II minute; mesonotum with no sculpture close to anterior pair of campaniform sensilla (<xref ref-type="fig" rid="F5">Fig. 36</xref>); fore wing clavus with terminal seta shorter than sub-terminal seta</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips florum</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Postocular setae pair II at least half as long as setae I and III; mesonotum with sculpture lines close to anterior pair of campaniform sensilla (<xref ref-type="fig" rid="F5">Fig. 37</xref>); fore wing clavus with terminal seta longer than sub-terminal seta</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">Antennae with 8 segments; fore wing first vein with 7 setae on distal half; metanotum reticulate with markings inside the reticles (<xref ref-type="fig" rid="F4">Fig. 34</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips simplex</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antennae with 7 segments; fore wing first vein with 3 setae on distal half; metanotal reticulations without internal markings</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips safrus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">Head with ocellar setae pair II longer than pair III (<xref ref-type="fig" rid="F4">Fig. 28</xref>) [fore wing uniformly brown]</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Stenchaetothrips biformis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head with ocellar setae pair II shorter than pair III</td>
+                            <td rowspan="1" colspan="1">45</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">45</td>
+                            <td rowspan="1" colspan="1">Abdominal tergites III–V with median pair of setae more 0.5 as long as the median length of their tergite (<xref ref-type="fig" rid="F4">Fig. 29</xref>)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Abdominal tergites III–V with median pair of setae scarcely 0.3 as long as tergite</td>
+                            <td rowspan="1" colspan="1">46</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><!--PageBreak-->46</td>
+                            <td rowspan="1" colspan="1">Fore wing first vein with setal row almost complete</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips malloti</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Fore wing first vein with wide gaps distally in setal row</td>
+                            <td rowspan="1" colspan="1">47</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">Pleurotergites with closely spaced rows of fine microtrichia (<xref ref-type="fig" rid="F4">Fig. 32</xref>); body variable in colour but ocellar pigment grey and never red</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips tabaci</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Pleurotergites without such rows of microtrichia; ocellar pigment red</td>
+                            <td rowspan="1" colspan="1">48</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">48</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with no comb medially; body dark brown</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips javanicus</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Tergite VIII posterior margin with complete comb medially; body yellow</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figures 1–9.</label>
+                <caption><p><tp:taxon-name>Thripinae</tp:taxon-name> from Java. <bold>1</bold> <italic><tp:taxon-name>Franklinothrips vespiformis</tp:taxon-name></italic>, antenna <bold>2</bold> <italic><tp:taxon-name>Mymarothrips bicolour</tp:taxon-name></italic>, female <bold>3</bold> <italic><tp:taxon-name>Megalurothrips typicus</tp:taxon-name></italic> antennal segments I–V 4 <italic><tp:taxon-name>Zaniothrips ricini</tp:taxon-name></italic> antenna <bold>5</bold> <italic><tp:taxon-name>Asprothrips navsariensis</tp:taxon-name></italic>, fore wing <bold>6</bold> <italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic> fore wing <bold>7</bold> <italic><tp:taxon-name>Craspedothrips minor</tp:taxon-name></italic>, tergites VII &amp; VIII <bold>8</bold> <italic><tp:taxon-name>Asprothrips</tp:taxon-name></italic>, metafurca <bold>9</bold> <italic><tp:taxon-name>Echinothrips americanus</tp:taxon-name></italic>, with mesosternal spinula.</p></caption>
+                <graphic xlink:href="ZooKeys-306-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figures 10–18.</label>
+                <caption><p><tp:taxon-name>Thripinae</tp:taxon-name> from Java. <bold>10</bold> <italic><tp:taxon-name>Copidothrips octarticulatus</tp:taxon-name></italic> fore wing <bold>11</bold> <italic><tp:taxon-name>Panchaetothrips indicus</tp:taxon-name></italic>, tergites I &amp; II <bold>12</bold> <italic><tp:taxon-name>Copidothrips octarticulatus</tp:taxon-name></italic>, tergites I &amp; II <bold>13</bold> <italic><tp:taxon-name>Heliothrips haemorroidalis</tp:taxon-name></italic>, head &amp; pronotum <bold>14</bold> <italic><tp:taxon-name>Rhipiphorothrips pulchellus</tp:taxon-name></italic>, head &amp; pronotum <bold>15</bold> <italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic>, tergites <bold>16</bold> <italic><tp:taxon-name>Dendrothripoides innoxius</tp:taxon-name></italic>, tergites <bold>17</bold> <italic><tp:taxon-name>Scirtothrips dorsalis</tp:taxon-name></italic>, tergites <bold>18</bold> <italic><tp:taxon-name>Organothrips indicus</tp:taxon-name></italic>, head &amp; pronotum.</p></caption>
+                <graphic xlink:href="ZooKeys-306-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figures 19–25.</label>
+                <caption><p><tp:taxon-name>Thripinae</tp:taxon-name> from Java. <bold>19</bold> <italic><tp:taxon-name>Dichromothrips corbetti</tp:taxon-name></italic>, metanotum <bold>20</bold> <italic><tp:taxon-name>Ayyaria chaetophora</tp:taxon-name></italic>, head &amp; thorax <bold>21</bold> <italic><tp:taxon-name>Ayyaria chaetophora</tp:taxon-name></italic>, tergites <bold>22</bold> <italic><tp:taxon-name>Lefroyothrips lefroyi</tp:taxon-name></italic>, head <bold>23</bold> <italic><tp:taxon-name>Lefroyothrips lefroyi</tp:taxon-name></italic>, metanotum <bold>24</bold> <italic><tp:taxon-name>Megalurothrips typicus</tp:taxon-name></italic>, sternite VII <bold>25</bold> <italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>, tergites VII–IX.</p></caption>
+                <graphic xlink:href="ZooKeys-306-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figures 26–34.</label>
+                <caption><p><tp:taxon-name>Thripinae</tp:taxon-name> from Java. <bold>26</bold> <italic><tp:taxon-name>Frankliniella intonsa</tp:taxon-name></italic>, tergites VII &amp; VIII <bold>27</bold> <italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic> tergites VII–IX <bold>28</bold> <italic><tp:taxon-name>Stenchaetothrips biformis</tp:taxon-name></italic>, head <bold>29</bold> <italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic>, tergites <bold>30</bold> <italic><tp:taxon-name>Thrips alliorum</tp:taxon-name></italic>, pleurotergite &amp; sternite <bold>31</bold> <italic><tp:taxon-name>Thrips alliorum</tp:taxon-name></italic>, head <bold>32</bold> <italic><tp:taxon-name>Thrips tabaci</tp:taxon-name></italic>, tergites &amp; pleurotergites <bold>33</bold> <italic><tp:taxon-name>Thrips simplex</tp:taxon-name></italic>, head <bold>34</bold> <italic><tp:taxon-name>Thrips simplex</tp:taxon-name></italic>, metanotum.</p></caption>
+                <graphic xlink:href="ZooKeys-306-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figures 35–39.</label>
+                <caption><p><tp:taxon-name>Thripinae</tp:taxon-name> from Java. <bold>35</bold> <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic>, sternites V–VII <bold>36</bold> <italic><tp:taxon-name>Thrips florum</tp:taxon-name></italic>, meso &amp; metanota <bold>37</bold> <italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>, meso &amp; metanota <bold>38</bold> <italic><tp:taxon-name>Echinothrips americanus</tp:taxon-name></italic>, fore wing <bold>39</bold> <italic><tp:taxon-name>Scolothrips rhagebianus</tp:taxon-name></italic>, pronotum.</p></caption>
+                <graphic xlink:href="ZooKeys-306-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <sec sec-type="Aeolothripidae">
+                <title><tp:taxon-name>Aeolothripidae</tp:taxon-name></title>
+                <p>Most of the 190 species listed in this family are from the temperate parts of the world, but a few small genera are found only in tropical countries. All the species have nine antennal segments, the sensoria on the third and fourth antennal segments form longitudinal sensory areas not emergent sense cones, and the fore wings have a broadly rounded apex and well marked veins.</p>
+                <p>** <italic><tp:taxon-name>Franklinothrips vespiformis</tp:taxon-name></italic> (Crawford DL): This predatory species was collected on the leaves of <italic><tp:taxon-name>Jatropha</tp:taxon-name></italic> at Malang in association with populations of <italic><tp:taxon-name>Zaniothrips ricini</tp:taxon-name></italic>. Originally from Central America where it is widespread, it is recorded from Thailand, Japan, New Caledonia and Australia (<xref ref-type="bibr" rid="B16">Mound and Reynaud 2005</xref>).</p>
+                <p>* <italic><tp:taxon-name>Mymarothrips bicolor</tp:taxon-name></italic> zur Strassen: Described from Krakatau Island, Indonesia, this species has been collected at Bogor and at Semarang, and is also known from northern Australia. It is presumably predatory and, as the name implies, is similar in appearance to one of the small parasitic <tp:taxon-name>Hymenoptera</tp:taxon-name> with the fore wings narrowed at the base but broadly rounded toward the apex.</p>
+            </sec>
+            <sec sec-type="Thripidae">
+                <title><tp:taxon-name>Thripidae</tp:taxon-name></title>
+                <p>This family comprises about 2000 described species, and is found around the world wherever plants are growing. Most species have either seven or eight antennal segments, and the sensoria on the third and fourth segments are emergent and either forked or simple. The fore wings are generally slender, and commonly bear two rows of setae. Four subfamilies are recognised, although only three are recorded here.</p>
+            </sec>
+            <sec sec-type="Thripidae – Panchaetothripinae">
+                <title><tp:taxon-name>Thripidae</tp:taxon-name> – <tp:taxon-name>Panchaetothripinae</tp:taxon-name></title>
+                <p>This subfamily comprises about 140 species in 40 genera. These are distributed throughout tropical countries, and they feed and breed on leaves not in flowers. With the exception of <italic><tp:taxon-name>Zaniothrips ricini</tp:taxon-name></italic>, the adults are dark brown, with conspicuous reticulate sculpture.</p>
+                <!--PageBreak-->
+                <p><italic><tp:taxon-name>Astrothrips</tp:taxon-name></italic> sp.: This genus comprises 12 leaf-feeding species that are found in tropical areas between Africa and northern Australia. All of them have a characteristic group of strongly recurved spines anterolaterally on the second abdominal tergite. An apparently undescribed species was collected recently at Tegal.</p>
+                <p>**<italic><tp:taxon-name>Copidothrips octarticulatus</tp:taxon-name></italic> (Schmutz): Only one species is recognised in this genus, and this has the second abdominal similar in structure and sculpture to species of <italic><tp:taxon-name>Astrothrips</tp:taxon-name></italic>. Presumably originally from southeast Asia, and collected at Bogor, it is also recorded from the Carribean.</p>
+                <p><italic><tp:taxon-name>Elixothrips brevisetis</tp:taxon-name></italic> (Bagnall): Only one species is placed in this genus, and this has been found at Bogor. It is very similar in structure and biology to species of <italic><tp:taxon-name>Astrothrips</tp:taxon-name></italic>, and is widely distributed around the tropics.</p>
+                <p>**<italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic> Wilson: Described from the eastern highlands of New Guinea on banana leaves (<xref ref-type="bibr" rid="B24">Wilson 1975</xref>), this species is here newly recorded from Java. Both sexes have been found on banana leaves at Bogor, Cianjur and Bandung. There are nearly 30 species listed in this genus, almost all from the Asian tropics.</p>
+                <p><italic><tp:taxon-name>Heliothrips haemorroidalis</tp:taxon-name></italic> Bouché: Found in Bogor, the Greenhouse Thrips of temperate countries is widespread in sub-tropical areas, breeding on a wide range of plants, but usually not on herbaceous plants.</p>
+                <p>**<italic><tp:taxon-name>Panchaetothrips indicus</tp:taxon-name></italic> Bagnall: Described from India, females of this species have been studied from Bogor and Semarang. Six species from the Old World tropics are listed in this genus, and an identification key was provided by <xref ref-type="bibr" rid="B15">Mound and Postle (2004)</xref>.</p>
+                <p><italic><tp:taxon-name>Rhipiphorothrips pulchellus</tp:taxon-name></italic> Morgan: This species has the abdomen almost clear yellow in contrast to the dark brown head and thorax, and is known from India and Sri Lanka to the Philippines. It is recorded from the leaves of <italic><tp:taxon-name>Ficus</tp:taxon-name></italic> and of vines, and at Situbondo was found on <italic><tp:taxon-name>Jatropha</tp:taxon-name></italic> leaves. Four other species are listed in this genus, two from Africa and two from Asia.</p>
+                <p><italic><tp:taxon-name>Selenothrips rubrocinctus</tp:taxon-name></italic> (Giard): The red-banded cacao thrips probably came originally from South America but is now widespread in tropical countries. It has been taken from the leaves of <italic><tp:taxon-name>Jatropha</tp:taxon-name></italic> at Bogor and at Kediri.</p>
+                <p>**<italic><tp:taxon-name>Zaniothrips ricini</tp:taxon-name></italic> Bhatti: Although described from <italic><tp:taxon-name>Ricinus</tp:taxon-name></italic> in India, this curiously pale-bodied species has been found several times breeding on <italic><tp:taxon-name>Jatropha</tp:taxon-name></italic> leaves at Bogor.</p>
+            </sec>
+            <sec sec-type="Thripidae – Dendrothripinae">
+                <title><tp:taxon-name>Thripidae</tp:taxon-name> – <tp:taxon-name>Dendrothripinae</tp:taxon-name></title>
+                <p>Adults in this subfamily have the internal furca of the metathorax greatly enlarged and “lyre-shaped”, and extending to the mesothorax. These are leaf-feeding thrips that jump actively when disturbed. About 90 species in 10 genera are recognised, and these are found particularly in tropical and sub-tropical countries.</p>
+                <!--PageBreak-->
+                <p>**<italic><tp:taxon-name>Asprothrips navsariensis</tp:taxon-name></italic> Tyagi: Previously known only from Gujarat, in western India, living on banana leaves, both sexes have been studied from banana leaves at Bogor. The genus includes only four species, all from Asia but with one species widespread in greenhouses.</p>
+                <p><italic><tp:taxon-name>Pseudodendrothrips</tp:taxon-name></italic> sp.: There are 19 species placed in this genus, mainly from the Old World tropics. They are minute in size, and difficult to identify to species. One species is widespread as a minor pest on the leaves of <italic><tp:taxon-name>Morus</tp:taxon-name></italic> trees used for silk-worm cultivation. A single female representing this genus was collected from <italic><tp:taxon-name>Nephelium</tp:taxon-name></italic> at Bogor.</p>
+            </sec>
+            <sec sec-type="Thripidae – Thripinae">
+                <title><tp:taxon-name>Thripidae</tp:taxon-name> – <tp:taxon-name>Thripinae</tp:taxon-name></title>
+                <p>This is one of the two largest groups of <tp:taxon-name>Thysanoptera</tp:taxon-name>, with over 1600 recognised species in almost 250 genera. These thrips are found all over the world, many are associated with flowers, but a particularly large number of species breed only on grasses. This subfamily includes the major pest thrips, including all the tospovirus vector species.</p>
+                <p><italic><tp:taxon-name>Anaphothrips sudanensis</tp:taxon-name></italic> Trybom: This strikingly bicoloured species was collected at Bogor. It is widespread in sub-tropical areas on various grasses, and is sometimes considered a minor pest of cereal crops. As in all 80 species of the genus <italic><tp:taxon-name>Anaphothrips</tp:taxon-name></italic>, the pronotum does not have any long setae (<xref ref-type="bibr" rid="B11">Mound and Masumoto 2009</xref>).</p>
+                <p><italic><tp:taxon-name>Ayyaria chaetophora</tp:taxon-name></italic> Karny: The only species in this genus is widespread from India to Japan and Australia. It appears to breed on a wide variety of plants, including <italic><tp:taxon-name>Glycine</tp:taxon-name></italic>, <italic><tp:taxon-name>Tagetes</tp:taxon-name></italic> and <italic><tp:taxon-name>Ricinus</tp:taxon-name></italic>, and at Purwakata adults have been found on many different plant species.</p>
+                <p><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic> (Shumsher): This species with curiously dark antennae is widespread from India across Southeast Asia to northern Australia. It has been collected at Bogor and Cianjur, and although often reported from crops, there is no reliable information concerning the plants on which it breeds. The only other species in the genus was described from India.</p>
+                <p><italic><tp:taxon-name>Bolacothrips striatopennatus</tp:taxon-name></italic> (Schmutz): Described from Sri Lanka, but widespread across Asia to Japan, Guam and Australia, this yellow species breeds on grasses, and has been found at Cianjur. Although closely related to <italic><tp:taxon-name>Thrips</tp:taxon-name></italic> genus, the sensoria on the third and fourth antennal segments are simple not forked (<xref ref-type="bibr" rid="B6">Mound 2011b</xref>).</p>
+                <p>**<italic><tp:taxon-name>Ceratothripoides brunneus</tp:taxon-name></italic> Bagnall: Although described from West Africa, this species is common in Peninsular Malaysia, also in Thailand where it is reported as a tospovirus vector on tomatoes (<xref ref-type="bibr" rid="B14">Mound and Nickle 2009</xref>). A few specimens were taken at Cianjur. Although similar in appearance to <italic><tp:taxon-name>Megalurothrips</tp:taxon-name></italic> species, the eighth abdominal tergite bears a complete comb of long microtrichia.</p>
+                <p>*<italic><tp:taxon-name>Craspedothrips minor</tp:taxon-name></italic> (Bagnall): This is the most widespread of the 10 species in this genus, all from the Old World tropics. It is thought to be associated with the flowers of <italic><tp:taxon-name>Cassia</tp:taxon-name></italic> species (<xref ref-type="bibr" rid="B8">Mound et al. 2012</xref>), and at Bogor was found on <italic><tp:taxon-name>Mimosa</tp:taxon-name></italic> flowers. The posterior margins of the abdominal tergites and sternites bear a distinctive craspedum, or lobed fringe.</p>
+                <p><!--PageBreak--><!--PageBreak--><!--PageBreak--><italic><tp:taxon-name>Dendrothripoides innoxius</tp:taxon-name></italic> (Karny): One of only five species in this genus, this is associated with the leaves of <italic><tp:taxon-name>Ipomoea</tp:taxon-name></italic> species including sweet potato. Originally from Southeast Asia, and found at Bogor, it is also recorded from Brazil. The abdominal tergites laterally bear distinctively large, broadly based, microtrichia.</p>
+                <p><italic><tp:taxon-name>Dichromothrips corbetti</tp:taxon-name></italic> (Priesner): Species in this genus breed on <tp:taxon-name>Orchidaceae</tp:taxon-name> in the Old World tropics, but <italic>corbetti</italic> has been widely distributed in greenhouses, and was recently found at Malang. Unlike the other 17 species in the genus, <italic>corbetti</italic> has no long setae on the pronotum.</p>
+                <p><!--PageBreak-->**<!--PageBreak--><italic><tp:taxon-name>Echinothrips americanus</tp:taxon-name></italic> Morgan: The Poinsettia Thrips is considered a pest of <italic><tp:taxon-name>Capsicum</tp:taxon-name></italic> crops under glass in Europe. It is usually associated with the leaves of various decorative <tp:taxon-name>Araceae</tp:taxon-name> and <tp:taxon-name>Euphorbiaceae</tp:taxon-name>, but is highly polyphagous. Originally from eastern North America, it has been reported recently from Cianjur in Java, also northern Australia and China (<xref ref-type="bibr" rid="B20">Mound et al. 2013</xref>).</p>
+                <p>**<italic><tp:taxon-name>Frankliniella intonsa</tp:taxon-name></italic> (Trybom): This species is widespread from Europe to Taiwan, and has been found at Cianjur and Bandung on rose and on strawberry plants. It is similar in structure and biology to the major pest species, <italic><tp:taxon-name>Frankliniella occidentalis</tp:taxon-name></italic>, from which it is distinguished by the short setae behind the eyes and the absence of campaniform sensilla on the metanotum.</p>
+                <p><!--PageBreak--><italic><tp:taxon-name>Frankliniella schultzei</tp:taxon-name></italic> (Trybom): Presumably originally from South America, this species is widespread throughout tropical countries. A tospovirus vector, it is distinguished from most species of <italic><tp:taxon-name>Frankliniella</tp:taxon-name></italic> by the lack of a marginal comb on the eighth tergite of females, and the presence of a pair of setae between the posterior pair of ocelli. It appears to be variable in colour, from yellow to brown, and a single brown male was collected at Bogor.</p>
+                <p><italic><tp:taxon-name>Lefroyothrips lefroyi</tp:taxon-name></italic> (Bagnall): Only four species are listed in this genus, of which this one is associated with the flowers of tea plants in northern India. A single female has been seen from Cianjur.</p>
+                <p><italic><tp:taxon-name>Megalurothrips distalis</tp:taxon-name></italic> (Karny): Species of this genus breed in the flowers of <tp:taxon-name>Fabaceae</tp:taxon-name> in the Old World tropics. Although 13 species are described, they cannot all be recognised (<xref ref-type="bibr" rid="B22">Palmer 1987</xref>). Females of <italic>distalis</italic> are distinguished from the more common <italic>usitatus</italic> by the dark brown colour of the third antennal segment. This species was found at Cianjur.</p>
+                <p><italic><tp:taxon-name>Megalurothrips typicus</tp:taxon-name></italic> Bagnall: This species can be distinguished by the presence of all three pairs of setae arising at the posterior margin of the seventh sternite in females, instead of the median pair arising sub-marginally. Also, the antennae are more extensively yellow than in the other members of the genus. It has been found at Tegal.</p>
+                <p><italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic> (Bagnall): This is the most common thrips in the flowers of cultivated legume plants across most of tropical Asia (<xref ref-type="bibr" rid="B22">Palmer 1987</xref>), and has been seen from Bogor and Tegal.</p>
+                <p><italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic> (Crawford DL): Common in the flowers of many <tp:taxon-name>Asteraceae</tp:taxon-name>, this sub-tropical species is often associated with crops of <italic><tp:taxon-name>Helianthus</tp:taxon-name></italic>. Found at Bogor, Bandung and Cianjur, it is similar to species of genus <italic><tp:taxon-name>Thrips</tp:taxon-name></italic> in having ctenidia laterally on the tergites, but the posterior margin of the tergites bears a distinctive row of triangular teeth.</p>
+                <p>** <italic><tp:taxon-name>Mycterothrips</tp:taxon-name></italic> sp. This genus is widespread around the world, with the species apparently all leaf-feeding, and one a pest in Asia on <italic><tp:taxon-name>Glycine max</tp:taxon-name></italic>. One female of a bicoloured species has been seen from Banjarnegara, a highland area in central Java. This apparently undescribed species has discal setae on the sternites, a character state that is found in only five of the 29 species described in this genus.</p>
+                <p>** <italic><tp:taxon-name>Organothrips indicus</tp:taxon-name></italic> Bhatti: This species breeds underwater in the mucilage on the stems of some aquatic plants, such as <italic><tp:taxon-name>Eichornia crassipes</tp:taxon-name></italic>, and <italic><tp:taxon-name>Typha</tp:taxon-name></italic> species. It is recorded from India and also from northern Australia, and was found at Demak. A closely similar species is recorded from the Pacific islands (<xref ref-type="bibr" rid="B3">Mound 2000</xref>).</p>
+                <p><italic><tp:taxon-name>Rhamphothrips</tp:taxon-name></italic> sp.: The females of species in this genus are particularly difficult to identify. However, specimens taken at Bogor were readily recognised as members of this genus, because the median two pairs of marginal setae on the seventh sternite arise very close together in the mid-line (<xref ref-type="bibr" rid="B18">Mound and Tree 2011</xref>).</p>
+                <p><!--PageBreak--><italic><tp:taxon-name>Scirtothrips dorsalis</tp:taxon-name></italic> Hood: Species of this genus have closely spaced transverse rows of microtrichia laterally on the abdominal tergites. This Oriental species is a widespread pest on several crops. It was collected at Bogor, and is a tospovirus vector in India, and introduced to Israel and the Caribbean. It is unusual amongst the 100 described species of <italic><tp:taxon-name>Scirtothrips</tp:taxon-name></italic> in having microtrichia almost covering all of the sternites, instead of these being restricted to the lateral areas (<xref ref-type="bibr" rid="B17">Mound and Stiller 2011</xref>).</p>
+                <p>**<italic><tp:taxon-name>Scolothrips rhagebianus</tp:taxon-name></italic> Priesner: Very similar to the North American <italic><tp:taxon-name>Scolothrips sexmaculatus</tp:taxon-name></italic>, this species is recorded from Egypt to Australia, and has been seen from Malang. All <italic><tp:taxon-name>Scolothrips</tp:taxon-name></italic> species have six pairs of long setae on the pronotum, and are predators of spider mites (<xref ref-type="bibr" rid="B5">Mound 2011a</xref>).</p>
+                <p><italic><tp:taxon-name>Stenchaetothrips biformis</tp:taxon-name></italic> (Bagnall): The rice thrips is widespread across Asia, on grasses as well as rice, and has been seen from Bogor and Cianjur. <italic><tp:taxon-name>Stenchaetothrips</tp:taxon-name></italic> species are very similar to <italic><tp:taxon-name>Thrips</tp:taxon-name></italic>, but have the lateral pair of setae between the eyes longer than the median pair (<xref ref-type="bibr" rid="B21">Ng and Mound 2012</xref>).</p>
+                <p>**<italic><tp:taxon-name>Thrips alliorum</tp:taxon-name></italic> (Priesner): Apparently breeding on onions, this species is recorded widely in southeast Asia, and also in Hawaii, and has been seen from Cianjur. It is dark brown, with the head projecting slightly in front of the eyes.</p>
+                <p><italic><tp:taxon-name>Thrips coloratus</tp:taxon-name></italic> Schmutz: This species varies greatly in colour, from pale yellow to brown, but the most common form is brown medially on the tergites, and tergite ten is also brown. It is a flower-living species that is known widely across Southeast Asia into northern Australia, and was collected at Bogor.</p>
+                <p><italic><tp:taxon-name>Thrips florum</tp:taxon-name></italic> Schmutz: This is one of the most common and widespread flower thrips across Asia to the Pacific islands, and is also introduced to the Caribbean and southern Florida. Collected at Bogor, and at Cianjur, it is very similar to <italic>hawaiiensis</italic> in structure and biology (<xref ref-type="bibr" rid="B10">Mound and Masumoto 2005</xref>).</p>
+                <p><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic> (Morgan): This is the most commonly collected flower thrips across Asia to the Pacific and eastern Australia, and was found at both Bogor and Cianjur. It is also introduced to the southern parts of the USA, as well as some Caribbean islands.</p>
+                <p><italic><tp:taxon-name>Thrips javanicus</tp:taxon-name></italic> Priesner: Specimens identified as this species were taken at Bogor. The species requires further study as it is not clearly distinguished from several other Asian species that lack sternal discal setae (<xref ref-type="bibr" rid="B4">Mound 2005</xref>).</p>
+                <p><italic><tp:taxon-name>Thrips malloti</tp:taxon-name></italic> Priesner: Widespread from India to northern Australia, this species was collected at Bogor. The fore wing is dark except at the base, and the first vein has an almost complete row of setae, in contrast to <italic>javanicus</italic>.</p>
+                <p><italic><tp:taxon-name>Thrips melastomae</tp:taxon-name></italic> Priesner: This is another poorly defined species that is recorded from Malaysia to the Philippines and was taken at Bogor. <xref ref-type="bibr" rid="B23">Palmer (1992)</xref> suggests that it may be associated with species of the plant genus <italic><tp:taxon-name>Melastoma</tp:taxon-name></italic>.</p>
+                <p>*<italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic> Uzel: This polyphagous pest species has been found at Cianjur infesting the leaves of carrots, but in Europe it is associated with various other crops including lettuce, and in Kenya has been reported as a pest of Pyrethrum crops. The wings vary from fully complete to shorter than the thoracic width, and the median setae on the tergites are unusually long.</p>
+                <p><italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic> Karny: A major pest species and tospovirus vector, this species is sometimes abundant in southeast Asian countries causing severe leaf damage to various crops such as egg plant. It has been taken from various crop plants in Java at Bandung, Bogor and Cianjur.</p>
+                <p><!--PageBreak--><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic> (Karny): In Indonesia, including Java, this is probably the most widespread and commonly collected thrips species (<xref ref-type="bibr" rid="B9">Mound and Collins 2000</xref>). The body size and colour are variable, probably in relation to the temperature during development. The body and wing lengths were greater on specimens from <italic><tp:taxon-name>Capsicum</tp:taxon-name></italic> in the highlands of West Java than in specimens from this crop in the lowlands (<xref ref-type="bibr" rid="B25">Sartiami et al. 2011</xref>). At large populations this species is likely to damage crops such as capsicum and potato, and it has been take at Bogor, Cianjur and Bandung.</p>
+                <p><italic><tp:taxon-name>Thrips simplex</tp:taxon-name></italic> (Morison): The Gladiolus Thrips is found throughout the world wherever these flowers are grown. Feeding by this thrips causes the flowers and leaves to be marked by pale streaks, and specimens have been studied from Bogor.</p>
+                <p>**<italic><tp:taxon-name>Thrips safrus</tp:taxon-name></italic> Mound &amp; Masumoto: Collected recently at Bogor, this is the first record of this polyphagous species from outside Australia, where it is common in the northern tropical and sub-tropical parts of the continent (<xref ref-type="bibr" rid="B10">Mound and Masumoto 2005</xref>).</p>
+                <p><italic><tp:taxon-name>Thrips tabaci</tp:taxon-name></italic> Lindeman: One of the most widespread species of thrips, the Onion Thrips does not usually occur in the wet tropics. It can produce large populations on various crops under hot dry conditions, and has been found at Cianjur.</p>
+                <p>**<italic><tp:taxon-name>Thrips unispinus</tp:taxon-name></italic> Moulton: described from New Guinea, large numbers of this species have been found in Mango flowers in northern Australia, and it is here recorded from Cianjur.</p>
+                <!--PageBreak-->
+                <!--PageBreak-->
+                <!--PageBreak-->
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Plants from which thrips have been collected in Java. &lt;br/&gt;</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Family Name</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Host Plant</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Thrips species</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Acanthaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ruellia</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Copidothrips octarticulatus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Amaryllidaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allium</tp:taxon-name></italic> spp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bolacothrips striatopennatus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips alliorum</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Anacardiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mangifera indica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Annonaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Polyalthia longifolia</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Apiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coriander sativum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Daucus carota</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips tabaci</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Megalurothrips typicus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Apocynaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Allamanda cathartica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips malloti</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Araceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Colocasia</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Heliothrips haemorrhoidalis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Arecaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Elais guineensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips melastomae</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Asteraceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lactuca sativa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ageratum</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Brassicaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Brassica oleracea</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Brassica rapa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Burseraceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Canarium sp</tp:taxon-name></italic>.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Caricaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Carica papaya</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Clusiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Garcinia mangostana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scirtothrips dorsalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Convolvulaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ipomoea aquatica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ipomoea batatas</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mymarothrips bicolor</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Bathrips melanicornis&lt;br/&gt; Microcephalothrips abdominalis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3" colspan="1"><tp:taxon-name>Cucurbitaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cucumis sativus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Organothrips indicus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips palmi&lt;br/&gt; Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Momordica charantica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Luffa acutangula</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Cyperacea</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cyperus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Euphorbiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aleurites mollucana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Jatropha curcas</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Franklinothrips vespiformis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Mymarothrips bicolor</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Heliothrips haemorrhoidalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Rhipiphorothrips pulchellus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Selenothrips rubrocintus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Zaniothrips ricini</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Scolothrips rhagebianus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="5" colspan="1"><tp:taxon-name>Fabaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mimosa pudica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips malloti</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Crapedothrips minor</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Vigna unguiculata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Phaseolus vulgaris</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cicer arietinum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Arachis hypogaea</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Iridaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gladiolus</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips simplex</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Lamiacea</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ocimum</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Astrothrips</tp:taxon-name></italic> sp.&lt;br/&gt; <italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Frankliniella schultzei</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Lauraceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Persea americana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Melastomataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Melastoma</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Rhamphothrips</tp:taxon-name></italic> sp.</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Musaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Musa</tp:taxon-name></italic> spp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Asprothrips navsariensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Helionothrips ananthakrishnani</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Myrtaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Psidium guajava</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Syzygium</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scirtothrips dorsalis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Orchidaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrobium</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dichromothrips corbetti</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Oxalidaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Averrhoa carambola</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Asprothrips navsariensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Heliothrips haemorrhoidalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips javanicus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pandanaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pandanus</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Heliothrips haemorrhoidalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Elixothrips brevisetis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Phyllanthaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sauropus androgynus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Echinothrips americanus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="5" colspan="1"><tp:taxon-name>Poaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Imperata</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Megalurothrips usitatus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Zea mays</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips nigropilosus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oryza sativa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Selenothrips rubrocinctus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Triticum aestivum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anaphothrips sudanensis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Axonopus</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Rosaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Rosa</tp:taxon-name></italic> spp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Bolacothrips striatopennatus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Ceratothripoides brunneus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Frankliniella intonsa</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips coloratus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips florum</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips unispinus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Megalurothips distalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Megalurothrip usitatus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Lefroyothrips lefroyi</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Fragaria vesca</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Frankliniella intonsa</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Rutaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Citrus</tp:taxon-name></italic> spp.</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Heliothrips haemorrhoidalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips malloti</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Sapindaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nephelium lappaceum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudodendrothrips</tp:taxon-name></italic> sp.&lt;br/&gt; <italic><tp:taxon-name>Thrips coloratus</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="7" colspan="1"><tp:taxon-name>Solanaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nicotiana tabacum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Solanum lycopersicum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Solanum tuberosum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Solanum nigrum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Solanum melongena</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Datura metel</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thrips palmi</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Capsicum annuum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Microcephalothrips abdominalis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips hawaiiensis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips parvispinus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Verbenaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lantana camara</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dendrothripoides innoxius</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Bathrips melanicornis</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips florum</tp:taxon-name></italic>&lt;br/&gt; <italic><tp:taxon-name>Thrips malloti</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1"><tp:taxon-name>Zingiberaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Curcuma longa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Panchaetothrips indicus</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Curcuma zantorrhiza</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Panchaetothrips indicus</tp:taxon-name></italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>This paper was prepared during a working visit by Dewi Sartiami to CSIRO at Canberra. This visit was made possible through a grant kindly supplied by the Crawford Fund, Australia. We are grateful to two referees, Adriano Cavalleri and Desley Tree, for help and advice in improving this paper.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hoddle</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Paris</surname> <given-names>DL</given-names></name></person-group> (<year>2012</year>) <source><italic>Thrips of California 2012</italic>. CBIT Publishing, Queensland. <ext-link ext-link-type="uri" xlink:href="http://keys.lucidcentral.org/keys/v3/thrips_of_california/Thrips_of_California.html" xlink:type="simple">http://keys.lucidcentral.org/keys/v3/thrips_of_california/Thrips_of_California.html</ext-link></source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Masumoto</surname> <given-names>M</given-names></name></person-group> (<year>2010</year>) <article-title>Key to genera of the subfamily Thripinae (Thysanoptera: Thripidae) associated with Japanese plant quarantine.</article-title> <source>Research Bulletin of the Plant Protection Service Japan</source> <volume>46</volume>: <fpage>25</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name></person-group> (<year>2000</year>) <article-title>The aquatic thrips <italic>Organothrips indicus</italic> Bhatti (Thysanoptera: Thripidae) in Queensland, and a new species, <italic>O. wrighti</italic>, from tropical Australia.</article-title> <source>Australian Journal of Entomology</source> <volume>39</volume>: <fpage>10</fpage>-<lpage>14</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1440-6055.2000.00136.x" xlink:type="simple">10.1046/j.1440-6055.2000.00136.x</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name></person-group> (<year>2005</year>) <article-title>The <italic>Thrips orientalis</italic> group from South-east Asia and Australia: some species identities and relationships (Thysanoptera, Thripidae).</article-title> <source>Australian Journal of Entomology</source> <volume>44</volume>: <fpage>420</fpage>-<lpage>424</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1440-6055.2005.00505.x" xlink:type="simple">10.1111/j.1440-6055.2005.00505.x</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name></person-group> (<year>2011a</year>) <source>Species recognition in the genus <italic>Scolothrips</italic> (Thysanoptera, Thripidae), predators of leaf-feeding mites. Zootaxa 2797: 45–53. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2011/f/zt02797p053.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2011/f/zt02797p053.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name></person-group> (<year>2011b</year>) <source>Grass-dependent Thysanoptera of the family Thripidae from Australia. Zootaxa 3064: 1-40. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2011/f/zt03064p040.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2011/f/zt03064p040.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Azidah</surname> <given-names>AA</given-names></name></person-group> (<year>2009</year>) <source>Species of the genus <italic>Thrips</italic>(Thysanoptera) from Peninsular Malaysia, with a checklist of recorded Thripidae. Zootaxa 2023: 55–68. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2009/f/zt02023p068.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2009/f/zt02023p068.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Azidah</surname> <given-names>AA</given-names></name><name name-style="western"><surname>Ng</surname> <given-names>YF</given-names></name></person-group> (<year>2012</year>) <source>Key to the non-fossil species of the genus <italic>Taeniothrips</italic> (Thysanoptera, Thripidae). Zootaxa 3414: 33–42. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2012/f/zt03414p042.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2012/f/zt03414p042.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Collins</surname> <given-names>DW</given-names></name></person-group> (<year>2000</year>) <article-title>A south east Asian pest species newly recorded from Europe: <italic>Thrips parvispinus</italic> (Thysanoptera: Thripidae), its confused identity and potential quarantine significance.</article-title> <source><italic>Journal of European Entomology</italic></source> <volume>97</volume>: <fpage>197</fpage>-<lpage>200</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Masumoto</surname> <given-names>M</given-names></name></person-group> (<year>2005</year>) <source>The genus <italic>Thrips</italic> (Thysanoptera, Thripidae) in Australia, New Caledonia and New Zealand. Zootaxa 1020: 1–64. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2005f/zt01020p064.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2005f/zt01020p064.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Masumoto</surname> <given-names>M</given-names></name></person-group> (<year>2009</year>) <article-title>Australian Thripinae of the <italic>Anaphothrips</italic> genus-group (Thysanoptera), with three new genera and thirty-three new species.</article-title> <source>Zootaxa</source> <volume>2042</volume>: <fpage>1</fpage>-<lpage>76</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Masumoto</surname> <given-names>M</given-names></name><name name-style="western"><surname>Okajima</surname> <given-names>S</given-names></name></person-group> (<year>2012</year>) <source>The Palaeotropical genus <italic>Craspedothrips</italic>, with new species from Africa and Malaysia (Thysanoptera, Thripinae). Zootaxa 3478: 49–61. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2012/f/zt03478p061.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2012/f/zt03478p061.pdf</ext-link></source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Ng</surname> <given-names>YF</given-names></name></person-group> (<year>2009</year>) <source>An illustrated key to the genera of Thripinae (Thysanoptera) from South East Asia. Zootaxa 2265: 27–47. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2009/f/zt02265p047.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2009/f/zt02265p047.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Nickle</surname> <given-names>DA</given-names></name></person-group> (<year>2009</year>) <source>The Old-World genus <italic>Ceratothripoides</italic> (Thysanoptera: Thripidae) with a new genus for related New-World species. Zootaxa 2230: 57–63. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2009/f/zt02230p063.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2009/f/zt02230p063.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Postle</surname> <given-names>A</given-names></name></person-group> (<year>2004</year>) <source><italic>Panchaetothrips timonii</italic> sp.n. (Thysanoptera, Thripidae); first Australian record of this Old World tropical genus. Australian Journal of Entomology 43: 133–137.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1440-6055.2004.00401.x" xlink:type="simple">10.1111/j.1440-6055.2004.00401.x</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Reynaud</surname> <given-names>P</given-names></name></person-group> (<year>2005</year>) <source><italic>Franklinothrips</italic>; a pantropical Thysanoptera genus of ant-mimicking obligate predators (Aeolothripidae). Zootaxa 864: 1–16. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2005f/zt00864.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2005f/zt00864.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Stiller</surname> <given-names>M</given-names></name></person-group> (<year>2011</year>) <source>Species of the genus <italic>Scirtothrips</italic> from Africa (Thysanoptera, Thripidae). Zootaxa 2786: 51–61. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2011/f/zt02786p061.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2011/f/zt02786p061.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Tree</surname> <given-names>DJ</given-names></name></person-group> (<year>2011</year>) <source>New records and four new species of Australian Thripidae (Thysanoptera) emphasise faunal relationships between northern Australia and Asia. Zootaxa 2764: 35–48. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2011/f/zt02764p048.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2011/f/zt02764p048.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Tree</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Paris</surname> <given-names>D</given-names></name></person-group> (<year>2012</year>) <source>OzThrips – Thysanoptera in Australia. <ext-link ext-link-type="uri" xlink:href="http://www.ozthrips.org/" xlink:type="simple">http://www.ozthrips.org/</ext-link></source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name><name name-style="western"><surname>Tree</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Sartiami</surname> <given-names>D</given-names></name></person-group> (<year>2013</year>) <article-title>The greenhouse pest, <italic>Echinothrips americanus</italic> Morgan, recorded for the first time from Australia and Java.</article-title> <source>Myrmecia</source> <volume>49</volume>: <fpage>54</fpage>-<lpage>57</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ng</surname> <given-names>YF</given-names></name><name name-style="western"><surname>Mound</surname> <given-names>LA</given-names></name></person-group> (<year>2012</year>) <source>The <italic>Stenchaetothrips</italic> species (Thysanoptera, Thripidae) of Malaysia, with one new species. Zootaxa 3357: 56–62. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2012/f/zt03357p062.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2012/f/zt03357p062.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Palmer</surname> <given-names>JM</given-names></name></person-group> (<year>1987</year>) <article-title><italic>Megalurothrips</italic> in the flowers of tropical legumes: a morphometric study.</article-title> In: <person-group><name name-style="western"><surname>Holman</surname> <given-names>J</given-names></name><name name-style="western"><surname>Pelikan</surname> <given-names>J</given-names></name><name name-style="western"><surname>Dixon</surname> <given-names>AFG</given-names></name><name name-style="western"><surname>Weismann</surname> <given-names>L</given-names></name></person-group> (<role>Eds</role>). <issue-title>Population structure, genetics and taxonomy of aphids and Thysanoptera.</issue-title> <source>The Hague (SPB Academic Publishing)</source>: <fpage>480</fpage>-<lpage>495</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Palmer</surname> <given-names>JM</given-names></name></person-group> (<year>1992</year>) <article-title><italic>Thrips</italic> from Pakistan to the Pacific: a review.</article-title> <source>Bulletin of the British Museum Natural History (Entomology)</source> <volume>61</volume>: <fpage>1</fpage>-<lpage>76</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilson</surname> <given-names>TH</given-names></name></person-group> (<year>1975</year>) <article-title>A monograph of the subfamily Panchaetothripinae (Thysanoptera: Thripidae).</article-title> <source>Memoirs of the American Entomological Institute</source> <volume>23</volume>: <fpage>1</fpage>-<lpage>354</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sartiami</surname> <given-names>D</given-names></name><name name-style="western"><surname>Magdalena,</surname> <given-names>Nurmansyah A</given-names></name></person-group> (<year>2011</year>) <source><italic>Thrips parvispinus</italic> Karny (Thysanoptera: Thripidae) pada tanaman cabai: Perbedaan karakter morfologi berdasarkan ketinggian tempat. Jurnal Entomologi Indonesia. 8: 85–95. <ext-link ext-link-type="uri" xlink:href="http://pei-pusat.org/jurnal/?p=1179" xlink:type="simple">http://pei-pusat.org/jurnal/?p=1179</ext-link></source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>ThripsWiki</surname> <given-names></given-names></name></person-group> (<year>2013</year>) <source>ThripsWiki - providing information on the World’s thrips. <ext-link ext-link-type="uri" xlink:href="http://thrips.info/wiki/" xlink:type="simple">thrips.info/wiki/</ext-link> [accessed 26.v.2013]</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>zur Strassen</surname> <given-names>R</given-names></name></person-group> (<year>1994</year>) <article-title>Some reflections on the composition of the thrips fauna (Insecta: Thysanoptera) of Bali (Indonesia) along the biogeographical Bali-Lombok line.</article-title> <source>Courier Forschungsinstitut Senckenberg</source> <volume>178</volume>: <fpage>33</fpage>-<lpage>48</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

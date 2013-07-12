@@ -1,0 +1,291 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.156.2176</article-id>
+            <title-group>
+                <article-title>Barcoding Fauna Bavarica: Myriapoda – a contribution to DNA sequence-based identifications of centipedes and millipedes (Chilopoda, Diplopoda)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Spelda</surname>
+                        <given-names>Jörg</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Reip</surname>
+                        <given-names>Hans S.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Oliveira–Biener</surname>
+                        <given-names>Ulla</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Melzer</surname>
+                        <given-names>Roland R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Section Arthropoda Varia, Bavarian State Collection of Zoology, Münchhausenstraße 21, 81247 Munich, Germany
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Soil Zoology, Senckenberg Museum of Natural History Görlitz, P.O. Box 300154, 02806 Görlitz, Germany
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Jörg Spelda (<email xlink:type="simple">spelda@zsm.mwn.de</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: R. Mesibov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>12</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>156</issue>
+            <fpage>123</fpage>
+            <lpage>139</lpage>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>2</day>
+                    <month>12</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Jörg Spelda, Hans S. Reip, Ulla Oliveira–Biener, Roland R. Melzer</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>We give a first account of our ongoing barcoding activities on Bavarian myriapods in the framework of the Barcoding Fauna Bavarica project and IBOL, the International Barcode of Life. Having analyzed 126 taxa (including 122 species) belonging to all major German chilopod and diplopod lineages, often using four or more specimens each, at the moment our species stock includes 82% of the diplopods and 65% of the chilopods found in Bavaria, southern Germany. The partial COI sequences allow correct identification of more than 95% of the current set of Bavarian species. Moreover, most of the myriapod orders and families appear as distinct clades in neighbour-joining trees, although the phylogenetic relationships between them are not always depicted correctly. We give examples of (1) high interspecific sequence variability among closely related species; (2) low interspecific variability in some chordeumatidan genera, indicating that recent speciations cannot be resolved with certainty using COI DNA barcodes; (3) high intraspecific variation in some genera, suggesting the existence of cryptic lineages; and (4) the possible polyphyly of some taxa, i.e. the chordeumatidan genus <italic><tp:taxon-name>Ochogona</tp:taxon-name></italic>. This shows that, in addition to species identification, our data may be useful in various ways in the context of species delimitations, taxonomic revisions and analyses of ongoing speciation processes.
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Chilopoda</kwd>
+                <kwd>Diplopoda</kwd>
+                <kwd>COI barcoding</kwd>
+                <kwd>Bavaria</kwd>
+                <kwd>Germany</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Molecular species identification based on sequence diversities in the Folmer segment of mitochondrial COI DNA has been under intense study for some years (<xref ref-type="bibr" rid="B9">Hebert et al. 2003</xref>, <xref ref-type="bibr" rid="B12">Savolainen et al. 2005</xref>). For the identification of a wide set of species, reference barcode libraries are needed; therefore, various projects are currently building such libraries by mass sequencing. The Barcoding Fauna Bavarica project (<ext-link ext-link-type="uri" xlink:href="http://www.faunabavarica.de">http://www.faunabavarica.de</ext-link>, <xref ref-type="bibr" rid="B5">Haszprunar 2009</xref>, <xref ref-type="bibr" rid="B7">Hausmann et al. 2011a</xref>,<xref ref-type="bibr" rid="B8">b</xref>), in close association with IBOL, the International Barcode of Life (<ext-link ext-link-type="uri" xlink:href="http://ibol.org/">http://ibol.org/</ext-link>), the DNA bank facility at Zoologische Staatssammlung München (ZSM) (<ext-link ext-link-type="uri" xlink:href="http://www.zsm.mwn.de/dnabank/">http://www.zsm.mwn.de/dnabank/</ext-link>, <xref ref-type="bibr" rid="B4">Gemeinholzer et al. 2011</xref>), and the GLOMYRIS project of the Global Biodiversity Information Facility (GBIF) (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.de/evertebrata2/glomyris">http://www.gbif.de/evertebrata2/glomyris</ext-link>), aims to barcode all animal species in Bavaria, i.e. some 35000 species, representing 85% of the species found in Germany.
+            </p>
+            <p>Among the Chilopoda and Diplopoda, the 146 species known from Bavaria cover 73% of the fauna of Germany. Hence, the first aim of our study is to establish a barcode reference library for Bavarian Myriapoda that will be expanded step by step (the dataset treated in this paper can be accessed in Barcode of Life Data Systems (BOLD; <xref ref-type="bibr" rid="B11">Ratnasingham and Hebert 2007</xref>, <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org">http://www.boldsystems.org</ext-link>) under ‘MYFBA (Fauna Bavarica Myriapoda public 1)’ as part of the campaign ‘Fauna Bavarica’). Moreover, myriapods found in our studied area cover many of the numerous species and subspecies of uncertain morphology-based species delimitations described in the huge works of <xref ref-type="bibr" rid="B17">K.W. Verhoeff (e.g. 1934</xref>, <xref ref-type="bibr" rid="B18">1935</xref>) and <xref ref-type="bibr" rid="B1">C. Attems (e.g. 1927</xref>) many of which need taxonomic revision. Our work aims to provide morphology-independent sets of characters to enable us to check against the descriptions and species delimitations, and therefore to draw new conclusions about the validity of these species. This is also important since in the Bavarian Alps numerous species are found which are relicts of speciation processes that occurred during and after the last glaciation periods. Our barcodes will provide a basis or a test for these analyses (e.g. <xref ref-type="bibr" rid="B10">Pilz et al. 2008</xref>). Furthermore, barcoding of myriapods is of particular interest since in many species, i.e. in many diplopods such as the family <tp:taxon-name>Julidae</tp:taxon-name>, only a small fraction of the specimens (only adult males) can be identified using morphological sets of characters. Conversely, DNA barcoding allows the determination of all developmental stages from the egg to the male or female adults. In the future, DNA barcoding will therefore allow the identification of all life stages of these taxa instead of adult males only.
+            </p>
+            <p>In the present paper we give an overview of our ongoing barcoding activities, which so far cover 73% of all Bavarian Chilopoda and Diplopoda. In addition to conventional analysis of the actual dataset based on our BOLD data, we give examples of how our barcodes will contribute to taxonomic revisions and to analyses of past and ongoing speciation processes.<!--PageBreak--></p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <sec sec-type="Sampling">
+                <title>Sampling</title>
+                <p>To cover the variability within species, numerous samples from locations inside and outside Bavaria have been included. Besides the centipedes and millipedes known to occur in Bavaria, species that might be found there in the future have also been included, as well as close relatives of the known Bavarian species (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Since the study arose from the ‘Barcoding Fauna Bavarica’ project, sampling was restricted to a few individuals per species. We have tried to include material from all four major Bavarian faunal regions as defined in <xref ref-type="bibr" rid="B19">Voith (2004)</xref>, provided that the species occurred in all of them. If this was not the case, additional sampling took place in adjacent countries. Attempts to amplify and sequence museum material (stored in denatured 75% ethanol), mainly from the more than 70 year-old Verhoeff collection housed at the ZSM, have failed. Hence we had to use newly sampled material less than two years old. This fresh tissue material was ideally stored in reagent-grade 96% ethanol which was exchanged several (3-4) times. In practice it was sometimes unavoidable to use material stored in about 75% ethanol for some days or months before replacement with 96% ethanol. All specimens used for sequencing have been photographed, as required by the Canadian Centre for DNA Barcoding (CCDB). Most of these photos were taken of live specimens in the field and are available online via BOLD. Taxonomy and nomenclature is based on the Bavarian list by <xref ref-type="bibr" rid="B15">Spelda (2006)</xref>, except for a few updates reflecting more recent taxonomic decisions, e.g. taxa raised to species rank, new synonymies and new combinations. A website has been established for ‘Barcoding Fauna Bavarica’ (<ext-link ext-link-type="uri" xlink:href="http://www.faunabavarica.de">http://www.faunabavarica.de</ext-link>) that continuously updates project progress, such as lists of species and their barcode coverage.
+                </p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>Map of sampled areas (dots). For checks of intraspecific variability of COI sequences, localities in Bavaria, but also elsewhere within the species’ areas of distribution, have been sampled and analyzed (sampling data from November 2008 to November 2010; a few specimens from northern Spain omitted).</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="DNA sequencing">
+                <title>DNA sequencing</title>
+                <p>Sequencing was carried out at the CCDB, using the standard protocols of IBOL (<ext-link ext-link-type="uri" xlink:href="http://www.dnabarcoding.ca/pa/ge/research/protocols">http://www.dnabarcoding.ca/pa/ge/research/protocols</ext-link>). For reasons of performance, so far only the C_LepFolF and C_LepFolR primers have been used for PCR and sequencing. Barcoded voucher specimens are stored at ZSM, and DNA extracts from the specimens at the CCDB and the ZSM’s DNA bank facility (<ext-link ext-link-type="uri" xlink:href="http://www.zsm.mwn.de/dnabank/">http://www.zsm.mwn.de/dnabank/</ext-link>). Specimen data, images and DNA sequences will be available on BOLD. BOLD numbers are given for each specimen in the depicted NJ trees (<xref ref-type="fig" rid="F8">Figs. 8</xref>–<xref ref-type="fig" rid="F11">11</xref>). These allow the tracking of our sequences in BOLD and GenBank, respectively.
+                </p>
+                <p>Sequencing failed for about 30% of the species. Sometimes whole genera (<italic><tp:taxon-name>Trachysphaera</tp:taxon-name></italic>, <italic><tp:taxon-name>Ommatoiulus</tp:taxon-name></italic>, <italic><tp:taxon-name>Megaphyllum</tp:taxon-name></italic>, <italic><tp:taxon-name>Mycogona</tp:taxon-name></italic>), and sometimes species-level taxa <!--PageBreak-->(<italic><tp:taxon-name>Glomeris undulata</tp:taxon-name></italic> s.l., <italic><tp:taxon-name>Leptoiulus simplex</tp:taxon-name></italic>-group) were reluctant to barcoding. In these cases we either obtained no barcodes, or less than a quarter of the specimens were successfully barcoded. Hence, barcoding success of single samples was somewhat unpredictable. It seems that minor differences in tissue composition and protocol determine whether or not a sample runs; e.g., in one particular plate all <italic><tp:taxon-name>Megaphyllum</tp:taxon-name></italic> and <italic><tp:taxon-name>Ommatoiulus</tp:taxon-name></italic> were amplified successfully, whereas they had failed before.<!--PageBreak-->
+                </p>
+            </sec>
+            <sec sec-type="Data analysis">
+                <title>Data analysis</title>
+                <p>Resulting data for the myriapods treated here are taken from the respective tools included in BOLD, and calculated using the Kimura 2 Parameter (K2P) model. Sequences were imported into PAUP* (<xref ref-type="bibr" rid="B16">Swofford 2003</xref>) as Fasta files, and tree statistics were calculated using the bootstrap algorithm of PAUP* with 10 replicates and a neighbour-joining/UPGMA search. Only groups with a frequency above 50% were retained for consensus tree reconstruction.
+                </p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Data analysis">
+                <title>Data analysis</title>
+                <p>At the moment our myriapod barcode library includes 320 specimens, 122 species, 56 genera and 24 families of Myriapoda (<xref ref-type="fig" rid="F2">Fig. 2</xref>). All sequences were longer than 500 bp and thus fulfill the requirements for barcoding. The following analysis is based on this dataset (MYFBA), composed of a total of 126 taxa (122 species, three additional subspecies and one subspecies hybrid).
+                </p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Some Bavarian myriapods for which barcodes are now available. <bold>A.</bold> <italic><tp:taxon-name>Glomeris pustulata</tp:taxon-name></italic> Latreille, 1804. <bold>B.</bold> <italic><tp:taxon-name>Polydesmus helveticus</tp:taxon-name></italic> Verhoeff, 1894. <bold>C.</bold> <italic><tp:taxon-name>Cylindroiulus boleti</tp:taxon-name></italic> (C. L. Koch, 1847). <bold>D.</bold> <italic><tp:taxon-name>Unciger foetidus</tp:taxon-name></italic> (C. L. Koch, 1838). <bold>E.</bold> <italic><tp:taxon-name>Haasea flavescens</tp:taxon-name></italic> (Latzel, 1884). <bold>F.</bold> <italic><tp:taxon-name>Atractosoma meridionale</tp:taxon-name></italic> Fanzago, 1876. <bold>G.</bold> <italic><tp:taxon-name>Cryptops parisi</tp:taxon-name></italic> Brölemann, 1920. <bold>H.</bold> <italic><tp:taxon-name>Henia vesuviana</tp:taxon-name></italic> (Newport, 1845). Photos: J. Spelda.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>The mean sequence compositions in our sequences are G = 16.32%, C = 21.75%, A = 30.04% and T = 31.87% in Chilopoda, and G = 17.64%, C = 17.67%, A = 26.21% and T = 38.29% in Diplopoda. This shows a pronounced bias towards A and T, which is characteristic of arthropods.</p>
+                <p>In Chilopoda (<xref ref-type="fig" rid="F3">Fig. 3</xref>) the lowest interspecific distance (K2P distance to nearest neighbour) was found between the species <italic><tp:taxon-name>Lithobius borealis</tp:taxon-name></italic> and <italic><tp:taxon-name>Lithobius valesiacus</tp:taxon-name></italic> (11.99%), and the maximum between <italic><tp:taxon-name>Pachymerium ferrugineum</tp:taxon-name></italic> and <italic><tp:taxon-name>Strigamia crassipes</tp:taxon-name></italic> (25.26%). The mean value of the interspecific distance for Chilopoda was 18.30%. Interspecific distances in Diplopoda (<xref ref-type="fig" rid="F4">Fig. 4</xref>) ranged between 0 % in the subspecies of <italic><tp:taxon-name>Craspedosoma rawlinsii</tp:taxon-name></italic> (including the taxa <italic>alemannicum, alsaticum, transsilvanicum</italic> and the hybrid <italic>germanicum</italic> (= <italic>alemannicum X rawlinsii</italic>)) and 33.18 % between the neighbour pair <italic><tp:taxon-name>Polyzonium germanicum</tp:taxon-name></italic> and <italic><tp:taxon-name>Geoglomeris subterranea</tp:taxon-name></italic> which belong to different orders. The mean value of the interspecific distance for Diplopoda was 14.17%.
+                </p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Interspecific COI variability (K2P): distance to nearest neighbour; Chilopoda</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Interspecific COI variability (K2P): distance to nearest neighbour; Diplopoda</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Intraspecific distances in Chilopoda (K2P maximum pairwise distance) ranged between 0%, for five species, and 21.55% for <italic><tp:taxon-name>Lithobius microps</tp:taxon-name></italic>, with a mean value for all studied chilopod species of 6.73% (<xref ref-type="fig" rid="F5">Fig. 5</xref>). In Diplopoda, 0% was found for 19 species, and the maximum was 6.61 in <italic><tp:taxon-name>Glomeridella bitaeniata</tp:taxon-name></italic>, with a mean value of 0.82% for all studied diplopods (<xref ref-type="fig" rid="F6">Fig. 6</xref>).
+                </p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>Intraspecific COI variability (K2P): maximum pairwise distances; Chilopoda</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F6" position="float" orientation="portrait">
+                    <label>Figure 6.</label>
+                    <caption><p>Intraspecific COI variability (K2P): maximum pairwise distances; Diplopoda</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Neighbour-joining trees">
+                <title>Neighbour-joining trees</title>
+                <p>Analysis of our data resulted in the Neighbour-joining (NJ) trees shown in <xref ref-type="fig" rid="F7">Figs 7</xref>–<xref ref-type="fig" rid="F11">11</xref>. Especially in Diplopoda-Helminthomorpha, where species delimitation is compara<!--PageBreak-->tively easy due to the diversity of their species-specific secondary copulatory apparatus (gonopods), the results of classical (morphological) taxonomy correspond perfectly with the COI lineages in most cases of our dataset. In the following, we give examples to show how fruitful the combination of barcoding and classical taxonomy can be in myriapod research.
+                </p>
+                <fig id="F7" position="float" orientation="portrait">
+                    <label>Figure 7.</label>
+                    <caption><p>Complete neighbour-joining tree of COI sequence divergences (K2P model) of studied myriapod orders; barcoded terminal taxa and clades above their basal nodes omitted. This tree serves for orientation in the detailed trees given in <xref ref-type="fig" rid="F8">Figs 8</xref>–<xref ref-type="fig" rid="F11">11</xref>.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F8" position="float" orientation="portrait">
+                    <label>Figure 8.</label>
+                    <caption><p>Neighbour-joining tree of COI sequence divergences (K2P model) of studied Polyxenida, Polydesmida and Glomerida. Solid circles: examples of excellent resolution of very close species of the genus <italic><tp:taxon-name>Polydesmus</tp:taxon-name></italic>. Numbers above and below branches show bootstrap values of NJ analysis, branch length indicates sequence divergence in %.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Though the mitochondrial COI gene is generally not seen as adequate for resolving relationships at taxonomic levels higher than species or genus, all barcoded myriapod<!--PageBreak--><!--PageBreak--><!--PageBreak--> orders (Polyxenida, Polydesmida, Glomerida, Chordeumatida, Polyzoniida, Scolopendrida, Lithobiida and Geophilida) form single COI clades, except for the Julida, which form two clades (<xref ref-type="fig" rid="F7">Figs 7</xref>, <xref ref-type="fig" rid="F9">9</xref>). The latter is not too puzzling, however, as according to <xref ref-type="bibr" rid="B2">Enghoff (1981)</xref> one of these two clades is formed by the species <italic><tp:taxon-name>Nemasoma varicorne</tp:taxon-name></italic>, which belongs to the only distantly related superfamily <tp:taxon-name>Nemasomatoidea</tp:taxon-name>. Moreover, several chordeumatidan families are also well supported by the barcodes, i.e. <tp:taxon-name>Mastigophorophyllidae</tp:taxon-name>, <tp:taxon-name>Haaseidae</tp:taxon-name> and <tp:taxon-name>Craspedosomatidae</tp:taxon-name> (<xref ref-type="fig" rid="F10">Fig. 10</xref>).
+                </p>
+                <fig id="F9" position="float" orientation="portrait">
+                    <label>Figure 9.</label>
+                    <caption><p>Neighbour-joining tree of COI sequence divergences (K2P model) of studied Julida. Note well-supported COI groups for each species allowing for sequence-based species identification. Numbers above and below branches show bootstrap values of NJ analysis, branch length indicates sequence divergence in %.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F10" position="float" orientation="portrait">
+                    <label>Figure 10.</label>
+                    <caption><p>Neighbour-joining tree of COI sequence divergences (K2P model) of studied Chordeumatida. Asterisk: deep barcoding divergence in <italic><tp:taxon-name>Chordeuma silvestre</tp:taxon-name></italic>; solid squares: polyphyly of genus <italic><tp:taxon-name>Ochogona</tp:taxon-name></italic>; arrows: low sequence divergences in the genera <italic><tp:taxon-name>Craspedosoma</tp:taxon-name></italic>, <italic><tp:taxon-name>Listrocheiritium</tp:taxon-name></italic> and <italic><tp:taxon-name>Rhymogona</tp:taxon-name></italic>. Numbers above and below branches show bootstrap values of NJ analysis, branch length indicates sequence divergence in %.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-156-123-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Most of the studied species appear as distinct COI clades. Barcoded species can overlap for two reasons. First, speciation may have been very recent, e.g. during Pleistocene glacial episodes, as is the case for the diplopod genera <italic><tp:taxon-name>Craspedosoma</tp:taxon-name></italic>, <italic><tp:taxon-name>Rhymogona</tp:taxon-name></italic> and <italic><tp:taxon-name>Listrocheiritium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B14">Spelda 1996</xref>). In these genera genetic introgression is thought to occur commonly. For that reason the subtaxa are treated as subspecies (see <xref ref-type="bibr" rid="B6">Hauser 2004</xref> for <italic><tp:taxon-name>Craspedosoma</tp:taxon-name></italic>, and <xref ref-type="bibr" rid="B13">Scholl and Pedroli-Christen 1996</xref> for <italic><tp:taxon-name>Rhymogona</tp:taxon-name></italic>) or as (semi)species when their separation has been confirmed (<xref ref-type="bibr" rid="B15">Spelda 2006</xref> for <italic><tp:taxon-name>Rhymogona</tp:taxon-name></italic>). The second reason for overlapping barcode groups originates from <!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak-->extraordinarily high intraspecific variation (over 5% divergence) in several nominal chilopod species. Unfortunately, the chilopod samples in our dataset include a comparatively high number of singletons and doubletons, which makes it difficult to decide whether we face cryptic species or genuinely high intraspecific variation. For example, the genus <italic><tp:taxon-name>Strigamia</tp:taxon-name></italic>, especially the <italic><tp:taxon-name>Strigamia crassipes</tp:taxon-name></italic> group, was previously split into many more species than today (<xref ref-type="bibr" rid="B18">Verhoeff 1935</xref>), a solution that might be justified in the light of our barcoding results.
+                </p>
+                <p>At the species and genus levels, we found examples of both well and weakly supported species. For example, <italic><tp:taxon-name>Polydesmus testaceus</tp:taxon-name></italic> and <italic><tp:taxon-name>Polydesmus helveticus</tp:taxon-name></italic> (both often regarded as belonging to a separate genus <italic><tp:taxon-name>Propolydesmus</tp:taxon-name></italic>; see <xref ref-type="bibr" rid="B3">Enghoff and Golovatch 2003</xref>), and <italic><tp:taxon-name>Polydesmus angustus</tp:taxon-name></italic>, <italic><tp:taxon-name>Polydesmus illyricus</tp:taxon-name></italic> and <italic><tp:taxon-name>Polydesmus monticola</tp:taxon-name></italic> (<italic><tp:taxon-name>Polydesmus</tp:taxon-name></italic> s. str.), respectively, both form closely related species groups of highly similar morphology that show interspecific COI differences of more than 5%, and hence can be identified unequivocally using DNA barcodes (<xref ref-type="fig" rid="F8">Fig. 8</xref>). It is also interesting to see that two other ‘true’ <italic><tp:taxon-name>Polydesmus</tp:taxon-name></italic> species, <italic><tp:taxon-name>Polydesmus denticulatus</tp:taxon-name></italic> and <italic><tp:taxon-name>Polydesmus edentulus</tp:taxon-name></italic>, are quite distant from both species groups, which implies that the genus <italic><tp:taxon-name>Polydesmus</tp:taxon-name></italic> could be split further.
+                </p>
+                <p>Conversely, very low interspecific variation is found, e.g., in the chordeumatidan genera <italic><tp:taxon-name>Craspedosoma</tp:taxon-name></italic>, <italic><tp:taxon-name>Listrocheiritium</tp:taxon-name></italic> and <italic><tp:taxon-name>Rhymogona</tp:taxon-name></italic> (<xref ref-type="fig" rid="F10">Fig. 10</xref>). In particular it was not possible to resolve the very closely allied species/subspecies complex within the <italic><tp:taxon-name>Craspedosoma rawlinsii</tp:taxon-name></italic> –group, a result that may reflect ongoing introgression and hybridization. The members of this group even exhibit nearest neighbour distance values of zero, indicating that the COI barcoding method is not suitable for separating its subtaxa.
+                </p>
+                <p>Moreover, examples of high intraspecific variation can be found in several <italic><tp:taxon-name>Lithobius</tp:taxon-name></italic> species (<italic><tp:taxon-name>Lithobius forficatus</tp:taxon-name></italic>, <italic><tp:taxon-name>Lithobius mutabilis</tp:taxon-name></italic>, <italic><tp:taxon-name>Lithobius tricuspis</tp:taxon-name></italic>) (<xref ref-type="fig" rid="F11">Fig. 11</xref>), and in <italic><tp:taxon-name>Chordeuma sylvestre</tp:taxon-name></italic> (<xref ref-type="fig" rid="F10">Fig. 10</xref>). These deep barcoding divergences could represent more than just high variation and might indicate that cryptic species, previously undetected using the classical morphological approach, are present among our samples. However, the revalidation of the species <italic><tp:taxon-name>Lithobius glacialis</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B10">Pilz et al. (2008)</xref> is clearly supported by our barcoding results. This species is distinctly separate from the lowland clade of <italic><tp:taxon-name>Lithobius mutabilis</tp:taxon-name></italic> (a clade that might contain a cryptic species, as stated above), but shows only low intraspecific variation, even though the investigated material originates from very distant mountain areas (Wetterstein Mts Bavaria, and Dachstein Mts Austria). Surprisingly deep divergences are also found within the chordeumatidan genus <italic><tp:taxon-name>Ochogona</tp:taxon-name></italic>, suggesting that this genus is paraphyletic (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+				<fig id="F11" position="float" orientation="portrait">
+            <label>Figure 11.</label>
+            <caption><p>Neighbour-joining tree of COI sequence divergences (K2P model) of studied Chilopoda. Asterisks: Deep divergences within <italic><tp:taxon-name>Lithobius tricuspis</tp:taxon-name></italic> and <italic><tp:taxon-name>Lithobius mutabilis</tp:taxon-name></italic> suggesting cryptic speciation. Numbers above and below branches show bootstrap values of neighbour-joining analysis, branch length indicates sequence divergence in %.</p>
+            </caption>
+            <graphic xlink:href="ZooKeys-156-123-g011.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>  
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Despite the success of COI barcoding in so many species of centipedes and millipedes it has to be admitted that there are still technical problems with this method that make the success of the barcoding process for any single sample unpredictable. For reasons of cost efficiency the CCDB presently uses only one set of standard primers that are probably not optimal for all groups of centipedes and millipedes. For example, we <!--PageBreak--><!--PageBreak-->have failed so far to get any sequences in the genera <italic><tp:taxon-name>Trachysphaera</tp:taxon-name></italic> and <italic><tp:taxon-name>Mycogona</tp:taxon-name></italic>, and have obtained only single chance results in the <italic><tp:taxon-name>Glomeris undulata</tp:taxon-name></italic> and the <italic><tp:taxon-name>Leptoiulus simplex</tp:taxon-name></italic> species groups. The genera <italic><tp:taxon-name>Ommatoiulus</tp:taxon-name></italic>, <italic><tp:taxon-name>Unciger</tp:taxon-name></italic> and <italic><tp:taxon-name>Tachypodoiulus</tp:taxon-name></italic> also seemed to be difficult, as we have obtained only a few barcodes for each of these taxa. To get optimal results special primers would have to be designed. But it is not only the primer design but also the protocol that influences the results. This might explain why some species yielded a barcode in one analytical plate but not in another. Contamination by chemicals (defense secretions in millipedes) might be another cause of unpredictable failures.
+            </p>
+            <p>Although COI barcoding has provided an excellent tool for the identification of all life stages in several species, there are some problems with this gene locus as it is of mitochondrial origin. This means that it only shows maternal inheritance; therefore different maternal lines might mock cryptic species. This mainly affects the Chilopoda, which show a much higher genetic variability than the Diplopoda. While the histogram of intraspecific distances of the Diplopoda (<xref ref-type="fig" rid="F6">Fig. 6</xref>) resembles that found in insects (e.g., <tp:taxon-name>Lepidoptera</tp:taxon-name> – <tp:taxon-name>Geometridae</tp:taxon-name>: <xref ref-type="bibr" rid="B7">Hausmann et al. 2011a</xref>), the histogram of the Chilopoda (<xref ref-type="fig" rid="F5">Fig. 5</xref>) implies several undiscovered lineages, either of cryptic species or of long separated haplotypes.
+            </p>
+            <p>Recent speciations of glacial or postglacial origin with ongoing hybridization and introgression are impossible to resolve using barcodes, as apparently shown by the genera <italic><tp:taxon-name>Craspedosoma</tp:taxon-name></italic>, <italic><tp:taxon-name>Rhymogona</tp:taxon-name></italic> and <italic><tp:taxon-name>Listrocheiritium</tp:taxon-name></italic>. In such cases other genes, especially of nuclear origin, should be used for evolutionary analysis in addition to COI.
+            </p>
+            <p>Our results show that DNA barcoding can be a highly effective tool for the identification of Chilopoda and Diplopoda, provided that the right primers are designed and the right protocol is used. Before it can be better used, a reference barcode library is needed, the genetic variation must be known, and a close partnership between researchers with taxonomic expertise and those with a background in molecular analysis should be established for the interpretation of the results.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The Barcoding Fauna Bavarica project is financially supported by the Bavarian Ministry of Science, Research and Art (Bayerisches Staatsministerium für Wissenschaft, Forschung und Kunst), Munich, Germany. But our work would still have been difficult without the generous consent to use their facilities from the Canadian Centre for Barcoding at the Department of Zoology, University of Guelph, Ontario, Canada, financed by Genome Canada through the Ontario Genomics Institute. We thus have to thank first and foremost the project leaders, Gerhard Haszprunar (Munich) and Paul D. N. Hebert (Guelph), for their support.</p>
+            <p>For lots of discussion, processing and coordination, our thanks go to Axel Hausmann, Lars Hendrich, Michael Balke, Stephan Schmidt, Michael Miller (all Munich), Greg Singer (Guelph), and David Porco (Rouen). Julian Augusteyns, Nathalie Bäumler, Stefan Friedrich (all Munich), Jürgen Gruber (Vienna), Karin Voigtländer (Görlitz)<!--PageBreak-->, and Thomas Wesener (Bonn) are thanked for their help with providing specimens for our study. Special thanks go to Martin Spies (Munich) and Robert Mesibov (Launceston) for polishing the English.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Attems</surname> <given-names>CMT</given-names></name></person-group> (<year>1927</year>)<article-title> Über palaearktische Diplopoden.</article-title> <source>Archiv für Naturgeschichte </source> <volume>92</volume>(<issue>1–2</issue>): <fpage>1</fpage>-<lpage>256</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Enghoff</surname> <given-names>H</given-names></name></person-group> (<year>1981</year>)<article-title> A cladistic analysis and classification of the millipede order Julida.</article-title> <source>Zeitschrift für zoologische Systematik und Evolutionsforschung </source> <volume>19</volume>: <fpage>285</fpage>-<lpage>319</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Enghoff</surname> <given-names>H</given-names></name><name name-style="western"><surname>Golovatch</surname> <given-names>SI</given-names></name></person-group> (<year>2003</year>)<article-title> The millipede genus <italic>Propolydesmus</italic> Verhoeff, 1895 redefined, with a revision of the genus in the Canary Islands (Diplopoda, Polydesmida, Polydesmidae).</article-title> <source>Graellsia: </source> <volume>59</volume> (<issue>1</issue>): <fpage>79</fpage>-<lpage>86</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3989/graellsia.2003.v59.i1.225">10.3989/graellsia.2003.v59.i1.225</ext-link></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gemeinholzer</surname> <given-names>B</given-names></name><name name-style="western"><surname>Dröge</surname> <given-names>G</given-names></name><name name-style="western"><surname>Zetschke</surname> <given-names>H</given-names></name><name name-style="western"><surname>Haszprunar</surname> <given-names>G</given-names></name><name name-style="western"><surname>Klenk</surname> <given-names>HP</given-names></name><name name-style="western"><surname>Berendsohn</surname> <given-names>W</given-names></name><name name-style="western"><surname>Wägele</surname> <given-names>JW</given-names></name></person-group> (<year>2011</year>)<article-title> The DNA Bank Network: the start from a German initiative.</article-title> <source>Biopreservation and Biobanking </source> <volume>9</volume>: <fpage>51</fpage>-<lpage>55</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1089/bio.2010.0029">10.1089/bio.2010.0029</ext-link></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haszprunar</surname> <given-names>G</given-names></name></person-group> (<year>2009</year>)<article-title> Barcoding Fauna Bavarica – eine Chance für die Entomologie.</article-title> <source>Nachrichtenblatt bayerischer Entomologen </source> <volume>58</volume>(<issue>1–2</issue>): <fpage>45</fpage>-<lpage>47</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hauser</surname> <given-names>H</given-names></name></person-group> (<year>2004</year>)<article-title> Untersuchungen zur Systematik und Biogeografie der <italic>Craspedosoma rawlinsii</italic> Leach-Gruppe (Diplopoda: Chordeumatida: Craspedosomatidae).</article-title> <source>Entomologische Nachrichten und Berichte Beiheft </source> <volume>9</volume>: <fpage>1</fpage>-<lpage>32</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hausmann</surname> <given-names>A</given-names></name><name name-style="western"><surname>Haszprunar</surname> <given-names>G</given-names></name><name name-style="western"><surname>Hebert</surname> <given-names>PDN</given-names></name></person-group> (<year>2011a</year>)<source> DNA Barcoding the Geometrid Fauna of Bavaria (Lepidoptera): Successes, Surprises, and Questions. PloS ONE 6 (2): e17134. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0017134">10.1371/journal.pone.0017134</ext-link></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hausmann</surname> <given-names>A</given-names></name><name name-style="western"><surname>Balke</surname> <given-names>M</given-names></name><name name-style="western"><surname>Hendrich</surname> <given-names>L</given-names></name><name name-style="western"><surname>Schmidt</surname> <given-names>S</given-names></name><name name-style="western"><surname>Segerer</surname> <given-names>A</given-names></name><name name-style="western"><surname>Haszprunar</surname> <given-names>G</given-names></name></person-group> (<year>2011b</year>)<article-title> 5 Fakten zum DNA-Barcoding aus der zweijährigen Praxis des Fauna-Bavarica-Projektes (BFB).</article-title> <source>Nachrichtenblatt bayerischer Entomologen </source> <volume>60</volume>(<issue>1–2</issue>): <fpage>44</fpage>-<lpage>47</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hebert</surname> <given-names>PDN</given-names></name><name name-style="western"><surname>Cywinska</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ball</surname> <given-names>SL</given-names></name><name name-style="western"><surname>deWaard</surname> <given-names>JR</given-names></name></person-group> (<year>2003</year>)<article-title> Biological identifications through DNA barcodes.</article-title> <source>Proceedings of the Royal Society B: Biological Sciences </source> <volume>270</volume>: <fpage>313</fpage>-<lpage>321</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2002.2218">10.1098/rspb.2002.2218</ext-link></mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pilz</surname> <given-names>C</given-names></name><name name-style="western"><surname>Melzer</surname> <given-names>RR</given-names></name><name name-style="western"><surname>Spelda</surname> <given-names>J</given-names></name></person-group> (<year>2008</year>)<source> Morphometrics and scanning EM analysis of the species pair <italic>Lithobius mutabilis</italic> L. Koch, 1862 and <italic>Lithobius glacialis</italic> Verhoeff, 1937. Organisms, Diversity and Evolution 7: 270 and 270e1–270e20</source></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ratnasingham</surname> <given-names>S</given-names></name><name name-style="western"><surname>Hebert</surname> <given-names>PDN</given-names></name></person-group> (<year>2007</year>)<article-title> BOLD: The Barcode of Life Data System (<ext-link ext-link-type="uri" xlink:href="http://www.barcodinglife.org">http://www.barcodinglife.org</ext-link>).</article-title> <source>Molecular Ecology Notes </source> <volume>7</volume> (<issue>3</issue>): <fpage>355</fpage>-<lpage>364</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1471-8286.2006.01678.x">10.1111/j.1471-8286.2006.01678.x</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Savolainen</surname> <given-names>V</given-names></name><name name-style="western"><surname>Cowan</surname> <given-names>RS</given-names></name><name name-style="western"><surname>Vogler</surname> <given-names>AP</given-names></name><name name-style="western"><surname>Roderick</surname> <given-names>GK</given-names></name><name name-style="western"><surname>Lane</surname> <given-names>R</given-names></name></person-group> (<year>2005</year>)<article-title> Towards writing the encyclopedia of life: an introduction to DNA barcoding.</article-title> <source>Philosophical Transactions Royal Society B </source> <volume>360</volume>: <fpage>1805</fpage>-<lpage>1811</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rstb.2005.1730">10.1098/rstb.2005.1730</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Scholl</surname> <given-names>A</given-names></name><name name-style="western"><surname>Pedroli-Christen</surname> <given-names>A</given-names></name></person-group> (<year>1996</year>)<article-title> The Taxa of <italic>Rhymogona</italic> (Diplopoda: Craspedosomatidae): a ring species. Part one: genetic analysis of population structure.</article-title> <source>Mémoires du Muséum national d’histoire naturelle N. S.</source> <volume>169</volume>: <fpage>45</fpage>-<lpage>51</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spelda</surname> <given-names>J</given-names></name></person-group> (<year>1996</year>)<article-title> Millipedes as aids for the reconstruction of glacial refugia (Myriapoda: Diplopoda).</article-title> <source>Mémoires du Muséum national d’histoire naturelle N. S.</source> <volume>169</volume>: <fpage>151</fpage>-<lpage>161</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spelda</surname> <given-names>J</given-names></name></person-group> (<year>2006</year>)<article-title> Improvements in the knowledge of the myriapod fauna of southern Germany between 1988 and 2005 (Myriapoda: Chilopoda, Diplopoda, Pauropoda, Symphyla).</article-title> <source>Peckiana </source> <volume>4</volume> (<issue>2005</issue>): <fpage>101</fpage>-<lpage>129</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname> <given-names>DL</given-names></name></person-group> (<year>2003</year>)<source> ‘PAUP*. Phylogenetic Analysis Using Parsimony (and other Methods), Version 4.0.’ (Sinauer Associates: Sunderland, MA.)</source></mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1934</year>)<source> Oberklasse Progoneata (Diplopoda, Symphyla, Pauropoda); Oberklasse Opisthogoneata (Chilopoda). In: Brohmer P, Ehrmann P, Ulmer G (Eds) Die Tierwelt Mitteleuropas 2 (3), 120 pp.</source></mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Verhoeff</surname> <given-names>KW</given-names></name></person-group> (<year>1935</year>)<article-title> Über <italic>Scolioplanes</italic> (Chilopoda).</article-title> <source>Zoologischer Anzeiger </source> <volume>111</volume>(<issue>1–2</issue>): <fpage>11</fpage>-<lpage>23</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Voith</surname> <given-names>J</given-names></name></person-group> (<year>2004</year>)<article-title> Grundlagen und Bilanzen zur Roten Liste gefährdeter Tiere Bayerns.</article-title> <source>Schriftenreihe Bayerisches Landesamt für Umweltschutz </source> <volume>166</volume>: <fpage>11</fpage>-<lpage>24</lpage>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

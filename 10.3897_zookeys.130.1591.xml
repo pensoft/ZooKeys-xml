@@ -1,0 +1,851 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.130.1591</article-id>
+            <title-group>
+                <article-title>A new Late Cretaceous family of Hymenoptera, and phylogeny of the Plumariidae and Chrysidoidea (Aculeata)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Brothers</surname>
+                        <given-names>Denis J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:20A6D830-A458-4624-A182-423602A929E0</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>School of Biological and Conservation Sciences, University of KwaZulu-Natal, Pietermaritzburg, Private Bag X01, Scottsville, 3209 South Africa
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Denis J. Brothers (<email xlink:type="simple">brothers@ukzn.ac.za</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Michael Engel</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>24</day>
+                <month>9</month>
+                <year>2011</year>
+            </pub-date>            
+            <issue>130</issue>
+            <fpage>515</fpage>
+            <lpage>542</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>12</day>
+                    <month>7</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Denis J. Brothers</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:6B456D76-E734-46F6-8E0E-030511CA90F2</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>The taxonomic placement of an enigmatic species of wasp known from two specimens in Late Cretaceous New Jersey amber is investigated through cladistic analyses of 90 morphological characters for 33 terminals ranging across non-Aculeata, non-<tp:taxon-name>Chrysidoidea</tp:taxon-name>, most subfamilies of <tp:taxon-name>Chrysidoidea</tp:taxon-name> and all genera of <tp:taxon-name>Plumariidae</tp:taxon-name> (the family to which the fossils were initially assigned), based on use of exemplars. The fossil taxon is apparently basal in <tp:taxon-name>Chrysidoidea</tp:taxon-name>, most likely sister to <tp:taxon-name>Plumariidae</tp:taxon-name>, but perhaps sister to the remaining chrysidoids, or even sister to <tp:taxon-name>Chrysidoidea</tp:taxon-name> as a whole. It is described as representing a new family, <tp:taxon-name>Plumalexiidae</tp:taxon-name> <bold>fam. n.</bold>, containing a single species, <italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> <bold>gen. et sp. n.</bold> Previous estimates of relationships for the genera of <tp:taxon-name>Plumariidae</tp:taxon-name> and for the higher taxa of <tp:taxon-name>Chrysidoidea</tp:taxon-name> are mostly confirmed. The importance of outgroup choice, and additivity and weighting of characters are demonstrated.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>amber</kwd>
+                <kwd>fossil</kwd>
+                <kwd>Plumalexiidae</kwd>
+                <kwd>Plumalexius rasnitsyni</kwd>
+                <kwd>new genus</kwd>
+                <kwd>new species</kwd>
+                <kwd>classification</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The phylogeny of the <tp:taxon-name>Hymenoptera</tp:taxon-name>, and particularly the Aculeata, has recently been investigated critically by several authors (<xref ref-type="bibr" rid="B4">Brothers 1999</xref>; <xref ref-type="bibr" rid="B43">Ronquist 1999</xref>; <xref ref-type="bibr" rid="B44">Ronquist et al. 1999</xref> <!--PageBreak-->; <xref ref-type="bibr" rid="B45">Sharkey 2007</xref>; <xref ref-type="bibr" rid="B14">Davis, Baldauf and Mayhew 2010</xref>; <xref ref-type="bibr" rid="B28">Heraty et al. 2011</xref>). Generally, recent authors agree that the Aculeata is monophyletic and comprises two monophyletic lineages, the <tp:taxon-name>Chrysidoidea</tp:taxon-name> and the (<tp:taxon-name>Apoidea</tp:taxon-name> + <tp:taxon-name>Vespoidea</tp:taxon-name>), the latter group sometimes called the “Aculeata sensu stricto (s.str.)”. All also agree that the <tp:taxon-name>Plumariidae</tp:taxon-name> is the sister group of the remaining <tp:taxon-name>Chrysidoidea</tp:taxon-name> (see also <xref ref-type="bibr" rid="B11">Carpenter 1999</xref>). This paper concentrates on the <tp:taxon-name>Chrysidoidea</tp:taxon-name>, and the relevant relationships so far established are shown in <xref ref-type="fig" rid="F1">Figure 1</xref>.</p>
+            <p>As chrysidoids, plumariids are very unusual morphologically, the males having broad wings with a relatively rich wing venation including well developed accessory veins in the apical membrane similar to those of many of the very distantly related <tp:taxon-name>Mutillidae</tp:taxon-name> (<tp:taxon-name>Vespoidea</tp:taxon-name>) and <tp:taxon-name>Heterogynaidae</tp:taxon-name> (<tp:taxon-name>Apoidea</tp:taxon-name>) (the latter consequently mistakenly assigned to <tp:taxon-name>Plumariidae</tp:taxon-name> by <xref ref-type="bibr" rid="B2">Brothers 1974</xref>), and the females being wingless with the thorax highly modified (in particular with the propleura fused into a tube and a deep ventral constriction at the base of the laterally expanded metathorax-propodeum). No females have been directly associated with males and the correspondence is putative although very strongly supported on distributional and morphological grounds (<xref ref-type="bibr" rid="B18">Evans 1967</xref>; <xref ref-type="bibr" rid="B3">Brothers 1984</xref>). (The supposed female of <italic><tp:taxon-name>Plumaroides tiphlus</tp:taxon-name></italic> Diez, 2008 is actually a member of the genus <italic><tp:taxon-name>Pseudisobrachium</tp:taxon-name></italic> Kieffer, <tp:taxon-name>Bethylidae</tp:taxon-name>, according to <xref ref-type="bibr" rid="B39">Quintero and Cambra 2010</xref>.) Plumariids occur in the more arid regions of the southern hemisphere, the males often being attracted to lights and the females having been collected under stones or in pitfall traps, but nothing further is known of their biology. There are seven modern genera: <italic><tp:taxon-name>Plumarius</tp:taxon-name></italic> Philippi, 1873, <italic><tp:taxon-name>Plumaroides</tp:taxon-name></italic> Brothers, 1974, <italic><tp:taxon-name>Maplurius</tp:taxon-name></italic> Roig-Alsina, 1994, <italic><tp:taxon-name>Mapluroides</tp:taxon-name></italic> Diez, Fidalgo and Roig-Alsina, 2007 and <italic><tp:taxon-name>Pluroides</tp:taxon-name></italic> Diez, Roig-Alsina and Fidalgo, 2010 from South America, and <italic><tp:taxon-name>Myrmecopterina</tp:taxon-name></italic> Bischoff, 1914 and <italic><tp:taxon-name>Myrmecopterinella</tp:taxon-name></italic> Day, 1977 from southern Africa. Phylogenetic analyses of generic relationships within the family (<xref ref-type="bibr" rid="B42">Roig-Alsina 1994</xref>; <xref ref-type="bibr" rid="B11">Carpenter 1999</xref>; <xref ref-type="bibr" rid="B15">Diez, Roig-Alsina and Fidalgo 2010</xref>) have shown that each southern African genus is most closely related to one or more of the South American genera rather than their being most closely related to each other (<xref ref-type="fig" rid="F1">Figure 2</xref>). The distribution is unusual and putatively Gondwanan, with each of the two primary lineages occurring on both continents and therefore probably having arisen before the breakup of Gondwana. There are no records from the other major Gondwanan continent, Australia, nor from India or the Middle East (other Gondwanan derivatives with arid environments) however.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figures 1–2.</label>
+                <caption><p>Previous estimates of relationships. <bold>1</bold> Aculeata, superfamilies, and families of <tp:taxon-name>Chrysidoidea</tp:taxon-name> (modified from <xref ref-type="bibr" rid="B4">Brothers 1999</xref>); aculeate taxa used as outgroup for analysis shown in green <bold>2</bold> Genera of <tp:taxon-name>Plumariidae</tp:taxon-name> (redrawn from <xref ref-type="bibr" rid="B15">Diez, Roig-Alsina and Fidalgo 2010</xref>)</p></caption>
+                <graphic xlink:href="ZooKeys-130-515-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>Within the <tp:taxon-name>Chrysidoidea</tp:taxon-name>, the family which apparently arose next (after the <tp:taxon-name>Plumariidae</tp:taxon-name> had diverged) is the <tp:taxon-name>Scolebythidae</tp:taxon-name> (see <xref ref-type="fig" rid="F1">Figure 1</xref>). This also has a putatively Gondwanan distribution, based on modern representatives, with <italic><tp:taxon-name>Pristapenesia</tp:taxon-name></italic> Brues, 1933 in the neotropics, <italic><tp:taxon-name>Clystopsenella</tp:taxon-name></italic> Kieffer, 1911 in the neotropics and Australia, <italic><tp:taxon-name>Ycaploca</tp:taxon-name></italic> Nagy, 1975 in South Africa, Australia, Fiji, New Zealand and New Caledonia, and <italic><tp:taxon-name>Scolebythus</tp:taxon-name></italic> Evans, 1963 in Madagascar and South Africa (<xref ref-type="bibr" rid="B17">Engel and Grimaldi 2007</xref>; <xref ref-type="bibr" rid="B13">CSIRO 2011</xref>; Brothers <italic>pers. obs.</italic>); the recent description of a species of <italic><tp:taxon-name>Pristapenesia</tp:taxon-name></italic> from Thailand and China (Oriental and Palaearctic regions) (<xref ref-type="bibr" rid="B1">Azevedo, Xu and Beaver 2011</xref>) has cast doubt on the validity of the previous statement, though. Again, the closest relationships are between genera separated by long distances, with<!--PageBreak--> <italic><tp:taxon-name>Clystopsenella</tp:taxon-name></italic> and <italic><tp:taxon-name>Scolebythus</tp:taxon-name></italic> being sister groups, as are <italic><tp:taxon-name>Ycaploca</tp:taxon-name></italic> and <italic><tp:taxon-name>Pristapenesia</tp:taxon-name></italic>, as shown by <xref ref-type="bibr" rid="B17">Engel and Grimaldi (2007)</xref>. However, fossil species of <tp:taxon-name>Scolebythidae</tp:taxon-name> (including two <italic><tp:taxon-name>Pristapenesia</tp:taxon-name></italic>) have been found in Early Cretaceous Lebanese amber, Late Cretaceous New Jersey amber, Eocene French amber, Eocene Baltic amber and Miocene Dominican amber (<xref ref-type="bibr" rid="B17">Engel and Grimaldi 2007</xref>), demonstrating that the family was much more widespread in the past. Strikingly, the fossil members generally are more derived with more reduced wing venation than most modern members. The other (“higher”) families of <tp:taxon-name>Chrysidoidea</tp:taxon-name> are all also known from fossils, in each case, as for <tp:taxon-name>Scolebythidae</tp:taxon-name>, the earliest being from the Early Cretaceous (see <xref ref-type="bibr" rid="B16">Engel and Grimaldi 2006</xref>; <xref ref-type="bibr" rid="B41">Rasnitsyn 2010</xref>; <xref ref-type="bibr" rid="B36">Ortega-Blanco, Delclòs and Engel 2011</xref>).</p>
+            <p>No fossil <tp:taxon-name>Plumariidae</tp:taxon-name> have yet been described, but two conspecific male specimens from Late Cretaceous New Jersey (USA) amber were recently stated to be members of the family (Rasnitsyn in <xref ref-type="bibr" rid="B26">Grimaldi, Shedrinsky and Wampler 2000</xref>; <xref ref-type="bibr" rid="B9">Brothers and Rasnitsyn 2000a</xref>,<xref ref-type="bibr" rid="B10">b</xref>) and this interpretation has been incorporated in some general accounts (e.g. <xref ref-type="bibr" rid="B40">Rasnitsyn 2002</xref>: 244, <xref ref-type="bibr" rid="B41">2010</xref>), although some others (e.g. <xref ref-type="bibr" rid="B25">Grimaldi and Engel 2005</xref>: 430; <xref ref-type="bibr" rid="B16">Engel and Grimaldi 2006</xref>; <xref ref-type="bibr" rid="B39">Quintero and Cambra 2010</xref>) have reflected my subsequent view (<xref ref-type="bibr" rid="B5">Brothers 2003</xref>, <xref ref-type="bibr" rid="B6">2004</xref>) that they may represent a new family. The long setae on the flagellomeres, reduced pronotum, large propleura and broad wings with a large pterostigma are particularly reminiscent of <tp:taxon-name>Plumariidae</tp:taxon-name>, although none of these features is unique to that family. The specimens differ from all modern male plumariids in having much simpler wing venation, lacking the accessory veins and with the second submarginal cell broadly sessile anteriorly, a much smaller anal (vannal/plical) lobe on the hind wing, the clypeus simple, the mandible truncate and four-toothed, the metanotum short and the mesopleuron less swollen. Preliminary analyses using the characters and taxa from <xref ref-type="bibr" rid="B7">Brothers and Carpenter (1993)</xref> had indicated their placement in <tp:taxon-name>Chrysidoidea</tp:taxon-name> (Brothers <italic>pers. obs</italic>.), but a more focused study in the context of the <tp:taxon-name>Chrysidoidea</tp:taxon-name> as a whole is required to establish their true relationship, and <!--PageBreak-->coincidentally confirm or refute existing estimates of the relationships of the chrysidoid families. As reported and discussed below, it is concluded that they represent not only a new genus and species, but are indeed most appropriately allocated to a new family.</p>
+        </sec>
+        <sec sec-type="Materials and methods">
+            <title>Materials and methods</title>
+            <p>The two amber pieces (<xref ref-type="fig" rid="F2">Figures 3–4</xref>), each embedded in epoxy as described by <xref ref-type="bibr" rid="B31">Nascimbene and Silverstein (2000)</xref>, were studied using standard methods and illustrated using stacked photographs taken with a Canon Powershot G10 digital camera adapted to Wild M7 and Wild M11 microscopes using a Clearshot 600 adapter kit (Alexis Scientific) and combined with CombineZP software (<xref ref-type="bibr" rid="B27">Hadley 2010</xref>). Drawings were done using a drawing tube and a Wild M8 microscope and subsequently digitised and corrected with reference to photographs, using CorelDraw X4. As with all fossils, some character states were not absolutely clear, but the most-probable states inferred (as explained in the species description) are those used in the analyses; if such states could not be inferred then they are coded as unknown. The specimens used for the analyses are listed in Appendix A. Terminology has been adapted from previous relevant studies.</p>
+            <p>Previous cladistic analyses of the <tp:taxon-name>Chrysidoidea</tp:taxon-name> and <tp:taxon-name>Plumariidae</tp:taxon-name> (e.g. Brothers, 1999; <xref ref-type="bibr" rid="B11">Carpenter 1999</xref>; <xref ref-type="bibr" rid="B15">Diez, Roig Alsina and Hidalgo 2010</xref>) have all rooted the trees using hypothetical ancestors with all-primitive states, based on comparisons with either Aculeata s.str. or other chrysidoids, and have utilised groundplans. For this analysis I used exemplars of the various taxa, both outgroup and ingroup, and thus made no a priori assumptions about probable direction of state changes, and thereby also included estimates of polymorphisms. Exemplars rather than groundplans were utilised, as advocated by <xref ref-type="bibr" rid="B37">Prendini (2001)</xref>, but scorings for individual specimens were often combined to produce “summary” terminals with specified polymorphisms (see <xref ref-type="table" rid="T1">Table 1</xref>) rather than maintaining them as separate terminals. Since <tp:taxon-name>Chrysidoidea</tp:taxon-name> is the sister group of Aculeata s.str. (a clade with more-derived states for many characters, as shown by previous analyses), using only members of Aculeata s.str. as outgroups may have been misleading. In addition to other aculeates, I therefore included specimens representing various non-aculeate taxa which have previously been suspected as close relatives of Aculeata (<tp:taxon-name>Ichneumonidae</tp:taxon-name>, <tp:taxon-name>Trigonalidae</tp:taxon-name> and <tp:taxon-name>Evanioidea</tp:taxon-name>). Separate analyses were done using only Aculeata s.str. representatives as outgroup (similar to the approach of <xref ref-type="bibr" rid="B11">Carpenter 1999</xref>) and using the expanded outgroup to investigate the influence of using more or less distant taxa as outgroups. For the ingroup, in addition to the two fossil specimens, specimens of all genera of <tp:taxon-name>Plumariidae</tp:taxon-name> and most subfamilies or (for the smaller families) genera of the other families of <tp:taxon-name>Chrysidoidea</tp:taxon-name> were examined (Appendix A). In all cases, only males were used since we have no idea what the females of the fossil taxon were like, and there is often considerable sexual dimorphism in chrysidoids and aculeates in general. In a few cases states were derived from or checked in the literature (e.g.,<!--PageBreak--> <xref ref-type="bibr" rid="B33">Olmi 1984</xref>, <xref ref-type="bibr" rid="B34">1995</xref>, <xref ref-type="bibr" rid="B35">2005</xref>; <xref ref-type="bibr" rid="B33">Gauld and Bolton 1988</xref>; <xref ref-type="bibr" rid="B30">Kimsey and Bohart 1990</xref>; <xref ref-type="bibr" rid="B7">Brothers and Carpenter 1993</xref>; <xref ref-type="bibr" rid="B19">Finnamore and Brothers 1993</xref>; <xref ref-type="bibr" rid="B29">Huber and Sharkey 1993</xref>; <xref ref-type="bibr" rid="B38">Prentice, Poinar and Milki 1996</xref>; <xref ref-type="bibr" rid="B8">Brothers and Janzen 1999</xref>; <xref ref-type="bibr" rid="B47">Terayama 2003b</xref>) specially where the condition of the specimens caused uncertainty, or states were scored as unknown (“?”) for taxa where I had only one or two specimens which could therefore not be dissected. The 90 characters used (see Appendix B) were chosen from those used in previous analyses for plumariid genera, chrysidoid families and aculeates in general, as well as a few newly discovered. The range of characters was thus greater than used in previous analyses.</p>
+            <p>Parsimony analyses by TNT (<xref ref-type="bibr" rid="B21">Goloboff, Farris and Nixon 2008a</xref>, <xref ref-type="bibr" rid="B22">b</xref>) were performed using the default settings unless otherwise noted (traditional search, 10 000 replications, tree memory 100 000 trees); implied weighting was implemented using various values of <italic>k</italic> but only those for <italic>k</italic> = 2.5 are reported (this seems to be a reasonable value for the size of the matrix and level of homoplasy found, see <xref ref-type="bibr" rid="B23">Goloboff et al. 2008</xref>). Where several most-parsimonious cladograms (MPCs) were found, only the strict consensus is reported. WinClada (<xref ref-type="bibr" rid="B32">Nixon 2002</xref>) was used for tree analysis and drawing; branch lengths reflect optimisation of unambiguous states only, with branches unsupported by such states collapsed. In addition to analyses where most characters were considered to be additive (as shown in Appendix B), analyses were also done considering all characters non-additive to investigate the effects of removing all hypotheses of evolutionary direction. Relative group support for all analyses, using GC values which are frequency differences (<xref ref-type="bibr" rid="B24">Goloboff et al. 2003</xref>), was estimated by symmetric resampling using TNT (new technology search using ratchet, drift and tree fusing, 10 000 replications, tree memory 100 000 trees).</p>
+        </sec>
+        <sec sec-type="Systematic palaeontology">
+            <title>Systematic palaeontology</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>Family</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="family">Plumalexiidae</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:621025A6-DE9F-445E-8D8B-05194B6EECF7</object-id>
+                    		<object-id xlink:type="simple">http://species-id.net/wiki/Plumalexiidae</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Brothers</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">fam. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type genus">
+                    <title>Type genus.</title>
+                    <p><italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> Brothers, new genus.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>Male. Pronotum forming a short convex band reaching tegula; propleura closely associated, anterodorsally exposed as a short neck, posteriorly swollen and transversely truncate; prosternum short and scarcely exposed medially; mesopleuron large and swollen; metasternum somewhat depressed. Forewing with pterostigma very large, seven closed cells (costal, basal, subbasal, marginal, first and second submarginals, first discal), second submarginal cell with long anterior margin, no accessory veins in apical membrane. Hind wing with closed cells (basal and subbasal at least), anal (vannal/plical) lobe well developed; jugal lobe absent. Coxae subglobose, trochanters inserted apically.</p>
+                    <p>Female. Unknown.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>Genus</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Plumalexius</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:80D51C18-95CB-435D-9794-0CBB59936091</object-id>
+                    		<object-id xlink:type="simple">http://species-id.net/wiki/Plumalexius</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Brothers</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">gen. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species">
+                    <title>Type species:</title>
+                    <p><italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> Brothers, new species</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology:</title>
+                    <p>The genus name, which is masculine, is derived from “<tp:taxon-name>Plumariidae</tp:taxon-name>”, to which it was first assigned, and “Alexandr”, the first name of Professor Dr Rasnitsyn, honoured in this Festschrift.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis:</title>
+                    <p>Male. Compound eye oval with convex inner margin; antenna with many long fine erect setae (number of antennomeres unknown); mandible with four apical teeth along truncate apical margin; maxillary palp at least 5-segmented; labial palp at least 3-segmented. Pronotum much shorter than mesoscutum, with slight anterior collar (flange) and posteroventral angle rounded; mesoscutum transverse; notaulus distinct, complete; tegula small, convex; metapostnotum apparently about as long as metanotum; propodeum long, weakly constricted apically; meso-metapleural suture straight. Hind wing with two closed cells, vein C present only basally, anal (vannal/plical) lobe less than half length of wing. Tibiae without spines or strong setae; tibial spurs 1–2–2; basitarsomeres much longer than other tarsomeres; arolia large; claws simple. Metasoma ovoid, sessile basally, apical tergum apparently simple, seventh sternum reduced, hypopygium simple with convex apex.</p>
+                    <p>Female. Unknown.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Plumalexius</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">rasnitsyni</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:20DEDD72-2F53-43D6-B455-E987604C0265</object-id>
+                    		<object-id xlink:type="simple">http://species-id.net/wiki/Plumalexius_rasnitsyni</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Brothers</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Figs 3</xref>
+                    <xref ref-type="fig" rid="F3"></xref>
+                    <xref ref-type="fig" rid="F4"></xref>
+                    <xref ref-type="fig" rid="F5">–13</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material">
+                    <title>Type material:</title>
+                    <p>Holotype male (<xref ref-type="fig" rid="F2">Figures 3</xref>, <xref ref-type="fig" rid="F3">5–9</xref>), in heavily fractured block of yellowish amber embedded in a trapezoidal epoxy matrix about 22 × 10 × 7 mm, with labels as follows: “NEW JERSEY Amber: / Late Cretaceous / NEW JERSEY: Middlesex Co / Sayreville, White Oaks Pit / 1995, coll.Paul Nascimbene / AMNH no. NJ-695”, “NEW JERSEY Amber: / Late Cretaceous / AMNH no. NJ-695 / HYMENOPTERA:”, “Plumariidae” [Rasnitsyn’s handwriting], “HOLOTYPE / Plumalexius / rasnitsyni ♂ / D.J. Brothers, 2011” [red label, printed].</p>
+                    <p>Paratype male (<xref ref-type="fig" rid="F2">Figures 4</xref>, <xref ref-type="fig" rid="F4">10</xref>–<xref ref-type="fig" rid="F5">13</xref>), in heavily fractured block of yellowish amber embedded in a rectangular epoxy matrix about 18.5 × 13.5 × 9 mm, with labels as follows: “NEW JERSEY Amber: / Late Cretaceous / NEW JERSEY: Middlesex Co / Sayreville, White Oaks Pit / 1995, coll.Paul Nascimbene / AMNH no. NJ-175”, “NEW JERSEY Amber: / Late Cretaceous / AMNH no. NJ-175 / HYMENOPTERA: / Family? (PN-2a) / Plumariidae” [Rasnitsyn’s handwriting], “?Family / Det. L. Masner 1996”, “PARATYPE / Plumalexius / rasnitsyni ♂ / D.J. Brothers, 2011” [yellow label,<!--PageBreak--><!--PageBreak--> printed]. (This specimen is presumed to be a male because of its similarity to the holotype even though the metasoma is mostly not visible.)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology:</title>
+                    <p>The species name, a noun in the genitive case, honours Professor Dr Alexandr Rasnitsyn, who first recognised the significance of the specimens.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description</title>
+                    <p>(based on holotype, paratype data in parentheses where different or feature not visible in holotype): <bold>Male.</bold> Entirely pale yellowish (reddish) brown with venation slightly darker. Head and body length as preserved 2.03 (2.37) mm; estimated <!--PageBreak-->head length 0.24 (0.29) mm; estimated mesosoma length 0.80 (0.77) mm; estimated metasoma length 0.90 (0.89) mm; approximate forewing length 1.32 (1.46) mm; approximate hindwing length 1.03 (1.17) mm. Head and metasoma with scattered fine<!--PageBreak--><!--PageBreak--> short erect setae, mesosoma almost glabrous, antennal pedicel and flagellomeres with fine long erect setae; legs with dense recumbent setae and scattered semi-erect setae.</p>
+                    <p>Head: Hypognathous; about as wide as high; vertex evenly rounded. Eye ovate with convex inner margin, moderately protuberant, apparently glabrous, ommatidia distinct. Ocelli ovate, large. Occipital carina distinct. Frons and clypeus weakly convex; clypeus transverse with convex anterior/apical margin. Gena simple. Antennal sockets simple, apparently about as close to eyes as to each other, apparently close to posterior/dorsal margin of clypeus. Antennal scape about as long as wide (distinctly flattened posterolaterally and broadened towards apex), with several erect setae; pedicel (about half length of scape and of first flagellomere), with many fine long erect setae; (flagellomeres 1–4 becoming slightly longer sequentially, with many fine long erect setae). Mandible long, evenly broad and curved; two prominent short curved setae on lateral surface; apex truncate with four similar sharp teeth, apical tooth the longest. Maxillary palp at least 5-segmented; labial palp at least 3-segmented [palp bases concealed by foam but segmentation inferred from assumed points of origin].</p>
+                    <p>Mesosoma ovate, about twice as long as wide/high. Pronotum forming a curved oblique ribbon anterolateral to mesoscutum, broader medially than posterolaterally; posterodorsal margin evenly concave; posterolateral margin strongly emarginate and approaching tegula dorsally; posteroventral angle broadly rounded; anteroventrally with slight collar (flange) but leaving propleura exposed anteriorly. Propleura closely associated or fused; anteriorly produced as a short neck; swollen posteriorly; posterior margin apparently almost straight but exposing small part of prosternum medially; forecoxae approximated. Mesoscutum shorter than wide, moderately convex; notaulus distinct and complete, weakly diverging anteriorly; tegula small and convex. (Mesoscutellum apparently almost as long as scutum, weakly convex.) Mesopleuron large and convex; meso-metapleural suture distinct, almost straight. Mesosternum with posteromedial margin almost straight and apparently slightly overhanging mesocoxal base; mesocoxae slightly separated. (Metanotum short and transverse, flattened, not constricted medially. Metapostnotum apparently as long as metanotum, slightly depressed.) Metasternum apparently somewhat depressed. Metacoxae slightly separated. Propodeum slightly longer than mesoscutum, weakly convex but more strongly so posteriorly although without any defined posterior declivity; incision between mesosoma and metasoma weak.</p>
+                    <p>Forewing broad, about 2.2 × as long as wide, about 1.7 (1.8) × as long as mesosoma, with seven closed cells, veins approaching but not reaching margin. Costal cell well developed, broad. Pterostigma large, about 0.19 × as long and 0.17 (0.20) × as wide as wing, entirely sclerotised. Marginal cell about 2.38 (2.17) × as long as wide, 1.41 (1.52) × as long as pterostigma, apex acute. First submarginal cell about 2.08 (2.61) × as long as wide, 0.81 (0.80) × as long as marginal cell. Second submarginal cell almost as large as pterostigma, broadly sessile anteriorly, about 0.64 (0.57) × as long as first submarginal cell. Veins tubular except for nebulous free apical sections of M, Cu and A. No trace of any accessory vein(s) in apical membrane. Prestigmal vein (Sc+R) scarcely swollen, about 1.33 (1.37) × as long as vein 1Rs. Crossvein cu-a distinctly <!--PageBreak-->postfurcal, about 1.33 (1.75) × as long as 1Cu. Vein Cu2 absent, first subdiscal cell broadly open apically.</p>
+                    <p>Hind wing about 0.8 × as long as forewing. (Basal and subbasal cells closed by tubular veins; costal cell open anteriorly, vein C present only basally. Veins tubular except for nebulous free apical sections of Rs, M, Cu and A. A few basal hamuli present in a cluster; about five apical hamuli. Crossvein rs-m long, about 2.67 × as long as 1Rs. Vein 1M very short, about 0.13 × as long as 2M+Cu. Crossvein cu-a distantly antefurcal, 2M+Cu about 0.57 × as long as 1M+Cu. Anal (vannal/plical) lobe apically delimited by moderate incision, lobe about 1.19 × as long as submedian cell, about 0.4 × as long as wing.) Jugal lobe absent.</p>
+                    <p>Legs well developed, moderate in size; trochanters well developed and cylindrical; no trochantelli; tibiae without any spines or strong setae; basitarsomeres long, about as long as next three tarsomeres combined; all arolia large and flattened; claws simple ventrally. Foreleg with coxa subglobose, trochanter inserted apically; femur slightly swollen, with inner/anterior surface flattened; tibia with simple, weakly curved, bladelike calcar subapically. Mid- and hind legs with coxae globose, hind coxa somewhat larger than mid-coxa; tibiae each with two straight simple apical spurs, inner spur somewhat longer than outer.</p>
+                    <p>Metasoma elongate oval, about 2.6 (indeterminable in paratype) × as long as wide/high; terga subequal in length. First tergum broad, weakly contracted toward base, profile evenly merging with second. First sternum apparently simple and evenly overlapping second. Seventh tergum apparently simple with apical margin convex. Seventh sternum apparently reduced and mostly concealed. Hypopygium simple, weakly convex, with narrowly rounded apical margin. Cercus apparently present, cylindrical. Genitalia with paramere apparently broadly rounded apically.</p>
+                    <p><bold>Female.</bold> Unknown.</p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figures 3–7.</label>
+                        <caption><p>New Jersey amber containing specimens of <italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> sp. nov. <bold>3</bold> Specimen NJ-695, holotype (circled) <bold>4</bold> Specimen NJ-175, paratype (circled) <bold>5–7</bold> Specimen NJ-695, holotype <bold>5</bold>  Ventrolateral view <bold>6</bold> Dorsolateral view <bold>7</bold> Detail, ventrolateral view.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-515-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figures 8–9.</label>
+                        <caption><p><italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> sp. nov., holotype. <bold>8</bold> Ventrolateral view <bold>9</bold> Dorsolateral view.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-515-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figures 10–11.</label>
+                        <caption><p><italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> sp. nov., specimen NJ-175, paratype. <bold>10</bold> Dorsolateral view <bold>11</bold> Details, dorsolateral view.</p></caption>
+                        <graphic xlink:href="ZooKeys-130-515-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figures 12–13.</label>
+                        <caption><p><italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> sp. nov. <bold>12</bold> Wings, based on both specimens <bold>13</bold> Paratype, dorsolateral view, right wings in grey. Abbreviations. Wing veins: A = anal, C = costa, Cu = cubitus, M = media, R = radius, RS = radial sector, Sc = subcosta (numerals indicate abscissae, all lower-case indicates crossveins); cells: <italic>BC</italic> = basal cell (cell R), <italic>CC</italic> = costal cell (cell C), <italic>DC</italic> = discal cell (cells 1M, 2M), <italic>MC</italic> = marginal cell (cell 2R1), <italic>SBC</italic> = subbasal cell (cell 1Cu), <italic>SDC</italic> = subdiscal cell (cell 2Cu), <italic>SMC</italic> = submarginal cell (cells 1R1, 1Rs, 2Rs).</p></caption>
+                        <graphic xlink:href="ZooKeys-130-515-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Results and discussion">
+            <title>Results and discussion</title>
+            <p><xref ref-type="table" rid="T1">Table 1</xref> shows the distribution of character states across the taxa.</p>
+            <p>The cladograms resulting from the analyses using an aculeate outgroup (illustrated using <tp:taxon-name>Anthoboscinae</tp:taxon-name>, but the relationships within the <tp:taxon-name>Chrysidoidea</tp:taxon-name> were not affected by changing this to any of the other three aculeates) are shown in <xref ref-type="fig" rid="F6">Figures 14–17</xref>. The consensus tree from the “equally weighted additive” analysis (<xref ref-type="fig" rid="F6">Figure 14</xref>) shows <tp:taxon-name>Chrysidoidea</tp:taxon-name> as monophyletic, all chrysidoid families also as monophyletic (although with their relationships often not convincingly resolved, as shown by several apparent clades having no or very low relative resampling support), <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> sister to <tp:taxon-name>Plumariidae</tp:taxon-name> (this clade sister to the remaining chrysidoids), and the plumariid genera with similar relationships to those found earlier (see <xref ref-type="fig" rid="F1">Figure 2</xref>). In contrast, although the consensus tree from the “equally weighted non-additive” analysis (<xref ref-type="fig" rid="F6">Figure 15</xref>) also shows <tp:taxon-name>Chrysidoidea</tp:taxon-name> as monophyletic, all chrysidoid families also as monophyletic (with their relationships even less resolved), and the same relationships for the plumariid genera,<!--PageBreak--><!--PageBreak--> (<italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> + <tp:taxon-name>Plumariidae</tp:taxon-name>) now groups with <tp:taxon-name>Sclerogibbidae</tp:taxon-name> and <tp:taxon-name>Dryinidae</tp:taxon-name>, although without relative support. The consensus tree from the “implicitly weighted additive” analysis (<xref ref-type="fig" rid="F6">Figure 16</xref>) shows similar relationships as the equally weighted version (<xref ref-type="fig" rid="F6">Figure 14</xref>), except that there is slightly greater resolution for the families of <tp:taxon-name>Chrysidoidea</tp:taxon-name> and <tp:taxon-name>Scolebythidae</tp:taxon-name> is no longer sister to <tp:taxon-name>Chrysididae</tp:taxon-name> which is now monophyletic with <tp:taxon-name>Bethylidae</tp:taxon-name>, although some branches lack positive relative support values; there is also greater resolution for the plumariid genera. Similarly, the single MPC from the “implicitly weighted non-additive” analysis (<xref ref-type="fig" rid="F6">Figure 17</xref>) produced improved resolution, showing (<tp:taxon-name>Bethylidae</tp:taxon-name> + <tp:taxon-name>Chrysididae</tp:taxon-name>) as monophyletic, but <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> is grouped with the chrysidoids other than <tp:taxon-name>Plumariidae</tp:taxon-name> (although without positive relative branch support). The differences from previous analyses, most strikingly involving <tp:taxon-name>Scolebythidae</tp:taxon-name> and <tp:taxon-name>Sclerogibbidae</tp:taxon-name> (see <xref ref-type="fig" rid="F1">Figure 1</xref>), are probably due to two factors: the use of exemplars instead of groundplans (introducing polymorphisms), and the position of the Aculeata s.str. outgroup taxa as relatively more derived than the <tp:taxon-name>Chrysidoidea</tp:taxon-name>.</p>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figures 14–17.</label>
+                <caption><p><tp:taxon-name>Chrysidoidea</tp:taxon-name> relationships using Aculeata s.str.(<tp:taxon-name>Anthoboscinae</tp:taxon-name>) as outgroup <bold>14</bold> Characters equally weighted, some characters additive (strict consensus of 4 MPCs, raw lengths 383, CI = 0.41, RI = 0.71) <bold>15</bold> Characters equally weighted, all characters non-additive (strict consensus of 4 MPCs, raw lengths 349, CI = 0.45, RI = 0.71) <bold>16</bold> Characters implicitly weighted (<italic>k</italic> = 2.5), some characters additive (strict consensus of 2 MPCs, raw lengths 386, CI = 0.41, RI = 0.71) <bold>17</bold> Characters implicitly weighted (<italic>k</italic> = 2.5), all characters non-additive (1 MPC, raw length 352, CI = 0.44, RI = 0.70). Notes: <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> shown in red, genera of <tp:taxon-name>Plumariidae</tp:taxon-name> shown in blue. Numbers are estimated GC branch-support values (see text); branches without numbers showed no positive support under the resampling protocol used.</p></caption>
+                <graphic xlink:href="ZooKeys-130-515-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p>Data matrix for analyses of relationships of members of <tp:taxon-name>Chrysidoidea</tp:taxon-name>. (Specimens used shown in Appendix A, characters in Appendix B. Values between square brackets indicate polymorphisms.)</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Characters</bold></td>
+                            <td rowspan="1" colspan="1"><bold>1 - 10</bold></td>
+                            <td rowspan="1" colspan="1"><bold>11 - 20</bold></td>
+                            <td rowspan="1" colspan="1"><bold>21 - 30</bold></td>
+                            <td rowspan="1" colspan="1"><bold>31 - 40</bold></td>
+                            <td rowspan="1" colspan="1"><bold>41 - 50</bold></td>
+                            <td rowspan="1" colspan="1"><bold>51 - 60</bold></td>
+                            <td rowspan="1" colspan="1"><bold>61 - 70</bold></td>
+                            <td rowspan="1" colspan="1"><bold>71 - 80</bold></td>
+                            <td rowspan="1" colspan="1"><bold>81 - 90</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Taxa</bold></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">*<tp:taxon-name>Ichneumonidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">010100000[012]</td>
+                            <td rowspan="1" colspan="1">000021000[01]</td>
+                            <td rowspan="1" colspan="1">001[01]000202</td>
+                            <td rowspan="1" colspan="1">000[01]1000[03]0</td>
+                            <td rowspan="1" colspan="1">001[01]21[01]00[12]</td>
+                            <td rowspan="1" colspan="1">[45]02?00010[12]</td>
+                            <td rowspan="1" colspan="1">0[34]00000100</td>
+                            <td rowspan="1" colspan="1">002001000[02]</td>
+                            <td rowspan="1" colspan="1">0000000000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">*<tp:taxon-name>Trigonalidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1100010012</td>
+                            <td rowspan="1" colspan="1">0000[01]01000</td>
+                            <td rowspan="1" colspan="1">0010000202</td>
+                            <td rowspan="1" colspan="1">0011100030</td>
+                            <td rowspan="1" colspan="1">1000201001</td>
+                            <td rowspan="1" colspan="1">000000000[01]</td>
+                            <td rowspan="1" colspan="1">0301000100</td>
+                            <td rowspan="1" colspan="1">0000000000</td>
+                            <td rowspan="1" colspan="1">0000022200</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">*<tp:taxon-name>Evaniidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">0001100100</td>
+                            <td rowspan="1" colspan="1">0000000001</td>
+                            <td rowspan="1" colspan="1">0010100202</td>
+                            <td rowspan="1" colspan="1">0011101033</td>
+                            <td rowspan="1" colspan="1">5021011001</td>
+                            <td rowspan="1" colspan="1">200-001103</td>
+                            <td rowspan="1" colspan="1">1402100000</td>
+                            <td rowspan="1" colspan="1">00000[01]0000</td>
+                            <td rowspan="1" colspan="1">1000001020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">*<tp:taxon-name>Gasteruptiidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">0211000100</td>
+                            <td rowspan="1" colspan="1">0000100101</td>
+                            <td rowspan="1" colspan="1">1100000202</td>
+                            <td rowspan="1" colspan="1">0011211033</td>
+                            <td rowspan="1" colspan="1">0011011001</td>
+                            <td rowspan="1" colspan="1">620-000103</td>
+                            <td rowspan="1" colspan="1">1412100100</td>
+                            <td rowspan="1" colspan="1">0001000000</td>
+                            <td rowspan="1" colspan="1">1000001020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Anthoboscinae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">0110001112</td>
+                            <td rowspan="1" colspan="1">0001200000</td>
+                            <td rowspan="1" colspan="1">1002100100</td>
+                            <td rowspan="1" colspan="1">1002100030</td>
+                            <td rowspan="1" colspan="1">3300000001</td>
+                            <td rowspan="1" colspan="1">0000000000</td>
+                            <td rowspan="1" colspan="1">0400010000</td>
+                            <td rowspan="1" colspan="1">0001020000</td>
+                            <td rowspan="1" colspan="1">0000121001</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Sierolomorphidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">111001111[02]</td>
+                            <td rowspan="1" colspan="1">0001100000</td>
+                            <td rowspan="1" colspan="1">1002100100</td>
+                            <td rowspan="1" colspan="1">0001200012</td>
+                            <td rowspan="1" colspan="1">3112000010</td>
+                            <td rowspan="1" colspan="1">100-001001</td>
+                            <td rowspan="1" colspan="1">1401000100</td>
+                            <td rowspan="1" colspan="1">0011020000</td>
+                            <td rowspan="1" colspan="1">0000002301</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Ampulicidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">[01]110000110</td>
+                            <td rowspan="1" colspan="1">0001200001</td>
+                            <td rowspan="1" colspan="1">0000100011</td>
+                            <td rowspan="1" colspan="1">1011120043</td>
+                            <td rowspan="1" colspan="1">221[12]0101[01]1</td>
+                            <td rowspan="1" colspan="1">0000000000</td>
+                            <td rowspan="1" colspan="1">[01][04]01000[01]00</td>
+                            <td rowspan="1" colspan="1">0[01]2[23]0[12]0004</td>
+                            <td rowspan="1" colspan="1">010002[12]021</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Heterogynaidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">0110000100</td>
+                            <td rowspan="1" colspan="1">0001200001</td>
+                            <td rowspan="1" colspan="1">0000100011</td>
+                            <td rowspan="1" colspan="1">2011121043</td>
+                            <td rowspan="1" colspan="1">2211010111</td>
+                            <td rowspan="1" colspan="1">300-110100</td>
+                            <td rowspan="1" colspan="1">1101010100</td>
+                            <td rowspan="1" colspan="1">0023000004</td>
+                            <td rowspan="1" colspan="1">0000020221</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1??0000?02</td>
+                            <td rowspan="1" colspan="1">20100??100</td>
+                            <td rowspan="1" colspan="1">1?0?1?0???</td>
+                            <td rowspan="1" colspan="1">00001?001?</td>
+                            <td rowspan="1" colspan="1">????1?0010</td>
+                            <td rowspan="1" colspan="1">6100000011</td>
+                            <td rowspan="1" colspan="1">1401010110</td>
+                            <td rowspan="1" colspan="1">1023000000</td>
+                            <td rowspan="1" colspan="1">0??001000?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Plumarius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0001100111</td>
+                            <td rowspan="1" colspan="1">2131101101</td>
+                            <td rowspan="1" colspan="1">1100100000</td>
+                            <td rowspan="1" colspan="1">0000100111</td>
+                            <td rowspan="1" colspan="1">4412211000</td>
+                            <td rowspan="1" colspan="1">6101010011</td>
+                            <td rowspan="1" colspan="1">0001010100</td>
+                            <td rowspan="1" colspan="1">002201[01][01]03</td>
+                            <td rowspan="1" colspan="1">0100010000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Plumaroides</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0000011102</td>
+                            <td rowspan="1" colspan="1">0001112220</td>
+                            <td rowspan="1" colspan="1">1001111200</td>
+                            <td rowspan="1" colspan="1">1000100120</td>
+                            <td rowspan="1" colspan="1">3422211000</td>
+                            <td rowspan="1" colspan="1">6101111010</td>
+                            <td rowspan="1" colspan="1">1001011110</td>
+                            <td rowspan="1" colspan="1">1123020000</td>
+                            <td rowspan="1" colspan="1">011211100?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Myrmecopterina</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0[12]10100111</td>
+                            <td rowspan="1" colspan="1">2011101101</td>
+                            <td rowspan="1" colspan="1">1100100000</td>
+                            <td rowspan="1" colspan="1">0000100102</td>
+                            <td rowspan="1" colspan="1">44[12][12]211000</td>
+                            <td rowspan="1" colspan="1">6102110011</td>
+                            <td rowspan="1" colspan="1">1001010110</td>
+                            <td rowspan="1" colspan="1">1022011003</td>
+                            <td rowspan="1" colspan="1">0101011000</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Myrmecopterinella</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0000001202</td>
+                            <td rowspan="1" colspan="1">2001213200</td>
+                            <td rowspan="1" colspan="1">0001111200</td>
+                            <td rowspan="1" colspan="1">11001?1132</td>
+                            <td rowspan="1" colspan="1">?411211010</td>
+                            <td rowspan="1" colspan="1">620-011011</td>
+                            <td rowspan="1" colspan="1">1301010110</td>
+                            <td rowspan="1" colspan="1">0013220000</td>
+                            <td rowspan="1" colspan="1">010001010?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Maplurius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0000011102</td>
+                            <td rowspan="1" colspan="1">2121113220</td>
+                            <td rowspan="1" colspan="1">1001111200</td>
+                            <td rowspan="1" colspan="1">1000100120</td>
+                            <td rowspan="1" colspan="1">3412211010</td>
+                            <td rowspan="1" colspan="1">6101011011</td>
+                            <td rowspan="1" colspan="1">1001011110</td>
+                            <td rowspan="1" colspan="1">1122020010</td>
+                            <td rowspan="1" colspan="1">010111020?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Mapluroides</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0000011102</td>
+                            <td rowspan="1" colspan="1">0001112220</td>
+                            <td rowspan="1" colspan="1">1001121200</td>
+                            <td rowspan="1" colspan="1">10000?0120</td>
+                            <td rowspan="1" colspan="1">?411211000</td>
+                            <td rowspan="1" colspan="1">6101011012</td>
+                            <td rowspan="1" colspan="1">0001011110</td>
+                            <td rowspan="1" colspan="1">1122020000</td>
+                            <td rowspan="1" colspan="1">010111020?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pluroides</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0000011102</td>
+                            <td rowspan="1" colspan="1">0001113210</td>
+                            <td rowspan="1" colspan="1">1001111200</td>
+                            <td rowspan="1" colspan="1">10001?0120</td>
+                            <td rowspan="1" colspan="1">?411211000</td>
+                            <td rowspan="1" colspan="1">6101011011</td>
+                            <td rowspan="1" colspan="1">0001011110</td>
+                            <td rowspan="1" colspan="1">1122020000</td>
+                            <td rowspan="1" colspan="1">010211100?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scolebythus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1110000100</td>
+                            <td rowspan="1" colspan="1">2000000100</td>
+                            <td rowspan="1" colspan="1">0020001000</td>
+                            <td rowspan="1" colspan="1">1000101020</td>
+                            <td rowspan="1" colspan="1">3301000011</td>
+                            <td rowspan="1" colspan="1">620-001012</td>
+                            <td rowspan="1" colspan="1">2222110111</td>
+                            <td rowspan="1" colspan="1">0002000000</td>
+                            <td rowspan="1" colspan="1">0100021020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pristapenesia</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1??0000100</td>
+                            <td rowspan="1" colspan="1">0000[02]00100</td>
+                            <td rowspan="1" colspan="1">00200010??</td>
+                            <td rowspan="1" colspan="1">[12]0001?10??</td>
+                            <td rowspan="1" colspan="1">?322000111</td>
+                            <td rowspan="1" colspan="1">65[01]-00101?</td>
+                            <td rowspan="1" colspan="1">2222110111</td>
+                            <td rowspan="1" colspan="1">0002100000</td>
+                            <td rowspan="1" colspan="1">0100010020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ycaploca</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">1110000100</td>
+                            <td rowspan="1" colspan="1">1000000100</td>
+                            <td rowspan="1" colspan="1">0020001000</td>
+                            <td rowspan="1" colspan="1">1000101020</td>
+                            <td rowspan="1" colspan="1">3312000010</td>
+                            <td rowspan="1" colspan="1">620-001012</td>
+                            <td rowspan="1" colspan="1">2222110111</td>
+                            <td rowspan="1" colspan="1">0012100000</td>
+                            <td rowspan="1" colspan="1">0100021020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Mesitiinae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1130000122</td>
+                            <td rowspan="1" colspan="1">20[01]0001000</td>
+                            <td rowspan="1" colspan="1">0000100010</td>
+                            <td rowspan="1" colspan="1">0011011032</td>
+                            <td rowspan="1" colspan="1">4122010111</td>
+                            <td rowspan="1" colspan="1">651-000012</td>
+                            <td rowspan="1" colspan="1">2522110100</td>
+                            <td rowspan="1" colspan="1">0021000004</td>
+                            <td rowspan="1" colspan="1">0100020210</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Epyrinae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">111000012[02]</td>
+                            <td rowspan="1" colspan="1">0000001000</td>
+                            <td rowspan="1" colspan="1">0000100000</td>
+                            <td rowspan="1" colspan="1">1011011032</td>
+                            <td rowspan="1" colspan="1">4122010111</td>
+                            <td rowspan="1" colspan="1">651-001111</td>
+                            <td rowspan="1" colspan="1">2522110100</td>
+                            <td rowspan="1" colspan="1">0021020004</td>
+                            <td rowspan="1" colspan="1">0100010010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Pristocerinae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1[01][012]0000120</td>
+                            <td rowspan="1" colspan="1">[02]0[01]0[02]01000</td>
+                            <td rowspan="1" colspan="1">0000100000</td>
+                            <td rowspan="1" colspan="1">101101[01]032</td>
+                            <td rowspan="1" colspan="1">4122010111</td>
+                            <td rowspan="1" colspan="1">651-001111</td>
+                            <td rowspan="1" colspan="1">2522110100</td>
+                            <td rowspan="1" colspan="1">0021020004</td>
+                            <td rowspan="1" colspan="1">0100020210</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Cleptinae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1000000100</td>
+                            <td rowspan="1" colspan="1">0000111000</td>
+                            <td rowspan="1" colspan="1">1010001000</td>
+                            <td rowspan="1" colspan="1">0011110133</td>
+                            <td rowspan="1" colspan="1">3122001111</td>
+                            <td rowspan="1" colspan="1">651-001111</td>
+                            <td rowspan="1" colspan="1">2211110100</td>
+                            <td rowspan="1" colspan="1">0012000004</td>
+                            <td rowspan="1" colspan="1">0100022020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Amiseginae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1110001100</td>
+                            <td rowspan="1" colspan="1">0000221000</td>
+                            <td rowspan="1" colspan="1">1010000010</td>
+                            <td rowspan="1" colspan="1">0011210[01]33</td>
+                            <td rowspan="1" colspan="1">4122001011</td>
+                            <td rowspan="1" colspan="1">651-001011</td>
+                            <td rowspan="1" colspan="1">1222110100</td>
+                            <td rowspan="1" colspan="1">0013000003</td>
+                            <td rowspan="1" colspan="1">0100022020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Elampini</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1110001100</td>
+                            <td rowspan="1" colspan="1">0001011001</td>
+                            <td rowspan="1" colspan="1">1010000000</td>
+                            <td rowspan="1" colspan="1">00111?0033</td>
+                            <td rowspan="1" colspan="1">?222001011</td>
+                            <td rowspan="1" colspan="1">65[01]-001110</td>
+                            <td rowspan="1" colspan="1">1322110100</td>
+                            <td rowspan="1" colspan="1">0013000004</td>
+                            <td rowspan="1" colspan="1">0100022??0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Allocoeliini</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">111000?100</td>
+                            <td rowspan="1" colspan="1">0001211001</td>
+                            <td rowspan="1" colspan="1">1010000000</td>
+                            <td rowspan="1" colspan="1">00111?0033</td>
+                            <td rowspan="1" colspan="1">?222001011</td>
+                            <td rowspan="1" colspan="1">651-001110</td>
+                            <td rowspan="1" colspan="1">1222110100</td>
+                            <td rowspan="1" colspan="1">0013000001</td>
+                            <td rowspan="1" colspan="1">0?00022??0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Parnopini</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">111000110[02]</td>
+                            <td rowspan="1" colspan="1">0001244001</td>
+                            <td rowspan="1" colspan="1">1010001000</td>
+                            <td rowspan="1" colspan="1">00111?0033</td>
+                            <td rowspan="1" colspan="1">?[02]22001012</td>
+                            <td rowspan="1" colspan="1">651-000112</td>
+                            <td rowspan="1" colspan="1">1322110110</td>
+                            <td rowspan="1" colspan="1">0113010004</td>
+                            <td rowspan="1" colspan="1">0100022??0</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Chrysidini</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1110001100</td>
+                            <td rowspan="1" colspan="1">0001211001</td>
+                            <td rowspan="1" colspan="1">1010000000</td>
+                            <td rowspan="1" colspan="1">0011[12]10[01]33</td>
+                            <td rowspan="1" colspan="1">4[02]12001011</td>
+                            <td rowspan="1" colspan="1">651-00111[013]</td>
+                            <td rowspan="1" colspan="1">13[12][12]110110</td>
+                            <td rowspan="1" colspan="1">0013000004</td>
+                            <td rowspan="1" colspan="1">0100022020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sclerogibba</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0220001020</td>
+                            <td rowspan="1" colspan="1">1001111100</td>
+                            <td rowspan="1" colspan="1">1000100010</td>
+                            <td rowspan="1" colspan="1">0011100022</td>
+                            <td rowspan="1" colspan="1">5121110012</td>
+                            <td rowspan="1" colspan="1">630-000012</td>
+                            <td rowspan="1" colspan="1">2223110100</td>
+                            <td rowspan="1" colspan="1">1022010002</td>
+                            <td rowspan="1" colspan="1">0100010010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Probethylus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">0220001020</td>
+                            <td rowspan="1" colspan="1">1001132100</td>
+                            <td rowspan="1" colspan="1">1000110010</td>
+                            <td rowspan="1" colspan="1">0011100012</td>
+                            <td rowspan="1" colspan="1">5121110012</td>
+                            <td rowspan="1" colspan="1">630-000012</td>
+                            <td rowspan="1" colspan="1">2223110100</td>
+                            <td rowspan="1" colspan="1">1022010002</td>
+                            <td rowspan="1" colspan="1">0100010010</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Gonatopodinae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1220001310</td>
+                            <td rowspan="1" colspan="1">10001[02][12]201</td>
+                            <td rowspan="1" colspan="1">0010000000</td>
+                            <td rowspan="1" colspan="1">0001100132</td>
+                            <td rowspan="1" colspan="1">5022100010</td>
+                            <td rowspan="1" colspan="1">650-001112</td>
+                            <td rowspan="1" colspan="1">1423110110</td>
+                            <td rowspan="1" colspan="1">1022100002</td>
+                            <td rowspan="1" colspan="1">0100022020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryininae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1[12][12]0000310</td>
+                            <td rowspan="1" colspan="1">1000101[12]01</td>
+                            <td rowspan="1" colspan="1">0000100000</td>
+                            <td rowspan="1" colspan="1">0011100132</td>
+                            <td rowspan="1" colspan="1">5022[01]00010</td>
+                            <td rowspan="1" colspan="1">650-001112</td>
+                            <td rowspan="1" colspan="1">2523110100</td>
+                            <td rowspan="1" colspan="1">1022100002</td>
+                            <td rowspan="1" colspan="1">0100022020</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Embolemidae</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">[01]1[12]1000300</td>
+                            <td rowspan="1" colspan="1">[01]0000[123][12]001</td>
+                            <td rowspan="1" colspan="1">0000120012</td>
+                            <td rowspan="1" colspan="1">0011101[01]32</td>
+                            <td rowspan="1" colspan="1">5[23]12100111</td>
+                            <td rowspan="1" colspan="1">6[45][01]-00[01][01]1[012]</td>
+                            <td rowspan="1" colspan="1">1423110110</td>
+                            <td rowspan="1" colspan="1">0022000002</td>
+                            <td rowspan="1" colspan="1">01000[12]1020</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <fn>
+                        <p>*Non-aculeate outgroup taxa excluded from some analyses (see text)</p>
+                    </fn>
+                </table-wrap-foot>
+            </table-wrap>
+            <p>To try to address the second of the above concerns, analyses were done using four non-Aculeata as outgroup. The resulting cladograms (<xref ref-type="fig" rid="F7">Figures 18–21</xref>) are presented with <tp:taxon-name>Ichneumonidae</tp:taxon-name> as outgroup, but using any of the other three non-aculeates made no difference to the relationships shown for the <tp:taxon-name>Chrysidoidea</tp:taxon-name>. The consensus tree from the “equally weighted additive” analysis (<xref ref-type="fig" rid="F7">Figure 18</xref>) shows <tp:taxon-name>Chrysidoidea</tp:taxon-name> as monophyletic, all chrysidoid families also as monophyletic (but their relationships still sometimes unconventional), <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> basal to <tp:taxon-name>Plumariidae</tp:taxon-name> (with high support), and the plumariid genera with similar relationships to those found earlier. Although the study was not intended to reflect the relationships amongst the outgroup taxa, it is interesting that Aculeata s.str. (<tp:taxon-name>Vespoidea</tp:taxon-name> and <tp:taxon-name>Apoidea</tp:taxon-name>) appears as paraphyletic in this analysis. The consensus tree from the “equally weighted non-additive” analysis (<xref ref-type="fig" rid="F7">Figure 19</xref>) also shows <tp:taxon-name>Chrysidoidea</tp:taxon-name> as monophyletic (but with <tp:taxon-name>Embolemidae</tp:taxon-name> as basal), all chrysidoid families also as monophyletic but with most relationships very different from previous findings (except that <tp:taxon-name>Bethylidae</tp:taxon-name> and <tp:taxon-name>Chrysididae</tp:taxon-name> are well supported as monophyletic, and many of the family relationships have no positive relative branch support), with <tp:taxon-name>Plumariidae</tp:taxon-name> (and <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> sister to it) appearing as most closely related to <tp:taxon-name>Sclerogibbidae</tp:taxon-name> and <tp:taxon-name>Dryinidae</tp:taxon-name>; the relationships for the plumariid genera remain consistent. Aculeata s.str. now appears as polyphyletic, with <tp:taxon-name>Evanioidea</tp:taxon-name> interpolated between <tp:taxon-name>Vespoidea</tp:taxon-name> and <tp:taxon-name>Apoidea</tp:taxon-name>. The single MPC resulting from the “implicitly weighted additive” analysis (<xref ref-type="fig" rid="F7">Figure 20</xref>) is fully resolved, shows <tp:taxon-name>Chrysidoidea</tp:taxon-name> as monophyletic, all chrysidoid families as monophyletic, <tp:taxon-name>Plumariidae</tp:taxon-name> (and <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> sister to it) as sister to the remaining chrysidoids, and the relationships of those families as found by previous analyses (see <xref ref-type="fig" rid="F1">Figure 1</xref>); the relationships of the plumariid genera also agree with previous analyses (see <xref ref-type="fig" rid="F1">Figure 2</xref>), except that <italic><tp:taxon-name>Plumaroides</tp:taxon-name></italic> appears as sister to <italic><tp:taxon-name>Pluroides</tp:taxon-name></italic> rather than <italic><tp:taxon-name>Mapluroides</tp:taxon-name></italic>. Aculeata s.str. is paraphyletic but with the apparent sister-group relationship of <tp:taxon-name>Apoidea</tp:taxon-name> to <tp:taxon-name>Chrysidoidea</tp:taxon-name> not supported (the resampling analysis instead showed a monophyletic Aculeata s.str. as supported with a value of 12). The “implicitly weighted non-additive” analysis also produced a single MPC (<xref ref-type="fig" rid="F7">Figure 21</xref>) with a monophyletic <tp:taxon-name>Chrysidoidea</tp:taxon-name>, monophyletic chrysidoid families, <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> sis<!--PageBreak-->ter to <tp:taxon-name>Plumariidae</tp:taxon-name>, and <tp:taxon-name>Bethylidae</tp:taxon-name> and <tp:taxon-name>Chrysididae</tp:taxon-name> forming a monophyletic group but apparently sister to <tp:taxon-name>Scolebythidae</tp:taxon-name> (but without relative branch support); relationships for the plumariid genera are the same as for the “additive” analysis. Aculeata s.str. is now monophyletic (with good support) and sister to <tp:taxon-name>Chrysidoidea</tp:taxon-name> (with some positive support). It is notable that the chrysidoid relationships shown are more similar to those for the “additive” analyses than those seen in the “unweighted non-additive” analysis.</p>
+            <fig id="F7" position="float" orientation="portrait">
+                <label>Figures 18–21.</label>
+                <caption><p><tp:taxon-name>Chrysidoidea</tp:taxon-name> relationships using non-Aculeata (<tp:taxon-name>Ichneumonidae</tp:taxon-name>) as outgroup <bold>18</bold> Characters equally weighted, some characters additive (strict consensus of 12 MPCs, raw lengths 468, CI = 0.35, RI = 0.68) <bold>19</bold> Characters equally weighted, all characters non-additive (strict consensus of 4 MPCs, raw lengths 423, CI = 0.39, RI = 0.67) <bold>20</bold> Characters implicitly weighted (<italic>k</italic> = 2.5), some characters additive (1 MPC, raw length 473, CI = 0.35, RI = 0.68) <bold>21</bold> Characters implicitly weighted (<italic>k</italic> = 2.5), all characters non-additive (1 MPC, raw length 426, CI = 0.38, RI = 0.67). Note: <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> shown in red, genera of <tp:taxon-name>Plumariidae</tp:taxon-name> shown in blue. Numbers are estimated GC branch-support values (see text); branches without numbers showed no positive support under the resampling protocol used.</p></caption>
+                <graphic xlink:href="ZooKeys-130-515-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>At first sight, consideration of all of the above results, involving not only the placement of <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> but even more the relationships amongst the other chrysidoids,<!--PageBreak--><!--PageBreak--> has produced a slightly confused picture, perhaps not unexpected for a set of analyses using exemplars and considerable polymorphism, and also based on characters which have previously been used at very different levels. The limitation of having to exclude all characters restricted to females (many of which have proved extremely informative in previous analyses, and one of which, the presence of an articulation within gonocoxite IX, is probably the most significant unique synapomorphy for <tp:taxon-name>Chrysidoidea</tp:taxon-name>) has also had an effect. Nevertheless, it is gratifying that the results of most previous studies have been confirmed, or at least not convincingly contradicted. Accordingly, I consider that the cladogram which agrees best with those results, one using an expanded outgroup and additive characters, and derived using implied weighting (an approach advocated by <xref ref-type="bibr" rid="B23">Goloboff et al. 2008</xref>), should be considered the preferred current estimate of the relationships of the families of <tp:taxon-name>Chrysidoidea</tp:taxon-name> and the genera of <tp:taxon-name>Plumariidae</tp:taxon-name>. This is shown in <xref ref-type="fig" rid="F8">Figure 22</xref>, elaborated and adjusted from <xref ref-type="fig" rid="F7">Figure 20</xref>, with Aculeata s.str. shown as monophyletic (which increased the length of the tree by a single step) and the relationships of the tribes of <tp:taxon-name>Chrysidinae</tp:taxon-name> resolved to reflect that found (and supported) most often in all analyses (which did not alter the tree length). It must be noted that, although for each family some subfamilies, tribes and genera are also shown, and their apparent relationships often (but not always) agree with other recent studies (such as <xref ref-type="bibr" rid="B11">Carpenter 1999</xref>; <xref ref-type="bibr" rid="B46">Terayama 2003a</xref>; <xref ref-type="bibr" rid="B17">Engel and Grimaldi 2007</xref>; <xref ref-type="bibr" rid="B12">Carr, Young and Mayhew 2010</xref>), not all subfamilies or tribes are represented by exemplars, nor are all genera included (except for the <tp:taxon-name>Plumariidae</tp:taxon-name>), and the characters used did not necessarily include all those which have been found useful within all of the families, so these results are incomplete in that respect; the aim of including the exemplars used was to reflect the variation found within the families rather than to discover intra-family relationships (except for <tp:taxon-name>Plumariidae</tp:taxon-name>).</p>
+            <fig id="F8" position="float" orientation="portrait">
+                <label>Figure 22.</label>
+                <caption><p>Preferred cladogram of families of <tp:taxon-name>Chrysidoidea</tp:taxon-name> and genera of <tp:taxon-name>Plumariidae</tp:taxon-name> (raw length 474, CI = 0.35, RI = 0.68) showing only unambiguous character-state changes. Notes: open hashmarks indicate homoplasious states, black hatchmarks indicate unique states; character numbers above, state numbers below (polymorphisms separated by commas).</p></caption>
+                <graphic xlink:href="ZooKeys-130-515-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p><italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> seems convincingly indicated as sister to the <tp:taxon-name>Plumariidae</tp:taxon-name>, although one analysis was ambiguous about this; trees with it placed as sister to the remaining chrysidoids or as sister to the <tp:taxon-name>Chrysidoidea</tp:taxon-name> as a whole differ in length from that shown in <xref ref-type="fig" rid="F8">Figure 22</xref> by only 4 and 5 steps respectively (lengths 478 and 479 compared with 474), emphasising its relatively basal position. It does not share any unique synapomorphies with <tp:taxon-name>Plumariidae</tp:taxon-name>, however (the five unambiguous states supporting the sister relationship to <tp:taxon-name>Plumariidae</tp:taxon-name> are 11-2: flagellomere setae conspicuous and erect; 21-1: pronotal posteroventral margin strongly concave; 45-1: metasternum weakly depressed anteromedially; 50-0: pterostigma large and prominent; and 87-0: hypopygium completely exposed or almost so, all states found elsewhere in relatively distantly related taxa). The long erect flagellar setae of <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> and some <tp:taxon-name>Plumariidae</tp:taxon-name> have been indicated as a putative synapomorphy for the family (Rasnitsyn 2002: Fig. 331). The arrangement of the setae in <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> is most similar to that in <italic><tp:taxon-name>Myrmecopterina</tp:taxon-name></italic>, although the setae are less dense and considerably longer in <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic>, but the present analysis has shown that other plumariid genera lack such setae and, conversely, they are also present in some <tp:taxon-name>Scolebythidae</tp:taxon-name> and <tp:taxon-name>Bethylidae</tp:taxon-name> at least; prominent flagellomere setae are actually found widely in the <tp:taxon-name>Chrysidoidea</tp:taxon-name>. The other most obvious similarity, more extensive venation in both wings than in other chrysidoids, is a symplesiomorphy. <!--PageBreak-->It is thus evident that there is no key apomorphy associating <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> with the <tp:taxon-name>Plumariidae</tp:taxon-name> sufficient to assign it to that family. Were that to be done, the expanded family would lose its present defining features, such as the presence of apical accessory<!--PageBreak--> veins in the wing membrane, the reduced second submarginal cell and the tapered mandibles with few apical teeth. In view of this, I conclude that the best solution is to propose a new family for it, as has been done above, something which also emphasises its distinctiveness. In contrast to the specialised morphology of <tp:taxon-name>Scolebythidae</tp:taxon-name>, showing several adaptations enabling the effective parasitisation of wood-boring beetle larvae, the morphology of <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> provides little clue as to its biology, specially since the female is unknown. The male looks like a very generalised wasp, probably very similar to the form ancestral to <tp:taxon-name>Chrysidoidea</tp:taxon-name> as a whole.</p>
+            <p>Apart from the above results, the variety of analyses performed has shown that the use only of an outgroup which is sister to the ingroup, and which may have many characters with relatively more-derived states than the ingroup, may produce misleading or ambiguous results (<xref ref-type="fig" rid="F6">Figs 14–17</xref> all show different relationships from the preferred result). Instead, the outgroup should be expanded to include taxa similarly related to both the ingroup and its sister group. Furthermore, the use of additive characters where reasonable inferences of additivity can be made is likely to produce better-resolved cladograms than if all characters are considered non-additive, and it seems that using implied weighting not only improves the results obtained under both scenarios, but also reduces the uncertainty induced by considering all characters non-additive. The results obtained here, therefore, indicate that wherever possible additive characters and a method (such as implied weighting) which gives greater weight to the more reliable characters should be used.</p>
+            <p>Whether <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> is sister to <tp:taxon-name>Plumariidae</tp:taxon-name> or not affects the estimated minimum age of <tp:taxon-name>Plumariidae</tp:taxon-name>: if it is, then Rasnitsyn’s (2002, 2010) estimate remains reasonable (after all, the common ancestor of two lineages must be at least as old as either lineage), but if it is sister to the remaining chrysidoids or to <tp:taxon-name>Chrysidoidea</tp:taxon-name> as a whole, then that estimate for <tp:taxon-name>Plumariidae</tp:taxon-name> is poorly founded. Since all other chrysidoid lineages date from the Early Cretaceous (<xref ref-type="bibr" rid="B16">Engel and Grimaldi 2006</xref>; <xref ref-type="bibr" rid="B41">Rasnitsyn 2010</xref>), that would also be the estimated minimum age for <tp:taxon-name>Plumariidae</tp:taxon-name> itself if it is considered to be sister to the other chrysidoids rather than to <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic>. In any case, the presence of a group apparently closely related to <tp:taxon-name>Plumariidae</tp:taxon-name> in North America in the Cretaceous requires reassessment of ideas on the geographic origin of <tp:taxon-name>Plumariidae</tp:taxon-name>, making it unlikely that the group arose on Gondwanaland. Like the <tp:taxon-name>Scolebythidae</tp:taxon-name>, it is probable that the modern members are scattered relicts of a group with a previously much more extensive distribution. The discovery of fossils clearly attributable to <tp:taxon-name>Plumariidae</tp:taxon-name> will be critical in solving the puzzle, but such fossils are not very likely to be found if members of the family have always been adapted to arid environments, probably being parasitoids of subterranean hosts (<xref ref-type="bibr" rid="B18">Evans 1967</xref>), most likely beetle larvae. In contrast, <tp:taxon-name>Scolebythidae</tp:taxon-name> tend to be found in wooded or forest habitats as parasitoids of wood-boring beetle larvae, and thus have often been entombed in exuded resin and become inclusions in amber, facilitating their later discovery. Both <italic><tp:taxon-name>Plumalexius</tp:taxon-name></italic> and <italic><tp:taxon-name>Boreobythus</tp:taxon-name></italic> <xref ref-type="bibr" rid="B17">Engel and Grimaldi 2007</xref> (<tp:taxon-name>Scolebythidae</tp:taxon-name>) were found in the same amber deposits, putatively derived from temperate coastal or deltaic swamps of coniferous trees (<xref ref-type="bibr" rid="B26">Grimaldi, Shedrinsky and Wampler 2000</xref>), an environment very different from those where modern <tp:taxon-name>Plumariidae</tp:taxon-name> exist.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>I am most grateful to Alex Rasnitsyn for bringing the New Jersey fossils to my attention; it is with the greatest pleasure that I dedicate this paper to him in commemoration of his 75<sup>th</sup> birthday. I am also grateful to David Grimaldi (American Museum of Natural History, New York) for lending the specimens to me and for comments on some characters; to Arturo Roig-Alsina (Museo Argentino de Ciencias Naturales “Bernardino Rivadavia”, Buenos Aires) for the donation of specimens of <italic><tp:taxon-name>Maplurius</tp:taxon-name></italic>, <italic><tp:taxon-name>Mapluroides</tp:taxon-name></italic>, <italic><tp:taxon-name>Plumaroides</tp:taxon-name></italic> and <italic><tp:taxon-name>Pluroides</tp:taxon-name></italic>; to Simon van Noort (Iziko South African Museum, Cape Town) for the loan of a specimen of <italic><tp:taxon-name>Myrmecopterinella</tp:taxon-name></italic>; and to several other colleagues who have donated specimens of wasps over the years or provided useful insights. Doug Lundberg of Ambericawest (USA) very kindly gave me a piece of Dominican amber containing a specimen of <italic><tp:taxon-name>Pristapenesia inopinata</tp:taxon-name></italic>. Jim Carpenter (American Museum of Natural History) provided useful advice on some procedures for the analyses. Financial support from the University of KwaZulu-Natal Research Office is gratefully acknowledged.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Azevedo</surname> <given-names>CO</given-names></name><name name-style="western"><surname>Xu</surname> <given-names>Z</given-names></name><name name-style="western"><surname>Beaver</surname> <given-names>RA</given-names></name></person-group> (<year>2011</year>)<article-title> A new species of <italic>Pristapenesia</italic> Brues (Hymenoptera, Scolebythidae) from Asia.</article-title> <source>Zootaxa </source> <volume>2750</volume>: <fpage>60</fpage>-<lpage>64</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name></person-group> (<year>1974</year>)<article-title> The genera of Plumariidae, with description of a new genus and species from Argentina (Hymenoptera: Bethyloidea).</article-title> <source>Journal of the Entomological Society of Southern Africa </source> <volume>37</volume>: <fpage>351</fpage>-<lpage>356</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name></person-group> (<year>1984</year>)<source> The first female Plumariidae (Hymenoptera: Chrysidoidea) from Southern Africa. XVII International Congress of Entomology, Hamburg, Germany, Abstract R1.6.4, p. 24.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name></person-group> (<year>1999</year>)<article-title> Phylogeny and evolution of wasps, ants and bees (Hymenoptera, Chrysidoidea, Vespoidea and Apoidea).</article-title> <source>Zoologica Scripta </source> <volume>28</volume>: <fpage>233</fpage>-<lpage>249</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1463-6409.1999.00003.x" xlink:type="simple">10.1046/j.1463-6409.1999.00003.x</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name></person-group> (<year>2003</year>)<source> A new family of chrysidoid wasps? Proceedings of the 14<sup>th</sup> Entomological Congress, Entomological Society of Southern Africa, Pretoria, p. 13.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name></person-group> (<year>2004</year>)<source> A new family of chrysidoid Hymenoptera from New Jersey Cretaceous amber. Abstracts, XXII International Congress of Entomology, Brisbane, Australia (on CD).</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Carpenter</surname> <given-names>JM</given-names></name></person-group> (<year>1993</year>)<article-title> Phylogeny of Aculeata: Chrysidoidea and Vespoidea (Hymenoptera).</article-title> <source>Journal of Hymenoptera Research </source> <volume>2</volume>: <fpage>227</fpage>-<lpage>304</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Janzen</surname> <given-names>J-W</given-names></name></person-group> (<year>1999</year>)<source> New generic synonymy in Scolebythidae, with redescription of both sexes of <italic>Pristapenesia primaeva</italic> Brues from Baltic amber (Hymenoptera: Chrysidoidea). Proceedings of the First International Palaeoentomological Conference, Moscow, AMBA/AM/PFICM98/1.99, 17–26.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Rasnitsyn</surname> <given-names>AP</given-names></name></person-group> (<year>2000a</year>)<source> Evolution of the enigmatic Plumariidae (Insecta: Hymenoptera: Chrysidoidea). Multidisciplinary Approaches to Systematics, Second Conference of the Southern African Society for Systematic Biology, Mtunzini, Abstracts, p. 24.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Rasnitsyn</surname> <given-names>AP</given-names></name></person-group> (<year>2000b</year>)<source> Evolution of the enigmatic Plumariidae (Insecta: Hymenoptera: Chrysidoidea). XVIIIth International Congress of Zoology, Athens, Greece, Book of Abstracts p. 172.</source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carpenter</surname> <given-names>JM</given-names></name></person-group> (<year>1999</year>)<article-title> What do we know about chrysidoid (Hymenoptera) relationships?</article-title> <source>Zoologica Scripta </source> <volume>28</volume>: <fpage>215</fpage>-<lpage>231</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1463-6409.1999.00011.x" xlink:type="simple">10.1046/j.1463-6409.1999.00011.x</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carr</surname> <given-names>M</given-names></name><name name-style="western"><surname>Young</surname> <given-names>JPW</given-names></name><name name-style="western"><surname>Mayhew</surname> <given-names>PJ</given-names></name></person-group> (<year>2010</year>)<article-title> Phylogeny of bethylid wasps (Hymenoptera: Bethylidae) inferred from 28S and 16S rRNA genes.</article-title> <source>Insect Systematics and Evolution </source> <volume>41</volume>: <fpage>55</fpage>-<lpage>73</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1163/187631210X486995" xlink:type="simple">10.1163/187631210X486995</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>CSIRO</surname></name></person-group> (<year>2011</year>)<source> Australian insect families, website viewed 16 May 2011, <ext-link ext-link-type="uri" xlink:href="http://anic.ento.csiro.au/insectfamilies">http://anic.ento.csiro.au/insectfamilies</ext-link></source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Davis</surname> <given-names>RB</given-names></name><name name-style="western"><surname>Baldauf</surname> <given-names>SL</given-names></name><name name-style="western"><surname>Mayhew</surname> <given-names>PJ</given-names></name></person-group> (<year>2010</year>)<source> The origins of species richness in the Hymenoptera: insights from a family-level supertree. BMC Evolutionary Biology 10: 109, <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2148/10/109">http://www.biomedcentral.com/1471-2148/10/109</ext-link>, 16 pp.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Diez</surname> <given-names>PA</given-names></name><name name-style="western"><surname>Roig-Alsina</surname> <given-names>A</given-names></name><name name-style="western"><surname>Fidalgo</surname> <given-names>P</given-names></name></person-group> (<year>2010</year>)<article-title> Phylogenetic relationships of <italic>Pluroides porteri</italic>, a new genus and species of Plumariidae from Argentina (Hymenoptera: Chrysidoidea).</article-title> <source>Journal of Hymenoptera Research </source> <volume>19</volume>: <fpage>113</fpage>-<lpage>120</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Grimaldi</surname> <given-names>DA</given-names></name></person-group> (<year>2006</year>)<article-title> The first Cretaceous sclerogibbid wasp (Hymenoptera: Sclerogibbidae).</article-title> <source>American Museum Novitates </source> <volume>3515</volume>: <fpage>1</fpage>-<lpage>7</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0082(2006)3515[1:TFCSWH]2.0.CO" xlink:type="simple">10.1206/0003-0082(2006)3515[1:TFCSWH]2.0.CO</ext-link>;2</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Grimaldi</surname> <given-names>DA</given-names></name></person-group> (<year>2007</year>)<article-title> Cretaceous Scolebythidae and phylogeny of the family (Hymenoptera: Chrysidoidea).</article-title> <source>American Museum Novitates </source> <volume>3568</volume>: <fpage>1</fpage>-<lpage>16</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0082(2007)475[1:CSAPOT]2.0.CO" xlink:type="simple">10.1206/0003-0082(2007)475[1:CSAPOT]2.0.CO</ext-link>;2</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Evans</surname> <given-names>HE</given-names></name></person-group> (<year>1967</year>)<article-title> Discovery of the female <italic>Plumarius</italic> (Hymenoptera, Plumariidae).</article-title> <source>Psyche </source> <volume>73</volume>: <fpage>229</fpage>-<lpage>237</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Finnamore</surname> <given-names>AT</given-names></name><name name-style="western"><surname>Brothers</surname> <given-names>DJ</given-names></name></person-group> (<year>1993</year>)<article-title> Chapter 7. Superfamily Chrysidoidea.</article-title> In: <person-group><name name-style="western"><surname>Goulet</surname> <given-names>H</given-names></name><name name-style="western"><surname>Huber</surname> <given-names>JT</given-names></name></person-group> (<role>Eds</role>). <issue-title> Hymenoptera of the world: an identification guide to families.</issue-title> <source>Agriculture Canada Publication 1894/E, Ottawa</source>: <fpage>130</fpage>-<lpage>160</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gauld</surname> <given-names>I</given-names></name><name name-style="western"><surname>Bolton</surname> <given-names>B</given-names></name></person-group> (<role>Eds</role>) (<year>1988</year>)<source> The Hymenoptera. Oxford University Press, Oxford.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goloboff</surname> <given-names>P</given-names></name><name name-style="western"><surname>Farris</surname> <given-names>S</given-names></name><name name-style="western"><surname>Nixon</surname> <given-names>K</given-names></name></person-group> (<year>2008a</year>)<source> TNT (Tree analysis using New Technology) (BETA) ver. 1.1. Published by the authors, Tucumán, Argentina. Downloaded with sponsorship of the Willi Hennig Society from <ext-link ext-link-type="uri" xlink:href="http://www.zmuc.dk/public/phylogeny/TNT/">http://www.zmuc.dk/public/phylogeny/TNT/</ext-link></source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goloboff</surname> <given-names>P</given-names></name><name name-style="western"><surname>Farris</surname> <given-names>S</given-names></name><name name-style="western"><surname>Nixon</surname> <given-names>K</given-names></name></person-group> (<year>2008b</year>)<article-title> TNT, a free program for phylogenetic analysis.</article-title> <source>Cladistics </source> <volume>24</volume>: <fpage>774</fpage>-<lpage>786</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-0031.2008.00217.x" xlink:type="simple">10.1111/j.1096-0031.2008.00217.x</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goloboff</surname> <given-names>PA</given-names></name><name name-style="western"><surname>Carpenter</surname> <given-names>JM</given-names></name><name name-style="western"><surname>Arias</surname> <given-names>JS</given-names></name><name name-style="western"><surname>Miranda Esquivel</surname> <given-names>DR</given-names></name></person-group> (<year>2008</year>)<article-title> Weighting against homoplasy improves phylogenetic analysis of morphological data sets.</article-title> <source>Cladistics </source> <volume>24</volume>: <fpage>758</fpage>-<lpage>773</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-0031.2008.00209.x" xlink:type="simple">10.1111/j.1096-0031.2008.00209.x</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Goloboff</surname> <given-names>PA</given-names></name><name name-style="western"><surname>Farris</surname> <given-names>JS</given-names></name><name name-style="western"><surname>Källersjö</surname> <given-names>M</given-names></name><name name-style="western"><surname>Oxelman</surname> <given-names>B</given-names></name><name name-style="western"><surname>Ramírez</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Szumik</surname> <given-names>CA</given-names></name></person-group> (<year>2003</year>)<article-title> Improvements to resampling measures of group support.</article-title> <source>Cladistics </source> <volume>19</volume>: <fpage>324</fpage>-<lpage>332</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grimaldi</surname> <given-names>D</given-names></name><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name></person-group> (<year>2005</year>)<source> Evolution of the insects. Cambridge University Press, New York.</source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grimaldi</surname> <given-names>D</given-names></name><name name-style="western"><surname>Shedrinsky</surname> <given-names>A</given-names></name><name name-style="western"><surname>Wampler</surname> <given-names>TP</given-names></name></person-group> (<year>2000</year>)<article-title> A remarkable deposit of fossiliferous amber from the Upper Cretaceous (Turonian) of New Jersey.</article-title> In: <person-group><name name-style="western"><surname>Grimaldi</surname> <given-names>D</given-names></name></person-group> (<role>Ed.</role>). <issue-title> Studies on fossils in amber, with particular reference to the Cretaceous of New Jersey.</issue-title> <source>Backhuys Publishers, Leiden, The Netherlands</source>: <fpage>1</fpage>-<lpage>76</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hadley</surname> <given-names>A</given-names></name></person-group> (<year>2010</year>)<source> CombineZP software. Downloaded from <ext-link ext-link-type="uri" xlink:href="http://www.hadleyweb.pwp.blueyonder.co.uk/CZP/files.htm">http://www.hadleyweb.pwp.blueyonder.co.uk/CZP/files.htm</ext-link></source></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heraty</surname> <given-names>J</given-names></name><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Carpenter</surname> <given-names>JM</given-names></name><name name-style="western"><surname>Hawks</surname> <given-names>D</given-names></name><name name-style="western"><surname>Schulmeister</surname> <given-names>S</given-names></name><name name-style="western"><surname>Dowling</surname> <given-names>AP</given-names></name><name name-style="western"><surname>Murray</surname> <given-names>D</given-names></name><name name-style="western"><surname>Munro</surname> <given-names>J</given-names></name><name name-style="western"><surname>Wheeler</surname> <given-names>WC</given-names></name><name name-style="western"><surname>Schiff</surname> <given-names>N</given-names></name><name name-style="western"><surname>Sharkey</surname> <given-names>M</given-names></name></person-group> (<year>2011</year>)<article-title> Evolution of the hymenopteran megaradiation.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>60</volume>: <fpage>73</fpage>-<lpage>88</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2011.04.003" xlink:type="simple">10.1016/j.ympev.2011.04.003</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huber</surname> <given-names>JT</given-names></name><name name-style="western"><surname>Sharkey</surname> <given-names>MJ</given-names></name></person-group> (<year>1993</year>)<article-title> Chapter 3. Structure.</article-title> In: <person-group><name name-style="western"><surname>Goulet</surname> <given-names>H</given-names></name><name name-style="western"><surname>Huber</surname> <given-names>JT</given-names></name></person-group> (<role>Eds</role>). <issue-title> Hymenoptera of the world: an identification guide to families.</issue-title> <source>Agriculture Canada Publication 1894/E, Ottawa</source>: <fpage>13</fpage>-<lpage>59</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kimsey</surname> <given-names>LS</given-names></name><name name-style="western"><surname>Bohart</surname> <given-names>RM</given-names></name></person-group> (<year>1990</year>)<source> The chrysidid wasps of the world. Oxford University Press, New York.</source></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nascimbene</surname> <given-names>P</given-names></name><name name-style="western"><surname>Silverstein</surname> <given-names>H</given-names></name></person-group> (<year>2000</year>)<article-title> The preparation of fragile Cretaceous ambers for conservation and study of organismal inclusions.</article-title> In: <person-group><name name-style="western"><surname>Grimaldi</surname> <given-names>D</given-names></name></person-group> (<role>Ed.</role>). <issue-title> Studies on fossils in amber, with particular reference to the Cretaceous of New Jersey.</issue-title> <source>Backhuys Publishers, Leiden, The Netherlands</source>: <fpage>93</fpage>-<lpage>102</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nixon</surname> <given-names>KC</given-names></name></person-group> (<year>2002</year>)<source> WinClada ver. 1.00.08. Published by the author, Ithaca, NY. Available from <ext-link ext-link-type="uri" xlink:href="http://www.cladistics.com/aboutWinc.htm">http://www.cladistics.com/aboutWinc.htm</ext-link></source></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Olmi</surname> <given-names>M</given-names></name></person-group> (<year>1984</year>)<source> A revision of the Dryinidae (Hymenoptera). Memoirs of the American Entomological Institute 37 (Parts 1; 2): i–xii, 1–946; 947–1913.</source></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Olmi</surname> <given-names>M</given-names></name></person-group> (<year>1995</year>)<source> A revision of the world Embolemidae (Hymenoptera Chrysidoidea). Frustula Entomologica Nuova Serie XVIII (XXXI): 85–146.</source></mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Olmi</surname> <given-names>M</given-names></name></person-group> (<year>2005</year>)<source> A revision of the world Sclerogibbidae (Hymenoptera Chrysidoidea). Frustula Entomologica Nuova Serie XXVI-XXVII (XXXIX-XL): 46–193.</source></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ortega-Blanco</surname> <given-names>J</given-names></name><name name-style="western"><surname>Delclòs</surname> <given-names>X</given-names></name><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name></person-group> (<year>2011</year>)<article-title> The wasp family Embolemidae in Early Cretaceous amber from Spain (Hymenoptera: Chrysidoidea).</article-title> <source>Journal of the Kansas Entomological Society </source> <volume>84</volume>: <fpage>36</fpage>-<lpage>42</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2317/JKES100628.1" xlink:type="simple">10.2317/JKES100628.1</ext-link></mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Prendini</surname> <given-names>L</given-names></name></person-group> (<year>2001</year>)<article-title> Species or supraspecific taxa as terminals in cladistic analysis? Groundplans versus exemplars revisited.</article-title> <source>Systematic Biology </source> <volume>50</volume>: <fpage>290</fpage>-<lpage>300</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10635150118650" xlink:type="simple">10.1080/10635150118650</ext-link></mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Prentice</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Poinar</surname> <given-names>GO</given-names></name><name name-style="western"><surname>Milki</surname> <given-names>R</given-names></name></person-group> (<year>1996</year>)<article-title> Fossil scolebythids (Hymenoptera: Scolebythidae) from Lebanese and Dominican amber.</article-title> <source>Proceedings of the Entomological Society of Washington </source> <volume>98</volume>: <fpage>802</fpage>-<lpage>811</lpage>.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Quintero</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Cambra</surname> <given-names>TR</given-names></name></person-group> (<year>2010</year>)<article-title> First records of Plumariidae (Hymenoptera) from Paraguay and comments on the females of <italic>Plumaroides tiphlus</italic> Diez and <italic>Plumarius coquimbo</italic> Perez D’Angello.</article-title> <source>Entomological News </source> <volume>121</volume>: <fpage>41</fpage>-<lpage>44</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3157/021.121.0108" xlink:type="simple">10.3157/021.121.0108</ext-link></mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rasnitsyn</surname> <given-names>AP</given-names></name></person-group> (<year>2002</year>)<article-title> 2.2.1.3.5. Superorder Vespidea Laicharting, 1781. Order Hymenoptera Linné, 1758 (= Vespida Laicharting, 1781).</article-title> In: <person-group><name name-style="western"><surname>Rasnitsyn</surname> <given-names>AP</given-names></name><name name-style="western"><surname>Quicke</surname> <given-names>DLJ</given-names></name></person-group> (<role>Eds</role>). <issue-title> History of insects.</issue-title> <source>Kluwer Academic Publishers, Dordrecht, The Netherlands</source>: <fpage>242</fpage>-<lpage>254</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/0-306-47577-4" xlink:type="simple">10.1007/0-306-47577-4</ext-link></mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rasnitsyn</surname> <given-names>AP</given-names></name></person-group> (<year>2010</year>)<article-title> Molecular phylogenetics, morphological cladistics, and fossil record.</article-title> <source>Entomologicheskoe Obozrenie </source> <volume>89</volume>: <fpage>85</fpage>-<lpage>132</lpage>. [In Russian; English translation in Entomological Review 90: 263–298]</mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roig-Alsina</surname> <given-names>A</given-names></name></person-group> (<year>1994</year>)<article-title> A new genus of Plumariidae, with notes on the relationships among the genera of the family (Hymenoptera, Chrysidoidea, Plumariidae).</article-title> <source>Mitteilungen der Münchner Entomologischen Gesellschaft </source> <volume>84</volume>: <fpage>91</fpage>-<lpage>96</lpage>.</mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name></person-group> (<year>1999</year>)<article-title> Phylogeny of the Hymenoptera (Insecta): the state of the art.</article-title> <source>Zoologica Scripta </source> <volume>28</volume>: <fpage>3</fpage>-<lpage>11</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1463-6409.1999.00019.x" xlink:type="simple">10.1046/j.1463-6409.1999.00019.x</ext-link></mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Rasnitsyn</surname> <given-names>AP</given-names></name><name name-style="western"><surname>Roy</surname> <given-names>A</given-names></name><name name-style="western"><surname>Eriksson</surname> <given-names>K</given-names></name><name name-style="western"><surname>Lindgren</surname> <given-names>M</given-names></name></person-group> (<year>1999</year>)<article-title> Phylogeny of the Hymenoptera: a cladistic reanalysis of Rasnitsyn’s (1988) data.</article-title> <source>Zoologica Scripta </source> <volume>28</volume>: <fpage>13</fpage>-<lpage>50</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1463-6409.1999.00023.x" xlink:type="simple">10.1046/j.1463-6409.1999.00023.x</ext-link></mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sharkey</surname> <given-names>MJ</given-names></name></person-group> (<year>2007</year>)<article-title> Phylogeny and classification of Hymenoptera.</article-title> In: <person-group><name name-style="western"><surname>Zhang,</surname> <given-names>Z-Q</given-names></name><name name-style="western"><surname>Shear</surname> <given-names>WA</given-names></name></person-group> (<role>Eds</role>). <issue-title> Linnaeus tercentenary: progress in invertebrate taxonomy.</issue-title> <source>Zootaxa </source> <volume>1668</volume>: <fpage>521</fpage>–<lpage>548</lpage>.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Terayama</surname> <given-names>M</given-names></name></person-group> (<year>2003a</year>)<article-title> Phylogenetic systematics of the family Bethylidae (Insecta: Hymenoptera) Part I. Higher classification.</article-title> <source>Academic Reports Faculty of Engineering Tokyo Polytechnic University </source> <volume>26</volume>: <fpage>1</fpage>-<lpage>15</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Terayama</surname> <given-names>M</given-names></name></person-group> (<year>2003b</year>)<article-title> Phylogenetic systematics of the family Bethylidae (Insecta: Hymenoptera) Part II. Keys to subfamilies, tribes and genera in the world.</article-title> <source>Academic Reports Faculty of Engineering Tokyo Polytechnic University </source> <volume>26</volume>: <fpage>16</fpage>-<lpage>29</lpage>.</mixed-citation></ref>
+        </ref-list>
+        <app-group>
+        <app>
+            <title>Appendix A. Specimens (all males) utilised for derivation of Table 1</title>
+            <p>All specimens are in D.J. Brothers’ collection (to be deposited in Iziko South African Museum, Cape Town (SAM), in due course) unless otherwise stated.</p>
+            <p><tp:taxon-name>Ichneumonoidea</tp:taxon-name>:</p>
+            <p><tp:taxon-name>Ichneumonidae</tp:taxon-name>: <italic><tp:taxon-name>Cryptinae</tp:taxon-name></italic> sp. (S. Africa), <tp:taxon-name>Pimplinae</tp:taxon-name> spp. (2, Malawi, S. Africa)</p>
+            <p><tp:taxon-name>Trigonaloidea</tp:taxon-name>:</p>
+            <p><tp:taxon-name>Trigonalidae</tp:taxon-name>: <italic><tp:taxon-name>Taeniogonalos maculata</tp:taxon-name></italic> (Smith), <italic><tp:taxon-name>Trigonalys</tp:taxon-name></italic> ?<italic>micanticeps</italic> (Strand)</p>
+            <p><tp:taxon-name>Evanioidea</tp:taxon-name>:</p>
+            <p><tp:taxon-name>Evaniidae</tp:taxon-name>: <italic><tp:taxon-name>Evania</tp:taxon-name></italic> sp. (S. Africa), <italic><tp:taxon-name>Acanthinevania</tp:taxon-name></italic> sp. (Australia)</p>
+            <p><tp:taxon-name>Gasteruptiidae</tp:taxon-name>: <italic><tp:taxon-name>Gasteruption</tp:taxon-name></italic> spp. (2, Botswana, S. Africa)</p>
+            <p><tp:taxon-name>Vespoidea</tp:taxon-name>:</p>
+            <p><tp:taxon-name>Tiphiidae</tp:taxon-name>, <tp:taxon-name>Anthoboscinae</tp:taxon-name>: <italic><tp:taxon-name>Anthobosca</tp:taxon-name></italic> spp. (2, S. Africa)</p>
+            <p><tp:taxon-name>Sierolomorphidae</tp:taxon-name>: <italic><tp:taxon-name>Sierolomorpha bicolor</tp:taxon-name></italic> Evans, <italic><tp:taxon-name>Sierolomorpha canadensis</tp:taxon-name></italic> (Provancher)</p>
+            <p><tp:taxon-name>Apoidea</tp:taxon-name>:</p>
+            <p><tp:taxon-name>Ampulicidae</tp:taxon-name>: <italic><tp:taxon-name>Ampulex</tp:taxon-name></italic> spp. (2, S. Africa), <italic><tp:taxon-name>Dolichurus carbonarius</tp:taxon-name></italic> Smith</p>
+            <p><tp:taxon-name>Heterogynaidae</tp:taxon-name>: <italic><tp:taxon-name>Heterogyna protea</tp:taxon-name></italic> Nagy, <italic><tp:taxon-name>Heterogyna nocticola</tp:taxon-name></italic> Ohl, <italic><tp:taxon-name>Heterogyna madecassa</tp:taxon-name></italic> Day</p>
+            <p><tp:taxon-name>Chrysidoidea</tp:taxon-name>:</p>
+            <p><tp:taxon-name>Plumalexiidae</tp:taxon-name>: <italic><tp:taxon-name>Plumalexius rasnitsyni</tp:taxon-name></italic> sp. nov. (AMNH)</p>
+            <p><tp:taxon-name>Plumariidae</tp:taxon-name>: <italic><tp:taxon-name>Plumarius striaticeps</tp:taxon-name></italic> (André), <italic><tp:taxon-name>Plumarius</tp:taxon-name></italic> spp. (2, <tp:taxon-name>Argentina</tp:taxon-name>); <italic><tp:taxon-name>Plumaroides andalgalensis</tp:taxon-name></italic> Brothers, <italic><tp:taxon-name>Plumaroides brothersi</tp:taxon-name></italic> Diez and Roig-Alsina; <italic><tp:taxon-name>Myrmecopterina</tp:taxon-name></italic> spp. (3, Botswana, Namibia, S. Africa); <italic><tp:taxon-name>Myrmecopterinella</tp:taxon-name></italic> sp. (S. Africa) (SAM); <italic><tp:taxon-name>Maplurius spatulifer</tp:taxon-name></italic> Roig-Alsina; <italic><tp:taxon-name>Mapluroides ogloblini</tp:taxon-name></italic> Diez, Hidalgo and Roig-Alsina; <italic><tp:taxon-name>Pluroides porteri</tp:taxon-name></italic> Diez, Roig-Alsina and Hidalgo</p>
+            <p><tp:taxon-name>Scolebythidae</tp:taxon-name>: <italic><tp:taxon-name>Scolebythus madecassus</tp:taxon-name></italic> Evans; <italic><tp:taxon-name>Pristapenesia primaeva</tp:taxon-name></italic> Brues, <italic><tp:taxon-name>Pristapenesia inopinata</tp:taxon-name></italic> (Prentice and Poinar in Prentice, Poinar and Milki); <italic><tp:taxon-name>Ycaploca evansi</tp:taxon-name></italic> Nagy</p>
+            <!--PageBreak-->
+            <p><tp:taxon-name>Bethylidae</tp:taxon-name>: <tp:taxon-name>Mesitiinae</tp:taxon-name>: <italic><tp:taxon-name>Pilomesitius</tp:taxon-name></italic> ?<italic>madagascarensis</italic> Moczar, <italic><tp:taxon-name>Sulcomesitius</tp:taxon-name></italic> ?<italic>pondo</italic> (Benoit), <italic><tp:taxon-name>Sulcomesitius</tp:taxon-name></italic> ?<italic>schoutedeni</italic> (Benoit); <tp:taxon-name>Epyrinae</tp:taxon-name>: <italic><tp:taxon-name>Epyris</tp:taxon-name></italic> spp. (2, S. Africa); <tp:taxon-name>Pristocerinae</tp:taxon-name>: <italic><tp:taxon-name>Acrepyris fraterna</tp:taxon-name></italic> (Evans), ?<italic><tp:taxon-name>Pristocera</tp:taxon-name></italic> sp. (S. Africa), <italic><tp:taxon-name>Apenesia</tp:taxon-name></italic> sp. (S. Africa)</p>
+            <p><tp:taxon-name>Chrysididae</tp:taxon-name>: <tp:taxon-name>Cleptinae</tp:taxon-name>: <italic><tp:taxon-name>Cleptes alienus</tp:taxon-name></italic> Patton; <tp:taxon-name>Amiseginae</tp:taxon-name>: <italic><tp:taxon-name>Amisega similis</tp:taxon-name></italic> Kimsey, <italic><tp:taxon-name>Amisega flavicrus</tp:taxon-name></italic> Kimsey, <italic><tp:taxon-name>Bupon pashoanus</tp:taxon-name></italic> Kimsey; <tp:taxon-name>Chrysidinae</tp:taxon-name>: <tp:taxon-name>Elampini</tp:taxon-name>: <italic><tp:taxon-name>Hedychrum nobile</tp:taxon-name></italic> (Scopoli), <italic><tp:taxon-name>Hedychrum</tp:taxon-name></italic> sp. (S. Africa); <tp:taxon-name>Allocoeliini</tp:taxon-name>: <italic><tp:taxon-name>Allocoelia capensis</tp:taxon-name></italic> (Smith); <tp:taxon-name>Parnopini</tp:taxon-name>: <italic><tp:taxon-name>Parnopes fischeri</tp:taxon-name></italic> Spinola, <italic><tp:taxon-name>Parnopes edwardsii</tp:taxon-name></italic> (Cresson); <tp:taxon-name>Chrysidini</tp:taxon-name>: <italic><tp:taxon-name>Chrysis ignita</tp:taxon-name></italic> Linnaeus, <italic><tp:taxon-name>Chrysura pacifica</tp:taxon-name></italic> (Say), <italic><tp:taxon-name>Stilbum cyanurum</tp:taxon-name></italic> (Förster)</p>
+            <p><tp:taxon-name>Sclerogibbidae</tp:taxon-name>: <italic><tp:taxon-name>Sclerogibba africana</tp:taxon-name></italic> Kieffer, <italic><tp:taxon-name>Sclerogibba berlandi</tp:taxon-name></italic> Benoit, <italic><tp:taxon-name>Sclerogibba</tp:taxon-name></italic>?<italic>magrettii</italic> (Kieffer), <italic><tp:taxon-name>Probethylus schwarzi</tp:taxon-name></italic> Ashmead</p>
+            <p><tp:taxon-name>Dryinidae</tp:taxon-name>: <tp:taxon-name>Gonatopodinae</tp:taxon-name> spp. (2, S. Africa); <tp:taxon-name>Dryininae</tp:taxon-name> spp. (2, S. Africa)</p>
+            <p><tp:taxon-name>Embolemidae</tp:taxon-name>: <italic><tp:taxon-name>Embolemus collinsi</tp:taxon-name></italic> (Olmi), <italic><tp:taxon-name>Embolemus confusa</tp:taxon-name></italic> (Ashmead), <italic><tp:taxon-name>Embolemus magna</tp:taxon-name></italic> (Olmi), <italic><tp:taxon-name>Embolemus</tp:taxon-name></italic> sp. (New Caledonia), <italic><tp:taxon-name>Embolemus brothersi</tp:taxon-name></italic> Olmi</p>
+        </app>
+        <app>
+            <title>Appendix B Characters used for analysis of relationships of <tp:taxon-name>Chrysidoidea</tp:taxon-name>, all (except last) applicable to males only, treated as additive except where noted otherwise</title>
+            <p>1.	Compound eye, inner margin: sinuate = 0, convex = 1;</p>
+            <p>2.	Compound eye, pores and setae: no pores or setae = 0, scattered pores and/or setae = 1, dense pores and/or setae = 2;</p>
+            <p>3.	Compound eye, setae: absent = 0, minute = 1, short = 2, long = 3;</p>
+            <p>4.	Antennal socket, distance from epistomal suture: less than socket width = 0, more than 1.5 × socket width = 1;</p>
+            <p>5.	Clypeus, shape: transverse, without prominent median lobe = 0; with long median lobe narrower than intermandibular area = 1;</p>
+            <p>6.	Clypeus, form: platelike, apical margin not deflexed = 0, convex, thickened, apical margin deflexed medially = 1;</p>
+            <p>7.	Occipital carina: present = 0, absent = 1;</p>
+            <p>8.	Antenna, antennomere number: more than fourteen = 0, thirteen = 1, twelve = 2, ten = 3;</p>
+            <p>9.	Antenna, radicle-scape axis and insertion: axis nearly straight, simple annular constriction = 0, axis angled, simple annular constriction = 1, axis angled, radicle under flangelike expansion of scape = 2;</p>
+            <p>10.	Antenna, scape form: simple, more or less cylindrical = 0, basally expanded ventromesally = 1, apically expanded ventromesally = 2 (NON-ADDITIVE);</p>
+            <p>11.	Antenna, flagellomere setae orientation: inconspicuous and decumbent = 0, conspicuous and semi-decumbent, some erect = 1, conspicuous and erect = 2;</p>
+            <p>12.	Antenna, flagellomere setae distribution: evenly developed, scattered = 0, better developed ventrally, in irregular transverse rows = 1;<!--PageBreak--></p>
+            <p>13.	Antenna, flagellomere setae length: much less than flagellomere width = 0, about 0.5–1 × flagellomere width = 1, about 1.5–2 × flagellomere width = 2, about 3–4 × flagellomere width = 3;</p>
+            <p>14.	Mandible, form: apical margin truncate (chewing type) = 0, apical margin strongly tapering (cutting type) = 1;</p>
+            <p>15.	Mandible, apical teeth: four or more = 0, three = 1, two or fewer = 2;</p>
+            <p>16.	Maxillary palp, segments: six = 0, five = 1, four = 2, three = 3, one = 4;</p>
+            <p>17.	Labial palp, segments: four = 0, three = 1, two = 2, one = 3, absent = 4;</p>
+            <p>18.	Pronotum, anterior collar (flange): present, covering propleura = 0, present but reduced and exposing propleura = 1, extremely reduced to slight ridge, effectively absent = 2;</p>
+            <p>19.	Pronotum, posterolateral lobe: simple = 0, with preapical vertical blunt carina, posteriorly depressed = 1, with preapical vertical lamella, posteriorly concave = 2;</p>
+            <p>20.	Pronotum, posteroventral angle: rounded = 0, narrowly acute = 1;</p>
+            <p>21.	Pronotum, posteroventral margin: straightish = 0, strongly concave = 1;</p>
+            <p>22.	Propleura, dorsally: separated by membranous region = 0, closely approximated although not fused = 1;</p>
+            <p>23.	Propleura, posterior margin: almost straight, propleura almost entirely contiguous mesad = 0, indented on medial halves, propleura partially separated = 1, mostly indented, propleura almost entirely separated = 2;</p>
+            <p>24.	Proepimeron: clearly distinguishable at outer angle and along posterior margin = 0, reduced, discernible only at outer angle = 1, indistinguishable = 2;</p>
+            <p>25.	Prosternum, form: mostly in a single plane = 0, distinctly biplanar, mostly depressed posteriorly = 1;</p>
+            <p>26.	Prosternum, ventral view: well developed with apophyseal pit(s) = 0, visible as triangular sclerite without apophyseal pit = 1, reduced, scarcely visible = 2;</p>
+            <p>27.	Procoxae, contiguity: contiguous basally = 0, well separated basally = 1;</p>
+            <p>28.	Prepectus, form: very well developed, long (nearing midline) and broad = 0, well developed, short (far from midline) and broad = 1, reduced, short (far from midline) and narrow = 2;</p>
+            <p>29.	Prepectus, midventrally: halves divided, free from each other = 0, halves fused midventrally = 1;</p>
+            <p>30.	Prepectus, fusion: entirely articulating or surrounded by membrane = 0, fused with mesopleuron = 1, fused with pronotum = 2 (NON-ADDITIVE);</p>
+            <p>31.	Notauli: diverging anteriorly = 0, parallel = 1, absent = 2 (NON-ADDITIVE);</p>
+            <p>32.	Scutellum: simple = 0, produced posterodorsally as sharp-edged flange = 1;</p>
+            <p>33.	Mesepimeron, development: well developed, flangelike, overlapping metepisternum = 0, much reduced, abutting metepisternum = 1;</p>
+            <p>34.	Mesosternum, form posteriorly: smoothly truncate = 0, mesad with short transverse carina or weak tooth = 1, mesad with lamella projecting over mesocoxal base = 2;</p>
+            <p>35.	Mesocoxae, contiguity: broadly separated = 0, slightly separated = 1, contiguous = 2;</p>
+            <!--PageBreak-->
+            <p>36.	Mesosoma, second dorsal phragma: strongly oblique, muscles 2ph-3ph anterior = 0, scarcely oblique posteriorly, muscles 2ph-3ph anterior = 1, scarcely oblique posteriorly, muscles 2ph-3ph posterior = 2 (NON-ADDITIVE);</p>
+            <p>37.	Metanotum, shape: mesally about as long as laterally or longer = 0, mesally half as long as laterally or shorter = 1;</p>
+            <p>38.	Metanotum, lateral length: less than half medial length of scutellum = 0, more than two-thirds medial length of scutellum = 1;</p>
+            <p>39.	Metapostnotum, development: distinctly lengthened laterally = 0, evenly long throughout = 1, distinctly shortened laterally = 2, shortened throughout = 3, greatly expanded posteromedially = 4 (NON-ADDITIVE);</p>
+            <p>40.	Metapostnotum, hind margin: entirely distinct = 0, distinct medially, indistinct laterally = 1, obliterated medially, indistinct laterally = 2, entirely obliterated = 3 (NON-ADDITIVE);</p>
+            <p>41.	Mesosoma, third dorsal phragma: forming distinct even flange = 0, forming narrow even flange = 1, forming narrow even flange laterally only = 2, medially reduced but distinguishable = 3, absent medially = 4, entirely absent = 5 (NON-ADDITIVE);</p>
+            <p>42.	Metapleuron, endophragmal pit and sulcus: pit posteriorly placed, sulcus angled or rounded ventral to pit = 0, pit posteriorly placed, sulcus acutely extended ventral to pit = 1, pit posteriorly placed, sulcus entirely dorsal to pit and curved = 2, pit anteriorly placed, sulcus entirely dorsal to pit and straight = 3, pit anteriorly placed, sulcus acutely extended ventral to pit = 4 (NON-ADDITIVE);</p>
+            <p>43.	Metathoracic-propodeal pleural suture, dorsally: distinct and complete = 0, reduced but partly discernible = 1, obliterated = 2;</p>
+            <p>44.	Metathoracic-propodeal pleural suture, ventrally: distinct and complete = 0, reduced but partly discernible = 1, obliterated = 2;</p>
+            <p>45.	Metasternum, form anteromedially: not depressed = 0, weakly depressed = 1, entirely depressed = 2;</p>
+            <p>46.	Metacoxal cavities: open = 0, closed = 1;</p>
+            <p>47.	Propodeum, length: longer than high = 0, shorter than high = 1;</p>
+            <p>48.	Propodeum, declivity: imperceptibly merging with disk, not identifiable = 0, distinct from disk = 1;</p>
+            <p>49.	Forewing, tubular/nebulous veins: reaching apical margin = 0, ending before apical margin = 1;</p>
+            <p>50.	Forewing, pterostigma: large and prominent = 0, medium to small but distinct = 1, very small, indistinct or absent = 2;</p>
+            <p>51.	Forewing, closed cells and cell 2Cu (variable 1): ten (C, R, 1Cu, 1R1, 1M, 2Cu, 2R1, 1Rs, 2M, 2Rs) = 0, seven (C, R, 1Cu, 1R1+1Rs, 1M, 2Cu, 2R1) = 1, seven (C, R, 1Cu, 1R1, 1M, 2Cu, 2R1)= 2, six (C, R, 1Cu, 1R1, 2Cu, 2R1) = 3, seven (R, 1Cu, 1R1+1M+1Rs, 2Cu, 2R1, 2Rs, 2M) = 4, six (R, 1Cu, 1R1+1M+1Rs, 2Cu, 2R1, 2M) = 5, seven or fewer (cells 2Cu, 2M and 2Rs open or lost) = 6 (NON-ADDITIVE);<!--PageBreak--></p>
+            <p>52.	Forewing, closed cells and cell 2Cu (variable 2): six or more (2Cu present and closed) = 0, seven (C, R, 1Cu, 1R1, 1M, 2R1, 1Rs) = 1, six (C, R, 1Cu, 1R1, 1M, 2R1) = 2, five (C, R, 1Cu, 1R1, 2R1) = 3, four (C, R, 1Cu, 1M) = 4, three (C, R, 1Cu) = 5;</p>
+            <p>53.	Forewing, costal cell: broad, wider than thickness of bounding veins = 0, narrow, as wide as thickness of bounding veins or less = 1, eliminated, veins C and Sc+R+RS fused = 2;</p>
+            <p>54.	Forewing, 2nd submarginal cell (1Rs) shape (absent coded “-”): anteriorly broadly sessile = 0, shortened and anteriorly briefly sessile to briefly petiolate = 1, much reduced and anteriorly strongly petiolate = 2;</p>
+            <p>55.	Forewing, marginal cell anterior margin: more than 0.7 × pterostigma width = 0, less than 0.5 × pterostigma width = 1;</p>
+            <p>56.	Forewing, apical accessory vein (“RS2”): absent, not even spectral = 0, present, nebulous or spectral = 1;</p>
+            <p>57.	Forewing, prestigma (vein Sc+R) form: narrow, apically less than 1.5 × width of 1Sc+R = 0, broad, apically more than 1.8 × width of 1Sc+R = 1;</p>
+            <p>58.	Forewing, prestigma (vein Sc+R) length: at least as long as 1RS = 0, less than 0.5 X length of 1RS = 1;</p>
+            <p>59.	Forewing, vein Cu2: present = 0, absent = 1;</p>
+            <p>60.	Hind wing, basal hamuli: several, dispersed along costal margin = 0, few, concentrated into cluster = 1, one = 2, absent = 3;</p>
+            <p>61.	Hind wing, tubular/nebulous veins: reaching apical margin = 0, into apical half of wing but not reaching apical margin = 1, restricted to basal half of membrane = 2;</p>
+            <p>62.	Hind wing, veins C and Sc+R: both long and separated, cell C closed = 0, both long and fused = 1, C short, Sc+R absent except at base = 2, C short but distinct, Sc+R long = 3, C absent except at base, Sc+R long = 4, C absent except at base, Sc+R short = 5 (NON-ADDITIVE);</p>
+            <p>63.	Hind wing, vein M+Cu: well developed, tubular = 0, distinguishable but nebulous = 1, absent = 2;</p>
+            <p>64.	Hind wing, anal veins: A1 well developed, A2 present = 0, A1 well developed (more than half length anal lobe), A2 absent = 1, A1 short (less than half length anal lobe), A2 absent = 2, A1 minute, A2 absent = 3;</p>
+            <p>65.	Hind wing, veins rs-m and cu-a: both present = 0, both absent = 1;</p>
+            <p>66.	Hind wing, incised anal (vannal/plical) lobe: absent, at most indicated by slight notch = 0, present, distinct acute incision = 1;</p>
+            <p>67.	Hind wing, anal (vannal/plical) lobe length: short, less than 0.5 × length of wing = 0, long, more than 0.6 × length of wing = 1;</p>
+            <p>68.	Hind wing, jugal lobe: present, delimited apically by incision = 0, absent = 1;</p>
+            <p>69.	Tarsal claws, form ventrally: toothed = 0, simple = 1;</p>
+            <p>70.	Protrochanter, basal insertion: apical on coxa = 0, basolateral on coxa = 1;</p>
+            <p>71.	Foretarsus, arolium: narrower than tarsal apex and shorter than claws = 0, at least as broad as tarsal apex and at least as long as claws = 1;</p>
+            <p>72.	Meso- and metatarsi, arolia: well developed = 0, vestigial = 1;</p>
+            <!--PageBreak-->
+            <p>73.	Mesocoxa, subdivision and insertion: large basi- and disticoxites, cavities large = 0, reduced basicoxite and large disticoxite, cavities moderate = 1, much-reduced basicoxite and large disticoxite, cavities small = 2;</p>
+            <p>74.	Mesotrochantellus: distinctly present = 0, reduced but discernible as complete ring = 1, much reduced, almost indiscernable, ventrally only = 2, absent = 3;</p>
+            <p>75.	Mesotibia, spurs: two = 0, one = 1, none = 2;</p>
+            <p>76.	Mesotibia, scattered spines: absent = 0, weak = 1, moderately strong = 2;</p>
+            <p>77.	Metacoxa, specialised area of setae on ventral surface: absent = 0, present = 1;</p>
+            <p>78.	Metatrochanter, specialised area of setae on ventral surface: absent = 0, present = 1;</p>
+            <p>79.	Metafemur, apex: simple = 0, with toothlike projection on each side at tibial articulation = 1;</p>
+            <p>80.	Metatibia, inner apical spur: simple, similar to outer spur = 0, forming calcar with weak simple dorsal carina = 1, forming calcar with dorsal setose carina = 2, forming calcar with dorsal setal fringe only = 3, forming calcar with fine dorsal pectination = 4 (NON-ADDITIVE);</p>
+            <p>81.	Metasoma-propodeum attachment: ventral, between hind coxae = 0, dorsal, distant from hind coxae = 1;</p>
+            <p>82.	Metasoma, T1 articulation with S1: overlapping and articulating with base of S1 = 0, narrowed and fused with base of S1 dorsolaterally = 1;</p>
+            <p>83.	Metasoma, T7 surface: simple, ecarinate = 0, longitudinally carinate = 1;</p>
+            <p>84.	Metasoma, T7 apical flange: absent = 0, present, narrow = 1, present, broad, 0.33 × as long as tergum = 2;</p>
+            <p>85.	Metasoma, S1: ecarinate = 0, with strong median longitudinal carina = 1;</p>
+            <p>86.	Metasoma, S7: well developed and exposed = 0, reduced and partly exposed = 1, much reduced and concealed = 2;</p>
+            <p>87.	Metasoma, hypopygium (S8) concealment: completely exposed or almost so = 0, partially concealed = 1, completely concealed or almost so = 2;</p>
+            <p>88.	Metasoma, hypopygium (S8) shape: simple with blunt to rounded apex = 0, triangular with pointed apex = 1, truncate with weakly emarginate apex = 2, peglike = 3 (NON-ADDITIVE);</p>
+            <p>89.	Metasoma, cercus: present, well developed, cylindrical = 0, present but much reduced, cylindrical = 1, absent or vestigial flattened setose disk = 2;</p>
+            <p>90.	Sexual dimorphism, antennomere number: absent = 0, present (♂ 13, ♀ 12) = 1.</p>
+        </app>
+        </app-group>
+    </back>
+</article>

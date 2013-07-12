@@ -1,0 +1,245 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.247.4195</article-id>
+            <title-group>
+                <article-title>Known unknowns, Google Earth, plate tectonics and Mt Bellenden Ker: some thoughts on locality data</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Mesibov</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Queen Victoria Museum and Art Gallery, Launceston, Tasmania, Australia 7250
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Robert Mesibov (<email xlink:type="simple">mesibov@southcom.com.au</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: L. Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>11</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>247</issue>
+            <fpage>61</fpage>
+            <lpage>67</lpage>
+            <history>
+                <date date-type="received">
+                    <day>26</day>
+                    <month>10</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>23</day>
+                    <month>11</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Robert Mesibov</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Latitude/longitude data in locality records should be published with spatial uncertainties, datum(s) used and indications of how the data were obtained. Google Earth can be used to locate sampling sites, but the underlying georegistration of the satellite image should be checked. The little-known relabelling of a set of landmarks on Mt Bellenden Ker, a scientifically important collecting locality in tropical north Queensland, Australia, is documented as an example of the importance of checking records not accompanied by appropriately accurate latitude/longitude data.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Spatial data</kwd>
+                <kwd>latitude/longitude</kwd>
+                <kwd>georeferencing</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Missing numbers"><title>Missing numbers</title>
+            <p>With the debut of <italic>Biodiversity Data Journal</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/bdj">http://www.pensoft.net/journals/bdj</ext-link>) not far off, I have started thinking, as a Pensoft editor, about the tables of locality data that are likely to be submitted. Will the authors have read the “Guide to Best Practices in Georeferencing"? (<xref ref-type="bibr" rid="B1">Chapman and Wieczorek 2006</xref>) produced for GBIF? Will the locality records be tabulated using Darwin Core categories for location (<ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/terms/index.htm#locationindex">http://rs.tdwg.org/dwc/terms/index.htm#locationindex</ext-link>), or at least with fields that can easily be converted to their Darwin Core equivalents?</p>
+            <p>I suspect not. To judge from what I often see in recent research papers, a location will be specified simply as a latitude/longitude from a single reading of a handheld <!--PageBreak-->GPS receiver (standalone operation), together with an inexact description that checks the latitude/longitude by giving a general idea of the location, something like ca 5 km S of Woop Woop [an imaginary town], <named-content content-type="dwc:verbatimCoordinates">22°48'20.6"S, 124°33'10.4"E</named-content></p>
+            <p>There are two numbers missing here. One is the datum for the latitude/longitude. While most GPS users set their receivers to the WGS84 datum, another datum may have been used in order to allow checking of the latitude/longitude or grid reference on a paper map based on a local datum. Datum differences are not trivial. For example, there is ca 200 m distance between the WGS84 location of a site in Australia and its corresponding location on a map referenced to the long-used AGD66 datum. Locality data tables should therefore include a field for specifying the datum or for noting that the datum is unknown. Compilers should not assume that if no datum is specified, then the datum for that location must have been WGS84.</p>
+            <p>The second missing number is an uncertainty estimate. We don't know whether the location is a spot or a large area, and if the latter, what relation the latitude/longitude has to the area sampled. We can be reasonably sure that the latitude/longitude is too accurate, even for a spot sample. The implied uncertainty is ±0.05", which at the given latitude represents about 1.5 m in either latitude or longitude. The GPS receiver's manufacturer probably didn't claim that high an accuracy. For example, the owner's manual for the Garmin GPSMap®62S, a popular handheld GPS receiver, says only that 95% of waypoints will be within 10 m of the stated position in typical use.</p>
+            <p>Good practice is to specify an uncertainty, and not just to imply one. A possible entry for an uncertainty field is the accuracy as reported by the GPS receiver for that particular reading; a column heading in the data table might be “GPS accuracy declaration" or something similar. In my part of the world, GPS accuracy declarations after a few minutes at a spot are generally in the range 5-10 m in the open air and 15–30 m in forest.</p>
+            <p>For many biological samplers, however, a collecting site is not a spot, but a small area over which a number of specimens are collected. A good way to report that location is to give the latitude/longitude of the centre of the site. The uncertainty can then be approximated as the radius of a circle containing the area searched, following the Darwin Core definition of uncertainty: “The horizontal distance (in meters) from the given decimalLatitude and decimalLongitude describing the smallest circle containing the whole of the Location" (<ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/terms/index.htm#coordinateUncertaintyInMeters">http://rs.tdwg.org/dwc/terms/index.htm#coordinateUncertaintyInMeters</ext-link>).</p>
+            <p>ca 5 km S of Woop Woop, <named-content content-type="dwc:verbatimCoordinates">22°48'20.6"S, 124°33'10.4"E</named-content>, ±15 m, WGS84.</p>
+            <p>That's better, but something is still missing.</p>
+        </sec>
+        <sec sec-type="Outrageous numbers"><title>Outrageous numbers</title>
+            <p>I recently audited some museum database records, one of which said the collecting site was at <named-content content-type="dwc:verbatimCoordinates">22°06'57.54"S 117°53'15.31"E</named-content>. At the latitude/longitude involved, those last<!--PageBreak--> 0.01" figures correspond to about 30 cm in latitude and longitude, or ±15 cm. How did the collector get those numbers?</p>
+            <p>Possibly from Google Earth. With coordinates set to degrees, minutes and seconds, the status bar at the bottom of a Google Earth window reports the cursor location to the nearest 0.01 second of latitude and longitude. You can zoom in as much as you like to see a collecting site, then just place the cursor on the site and read off the latitude/longitude, which will be outrageously accurate.</p>
+            <p>Since the latitude/longitude is not a GPS reading, it would be sensible to round the figures off to the nearest second. Uncertainty in this case depends in part on how accurately Google Earth has placed the satellite image on its mathematical model of the globe, a procedure known as georegistration. The accuracy of georegistration can vary from image to image and from date to date in an image series. One site I looked at in Queensland had shifted more than 100 m between image dates.</p>
+            <p>Google Earth can be very useful for locating sampling sites if GPS reception is poor or if GPS accuracy declarations are large. It's a good idea, however, to check the georegistration by getting at least one GPS reading at a spot (somewhere near the site) which will be clearly distinguishable on the satellite image. Even better, compare the known location of an official survey mark in the vicinity with its Google Earth location. In either case, the uncertainty specified for a position located using Google Earth should be at least the difference found between the Google Earth latitude/longitude and the corresponding figures for a GPS reading or a survey mark. (I recently checked a survey mark in my home town. Google Earth put it 2-3 m from its actual location. Not bad, but not as good as the implied ±15 cm.)</p>
+            <p>Here in Australia, at least, there is an additional complication. The Australian Plate is moving northeast towards Papua New Guinea at about 7 cm/yr and carrying with it the survey reference framework, GDA, standardised in 1994. Google Earth, like the GPS system, is based on the WGS84 framework, which for all practical purposes is independent of earth movements. In 2012, there is a more than a metre horizontal difference between GDA and WGS84, thanks to plate tectonics.</p>
+            <p>Complications aside, locality data tables should always contain a field for the source of latitude/longitude data, i.e. map, GPS, Google Earth, etc. The source will then stay with the record if the record is separated from the table's metadata.</p>
+            <p>ca 5 km S of Woop Woop, <named-content content-type="dwc:verbatimCoordinates">22°48'20.6"S, 124°33'10.4"E</named-content>, ±15 m, WGS84, GPS.</p>
+            <p>Much better!</p>
+        </sec>
+        <sec sec-type="Numbers helped by words"><title>Numbers helped by words</title>
+            <p>A description like <italic>ca 5 km S of Woop Woop</italic> is obviously not as accurate as a GPS reading, but is important in a locality record as a check on latitude/longitude. The better the description, the closer the check. Description writing has been very well summarised by <xref ref-type="bibr" rid="B1">Chapman and Wieczorek (2006</xref>, p. 7):</p>
+            <p>–	 “Provide a descriptive locality, even if you have geographic coordinates. The locality should be as specific, succinct, unambiguous, complete, and as accurate as possible, leaving no room for uncertainty in interpretation."</p>
+            <p>–	Localities used as reference points should be stable – i.e., places (towns, trig points, etc.) that will remain for a long time after the collection events. Do NOT use temporary locations or waypoints as the key reference location. You may have made an accurate GPS recording for the temporary location and then referenced future collections from that point (e.g., 200 m SE of the Land Rover), and that may make perfect sense for that series of collections. It is meaningless, however, when those collections are later broken up and placed in a museum under a taxonomic arrangement, and no longer have a link to where the ‘Landrover' was.</p>
+            <p>–	If recording locations along a path (road, river, etc.) it is important to also record whether the distances were measured along the path (‘by road') or as a direct line from the origin (‘by air').</p>
+            <p>–	Hint: The most specific localities are those described by a) a distance and heading along a path from a nearby and well-defined intersection, or b) two cardinal offset distances from a single persistent nearby feature of small extent. “[Example given for the latter: “ice field below Cerro El Plomo, 0.5 km S and 0.2 km W of summit, Region Metropolitana, Chile. "]"</p>
+            <p>Nevertheless, even the best landmark-based descriptions can stray from the truth if the landmarks themselves change, as the following example shows. I am describing it in some detail because the locality involved has yielded numerous new animal and plant species, and avoidable georeferencing errors are possible at this scientifically important locality.</p>
+        </sec>
+        <sec sec-type="Unstable numbers"><title>Unstable numbers</title>
+            <p>The Bellenden Ker Range in tropical north Queensland has attracted scientific explorers and collectors since the late 19th century. Much of the Range lies less than 10 km from the Coral Sea, and access is relatively easy from the coastal Bruce Highway between the towns of Gordonvale and Innisfail, and from the Atherton Tableland to the west. The densely vegetated Bellenden Ker Range has Queensland's highest mountain (Mt Bartle Frere, 1622 m) and Australia's wettest weather station (Mt Bellenden Ker, 8150 mm/yr).</p>
+            <p>In the early 1970s a cableway was built to access a telecommunications and broadcast facility on the summit of Mt Bellenden Ker (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Formerly operated by Telecom Australia (now Telstra), the Mt Bellenden Ker Cableway and Transmission Facility is currently owned and managed by Broadcast Australia.</p>
+            <p>Over the past four decades the cableway has not only offered access to Mt Bellenden Ker for biological sampling, but has also provided a simple system of landmarks, namely the nine cableway support towers. These landmarks have often been used to georeference collecting localities, with no accompanying latitude/longitude or only an approximate one. A botanical example is the type locality of <italic>Morinda constipata</italic> Ha<!--PageBreak-->lford &amp; A.J. Ford, 2009 (<tp:taxon-name>Rubiaceae</tp:taxon-name>): ‘National Park Reserve 904, Wooroonooran, just S of tower 9, Mt Bellenden Ker cableway' (<xref ref-type="bibr" rid="B2">Halford and Ford 2009</xref>).</p>
+            <p>It is not generally known, however, that the tower numbering was reversed in about 1997 when the cableway changed owners. Whereas Telecom numbered the towers from the top of the mountain to the bottom, the new system numbers the towers <!--PageBreak-->from bottom to top. <xref ref-type="fig" rid="F2">Figure 2</xref> shows the current and former tower numbering, and <xref ref-type="table" rid="T1">Table 1</xref> gives latitude/longitude for each of the cableway landmarks.</p>
+            <p><xref ref-type="table" rid="T2">Table 2</xref> lists correct locations for the principal cableway sites sampled during the 1981 Earthwatch/Queensland Museum expedition, the source of a very large number of insect and other zoological samples (<xref ref-type="bibr" rid="B4">Queensland Museum 1982</xref>, <xref ref-type="bibr" rid="B3">Monteith and Davies 1992</xref>). The sites were referenced to the older tower numbering, and were offset various distances from the landmarks indicated on specimen labels.<!--PageBreak--></p>
+        <fig id="F1" position="float" orientation="portrait">
+            <label>Figure 1.</label>
+            <caption><p>View of the Mt Bellenden Ker cableway from the east in June, 1976. Lower towers are labelled with their current numbers. Image by Len Webb, reproduced with the permission of the copyright holder, Griffith University.</p></caption>
+            <graphic xlink:href="ZooKeys-247-061-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+        <fig id="F2" position="float" orientation="portrait">
+            <label>Figure 2.</label>
+            <caption><p>Plan of the Mt Bellenden Ker cableway showing current and former tower numbers. SS = summit station, BS = base station. Contours (100 m) and streamlines are only approximate and are from the 1:50000 scale ‘Bartle Frere' map produced by the Royal Australian Survey Corps in 1986.</p></caption>
+            <graphic xlink:href="ZooKeys-247-061-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+        <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Spatial data (WGS84) for the landmarks mapped in Fig. 2. Positional uncertainty is ±50 m.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Landmark</th>
+                            <th rowspan="1" colspan="1">Latitude, Longitude</th>
+                            <th rowspan="1" colspan="1">Approx. elevation (m)</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Cableway base station</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'12"S, 145°54'00"E</named-content></td>
+                            <td rowspan="1" colspan="1">100</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 1 (formerly 8)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'11"S, 145°53'46"E</named-content></td>
+                            <td rowspan="1" colspan="1">210</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 2 (formerly 7)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'10"S, 145°53'37"E</named-content></td>
+                            <td rowspan="1" colspan="1">300</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 3 (formerly 6)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'07"S, 145°53'22"E</named-content></td>
+                            <td rowspan="1" colspan="1">360</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 4 (formerly 5)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'04"S, 145°53'00"E</named-content></td>
+                            <td rowspan="1" colspan="1">500</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 5 (formerly 4)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'59"S, 145°52'20"E</named-content></td>
+                            <td rowspan="1" colspan="1">970</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 6 (formerly 3)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'58"S, 145°52'13"E</named-content></td>
+                            <td rowspan="1" colspan="1">1030</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 7 (formerly 2)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'53"S, 145°51'31"E</named-content></td>
+                            <td rowspan="1" colspan="1">1450</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 8 (formerly 1a)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'51"S, 145°51'18"E</named-content></td>
+                            <td rowspan="1" colspan="1">1530</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Tower 9 (formerly 1)</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'51"S, 145°51'15"E</named-content></td>
+                            <td rowspan="1" colspan="1">1550</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Summit TV station</td>
+                            <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'50"S, 145°51'13"E</named-content></td>
+                            <td rowspan="1" colspan="1">1550</td>
+                        </tr>
+                    </tbody>
+                </table>
+        </table-wrap>
+        <table-wrap id="T2" position="float" orientation="portrait">
+								<label>Table 2.</label>
+                <caption><p>Spatial data (WGS84) for the principal cableway sampling sites of the 1981 Earthwatch/Queensland Museum expedition, based on the older tower numbering. Positional uncertainty is ±100 m.</p></caption>
+                <table>
+                <tbody>
+                    <tr>
+                        <th rowspan="1" colspan="1">Landmark</th>
+                        <th rowspan="1" colspan="1">Latitude, Longitude</th>
+                        <th rowspan="1" colspan="1">Approx. elevation (m)</th>
+                    </tr>
+                    <tr>
+                        <td rowspan="1" colspan="1">‘Cableway base station'</td>
+                        <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'06"S, 145°54'00"E</named-content></td>
+                        <td rowspan="1" colspan="1">110 (‘100')</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="1" colspan="1">‘1 km S of towers 6/7'= ‘0.5 km S of tower 7 ‘ (now 2)= ‘1 km SW of tower 6' (now 3)</td>
+                        <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'33"S, 145°53'15"E</named-content></td>
+                        <td rowspan="1" colspan="1">500 (‘500')</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="1" colspan="1">‘Tower 3' (now 6)</td>
+                        <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°16'02"S, 145°52'12"E</named-content></td>
+                        <td rowspan="1" colspan="1">1020 (‘1054')</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="1" colspan="1">‘Summit TV station'</td>
+                        <td rowspan="1" colspan="1"><named-content content-type="dwc:verbatimCoordinates">17°15'50"S, 145°51'14"E</named-content></td>
+                        <td rowspan="1" colspan="1">1550 (‘1560')</td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+        </sec>
+        <sec sec-type="Conclusion"><title>Conclusion</title>
+            <p>Locality databases have grown enormously in recent years, and the georeferencing of legacy localities from old specimen labels has become a well-understood practice for database compilers (<xref ref-type="bibr" rid="B1">Chapman and Wieczorek 2006</xref>). Many new localities are now being added to databases by collectors who have not been trained in georeferencing. There is more to capturing spatial data than pushing a button on a GPS receiver, and as an editor for the forthcoming <italic>Biodiversity Data Journal</italic> I hope to see locality records submitted with appropriate uncertainties, datum used, clear indications of data source and spatially explicit site descriptions.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>For assistance with the Bellenden Ker issue I am grateful to Spiro Buhagiar (Bellenden Ker, Queensland) and Broadcast Australia, and especially to Geoff Monteith (Queensland Museum), who very kindly checked his notes on the 1981 expedition. I thank Griffith University for permission to publish the image in <xref ref-type="fig" rid="F1">Figure 1</xref>.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Wieczorek</surname> <given-names>J</given-names></name></person-group> (<role>Eds</role>) (<year>2006</year>)<source> Guide to Best Practices for Georeferencing. Global Biodiversity Information Facility, Copenhagen, 80 pp. [Available online at <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/orc/?doc_id=1288">http://www.gbif.org/orc/?doc_id=1288</ext-link>]</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Halford</surname> <given-names>DA</given-names></name><name name-style="western"><surname>Ford</surname> <given-names>AJ</given-names></name></person-group> (<year>2009</year>)<article-title> Two species of Morinda L. (Rubiaceae) from north-east Queensland.</article-title> <source>Austrobaileya </source> <volume>8</volume>: <fpage>81</fpage>-<lpage>90</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Monteith</surname> <given-names>GB</given-names></name><name name-style="western"><surname>Davies</surname> <given-names>VT</given-names></name></person-group> (<year>1992</year>)<article-title> Preliminary account of a survey of arthropods (insects and spiders) along an altitudinal rainforest transect in tropical Queensland.</article-title> In: <person-group><name name-style="western"><surname>Werren</surname> <given-names>G</given-names></name><name name-style="western"><surname>Kershaw</surname> <given-names>P</given-names></name></person-group> (<role>Eds</role>). <issue-title>The rainforest legacy, vol.</issue-title> <source>2. Flora and fauna of the rainforest. Special Australian heritage publication series 7(2). Australian Government Publishing Service, Canberra</source>: <fpage>345</fpage>-<lpage>362</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Queensland</surname> <given-names>Museum</given-names></name></person-group> (<year>1982</year>)<source> 1981 Earthwatch expedition to the Bellenden-Ker Range, North Queensland. October 15 – November 10, 1982. Interim Field Report. Queensland Museum unpublished report, 38 pp. [Available at the Queensland Museum Library]</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

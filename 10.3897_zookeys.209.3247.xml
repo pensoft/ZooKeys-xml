@@ -1,0 +1,501 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3247</article-id>
+            <title-group>
+                <article-title>From documents to datasets: A MediaWiki-based method of annotating and extracting species observations in century-old field notebooks</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Thomer</surname>
+                        <given-names>Andrea</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Vaidya</surname>
+                        <given-names>Gaurav</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Guralnick</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bloom</surname>
+                        <given-names>David</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Russell</surname>
+                        <given-names>Laura</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>University of Illinois, Urbana-Champaign, Graduate School of Library and Information Science, 501 E. Daniel Street, Champaign, Illinois, 61820, USA
+            </aff>
+            <aff id="A2">
+                <label>2</label>University of Colorado, Boulder; University of Colorado Museum of Natural History, Henderson Building, Boulder, Colorado, 80309, USA
+            </aff>
+            <aff id="A3">
+                <label>3</label>University of California, Berkeley, Museum of Vertebrate Zoology, 3101 Valley Life Sciences Building, Berkeley, California, 94705, USA
+            </aff>
+            <aff id="A4">
+                <label>4</label>University of Kansas, KU Biodiversity Institute, 1345 Jayhawk Blvd., Room 606, Lawrence, Kansas, 66045, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: David Bloom (<email xlink:type="simple">dabblepop@gmail.com</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Vladimir Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>235</fpage>
+            <lpage>253</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>4</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>12</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Andrea Thomer, Gaurav Vaidya, Robert Guralnick, David Bloom, Laura Russell</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Part diary, part scientific record, biological field notebooks often contain details necessary to understanding the location and environmental conditions existent during collecting events. Despite their clear value for (and recent use in) global change studies, the text-mining outputs from field notebooks have been idiosyncratic to specific research projects, and impossible to discover or re-use. Best practices and workflows for digitization, transcription, extraction, and integration with other sources are nascent or non-existent. In this paper, we demonstrate a workflow to generate structured outputs while also maintaining links to the original texts. The first step in this workflow was to place already digitized and transcribed field notebooks from the University of Colorado Museum of Natural History founder, Junius Henderson, on Wikisource, an open text transcription platform. Next, we created Wikisource templates to document places, dates, and taxa to facilitate annotation and wiki-linking. We then requested help from the public, through social media tools, to take advantage of volunteer efforts and energy. After three notebooks were fully annotated, content was converted into XML and annotations were extracted and cross-walked into Darwin Core compliant record sets. Finally, these recordsets were vetted, to provide valid taxon names, <!--PageBreak--><!--PageBreak-->via a process we call “taxonomic referencing.” The result is identification and mobilization of 1,068 observations from three of Henderson’s thirteen notebooks and a publishable Darwin Core record set for use in other analyses. Although challenges remain, this work demonstrates a feasible approach to unlock observations from field notebooks that enhances their discovery and interoperability without losing the narrative context from which those observations are drawn.</p>
+                <p>“Compose your notes as if you were writing a letter to someone a century in the future.”</p>
+                <p><xref ref-type="bibr" rid="B13">Perrine and Patton (2011)</xref>
+                </p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>
+Field notes</kwd>
+                <kwd>notebooks</kwd>
+                <kwd>crowd sourcing</kwd>
+                <kwd>digitization</kwd>
+                <kwd>biodiversity</kwd>
+                <kwd>transcription</kwd>
+                <kwd>text-mining</kwd>
+                <kwd>Darwin Core</kwd>
+                <kwd>Junius Henderson</kwd>
+                <kwd>annotation</kwd>
+                <kwd>taxonomic referencing</kwd>
+                <kwd>natural history</kwd>
+                <kwd>Wikisource</kwd>
+                <kwd>Colorado</kwd>
+                <kwd>species occurrence records</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Our species has analyzed and documented the natural world for millennia, in media as diverse as Paleolithic cave paintings, handwritten field notes, and structured databases of sequences sampled from the environment. While structured data facilitate long-term ecological monitoring, the “first-person precision” (<xref ref-type="bibr" rid="B1">Grinnell 1912</xref>) of an idiosyncratic, unatomizable narrative about nature — be it a drawing on a cave wall or a handwritten page in a field journal — gives these data context that does not readily fit into a spreadsheet, and which may form the nucleus of an important new insight or discovery. Field notes in particular sit at the crossroads of these qualitative and quantitative methods; in them, structured and unstructured data are necessarily intertwined (<xref ref-type="bibr" rid="B7">Kramer 2011</xref>).
+            </p>
+            <p>The observations contained in field notebooks take on particular importance given the current biodiversity crisis (<xref ref-type="bibr" rid="B6">Jenkins 2003</xref>, <xref ref-type="bibr" rid="B4">Heywood and Watson 1995</xref>, <xref ref-type="bibr" rid="B9">Loreau et al. 2006</xref>, <xref ref-type="bibr" rid="B18">Wake and Vredenburg 2008</xref>) — a crisis which threatens the fabric of ecosystems on which our own species depends (e.g. <xref ref-type="bibr" rid="B10">Millennium Ecosystem Assessment 2005</xref>, <xref ref-type="bibr" rid="B20">Worm et al. 2006</xref>). Legacy occurrence records extracted from field notebooks provide essential baselines of past community biotic state for resurvey efforts such as the Grinnell Resurvey Project (<xref ref-type="bibr" rid="B11">Moritz et al. 2008</xref>, <xref ref-type="bibr" rid="B17">Tingley et al. 2009</xref>) and the Alexander Grasshopper Project (<xref ref-type="bibr" rid="B12">Nufio et al. 2010</xref>).
+            </p>
+            <p>The growing use of such records for global change biology creates new challenges and opportunities for their digitization, transcription, representation, and integration with other sources of historical data. All these challenges ultimately depend on pulling structured data from unstructured text, while somehow maintaining a link to the original texts. Solving these challenges is key to realizing their value in research and policy-making.</p>
+            <p>Here we present a case study that makes occurrence records in field notebooks available by utilizing something of a rarity in this arena: a fully scanned and tra<!--PageBreak--><!--PageBreak-->nscribed set of field notebooks, penned by University of Colorado Museum of Natural History founder Junius Henderson (<ext-link ext-link-type="uri" xlink:href="http://en.wikisource.org/wiki/Field_Notes_of_Junius_Henderson" xlink:type="simple">http://en.wikisource.org/wiki/Field_Notes_of_Junius_Henderson</ext-link>). We provide a pragmatic approach for utilizing free, relatively easy-to-use technologies to annotate these notes, and discuss some of the remaining gaps in our toolkits and cyberinfrastructure. We also present a workflow for extracting occurrence records from field notebooks that requires minimal resources (beyond the authors’ time), fosters community involvement, and abstracts the necessary information while maintaining links to its original text, thereby preserving the context that only “first-person precision” can provide. The primary challenges we address are how to: 1) publish these field notes in a way that supports annotation of species occurrence records; 2) extract these records efficiently; 3) convert these records to the most interoperable format; and, 4) store these records and maintain their link to the original field notes.
+            </p>
+            <sec sec-type="Background">
+                <title>Background</title>
+                <p><xref ref-type="bibr" rid="B14">Remsen et al. (2012)</xref> identified conversion of unstructured text into structured data as a key challenge in biodiversity informatics, and showed a working methodology for creating a Darwin Core archive from a conventional floristic checklist. We follow the path laid by those authors, but focus on mining observations from field notebooks. Field notebooks are often “hidden” in archives of institutions, and unlike formally published sources, typically lack a centralized access point (<xref ref-type="bibr" rid="B15">Sheffield et al. 2011</xref>), a standardized mark-up language, and any sort of reliable or scalable method of mining content from the notes. <xref ref-type="bibr" rid="B16">Sheffield and Nakasone (2011)</xref> from the Smithsonian’s <italic>Field Book Project</italic> present an excellent high-level view of how existing metadata standards could be used to semantically link collections and field notes. This collections-level schema, however, does not address the need to annotate and extract data from documents. Furthermore, though work has been done linking digital collections to Wikipedia articles (<italic>e.g</italic>., <xref ref-type="bibr" rid="B8">Lally and Dunford 2007</xref>), and though the National Archives have recently partnered with Wikisource to upload their materials for transcription (<ext-link ext-link-type="uri" xlink:href="http://transcribe.archives.gov/" xlink:type="simple">http://transcribe.archives.gov/</ext-link>), neither of these projects have attempted to annotate or extract data from the materials.
+                </p>
+                <p>In light of this lack of prior work, and given the observational nature of the notes, we decided that these observations would be best published as Darwin Core records. Though there are other standards used in the digital humanities to mark up scholarly texts (e.g. the Text Encoding Initiative’s standard, <ext-link ext-link-type="uri" xlink:href="http://www.tei-c.org/" xlink:type="simple">http://www.tei-c.org/</ext-link>), none of these are tailored for the encoding of biodiversity data. Darwin Core, on the other hand, is a commonly used metadata schema for describing and exchanging a range of biodiversity data, from museum specimen records to field observations (<xref ref-type="bibr" rid="B19">Wieczorek et al. 2012</xref>). In particular, the Global Biodiversity Information Facility (GBIF) uses it for storage, transfer and presentation of biodiversity data.
+                </p>
+            </sec>
+            <sec sec-type="The study corpus: Junius Henderson’s field notes">
+                <title>The study corpus: Junius Henderson’s field notes</title>
+                <p>Junius Henderson was appointed the first curator of the University of Colorado Museum of Natural History (CU Museum) in 1902. He kept handwritten field notebooks describing his expeditions across the Southern Rocky Mountains and elsewhere over a 26-year period. Henderson completed 13 notebooks and 1,672 pages of entries, augmented by other materials such as photographs and a locality ledger. Henderson’s notes are arranged as entries (<xref ref-type="fig" rid="F1">Figure 1</xref>), which usually contain some kind of header denoting date and place. All entries are separated by a blank space, so even if header text is not strictly standardized, the beginning and end of each entry is quite clear. Although Henderson did keep a locality ledger, he did not directly or systematically reference specimens to field note entries. Thus, if there are direct links between collected specimens and field notes, they have yet to be discovered.
+                </p>
+                <p>Henderson’s notebooks are a chronicle of the American West in transition and paint a vivid picture of a changing landscape as cities expand, wild places retreat, and horse-and-buggies give way to cars. His journal entries describe everything from mollusks in freshwater and marine systems, to the geology of the Rocky Mountains, to the more mundane aspects of fieldwork (e.g., “Train again so late as to afford ample opportunity for philosophic meditation upon the motives which inspire railroad people to advertise time which they do not expect to make except under rare circumstances,”) (<xref ref-type="bibr" rid="B5">Henderson 1907</xref>).
+                </p>
+                <p>From February 2000–02, former CU Museum Director and Curator Peter Robinson transcribed all thirteen volumes of Henderson’s notes into Word documents — a herculean task given Henderson’s handwriting. In 2006, the National Snow and Ice Data Center (NSIDC) scanned Henderson’s thirteen notebooks for a large glaciology project. Through a lengthy series of events, documented more fully in a series of blog posts (<ext-link ext-link-type="uri" xlink:href="http://bit.ly/jhfnblog" xlink:type="simple">http://bit.ly/jhfnblog</ext-link>), the scans and transcriptions, separated from each other for several years, were reunited once we began work on this project.
+                </p>
+                <p>The existence of both scanned images and typed transcriptions made Henderson’s notes an excellent test case for annotation and automated occurrence extraction; transcriptions could be tagged and annotated via a markup schema, and checked against scanned images of the original pages to ensure accuracy. As of this writing, only the first three notebooks have been annotated.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>Web browser view of a scanned page of Henderson’s journal displayed side-by-side with transcriptions and annotations using the MediaWiki <italic>Proofread Page</italic> extension.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-235-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>We documented this project using a blog as an open notebook and a means to communicate our goals, ideas, and progress. Those goals were: (a) to make Henderson’s notes easily discoverable, publicly accessible, freely reusable and sustainably preserved and, and (b) to extract taxonomic occurrences from these notes.<!--PageBreak--><!--PageBreak--></p>
+            <sec sec-type="A platform for field notebook access and annotation: Wikisource">
+                <title>A platform for field notebook access and annotation: Wikisource</title>
+                <p>We quickly realized we needed a way to support the annotation of species occurrences on an open platform so that anyone interested could help with the task. We decided on the Wikipedia-related project Wikisource (<ext-link ext-link-type="uri" xlink:href="http://wikisource.org" xlink:type="simple">http://wikisource.org</ext-link>) for the following reasons:
+                </p>
+                <sec sec-type="Ease of use">
+                    <title>Ease of use.</title>
+                    <p>The process of uploading scanned pages is simple. PDFs are uploaded to the Wikimedia Commons and pulled into Wikisource. Once in Wikisource, hyperlinked index pages can be created and transcribed text can be matched with the scanned image of each field book page (<xref ref-type="fig" rid="F1">Figure 1</xref>). The wiki markup language is similarly easy to learn and use. The language is the same as that used in Wikipedia, which means skills developed in Wikipedia can be brought to Wikisource easily.
+                    </p>
+                </sec>
+                <sec sec-type="Completely open access">
+                    <title>Completely open access.</title>
+                    <p>Everything on Wikisource can be edited by anyone, giving us a way to crowdsource annotation to citizen scientists and archivists. All Wikisource pages have a built-in means of tracking edits that ensure that all changes made to the transcriptions are documented and reversible.</p>
+                </sec>
+                <sec sec-type="An existing community of developers">
+                    <title>An existing community of developers.</title>
+                    <p>Wikisource uses the same software as Wikipedia (a PHP application named “MediaWiki”), which is under active development by a core team of developers. Sharing the same software and licensing terms means that content can be shared between the two projects freely. Additionally, pages designed to be incorporated into other pages (known as <italic>templates</italic> in Wikispeak; see <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/" xlink:type="simple">http://en.wikipedia.org/</ext-link><!--PageBreak-->wiki/<!--PageBreak-->Template:Cleanup for an example) can be moved from one project to another easily, speeding development. The Wikipedia community also carries out software development for Wikisource-specific features; our project relied on the <italic>Proofread Page</italic> extension to provide side-by-side views of transcriptions and their corresponding scanned images (<xref ref-type="fig" rid="F1">Figure 1</xref>).
+                    </p>
+                </sec>
+                <sec sec-type="An existing community of users, transcribers, and proofreaders">
+                    <title>An existing community of users, transcribers, and proofreaders.</title>
+                    <p>There is an active Wikisource community improving Wikisource’s content and to transcribing newly uploaded texts (see <ext-link ext-link-type="uri" xlink:href="http://en.wikisource.org/wiki/Wikisource:Community_collaboration" xlink:type="simple">http://en.wikisource.org/wiki/Wikisource:Community_collaboration</ext-link>). We hoped to draw some of these community members into our project.
+                    </p>
+                </sec>
+            </sec>
+            <sec sec-type="Uploading content">
+                <title>Uploading content</title>
+                <p>The ideal upload to Wikisource is a Portable Document Format (PDF) or DjVu multipage image file containing the entire scanned document along with its OCRed text (sometimes referred to as a “searchable PDF”). Such files retain their text in Wikisource, making transcription easy. In our case, we uploaded handwritten scans as-is and inserted the transcriptions manually. PDF or DjVu files are uploaded to the Wikimedia Commons using the Upload Wizard (<ext-link ext-link-type="uri" xlink:href="http://bit.ly/wcupload" xlink:type="simple">http://bit.ly/wcupload</ext-link>) and reused in Wikisource. One important note: both the Wikimedia Commons and Wikisource only allow the upload of materials in the public domain or published under liberal open source licenses (such as the Creative Commons Attribution or Creative Commons Attribution-ShareAlike licenses). Materials that have only been made available for non-commercial use may not be uploaded to the Wikimedia Commons. This means that data from the Biodiversity Heritage Library, which uses a Creative Commons Non-Commercial Share-Alike license, could not be uploaded to Wikisource. For a thorough discussion of the effect of these licenses on biodiversity science, see <xref ref-type="bibr" rid="B3">Hagedorn et al. (2011)</xref>.
+                </p>
+                <p>While uploading images to the Commons is simple, reusing them in Wikisource can be tricky (a guide to this process — updated by us — is available on Wikisource: <ext-link ext-link-type="uri" xlink:href="http://bit.ly/wsindexhelp" xlink:type="simple">http://bit.ly/wsindexhelp</ext-link>). After setting up the Index page (<xref ref-type="fig" rid="F2">Figure 2</xref>) and copying the transcriptions into Wikisource manually, we were ready to begin annotation.
+                </p>  
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Index page for Notebook #1. Each Index page corresponds to a multipage file. The Index page displays volume metadata and links to sections of the notebook, while also providing links out to each notebook page and color-coding to determine which pages have been already transcribed and proofed.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-235-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Creating annotation templates">
+                <title>Creating annotation templates</title>
+                <p>In Wikisource, annotations are best made through the use of templates. Templates are a feature of the MediaWiki software that allows one wiki page to be inserted into another. While usually used to embed common design elements across Wikipedia (such as the <italic>Unbalanced</italic> template, used to warn readers that an article might be unbalanced: <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/Template:Unbalanced" xlink:type="simple">http://en.wikipedia.org/wiki/Template:Unbalanced</ext-link>), they can also provide complex functionality, such as creating a standardized citation format (see <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/Template:Cite_journal" xlink:type="simple">http://en.wikipedia.org/wiki/Template:Cite_journal</ext-link>) or calculating ages from birthdates. We devel<!--PageBreak-->oped our own templates to not only tag the elements of an occurrence record but also create links to other web resources.
+                </p>
+            </sec>
+            <sec sec-type="The elements of an occurrence record">
+                <title>The elements of an occurrence record</title>
+                <p>A species occurrence record should contain the following basic elements in order to be fit-for-use in biodiversity science: 1) the species’ name, and 2) the place and 3) time in which it was observed. Also important, but slightly less crucial, is additional information describing the observation event: the name of the person making the observation, any equipment used, the sampling method, and so on.</p>
+                <p>Thus, because our goal was the extraction of occurrence records, we created annotation templates for <italic>taxa</italic>, <italic>locations</italic>, and <italic>dates</italic>. A triplet of all three annotations would, in <!--PageBreak-->theory, be attributable to an observation event and could be pulled from the annotated text as an occurrence record. The templates link these elements to Wikipedia pages, and provide a means to show annotations separately from the text itself.
+                </p>
+                <p>The first sentence of Henderson’s first field book contains a simple example of the type of text we hoped to annotate with Wiki markup (<xref ref-type="fig" rid="F3">Figure 3</xref>):
+                </p>
+                <p>This single sentence contains six annotatable terms: a <italic>location</italic> (Boulder, Colo), a <italic>date</italic> (July 28, 1905), and four <italic>taxa</italic> (Say['s] Phoebe, Pine Siskin, American Robin, Northern Flicker). Each template attempts to link the annotated element to associated pages in the Wikimedia Commons and Wikipedia. Thus, templates include the verbatim text from Henderson and an interpretation of that element’s formal name (as determined by the annotator) that resolves to other Wiki-resources. The general syntax of these templates is:
+                </p>
+                <p>{{<italic>element</italic>|f<italic>ormal name of this element</italic>|<italic>element as written by Henderson</italic>}}
+                </p>
+                <p>For example, the first taxon annotation in the text reads:</p>
+                <p>{{<italic>taxon</italic>|<italic><tp:taxon-name>Sayornis saya</tp:taxon-name></italic>|<italic>Say Phoebe</italic>}}
+                </p>
+                <p>While the process of creating these annotations is relatively simple, we soon discovered that each requires substantial decision making on the part of the annotator, leaving ample room for variation.</p>
+                <p>In the case of the “Siskin” above, annotators could make several interpretations.An experienced birder may reason that based on Henderson’s location at that time, he is referring to a Pine Siskin (<italic><tp:taxon-name>Carduelis pinus</tp:taxon-name></italic> and create the following annotation:
+                </p>
+                <p>{{taxon|<italic><tp:taxon-name>Carduelis pinus</tp:taxon-name></italic>|siskins}}
+                </p>
+                <p>But it’s just as likely that a less experienced annotator would create the following less specific, though technically correct, annotation:</p>
+                <p>{{taxon|Siskin|siskins}}</p>
+                <p>This latter annotation links to a Wikipedia disambiguation page listing 18 different bird species, a kind of British aircraft, and a Canadian junior ice hockey team (<ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/Siskin" xlink:type="simple">http://en.wikipedia.org/wiki/Siskin</ext-link>).
+                </p>
+                <p>We allowed our annotators complete flexibility in interpreting vernacular names as they saw fit while editing notebook pages (<xref ref-type="fig" rid="F4">Figure 4</xref>); this meant that we had to review and resolve taxonomic annotations to a best valid taxon name, just as a lab supervisor would need to check a volunteer's work in a museum. In future work, we will take steps to prescribe best practices based on what we learned in this pilot project.
+                </p>
+                <p>The full process of determining a valid scientific name from Henderson’s verbatim description is <italic>taxonomic referencing</italic>, analogous to georeferencing for localities. As with<!--PageBreak--> georeferencing, there is uncertainty in the process of linking legacy observations to current valid names; the level of uncertainty depends on who did the referencing and when. We discuss our approach to taxonomic referencing below.
+                </p>  
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>Henderson’s first sentence. “Boulder, Colo. July 28, 1905. Saw Say [sic] Phoebe and siskins, [American] Robins, [Northern] Flicker.”</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-235-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Editing a notebook page on Wikisource. This screenshot shows side-by-side transcription and wiki markup syntax.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-235-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Data extraction: Seeking efficiency and accuracy">
+                <title>Data extraction: Seeking efficiency and accuracy</title>
+                <p>The annotated text from Henderson’s first three notebooks was downloaded using the MediaWiki API (<ext-link ext-link-type="uri" xlink:href="http://bit.ly/mediawikiapi" xlink:type="simple">http://bit.ly/mediawikiapi</ext-link>). Individual annotations were then identified using regular expressions. We have described this process in detail in supplementary file 1: “Methods Supplement_Henderson.pdf.” The Perl module and scripts used for this process are available at <ext-link ext-link-type="uri" xlink:href="https://github.com/gaurav/henderson" xlink:type="simple">https://github.com/gaurav/henderson</ext-link>.
+                </p>
+                <p>In summary, the steps were to:</p>
+                <p>1) Retrieve the number of pages in the file; 2) Extract the wiki markup from each individual page; 3) Write the wiki markup to a single XML file, which was divided into individual pages; 4) Concatenate this page-by-page file into one single text file to account for entries split across pages (<xref ref-type="fig" rid="F5">Figure 5</xref>); 5) Divide the file into entries rather than pages; and 6) walk through the file, keeping track of the last location and date annotation encountered. Each taxon in an entry, coupled with the entry date and the preceding location, was tagged as an occurrence. Each triplet of elements that made up the occurrence was written to a CSV file, along with some text from the entry itself, the page number in the notebook, and a permanent link to the version of the Wikisource page containing the entry at the time the XML file was downloaded.
+                </p>  
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>An example of how a location (Big Thompson Creek near Loveland), a date (Sunday, June 10, 1906), and a taxon (Cottonwood, genus Populus) are grouped from across multiple pages.</p>
+                    </caption>
+                    <graphic xlink:href="ZooKeys-209-235-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Converting records into interoperable formats">
+                <title>Converting records into interoperable formats</title>
+                <p>After pulling occurrences into a CSV, we cross-walked this data into several fields selected from the Darwin Core Standard and added whatever supplementary information we could (e.g. by extrapolating higher taxonomy; see Appendix 1). Content in most fields depended on the four variables extracted from our dataset (taxon, date, location, page number), though some content was fixed (e.g., recordedBy always read “Junius Henderson”), and other content required manual determination or validation before being entered.<!--PageBreak--></p>
+            </sec>
+            <sec sec-type="Proofing the Darwin Core record set">
+                <title>Proofing the Darwin Core record set</title>
+                <p>The process of extracting taxon-location-date triplets is imperfect and requires vetting by proofreaders to ensure accuracy of the automated process, which does not consider contextual data. For example, our automated extraction scripts would incorrectly assume the following passage refers to a presence, not an absence: “Am perplexed by the entire absence of robins on this trip” (<ext-link ext-link-type="uri" xlink:href="http://bit.ly/jhfn1-43" xlink:type="simple">http://bit.ly/jhfn1-43</ext-link>). In future work, we plan to alter our templates to give annotators the ability to record whether an observation marks a presence or absence of a taxon.
+                </p>
+                <p>As mentioned above, taxonomic names need special vetting, too. Henderson freely mixed vernacular and scientific names in his notes, and annotators consequently did as well. We performed taxonomic referencing using Google Refine, Encyclopedia of Life (EOL), and Integrated Taxonomic Information System (ITIS) name resolvers, following instructions from an <italic>iPhylo</italic> blog post by Rod Page (<ext-link ext-link-type="uri" xlink:href="http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html" xlink:type="simple">http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html</ext-link>). First, we loaded our CSV files from each field notebook into Google Refine. We then reconciled names assigned by annotators against the ITIS Freebase namespace (integrated within Google Refine) and the EOL service (developed by Page), and accepted the best judgments (as determined by probability scores). Those <italic>best names</italic> from each service were placed into two separate columns for further expert validation. The rows that produced consistent results from both EOL and ITIS name services were considered correct after a quick check for accuracy. One of the authors (Vaidya) checked each record in which EOL and ITIS suggested different best names and either chose the EOL name, the ITIS name, both, or neither. In many cases, one service provided a clear best fit at the right taxonomic depth compared to the other. In cases where both provided poor results, we did not choose a name. On those records where ITIS was found to be the best fit, we used the ITIS Taxonomic Serial Number to populate the vernacularName and the higher taxonomy fields. We also recorded the taxonomic resolution service used (EOL, ITIS, or EOL &amp; ITIS) in the identificationRemarks field of the Darwin Core file we produced.
+                </p>
+                <p>We also checked for annotation errors directly on Wikisource. One of the authors (Guralnick) went through each page of Notebook 1 on Wikisource to check for any obvious problems, such as poor formatting, mislabeling, or missed annotations (e.g., dates, locations, or taxa that could have been annotated but were not). He also checked all three notebooks for annotations that noted absences or that otherwise were not obviously observations.</p>
+            </sec>
+            <sec sec-type="Data archiving and maintaining links to the original notes">
+                <title>Data archiving and maintaining links to the original notes</title>
+                <p>All generated Darwin Core occurrence records include a URL to the page in Wikisource from which they are drawn in the Source field, i.e., they will take you to the <!--PageBreak-->version of the page that was live at the time at which the original XML file was created, not the latest version of the file. Additionally, each record is assigned an automatically generated catalog number as the record is extracted from the notebook.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Data resources">
+            <title>Data resources</title>
+            <p>The data presented in this paper are available for download in a Darwin Core Archive via VertNet, <ext-link ext-link-type="uri" xlink:href="http://ipt.vertnet.org:8080/ipt/resource.do?r=hendersonnotebooks1-3" xlink:type="simple">http://ipt.vertnet.org:8080/ipt/resource.do?r=hendersonnotebooks1-3</ext-link>.  The archive includes taxon occurrences extracted from the field notes of Junius Henderson as he traveled through Colorado and the western United States.
+            </p>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>After advertising our project via the blog, Twitter, and emails to relevant listservs, a total of three notebooks were transcribed and annotated, largely by volunteers (<xref ref-type="table" rid="T1">Table 1</xref>): 352 pages of notes and 222 entries in all. As of March 27, 2012, 10 registered Wikisource users and 11 anonymous users helped annotate these notebooks. All three notebooks were annotated within four to six weeks each. Again, only three of Henderson’s thirteen notebooks were uploaded for the purposes of this pilot project; we hope to upload and annotate the remaining notebooks soon.
+            </p>
+            <p>A total of 1,087 taxon annotations were created across all three books, with each entry having between zero and 33 taxon annotations. Taxonomic resolution led to 560 records that were identified as valid by both EOL and ITIS taxonomic name resolvers. Expert validation led to 195 records as judged to be matched better by EOL than ITIS, and 83 records wherein the ITIS match was preferable to EOL’s. A total of 238 records could not be validated by either EOL or ITIS.<!--PageBreak--></p>
+            <p>In Notebook 1, only two of 634 annotations were poorly formatted, caused by missing brackets. Only one date was transcribed incorrectly: “Apl 5/07” was annotated incorrectly as “April 7, 1907” (<ext-link ext-link-type="uri" xlink:href="http://bit.ly/enws3614593" xlink:type="simple">http://bit.ly/enws3614593</ext-link>). Also in Notebook 1, ten places and taxa could have been annotated but were not, and in all cases these were very broad taxonomic groups (e.g., Crustacea). A total of eleven taxon annotations across all three notebooks were manually identified as not denoting presence, and removed from the final dataset. Overall, the error rates and false positives were very low. After eliminating records of absence and some incorrect annotations, 1,068 valid observations remained; these were exported to a final Darwin Core Archive is included in the supplemental materials of this paper (see supplemental file 2: “dwca-hendersonnotebooks1-3.zip”).
+            </p>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Summary information on each notebook.</p>
+                </caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"></th>
+                            <th rowspan="1" colspan="1">Notebook 1</th>
+                            <th rowspan="1" colspan="1">Notebook 2</th>
+                            <th rowspan="1" colspan="1">Notebook 3</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">URL</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://bit.ly/jhfn1-indexpg" xlink:type="simple">http://bit.ly/jhfn1-indexpg</ext-link> 
+                            </td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://bit.ly/jhfn2-indexpg" xlink:type="simple">http://bit.ly/jhfn2-indexpg</ext-link> 
+                            </td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://bit.ly/jhfn3-indexpg" xlink:type="simple">http://bit.ly/jhfn3-indexpg</ext-link>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Number of annotations</td>
+                            <td rowspan="1" colspan="1">632</td>
+                            <td rowspan="1" colspan="1">703</td>
+                            <td rowspan="1" colspan="1">1007</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Taxon annotations</td>
+                            <td rowspan="1" colspan="1">349 (201 unique)</td>
+                            <td rowspan="1" colspan="1">224 (125 unique)</td>
+                            <td rowspan="1" colspan="1">514 (248 unique)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Place annotations</td>
+                            <td rowspan="1" colspan="1">219 (115 unique)</td>
+                            <td rowspan="1" colspan="1">419 (154 unique)</td>
+                            <td rowspan="1" colspan="1">401 (139 unique)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Date annotations</td>
+                            <td rowspan="1" colspan="1">64 (63 unique)</td>
+                            <td rowspan="1" colspan="1">60 (59 unique)</td>
+                            <td rowspan="1" colspan="1">92 (90 unique)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Dates in range</td>
+                            <td rowspan="1" colspan="1">July 1905 to April 1907</td>
+                            <td rowspan="1" colspan="1">May 1907 to October 1908</td>
+                            <td rowspan="1" colspan="1">January 1909 to September 1909</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Time spent annotating</td>
+                            <td rowspan="1" colspan="1">6 weeks</td>
+                            <td rowspan="1" colspan="1">4 weeks</td>
+                            <td rowspan="1" colspan="1">6 weeks</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <sec sec-type="Wikisource as a medium for open provisioning and annotation of field notebooks">
+                <title>Wikisource as a medium for open provisioning and annotation of field notebooks</title>
+                <p>Our work is part of a larger set of efforts to transcribe, and ultimately mine, the extensive library of historical biodiversity literature (<xref ref-type="bibr" rid="B2">Gwinn and Rinaldo 2009</xref>). The choice to use Wikisource for provisioning and annotation of field notes well served our needs, but we recognize the tremendous efforts made by developers to build their own platforms for notebook and journal transcription projects, especially <italic>From The Page</italic> (<ext-link ext-link-type="uri" xlink:href="http://beta.fromthepage.com/" xlink:type="simple">http://beta.fromthepage.com/</ext-link>), which is being used to transcribe the field notes of renowned herpetologist Lawrence Klauber, of the San Diego Zoo (<ext-link ext-link-type="uri" xlink:href="http://bit.ly/fromthepage-lmk" xlink:type="simple">http://bit.ly/fromthepage-lmk</ext-link>). The primary benefit that <italic>From The Page</italic> offers over Wikisource is that of customization. In the Klauber interface, for instance, developers were able to add a sidebar listing of Klauber’s “slang”: the common names he used to refer to animals in lieu of their scientific names. This could potentially be a great help to volunteer annotators, but is not currently supported by the Wikisource interface.
+                </p>
+                <p>Wikisource is a relatively new part of the Wikimedia world, and continues to grow to accommodate new uses, as our project demonstrates. The annotation mechanisms we developed were new to Wikisource and pushed the bounds of accepted community practice, especially the relatively obtrusive “link-out boxes” that are placed inline with the text. While there have been some community discussions about the best way of visualizing annotations on Wikisource (e.g., <ext-link ext-link-type="uri" xlink:href="http://bit.ly/N7woun" xlink:type="simple">http://bit.ly/N7woun</ext-link>), there has been no major opposition to our templates as yet. We also created community resources to encourage the use of our templates by other notebook annotation projects in the future (see <ext-link ext-link-type="uri" xlink:href="http://en.wikisource.org/wiki/Wikisource:WikiProject_Field_Notes" xlink:type="simple">http://en.wikisource.org/wiki/Wikisource:WikiProject_Field_Notes</ext-link>), but, as of this writing, we remain the only field notebook project on Wikisource.
+                </p>
+                <p>We were able to speedily annotate three notebooks because our crowdsourcing approach worked as well as, or better, than expected, albeit in unexpected ways. Though we attempted to motivate volunteer efforts by promising acknowledgement in this paper and offering a free coffee mug featuring one of Henderson’s field photos in exchange for service, such incentives were ineffective. Instead, two hard-working, anony<!--PageBreak-->mous users, known only by IP addresses, completed the majority of annotations. This may indicate that there are motivating factors beyond reward and acknowledgement that spur people to volunteer for these projects.</p>
+                <p>It is an open question whether using Wikisource fostered or limited participation. There is a learning curve when using Wikimedia products — not just one of learning a new technology, but also of learning the social mores of the existing wiki-community. Potential volunteers and digitization project managers alike may be put off by both barriers to entry, relatively low though they are. On the technology side, we found the Wikisource GUI to be simple and effective, but not always intuitive. For example, despite good help guides, it took some members of our team (who shall remain unnamed) over a month to discover forward and back arrows that allow navigation between sequential notebook pages without returning to the Index. On the social side, posting to the “talk” pages to discuss new policies or initiatives requires learning new ways of communicating with, and integrating into, an online community, which takes time and emotional energy. We wonder if annotator anonymity reflects a desire to avoid entanglement in this community, and simply do a task that is enjoyable.</p>
+            </sec>
+            <sec sec-type="Challenges storing and extracting and converting records into interoperable formats">
+                <title>Challenges storing and extracting and converting records into interoperable formats</title>
+                <p>Though Wikisource <italic>can</italic> function as a repository of sorts, it is unclear whether the Wikimedia Foundation <italic>wishes</italic> for it to function as the primary home for digital manifestations of primary source documents. Because there is little easily found documentation describing its long-term digital preservation plans or strategies, we hesitate to call Wikisource a repository. The Wikimedia Foundation may wish to be more deliberate and less opaque in communicating these strategies, especially if it wishes to encourage continued annotation work. Clear digital preservation policies could better assure Wikipedians of their contributions’ relative permanence – whether document uploads, transcriptions or annotations.
+                </p>
+                <p>We also faced challenges when attempting to capture our workflow in the same structured format as the occurrence records we were extracting: that is, we had more data than we could “fit” into Darwin Core fields. Our solution was to create two sets of files: one composed of simple Darwin Core terms (see supplemental file 2: “dwca-hendersonnotebooks1-3.zip”), and another with a richer set of provenance data showing the process of taxonomic referencing and data processing (see supplemental file 3: “HendersonDwCfull.csv”). This allowed us to present a simple, interoperable dataset while still preserving a record of the densely idiosyncratic process unique to our project and workflow for the purposes of this paper. However, proliferating slightly different versions of this recordset could ultimately cause more confusion than clarity.</p>
+                <p>Darwin Core’s limited expressivity became especially evident when performing taxonomic referencing; the lack of best practices and vocabularies for describing this<!--PageBreak--> multistep process is a notable gap in biodiversity informatics workflows. We particularly note the lack of a VerbatimName term in Darwin Core. Introducing VerbatimName would provide the means to capture the original string as expressed in an occurrence record or field notebook as a starting point to tracking that taxonomic referencing process. Just as VerbatimLocality and GeoreferencingMethod are recorded for future reinterpretation, new terms such as VerbatimIdentification and TaxonResolutionMethod could provide the means to capture essential processing steps as well.</p>
+                <p>The problems we faced using name resolution services were typical of attempts to automatically extract and parse taxonomic names, thus underscoring the need to better support taxonomic referencing workflows. Though both ITIS and EOL name resolution services returned a substantial number of matches to our names, human validation showed that these resolvers often performed mysteriously, sometimes providing well-resolved binomials when only a genus was entered, or resolving vernacular names in unexpected ways. EOL, for instance, consistently mapped “mouse” to <italic><tp:taxon-name>Amphipyra tragopoginis</tp:taxon-name></italic>, the Mouse Moth. Homonyms across different kingdoms further complicated matters, such as <italic><tp:taxon-name>Crucibulum</tp:taxon-name></italic>, which may be a genus of gastropod or of fungi.
+                </p>
+            </sec>
+            <sec sec-type="Challenges with data storage and lasting linkages to sources">
+                <title>Challenges with data storage and lasting linkages to sources</title>
+                <p>Field notebook data and specimen records are often recorded in the field, at the same time, but need to be reconnected after the fact. It is unclear which of Henderson’s observations resulted in collecting events, but re-associating data from these different sources will help enrich local knowledge of biodiversity. A next step will be comparing and contrasting University of Colorado Museum of Natural History zoological specimen catalogs with field notebook observation datasets, both now represented in Darwin Core files. One simple approach is to search on date, and compile taxonomic matches between notebook observations and specimen records. Also of great value will be georeferencing field notebook records to further simplify direct comparisons with other contemporaneous species occurrence records.</p>
+                <p>We close by noting a final and perhaps most vexing challenge: keeping field note annotations on Wikisource synchronized with the extracted occurrence records. During the occurrence extraction process, we assigned catalog numbers to each occurrence. However, we do not presently have a workflow to then annotate Wikisource with these numbers. Because Wikisource is a necessarily live platform, there is a possibility that additional occurrences will be found and annotated after our initial extraction. Our script, as it is written, would re-catalog these occurrences from the top of the page to the bottom; in short, our catalog numbers are neither stable, nor permanent nor globally unique. This will be hugely problematic if our workflow is implemented in other projects with longer time horizons. In the future, we either need to find a way to annotate occurrences in Wikisource with unique identifiers, or edit our script and cataloging process to remember what we have or have not counted as an occurrence. Although excellent versioning in Wikisource and inclusion of some content from the <!--PageBreak-->notebooks in the final CSV files may allow checks for old and new entries, the more stable and reliable solution is to amend the script to automatically annotate references to taxa in Wikisource with such identifiers.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Many thanks to Allaina Wallace and Ruth Duerr for their crucial contribution of the original scans of Henderson field notebooks. Thanks especially to Ben Brumfield for thoughtful discussions and support through his excellent blog <italic>Collaborative Manuscript Transcription</italic> (<ext-link ext-link-type="uri" xlink:href="http://manuscripttranscription.blogspot.com/" xlink:type="simple">http://manuscripttranscription.blogspot.com/</ext-link>). We also appreciate the support and encouragement of Rusty Russell and Carolyn Sheffield of the Smithsonian Field Book Project (<ext-link ext-link-type="uri" xlink:href="http://www.mnh.si.edu/rc/fieldbooks/" xlink:type="simple">http://www.mnh.si.edu/rc/fieldbooks/</ext-link>). Many thanks to Paul Flemons and other commenters on our So You Think You Can Digitize blog (<ext-link ext-link-type="uri" xlink:href="http://soyouthinkyoucandigitize.wordpress.com" xlink:type="simple">http://soyouthinkyoucandigitize.wordpress.com</ext-link>); their feedback has been instrumental in moving us forward. Elizabeth Merritt and the Center for the Future of Museums helped us reach a much broader audience via the CFM blog. Although we don’t know the names of our mystery annotators, we want to especially thank them for doing a tremendous amount of painstaking work with high accuracy. We only know a pseudonym for one presumed annotator, “R. U. Testing Me.” Nic Weber reviewed parts of the manuscript and provided useful feedback. Finally, we appreciate the opportunity to be included in this special issue and want to thank the reviewers for their excellent comments, and Vladimir Blagoderov for his patience and support.
+            </p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grinnell</surname> <given-names>J</given-names></name></person-group> (<year>1912</year>)<article-title> An Afternoon’s Field Notes</article-title>. <source>The Condor</source> <volume>14</volume>(<issue>3</issue>): <fpage>104</fpage>-<lpage>107</lpage>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/1362226" xlink:type="simple">http://www.jstor.org/stable/1362226</ext-link></mixed-citation>
+            </ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gwinn</surname> <given-names>N</given-names></name><name name-style="western"><surname>Rinaldo</surname> <given-names>C</given-names></name></person-group> (<year>2009</year>)<article-title> The Biodiversity Heritage Library: Sharing biodiversity literature with the world.</article-title> <source>IFLA Journal </source> <volume>35</volume> (<issue>1</issue>): <fpage>25</fpage>-<lpage>34</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hagedorn</surname> <given-names>G</given-names></name><name name-style="western"><surname>Mietchen</surname> <given-names>D</given-names></name><name name-style="western"><surname>Morris</surname> <given-names>RA</given-names></name><name name-style="western"><surname>Agosti</surname> <given-names>D</given-names></name><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name><name name-style="western"><surname>Hobern</surname> <given-names>D</given-names></name></person-group> (<year>2011</year>)<article-title> Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information.</article-title> In: <person-group><name name-style="western"><surname>Smith</surname> <given-names>V</given-names></name><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name></person-group> (<role>Eds</role>). <issue-title> e-Infrastructures for data publishing in biodiversity science.</issue-title> <source>ZooKeys </source> <volume>150</volume>: <fpage>127</fpage>–<lpage>149</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.150.2189" xlink:type="simple">10.3897/zookeys.150.2189</ext-link></mixed-citation>
+            </ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heywood</surname> <given-names>VH</given-names></name><name name-style="western"><surname>Watson</surname> <given-names>RT</given-names></name></person-group> (<year>1995</year>)<source> Global Biodiversity Assessment. Cambridge University Press, Cambridge.</source></mixed-citation>
+            </ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Henderson</surname> <given-names>J</given-names></name></person-group> (<year>1907</year>)<source> Notebook 1. Unpublished; available online at <ext-link ext-link-type="uri" xlink:href="http://commons.wikimedia.org/w/index.php?title=File:Field_Notes_of_Junius_Henderson,_Notebook_1.djvu&amp;oldid=68218270" xlink:type="simple">http://commons.wikimedia.org/w/index.php?title=File:Field_Notes_of_Junius_Henderson,_Notebook_1.djvu&amp;oldid=68218270</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://en.wikisource.org/w/index.php?title=Field_Notes_of_Junius_Henderson/Notebook_1&amp;oldid=3721123" xlink:type="simple">http://en.wikisource.org/w/index.php?title=Field_Notes_of_Junius_Henderson/Notebook_1&amp;oldid=3721123</ext-link></source></mixed-citation>
+            </ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jenkins</surname> <given-names>M</given-names></name></person-group> (<year>2003</year>)<article-title> Prospects in biodiversity.</article-title> <source>Science </source> <volume>302</volume>: <fpage>1175</fpage>-<lpage>1177</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kramer</surname> <given-names>KL</given-names></name></person-group> (<year>2011</year>)<source> The spoken and the unspoken. In: Canfield MR (Ed) Field Notes on Science &amp; Nature. Harvard University Press, Cambridge, Massachusetts0.</source></mixed-citation>
+            </ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lally</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Dunford</surname> <given-names>C</given-names></name></person-group> (<year>2007</year>)<source> Using Wikipedia to Extend Digital Collections. D-Lib Magazine, 13(5/6). Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.dlib.org/dlib/may07/lally/05lally.html" xlink:type="simple">http://www.dlib.org/dlib/may07/lally/05lally.html</ext-link></source></mixed-citation>
+            </ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Loreau</surname> <given-names>M</given-names></name><name name-style="western"><surname>Oteng-Yeboah</surname> <given-names>A</given-names></name><name name-style="western"><surname>Arroyo</surname> <given-names>MTK</given-names></name><name name-style="western"><surname>Babin</surname> <given-names>D</given-names></name><name name-style="western"><surname>Barbault</surname> <given-names>R</given-names></name><name name-style="western"><surname>Donoghue</surname> <given-names>M</given-names></name><name name-style="western"><surname>Gadgil</surname> <given-names>M</given-names></name><name name-style="western"><surname>Häuser</surname> <given-names>C</given-names></name><name name-style="western"><surname>Heip</surname> <given-names>C</given-names></name><name name-style="western"><surname>Larigauderie</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ma</surname> <given-names>K</given-names></name><name name-style="western"><surname>Mace</surname> <given-names>G</given-names></name><name name-style="western"><surname>Mooney</surname> <given-names>HA</given-names></name><name name-style="western"><surname>Perrings</surname> <given-names>C</given-names></name><name name-style="western"><surname>Raven</surname> <given-names>P</given-names></name><name name-style="western"><surname>Sarukhan</surname> <given-names>J</given-names></name><name name-style="western"><surname>Schei</surname> <given-names>P</given-names></name><name name-style="western"><surname>Scholes</surname> <given-names>RJ</given-names></name><name name-style="western"><surname>Watson</surname> <given-names>RT</given-names></name></person-group> (<year>2006</year>)<article-title> Diversity without representation.</article-title> <source>Nature </source> <volume>442</volume>: <fpage>245</fpage>-<lpage>246</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Millennium Ecosystem Assessment</surname></name></person-group> (<year>2005</year>)<source> Ecosystems and Human Well-being: Synthesis. Island Press, Washington, DC. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.maweb.org/documents/document.356.aspx.pdf" xlink:type="simple">http://www.maweb.org/documents/document.356.aspx.pdf</ext-link></source></mixed-citation>
+            </ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moritz</surname> <given-names>C</given-names></name><name name-style="western"><surname>Patton</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Conroy</surname> <given-names>CJ</given-names></name><name name-style="western"><surname>Parra</surname> <given-names>JL</given-names></name><name name-style="western"><surname>White</surname> <given-names>GC</given-names></name><name name-style="western"><surname>Beissinger</surname> <given-names>SR</given-names></name></person-group> (<year>2008</year>)<article-title> Impact of a Century of Climate Change on Small-Mammal Communities in Yosemite National Park, USA.</article-title> <source>Science </source> <volume>322</volume>: <fpage>261</fpage>-<lpage>264</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1163428" xlink:type="simple">10.1126/science.1163428</ext-link></mixed-citation>
+            </ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nufio</surname> <given-names>CR</given-names></name><name name-style="western"><surname>McGuire</surname> <given-names>CR</given-names></name><name name-style="western"><surname>Bowers</surname> <given-names>MD</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>RP</given-names></name></person-group> (<year>2010</year>)<source> Grasshopper community response to climatic change: Variation along an elevational gradient. PLoS ONE 5: e12977. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0012977" xlink:type="simple">10.1371/journal.pone.0012977</ext-link></mixed-citation>
+            </ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Perrine</surname> <given-names>JD</given-names></name><name name-style="western"><surname>Patton</surname> <given-names>JL</given-names></name></person-group> (<year>2011</year>)<source> Letters to the Future. In Canfield MR (Ed) Field Notes on Science &amp; Nature. Harvard University Press, Cambridge, Massachusetts.</source></mixed-citation>
+            </ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Remsen</surname> <given-names>D</given-names></name><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>Georgiev</surname> <given-names>T</given-names></name><name name-style="western"><surname>Stoev</surname> <given-names>P</given-names></name><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name></person-group> (<year>2012</year>)<article-title> From text to structured data: Converting a wordprocessed floristic checklist into Darwin Core Archive format.</article-title> <source>PhytoKeys </source> <volume>9</volume>: <fpage>1</fpage>-<lpage>13</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/phytokeys.9.2770" xlink:type="simple">10.3897/phytokeys.9.2770</ext-link></mixed-citation>
+            </ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sheffield</surname> <given-names>C</given-names></name><name name-style="western"><surname>Nakasone</surname> <given-names>S</given-names></name><name name-style="western"><surname>Ferrante</surname> <given-names>R</given-names></name><name name-style="western"><surname>Peters</surname> <given-names>T</given-names></name><name name-style="western"><surname>Russell</surname> <given-names>R</given-names></name><name name-style="western"><surname>Van Camp</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>)<source> Merging Metadata: Building on Existing Standards to Create a Field Book Registry. Libreas: Library Ideas 7: 66–74. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.libreas.eu/ausgabe18/texte/08sheffield.htm" xlink:type="simple">http://www.libreas.eu/ausgabe18/texte/08sheffield.htm</ext-link></source></mixed-citation>
+            </ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sheffield</surname> <given-names>C</given-names></name><name name-style="western"><surname>Nakasone</surname> <given-names>S</given-names></name></person-group> (<year>2011</year>)<article-title> Together under one roof: Combining collection and item level description through multiple metadata schemas.</article-title> <source>Proceedings of the American Society for Information Science and Technology </source> <volume>48</volume> (<issue>1</issue>): <fpage>1</fpage>-<lpage>4</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/meet.2011.14504801312" xlink:type="simple">10.1002/meet.2011.14504801312</ext-link></mixed-citation>
+            </ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tingley</surname> <given-names>MW</given-names></name><name name-style="western"><surname>Monahan</surname> <given-names>WB</given-names></name><name name-style="western"><surname>Beissinger</surname> <given-names>SR</given-names></name><name name-style="western"><surname>Moritz</surname> <given-names>C</given-names></name></person-group> (<year>2009</year>)<article-title> Birds track their Grinnellian niche through a century of climate change.</article-title> <source>Proceedings of the National Academy of Sciences </source> <volume>106</volume>: <fpage>19637</fpage>-<lpage>19643</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.0901562106" xlink:type="simple">10.1073/pnas.0901562106</ext-link></mixed-citation>
+            </ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wake</surname> <given-names>D</given-names></name><name name-style="western"><surname>Vredenburg</surname> <given-names>VT</given-names></name></person-group> (<year>2008</year>)<article-title> Are we in the midst of the sixth mass extinction? A view from the world of amphibians. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.0801921105" xlink:type="simple">10.1073/pnas.0801921105</ext-link></article-title> <source>Proceedings of the National Academy of Sciences USA </source> <volume>105</volume> (<issue>1</issue>): <fpage>11466</fpage>-<lpage>11473</lpage>.</mixed-citation>
+            </ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wieczorek</surname> <given-names>J</given-names></name><name name-style="western"><surname>Bloom</surname> <given-names>D</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>R</given-names></name><name name-style="western"><surname>Blum</surname> <given-names>S</given-names></name><name name-style="western"><surname>Döring</surname> <given-names>M</given-names></name><name name-style="western"><surname>Giovanni</surname> <given-names>R</given-names></name><name name-style="western"><surname>Robertson</surname> <given-names>T</given-names></name><name name-style="western"><surname>Vieglais</surname> <given-names>D</given-names></name></person-group> (<year>2012</year>)<source> Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0029715" xlink:type="simple">10.1371/journal.pone.0029715</ext-link></mixed-citation>
+            </ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Worm</surname> <given-names>B</given-names></name><name name-style="western"><surname>Barbier</surname> <given-names>EB</given-names></name><name name-style="western"><surname>Beaumont</surname> <given-names>N</given-names></name><name name-style="western"><surname>Duffy</surname> <given-names>JE</given-names></name><name name-style="western"><surname>Folke</surname> <given-names>C</given-names></name><name name-style="western"><surname>Halpern</surname> <given-names>B</given-names></name><name name-style="western"><surname>Jackson</surname> <given-names>JBC</given-names></name><name name-style="western"><surname>Lotze</surname> <given-names>HK</given-names></name><name name-style="western"><surname>Micheli</surname> <given-names>F</given-names></name><name name-style="western"><surname>Palumbi</surname> <given-names>SR</given-names></name><name name-style="western"><surname>Sala</surname> <given-names>E</given-names></name><name name-style="western"><surname>Selkoe</surname> <given-names>KA</given-names></name><name name-style="western"><surname>Stachowicz</surname> <given-names>JJ</given-names></name><name name-style="western"><surname>Watson</surname> <given-names>R</given-names></name></person-group> (<year>2006</year>)<article-title> Impacts of biodiversity loss on ocean ecosystem services.</article-title> <source>Science </source> <volume>314</volume>: <fpage>787</fpage>-<lpage>790</lpage>.</mixed-citation>
+            </ref>
+        </ref-list>
+        <app-group>
+        	<app><title/>
+        <sec sec-type="Appendix 1">
+            <title>Appendix 1</title>
+            <p>Darwin Core categories and field names used in this project. The authors generated the non-Darwin Core Terms and associated fields.</p>
+            <table-wrap>
+								<label></label>
+                <caption></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">Darwin Core Class</td>
+                            <td rowspan="1" colspan="1">Terms included in Darwin Core file</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Record-level Terms</td>
+                            <td rowspan="1" colspan="1">dcterms:modified, basisOfRecord, institutionCode, collectionCode, source</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Occurrence</td>
+                            <td rowspan="1" colspan="1">catalogNumber, recordedBy</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Event</td>
+                            <td rowspan="1" colspan="1">eventDate, year, month, day, verbatimDate, fieldNotes</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Location</td>
+                            <td rowspan="1" colspan="1">country, countryCode, stateProvince, locality, verbatimLocality</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Identification</td>
+                            <td rowspan="1" colspan="1">identifiedBy, identificationRemarks, </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Taxon</td>
+                            <td rowspan="1" colspan="1">taxonID, scientificName, kingdom, phylum, class, order, family, genus, species, vernacularName, taxonStatus, taxonRemarks</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Non-Darwin Core Terms</td>
+                            <td rowspan="1" colspan="1">–ScrapedName records the scientificName for the organism observed as entered by Henderson and transcribed by us.-AnnotatorName records the corrected ScrapedName as recorded by the annotators. The annotators had the option of leaving this field blank, in which case we use the ScrapedName as the AnnotatorName.–Both ScrapedName and AnnotatorName were fed through a taxonomic resolution process (see Methods, section “Proofing the Darwin Core record set”). Three taxonomic resolvers were used for some of the records: the Global Names Index (GNI), the Encyclopedia of Life (EOL) and the Integrated Taxonomic Information System (ITIS). The resulting identifiers and best-matched scientificNames are provided for all three services; additionally, our ITIS service returned vernacular names, which are also recorded. The Source of correct name field indicates whether EOL, ITIS or Both services were returned the correct name.-canonicalScientificName is the scientificName with the authorship information deleted.-AnnotatorLocality: Annotators were asked to provide a corrected, modern place name for the verbatimName; these are recorded here.-Higher taxonomy (kingdom, phylum/division, etc.) were only extracted from ITIS for records where the ITIS name was correct. The taxonID field contains the ITIS Taxonomic Serial Number (TSN) used to look up the higher taxonomy; the scientificName from TSN field contains the scientific name that ITIS associates with that TSN.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        </app>
+        <app><title/>
+        <sec sec-type="Appendix 2">
+            <title>Appendix 2</title>
+            <p>Data extraction methodology. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3247.app2)" xlink:type="simple">10.3897/zookeys.209.3247.app2)</ext-link> File format: PDF.
+            </p>
+            <p><bold>Explanation note:</bold> This supplement contains a detailed description of the steps we carried out to extract transcriptions and annotations, from Wikisource via the MediaWiki API. The Perl scripts we used to carry out these steps are available online at <ext-link ext-link-type="uri" xlink:href="https://github.com/gaurav/henderson" xlink:type="simple">https://github.com/gaurav/henderson</ext-link>.
+            </p>
+        </sec>
+        </app>
+        <app><title/>
+        <sec sec-type="Appendix 3">
+            <title>Appendix 3</title>
+            <p>Text file containing all occurrence records. (doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.209.3247.app3)" xlink:type="simple">10.3897/zookeys.209.3247.app3)</ext-link> File format: CSV.
+            </p>
+            <p><bold>Explanation note:</bold> A complete set of occurrence records extracted from Henderson's notebooks 1-3.
+            </p>
+        </sec>
+        </app>
+        </app-group>
+    </back>
+</article>

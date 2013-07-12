@@ -1,0 +1,926 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.66.684</article-id>
+            <title-group>
+                <article-title>
+                    Agra, arboreal beetles of Neotropical forests:pusilla group and piranha group systematics and notes on their ways of life (Coleoptera, Carabidae, Lebiini, Agrina)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Erwin</surname>
+                        <given-names>Terry L.</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+                    <uri xlink:type="simple">urn:lsid:zoobank.org:author:A7923396-E5AB-4C31-842A-12B8D8C0F315</uri>
+                </contrib>
+            </contrib-group>
+                    <aff id="A1"><italic>Hyper-diversity Group, Department of Entomology, MRC-187, National Museum of Natural History, Smithsonian Institution, Washington, P.O. Box 37012, DC 20013-7012, USA</italic></aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Terry L. Erwin (<email xlink:type="simple">erwint@si.edu</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Achille Casale</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2010</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>4</day>
+                <month>11</month>
+                <year>2010</year>
+            </pub-date>
+            <issue>66</issue>
+            <fpage>1</fpage>
+            <lpage>28</lpage>
+            <history>
+                <date date-type="received">
+                    <day>29</day>
+                    <month>9</month>
+                    <year>2010</year>
+                </date>
+                <date date-type="accepted">
+                    <day>11</day>
+                    <month>10</month>
+                    <year>2010</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Terry L. Erwin</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:type="simple">urn:lsid:zoobank.org:pub:176306EB-6342-4E75-AD76-C4A82040A002</self-uri>
+            
+            <abstract>
+                <label>Abstract</label>
+                <p>Revisions of two new species groups of the genus <tp:taxon-name>Agra</tp:taxon-name> Fabricius are presented with the following species described as new: <italic>pusilla</italic> group - <tp:taxon-name>Agra cruciaria</tp:taxon-name> <bold>sp. n.</bold> (Brazil), <tp:taxon-name>Agra grace</tp:taxon-name> <bold>sp. n.</bold> (Ecuador,Perú), <tp:taxon-name>Agra max</tp:taxon-name> <bold>sp. n.</bold> (Brazil), <tp:taxon-name>Agra minasianus</tp:taxon-name> <bold>sp. n.</bold> (Brazil),</p>
+                <p><tp:taxon-name>Agra notpusilla</tp:taxon-name> <bold>sp. n.</bold> (Brazil), <tp:taxon-name>Agra pseudopusilla</tp:taxon-name> <bold>sp. n.</bold> (Brazil); piranha group - <tp:taxon-name>Agra ce</tp:taxon-name> <bold>sp. n.</bold> (Perú), <tp:taxon-name>Agra risseri</tp:taxon-name> <bold>sp. n.</bold> (Bolivia,Brazil), <tp:taxon-name>Agra maia</tp:taxon-name> <bold>sp. n.</bold> (Bolivia), <tp:taxon-name>Agra piranha</tp:taxon-name> <bold>sp. n.</bold> (Ecuador); <tp:taxon-name>Agra tiputini</tp:taxon-name> <bold>sp. n.</bold> (Ecuador). Species of these two groups have adults that are the smallest in the entire genus, although this does not indicate they are closely related based on other attributes. All species are Amazonian in distribution.</p>
+            </abstract>
+            <kwd-group>
+		            
+                <label>Keywords</label>
+  								
+                <kwd>Neotropics</kwd>
+									
+                <kwd>Bolivia</kwd>
+									
+                <kwd>Brazil</kwd>
+									
+                <kwd>Ecuador</kwd>
+									
+                <kwd>Perú</kwd>
+									
+                <kwd>rainforest</kwd>
+									
+                <kwd>canopy</kwd>
+            </kwd-group>
+            <!--PageBreak-->
+        </article-meta>
+    </front>
+
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The purpose of this 17th contribution in my series of papers with diagnoses of new taxa and redescriptions of known taxa in the beetle genus <tp:taxon-name>Agra</tp:taxon-name> Fabricius, 1801 (<tp:taxon-name>Carabidae</tp:taxon-name>) is to present a revision of the species in the <italic>pusilla</italic> and <italic>piranha</italic> groups. For the previous papers, see (<xref ref-type="bibr" rid="B5">Erwin (1978</xref>, <xref ref-type="bibr" rid="B6">1982a</xref>, <xref ref-type="bibr" rid="B7">1982b</xref>, <xref ref-type="bibr" rid="B8">1983</xref>, <xref ref-type="bibr" rid="B9">1984</xref>, <xref ref-type="bibr" rid="B11">1986</xref>, <xref ref-type="bibr" rid="B12">1991</xref>, <xref ref-type="bibr" rid="B13">1993</xref>, <xref ref-type="bibr" rid="B14">1996</xref>, <xref ref-type="bibr" rid="B15">1998</xref>, <xref ref-type="bibr" rid="B16">2000a</xref>, <xref ref-type="bibr" rid="B17">2000b</xref>, <xref ref-type="bibr" rid="B18">2000c</xref>, <xref ref-type="bibr" rid="B19">2002</xref>), <xref ref-type="bibr" rid="B23">Erwin and Pogue (1988)</xref>, and <xref ref-type="bibr" rid="B1">Arndt et al. (2001)</xref>. New species descriptions provided here will not be the end of the story. New species of this incredibly speciose and diverse genus continue to be discovered each year throughout the Neotropics and subtropical México /Texas and northern Argentina.</p>
+            <p>These beetles belong to the Tribe <tp:taxon-name>Lebiini</tp:taxon-name>, Subtribe <tp:taxon-name>Agrina</tp:taxon-name>, of which the genus <tp:taxon-name>Agra</tp:taxon-name> Fabricius is by far the largest lineage in number of species. Subtribe <tp:taxon-name>Agrina</tp:taxon-name> consists of those species formerly included in the Subtribe <tp:taxon-name>Calleidina</tp:taxon-name> (cf. <xref ref-type="bibr" rid="B29">Lorenz 1998</xref>, <xref ref-type="bibr" rid="B30">2005</xref>). More than 2000 neotropical/subtropical species of <tp:taxon-name>Agra</tp:taxon-name> are known from museum collections; however, only some 592 of these have been described since Fabricius erected the genus in 1801, plus three species described in the very late 1700’s by Olivier and Fabricius, but originally placed in the Linnaean genus <tp:taxon-name>Carabus</tp:taxon-name>. The sister group was hypothesized to be an African/Madagascan group near <tp:taxon-name>Callidiola</tp:taxon-name> <xref ref-type="bibr" rid="B25">Jeannel 1949</xref>, however <xref ref-type="bibr" rid="B3">Casale (1998)</xref> argues against that. His analysis suggested that <tp:taxon-name>Agra</tp:taxon-name> is more closely aligned with <tp:taxon-name>Physoderina</tp:taxon-name>, as the adelphotaxon. Certainly, the female stylomere 2 fits that hypothesis in a general way and the male median lobe is not <tp:taxon-name>Calleida</tp:taxon-name> or <tp:taxon-name>Callidiola</tp:taxon-name> like. However, there is little in the overall “gestalt" that might lead one to conclude these lineages are at all related. It is time for comparative DNA analysis, I suggest, to determine where these higher lebiine lineages fall out on an updated classificatory scheme. Unfortunately, in the fine contribution of <xref ref-type="bibr" rid="B31">Ober and Maddison (2008)</xref>, the <tp:taxon-name>Physoderina</tp:taxon-name> were not included, even though they saw possible monophyly amongst <tp:taxon-name>Calleidina</tp:taxon-name> (sensu <xref ref-type="bibr" rid="B3">Casale 1998</xref>), <tp:taxon-name>Agrina</tp:taxon-name>, <tp:taxon-name>Metallicina</tp:taxon-name> etc. This will mean that specimens of the <italic>pusilla</italic> group need to be in the DNA mix of samples because of their clearly, based on structural attributes, less derived features amongst all the other species groups of this very diverse genus. And, members of <tp:taxon-name>Physoderina</tp:taxon-name> will need to be in the mix, as well.</p>
+            <p>The <italic>pusilla</italic> group contains what appear to be the least derived lineage of <tp:taxon-name>Agra</tp:taxon-name> and obtaining DNA from them will be crucial in locating the sister lineage – an additional reason for this present revision is making the species and their localities more broadly available, so that fresh specimens can be appropriately acquired and identified. The piranha group apparently is more derived than the pusilla group, but both groups are composed in part of little blue beetles and I thought it better to treat them together for purposes of easier identification and classification.</p>
+            <p>Likely, adult <tp:taxon-name>Agra</tp:taxon-name> are predaceous on other arthropods; one specimen of another species group dissected had fragments of termites in its gut contents. Adults also have been observed drinking exudates from young new shoots and young leaves on a variety of tree species, as well as feeding on pollen (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>). Adults are active on tree surfaces in the canopy and along forest edges at night, as well as in suspended dry leaves<!--PageBreak--> in the understory; in addition, at least one species group is often found on savannah grasses. Adult tarsi are adapted for running on the surfaces of leaves with pads similar to those found in adult <tp:taxon-name>Chrysomelidae</tp:taxon-name> and <tp:taxon-name>Cerambycidae</tp:taxon-name>. Adults rest under these leaves “concealed" with legs and antennae tucked close to the body, the beetle aligned perfectly with the midrib of the leaf; in the case of grass-dwelling species they align with the culms. <tp:taxon-name>Agra</tp:taxon-name> adults are nocturnal and commonly fly to lights at night and into Malaise traps, however, none are known so far from ground level flight-intercept traps. These beetles have a potent defensive secretion from paired glands in their abdomen that, in field tests, bats definitely do not like (<xref ref-type="bibr" rid="B5">Erwin 1978</xref>). And, males of many species of this genus have special ventral patches of setae or pubescence that suggest they may waft pheromones to attract females. If correct, these chemicals have not been explored for their composition or possible uses. Known larvae are thought to occur normally under bark of standing trees, probably in burrows of other insects, and are thought to be predatory (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>). A few larvae have been obtained by rearing from eggs of known females and with insecticidal fogging techniques before dawn (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>), the latter indicating the larvae may wander on the tree surfaces at night.</p>
+        </sec>
+        <sec sec-type="Specimens and methods"><title>Specimens and methods</title>
+            <p>Methods and species concepts follow those previously described (<xref ref-type="bibr" rid="B22">Erwin and Kavanaugh 1981</xref>; <xref ref-type="bibr" rid="B27">Kavanaugh and Erwin 1991</xref>). The species validation and diagnosis format follows as closely as possible that suggested in <xref ref-type="bibr" rid="B21">Erwin and Johnson (2000)</xref> and as used in <xref ref-type="bibr" rid="B16">Erwin (2000a</xref>, <xref ref-type="bibr" rid="B20">2004</xref>). Measurements of length (ABL, SBL) and width (TW) follow those of <xref ref-type="bibr" rid="B2">Ball (1972)</xref> and <xref ref-type="bibr" rid="B26">Kavanaugh (1979)</xref>: ABL (apparent body length), measured from apex of labrum to apex of longer elytron; SBL (standardized body length), equals the sum of the lengths of the head (measured from apex of clypeus to a point on midline at level of the posterior edge of compound eyes), pronotum (measured from apical to basal margin along midline), and elytron length (measured from apex of scutellum to apex of the longer elytron); and TW, (total width), measured across both elytra at their widest point.</p>
+            <p>Included in this study are a total of 22 specimens from the National Museum of Natural History, Washington, DC (NMNH); H. Perrin, J. Menier, Museu National d’Historie Naturelle, Paris (MNHNP ); A. Kuska, Institut Zoologique, Warsaw, Poland (WAR); S. Fragoso, M. Monné, Brazil National Collection, Museu Nacional, Rio de Janeiro, Brazil (BNCRio); M. Baccis, British Museum (Natural History), London, England (BMNH); O.V. Ferreira and J. Jurberg, Ozwaldo Cruz Institute, Rio de Janeiro, Brazil, (ZIKAN); R. Woodruff, Florida Department of Agriculture, Gainesville (FSCA). Note that the curators named were on duty at the time of the loan; many of these have since retired.</p>
+            <p>The habitus images of the adult beetles portray most of the character states referred to in the keys provided. Illustrations of male genitalia are standard for descriptive taxonomy of carabid beetles. The habitus images of the adults were made with a Visionary <!--PageBreak-->DigitalTM high resolution imaging system. Figure captions include an ADP number, which is a unique identification number for the specimen that was illustrated or imaged and links the specimen and associated illustrations and/or image to additional information in electronic databases at the NMNH. All scale lines are 0.5mm.</p>
+            <p>Geographical data are presented for species based on all known specimens available at the time of manuscript preparation. Georeferences have been determined from locality information provided on specimen labels; only those exact Georeferences that are provided on the label are placed in quotes, otherwise I have estimated the Georeferences as closely as possible from places, mileage, etc. listed on the label and searched with Google Earth Pro. Latitude and longitude are reported in decimal degrees. Distribution maps are provided for the species (<xref ref-type="fig" rid="F6">Figs 10</xref>, <xref ref-type="fig" rid="F7">11</xref>). Here, English vernacular names are proposed, as common names are becoming increasingly needed in conservation and/or agricultural and forestry applications.</p>
+            <p>The species list below, as well as arrangement of descriptions that follows is ordered alphabetically.</p>
+        </sec>
+        <sec sec-type="Accounts of taxa"><title>Accounts of taxa</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>Genus</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Fabricius, 1801</tp:taxon-authority>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Agra</tp:taxon-name><comment> Fabricius, 1801:224. Type-species: <tp:taxon-name>Agra aenea</tp:taxon-name> <xref ref-type="bibr" rid="B24">Fabricius 1801</xref>:224, named first among three species described by Fabricius. Designated by <xref ref-type="bibr" rid="B6">Erwin (1982a)</xref>. <tp:taxon-name>Agridia</tp:taxon-name> Chaudoir, 1861:109. Type-species: <tp:taxon-name>Agridia platyscelis</tp:taxon-name> Chaudoir (1861: 109), named first among two species described by Chaudoir. Designated by <xref ref-type="bibr" rid="B6">Erwin (1982a)</xref>.</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnostic combination"><title>Diagnostic combination.</title>
+                    <p>Elegant Canopy Beetles</p>
+                    <p> During evolution toward a canopy domain and away from a likely under canopy sister group, <tp:taxon-name>Agra</tp:taxon-name> adults acquired numerous generic-level autapotypic features as follows: head elongate with prognathate mandibles, securiform labial ultimate palpomeres (<xref ref-type="bibr" rid="B6">Erwin 1982a</xref>), extended cranium, and constricted neck; prothorax elongate and tubular, plural sutures effaced; tarsomeres (<xref ref-type="bibr" rid="B6">Erwin 1982a</xref>) dilated with setiferous pads beneath, claws explanate and pectinate; elytron with latero-basal sinus and latero-apical callus, apex medially and laterally toothed or somewhat produced, apical margin truncate, sinuate, or medially lobed; and male venter variously adorned with setal or pubescent patches; female reproductive system adapted to egg-laying deep in substrate (telescopic) (<xref ref-type="bibr" rid="B19">Erwin 2002</xref>) with (usually) stout, apically-armed with ensiform setae, stylomere 2. Defense system very large (<xref ref-type="bibr" rid="B6">Erwin 1982</xref>). Size. ABL=6.0mm to 29.0mm; TW=1.5mm to 6.0mm.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Note"><title>Note.</title>
+                    <p> For descriptions of species groups previously recognized, refer to (<xref ref-type="bibr" rid="B14">Erwin (1996</xref>, <xref ref-type="bibr" rid="B15">1998</xref>, <xref ref-type="bibr" rid="B19">2002</xref>).<!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+                    <sec sec-type="The pusilla species-group"><title>The pusilla species-group</title>
+                        <p>Members of the <italic>pusilla</italic> group are the smallest of the genus <tp:taxon-name>Agra</tp:taxon-name> and in part, of a beautiful blue color and matte luster with highly contrasting bicolored femora.</p>
+                        <p><bold>Diagnosis:</bold> Femur bicolored. Back of head rounded and sparsely punctate. Adult males with extensive ventral tarsomere pads on both front and middle legs. Prothorax markedly punctate. Elytral interneurs of uni- and/or biseriate rows of cribriform punctures. Aedeagus with narrow spatulate apex. Female stylomere 2 short and arcuate, glabrous, and apically armed with two ensiform setae, as in <xref ref-type="fig" rid="F4">Fig. 7</xref>.</p>
+                        <p><bold>Note:</bold> The known composite range of the <italic>pusilla</italic> group extends from Amazonian Ecuador and Perú across southeastern Brazil and into the Mata Atlântica.</p>
+                        <p><bold>Included Species</bold></p>
+                        <p><tp:taxon-name>Agra cruciaria</tp:taxon-name> Erwin, sp. n. 	Brazil</p>
+                        <p><tp:taxon-name>Agra grace</tp:taxon-name> Erwin, sp. n. 	Ecuador, Perú</p>
+                        <p><tp:taxon-name>Agra max</tp:taxon-name> Erwin, sp. n. 	Brazil</p>
+                        <p><tp:taxon-name>Agra minasianus</tp:taxon-name> Erwin, sp. n.	Brazil</p>
+                        <p><tp:taxon-name>Agra notpusilla</tp:taxon-name> Erwin, sp. n.	Brazil</p>
+                        <p><tp:taxon-name>Agra perforata</tp:taxon-name> Liebke, 1938 	Brazil</p>
+                        <p><tp:taxon-name>Agra pseudopusilla</tp:taxon-name> Erwin, sp. n. 	Brazil</p>
+                        <p><tp:taxon-name>Agra pusilla</tp:taxon-name> Chaudoir, 1847	Brazil</p>
+                    </sec>
+                    <sec sec-type="Key to the species of the pusilla group of  Agra Fabricius, 1801"><title>Key to the species of the pusilla group of  <tp:taxon-name>Agra</tp:taxon-name> Fabricius, 1801</title>
+                        <table-wrap content-type="key" position="anchor" orientation="portrait">
+                            
+                            <table>
+                                <tbody>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">1</td>
+                                        <td rowspan="1" colspan="1">Elytra bright metallic blue</td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">1’</td>
+                                        <td rowspan="1" colspan="1">Elytra dull matte smoky black or smoky black-blue, not bright</td>
+                                        <td rowspan="1" colspan="1">3</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">2(1)</td>
+                                        <td rowspan="1" colspan="1">Elytral interneurs each with a single row of cribriform punctures</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra grace</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">2’</td>
+                                        <td rowspan="1" colspan="1">Elytral interneurs each with double rows of cribriform punctures at least in part in apical half</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra max</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">3(1’)</td>
+                                        <td rowspan="1" colspan="1">Antennal scape unicolorous testaceous, or testaceous with slight dorso-apical infuscation</td>
+                                        <td rowspan="1" colspan="1">4</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">3’</td>
+                                        <td rowspan="1" colspan="1">Antennal scape bicolored, ventrally testaceous, dorsally infuscated</td>
+                                        <td rowspan="1" colspan="1">6</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">4(3)</td>
+                                        <td rowspan="1" colspan="1">Head posteriorly and pronotum with surface brassy</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra cruciaria</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">4’</td>
+                                        <td rowspan="1" colspan="1">Head and pronotum matte smoky black , shiny or not</td>
+                                        <td rowspan="1" colspan="1">5</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">5(4’)</td>
+                                        <td rowspan="1" colspan="1">Elytra constricted at apical third, side margin moderately arcuate, apex moderately lobed medially</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra notpusilla</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">5’</td>
+                                        <td rowspan="1" colspan="1">Elytra not constricted at apical third, side margin straight, apex markedly lobed medially</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra pusilla</tp:taxon-name> Chaudoir</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">6(3’)</td>
+                                        <td rowspan="1" colspan="1">Elytral apex shallowly lobed medially, lobe rounded</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra pseudopusilla</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">6’</td>
+                                        <td rowspan="1" colspan="1">Elytral apex moderately lobed medially, lobe obtusely dentate</td>
+                                        <td rowspan="1" colspan="1">7</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">7(6’)</td>
+                                        <td rowspan="1" colspan="1">Frons laterad, anterior to eye markedly rugose; larger species (ABL = 8.2 mm)</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra perforata</tp:taxon-name> Liebke</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">7’</td>
+                                        <td rowspan="1" colspan="1">Frons laterad, anterior to eye, unicarinate and smooth, smaller species (ABL = 7.2 mm)</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra minasianus</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+                                </tbody>
+                                <!--PageBreak-->
+                            </table>
+                        </table-wrap>
+                    </sec>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">cruciaria</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:7906629D-6846-4348-A3CD-B7A3031C7AE9</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F3">Figs 3</xref>
+                    <xref ref-type="fig" rid="F6">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil</bold>: Rio de Janeiro, Rio de Janeiro, Corcovado, 585m, 22.9517°S, 43.2116°W, 5 May 1958 (C.A. Campos Seabra &amp; M. Alvarenga)(NMNH: ADP 070044, male).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>cruciaria</italic>" is a Latin adjective meaning “of/pertaining to the cross/torture" and is based upon the large cross on Corcovado flooded each night with high powered lights that attract insects by the millions and is the type locality of this species.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Cross Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and medium sized for the <italic>pusilla</italic> group. Adults with black integument; head behind eyes and prothorax with slight brassy reflections. Frons laterad unicarinate and rugose. Occiput with sparse punctures, some punctures with short setae.</p>
+                    <p>Elytra with moderately lobed apex.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F3">Fig. 3</xref>). <italic>Size</italic>: Small, ABL = 6.4 – 7.7 mm, SBL = 5.75 – 6.48 mm, TW = 1.74 –1.8 mm. <italic>Color:</italic> Head black with brassy reflection posteriorly, pronotum with brassy reflections; antennae blackish blue with scape testaceous and with slight metallic blue reflections , mouthparts piceous, and legs and tarsi blackish blue, with mostly testaceous femur. <italic>Luster:</italic> Head, pronotum and legs shiny metallic, elytra matte smoky-blue. <italic>Head:</italic> Labrum moderately elongate and truncate apically, barely emarginate medially. Frons medially raised and smooth, laterally depressed and unicarinate and rugose. Gena with hind angles broadly rounded to constricted neck in males. Genae and occiput moderately densely and coarsely some punctures setiferous.</p>
+                    <p><italic>Prothorax:</italic> Slightly broader medially, flared basally; surface with dense punctures, many setiferous; lateral elongate callous with single row of setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron markedly convex, intervals slightly costate, interneurs of rows of somewhat irregularly shaped punctures that are double in some places, apex slightly oblique and moderately lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex slightly produced, narrowly pointed. Metasternum sparsely setiferous in male. <italic>Legs:</italic> Normal in male. <italic>Abdomen</italic>: Abdominal sterna III to VII of male moderately and bilaterally setiferous; sternum VII of male barely emarginated, corners rounded. <italic>Male genitalia:</italic> Phallus (<xref ref-type="fig" rid="F3">Fig. 3</xref>) elongate and narrow with ostium elongate, nearly half the length of the phallus, apex a narrowly lobate expansion of distal end, this slipper-shaped<!--PageBreak--> in lateral aspect. Parameres small, left twice the size of the right, both broadly rounded. <italic>Female ovipositor:</italic> Female unknown.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; larvae of this genus are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra cruciaria</tp:taxon-name> occur at midland altitudes in the Mata Atlântica. Adults are active in May, the rainy season.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Brazil</bold>: Minas Gerais, (MNHNP: ADP 060040, male paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known from the type locality and an unknown location in the State of Minas Gerais.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                    <p> Right antenna glued to card of holotype not of this specimen.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">grace</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:2B0E0A90-4A13-404A-9047-8D61E61E7419</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1</xref>
+                    <xref ref-type="fig" rid="F3">4</xref>
+                    <xref ref-type="fig" rid="F6">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Perú</bold>: Madre de Dios, Pakitza, Tachigali Trail /47, 324m, “11.9352°S, 71.3039°W," 6 October 1991 (T.L. Erwin &amp; M.G. Pogue)(NMNH: BIOLAT 012952, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>grace</italic>" is an eponym, based on the given name of the Peruvian Ornithologist, Grace Servat, who has shared the bird-infested Amazon and Andes with me for many years, including two of the known localities of this species, including the type locality.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Grace’s Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and small sized for the <italic>pusilla</italic> group. Adults with blue integument; head behind eyes and prothorax with metallic reflections. Frons laterad unicarinate and very finely rugose. Occiput not punctate, some fine rugae present. Elytra with moderately lobed apex in female, more so in male. Hind coxae of male multisetiferous.</p>
+
+                    <fig id="F1" position="float" orientation="portrait">
+                    	
+                        <label>Figure 1.</label>
+                        <caption><p> <tp:taxon-name>Agra grace</tp:taxon-name> Erwin, sp. n., dorsal aspect (BIOLAT 012952).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F1">Figs 1</xref>, <xref ref-type="fig" rid="F3">4</xref>). <italic>Size</italic>: Very small, ABL = 5.71 – 6.1 mm, SBL = 4.77 – 6.67 mm, TW = 1.44 – 1.66 mm. <italic>Color:</italic> Head and pronotum bright blue, body metallic blue; antennae and mouthparts piceous, scape and antennomeres 2 and 3 with slight metallic blue reflections. <italic>Luster:</italic> Shiny metallic, elytra somewhat matte. <italic>Head:</italic> (<xref ref-type="fig" rid="F1">Fig. 1</xref>) Labrum moderately elongate and truncate apically. Frons medially raised and smooth, laterally depressed, unicarinate, not rugose. Gena slightly tapered with broadly rounded corners to constricted neck in both sexes. Occiput not punctate, some fine rugae present. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface with dense coarse punctures, some setiferous; lateral elongate callous with single row of punc<!--PageBreak-->tures, along middle. <italic>Pterothorax:</italic> Elytron (<xref ref-type="fig" rid="F1">Fig. 1</xref>) markedly convex, intervals slightly costate, interneurs of rows of somewhat laterally ovate punctures, apex truncate, barely oblique, apical dentation asymmetric, lateral tooth broad, obtuse, sutural apex not produced. Metasternum sparsely setiferous in both sexes. <italic>Legs:</italic> Normal. <italic>Abdomen</italic>: Abdominal sterna III to VII of both sexes moderately and bilaterally setiferous; sternum VII of both sexes barely emarginate, corners rounded. <italic>Male genitalia:</italic> Phallus (<xref ref-type="fig" rid="F3">Fig. 4</xref>)<!--PageBreak--> elongate and narrow with ostium not elongate, extended to about 1/3 the length of phallus, apex a small rounded lobe. Parameres small, left twice the size of the right, both broadly rounded. <italic>Female ovipositor:</italic> Stylomere 2 as in <italic>Agra notpusilla</italic> (<xref ref-type="fig" rid="F4">Fig. 7</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra grace</tp:taxon-name> occur at lowland altitudes in the Amazon Basin. Adults are active in September — October, the transition season between dry and wet seasons. The holotype was fogged from a medium-sized tree with lianas and suspended dead leaves; the area fogged was from 2 meters up to 15 meters in the tree. The Ecuadorian paratype was fogged from a mixed canopy consisting of the trees <tp:taxon-name>Pseudolmedia laevis</tp:taxon-name> (Ruiz &amp; Pav.) J.F. Macbr., <tp:taxon-name>Protium cf. nodulosum</tp:taxon-name>, and <tp:taxon-name>Eschweilera cf. coriacea</tp:taxon-name>. The Peruvian paratype was fogged from a species of the tree genus <tp:taxon-name>Pouteria</tp:taxon-name>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Ecuador:</bold> Orellana, 1 km S Onkone Gare Camp, Entomology Transect, 216m, “0.6569°S, 76.4527°W," 7 October 1994 (T.L. Erwin, et al.)(NMNH: ADP 087438, male paratype). <bold>Perú</bold>: Madre de Dios, Pakitza, 324m, “11.9352°S, 71.3039°W," 9 September 1988 (T.L. Erwin &amp; B.D. Farrell)(NMNH: BIOLAT 008430, male paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known from Perú and Ecuador.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                    <p> Males are smaller than females.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">max</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:20642068-3310-4BCC-B9A8-69D9FBEABB41</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F6">Fig. 10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil:</bold> Santa Catarina, Nova Teutonia, 823m, 27.047°S, 52.394°W, 4 February 1938 (F. Plaumann)(WAR: ADP 004374, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>max</italic>" is an eponym, based on the given name of Max Liebke, an early pioneer in the taxonomy of the genus <tp:taxon-name>Agra</tp:taxon-name>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Max’s Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and frons laterally unicarinate and rugose; occiput finely punctate; all elytral interneurs in apical half with double rows of cribriform punctures.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <italic>Size</italic>: Small, ABL = 7.0 mm, SBL = 5.95 mm, TW = 1.5 mm. <italic>Color:</italic> Head and pronotum black with bluish reflections, venter metallic blue, elytra matte blue, antennae and mouthparts piceous with slightly bluish reflections, scape rufous with shiny infuscated apex. <italic>Luster:</italic> Shiny metallic, elytra matte metallic. <italic>Head:</italic> Labrum moderately elongate and truncate apically. Frons medially raised and smooth, laterally depressed, <!--PageBreak-->slightly rugose. Gena slightly markedly rounded to constricted neck in female. Genae and occiput with sparse coarse punctures, some setiferous.</p>
+                    <p><italic>Prothorax:</italic> Short, slightly broader medially, flared basally; surface with dense and coarse punctures, some setiferous; lateral elongate callous with single row of setiferous puncture along middle. <italic>Pterothorax:</italic> Elytron markedly convex, intervals slightly costate, interneurs of rows of somewhat laterally ovate punctures, doubled in some places, apex moderately oblique and lobed, apical dentation asymmetric, lateral tooth small, broad, obtuse, sutural apex not produced. Metasternum sparsely setiferous in females. <italic>Legs:</italic> Normal in female. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of female barely emarginate, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra notpusilla</tp:taxon-name> (<xref ref-type="fig" rid="F1">Fig. 7</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra max</tp:taxon-name> occur at midland altitudes in the Mata Atlântica. Adults are active in February, the dry season.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> None.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known only from the type locality.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">minasianus</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:B3072B22-36A7-415D-A2B6-E6FE05270DC0</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F6">Fig. 10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil:</bold> Minas Gerais, (Laferte)(MNHNP: ADP 060090, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>minasianus</italic>" is a Latinized adjective meaning “derived from, or pertaining to" Minas Gerais, a State in Brazil, and the type area.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Minas Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and scape and legs bicolored, frons laterad, anterior to eye, unicarinate and smooth, prothorax moderately setiferous both laterally and ventrally, and elytra barely constricted at apical third, side margin slightly arcuate, apex moderately lobed medially, lobe obtusely dentate, smaller species.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <italic>Size</italic>: Very small, ABL = 7.2 mm, SBL = 6.24 mm, TW = 1.5 mm. <italic>Color:</italic> Head and prothorax black, legs and scape bicolored; flagellar antennomeres and mouthparts piceous. <italic>Luster:</italic> Matte. <italic>Head:</italic> Labrum moderately elongate and truncate apically, anterior margin slightly emarginate medially. Frons laterad, anterior to eye, un<!--PageBreak-->icarinate and smooth. Gena rounded to constricted neck in females. Genae and occiput with sparse coarse punctures, some setiferous.</p>
+                    <p><italic>Prothorax:</italic> Slightly broader at basal third, constricted near base and flared basally; surface densely punctate, laterally and ventrally setiferous, pronotum apparently with six lateral setae as in other species of the group, but not present on holotype. <italic>Pterothorax:</italic> Elytron markedly convex, intervals not costate, interneurs of rows of somewhat laterally ovate punctures, some in doubles, apex lobate, lobe well developed obtuse projection, apical dentation asymmetric, lateral and sutural apices slightly produced, each obtuse. Metasternum sparsely setiferous in female. <italic>Legs:</italic> Normal. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of female barely emarginate, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra notpusilla</tp:taxon-name> (<xref ref-type="fig" rid="F4">Fig. 7</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. The single specimen of <tp:taxon-name>Agra minasianus</tp:taxon-name> has no associated data on its labels.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> None.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known from Minas Gerais, Brazil.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">notpusilla</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:988FCC3E-1A4F-439D-833C-66B524B7269F</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F4">Figs 7</xref>
+                    <xref ref-type="fig" rid="F6">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil:</bold> (MNHNP: ADP 058647, male).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>pusilla</italic>" is a Latin adjective meaning very little, small, pretty. Although this species resembles <tp:taxon-name>Agra pusilla</tp:taxon-name> it is “not" that species.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Brazilian Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and frons laterally multicarinate; elytra with interneurs composed of double rows (in part) of coarse irregularly shaped punctures, apex moderately lobed medially.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F4">Fig. 7</xref>). <italic>Size</italic>: Very small, ABL = 7.74 mm, SBL = 6.58 mm, TW = 1.88 mm. <italic>Color:</italic> Piceous, antennae and legs bicolored, scape and basal 5/6th of femur testaceous; antennal flagellum and mouthparts piceous. <italic>Luster:</italic> Head and abdomen shiny, elytral disc somewhat matte. <italic>Head:</italic> Labrum moderately elongate and truncate apically, slightly emarginate medially. Frons medially raised and smooth, laterally depressed, multicarinate. Gena rounded in female to constricted neck. Genae and with occiput sparse and moderately coarse punctures, some of which likely setiferous in undamaged specimens (no setae present in holotype), and with two larger punctures,. <italic>Prothorax:</italic> Slightly <!--PageBreak-->broader in basal third, constricted, and flared basally; surface densely punctate, laterally and ventrally setiferous. <italic>Pterothorax:</italic> Elytron markedly convex, intervals not costate, interneurs of double rows (in part) of somewhat irregularly shaped punctures, apex truncate, moderately lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex slightly produced, rounded. Metasternum sparsely setiferous in both females. <italic>Legs:</italic> Legs normal. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of females barely emarginate, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 (<xref ref-type="fig" rid="F4">Fig. 7</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra notpusilla</tp:taxon-name> have no recorded information.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> None.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known from Brazil.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">perforata</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Liebke, 1938</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F6">Fig. 10</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Agra perforata</tp:taxon-name><comment> <xref ref-type="bibr" rid="B28">Liebke 1938: 60</xref>.</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil:</bold> Rio de Janeiro, Rio de Janeiro, 585m, 22.9517°S, 43.2116°W (WAR: ADP 060035, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>perforata</italic>" is a Latin adjective referring to the cribriform punctures of the elytral interneurs.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Perforated Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and frons laterally multicarinate; occiput coarsely punctate; all elytral interneurs throughout with double rows of cribriform punctures.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <italic>Size</italic>: Small, ABL = 8.22 mm, SBL = 6.58 mm, TW = 1.88 mm. <italic>Color:</italic> All black with mostly testaceous femur. <italic>Luster:</italic> Head slightly shiny, pronotum and elytra matte black. <italic>Head:</italic> Labrum moderately elongate and rounded apically. Frons medially raised and smooth, laterally depressed, moderately rugose. Gena markedly rounded to constricted neck in female. Genae and occiput with sparse and coarse punctures, some setiferous. <italic>Prothorax:</italic> Short, slightly broader medially, flared basally; surface with dense and coarse punctures, some setiferous; lateral elongate callous with single row of setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron markedly convex, intervals slightly costate, interneurs of double rows of somewhat irregularly-shaped punctures, apex moderately oblique and lobed, apical dentation asymmetric, lateral tooth small, broad, obtuse, sutural apex not produced. Metasternum sparsely setiferous in females. <italic>Legs:</italic> Normal in female. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of female barely emargi<!--PageBreak-->nate, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra notpusilla</tp:taxon-name> (<xref ref-type="fig" rid="F4">Fig. 7</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra perforata</tp:taxon-name> occur at midland altitudes in the Mata Atlântica.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> None.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known only from the type locality.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                    <p> Additional character state information can be found in <xref ref-type="bibr" rid="B28">Liebke 1938: 60</xref>.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">pseudopusilla</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:B39D7377-B0B7-43D8-AE76-0F3F0EF58ABB</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F3">Figs 5</xref>
+                    <xref ref-type="fig" rid="F6">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil:</bold> (Comte G. de Mniszech)(MNHNP: ADP 060088, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>pseudopusilla</italic>" refers to the similarity between adults of this species and those of <tp:taxon-name>Agra pusilla</tp:taxon-name>, treated below.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Mniszech’s Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and frons laterally multicarinate; occiput coarsely bi-punctate, with several smaller punctures; elytral interneurs with mostly uni-serial rows of cribriform punctures, doubled apico-laterally.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F3">Fig. 5</xref>). <italic>Size</italic>: Small, ABL = 6.57 – 8.63 mm, SBL = 5.67 – 7.15 mm, TW = 1.34 – 2.08 mm. <italic>Color:</italic> Head and pronotum black, elytra smoky black, legs bicolored, antennae and mouthparts piceous, scape with testaceous venter, piceous dorsum . <italic>Luster:</italic> Shiny forebody, matte elytra. <italic>Head:</italic> Labrum moderately elongate and truncate apically, anterior corners rounded. Frons medially raised and smooth, laterally depressed, multicarinate. Gena slightly tapered with broadly rounded corners to constricted neck in both male. Occiput coarsely bi-punctate, with several smaller punctures. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface with dense and coarse punctures, some setiferous; lateral elongate callous with single row of setigerous punctures along middle. <italic>Pterothorax:</italic> Elytron markedly convex, intervals slightly costate, interneurs of rows of somewhat laterally ovate punctures, doubled in some places, apex oblique, slightly lobed at middle, apical dentation asymmetric, lateral tooth short, acute, sutural apex not produced. Metasternum sparsely setiferous in males. <italic>Legs:</italic> Normal. <italic>Abdomen</italic>: Abdominal sterna III to VII of male moderately and bilaterally setiferous; sternum VII of males barely emarginate, corners rounded. <italic>Male genitalia:</italic> Phallus (<xref ref-type="fig" rid="F3">Fig. 5</xref>) elongate and narrow with ostium not elongate, extended to about 1/2 the length of phallus, apex a small rounded <!--PageBreak-->lobe. Parameres small, left twice the size of the right, both moderately rounded. <italic>Female ovipositor:</italic> Female unknown</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra pseudopusilla</tp:taxon-name> are labeled Brazil without further information.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Brazil:</bold> (Ehrenreiche)(BNCRio: ADP 070045, male paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known only from Brazil, without specific location.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">pusilla</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Chaudoir, 1847</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F3">Figs 6</xref>
+                    <xref ref-type="fig" rid="F6">10</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Agra pusilla</tp:taxon-name><comment> <xref ref-type="bibr" rid="B4">Chaudoir 1847: 110</xref>.</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Brazil:</bold> (MNHNP: ADP 060087, male).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>pusilla</italic>" is a Latin adjective meaning very little, small, pretty.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Small Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and frons laterally unicarinate and rugose; elytra with interneurs composed of a single row of coarse irregularly shaped punctures, apex markedly lobed medially.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F3">Fig. 6</xref>). <italic>Size</italic>: Very small, ABL = 6.28 – 6.45 mm, SBL = 5.27 – 5.37 mm, TW = 1.32 – 1.46 mm. <italic>Color:</italic> Piceous, antennae and legs bicolored, scape and basal 5/6th of femur testaceous; antennal flagellum and mouthparts piceous. <italic>Luster:</italic> Shiny, elytral disc somewhat matte. <italic>Head:</italic> Labrum moderately elongate and rounded apically, slightly emarginate medially. Frons medially raised and smooth, laterally depressed, unicarinate, and shallowly rugose. Gena slightly tapered-rounded in both sexes to constricted neck. Genae and occiput moderately finely punctate and wrinkled, and with two larger punctures each of which is setiferous. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface with densely punctures, some setiferous; lateral elongate callous with single row of setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron markedly convex, intervals not costate, interneurs of rows of single somewhat irregularly shaped punctures, apex truncate, markedly lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex slightly produced, rounded. Metasternum sparsely setiferous in both sexes. <italic>Legs:</italic> Legs normal. <italic>Abdomen</italic>: Abdominal sterna III to<!--PageBreak--> VII of male moderately and bilaterally setiferous; sternum VII of males barely emarginate, corners rounded. <italic>Male genitalia:</italic> Phallus (<xref ref-type="fig" rid="F3">Fig. 6</xref>) with ostium elongate, about half the length of the phallus, apex a small rounded lobe with basal corners. Parameres small, left twice the size of the right, both moderately rounded. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra notpusilla</tp:taxon-name> (<xref ref-type="fig" rid="F4">Fig. 7</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra pusilla</tp:taxon-name> occur at lowland altitudes in the Mata Atlântica. Adults are active in October, the rainy season.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Brazil:</bold> Espirito Santo, nr. Itapemirim, Rio Itapemirim, 3m, 21.005°S, 40.834°W, 15 October 1906 (J.F. Zikan)(ZIKAN: ADP 070043, male).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F6">Fig. 10</xref>). This species is currently known from eastern Brazil.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                    <p> Because of the severe deforestation over the last 100 years in the area where this species was found, it is likely it is now extinct or at least with a much smaller range.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+                    <sec sec-type="The piranha species-group"><title>The piranha species-group</title>
+                        <p>Members of this group are of very small size for the genus and range in color from midnight metallic blue to smoky-black with a somewhat matte luster. Male adults have a much reduced version of the expansive ventral tarsomere pads found in all other species in the genus. Femur unicolored. Occiput and prothorax markedly punctuate. Elytral interneurs of uniseriate rows of cribriform punctures. Aedeagus with typical arrowhead shape. Female stylomere 2 short and arcuate, setiferous, and armed with two ensiform setae. Female stylomere as in <xref ref-type="fig" rid="F5">Fig. 9</xref>.</p>
+                        <p><bold>Notes:</bold> The known composite range of the <italic>piranha</italic> group extends from Amazonian Ecuador to Bolivia across into south-central Brazil (Goiás).</p>
+                        <p><bold>Included Species</bold></p>
+                        <p><tp:taxon-name>Agra ce</tp:taxon-name> Erwin, sp. n. 	Perú</p>
+                        <p><tp:taxon-name>Agra risseri</tp:taxon-name> Erwin, sp. n. 	Bolivia, Brazil</p>
+                        <p><tp:taxon-name>Agra maia</tp:taxon-name> Erwin, sp. n. 	Bolivia</p>
+                        <p><tp:taxon-name>Agra piranha</tp:taxon-name> Erwin, sp. n. 	Ecuador</p>
+                        <p><tp:taxon-name>Agra tiputini</tp:taxon-name> Erwin, sp. n. 	Ecuador</p>
+                    </sec>
+                    <sec sec-type="Key to the species of the piranha group of Agra Fabricius, 1801"><title>Key to the species of the piranha group of <tp:taxon-name>Agra</tp:taxon-name> Fabricius, 1801</title><!--PageBreak-->
+                        <table-wrap content-type="key" position="anchor" orientation="portrait">
+                            <table>
+                                <tbody>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">1</td>
+                                        <td rowspan="1" colspan="1">Prothorax markedly setiferous both laterally and ventrally, pronotum with 3 long setae on each side</td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">1’</td>
+                                        <td rowspan="1" colspan="1">Prothorax not setiferous laterally, pronotum with 4 long setae on each side</td>
+                                        <td rowspan="1" colspan="1">4</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">2(1)</td>
+                                        <td rowspan="1" colspan="1">Head very broad across occiput, wider than pronotum at its widest</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra risseri</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">2’</td>
+                                        <td rowspan="1" colspan="1">Head not broad across occiput, narrower than pronotum at its widest</td>
+                                        <td rowspan="1" colspan="1">3</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">3(2’)</td>
+                                        <td rowspan="1" colspan="1">Elytra constricted at apical third, side margin markedly arcuate</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra maia</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">3’</td>
+                                        <td rowspan="1" colspan="1">Elytra barely constricted at apical third, side margin slightly arcuate</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra ce</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">4(1’)</td>
+                                        <td rowspan="1" colspan="1">Elytra constricted at apical third, side margin markedly arcuate; head markedly narrowed basally</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra tiputini</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+																		
+                                    <tr>
+                                        <td rowspan="1" colspan="1">4’</td>
+                                        <td rowspan="1" colspan="1">Elytra barely constricted at apical third, side margin slightly arcuate; head slightly tapered yet broad basally</td>
+                                        <td rowspan="1" colspan="1"><tp:taxon-name>Agra piranha</tp:taxon-name>, sp. n.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                    </sec>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">ce</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:6A25E44D-7927-4FD0-9FD2-9B37E12458D7</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F7">Fig. 11</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Perú:</bold> Madre de Dios, 30 air km SW Puerto Maldonado, 205m, “12.8368°S, 69.2933°W," 10 September 1984 (T.L. Erwin, et al.)(NMNH: ADP 093837, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>ce</italic>" is a combination of pronounceable letters that when joined with the last three letters of the genus name, <tp:taxon-name>Agra</tp:taxon-name>, spells “grace," for the Peruvian Ornithologist, Grace Servat, who has shared the lowland Amazon and the high Andes with me for many years, including the known localities of this species.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Graceful Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and elytra and prothorax metallic blue, legs unicolored, frons laterad slightly rugose, prothorax markedly setiferous both laterally and ventrally, and elytra barely constricted at apical third, side margin slightly arcuate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <italic>Size</italic>: Small, ABL = 8.04 – 9.21 mm, SBL = 7.09 – 8.07 mm, TW = 2.36 – 2.78 mm. <italic>Color:</italic> Head black with bluish reflection posteriorly, body and legs metallic blue; antennae and mouthparts piceous, scape with slight metallic blue reflections. <italic>Luster:</italic> Shiny metallic. <italic>Head:</italic> Labrum moderately elongate and rounded apically. Frons medially raised and smooth, laterally depressed and rugose. Gena almost squared to constricted neck in females. Genae and occiput moderately densely punctate, each puncture setiferous. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface with dense and coarse setiferous punctures; lateral elongate callous with single row of setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron markedly convex, inte<!--PageBreak-->rvals moderately costate, interneurs of rows of somewhat laterally ovate punctures, apex truncate, barely lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex slightly produced, narrowly pointed. Metasternum sparsely setiferous in female. <italic>Legs:</italic> Normal in female. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of female barely emarginated, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra piranha</tp:taxon-name> (<xref ref-type="fig" rid="F5">Fig. 9</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; larvae of this genus are found under the bark of the these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra ce</tp:taxon-name> occur at lowland altitudes in the Amazon Basin. Adults are active in September, the late dry season. The holotype was collected in an Erwin Plot at the type locality; the forest of this plot is designated as a Swamp Forest with internal drainage (<xref ref-type="bibr" rid="B10">Erwin 1985</xref>) and is dominated by the palm <tp:taxon-name>Mauritia flexuosa</tp:taxon-name> L. and the hardwood tree <tp:taxon-name>Lueheopsis hoehnei</tp:taxon-name> Burret. The holotype was fogged from the later named species. The paratype was attracted to MV light.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Perú</bold>: Madre de Dios, Pakitza, Trocha Uno /14, 324m, “11.9352°S, 71.3039°W," 8 September 1989 (R.A. Faitoute, et al.)(NMNH: BIOLAT 017465, female paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F7">Fig. 11</xref>). This species is currently known only from two localities in southeastern Perú.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">maia</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:4CBBDF28-0E25-4818-A2DA-72D2CE6B3697</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F7">Fig. 11</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Bolivia:</bold> Santa Cruz, 4–6 km SSE Buena Vista, Hotel Flora &amp; Fauna, 400–500m, “17.479°S, 63.631°W," 1–10 November 2002 (S.W. Lingafelter)(NMNH: ADP 116043, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>maia</italic>" is a Latinized genitive eponym, based on the given name of Maia Samuel, Executive Producer of the Smithsonian Spotlight program, <italic>The Bug House</italic>, in recognition of the hours of dedication she put into developing the program.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Maia’s Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and prothorax brassy black, legs unicolored, frons laterad unicarinate, smooth, prothorax markedly setiferous both laterally and ventrally, and elytra markedly constricted at apical third, side margin markedly arcuate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <italic>Size</italic>: Small, ABL = 8.57 mm, SBL = 7.25 mm, TW = 2.2 mm. <italic>Color:</italic> Head black with faint bluish reflection posteriorly, pronotum brassy black legs and venter black, elytra metallic blue; antennae and mouthparts piceous. <italic>Luster:</italic> Shiny, prono<!--PageBreak-->tum brassy and elytra shiny metallic. <italic>Head:</italic> Labrum moderately elongate and moderately rounded apically. Frons medially raised and smooth, laterally depressed and smooth. Gena almost squared to constricted neck in females. Genae and occiput with moderately dense disc each side with four long setae, punctures, most setiferous. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface densely punctuate, disc each side with four long setae; lateral elongate callous with single row of setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron moderately convex, broadly flared at apical third, intervals moderately costate, interneurs of rows of somewhat laterally ovate punctures, apex truncate, barely lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex slightly produced, narrowly pointed. Metasternum sparsely setiferous in female. <italic>Legs:</italic> Normal in female. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of female barely emarginated, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra piranha</tp:taxon-name> (<xref ref-type="fig" rid="F5">Fig. 9</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra maia</tp:taxon-name> occur at lowland altitudes in the Amazon Basin. Adults are active in November, the rainy season.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> None.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F7">Fig. 11</xref>). This species is currently known only from the type locality.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">piranha</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:0B2DB88C-89F6-485D-B2FB-C2B54813D0DC</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F5">Figs 8, 9</xref>
+                    <xref ref-type="fig" rid="F7">11</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Ecuador:</bold> Orellana, 1 km S Onkone Gare Camp, Entomology Transect, 216m, “0.6569°S, 76.4527°W," 2 July 1995 (T.L. Erwin, et al.)(NMNH: ADP 087440, male).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>piranha</italic>" or piraña, is a translation of the Huaorani word, Onkone Gare, the name of the camp near which the holotype was discovered.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Piraña Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and brassy pronotum, legs unicolored, frons laterad unicarinate, smooth, prothorax not setiferous laterally, and elytra barely constricted at apical third, side margin slightly arcuate, apex truncate, barely lobed medially.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F5">Fig. 8, 9</xref>). <italic>Size</italic>: Very small, ABL = 7.18 – 7.29 mm, SBL = 5.98 – 6.13 mm, TW = 1.76 – 1.86 mm. <italic>Color:</italic> Head black with bluish reflection posteriorly,<!--PageBreak--> body and legs with metallic blue reflections, elytra metallic cobalt blue; antennae and mouthparts piceous, scape with slight metallic blue reflections. <italic>Luster:</italic> Shiny metallic, elytra matte. <italic>Head:</italic> Labrum moderately elongate and rounded at corners, slightly emarginate medially. Frons medially raised and smooth, laterally depressed and uni-carinate. Gena slightly tapered, hind angle obtuse to constricted neck in both sexes. Genae and occiput with moderately dense and coarse punctures, some setiferous. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface densely punctuate, disc each side with three long setae; lateral elongate callous with single row of non-setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron markedly convex, intervals moderately costate, interneurs of rows of somewhat laterally ovate punctures, apex truncate, barely lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex not produced, rounded. Metasternum sparsely setiferous in both sexes. <italic>Legs:</italic> Middle tibia of male with dense brush of short setae on medial margin. <italic>Abdomen</italic>: Abdominal sterna III, IV, and V of both sexes sparsely setiferous bilaterally; sternum VII of both sexes very slightly emarginate. <italic>Male genitalia:</italic> Phallus (<xref ref-type="fig" rid="F5">Fig. 8</xref>) elongate, narrow, with moderately broad arrow-shaped apex; ostium elongate. Parameres small, left twice the size of the right, both broadly rounded. <italic>Female ovipositor:</italic> Stylomere 2 (<xref ref-type="fig" rid="F5">Fig. 9</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults are found in the canopy of terre firme rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra piranha</tp:taxon-name> occur at lowland altitudes in the Amazon Basin. Adults are active in July and October, in both the rainy and transition seasons. The holotype was fogged from the hardwood <tp:taxon-name>Eschweilera cf. laevicarpa</tp:taxon-name> in the familyLecythidaceae. The paratype was fogged from a mixed canopy consisting of the palms <tp:taxon-name>Iriartea deltoidea</tp:taxon-name> Ruiz. &amp; Pav. and <tp:taxon-name>Wettinia maynensis</tp:taxon-name> Spruce, and the hardwood <tp:taxon-name>Macrolobium cf. ischnocalx</tp:taxon-name>, plus an unidentified species ofApocynaceae.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Ecuador:</bold> Rio Tiputini, Erwin Transect, 232m, “0.63173°S, 76.14420°W," 23 October 1998 (T.L. Erwin, et al.)(NMNH: ADP 117227, female paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F7">Fig. 11</xref>). This species is currently known from the Ecuadorian Amazon Basin.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">risseri</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:358EFA50-1C15-4476-946C-0E35E74FB47C</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Figs 2</xref>
+                    <xref ref-type="fig" rid="F7">11</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Bolivia:</bold> Santa Cruz, 4–6 km SSE Buena Vista, Hotel Flora &amp; Fauna, 383m, “17.479°S, 63.631°W," 27–29 October 2000 (J.E. Wappes &amp; R. Morris)(FSCA: ADP 115786, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>risseri</italic>" is a Latinized genitive eponym, based on the surname of Dr. Paul G. Risser, outgoing Chairman of the National Board of the Smithsonian’s National Museum of Natural History, in honoring his long and invaluable service to the Smithsonian Institution.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Risser’s Elegant Canopy Beetle.<!--PageBreak--></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and legs unicolored, head very broad across occiput, wider than pronotum at its widest,frons laterad unicarinate, smooth, prothorax markedly setiferous both laterally and ventrally, and elytra slightly constricted at apical third, side margin barely arcuate.</p>
+
+                    <fig id="F2" position="float" orientation="portrait">
+                    	
+                        <label>Figure 2.</label>
+                        <caption><p> <tp:taxon-name>Agra risseri</tp:taxon-name> Erwin, sp. n., dorsal aspect (ADP 115786).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                    	
+                        <label>Figures 3–6.</label>
+                        <caption><p>3 <tp:taxon-name>Agra cruciaria</tp:taxon-name> Erwin, sp. n., male genitalia (dorsal, ventral, left lateral aspects) (ADP 070044) <bold>4</bold> <tp:taxon-name>Agra grace</tp:taxon-name> Erwin, sp. n., male genitalia (dorsal, ventral, left lateral aspects) (ADP 087638) <bold>5</bold> <tp:taxon-name>Agra pseuopusilla</tp:taxon-name> Erwin, sp. n., male genitalia (dorsal, ventral, left lateral aspects) (ADP 070045) <bold>6</bold> <tp:taxon-name>Agra pusilla</tp:taxon-name> Chaudoir, sp. n., male genitalia (dorsal, ventral, left lateral aspects) (ADP 060087).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                    	
+                        <label>Figure 7.</label>
+                        <caption><p> <tp:taxon-name>Agra notpusilla</tp:taxon-name> Erwin, sp. n., female stylomeres (dorsal aspect) (ADP 058647).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F5" position="float" orientation="portrait">
+                    	
+                        <label>Figures 8–9.</label>
+                        <caption><p> 8 <tp:taxon-name>Agra piranha</tp:taxon-name> Erwin, sp. n., male genitalia (dorsal, ventral, left lateral aspects) (ADP 087440) <bold>9</bold> <tp:taxon-name>Agra piranha</tp:taxon-name> Erwin, sp. n., female stylomeres (dorsal aspect) (ADP 117227).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> (<xref ref-type="fig" rid="F2">Fig. 2</xref>). <italic>Size</italic>: Small, ABL = 9.42 – 10.45 mm, SBL = 8.14 – 8.77 mm, TW = 2.4 – 3.08 mm. <italic>Color:</italic> Head, body, and appendages black, pronotum with brassy reflection elytra metallic blue. <italic>Luster:</italic> Shiny. <italic>Head:</italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>) Labrum moderately elongate and slightly rounded at anterior corners. Frons medially raised and smooth, laterally depressed and unicarinate, smooth. Gena almost squared to constricted neck in <!--PageBreak-->females. Genae and occiput with moderately dense punctures, most setiferous. <italic>Prothorax:</italic> Slightly broader medially, flared basally; surface with dense punctures, some setiferous; lateral elongate callous with single row of setiferous punctures along middle. <italic>Pterothorax:</italic> Elytron (<xref ref-type="fig" rid="F2">Fig. 2</xref>) with discal area flat, intervals moderately costate, interneurs of rows of somewhat laterally ovate punctures, apex truncate, barely lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex slightly produced, narrowly pointed. Metasternum sparsely setiferous in female. <italic>Legs:</italic> Normal in female. <italic>Abdomen</italic>: Abdominal sterna III to VII of female moderately and bilaterally setiferous; sternum VII of female shallowly emarginate, corners rounded. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra piranha</tp:taxon-name> (<xref ref-type="fig" rid="F5">Fig. 9</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults of other <tp:taxon-name>Agra</tp:taxon-name> species are found in the canopy of rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees,<!--PageBreak--> however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra risseri</tp:taxon-name> occur at lowland to midland altitudes in the Amazon Basin. Adults are active in October, the rainy season.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> <bold>Brazil:</bold> Goiás, Jataí (Jatahy), 736m, 17.880°S, 51.720°W (BMNH: ADP 004375, female paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F7">Fig. 11</xref>). This species is currently known from Bolivia and Brazil.</p>
+
+                    <fig id="F6" position="float" orientation="portrait">
+                    	
+                        <label>Figure 10.</label>
+                        <caption><p> Distribution map of the species of the pusilla group. Names marked with a “?" do not have precise localities on the specimen label(s).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F7" position="float" orientation="portrait">
+                    	
+                        <label>Figure 11.</label>
+                        <caption><p> Distribution map of the species of the piranha group.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/606/supp/ZooKeys-066-001-g007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Agra</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">tiputini</tp:taxon-name-part>
+		                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:97A92342-25C2-461C-95F1-52FDDB63741B</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Erwin</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F7">Fig. 11</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype"><title>Holotype:</title>
+                    <p> <bold>Ecuador</bold>: <bold>Ecuador:</bold> Orellana, Tiputini Biodiversity Station, Rio Tiputini, Erwin Transect, 232m, “0.63173°S, 76.14420°W," 23 October 1998 (T.L. Erwin, et al.)(NMNH: 117233, female).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Derivation of specific epithet"><title>Derivation of specific epithet.</title>
+                    <p> The epithet “<italic>tiputini</italic>" is the name of the Research Station and the river near which the holotype was collected.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Proposed English vernacular name"><title>Proposed English vernacular name.</title>
+                    <p>Tiputini Elegant Canopy Beetle.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> With the attributes of the genus and species-group as described above and pronotum brassy, legs unicolorous, lateral depression of frons unicarinate, smooth, gena and occiput with sparse and moderately small setigerous punctures plus two larger ones; elytra constricted at basal third, flared at apical third, side markedly arcuate, intervals not costate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> <italic>Size</italic>: Small, ABL = 5.98 – 7.17 mm, SBL = 5.98 – 6.04 mm, TW = 2.04 mm. <italic>Color:</italic> Head black with bluish reflection posteriorly, body and legs with metallic blue reflections, elytra metallic cobalt blue; antennae and mouthparts piceous, scape with slight metallic blue reflections. <italic>Luster:</italic> Shiny metallic, elytra matte. <italic>Head:</italic> Labrum moderately elongate and rounded at corners, slightly emarginate medially. Frons medially raised and smooth, laterally depressed and smooth. Gena slightly tapered, hind angle obtuse to constricted neck in both female. Genae and occiput with sparse setiferous punctures, some coarsely so. <italic>Prothorax:</italic> Slightly broader medially, slightly flared basally; surface with dense punctures, disc each side with four long setae, with short setae both basally and apically; lateral elongate callous with single row of non-setiferous puncture along middle. <italic>Pterothorax:</italic> Elytron moderately convex, flared at apical third, intervals not costate, interneurs of rows of somewhat laterally ovate cribriform punctures, apex tru<!--PageBreak-->ncate, barely lobate, apical dentation asymmetric, lateral tooth small, acute, sutural apex not produced, rounded. Metasternum sparsely setiferous in females. <italic>Legs:</italic> Legs normal. <italic>Abdomen</italic>: Abdominal sterna III, IV, and V of females sparsely setiferous bilaterally; sternum VII of female very slightly emarginate. <italic>Male genitalia:</italic> Unknown. <italic>Female ovipositor:</italic> Stylomere 2 as in <tp:taxon-name>Agra piranha</tp:taxon-name> (<xref ref-type="fig" rid="F5">Fig. 9</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Dispersal potential"><title>Dispersal potential.</title>
+                    <p> These beetles are macropterous and are probably capable of flight; they are swift and agile runners.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Way of life"><title>Way of life.</title>
+                    <p> Adults are found in the canopy of terre firme rainforest trees; known larvae of this genus (<xref ref-type="bibr" rid="B1">Arndt et al. 2001</xref>) are found under the bark of these trees, however they must also roam on the surface, as they have been collected by insecticidal fogging techniques in the very early morning before first light. Members of <tp:taxon-name>Agra tiputini</tp:taxon-name> occur at lowland altitudes in the Amazon Basin. Adults are active in February and October, <!--PageBreak-->the dry season and the transition season. The holotype was fogged from a mixed canopy consisting of the crowns of the palms <tp:taxon-name>Iriartea deltoidea</tp:taxon-name> Ruiz. &amp; Pav. and <tp:taxon-name>Wettinia maynensis</tp:taxon-name> Spruce, and the hardwood <tp:taxon-name>Macrolobium cf. ischnocalyx</tp:taxon-name>. The paratype was fogged from the hardwood family <tp:taxon-name>Myrtaceae</tp:taxon-name>. The February specimen is very teneral suggesting that the dry season triggers pupation and emergence.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined"><title>Other specimens examined.</title>
+                    <p> Orellana, 1 km S Onkone Gare Camp, Entomology Transect, 216m, “0.6569°S, 76.4527°W," 8 February 1995 (T.L. Erwin, et al.)(NMNH: ADP 087439, male paratype).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Geographic distribution"><title>Geographic distribution.</title>
+                    <p> (<xref ref-type="fig" rid="F7">Fig. 11</xref>). This species is currently known from Amazonian Ecuador.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p>The relatively narrow tarsi, spatulate apex of the median lobe of the male genitalia, and very small size of its adults suggest that the <italic>pusilla</italic> species group represents the most basal lineage in the evolution of the hyper diverse genus <tp:taxon-name>Agra</tp:taxon-name>, given that more highly derived states of tarsal width, male genitalic form, and size are found in the <italic>platyscelis</italic>, <italic>famula</italic>, and <italic>formicaria</italic> species groups, as well as the <italic>piranhna</italic> group, treated herein? In the “Introduction" above, I suggested that fresh specimens should be collected to provide DNA that can be sequenced and analyzed concomitant with those of other adult <tp:taxon-name>Agrina</tp:taxon-name> genera from Africa to determine the adelphotaxon. Subsequent to such an analysis, a better understanding of the evolution of structural attributes among <tp:taxon-name>Agra</tp:taxon-name> lineages and species will be possible than it is at present.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>In addition to the Museum curators and technicians noted above, I also extend a hearty thanks to Charyn Micheli (the Resumen, measures, and friendly review of the manuscript), Warren Steiner (dissections), Karie Darrow (images and plates), and Vichai Malikul (genitalic illustrations) all of the Department of Entomology at the Smithsonian Institution.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arndt</surname><given-names>E</given-names></name><name name-style="western"><surname>Kimse</surname><given-names>S</given-names></name><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>2001</year>)<article-title> Arboreal beetles of Neotropical forests: <italic>Agra</italic> Fabricius, larval descriptions with notes on natural history and behaviour (Coleoptera, Carabidae, Lebiini, Agrina).</article-title> <source>The Coleopterists Bulletin</source> <volume>55</volume> (<issue>3</issue>):<fpage>297</fpage>-<lpage>311</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ball</surname><given-names>GE</given-names></name></person-group> (<year>1972</year>)<article-title> Classification of the species of the <italic>Harpalus</italic> subgenus <italic>Glanodes</italic> Casey (Carabidae, Coleoptera)</article-title>. <source>The Coleopterists Bulletin</source> <volume>26</volume>: <fpage>179</fpage>–<lpage>204</lpage>.<!--PageBreak--></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Casale</surname><given-names>A</given-names></name></person-group> (<year>1998</year>) <article-title> Phylogeny and biogeography of Calleidina (Coleoptera: Carabidae: Lebiini): a preliminary survey</article-title>. In: <person-group><name name-style="western"><surname>Ball</surname><given-names>GE</given-names></name><name name-style="western"><surname>Casale</surname><given-names>A</given-names></name><name name-style="western"><surname>Vigna-Taglianti</surname><given-names>A</given-names></name></person-group> (<role>Eds</role>) <source>Phylogeny and classification of Caraboidea. Atti Museo regionale di Scienze naturali</source>, <publisher-loc>Torino</publisher-loc>, <fpage>381</fpage>–<lpage>428</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chaudoir M</surname><given-names>de</given-names></name></person-group> (<year>1847</year>)<article-title> Notes sur le genre <italic>Agra</italic> et desciption de plusieurs espèces nouvelles.</article-title> <source>Bulletin de la Société Impériale des naturalistas de Moscou</source> <volume>20</volume>:<fpage>87</fpage>-<lpage>113</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1978</year>)<article-title> Systematic, natural history, and zoogeographic notes on the Genus <italic>Agra</italic> Fabricius, with a description of a new species from Panamá (Coleoptera: Carabidae: Lebiini).</article-title> <source>The Coleopterists Bulletin</source> <volume>32</volume> (<issue>4</issue>):<fpage>261</fpage>-<lpage>268</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1982a</year>)<article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: <italic>erythropus</italic> group systematics (Carabidae).</article-title> <source>Systematic Entomology</source> <volume>7</volume>:<fpage>39</fpage>-<lpage>71</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1982b</year>)<article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: <italic>platyscelis</italic> group systematics (Carabidae).</article-title> <source>Systematic Entomology</source> <volume>7</volume>:<fpage>185</fpage>-<lpage>210</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1983</year>)<article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: <italic>famula</italic> and <italic>formicaria</italic> groups systematics (Carabidae).</article-title> <source>Systematic Entomology</source> <volume>8</volume>:<fpage>263</fpage>-<lpage>292</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1984</year>)<article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: <italic>palmata</italic> species-group systematics (Carabidae).</article-title> <source>Systematic Entomology</source> <volume>11</volume>:<fpage>293</fpage>-<lpage>316</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1985</year>)<article-title> Tambopata Reserved Zone, Madre de Dios, Perú: History and description of the reserve.</article-title> <source>Revista Peruana de Entomología</source> <volume>27</volume>:<fpage>1</fpage>-<lpage>8</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1986</year>)<article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: <italic>mixta-</italic>group, <italic>virgata-</italic>group, and <italic>ohausi-</italic>group systematics (Carabidae).</article-title> <source>Systematic Entomology</source> <volume>11</volume>:<fpage>293</fpage>-<lpage>316</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1991</year>)<article-title> Natural history of the carabid beetles at the BIOLAT Rio Manu Biological Station, Pakitza, Perú.</article-title> <source>Revista Peruana de Entomología</source> <volume>33</volume>:<fpage>1</fpage>-<lpage>85</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1993</year>)<article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: <italic>rufoaenea</italic> and <italic>quararibea</italic> group systematics (Carabidae).</article-title> <source>Revista peruana de Entomologia (1991)</source> <volume>34</volume>:<fpage>15</fpage>-<lpage>28</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1996</year>)<article-title> Arboreal Beetles of Neotropical Forests: <italic>Agra</italic> Fabricius, the <italic>cayennensis</italic> complex (Coleoptera: Carabidae: Lebiini: Calleidina).</article-title> <source>Annales Zoologici Fennici</source> <volume>33</volume> (<issue>1</issue>):<fpage>17</fpage>-<lpage>21</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1998</year>)<article-title> Evolution at the equator arboreal and alticolous beetles and their taxon pulses with descriptions of a new <italic>Agra</italic> subclade and its species (Coleoptera: Carabidae: Lebiini)</article-title>. In: <person-group><name name-style="western"><surname>Ball</surname><given-names>GE</given-names></name><name name-style="western"><surname>Casale</surname><given-names>A</given-names></name><name name-style="western"><surname>Vigna-Taglianti</surname><given-names>A</given-names></name></person-group> (<role>Eds</role>) <source>Phylogeny and classification of Caraboidea (Coleoptera: Adephaga). Proceedings of a Symposium (28 August, 1996, Florence, Italy), XX International Congress of Entomology Museo Regionale Scienze Naturali - Torino</source>, <publisher-loc>Atti. Torino</publisher-loc>, <fpage>491</fpage>–<lpage>510</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>2000a</year>)<article-title> Arboreal beetles of Neotropical forests: <italic>Agra</italic> Fabricius, the Novaurora Complex (Coleoptera: Carabidae: Lebiini: Agrina)</article-title>. <source>Smithsonian Contributions to Zoology</source> No. <volume>608</volume>: i-iv + <fpage>1</fpage>–<lpage>33</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>2000b</year>)<article-title> Arboreal beetles of Neotropical Forests: <italic>Agra</italic> Fabricius, a taxonomic supplement for the <italic>platyscelis</italic> group with new species and distribution records (Coleoptera: Carabidae, Lebiini, Agrina).</article-title> <source>The Coleopterists Bulletin</source> <volume>54</volume> (<issue>1</issue>):<fpage>90</fpage>-<lpage>119</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>2000c</year>)<article-title> Arboreal beetles of Neotropical Forests: Taxonomic supplement for the <italic>Agra virgata</italic> and <italic>ohausi</italic> groups with a new species and additional distribution records (Coleoptera:Carabidae).</article-title> <source>The Coleopterists Bulletin</source> <volume>54</volume> (<issue>2</issue>):<fpage>251</fpage>-<lpage>262</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>2002</year>)<article-title> The Beetle Family Carabidae of Costa Rica: Twenty-nine new species of Costa Rican <italic>Agra</italic> Fabricius 1801 (Coleoptera:Carabidae, Lebiini, Agrina).</article-title> <source>Zootaxa</source> <volume>119</volume>:<fpage>1</fpage>-<lpage>68</lpage>.</mixed-citation></ref><!--PageBreak-->
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>2004</year>)<article-title> The Beetle Family Carabidae of Costa Rica and Panamá: Descriptions of four new genera and six new species with notes on their way of life (Insecta: Coleoptera).</article-title> <source>Zootaxa</source> <volume>537</volume>:<fpage>1</fpage>-<lpage>18</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>PJ</given-names></name></person-group> (<year>2000</year>)<article-title> Naming species, a new paradigm for crisis management in taxonomy: Rapid journal validation of scientific names enhanced with more complete descriptions on the internet.</article-title> <source>The Coleopterists Bulletin</source> <volume>54</volume> (<issue>3</issue>):<fpage>269</fpage>-<lpage>278</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name><name name-style="western"><surname>Kavanaugh</surname><given-names>DH</given-names></name></person-group> (<year>1981</year>)<article-title> Systematics and zoogeography of <italic>Bembidion</italic> Latreille: I. The <italic>carlhi</italic> and <italic>erasum</italic> groups of Western North America (Coleoptera: Carabidae: Bembidiini).</article-title> <source>Entomologica Scandinavica Supplement</source> <volume>15</volume>:<fpage>33</fpage>-<lpage>72</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name><name name-style="western"><surname>Pogue</surname><given-names>MG</given-names></name></person-group> (<year>1988</year>) <article-title> <italic>Agra</italic>, arboreal beetles of Neotropical forests: Biogeography and the forest refugium hypothesis (Carabidae)</article-title>. In: <person-group><name name-style="western"><surname>Heyer</surname><given-names>WR</given-names></name><name name-style="western"><surname>Vanzolini</surname><given-names>PE</given-names></name></person-group> (<role>Eds</role>) <source>Neotropical Distribution Patterns: Proceedings of a 1987 Workshop. Proceedings of the Brasilian Academy of Sciences</source>, <fpage>161</fpage>–<lpage>188</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fabricius</surname><given-names>C</given-names></name></person-group> (<year>1801</year>) <source>Systema eleutheratorum: secundum ordines, genera, species adiecitis symomymis, locis, observationibus, descriptionibus</source>. Tome 1, xxiv + <lpage>506</lpage> pp; Tome 2, <lpage>687</lpage> pp. <publisher-name>Bibliopolii Academici Novi</publisher-name>, <publisher-loc>Kiliae</publisher-loc>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jeannel</surname><given-names>R</given-names></name></person-group> (<year>1949</year>) <article-title>Coléoptères Carabiques de la Region Malgache (Troisième Partie)</article-title>. <source>Faune de l’Empire Francais</source>, <publisher-loc>Paris</publisher-loc>, XI: <fpage>767</fpage>–<lpage>1146</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kavanaugh</surname><given-names>DH</given-names></name></person-group> (<year>1979</year>)<article-title> Studies on the Nebriini (Coleoptera: Carabidae), III. New Nearctic <italic>Nebria</italic> species and subspecies, nomenclatural notes, and lectotype designations. Proceedings of the California Academy of Sciences ser.</article-title> <source>4,</source> <volume>42</volume>:<fpage>87</fpage>-<lpage>133</lpage>.</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kavanaugh</surname><given-names>DH</given-names></name><name name-style="western"><surname>Erwin</surname><given-names>TL</given-names></name></person-group> (<year>1991</year>)<article-title> The tribe Cicindini Bänninger (Coleoptera: Carabidae): Comparative morphology, natural history, and reclassification.</article-title> <source>Proceedings of the Entomological Society of Washington</source> <volume>93</volume> (<issue>2</issue>):<fpage>356</fpage>-<lpage>389</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liebke</surname><given-names>M</given-names></name></person-group> (<year>1938</year>)<article-title> Beschreibung neuer Arten der Gattung <italic>Agra</italic> F. Coleoptera Carabidae.</article-title> <source>Proceedings of the Royal Entomological Society of London, B,</source> <volume>7</volume>:<fpage>53</fpage>-<lpage>72</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lorenz</surname><given-names>W</given-names></name></person-group> (<year>1998</year>) <source> Systematic list of extant ground beetles of the world (Insecta, Coleoptera “Geadephaga": Trachypachidae and Carabidae incl. Paussinae, Cicinidelinae, Rhysodinae)</source>. <publisher-name>W. Lorenz</publisher-name>, <publisher-name>Tutzing, Germany</publisher-name>, iv + <lpage>502</lpage> pp.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lorenz</surname><given-names>W</given-names></name></person-group> (<year>2005</year>) <source>Systematic list of extant ground beetles of the world (Insecta, Coleoptera "Geadephaga": Trachypachidae and Carabidae, incl. Paussinae, Cicindelinae, Rhysodinae).</source>, <publisher-name>W. Lorenz</publisher-name>, <publisher-loc>Tutzing</publisher-loc>, iv + <lpage>530</lpage> pp.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ober</surname><given-names>KA</given-names></name><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name></person-group> (<year>2008</year>)<article-title> Phylogenetic relationships of tribes within Harpalinae (Coleoptera: Carabidae) as inferred from 28S ribosomal DNA and the <italic>wingless</italic> gene. 32pp.</article-title> <source>Journal of Insect Science</source> <volume>8</volume> (<issue>63</issue>):<fpage>1536</fpage>-<lpage>2442</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

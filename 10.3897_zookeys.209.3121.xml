@@ -1,0 +1,211 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.209.3121</article-id>
+            <title-group>
+                <article-title>Developing integrated workflows for the digitisation  of herbarium specimens using a modular  and scalable approach</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Haston</surname>
+                        <given-names>Elspeth</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Cubey</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Pullan</surname>
+                        <given-names>Martin</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Atkins</surname>
+                        <given-names>Hannah</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Harris</surname>
+                        <given-names>David J</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Royal Botanic Garden Edinburgh, 20a Inverleith Row, Edinburgh, EH3 5LR, UK
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Elspeth Haston (<email xlink:type="simple">e.haston@rbge.org.uk</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V Blagoderov</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>209</issue>
+            <fpage>93</fpage>
+            <lpage>102</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>3</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Elspeth Haston, Robert Cubey, Martin Pullan, Hannah Atkins, David J Harris</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Digitisation programmes in many institutes frequently involve disparate and irregular funding, diverse selection criteria and scope, with different members of staff managing and operating the processes. These factors have influenced the decision at the Royal Botanic Garden Edinburgh to develop an integrated workflow for the digitisation of herbarium specimens which is modular and scalable to enable a single overall workflow to be used for all digitisation projects. This integrated workflow is comprised of three principal elements: a specimen workflow, a data workflow and an image workflow.</p>
+                <p>The specimen workflow is strongly linked to curatorial processes which will impact on the prioritisation, selection and preparation of the specimens. The importance of including a conservation element within the digitisation workflow is highlighted. The data workflow includes the concept of three main categories of collection data: label data, curatorial data and supplementary data. It is shown that each category of data has its own properties which influence the timing of data capture within the workflow. Development of software has been carried out for the rapid capture of curatorial data, and optical character recognition (OCR) software is being used to increase the efficiency of capturing label data and supplementary data. The large number and size of the images has necessitated the inclusion of automated systems within the image workflow.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Large-scale digitisation</kwd>
+                <kwd>curation</kwd>
+                <kwd>data entry</kwd>
+                <kwd>image capture
+<!--PageBreak--></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The need for the digitisation of biological collections is widely recognised (eg <xref ref-type="bibr" rid="B8">European Commission 2011</xref>, <xref ref-type="bibr" rid="B12">Kroes 2011</xref>, <xref ref-type="bibr" rid="B15">Niggeman et al. 2011</xref>) resulting in the development of national digitisation strategies (eg <xref ref-type="bibr" rid="B1">Beach et al. 2010</xref>). The challenges of digitising natural history specimens have been explored (eg <xref ref-type="bibr" rid="B3">Beaman et al. 2007</xref>, <xref ref-type="bibr" rid="B16">Vollmar et al. 2010</xref>) and there have been several studies investigating data capture methods (<xref ref-type="bibr" rid="B2">Beaman et al. 2006</xref>, <xref ref-type="bibr" rid="B11">Heidorn and Wei 2008</xref>, <xref ref-type="bibr" rid="B7">Best et al. 2009</xref>, <xref ref-type="bibr" rid="B13">Lafferty and Landrum 2009</xref>, <xref ref-type="bibr" rid="B9">Granzow-de la Cerda and Beach 2010</xref>, <xref ref-type="bibr" rid="B10">Haston et al. 2012</xref>). Within this context of large scale digitisation of natural history collections, there is a need for the development of digitisation workflows to manage each of the elements of the digitisation process.
+            </p>
+            <p>In developing workflows for the digitisation of herbarium specimens there are many factors which will influence the decisions made. Whilst it is clear that the financial costs of a digitisation programme may significantly limit the options available for equipment, software, staffing and storage, there are also other factors to consider. The funding itself may be irregular and be used for a range of diverse projects. Each institute has their own priorities and constraints and in the larger institutes there may be a range of digitisation programmes each with a different focus but which need to be integrated in some way. The recommendation of following a demand-driven digitisation model (<xref ref-type="bibr" rid="B5">Berendsohn and Seltmann 2010</xref>, <xref ref-type="bibr" rid="B4">Berendsohn et al. 2010</xref>, <xref ref-type="bibr" rid="B6">Berents et al. 2010</xref>) may result in an increase in the diversity of material being prioritised which will have an impact on the efficiency of the workflow. The concept of scalability is a factor which takes into account the potential increase in funding and resources. In addition, the integration of digitisation workflows into the core curation activities may play a large part in the decision-making process.
+            </p>
+            <p>At the Royal Botanic Garden Edinburgh (RBGE), we have aimed to develop workflows which incorporate automated systems to enable us to expand and speed up the digitisation process. However, given the irregular nature of much of the funding available for digitisation, we have also based the digitisation workflows on a modular system which has the potential to be scaled up as funding becomes available. Additional modules may be added as they are developed, including a georeferencing tool (<xref ref-type="bibr" rid="B14">Llewellyn 2011</xref>) and additional quality control elements. A key factor in developing the workflow has been the need to continue to manage the images and data after capture. This is a very significant addition to the workload for herbarium staff and there is a requirement for this aspect of the workflow to be as efficient and simple as possible, with the aim of helping curators in the future to manage the collections.
+            </p>
+            <p>Where possible, the digitisation workflow aims to use shared standards and formats. The adoption of standards allows easier transfer and sharing of data and is recognised as being of high importance in digitisation strategies (eg <xref ref-type="bibr" rid="B1">Beach et al. 2010</xref>). All data are routinely submitted to the Global Biodiversity Information Facility (GBIF), images are available on Encyclopedia of Life (EOL), a proportion of images and data are submitted to JSTOR and we are working on processes for submitting images and data to the Barcode of Life Database (BOLD) and Europeana.<!--PageBreak-->
+            </p>
+        </sec>
+        <sec sec-type="Workflows and processes">
+            <title>Workflows and processes</title>
+            <p>The integrated digitisation workflow at RBGE has been developed over the last four years, during which time it has evolved into the present system. Over this period large digitisation projects have been undertaken wholly within this system, whilst other projects have gradually been incorporated. All digitisation is now undertaken within this integrated system and there are currently 160,000 specimens digitised and available online (<ext-link ext-link-type="uri" xlink:href="http://www.rbge.org.uk" xlink:type="simple">www.rbge.org.uk</ext-link>). Whilst increasing the rate of digitisation has been a contributing factor in the development of workflows, the need for managing the data, images and processes has been the most important driver for the development of this integrated system.
+            </p>
+            <p>There are three primary workflows within the digitisation programme (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The specimen workflow involves the physical movement and preparation of the specimens and folders. The data workflow focuses on the capture and management of specimen data (included within a broad “metadata” concept by <xref ref-type="bibr" rid="B4">Berendsohn et al. (2010)</xref>). Finally the image workflow focuses on the capture and management of images and related image management data including the equipment, operator and file location. These workflows and the interactions between them are described here.
+            </p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Diagrammatic overview of the digitisation workflows at the Royal Botanic Garden Edinburgh (RBGE)</p>
+                </caption>
+                <graphic xlink:href="ZooKeys-209-093-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <sec sec-type="The specimen workflow">
+                <title>The specimen workflow</title>
+                <p>In this context, the specimen workflow involves the physical selection and movement of specimens within the digitisation process as well as the preparation of the specimens and folders. This is closely linked with existing specimen workflows for loans, incoming specimens, destructive sampling, curation etc.</p>
+                <p>See the Specimen workflow in <xref ref-type="fig" rid="F1">Figure 1</xref>.</p>
+                <p>The selection of the specimens is dependent on the outcome of the prioritisation procedure. The specimen workflow developed at RBGE predominantly focuses on large taxonomic or geographical groups to increase efficiency, and scaling up small user requests to more manageable units based on taxonomy and geography. The prioritisation of specimens within the digitisation programme has been mainly influenced by RBGE research strategy as well as external projects. This has resulted in the selection of floristic areas such as SW Asia and the Middle East, as well as focus taxonomic groups such as <tp:taxon-name>Sapotaceae</tp:taxon-name>, <tp:taxon-name>Zingiberaceae</tp:taxon-name>, <tp:taxon-name>Begoniaceae</tp:taxon-name> and <tp:taxon-name>Gesneriaceae</tp:taxon-name>. Funding from the Andrew W Mellon Foundation through the Global Plants Initiative enabled us to digitise all the type specimens, which form another significant part of the collections.
+                </p>
+                <p>The preparation element (ie taxonomic recuration and specimen &amp; folder preparation) of the specimen workflow is an important factor which is often under-estimated. This fundamental curatorial work includes ensuring that the specimens are correctly filed and that the filing name is legible and clearly visible, as well as ensuring that the condition of the specimens is assessed and conservation work carried out as required.</p>
+                <p><!--PageBreak-->The decision to keep the herbarium open and to maintain full access to the specimens as much as possible during the digitisation programme has been necessary due to the expected duration of the digitisation work given the current funding. In practice, this has resulted in the specimen workflow for digitisation being affected by many curatorial and research activities. We have therefore aimed to integrate the workflow and other curatorial workflows currently in place. An outcome of this integration has been the modification of some curatorial practices, including loan and destructive sampling procedures.</p>
+                <p>The digitisation workstations are currently all within the herbarium area to reduce the amount of movement and to remove the need for freezing specimens on return for pest control. We have aimed to keep the number of specimens out of the cabinets at any time to a minimum whilst working with a large enough unit to be efficient.</p>
+                <p>The inclusion of an assessment of the condition of the specimens and some preservation work has reduced the rate of digitisation. However, this work is critical for the conservation of the collections and incorporating this work within the digitisation programme when the specimens are being handled is allowing us to improve the condition of the specimens. The assessment of specimen condition can also be collated and used to inform strategic decisions about the overall management of the collections.</p>
+                <p>The scope of an individual digitisation project and the arrangement of the specimens within a herbarium has a large impact on the efficiency of the specimen workflow. Whilst the most efficient workflow would generally be to work through the collections cabinet by cabinet, this can be difficult to reconcile with digitisation projects based on a particular collector or country, or with demand-driven digitisation.</p>
+            </sec>
+            <sec sec-type="The data workflow">
+                <title>The data workflow</title>
+                <p>The data workflow here includes all elements of capturing and managing data associated with the specimens, and linking these to the images and image management data. Logistically, the data associated with biological collections can be divided into three main categories for digitisation (<xref ref-type="bibr" rid="B10">Haston et al. 2012</xref>). Label data which are present on the specimen; curatorial data which are found on the containers holding the specimens; and supplementary data which are held separately from the collections in indexes, archives and literature. These data types can be captured using different methods at different stages of the data workflow.
+                </p>
+                <p>Curatorial data are held separately from the specimen within the collections. At the Royal Botanic Garden Edinburgh this generally consists of two pieces of data: the filing name of the specimen and the broad geographical region from where it was collected. These represent the classification and location of the specimen within the collections, providing key information for the physical location and arrangement of specimens. Some or all of these data may not be present on the specimen itself as label data. This property means that the most efficient way to capture this data is from within the collection using information on the folders.<!--PageBreak--></p>
+                <p>Label data are physically associated with the specimen and are generally visible in the corresponding digital image. This property allows these data to be captured at a later stage in the overall digitisation workflow. At RBGE, there is a small number of labels that are obscured by plant material or capsules which are not routinely captured.</p>
+                <p>Supplementary data such as field notebooks, citations in literature and online resources including Genbank, are independent from the label and curatorial data but can be used to enrich them.</p>
+                <p>See Data workflow in <xref ref-type="fig" rid="F1">Figure 1</xref>.</p>
+                <p>The data workflow at the Royal Botanic Garden Edinburgh starts with the capture of curatorial data. Software written in PHP has been developed in-house to provide a simple web-based interface for rapid capture of the filing name, geographical region and barcode assigned to each specimen. The interface is designed around the fact that at the lowest level specimen storage within the herbarium is arranged into separate folders for each species within a geographical region. Within the interface users can select the species and geographical region for the folder and then add the individual specimens in each folder simply by scanning the barcode on the specimen. A specimen record is created for each barcode scanned and cross checked against any existing records in the herbarium database. After validation and error correction the new records are then batch imported into the herbarium database (<italic>BG-BASE</italic><sup>TM</sup> version 6.8). A similar tool has now been developed within <italic>BG-BASE</italic><sup>TM</sup>.
+                </p>
+                <p>Once the specimen has been imaged, label data can be captured during subsequent sweeps of data entry. Specimen images are processed through optical character recognition (OCR) software (ABBYY Recognition Server v. 3.0). At present the resulting text is stored unparsed as a single data string. This is then searched for recognisable tags (characters) to allow the creation of subsets of images and specimen records. These subsets are visually checked to ensure the selection process was correct and then the relevant data automatically entered. This is currently being carried out for collector and country. Finally, additional sweeps of label data entry are carried out by operators using a combination of the images and OCR text.</p>
+                <p>Within a modular system a level of data entry can be independent from imaging. This allows the ability to tailor the work being undertaken to the resources available. The use of minimal data capture methods enables the rapid creation of placeholder records that give collection managers valuable information about the number of specimens within a taxon for a particular filing region, and thus act as a catalogue of the collections. These also act as placeholder records to which images and OCR data can be attached, and which can be expanded as and when additional resources and technology become available.</p>
+                <p>The overall workflow is designed to accommodate the different requirements of the separate projects being undertaken simultaneously in the herbarium. These requirements may vary from full data entry with an image as is usually required for taxonomic or floristic work, partial data with georeferenced locality which is often all that is required for biogeographic studies, through to a basic catalogue record with minimal data for curation purposes. All these requirements can be handled within the one system. This is of particular importance due to the irregular nature of funding.</p>
+            </sec>
+            <sec sec-type="The image workflow">
+                <title>The image workflow</title>
+                <p>Digitisation projects are resulting in large numbers of high quality images of approximately 150MB each. The scale of the digitisation programmes is too large<!--PageBreak--> for completely manual processes to be used to manage these images. Image workflows being developed at the Royal Botanic Garden Edinburgh include image capture, processing, image management data recording, optical character recognition (OCR), quality control, image streaming online and archiving. This is carried out within a system based on image server software written in-house. This software has been written in Visual Basic and is designed to run as a Windows service. The software is responsible for marshalling newly scanned images into their ultimate destinations, registering the new images and all derived versions of that image in the image database, creating rescaled web viewable versions of each image, tiling the images to allow web presentation of zoomable versions of the image, submitting the images for OCR processing and recording the results of the OCR process in the image database. Multiple instances of the service can be installed in multiple servers to allow parallel processing of the new images.</p>
+                <p>See the Image workflow in <xref ref-type="fig" rid="F1">Figure 1</xref>.</p>
+                <p>Image capture is carried out using two methods, but which feed into the same image workflow system. Epson Expression Model 10000XL scanners at 600dpi, result in tiff files of approximately 150–200MB each. The Leaf Aptus II-10 56 megapixel digital backs result in raw files of approximately 100MB from which tiffs of approximately 150MB are created using LeafCapture software. Preliminary quality control checks are carried out at this stage. These include manually checking the focus and cropping, as well as ensuring that the tiff file has been sucessfully created.</p>
+                <p>All images are then saved to a dropbox folder structure. The folder names comprise basic image management data including the equipment and operator’s name. The image server software continuously polls the dropboxes for new files.</p>
+                <p>Additional automated quality control checks are carried out at this stage to ensure that the files are within acceptable size boundaries, that the filename fits a standard pattern, and that an electronic file with the same filename does not already exist.</p>
+                <p>As they appear, the system records associated image management data, including the equipment and operator’s name, into an image database. The system then creates fully tiled image files which are stored in a zip compressed file. The tiles are extracted from the compressed file by the image server software in response to tile requests from the image viewer. The image viewer is an embedded object contained with the HTML page presented to a web browser. We currently use Zoomify image viewer software (Zoomify Enterprise <sup>TM</sup>).
+                </p>
+                <p>A jpg file of approximately 1MB is also created and made available online. A copy of the tiff file is transferred to the ABBYY OCR workflow (ABBYY Recognition Server 3.0). Finally, the raw and tiff files are saved to archive folders, to be stored offline on tape and external hard drive storage. The locations of all these files are recorded within the image database.</p>
+                <p>This system has been developed as a modular system which can be extended as the number of cameras or scanners increase. There has been an emphasis on developing more automated systems but which can allow an element of user interaction if required, particularly within the quality control elements.</p>
+                <p><!--PageBreak-->The decision to capture the images at 600dpi or equivalent was based on producing images which contain the same visible information as would be available through the standard taxonomic tool of a 10× hand lens. This results in very large images in excess of 150MB which create significant image management problems. There is currently debate about the need for such high resolution and RBGE has been involved in these discussions. We have felt the need to maintain this high level of resolution to ensure that sufficient information is retained, and in the understanding that these images can be scaled down in the future but cannot be scaled up.</p>
+                <p>Deliberately keeping both the raw and the tiff formats increases the demands on storage. In the rapidly changing environment of image file formats we aim to be inclusive and retain our ability to adapt to future developments.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>The workflows developed here have been strongly influenced by the presence of different funding streams and a diversity of digitisation projects along with the need to create a modular and integrated workflow to manage the processes, images and data. This is in contrast to an alternative digitisation approach such as that seen at the Muséum national d’histoire naturelle (MNHN) in Paris which aims to digitise all specimens within a single project, using a more unified approach.</p>
+            <p>A single unified structure may reduce the problems inherent in a modular system in which linking and maintaining links between software developed by different programmers and residing on different servers can be an issue as versions change over time. In contrast, a modular approach can potentially benefit more readily from advances in technology as modules can be added, updated or replaced as they become available.</p>
+            <p>One of the benefits of the modular system developed at RBGE has been to create an integrated but flexible management structure for specimens, data and images, which reduces the need for individual projects to create their own systems with the additional time and costs involved.</p>
+            <p>A second and highly significant benefit of an integrated system is that it helps with the curation of images and data post capture. It is essential that the on-going curation of these digital collections is considered as early as possible. The data and images need to be available and accessible but they also need to be kept up to date (with new determinations and additional data) and new file and archive formats. Having data in multiple systems, managed by different projects makes this on-going curation task almost impossible. Having them in one system makes this daunting and ever-growing task more achievable.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors would like to acknowledge the support of the Andrew W Mellon Foundation and the Scottish Government in funding large digitisation projects at the Royal<!--PageBreak--> Botanic Garden Edinburgh. In addition, the authors would like to thank all the staff who have worked on the digitisation projects at RBGE for their dedication and willingness to explore new methods of digitisation.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Beach</surname> <given-names>J</given-names></name><name name-style="western"><surname>Blum</surname> <given-names>S</given-names></name><name name-style="western"><surname>Donoghue</surname> <given-names>M</given-names></name><name name-style="western"><surname>Ford</surname> <given-names>L</given-names></name><name name-style="western"><surname>Guralnick</surname> <given-names>R</given-names></name><name name-style="western"><surname>Mares</surname> <given-names>M</given-names></name><name name-style="western"><surname>Thiers</surname> <given-names>B</given-names></name><name name-style="western"><surname>Westneat</surname> <given-names>M</given-names></name><name name-style="western"><surname>Wheeler</surname> <given-names>Q</given-names></name><name name-style="western"><surname>Wiegmann</surname> <given-names>B</given-names></name><name name-style="western"><surname>the Network Integrated Biocollection</surname> <given-names>Alliance</given-names></name></person-group> (<year>2010</year>)<source> A Strategic Plan for Establishing a Network Integrated Biocollections Alliance. <ext-link ext-link-type="uri" xlink:href="http://digbiocol.wordpress.com/brochure">http://digbiocol.wordpress.com/brochure</ext-link></source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Beaman</surname> <given-names>RS</given-names></name><name name-style="western"><surname>Cellinese</surname> <given-names>N</given-names></name><name name-style="western"><surname>Heidorn</surname> <given-names>PB</given-names></name><name name-style="western"><surname>Guo</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Green</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Thiers</surname> <given-names>B</given-names></name></person-group> (<year>2006</year>)<source> HERBIS: Integrating digital imaging and label data capture for herbaria [Abstract]. Botany 2006. Botanical Cyberinfrastructure: Issues, Challenges, Opportunities, and Initiatives. California State University, Chico, 28 July – 2 August 2006.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Beaman</surname> <given-names>R</given-names></name><name name-style="western"><surname>Macklin</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Donoghue</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>and Hanken</surname> <given-names>J</given-names></name></person-group> (<year>2007</year>)<source> Overcoming the digitization bottleneck in natural history collections. A summary report on a workshop held 7–9 September 2006 at Harvard University. <ext-link ext-link-type="uri" xlink:href="http://www.etaxonomy.org/wiki/images/b/b3/Harvard_data_capture_wkshp_rpt_2006.pdf">http://www.etaxonomy.org/wiki/images/b/b3/Harvard_data_capture_wkshp_rpt_2006.pdf</ext-link> [Accessed March, 2011]</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name><name name-style="western"><surname>Chavan</surname> <given-names>V</given-names></name><name name-style="western"><surname>Macklin</surname> <given-names>JA</given-names></name></person-group> (<year>2010</year>)<article-title> Recommendations of the GBIF Task Group on the Global Strategy and Action Plan for the Mobilisation of Natural History Collections Data.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>1</fpage>-<lpage>5</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berendsohn</surname> <given-names>WG</given-names></name><name name-style="western"><surname>Seltmann</surname> <given-names>P</given-names></name></person-group> (<year>2010</year>)<article-title> Using geographical and taxonomic metadata to set priorities in specimen digitization.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>120</fpage>-<lpage>129</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Berents</surname> <given-names>P</given-names></name><name name-style="western"><surname>Hamer</surname> <given-names>M</given-names></name><name name-style="western"><surname>Chavan</surname> <given-names>V</given-names></name></person-group> (<year>2010</year>)<article-title> Towards demand-driven publishing: approaches to the prioritization of digitization of natural history collection data.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>113</fpage>-<lpage>119</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Best</surname> <given-names>JH</given-names></name><name name-style="western"><surname>Moen</surname> <given-names>WE</given-names></name><name name-style="western"><surname>Neill</surname> <given-names>AK</given-names></name></person-group> (<year>2009</year>)<source> A framework and workflow for extraction and parsing of herbarium specimen data [Abstract]. Proceedings of the Taxonomic Databases Working Group (TDWG). <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/proceedings/article/view/567">http://www.tdwg.org/proceedings/article/view/567</ext-link> [accessed June 2011]</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>European Commission</surname></name></person-group> (<year>2011</year>)<source> Digital Agenda: encouraging digitisation of EU culture to help boost growth. <ext-link ext-link-type="uri" xlink:href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/11/1292&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/11/1292&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en</ext-link></source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Granzow-de la Cerda</surname> <given-names>Í</given-names></name><name name-style="western"><surname>Beach</surname> <given-names>JH</given-names></name></person-group> (<year>2010</year>)<source> Semi-automated workflows for acquiring specimen data from label images in herbarium collections. Taxon 59( 6): 1830–1842.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haston</surname> <given-names>E</given-names></name><name name-style="western"><surname>Cubey</surname> <given-names>R</given-names></name><name name-style="western"><surname>Harris</surname> <given-names>DJ</given-names></name></person-group> (<year>2012</year>)<article-title> Data concepts and their relevance for data capture in large scale digitisation of biological collections.</article-title> <source>International Journal of Humanities and Arts Computing </source> <volume>6</volume>: <fpage>111</fpage>-<lpage>119</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3366/ijhac.2012.0042">10.3366/ijhac.2012.0042</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heidorn</surname> <given-names>PB</given-names></name><name name-style="western"><surname>Wei</surname> <given-names>Q</given-names></name></person-group> (<year>2008</year>)<article-title> Automatic metadata extraction from museum specimen labels.</article-title> In: <person-group><name name-style="western"><surname>Greenberg</surname> <given-names>J</given-names></name><name name-style="western"><surname>Klas</surname> <given-names>W</given-names></name></person-group> (<role>Eds</role>). <issue-title>Metadata for semantic and social applications: proceedings of the International Conference on Dublin Core and Metadata Applications, Berlin, 22–26 September 2008: Berlin, Germany.</issue-title> <source>Universitätsverlag Göttingen, Göttingen</source>: <fpage>57</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kroes</surname> <given-names>N</given-names></name></person-group> (<year>2011</year>)<source> The European Commission Recommendation of 27/10/2011 [No. C(2011) 7579 final] on the digitisation and online accessibility of cultural material and digital preservation.</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Lafferty</surname> <given-names>D</given-names></name><name name-style="western"><surname>Landrum</surname> <given-names>LR</given-names></name></person-group> (<year>2009</year>)<source> SALIX, a semi-automatic label information extraction system using OCR [Abstract]. Botany &amp; Mycology 2009, Snowbird, Utah, 25–29 July 2009. <ext-link ext-link-type="uri" xlink:href="http://2009.botanyconference.org/engine/search/index.php?func=detail&amp;aid=130">http://2009.botanyconference.org/engine/search/index.php?func=detail&amp;aid=130</ext-link> [accessed June 2011]</source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Llewellyn</surname> <given-names>C</given-names></name></person-group> (<year>2011</year>)<source> Enhancing the curation of botanical data using text analysis tools. MSc thesis, University of Edinburgh, Edinburgh.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niggeman</surname> <given-names>E</given-names></name><name name-style="western"><surname>De Decker</surname> <given-names>J</given-names></name><name name-style="western"><surname>Lévy</surname> <given-names>M</given-names></name></person-group> (<year>2011</year>)<source> The new Renaissance – Report of the Comité des Sages. <ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/information_society/activities/digital_libraries/doc/refgroup/final_report_cds.pdf">http://ec.europa.eu/information_society/activities/digital_libraries/doc/refgroup/final_report_cds.pdf</ext-link></source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vollmar</surname> <given-names>A</given-names></name><name name-style="western"><surname>Macklin</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Ford</surname> <given-names>LS</given-names></name></person-group> (<year>2010</year>)<article-title> Natural history specimen digitization: challenges and concerns.</article-title> <source>Biodiversity Informatics </source> <volume>7</volume>: <fpage>93</fpage>-<lpage>112</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

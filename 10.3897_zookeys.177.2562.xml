@@ -1,0 +1,629 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.177.2562</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Wernerius inyoensis</italic>, an elusive new scorpion from the Inyo Mountains of California (Scorpiones, Vaejovidae)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Webber</surname>
+                        <given-names>Michael M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:F4155CC7-5BB4-455B-9373-AB179B4D1FC4</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Graham</surname>
+                        <given-names>Matthew R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:A911B353-9FCF-4586-A128-55E78338E79D</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Jaeger</surname>
+                        <given-names>Jef R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:7B0A4888-F0CC-4EDC-B2E3-4CD7AE5B656E</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>School of Life Sciences, University of Nevada Las Vegas, 4505 South Maryland Parkway, Las Vegas, Nevada 89154-4004, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Michael M. Webber (<email xlink:type="simple">webberm4@unlv.nevada.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: W. Lourenço</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>23</day>
+                <month>3</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>177</issue>
+            <fpage>1</fpage>
+            <lpage>13</lpage>
+            <history>
+                <date date-type="received">
+                    <day>19</day>
+                    <month>12</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>5</day>
+                    <month>3</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Michael M. Webber, Matthew R. Graham, Jef R. Jaeger</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:89CAEBEE-EA42-44F3-B523-FFCD9D50A707</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new scorpion species is described from the Inyo Mountains of California (USA). The presence of a strong subaculear spine, along with other characters, places the new species within <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic>, an incredibly rare genus that until now consisted of only two species. <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> <bold>sp. n.</bold> can be most easily distinguished from the other members of the genus by smaller adult size, femur and pedipalp dimensions, and differences in hemispermatophore morphology. Previous studies have suggested that the elusive nature of this genus may be attributed to low densities and sporadic surface activity. Herein, we provide another hypothesis, that <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> are primarily subterranean. Mitochondrial sequence data are provided for the holotype.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic><tp:taxon-name>Vaejovis</tp:taxon-name></italic></kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>16S</kwd>
+                <kwd>COI</kwd>
+                <kwd>barcoding</kwd>
+                <kwd>Death Valley</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The discovery that scorpions fluoresce under ultra-violet light (<xref ref-type="bibr" rid="B24">Stahnke 1972</xref>) marked a revolution in our knowledge of scorpion diversity. Before then, only the more commonly encountered species, such as those that are large in size or espe<!--PageBreak-->cially abundant, were well-known. Subsequent to this discovery, scorpions began to accumulate in biodiversity collections, and a flurry of new scorpion taxa were described worldwide. Numerous new scorpion species are still being discovered in places as seemingly well-studied as the United States (<xref ref-type="bibr" rid="B10">Graham 2007</xref>, <xref ref-type="bibr" rid="B1">Ayrey 2009</xref>, <xref ref-type="bibr" rid="B2">Ayrey 2011</xref>, <xref ref-type="bibr" rid="B3">Ayrey and Soleglad 2011</xref>, <xref ref-type="bibr" rid="B18">Sissom 2011</xref>, <xref ref-type="bibr" rid="B21">Soleglad et al. 2011</xref>) and Mexico (i.e. <xref ref-type="bibr" rid="B5">Contreras-Félix and Santibáñez-López 2011</xref>; <xref ref-type="bibr" rid="B8">Francke and Ponce-Saavedra 2010</xref>; <xref ref-type="bibr" rid="B11">Graham and Bryson 2010</xref>; <xref ref-type="bibr" rid="B15">Santibáñez-López and Francke 2010</xref>; <xref ref-type="bibr" rid="B16">Santibáñez-López and Sissom 2010</xref>).</p>
+            <p>Herein, we describe another new species of scorpion from southwestern North America that may never have been discovered without the use of ultra-violet light. The new species is represented by a single male collected from the Inyo Mountains of eastern California in 2009. Like the majority of recently discovered scorpions in North America, this species is particularly small (~16 mm) and was almost overlooked during our survey. The new species possesses a strong subaculear spine and other characters representative of <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B20">Soleglad and Fet 2008</xref>), a notoriously elusive genus. Until now, the genus was comprised of only two species, <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B12">Haradon 1974</xref>) from the southwestern portion of Joshua Tree National Park, and <italic><tp:taxon-name>Wernerius mumai</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B17">Sissom 1993</xref>) from rock-strewn habitats along the Colorado River near Parker, Arizona. Additional efforts to recollect these species (<xref ref-type="bibr" rid="B17">Sissom 1993</xref>), and our attempt to collect additional samples of the new species from the type locality proved futile.</p>
+            <p>The discovery of <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> in the Inyo Mountains extends the range of the genus over 400 kilometers to the north, making its known distribution extremely disjunct (<xref ref-type="fig" rid="F1">Fig. 1</xref>). We suspect that the three species of <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> must either occur at low densities, exhibit sporadic surface activity, or live subterraneously (or a combination of these) making these scorpions some of the most enigmatic and little-known in North America. For these reasons, and even though based on only a single specimen, the description of this new species is an important contribution to the growing knowledge of vaejovid scorpions. Since all three species of <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> are incredibly rare, we also sequenced portions of two mitochondrial genes to support DNA barcoding initiatives (<xref ref-type="bibr" rid="B14">Ratnasingham and Hebert 2007</xref>) and to assist with ongoing work on the systematics of family <tp:taxon-name>Vaejovidae</tp:taxon-name>.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Distribution of <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. (red circle, Inyo Mountains, California) and closely related species: <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> (green triangle, San Bernardino Mountains, California) and <italic><tp:taxon-name>Wernerius mumai</tp:taxon-name></italic> (blue diamond, Parker and Black Mountain, Arizona).</p></caption>
+                <graphic xlink:href="ZooKeys-177-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>Measurements are as described by <xref ref-type="bibr" rid="B23">Stahnke (1970)</xref>, trichobothrial patterns are as in <xref ref-type="bibr" rid="B26">Vachon (1974)</xref> and <xref ref-type="bibr" rid="B19">Soleglad and Fet (2003)</xref>, and pedipalp finger dentition follows <xref ref-type="bibr" rid="B22">Soleglad and Sissom (2001)</xref>. Total lengths were measured from the anterior margin of the carapace to the aculeus tip with the telson fully extended.</p>
+            <p>Acronyms of depositories.— DEVA, Death Valley National Park, USA; SDNHM, San Diego Natural History Museum, San Diego, California, USA.<!--PageBreak--></p>
+            <sec sec-type="Molecular analysis">
+                <title>Molecular analysis</title>
+                <p>Total genomic DNA was extracted from leg and pedipalp tissue from the left side of the holotype using a DNeasy Extraction Kit (Qiagen Inc.), leaving the right side of the voucher intact. A portion of the cytochrome oxidase subunit I (COI) gene was amplified with forward primer COI_modF (5’- ATCATAAGGATATTGGGACTATGT - 3’, <xref ref-type="bibr" rid="B4">Bryson et al. in review</xref>) and reverse primer C1_2776_MOD (5’- GGATAATCAGAATAHCGAGG -3’). A section of the 16S ribosomal RNA gene was amplified using scorpion-specific primers (<xref ref-type="bibr" rid="B9">Gantenbein et al. 1999</xref>). Double-stranded cycle sequencing was performed using the same primers and the Big Dye Terminator v. 3.1 Cycle 6 Sequencing Kit (Applied Biosystems). The COI sequence was submitted to the Barcode of Life Data system (<xref ref-type="bibr" rid="B14">Ratnasingham and Hebert 2007</xref>), and both COI and 16S data were submitted to GenBank (Accession numbers <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ727686" xlink:type="simple">JQ727686</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ727686" xlink:type="simple">JQ727686</ext-link>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Taxonomy">
+            <title>Taxonomy</title>
+            <sec sec-type="Family Vaejovidae Thorell, 1876">
+                <title>Family <tp:taxon-name>Vaejovidae</tp:taxon-name> Thorell, 1876</title>
+                <p><bold>Subfamily <tp:taxon-name>Syntropinae</tp:taxon-name> Kraepelin, 1905</bold></p>
+                <p><bold>Tribe <tp:taxon-name>Stahnkeini</tp:taxon-name> Soleglad &amp; Fet, 2006</bold></p>
+                <p><bold>Genus <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> Soleglad &amp; Fet, 2008</bold></p>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Wernerius</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">inyoensis</tp:taxon-name-part>
+                            <object-id xlink:type="simple">urn:lsid:zoobank.org:act:A50D0CA5-CBE7-4C5F-9BC6-EFB155F7EFA2</object-id>
+                        		<object-id xlink:type="simple">http://species-id.net/wiki/Wernerius_inyoensis</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F1">Figs 1</xref>
+                        <xref ref-type="fig" rid="F2"></xref>
+                        <xref ref-type="fig" rid="F3"></xref>
+                        <xref ref-type="fig" rid="F4"></xref>
+                        <xref ref-type="fig" rid="F5">14</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type material">
+                        <title>Type material.</title>
+                        <p>United States: <italic>California</italic>: male holotype, Loretta Mine Road, Inyo Mountains, Death Valley National Park, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">37.2299°N, 117.9568°W</named-content>, 1706 m, 9 September 2009, M.R. Graham and G.M. Graham Jr. (DEVA 54174).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology">
+                        <title>Etymology.</title>
+                        <p>The specific epithet refers to the type locality in the Inyo Mountains, California.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Diagnosis">
+                        <title>Diagnosis.</title>
+                        <p>Small in size, with the only known adult male less than 17 mm in total length. Yellow-orange base color with darker carinae on the pedipalps, and segments of the metasoma. Genital operculum divided below posterior one fifth, carapace very slightly emarginate; pectine count 11–11; 7 inner (ID) denticles on the pedipalp movable finger and 6 on the fixed finger.</p>
+                        <p>Although specimens of <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> and <italic><tp:taxon-name>Wernerius mumai</tp:taxon-name></italic> were not available for study (Sissom pers. comm.), based on the original descriptions of these species (<xref ref-type="bibr" rid="B12">Haradon 1974</xref>, <xref ref-type="bibr" rid="B17">Sissom 1993</xref>), it appears that <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. is morphologically most similar to <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic>. Both species share ID denticle counts, have similar femur and patella L/W ratios, and overlap in pectine tooth counts. However, <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. differs from <!--PageBreak--><italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> by having larger metasomal and pedipalp dimensions. <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. also differs from <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> in hemispermatophore morphology. The length of the lamellar hook in <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. is relatively short and the dorsal trough is shallow as indicated by the ratio of the lamellar hook length/length of the entire lamina (0.338) when compared to that of <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> (0.439). In addition, the basal constriction is less well-defined in <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. as indicated by the ratio of width at lamellar hook/lamina length (<italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. = 0.169; <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> = 0.123). The distal end of the lamina is also straighter and wider than <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic>, which exhibits a slight curve and tapers posteriorly (ratio of width at distal end of lamina/width at lamina midpoint; <!--PageBreak--><italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> = 0.900, <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> = 0.652). The ratio of the total width of the lamina at the midpoint/inner surface of the lamina groove to the right lateral surface of the lamina, indicates that the lamellar spine of <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. (1.33) is wider than that of <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> (1.09).</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figure 2.</label>
+                            <caption><p><italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. <italic>in vivo</italic>.</p></caption>
+                            <graphic xlink:href="ZooKeys-177-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <p><italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n.can be distinguished from <italic><tp:taxon-name>Wernerius mumai</tp:taxon-name></italic> by the following combination of characters: smaller adult size (of the holotype, &lt; 17 mm), more robust femur (L/W ratio 3.54) and a shorter, thinner pedipalp, 5 OD denticles on the pedipalp movable finger in addition to 5 on the fixed finger, and ventral metasomal setae counts. Inframedian carinae are crenulate and complete on metasomal segment I, and cover the posterior half of metasomal segments II and III. A comparison of characters is provided in <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+                        <table-wrap id="T1" position="float" orientation="portrait">
+                            <label>Table 1.</label>
+                            <caption><p>Measurements (in millimeters) of all known adult specimens in genus <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic>.</p></caption>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th rowspan="1" colspan="1"></th>
+                                        <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n.</bold></th>
+                                        <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic></bold></th>
+                                        <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic></bold></th>
+                                        <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic></bold></th>
+                                        <th rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Wernerius mumai</tp:taxon-name></italic></bold></th>
+                                    </tr>
+                                    <tr>
+                                        <th rowspan="1" colspan="1">Sex</th>
+                                        <th rowspan="1" colspan="1">Male</th>
+                                        <th rowspan="1" colspan="1">Male</th>
+                                        <th rowspan="1" colspan="1">Female (Holo)</th>
+                                        <th rowspan="1" colspan="1">Female (Para)</th>
+                                        <th rowspan="1" colspan="1">Female (Holo)</th>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Total Length</td>
+                                        <td rowspan="1" colspan="1">16.4</td>
+                                        <td rowspan="1" colspan="1">15.9</td>
+                                        <td rowspan="1" colspan="1">17.3</td>
+                                        <td rowspan="1" colspan="1">16.1</td>
+                                        <td rowspan="1" colspan="1">24.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Carapace Length</td>
+                                        <td rowspan="1" colspan="1">2.38</td>
+                                        <td rowspan="1" colspan="1">2.2</td>
+                                        <td rowspan="1" colspan="1">2.35</td>
+                                        <td rowspan="1" colspan="1">2.25</td>
+                                        <td rowspan="1" colspan="1">3.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Mesosoma Length</td>
+                                        <td rowspan="1" colspan="1">4.89</td>
+                                        <td rowspan="1" colspan="1">4.95</td>
+                                        <td rowspan="1" colspan="1">6.1</td>
+                                        <td rowspan="1" colspan="1">5.65</td>
+                                        <td rowspan="1" colspan="1">8.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Metasoma Length</td>
+                                        <td rowspan="1" colspan="1">7.48</td>
+                                        <td rowspan="1" colspan="1">6.65</td>
+                                        <td rowspan="1" colspan="1">6.6</td>
+                                        <td rowspan="1" colspan="1">6.05</td>
+                                        <td rowspan="1" colspan="1">9.15</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met I Length</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">0.95</td>
+                                        <td rowspan="1" colspan="1">0.9</td>
+                                        <td rowspan="1" colspan="1">0.8</td>
+                                        <td rowspan="1" colspan="1">1.35</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met I Width</td>
+                                        <td rowspan="1" colspan="1">1.29</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                        <td rowspan="1" colspan="1">1.15</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                        <td rowspan="1" colspan="1">1.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met I L/W</td>
+                                        <td rowspan="1" colspan="1">0.81</td>
+                                        <td rowspan="1" colspan="1">0.86</td>
+                                        <td rowspan="1" colspan="1">0.78</td>
+                                        <td rowspan="1" colspan="1">0.73</td>
+                                        <td rowspan="1" colspan="1">0.75</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met I Diameter</td>
+                                        <td rowspan="1" colspan="1">1.12</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met II Length</td>
+                                        <td rowspan="1" colspan="1">1.19</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">0.95</td>
+                                        <td rowspan="1" colspan="1">1.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met II Width</td>
+                                        <td rowspan="1" colspan="1">1.31</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                        <td rowspan="1" colspan="1">1.15</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                        <td rowspan="1" colspan="1">1.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met II Diameter</td>
+                                        <td rowspan="1" colspan="1">1.10</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met III Length</td>
+                                        <td rowspan="1" colspan="1">1.24</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                        <td rowspan="1" colspan="1">1.15</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">1.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met III Width</td>
+                                        <td rowspan="1" colspan="1">1.40</td>
+                                        <td rowspan="1" colspan="1">1.15</td>
+                                        <td rowspan="1" colspan="1">1.15</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                        <td rowspan="1" colspan="1">1.85</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met III L/W</td>
+                                        <td rowspan="1" colspan="1">0.89</td>
+                                        <td rowspan="1" colspan="1">0.96</td>
+                                        <td rowspan="1" colspan="1">1.0</td>
+                                        <td rowspan="1" colspan="1">0.95</td>
+                                        <td rowspan="1" colspan="1">0.86</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met III Diameter</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met IV Length</td>
+                                        <td rowspan="1" colspan="1">1.71</td>
+                                        <td rowspan="1" colspan="1">1.5</td>
+                                        <td rowspan="1" colspan="1">1.35</td>
+                                        <td rowspan="1" colspan="1">1.25</td>
+                                        <td rowspan="1" colspan="1">2.2</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met IV Width</td>
+                                        <td rowspan="1" colspan="1">1.50</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">1.25</td>
+                                        <td rowspan="1" colspan="1">1.2</td>
+                                        <td rowspan="1" colspan="1">2.1</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met IV Diameter</td>
+                                        <td rowspan="1" colspan="1">1.07</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met V Length</td>
+                                        <td rowspan="1" colspan="1">2.29</td>
+                                        <td rowspan="1" colspan="1">2.05</td>
+                                        <td rowspan="1" colspan="1">2.15</td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">2.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met V Width</td>
+                                        <td rowspan="1" colspan="1">1.45</td>
+                                        <td rowspan="1" colspan="1">1.4</td>
+                                        <td rowspan="1" colspan="1">1.3</td>
+                                        <td rowspan="1" colspan="1">1.2</td>
+                                        <td rowspan="1" colspan="1">2.05</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met V L/W</td>
+                                        <td rowspan="1" colspan="1">1.58</td>
+                                        <td rowspan="1" colspan="1">1.46</td>
+                                        <td rowspan="1" colspan="1">1.65</td>
+                                        <td rowspan="1" colspan="1">1.67</td>
+                                        <td rowspan="1" colspan="1">1.27</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Met V Diameter</td>
+                                        <td rowspan="1" colspan="1">1.07</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Telson Length</td>
+                                        <td rowspan="1" colspan="1">2.27</td>
+                                        <td rowspan="1" colspan="1">2.1</td>
+                                        <td rowspan="1" colspan="1">2.25</td>
+                                        <td rowspan="1" colspan="1">2.15</td>
+                                        <td rowspan="1" colspan="1">3.35</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Vesicle Length</td>
+                                        <td rowspan="1" colspan="1">1.67</td>
+                                        <td rowspan="1" colspan="1">1.5</td>
+                                        <td rowspan="1" colspan="1">1.65</td>
+                                        <td rowspan="1" colspan="1">1.6</td>
+                                        <td rowspan="1" colspan="1">2.55</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Vesicle Width</td>
+                                        <td rowspan="1" colspan="1">1.10</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">1.05</td>
+                                        <td rowspan="1" colspan="1">1.15</td>
+                                        <td rowspan="1" colspan="1">1.85</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Vesicle L/W</td>
+                                        <td rowspan="1" colspan="1">1.52</td>
+                                        <td rowspan="1" colspan="1">1.43</td>
+                                        <td rowspan="1" colspan="1">1.57</td>
+                                        <td rowspan="1" colspan="1">1.39</td>
+                                        <td rowspan="1" colspan="1">1.38</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Vesicle Diameter</td>
+                                        <td rowspan="1" colspan="1">0.76</td>
+                                        <td rowspan="1" colspan="1">0.75</td>
+                                        <td rowspan="1" colspan="1">0.8</td>
+                                        <td rowspan="1" colspan="1">0.8</td>
+                                        <td rowspan="1" colspan="1">1.3</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Aculeus Length</td>
+                                        <td rowspan="1" colspan="1">0.60</td>
+                                        <td rowspan="1" colspan="1">0.55</td>
+                                        <td rowspan="1" colspan="1">0.6</td>
+                                        <td rowspan="1" colspan="1">0.55</td>
+                                        <td rowspan="1" colspan="1">0.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Pedipalp Length</td>
+                                        <td rowspan="1" colspan="1">7.95</td>
+                                        <td rowspan="1" colspan="1">6.95</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">11.6</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Femur Length</td>
+                                        <td rowspan="1" colspan="1">2.02</td>
+                                        <td rowspan="1" colspan="1">1.95</td>
+                                        <td rowspan="1" colspan="1">2</td>
+                                        <td rowspan="1" colspan="1">1.9</td>
+                                        <td rowspan="1" colspan="1">3</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Femur Width</td>
+                                        <td rowspan="1" colspan="1">0.57</td>
+                                        <td rowspan="1" colspan="1">0.55</td>
+                                        <td rowspan="1" colspan="1">0.6</td>
+                                        <td rowspan="1" colspan="1">0.55</td>
+                                        <td rowspan="1" colspan="1">0.95</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Femur L/W</td>
+                                        <td rowspan="1" colspan="1">3.54</td>
+                                        <td rowspan="1" colspan="1">3.55</td>
+                                        <td rowspan="1" colspan="1">3.33</td>
+                                        <td rowspan="1" colspan="1">3.45</td>
+                                        <td rowspan="1" colspan="1">3.16</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Patella Length</td>
+                                        <td rowspan="1" colspan="1">2.36</td>
+                                        <td rowspan="1" colspan="1">2.15</td>
+                                        <td rowspan="1" colspan="1">2.3</td>
+                                        <td rowspan="1" colspan="1">2.15</td>
+                                        <td rowspan="1" colspan="1">3.25</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Patella Width</td>
+                                        <td rowspan="1" colspan="1">0.64</td>
+                                        <td rowspan="1" colspan="1">0.6</td>
+                                        <td rowspan="1" colspan="1">0.7</td>
+                                        <td rowspan="1" colspan="1">0.65</td>
+                                        <td rowspan="1" colspan="1">1.1</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Patella L/W</td>
+                                        <td rowspan="1" colspan="1">3.69</td>
+                                        <td rowspan="1" colspan="1">3.58</td>
+                                        <td rowspan="1" colspan="1">3.29</td>
+                                        <td rowspan="1" colspan="1">3.31</td>
+                                        <td rowspan="1" colspan="1">2.95</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Chela Length</td>
+                                        <td rowspan="1" colspan="1">3.57</td>
+                                        <td rowspan="1" colspan="1">2.85</td>
+                                        <td rowspan="1" colspan="1">3.65</td>
+                                        <td rowspan="1" colspan="1">3.5</td>
+                                        <td rowspan="1" colspan="1">5.35</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Chela L/W</td>
+                                        <td rowspan="1" colspan="1">3.84</td>
+                                        <td rowspan="1" colspan="1">3.35</td>
+                                        <td rowspan="1" colspan="1">3.65</td>
+                                        <td rowspan="1" colspan="1">3.50</td>
+                                        <td rowspan="1" colspan="1">3.45</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Palm Length</td>
+                                        <td rowspan="1" colspan="1">1.98</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">1.85</td>
+                                        <td rowspan="1" colspan="1">1.8</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Palm Width</td>
+                                        <td rowspan="1" colspan="1">0.93</td>
+                                        <td rowspan="1" colspan="1">0.85</td>
+                                        <td rowspan="1" colspan="1">1</td>
+                                        <td rowspan="1" colspan="1">1</td>
+                                        <td rowspan="1" colspan="1">1.55</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Palm Diameter</td>
+                                        <td rowspan="1" colspan="1">1.12</td>
+                                        <td rowspan="1" colspan="1">0.95</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">1.65</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Movable Finger L</td>
+                                        <td rowspan="1" colspan="1">2.24</td>
+                                        <td rowspan="1" colspan="1">2.05</td>
+                                        <td rowspan="1" colspan="1">2.2</td>
+                                        <td rowspan="1" colspan="1">2.1</td>
+                                        <td rowspan="1" colspan="1">3.15</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Fixed Finger L</td>
+                                        <td rowspan="1" colspan="1">1.79</td>
+                                        <td rowspan="1" colspan="1">1.6</td>
+                                        <td rowspan="1" colspan="1">1.8</td>
+                                        <td rowspan="1" colspan="1">1.7</td>
+                                        <td rowspan="1" colspan="1">2.45</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Pectine count</td>
+                                        <td rowspan="1" colspan="1">11,11</td>
+                                        <td rowspan="1" colspan="1">12,12</td>
+                                        <td rowspan="1" colspan="1">11,11</td>
+                                        <td rowspan="1" colspan="1">10,11</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Middle lamellae count</td>
+                                        <td rowspan="1" colspan="1">5,6</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                        <td rowspan="1" colspan="1">6,6</td>
+                                        <td rowspan="1" colspan="1">6,6</td>
+                                        <td rowspan="1" colspan="1">N/A</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="1" colspan="1">Fixed Finger L/Carapace L</td>
+                                        <td rowspan="1" colspan="1">0.75</td>
+                                        <td rowspan="1" colspan="1">0.73</td>
+                                        <td rowspan="1" colspan="1">0.77</td>
+                                        <td rowspan="1" colspan="1">0.76</td>
+                                        <td rowspan="1" colspan="1">0.70</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </table-wrap>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description">
+                        <title>Description of holotype.</title>
+                        <p><italic>Color</italic>: Carapace, tergites, femur, patella, and metasoma have a yellow-orange base color with dark brown to black markings on the chela and along carinae of the metasoma. Legs are yellow and slightly lighter in color than the rest of the body. Pedipalp chela is yellow-orange in color with darker reddish-brown coloration at the anterior portion of the palm where the fixed finger and movable finger meet. Chelicerae are yellow with mottling on distal half. Telson is dark-yellow to orange bordered by dark brown carinae. Pectines and genital operculum are light yellow.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Morphology">
+                        <title>Morphology.</title>
+                        <p>Carapace: anterior margin very slightly emarginate, with three lateral eyes on each side; moderately convex dorsolaterally; finely granular with scattered small granules, with larger granules symmetrically flanking the median furrow; median furrow is slight and traverses length of carapace, excluding the median eyes; ratio of median eyes location (from anterior edge)/carapace length = 0.32; carapace length/width at median eyes = 1.44. Tergites: slightly granular with weak median carinae from distal half of tergite I, and terminating at the middle of segment VII; strong granular <!--PageBreak--><!--PageBreak-->dorsolateral and lateral supramedian carina on posterior 4/5s of VII; pretergites very finely granular. Sternites: I–V smooth to very finely granular and without carinae; V with granular ventral lateral carinae on posterior 1/5 to posterior 3/5. Spiracles: ovoid with median side parallel to posterior sternite margin. Genital Operculum: sclerites separated on posterior 1/5 with genital papillae protruding slightly beyond posterior of operculum plates. Pectines:tooth count 11/11; middle lamellae 5/6. Metasoma: ratio of segment I length/width 0.81; segment II length/width 0.91; segment III lengt<!--PageBreak-->h/width 0.89; segment IV length/width 1.14; segment V length/width 1.58. Segments I–IV: dorsolateral carinae are strong and serrate, with distal denticle of I–IV enlarged and spinoid; denticle size is largest on segments III and IV and smaller on segments I and II; possesses intermediary carinae on segments I, II, and III; inframedian carinae are crenulate, and traverse the entire length of segment I, and ½ of the posterior portion of segments II and III, lateral supramedian carinae I–III possesses serrated granules and enlarged spinoid distal denticle; carinae of segment IV are less pronounced, crenulate to serrate, and flared on distal terminus; a space exists between the dorsolateral and supramedian carinae of segments I–III, and 1/3 of segment III; intermediary carinae are less distinct and are more granular than the ventrolateral carinae; ventral carinae are weakly serrate, but less distinct than dorsal carinae; ventrolateral carinae I strong, crenulate to serrulate; on II–III serrulate to serrate; on IV crenulate to serrate; ventral submedian setae 3/3:3/3:3/3:3/3:3/3. Segment V: dorsolateral carinae moderate, granular; lateromedian carinae moderate and granular on anterior 4/5, obsolete on <!--PageBreak-->distal 1/5; ventrolateral and ventromedian carinae crenulate to weakly serrate; intercarinal spaces are finely granular; ventrolateral setae 2/2:2/2:2/2:2/2:3/3.</p>
+                        <p>Telson: smooth to slightly granular with very pronounced subaculear tubercule; 3/1 LAS denticles (<xref ref-type="bibr" rid="B7">Fet et al. 2006</xref>). Chelicerae:dorsal edge of movable cheliceral finger with two subdistal (sd) denticles; ventral edge smooth to well developed serrula on distal 2/3. Pedipalps:trichobothrial pattern type C (<xref ref-type="fig" rid="F3">Figs 3–9</xref>); ratio of chela length/width 3.84; femur length/width 3.54; patella length/width 3.69; fixed finger length/carapace length 0.36. Chela:carinae weak and smooth except for a few weak to moderate granules on D4 and D5; median (MD) denticles of fixed finger aligned and divided into six subrows by five outer (OD) denticles flanked by six inner (ID) denticles; movable finger with six subrows, five OD denticles and seven ID denticles; movable finger shorter than the carapace and slightly shorter than metasomal segment V. Femur: dorsoexternal, dorsointernal, and ventrointernal carinae denticulate, ventroexternal is slightly serrate; internal surface covered with small granules throughout. Patella:internal carinae are granulose with 5 dentate denticles; all other carinae weak to non-existent. Legs: ventral surface of tarsus with single median row of spinules terminating distally with one spinule pair. Hemispermatophore (<xref ref-type="fig" rid="F4">Figs 11–12</xref>): the specimen has a wide hemispermatophore trunk with a well defined truncal flexure; the dorsal trough is shallow, with its base terminating at the distal end of the truncal flexure and tapers posteriorly; the lamellar hook is relatively large and strongly bifurcated at the distal tip, and also possesses a strong groove and slight basal constriction; the length of the lamellar hook is relatively short and the dorsal trough is shallow as indicated by the ratio of the lamellar hook length to the length of the entire lamina (0.338).</p>
+                        <fig id="F3" position="float" orientation="portrait">
+                            <label>Figures 3–10.</label>
+                            <caption><p>Trichobothrial patterns of <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. based on male holotype <bold>3</bold> Right pedipalp chela, external <bold>4</bold> Right pedipalp chela, ventral <bold>5</bold> Right pedipalp chela, internal <bold>6</bold> Right pedipalp femur, dorsal <bold>7</bold> Right pedipalp patella, dorsal <bold>8</bold> Right pedipalp patella, internal <bold>9</bold> Right pedipalp patella, ventral <bold>10</bold> Lateral aspect of metasomal segments IV and V, and telson.</p></caption>
+                            <graphic xlink:href="ZooKeys-177-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="DNA barcode (COI)">
+                        <title>DNA barcode (COI)</title>
+                        <p>– GCTTCTATGGTAGGGACAGCTTTGAGAT TAATAATTCGTATTGAGATTGGAAGTCCTGGGTCTTTTATTGGAGA TGATCAAATTTATAATGTTGTTGTTACTGCTCATGCTTTTGTAAT GATTTTTTTTATGGTAATACCAATTATAATTGGAGGTTTTGGAAATTG GTTAGTCCCTTTAATGTTGGGGGCTCCTGATATGGCTTTCCCTCGTT TAAATAATATAAGTTTTTGGTTATTACCTCCTGCATTTTTTTTATTATT AGGGTCAGCTTCATTGGAAAGAGGCGCAGGGACAGGCTGAACTGT GTACCCGCCTCTTTCCTCATATATGTTCCATTCTGGTGGTTCTGTT GATATGACTATTTTTTCTTTACATTTAGCTGGAGTTTCTTCAATTT TAGGAGCTATTAATTTTATTACTACTATTTTAAATATACGTATAAGTG GAATATTATTGGAGCGTATTCCTTTGTTTGTATGATCTGTAAGGAT TACTGCTATTTTATTACTTCTTTCTCTTCCCGTTCTTGCAGGGGC TATTACTATACTATTAACTGATCGAAATTTTAATACTTCTTTTTTT GATCCTGCAGGAGGGGGAGATCCCATTTTATATCAGCATT TATTTTGATTTTTTGGACATCCTGAAGTTTATATTTTAATTCTTC CTGGGTTTGGAATGGTTTCTCATATTATTAGTCATCATACTG GAAAGAGGGAGCCTTTTGGAGCTTTGGGAATGATTTATGCAATG GTTGCTATTGGGTTTTTAGGATTTGTTGTTTGGGCTCATCATAT GTTTACTGTTGGAATAGATGTTGATACTCGAGCTTATTTTACT GCTGCTACTATGGTTATTGCTGTTCCTACTGGGATCAAAATTTT TAGATGATTAGCTACTTTACATGGTTCTTATTTTGTCTTTACGC<!--PageBreak--><!--PageBreak--> CCCCTCTTTTGTGGGCTTTGGGATTTGTTTTTCTATTTACTG TAGGAGGTTTAACTGGTGTAATTTTAGCTAATTCTTCTTTGGA TATTGTTCTTCATGATACTTATTATGTTGTAGCTCATTTTCAT TATGTTTTGTCTATAGGAGCAGTTTTTGCCATTATTGCTGGAATT GTTGAATGGTTTCCTCTATTTTTAGGTTGTCAGATGAGTGAGCG TATATTAAAAATTCATTTTTTTGTGATGCTTTTGGGGGTAAAT</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Mensuration (mm)">
+                        <title>Mensuration (mm).</title>
+                        <p>Male holotype: total length 16.4; carapace length 2.38; mesosoma length 4.89; metasoma length 7.48 (excluding telson); Metasoma: segment I length/width 1.05/1.29; segment II length/width 1.19/1.31; segment III length/width 1.24/1.40; segment IV length/width 1.71/1.50; segment V length/width 2.29/1.45. Telson: length 2.27; vesicle length/width/depth 1.67/1.10/0.76; aculeus length 0.60. Pedipalps: total length 7.95; femur length/width 2.02/0.57; patella length/width 2.36/0.64; chela length 3.57; palm length/width/depth 1.98/0.93/1.12; movable finger length 2.24; fixed finger length 1.79.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution">
+                        <title>Distribution.</title>
+                        <p>Known only from the type locality in the Inyo Mountains of California where it was collected at an elevation of 1706 m.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Subterranean hypothesis">
+                        <title>Subterranean hypothesis.</title>
+                        <p>The southwestern United States is one of most well-studied areas in the world in terms of scorpions, so it is puzzling that a genus as widespread as <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> is so infrequently encountered. Previous authors have attributed their rarity to low densities or sporadic surface activity (<xref ref-type="bibr" rid="B17">Sissom 1993</xref>), but we provide a third potential explanation, that <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> are primarily subterranean.</p>
+                        <p>Recent studies of invertebrates inhabiting the deep soil strata (euedaphon) in Bulgaria have revealed a rich spider fauna (<xref ref-type="bibr" rid="B6">Deltshev et al. 2011</xref>). Incredibly, the different soil strata each contained a unique assemblage of spiders, many of which exhibited various degrees of morphological adaptations to underground environments. One species, <italic><tp:taxon-name>Zangherella relicta</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B13">Kratochvíl 1935</xref>), was only found within the deepest strata surveyed. We hypothesize that <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. may inhabit similar environments in the North American Southwest, particularly areas of piled rock or talus slopes (<xref ref-type="fig" rid="F5">Fig. 13, 14</xref>). Despite the fact that <italic><tp:taxon-name>Wernerius</tp:taxon-name></italic> are uncommonly encountered, two other lines of evidence support our hypothesis. Each species has only been collected from extremely rocky habitats, and each species is incredibly small (&lt; 25 mm), perhaps enabling them to easily maneuver within the interstitial spaces of piled rock and talus. If true, then perhaps these small and mysterious scorpions occur at higher densities across a much wider distribution than currently known.</p>
+                        <fig id="F4" position="float" orientation="portrait">
+                            <label>Figures 11–12.</label>
+                            <caption><p>Dorsal aspect of right hemispermatophore: <bold>11</bold> <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. (dotted line indicates the ventral trough) <bold>12</bold> <italic><tp:taxon-name>Wernerius spicatus</tp:taxon-name></italic> (redrawn from <xref ref-type="bibr" rid="B17">Sissom (1993)</xref>)</p></caption>
+                            <graphic xlink:href="ZooKeys-177-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                        <fig id="F5" position="float" orientation="portrait">
+                            <label>Figures 13–14.</label>
+                            <caption><p>Type locality of <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n. <bold>13</bold> Desert wash where the species was first discovered. <bold>14</bold> Talus slope that might provide a subterranean habitat for <italic><tp:taxon-name>Wernerius inyoensis</tp:taxon-name></italic> sp. n.</p></caption>
+                            <graphic xlink:href="ZooKeys-177-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We are greatly indebted to George Graham Jr., Penny Graham, George Webber Jr., and Margaret Irick for assistance in the field. We thank David Ek for help initiating this project and Angela Evenden for her support. This research was conducted under a task agreement with the National Park Service (J8R07080009) administered through the Great Basin Cooperative Ecosystem Studies Unit.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ayrey</surname> <given-names>RF</given-names></name></person-group> (<year>2009</year>)<article-title> Sky island <italic>Vaejovis</italic>: A new species (Scorpiones: Vaejovidae).</article-title> <source>Euscorpius </source> <volume>86</volume>: <fpage>1</fpage>-<lpage>12</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ayrey</surname> <given-names>RF</given-names></name></person-group> (<year>2011</year>)<source> <italic>Serradigitus miscionei</italic> (Scorpiones: Vaejovidae), a new species from southern Arizona. Euscorpius 111: 1−13.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ayrey</surname> <given-names>RF</given-names></name><name name-style="western"><surname>Soleglad</surname> <given-names>ME</given-names></name></person-group> (<year>2011</year>)<source> A new species of <italic>Vaejovis</italic> from Prescott, Arizona (Scorpiones: Vaejovidae). Euscorpius 114: 1−15.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bryson</surname> <given-names>RW</given-names></name><name name-style="western"><surname>Riddle</surname> <given-names>BR</given-names></name><name name-style="western"><surname>Graham</surname> <given-names>MR</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>BT</given-names></name><name name-style="western"><surname>Prendini</surname> <given-names>L</given-names></name></person-group> (<year>in review</year>)<source> As old as the hills: montane scorpions in southwestern North America reveal ancient associations between biotic diversification and landscape history.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Contreras-Félix</surname> <given-names>GA</given-names></name><name name-style="western"><surname>Santibáñez-López</surname> <given-names>CE</given-names></name></person-group> (<year>2011</year>)<article-title> <italic>Diplocentrus bicolor</italic> sp. n. (Scorpiones: Diplocentridae) from Jalisco, Mexico.</article-title> <source>Zootaxa </source> <volume>2992</volume>: <fpage>61</fpage>-<lpage>68</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Deltshev</surname> <given-names>C</given-names></name><name name-style="western"><surname>Lazarov</surname> <given-names>S</given-names></name><name name-style="western"><surname>Naumova</surname> <given-names>M</given-names></name><name name-style="western"><surname>Stoev</surname> <given-names>P</given-names></name></person-group> (<year>2011</year>)<article-title> A survey of spiders (Araneae) inhabiting the euedaphic soil stratum and the superficial underground compartment in Bulgaria.</article-title> <source>Arachnologische Mitteilungen </source> <volume>40</volume>: <fpage>33</fpage>-<lpage>46</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5431/aramit4005" xlink:type="simple">10.5431/aramit4005</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Fet</surname> <given-names>V</given-names></name><name name-style="western"><surname>Soleglad</surname> <given-names>ME</given-names></name><name name-style="western"><surname>Brewer</surname> <given-names>MS</given-names></name></person-group> (<year>2006</year>)<article-title> Laterobasal aculear serrations (LAS) in scorpion family Vaejovidae (Scorpiones: Chactoidea).</article-title> <source>Euscorpius </source> <volume>45</volume>: <fpage>1</fpage>-<lpage>19</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Francke</surname> <given-names>OF</given-names></name><name name-style="western"><surname>Ponce-Saavedra</surname> <given-names>J</given-names></name></person-group> (<year>2010</year>)<article-title> A new genus and species of scorpion (Scorpiones: Vaejovidae) from Michoacán, Mexico.</article-title> <source>Boletin de la SEA </source> <volume>46</volume>: <fpage>51</fpage>-<lpage>7</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gantenbein</surname> <given-names>B</given-names></name><name name-style="western"><surname>Fet</surname> <given-names>V</given-names></name><name name-style="western"><surname>Largiadèr</surname> <given-names>CR</given-names></name><name name-style="western"><surname>Scholl</surname> <given-names>A</given-names></name></person-group> (<year>1999</year>)<article-title> First DNA phylogeny of <italic>Euscorpius</italic> Thorell, 1876 (Scorpiones: Euscorpiidae) and its bearing on taxonomy and biogeography of the genus.</article-title> <source>Biogeographica </source> <volume>75</volume>: <fpage>49</fpage>-<lpage>65</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Graham</surname> <given-names>MR</given-names></name></person-group> (<year>2007</year>)<article-title> Sky island <italic>Vaejovis</italic>: two new species and a redescription of <italic>V. vorhiesi</italic> Stahnke (Scorpiones: Vaejovidae).</article-title> <source>Euscorpius </source> <volume>51</volume>: <fpage>1</fpage>-<lpage>14</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Graham</surname> <given-names>MR</given-names></name><name name-style="western"><surname>Bryson</surname> <given-names>RW</given-names></name></person-group> (<year>2010</year>)<article-title> <italic>Vaejovis montanus</italic> (Scorpiones: Vaejovidae), a new species from the Sierra Madre Occidental of Mexico.</article-title> <source>Journal of Arachnology </source> <volume>38</volume>: <fpage>285</fpage>-<lpage>293</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1636/Ha09-90.1" xlink:type="simple">10.1636/Ha09-90.1</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haradon</surname> <given-names>RM</given-names></name></person-group> (<year>1974</year>)<article-title> <italic>Vaejovis spicatus</italic>: A new scorpion from California.</article-title> <source>The Pan-Pacific Entomologist </source> <volume>50</volume>: <fpage>23</fpage>-<lpage>27</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kratochvíl</surname> <given-names>J</given-names></name></person-group> (<year>1935</year>)<article-title> Araignées cavernicoles de Krivosije.</article-title> <source>Práce Moravské prírodovedecké spolecnosti </source> <volume>9</volume>: <fpage>1</fpage>-<lpage>25</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ratnasingham</surname> <given-names>S</given-names></name><name name-style="western"><surname>Hebert</surname> <given-names>PDN</given-names></name></person-group> (<year>2007</year>)<article-title> BOLD: The Barcode of Life Data System (www.barcodinglife.org).</article-title> <source>Molecular Ecology Notes </source> <volume>7</volume>: <fpage>355</fpage>-<lpage>364</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1471-8286.2007.01678.x" xlink:type="simple">10.1111/j.1471-8286.2007.01678.x</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Santibáñez-López</surname> <given-names>CE</given-names></name><name name-style="western"><surname>Francke</surname> <given-names>OF</given-names></name></person-group> (<year>2010</year>)<article-title> New and poorly known species of the <italic>mexicanus</italic> group of the genus <italic>Vaejovis</italic> (Scorpiones: Vaejovidae) from Oaxaca, Mexico.</article-title> <source>Journal of Arachnology </source> <volume>38</volume>: <fpage>555</fpage>-<lpage>71</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1636/Ha09-64.1" xlink:type="simple">10.1636/Ha09-64.1</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Santibáñez-López</surname> <given-names>C</given-names></name><name name-style="western"><surname>Sissom</surname> <given-names>WD</given-names></name></person-group> (<year>2010</year>)<article-title> A new species of the <italic>Vaejovis eustenura</italic> group in Oaxaca, Mexico (Scorpiones: Vaejovidae).</article-title> <source>Zootaxa </source> <volume>2493</volume>: <fpage>49</fpage>-<lpage>58</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sissom</surname> <given-names>WD</given-names></name></person-group> (<year>1993</year>)<article-title> A new species of <italic>Vaejovis</italic> (Scorpiones, Vaejovidae) from western Arizona, with supplemental notes on the male of <italic>Vaejovis spicatus</italic> Haradon.</article-title> <source>Journal of Arachnology </source> <volume>21</volume>: <fpage>64</fpage>-<lpage>68</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3958/059.036.0108" xlink:type="simple">10.3958/059.036.0108</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sissom</surname> <given-names>WD</given-names></name></person-group> (<year>2011</year>)<article-title> A new species of the genus <italic>Vaejovis</italic> from Southwestern New Mexico (Arachnida: Scorpiones: Vaejovidae).</article-title> <source>Southwestern Entomologist </source> <volume>36</volume>: <fpage>85</fpage>-<lpage>90</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Soleglad</surname> <given-names>ME</given-names></name><name name-style="western"><surname>Fet</surname> <given-names>V</given-names></name></person-group> (<year>2003</year>)<article-title> High-level systematics and phylogeny of the extant scorpions (Scorpiones: Orthosterni).</article-title> <source>Euscorpius </source> <volume>11</volume>: <fpage>1</fpage>-<lpage>175</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Soleglad</surname> <given-names>ME</given-names></name><name name-style="western"><surname>Fet</surname> <given-names>V</given-names></name></person-group> (<year>2008</year>)<article-title> Contributions to scorpion systematics. III. Subfamilies Smeringurinae and Syntropinae (Scorpiones: Vaejovidae).</article-title> <source>Euscorpius </source> <volume>71</volume>: <fpage>1</fpage>-<lpage>115</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Soleglad</surname> <given-names>ME</given-names></name><name name-style="western"><surname>Fet</surname> <given-names>V</given-names></name><name name-style="western"><surname>Lowe</surname> <given-names>G</given-names></name></person-group> (<year>2011</year>)<source> Contributions to scorpion systematics. IV. Observations on the <italic>Hadrurus</italic> “<italic>spadix</italic>” subgroup with a description of a new species (Scorpiones: Caraboctonidae). Euscorpius 112: 1−36.</source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Soleglad</surname> <given-names>ME</given-names></name><name name-style="western"><surname>Sissom</surname> <given-names>WD</given-names></name></person-group> (<year>2001</year>)<article-title> Phylogeny of the family Euscorpiidae Laurie, 1896: a major revision.</article-title> In: <person-group><name name-style="western"><surname>Fet</surname> <given-names>V</given-names></name><name name-style="western"><surname>Selden</surname> <given-names>PA</given-names></name></person-group> (<role>Eds</role>). <issue-title>Scorpions 2001.</issue-title> <source>In Memoriam Gary A. Polis. Burnham Beeches, Bucks: British Arachnological Society</source>: <fpage>25</fpage>-<lpage>111</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stahnke</surname> <given-names>HL</given-names></name></person-group> (<year>1970</year>)<article-title> Scorpion nomenclature and mensuration.</article-title> <source>Entomological News </source> <volume>81</volume>: <fpage>297</fpage>-<lpage>316</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stahnke</surname> <given-names>HL</given-names></name></person-group> (<year>1972</year>)<article-title> U.V. light, a useful field tool.</article-title> <source>Bioscience </source> <volume>22</volume>: <fpage>604</fpage>-<lpage>606</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1296207" xlink:type="simple">10.2307/1296207</ext-link></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thorell</surname> <given-names>T</given-names></name></person-group> (<year>1876</year>)<article-title> On the classification of scorpions. Annals and Magazine of Natural History (ser.</article-title> <source>iv) </source> <volume>17</volume>: <fpage>1</fpage>-<lpage>15</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vachon</surname> <given-names>M</given-names></name></person-group> (<year>1974</year>)<article-title> Étude des caráctères utilisés pour classer les familles et les genres de Scorpions (Arachnides). 1. La trichobothriotaxie en Arach-nologie, Sigles trichobothriaux et types de tricho-bothriotaxie chex les Scorpions.</article-title> <source>Bulletin du Muséum National d’Histoire Naturelle, Paris </source> <volume>140</volume>: <fpage>857</fpage>-<lpage>958</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

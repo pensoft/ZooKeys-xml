@@ -1,0 +1,419 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.303.4873</article-id>
+            <title-group>
+                <article-title>First cytogenetic information for 
+                    <italic>Drymoreomys albimaculatus</italic> (Rodentia, Cricetidae), a recently described genus from Brazilian Atlantic Forest</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Suárez-Villota</surname>
+                        <given-names>Elkin Y.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Di-Nizo</surname>
+                        <given-names>Camilla B.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Neves</surname>
+                        <given-names>Carolina L.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Silva</surname>
+                        <given-names>Maria José de Jesus</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Laboratório de Ecologia e Evolução, Instituto Butantan, São Paulo, Brazil
+            </aff>
+            <aff id="A2">
+                <label>2</label>Laboratório de Biologia da Conservação, Departamento de Ecologia, Universidade Estadual Paulista (UNESP), Rio Claro, SP, Brazil
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Maria José de Jesus Silva (<email xlink:type="simple">mariajo@butantan.gov.br</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: K. M. Helgen</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>21</day>
+                <month>5</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>303</issue>
+            <fpage>65</fpage>
+            <lpage>76</lpage>
+            <history>
+                <date date-type="received">
+                    <day>19</day>
+                    <month>2</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>15</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Elkin Y. Suárez-Villota, Camilla B. Di-Nizo, Carolina L. Neves, Maria José de Jesus Silva</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The recently described taxon <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> is endemic to the Brazilian Atlantic Forest and its biology and genetics are still poorly known. Herein, we present, for the first time, the karyotype of the species using classical and molecular cytogenetics, which showed 2n=62, FN=62, and interstitial telomeric signals at the sex chromosomes. Nuclear and mitochondrial DNA sequences from the two karyotyped individuals verify the taxonomic identity as the recently described <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> and confirm the relationship of the species with other <tp:taxon-name>Oryzomyini</tp:taxon-name>. Additionally, external morphological information is provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Oryzomyini</kwd>
+                <kwd>karyotype</kwd>
+                <kwd>CBG banding</kwd>
+                <kwd>GTG banding</kwd>
+                <kwd>FISH</kwd>
+                <kwd>IRBP</kwd>
+                <kwd>Cyt <italic>b</italic></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The Atlantic Forest harbors a high diversity of mammals, 20 percent of which are rodents of the subfamily <tp:taxon-name>Sigmodontinae</tp:taxon-name> (<xref ref-type="bibr" rid="B35">Ribeiro et al. 2009</xref>). However, the fauna of this biome is still barely known, such that discovery of new species is still common (<xref ref-type="bibr" rid="B9">De Vivo et al. 2010</xref>). Since 1999, 14 new species of sigmodontines were formally described for Atlantic Forest: <italic><tp:taxon-name>Abrawayaomys chebezi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B29">Pardiñas et al. 2009</xref>), <italic><tp:taxon-name>Akodon paranaensis</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B6">Christoff et al. 2000</xref>), <italic><tp:taxon-name>Akodon philipmeyersi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B28">Pardiñas et al. 2005</xref>), <italic><tp:taxon-name>Akodon reigi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B15">González et al. 1999</xref>), <italic><tp:taxon-name>Brucepattersonius paradisus</tp:taxon-name></italic>, <italic><tp:taxon-name>Brucepattersonius guarani</tp:taxon-name></italic>, <italic><tp:taxon-name>Brucepattersonius misionensis</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B21">Mares and Braun 2000</xref>), <italic><tp:taxon-name>Cerradomys langguthi</tp:taxon-name></italic>, <italic><tp:taxon-name>Cerradomys vivoi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B31">Percequillo et al. 2008</xref>), <italic><tp:taxon-name>Hylaeamys seuanezi</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B49">Weksler et al. 1999</xref>), <italic><tp:taxon-name>Juliomys rimofrons</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B26">Oliveira and Bonvicino 2002</xref>), <italic><tp:taxon-name>Juliomys ossitenius</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B8">Costa et al. 2007</xref>), <italic><tp:taxon-name>Rhipidomys tribei</tp:taxon-name></italic>, and <italic><tp:taxon-name>Rhipidomys itoan</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B7">Costa et al. 2011</xref>).</p>
+            <p>Recently,<xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref> described <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> as a new monotypic genus, endemic to the Brazilian Atlantic Forest and known from a few localities in São Paulo and Santa Catarina states. Phylogenetic analyses based on morphological traits and DNA sequences [1143bp of cytochrome <italic>b</italic> (Cyt <italic>b</italic>) and 1235bp of interphotoreceptor retinoid binding protein (IRBP) genes] revealed the placement of <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> in the tribe <tp:taxon-name>Oryzomyini</tp:taxon-name>, raising to 30 the number of extant <tp:taxon-name>Oryzomyini</tp:taxon-name> genera. According to those analyses, <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref> revealed that <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> is the sister species of the Andean rat <italic><tp:taxon-name>Eremoryzomys polius</tp:taxon-name></italic>.</p>
+            <p>Here, we describe the karyotype of <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> for the first time. In order to investigate the molecular identification of the two karyotyped animals, we added its Cyt <italic>b</italic> and IRBP sequences to the molecular data published by <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref>. Additionally, we present morphological comments on the specimens.</p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <sec sec-type="Sampling">
+                <title>Sampling</title>
+                <p>One male and one female were collected with pitfall traps in Santa Virgínia, Parque Estadual da Serra do Mar [45°03.00' to 45°11.00'W (DDM); 23°24.00' to 23°17.00'S (DDM)], state of São Paulo, Brazil. Pelage color and external measurements were taken during the fieldwork. Vouchers of both individuals are deposited in the Coleção de Mamíferos da Universidade Federal do Espírito Santo (UFES) under the catalog numbers UFES 2271 and UFES 2272.</p>
+            </sec>
+            <sec sec-type="Cytogenetic analyses">
+                <title>Cytogenetic analyses</title>
+                <p>Metaphases were obtained <!--PageBreak--><italic>in vivo</italic> from spleen and bone marrow, according to <xref ref-type="bibr" rid="B11">Ford and Hamerton (1956)</xref> with modifications. Conventional Giemsa staining was used to determine the diploid (2n) and the number of autosome arms (FN). GTG and CBG-banding were performed according to <xref ref-type="bibr" rid="B38">Seabright (1971)</xref> and <xref ref-type="bibr" rid="B43">Sumner (1972)</xref>, respectively, with modifications. Fluorescent <italic>in situ</italic> hybridization (FISH) with a FITC labeled (C<sub>3</sub>TA<sub>2</sub>) <sub>n</sub>peptide nucleic acid (PNA) probe (DAKO) was carried out following the recommended protocol (Telomere PNA FISH Kit/FITC, Code No. K5325, DAKO). Mitotic plates were digitally captured with visible light or blue and green <!--PageBreak-->filters (emission at 461 and 517 nm, respectively) in an Axioskop 40 epifluorescence microscope (Carl Zeiss) equipped with an Axiocam camera and AxionVision software. Images were overlaid and contrast enhanced with Adobe Photoshop CS5.1.</p>
+            </sec>
+            <sec sec-type="DNA extraction, amplification, and sequencing">
+                <title>DNA extraction, amplification, and sequencing</title>
+                <p>DNA was extracted from liver with Chelex 5% (Bio-Rad) following <xref ref-type="bibr" rid="B45">Walsh et al. (1991)</xref>. Amplification of an 820 bp fragment of Cyt <italic>b</italic> and a 782 bp of IRBP was performed with PCR using primers MVZ5 and MVZ16 (<xref ref-type="bibr" rid="B17">Irwin et al. 1991</xref>; <xref ref-type="bibr" rid="B40">Smith and Patton 1993</xref>), and A1 and F (<xref ref-type="bibr" rid="B42">Stanhope et al. 1992</xref>), respectively. Both extraction and PCR controls were used for each amplification. Each PCR mixture had 30 ng of DNA, 25 pmol of each primer, 0.2 mM of dNTP, and 2.52 µL of reaction buffer (50 mM KCl, 2.5 mM MgCl2, 10 mM Tris-HCl; pH 8.8), and 0.2 units of Taq DNA polymerase (Invitrogen) were added to complete 18 µL. Forty amplification cycles were performed in a thermal cycler (Eppendorf Mastercycler ep Gradient, Model 5341). Each cycle consisted of denaturation at 94°C for 30 s, annealing at 48°C for 45 s, and extension at 72°C for 45 s for Cyt <italic>b</italic>, and denaturation at 94°C for 30 s, annealing at 60°C for 60 s, and extension at 72°C for 180 s for IRBP. A final extension at 72°C for 5 min was performed for both Cyt <italic>b</italic> and IRBP amplifications. The PCR products were separated using 1% agarose gels in TAE buffer. Nucleotide sequencing was conducted using BigDye Terminator v3.1 Cycle Sequencing Kit (Applied Biosystems) and an ABI PRISM 3100 Genetic Analyzer (Applied Biosystems). Sequences of each animal were aligned with sequences from previously published data deposited on GenBank by <xref ref-type="bibr" rid="B5">Bonvicino and Moreira (2001)</xref>, <xref ref-type="bibr" rid="B46">Weksler (2003)</xref>, and <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref> using MAFFT ver. 5 (<xref ref-type="bibr" rid="B18">Katoh et al. 2005</xref>) under the iterative method of global pairwise alignment (G-INS-i). Our sequences were submitted to GenBank under accession numbers <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KF031014" xlink:type="simple">KF031014</ext-link>-<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KF031017" xlink:type="simple">KF031017</ext-link>.</p>
+            </sec>
+            <sec sec-type="Phylogenetic analyses">
+                <title>Phylogenetic analyses</title>
+                <p>We performed maximum likelihood (ML) and Bayesian analyses using concatenated Cyt <!--PageBreak--><italic>b</italic>-IRBP data set. For both analyses we used gene-specific unlinked models. The best-fitting model of nucleotide substitution for each gene was selected using the Akaike information criterion in accordance with the procedure outlined by <xref ref-type="bibr" rid="B34">Posada and Buckley (2004)</xref>, and implemented in jModelTest, version 0.1.1 (<xref ref-type="bibr" rid="B33">Posada 2008</xref>). The maximum-likelihood trees were calculated using RAxML (<xref ref-type="bibr" rid="B41">Stamatakis 2006</xref>). The statistical support for the nodes was estimated by the nonparametric bootstrap, with 1000 pseudoreplicates (<xref ref-type="bibr" rid="B10">Felsenstein 1985</xref>). Bayesian analysis was performed using MrBayes 3.04b (<xref ref-type="bibr" rid="B36">Ronquist and Huelsenbeck 2003</xref>). Markov chains were started from a random tree and run for 1.0 × 10<sup>7</sup> generations, sampling every 1000th generation. The stationary phase was checked following <xref ref-type="bibr" rid="B25">Nylander et al. (2004)</xref>. Sample points prior to the plateau phase were discarded as burn-in, and the remaining trees were combined to <!--PageBreak-->find the maximum <italic>a posteriori</italic> probability estimated of the phylogeny. Branch support was estimated by Bayesian posterior probabilities (BPP). Two simultaneous analyses were performed to ensure convergence on topologies.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Cytogenetic analyses">
+                <title>Cytogenetic analyses</title>
+                <p>The animals showed 2n=62, FN=62, and the autosome set composed of 29 acrocentric pairs decreasing in size, and one small metacentric pair (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). The X is a large submetacentric, and the Y is a large submetacentric slightly smaller than the X (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). CBG-banding revealed pericentromeric constitutive heterochromatic blocks in all autosomes and in the long arm of Y (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). GTG-banding allowed the identification of almost all autosomic pairs, the X chromosome exhibited two interstitial bands at the long arm while a conspicuous pattern in the Y was not found (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). FISH detected telomeric signals at the ends of all chromosomes and additional telomeric sequences were found in the pericentromeric region of both X and Y chromosomes (<xref ref-type="fig" rid="F1">Fig. 1D</xref>).</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>Cytogenetic analyses in <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> from Santa Virgínia, state of São Paulo, Brazil. <bold>A</bold> Karyotype of male (2n=62, FN=62), after conventional staining. Inset: sex chromosomes of a female <bold>B</bold> CBG-banding of a male <bold>C</bold> GTG-banding of a male <bold>D</bold> Fluorescent <italic>in situ</italic> hybridization using telomeric PNA probe over male mitotic plates. Bar scale = 10 μm.</p></caption>
+                    <graphic xlink:href="ZooKeys-303-065-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <!--PageBreak-->
+                <!--PageBreak-->
+            </sec>
+            <sec sec-type="Phylogenetic analyses">
+                <title>Phylogenetic analyses</title>
+                <p>The model selected for the phylogenetic analyses (ML and Bayesian) was GTR +I + Γ for each gene. The best ML tree had a -ln likelihood score of -22,345.02. The Bayesian analysis recovered a consensus topology similar to the best ML tree and the results recovered the four well-supported clades A, B, C, and D (<xref ref-type="fig" rid="F2">Fig. 2</xref>) previously reported <!--PageBreak--><!--PageBreak-->by <xref ref-type="bibr" rid="B47">Weksler (2006)</xref> and <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref>. In both phylogenetic analyses, Santa Virgínia specimens (UFES 2271 and UFES 2272) clustered with high statistical support to the recently described <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>, grey area).</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Maximum likelihood tree of combined molecular datasets [cytochrome b (Cyt <italic>b</italic>), interphotoreceptor retinoid binding protein (IRBP)] using Santa Virgínia specimens (UFES2271, UFES2272). Bootstrap nodal support indices and Bayesian posterior probabilities are shown above the branches, respectively. Outgroups include <italic><tp:taxon-name>Peromyscus maniculatus</tp:taxon-name></italic> (<tp:taxon-name>Neotominae</tp:taxon-name>); <italic><tp:taxon-name>Nyctomys sumichrasti</tp:taxon-name></italic> (<tp:taxon-name>Tylomyinae</tp:taxon-name>), <italic><tp:taxon-name>Delomys sublineatus</tp:taxon-name></italic> (<tp:taxon-name>Sigmodontinae</tp:taxon-name>), <italic><tp:taxon-name>Thomasomys baeops</tp:taxon-name></italic> (<tp:taxon-name>Sigmodontinae</tp:taxon-name>), and <italic><tp:taxon-name>Wiedomys pyrrhorhinos</tp:taxon-name></italic> (<tp:taxon-name>Sigmodontinae</tp:taxon-name>). Available diploid numbers (2n) of clade D are indicated (for details see <xref ref-type="table" rid="T1">Table 1</xref>), although the lowest diploid number (<italic><tp:taxon-name>Nectomys palmipes</tp:taxon-name></italic>, 2n= 16, <xref ref-type="bibr" rid="B3">Barros et al. 1992</xref>) does not appear in the figure.</p></caption>
+                    <graphic xlink:href="ZooKeys-303-065-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Phylogenetic analyses (ML and Bayesian) recovered the four clades A, B, C, and D (<xref ref-type="fig" rid="F2">Fig. 2</xref>) recovered by <xref ref-type="bibr" rid="B47">Weksler (2006)</xref> and <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref>. In both phylogenetic reconstructions, Santa Virgínia specimens were recovered with high statistical support in clade D, confirming their identity as <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>, grey area), and consistent with <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref>. Our analyses also recovered <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> as the sister species of <italic><tp:taxon-name>Eremoryzomys polius</tp:taxon-name></italic> and both species diverged early in the clade D (<xref ref-type="fig" rid="F2">Fig. 2</xref>).</p>
+            <p>The diploid number of <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> corroborates the pattern found for the majority of the <tp:taxon-name>Oryzomyini</tp:taxon-name> species, in which karyotypes present relatively high chromosome number and predominantly acrocentric pairs. The typical heterochromatic pattern of sex chromosomes is also found in most of the oryzomyine species and it is an essential condition for the recognition of the Y (<xref ref-type="fig" rid="F1">Fig. 1B</xref>).</p>
+            <p>The karyotype herein reported for <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> is species-specific,since only three other <tp:taxon-name>Oryzomyini</tp:taxon-name> species present the same diploid number, but different FN: <italic><tp:taxon-name>Oligoryzomys fornesi</tp:taxon-name></italic> (2n=62, FN=64), <italic><tp:taxon-name>Oligoryzomys delicatus</tp:taxon-name></italic> (2n=62, FN=74 and 76), and <italic><tp:taxon-name>Oligoryzomys nigripes</tp:taxon-name></italic> (2n=62, FN=80, 81 and 82) (<xref ref-type="bibr" rid="B14">Gardner and Patton 1976</xref>; <xref ref-type="bibr" rid="B48">Weksler and Bonvicino 2005</xref>). Telomeric sequences at the pericentromeric region of <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic>’ sex chromosomes could be hypothesized as (i) similar to regular sequences of the centromeres, (ii) related to a amplification of (T<sub>2</sub>AG<sub>3</sub>) <sub>n</sub>-like satellite DNA repeats, or (iii) resulted of a structural rearrangement. In fact, interstitial telomeric sequences are common in vertebrates (<xref ref-type="bibr" rid="B22">Meyne et al. 1990</xref>) and apparently are a structural component of mammalian satellite DNA (<xref ref-type="bibr" rid="B13">Garagna et al. 1997</xref>; <xref ref-type="bibr" rid="B27">Pagnozzi et al. 2000</xref>). Additionally, these sequences have been associated with chromosome rearrangements (<xref ref-type="bibr" rid="B37">Ruiz-Herrera et al. 2008</xref>; <xref ref-type="bibr" rid="B4">Bolzan 2012</xref>).</p>
+            <p>A compilation of karyological studies in representative species of clade D is presented in <xref ref-type="table" rid="T1">Table 1</xref>. Notably, cytogenetic data in <tp:taxon-name>Oryzomyini</tp:taxon-name> has increased considerably in the last decades, mainly because the karyotype has become a valid tool for identifying species of this group. Although several species still remain without karyotypic information (e.g., <!--PageBreak--><italic><tp:taxon-name>Eremoryzomys polius</tp:taxon-name></italic>, <italic><tp:taxon-name>Tanyuromys aphrastus</tp:taxon-name></italic>, <italic><tp:taxon-name>Nesoryzomys swarthy</tp:taxon-name></italic>), the diploid number within clade D varies from 16 in <italic><tp:taxon-name>Nectomys palmipes</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B3">Barros et al. 1992</xref>) to 62 in <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic>. As <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> exhibited the highest diploid number reported hitherto and diverged early in clade D, karyotype evolution in this clade based on the phylogeny (<xref ref-type="fig" rid="F2">Fig. 2</xref>), apparently exhibits a trend toward a decrease in the diploid number. This hypothesis could imply chromosomal plasticity in low 2n ratios as suggested by <xref ref-type="bibr" rid="B14">Gardner and Patton (1976)</xref>. In this sense, tandem fusions have perhaps played significant role in clade D, resulting in the lower diploid numbers. Robersonian rearrangements could have occurred in this group as well, since some species of clade <!--PageBreak--><!--PageBreak--><!--PageBreak-->D present the same FN but different 2n and number of biarmed chromosomes (e.g., <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> and <italic><tp:taxon-name>Cerradomys subflavus</tp:taxon-name></italic>, <xref ref-type="table" rid="T1">Table 1</xref>). Non-Robertsonian mechanisms such as pericentric inversions, unequal translocations, or whole-arm heterochromatin addition or deletion could also be invoked in those cases of changes in FN but not in 2n (e.g., <italic><tp:taxon-name>Sigmodontomys alfari</tp:taxon-name></italic>,and <italic><tp:taxon-name>Melanomys caliginous</tp:taxon-name></italic>, <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            <p>Species of clade D present sex and supernumerary chromosomes easily identifiable with classical cytogenetic approaches, and some species exhibit sex chromosomes with polymorphisms/heteromorphisms and interstitial telomeric signals (ITS; <xref ref-type="table" rid="T1">Table 1</xref>, <xref ref-type="fig" rid="F1">Fig. 1D</xref>). Thus, this clade is an excellent model to study origin, evolution, and chromatin composition of these chromosomes. For instance, a superficial morphological comparison among sex chromosomes from <xref ref-type="table" rid="T1">Table 1</xref> could suggest the occurrence of pericentric inversions, or whole-arm heterochromatin additions or deletions.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Cytogenetic characteristics of <tp:taxon-name>Oryzomyini</tp:taxon-name> species of clade D, with diploid number (2n), fundamental number (FN), morphologies of autosomal pairs and sex chromosomes, polymorphisms described and references. *Supernumerary chromosomes are not included in autosomal morphologies. A=acrocentric; M=metacentric; SM=submetacentric; ST=subtelocentric; ITS=interstitial telomeric signals; NA=not available.&lt;br/&gt;</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Species</bold></th>
+                            <th rowspan="1" colspan="1"><bold>2n</bold></th>
+                            <th rowspan="1" colspan="1"><bold>FN</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Autosomal morphologies*</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Sex chromosome morphologies</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Cytogenetic characteristics</bold></th>
+                            <th rowspan="1" colspan="1"><bold>References</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Aegialomys xanthaeolus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1">25 A&lt;br/&gt; 2 M/SM</td>
+                            <td rowspan="1" colspan="1">X: large A&lt;br/&gt; Y: small A</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B14">Gardner and Patton (1976)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Melanomys caliginosus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1">25 A&lt;br/&gt; 2 M</td>
+                            <td rowspan="1" colspan="1">X: large ST&lt;br/&gt; Y: medium ST</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B14">Gardner and Patton (1976)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sigmodontomys alfari</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">54</td>
+                            <td rowspan="1" colspan="1">27 A</td>
+                            <td rowspan="1" colspan="1">X: large A&lt;br/&gt; Y: small A</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B14">Gardner and Patton (1976)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tanyuromys aphrastus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nesoryzomys narboroughi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1">5 A&lt;br/&gt; 8 M/SM&lt;br/&gt; 2 ST</td>
+                            <td rowspan="1" colspan="1">X: medium A&lt;br/&gt; Y: small A</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B14">Gardner and Patton (1976)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nesoryzomys swarthi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oryzomys couesi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">26 A&lt;br/&gt; 1 M</td>
+                            <td rowspan="1" colspan="1">X: large SM&lt;br/&gt; Y: medium A/ST</td>
+                            <td rowspan="1" colspan="1">Y heteromorphisms</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B16">Haiduk et al. (1979)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Oryzomys palustris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">26 A&lt;br/&gt; 1 M</td>
+                            <td rowspan="1" colspan="1">X: large A&lt;br/&gt; Y: minute A</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B16">Haiduk et al. (1979)</xref>; <xref ref-type="bibr" rid="B14">Gardner and Patton (1976)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Amphinectomys savamis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">52</td>
+                            <td rowspan="1" colspan="1">66</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B20">Malygin et al. (1994)</xref> apud <xref ref-type="bibr" rid="B24">Musser and Carleton (2005)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nectomys apicalis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">20 A</td>
+                            <td rowspan="1" colspan="1">X and Y: A</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B30">Patton et al. (2000)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nectomys squamipes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56–59</td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">26 A&lt;br/&gt; 1 M</td>
+                            <td rowspan="1" colspan="1">X: large SM/ ST&lt;br/&gt; Y: medium/ small SM/ST</td>
+                            <td rowspan="1" colspan="1">0-2 B chromosomes; sex chromosomes polymorphisms</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B19">Maia et al. (1984)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cerradomys subflavus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">54–56</td>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1">21 A, 3 SM, 2M&lt;br/&gt; 23 A, 2 SM, 2M</td>
+                            <td rowspan="1" colspan="1">X: large A/ ST&lt;br/&gt; Y: medium A/ large A</td>
+                            <td rowspan="1" colspan="1">Centric fusion/fission, pericentric inversion, sex chromosomes polymorphisms</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B1">Almeida and Yonenaga-Yassuda (1985)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sooretamys angouya</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">58, 60</td>
+                            <td rowspan="1" colspan="1">60, 64</td>
+                            <td rowspan="1" colspan="1">26 A&lt;br/&gt; 2 M</td>
+                            <td rowspan="1" colspan="1">X: large A&lt;br/&gt; Y: medium ST</td>
+                            <td rowspan="1" colspan="1">0 or 2 B chromosomes</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B2">Andrades-Miranda et al. (2001)</xref>; <xref ref-type="bibr" rid="B39">Silva and Yonenaga-Yassuda (2004)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Holochilus brasiliensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56–58</td>
+                            <td rowspan="1" colspan="1">56, 58, 60</td>
+                            <td rowspan="1" colspan="1">26 A&lt;br/&gt; 1 M</td>
+                            <td rowspan="1" colspan="1">X: large ST&lt;br/&gt; Y: small SM</td>
+                            <td rowspan="1" colspan="1">0 to 2 B chromosomes</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B50">Yonenaga-Yassuda et al. (1987)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudoryzomys simplex</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1">54, 55</td>
+                            <td rowspan="1" colspan="1">27 A</td>
+                            <td rowspan="1" colspan="1">X: large A&lt;br/&gt; Y: medium A</td>
+                            <td rowspan="1" colspan="1">Heteromorphic pair 17 due to addition of constitutive heterochromatin</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B44">Voss and Myers (1991)</xref>; <xref ref-type="bibr" rid="B23">Moreira et al. (in press)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lundomys molitor</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">52</td>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1">21 A&lt;br/&gt; 4 M</td>
+                            <td rowspan="1" colspan="1">X: large SM&lt;br/&gt; Y: small M</td>
+                            <td rowspan="1" colspan="1">X heteromorphism</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B12">Freitas et al. (1983)</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1">29 A&lt;br/&gt; 1M</td>
+                            <td rowspan="1" colspan="1">X: large SM&lt;br/&gt; Y: medium SM</td>
+                            <td rowspan="1" colspan="1">ITS in both sex chromosomes</td>
+                            <td rowspan="1" colspan="1">Present study</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Eremoryzomys polius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1">NA</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <sec sec-type="Comments on external morphology and natural history">
+                <title>Comments on external morphology and natural history</title>
+                <p>The specimens collected were medium sized (male body mass: 46.5 g, head and body length: 115 mm, and tail length: 142 mm; female body mass: 57 g, head and body length: 127 mm, and tail length: 170 mm). Tail was longer than head and body, and was a uniform color on both sides. Male hind footwas short (25 mm, 22% of head and body length) and ears were small (16 mm; 14% of head and body length). These external morphological measures overlapped with those of the <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> holotype (<xref ref-type="bibr" rid="B32">Percequillo et al. 2011</xref>). Dorsal pelage was reddish-brown; ventral pelage was predominantly grayish. Samples exhibited the pattern of short hind feet consistent with <italic><tp:taxon-name>Oecomys</tp:taxon-name></italic>. Fore and hind feet digits were covered by silvery-white hairs and the dorsal surface of hind feet were covered by brown hairs forming a patch, in a more conspicuous pattern than the observed for <italic><tp:taxon-name>Rhipidomys</tp:taxon-name></italic>. Thus, some external morphological traits were similar to those described for <italic><tp:taxon-name>Rhipidomys</tp:taxon-name></italic> and <italic><tp:taxon-name>Oecomys</tp:taxon-name></italic> as reported <xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref>. Nevertheless, our samples exhibited the characteristics of the <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> holotype that differentiate it from <italic><tp:taxon-name>Rhipidomys</tp:taxon-name></italic>, such as the shorter, thinner, and sparser mystacial vibrissae and presence of gular to pectoral patches of white hair. Additionally, we detected that, contrary to what is found in <italic><tp:taxon-name>Rhipidomys</tp:taxon-name></italic>, a tuft of hairs on the tail’s end is absent in our samples. On the other hand, several anatomical traits that distinguish the <italic><tp:taxon-name>Drymoreomys albimaculatus</tp:taxon-name></italic> holotype and species of <italic><tp:taxon-name>Oecomys</tp:taxon-name></italic> wereobserved in our samples, such as the plantar surface of pes covered with squamae; dorsal surface of pes with dark patches of brown hairs and the ventral pelage with gular and thoracic white patches (<xref ref-type="bibr" rid="B32">Percequillo et al. 2011</xref>).</p>
+                <p><xref ref-type="bibr" rid="B32">Percequillo et al. (2011)</xref> reported that most of the <italic><tp:taxon-name>Drymoreomys</tp:taxon-name></italic> specimens were collected in pitfall traps; in the present work, the animals were also collected in the same way. These reiterate the importance of further fieldwork effort, with different collecting methods in order to increase the spectrum of small mammals collected. Consequently, our knowledge of small mammal biodiversity will be improved as a whole, which will allow improvements in relevant laws and policies for biodiversity protection.</p>
+                <!--PageBreak-->
+                <!--PageBreak-->
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>This work was supported by FAPESP (2008/00493-9 and 2010/03432-0 for CDN, Jovem Pesquisador 2005/04557-3 for MJJS), CNPq (131891/2008-1 for CLN) and by Conicyt (Becas Chile 74130017 for EYSV). We thank two anonymous reviewers for their helpful comments.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Almeida</surname> <given-names>EJC</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name></person-group> (<year>1985</year>) <article-title>Robertsonian fusion, pericentric inversion and sex-chromosome heteromorphisms in <italic>Oryzomys subflavus</italic> (Cricetidae, Rodentia).</article-title> <source>Caryologia</source> <volume>38</volume>: <fpage>129</fpage>-<lpage>137</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Andrades-Miranda</surname> <given-names>J</given-names></name><name name-style="western"><surname>Zanchin</surname> <given-names>NIT</given-names></name><name name-style="western"><surname>Oliveira</surname> <given-names>LFB</given-names></name><name name-style="western"><surname>Langguth</surname> <given-names>AR</given-names></name><name name-style="western"><surname>Mattevi</surname> <given-names>MS</given-names></name></person-group> (<year>2001</year>) <article-title>Cytogenetic studies in nine taxa of the genus <italic>Oryzomys</italic> (Rodentia, Sigmodontinae) from Brazil.</article-title> <source>Mammalia</source> <volume>65</volume>: <fpage>461</fpage>-<lpage>472</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1515/Mamm.2001.65.4.461" xlink:type="simple">10.1515/Mamm.2001.65.4.461</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Barros</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Reig</surname> <given-names>OA</given-names></name><name name-style="western"><surname>Perez-Zapata</surname> <given-names>A</given-names></name></person-group> (<year>1992</year>) <article-title>Cytogenetics and karyosystematics of South American Oryzomyine rodents (Cricetidae, Sigmodontinae).</article-title> <source>Cytogenetics and Cell Genetics</source> <volume>59</volume>: <fpage>34</fpage>-<lpage>38</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1159/000133195" xlink:type="simple">10.1159/000133195</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bolzan</surname> <given-names>AD</given-names></name></person-group> (<year>2012</year>) <article-title>Chromosomal aberrations involving telomeres and interstitial telomeric sequences.</article-title> <source>Mutagenesis</source> <volume>27</volume>: <fpage>1</fpage>-<lpage>15</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bonvicino</surname> <given-names>CR</given-names></name><name name-style="western"><surname>Moreira</surname> <given-names>MA</given-names></name></person-group> (<year>2001</year>) <article-title>Molecular phylogeny of the genus <italic>Oryzomys</italic> (Rodentia: Sigmodontinae) based on cytochrome <italic>b</italic> DNA sequences.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>18</volume>: <fpage>282</fpage>-<lpage>292</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/mpev.2000.0878" xlink:type="simple">10.1006/mpev.2000.0878</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Christoff</surname> <given-names>AU</given-names></name><name name-style="western"><surname>Fagundes</surname> <given-names>V</given-names></name><name name-style="western"><surname>Sbalqueiro</surname> <given-names>IJ</given-names></name><name name-style="western"><surname>Mattevi</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name></person-group> (<year>2000</year>) <article-title>Description of a new species of <italic>Akodon</italic> (Rodentia: Sigmodontinae) from southern Brazil.</article-title> <source>Journal of Mammalogy</source> <volume>81</volume>: <fpage>838</fpage>-<lpage>851</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1644/1545-1542(2000)081&lt;0838:Doanso&gt;2.3.Co;2" xlink:type="simple">10.1644/1545-1542(2000)081&lt;0838:Doanso&gt;2.3.Co;2</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Costa</surname> <given-names>BMDA</given-names></name><name name-style="western"><surname>Geise</surname> <given-names>L</given-names></name><name name-style="western"><surname>Pereira</surname> <given-names>LG</given-names></name><name name-style="western"><surname>Costa</surname> <given-names>LP</given-names></name></person-group> (<year>2011</year>) <article-title>Phylogeography of <italic>Rhipidomys</italic> (Rodentia: Cricetidae: Sigmodontinae) and description of two new species from southeastern Brazil.</article-title> <source>Journal of Mammalogy</source> <volume>92</volume>: <fpage>945</fpage>-<lpage>962</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1644/10-mamm-a-249.1" xlink:type="simple">10.1644/10-mamm-a-249.1</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Costa</surname> <given-names>LP</given-names></name><name name-style="western"><surname>Pavan</surname> <given-names>SE</given-names></name><name name-style="western"><surname>Leite</surname> <given-names>YLR</given-names></name><name name-style="western"><surname>Fagundes</surname> <given-names>V</given-names></name></person-group> (<year>2007</year>) <article-title>A new species of <italic>Juliomys</italic> (Mammalia: Rodentia: Cricetidae) from the Atlantic forest of southeastern Brazil.</article-title> <source>Zootaxa</source> <volume>1463</volume>: <fpage>21</fpage>-<lpage>37</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2806242" xlink:type="simple">10.2307/2806242</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Vivo</surname> <given-names>M</given-names></name><name name-style="western"><surname>Carmignotto</surname> <given-names>AP</given-names></name><name name-style="western"><surname>Gregorin</surname> <given-names>R</given-names></name><name name-style="western"><surname>Hingst-Zaher</surname> <given-names>E</given-names></name><name name-style="western"><surname>Lack-Ximenes</surname> <given-names>GE</given-names></name><name name-style="western"><surname>Miretzki</surname> <given-names>M</given-names></name><name name-style="western"><surname>Percequillo</surname> <given-names>AR</given-names></name><name name-style="western"><surname>Rollo-Jr</surname> <given-names>MM</given-names></name><name name-style="western"><surname>Rossi</surname> <given-names>RV</given-names></name><name name-style="western"><surname>Taddei</surname> <given-names>VA</given-names></name></person-group> (<year>2010</year>) <source>Checklist of mammals from São Paulo State, Brazil. Biota Neotropica <ext-link ext-link-type="uri" xlink:href="http://www.biotaneotropica.org.br/v11n1a/pt/abstract?inventory+bn0071101a2011" xlink:type="simple">http://www.biotaneotropica.org.br/v11n1a/pt/abstract?inventory+bn0071101a2011</ext-link>:</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Felsenstein</surname> <given-names>J</given-names></name></person-group> (<year>1985</year>) <article-title>Confidence limits on phylogenies: an approach using the bootstrap.</article-title> <source>Evolution</source> <volume>39</volume>: <fpage>783</fpage>-<lpage>791</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2408678" xlink:type="simple">10.2307/2408678</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ford</surname> <given-names>CE</given-names></name><name name-style="western"><surname>Hamerton</surname> <given-names>JL</given-names></name></person-group> (<year>1956</year>) <article-title>A colchicine, hypotonic citrate, squash sequence for mammalian chromosomes.</article-title> <source>Stain Technology</source> <volume>31</volume>: <fpage>247</fpage>-<lpage>251</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3109/10520295609113814" xlink:type="simple">10.3109/10520295609113814</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <!--PageBreak-->
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Freitas</surname> <given-names>TRO</given-names></name><name name-style="western"><surname>Mattevi</surname> <given-names>MS</given-names></name><name name-style="western"><surname>Oliveira</surname> <given-names>LFB</given-names></name><name name-style="western"><surname>Souza</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Salzano</surname> <given-names>FM</given-names></name></person-group> (<year>1983</year>) <article-title>Chromosome relationships in three representatives of the genus <italic>Holochilus</italic> (Rodentia, Cricetidae) from Brazil.</article-title> <source>Genetica</source> <volume>61</volume>: <fpage>13</fpage>-<lpage>20</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/bf00563228" xlink:type="simple">10.1007/bf00563228</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Garagna</surname> <given-names>S</given-names></name><name name-style="western"><surname>Ronchetti</surname> <given-names>E</given-names></name><name name-style="western"><surname>Mascheretti</surname> <given-names>S</given-names></name><name name-style="western"><surname>Crovella</surname> <given-names>S</given-names></name><name name-style="western"><surname>Formenti</surname> <given-names>D</given-names></name><name name-style="western"><surname>Rumpler</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Manfredi</surname> <given-names>Romanini MG</given-names></name></person-group> (<year>1997</year>) <article-title>Non-telomeric chromosome localization of (TTAGGG)<sub>n</sub> repeats in the genus <italic>Eulemur</italic>.</article-title> <source>Chromosome Research</source> <volume>5</volume>: <fpage>487</fpage>-<lpage>491</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1018425215516" xlink:type="simple">10.1023/A:1018425215516</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gardner</surname> <given-names>AL</given-names></name><name name-style="western"><surname>Patton</surname> <given-names>JL</given-names></name></person-group> (<year>1976</year>) <article-title>Karyotypic variation in Oryzomyine Rodents (Cricetinae) with comments on chromosomal evolution in the neotropical Cricetine Complex.</article-title> <source>Occasional Papers of the Museum of Zoology, Louisiana State University</source> <volume>49</volume>: <fpage>1</fpage>-<lpage>47</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>González</surname> <given-names>EM</given-names></name><name name-style="western"><surname>Langguth</surname> <given-names>A</given-names></name><name name-style="western"><surname>Oliveira</surname> <given-names>LF</given-names></name></person-group> (<year>1999</year>) <article-title>A new species of <italic>Akodon</italic> from Uruguay and southern Brazil: (Mammalia: Rodentia: Sigmodontinae).</article-title> <source>Comunicaciones Zoológicas del Museo de Historia Natural de Montevideo</source> <volume>191</volume>: <fpage>1</fpage>-<lpage>8</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haiduk</surname> <given-names>MW</given-names></name><name name-style="western"><surname>Bickham</surname> <given-names>JW</given-names></name><name name-style="western"><surname>Schmidly</surname> <given-names>DJ</given-names></name></person-group> (<year>1979</year>) <article-title>Karyotypes of six species of <italic>Oryzomys</italic> from Mexico and Central America.</article-title> <source>Journal of Mammalogy</source> <volume>60</volume>: <fpage>610</fpage>-<lpage>615</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1380103" xlink:type="simple">10.2307/1380103</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Irwin</surname> <given-names>DM</given-names></name><name name-style="western"><surname>Kocher</surname> <given-names>TD</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>AC</given-names></name></person-group> (<year>1991</year>) <article-title>Evolution of the cytochrome <italic>b</italic> gene of mammals.</article-title> <source>Journal of Molecular Evolution</source> <volume>32</volume>: <fpage>128</fpage>-<lpage>144</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02515385" xlink:type="simple">10.1007/BF02515385</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Katoh</surname> <given-names>K</given-names></name><name name-style="western"><surname>Kuma</surname> <given-names>K</given-names></name><name name-style="western"><surname>Toh</surname> <given-names>H</given-names></name><name name-style="western"><surname>Miyata</surname> <given-names>T</given-names></name></person-group> (<year>2005</year>) <article-title>MAFFT version 5: improvement in accuracy of multiple sequence alignment.</article-title> <source>Nucleic Acids Research</source> <volume>33</volume>: <fpage>511</fpage>-<lpage>518</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/gki198" xlink:type="simple">10.1093/nar/gki198</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maia</surname> <given-names>V</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Freitas</surname> <given-names>TRO</given-names></name><name name-style="western"><surname>Kasahara</surname> <given-names>S</given-names></name><name name-style="western"><surname>Sune-Mattevi</surname> <given-names>M</given-names></name><name name-style="western"><surname>Oliveira</surname> <given-names>LF</given-names></name><name name-style="western"><surname>Galindo</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Sbalqueiro</surname> <given-names>IJ</given-names></name></person-group> (<year>1984</year>) <article-title>Supernumerary chromosomes, robertsonian rearrangement and variability of the sex-chromosomes in <italic>Nectomys squamipes</italic> (Cricetidae, Rodentia).</article-title> <source>Genetica</source> <volume>63</volume>: <fpage>121</fpage>-<lpage>128</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/Bf00605896" xlink:type="simple">10.1007/Bf00605896</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Malygin</surname> <given-names>VM</given-names></name><name name-style="western"><surname>Aniskin</surname> <given-names>VM</given-names></name><name name-style="western"><surname>Isaev</surname> <given-names>SI</given-names></name><name name-style="western"><surname>Milishnikov</surname> <given-names>AN</given-names></name></person-group> (<year>1994</year>) <article-title><italic>Amphinectomys savamis</italic> Malygin Gen-N Et Sp-N, a new genus and a new species of water rat (Cricetidae, Rodentia) from Peruvian Amazonia.</article-title> <source>Zoologichesky Zhurnal</source> <volume>73</volume>: <fpage>195</fpage>-<lpage>208</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mares</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Braun</surname> <given-names>JK</given-names></name></person-group> (<year>2000</year>) <article-title>Three new species of <italic>Brucepattersonius</italic> (Rodentia: Sigmodontinae) from Misiones Province, Argentina.</article-title> <source>Occasional Papers of the Sam Noble Oklahoma Museum of Natural History</source> <volume>9</volume>: <fpage>1</fpage>-<lpage>3</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Meyne</surname> <given-names>J</given-names></name><name name-style="western"><surname>Baker</surname> <given-names>RJ</given-names></name><name name-style="western"><surname>Hobart</surname> <given-names>HH</given-names></name><name name-style="western"><surname>Hsu</surname> <given-names>TC</given-names></name><name name-style="western"><surname>Ryder</surname> <given-names>OA</given-names></name><name name-style="western"><surname>Ward</surname> <given-names>OG</given-names></name><name name-style="western"><surname>Wiley</surname> <given-names>JE</given-names></name><name name-style="western"><surname>Wurster-Hill</surname> <given-names>DH</given-names></name><name name-style="western"><surname>Yates</surname> <given-names>TL</given-names></name><name name-style="western"><surname>Moyzis</surname> <given-names>RK</given-names></name></person-group> (<year>1990</year>) <article-title>Distribution of non-telomeric sites of the (TTAGGG)<sub>n</sub>telomeric sequence in vertebrate chromosomes.</article-title> <source>Chromosoma</source> <volume>99</volume>: <fpage>3</fpage>-<lpage>10</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF01737283" xlink:type="simple">10.1007/BF01737283</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moreira</surname> <given-names>CN</given-names></name><name name-style="western"><surname>Di-Nizo</surname> <given-names>CB</given-names></name><name name-style="western"><surname>Silva</surname> <given-names>MJJ</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Ventura</surname> <given-names>K</given-names></name></person-group> (<year>in press</year>) <source>A remarkable autosomal heteromorphism in <italic>Pseudoryzomys simplex</italic> 2n=56, NFa=54, 55 (Rodentia, Sigmodontinae). Genetics and Molecular Biology.</source></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Musser</surname> <given-names>GG</given-names></name><name name-style="western"><surname>Carleton</surname> <given-names>MD</given-names></name></person-group> (<year>2005</year>) <article-title>Superfamily Muroidea.</article-title> In: <person-group><name name-style="western"><surname>Wilson</surname> <given-names>DE</given-names></name><name name-style="western"><surname>Reeder</surname> <given-names>DM</given-names></name></person-group> (<role>Eds</role>). <issue-title>Mammal Species of the World: A Taxonomic and Geographic Reference.</issue-title> <source>John Hopkins University Press, Baltimore</source>: <fpage>894</fpage>-<lpage>1531</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nylander</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname> <given-names>JP</given-names></name><name name-style="western"><surname>Nieves-Aldrey</surname> <given-names>JL</given-names></name></person-group> (<year>2004</year>) <article-title>Bayesian phylogenetic analysis of combined data.</article-title> <source>Systematic Biology</source> <volume>53</volume>: <fpage>47</fpage>-<lpage>67</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10635150490264699" xlink:type="simple">10.1080/10635150490264699</ext-link></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Oliveira</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Bonvicino</surname> <given-names>CR</given-names></name></person-group> (<year>2002</year>) <article-title>A new species of sigmodontine rodent from the Atlantic forest of eastern Brazil.</article-title> <source>Acta Theriologica</source> <volume>47</volume>: <fpage>307</fpage>-<lpage>322</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF03194149" xlink:type="simple">10.1007/BF03194149</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <!--PageBreak-->
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pagnozzi</surname> <given-names>JM</given-names></name><name name-style="western"><surname>Silva</surname> <given-names>MJJ</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name></person-group> (<year>2000</year>) <article-title>Intraspecific variation in the distribution of the interstitial telomeric (TTAGGG)<sub>n</sub> sequences in <italic>Micoureus demerarae</italic> (Marsupialia: Didelphidae).</article-title> <source>Chromosome Research</source> <volume>8</volume>: <fpage>585</fpage>-<lpage>591</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1023/A:1009229806649" xlink:type="simple">10.1023/A:1009229806649</ext-link></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pardiñas</surname> <given-names>UFJ</given-names></name><name name-style="western"><surname>D’Elia</surname> <given-names>G</given-names></name><name name-style="western"><surname>Cirignoli</surname> <given-names>S</given-names></name><name name-style="western"><surname>Suarez</surname> <given-names>P</given-names></name></person-group> (<year>2005</year>) <source>A new species of <italic>Akodon</italic> (Rodentia, Cricetidae) from the northern campos grasslands of Argentina. Journal of Mammalogy 86: 462–474.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1644/1545-1542(2005)86[462:Ansoar]2.0.Co;2" xlink:type="simple">10.1644/1545-1542(2005)86[462:Ansoar]2.0.Co;2</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pardiñas</surname> <given-names>UFJ</given-names></name><name name-style="western"><surname>Teta</surname> <given-names>P</given-names></name><name name-style="western"><surname>D’Elia</surname> <given-names>G</given-names></name></person-group> (<year>2009</year>) <source>Taxonomy and distribution of <italic>Abrawayaomys</italic> (Rodentia: Cricetidae), an Atlantic Forest endemic with the description of a new species. Zootaxa: 39–60.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.11646/zootaxa.3641.4.9" xlink:type="simple">10.11646/zootaxa.3641.4.9</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Patton</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Da</surname> <given-names>Silva MNF</given-names></name><name name-style="western"><surname>Malcolm</surname> <given-names>JR</given-names></name></person-group> (<year>2000</year>) <article-title>Mammals of the Rio Juruá and the evolutionary and ecological diversification of Amazonia.</article-title> <source>Bulletin of the American Museum of Natural History</source> <volume>244</volume>: <fpage>1</fpage>-<lpage>306</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/0003-0090(2000)244&lt;0001:motrja&gt;2.0.co;2" xlink:type="simple">10.1206/0003-0090(2000)244&lt;0001:motrja&gt;2.0.co;2</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Percequillo</surname> <given-names>AR</given-names></name><name name-style="western"><surname>Hingst-Zaher</surname> <given-names>E</given-names></name><name name-style="western"><surname>Bonvicino</surname> <given-names>CR</given-names></name></person-group> (<year>2008</year>) <source>Systematic review of genus <italic>Cerradomys</italic> Weksler, Percequillo and Voss, 2006 (Rodentia: Cricetidae: Sigmodontinae: Oryzomyini), with description of two new species from eastern Brazil. American Museum Novitates: 1–46.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1206/495.1" xlink:type="simple">10.1206/495.1</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Percequillo</surname> <given-names>AR</given-names></name><name name-style="western"><surname>Weksler</surname> <given-names>M</given-names></name><name name-style="western"><surname>Costa</surname> <given-names>LP</given-names></name></person-group> (<year>2011</year>) <article-title>A new genus and species of rodent from the Brazilian Atlantic Forest (Rodentia: Cricetidae: Sigmodontinae: Oryzomyini), with comments on oryzomyine biogeography.</article-title> <source>Zoological Journal of Linnean Society</source> <volume>161</volume>: <fpage>357</fpage>-<lpage>390</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-3642.2010.00643.x" xlink:type="simple">10.1111/j.1096-3642.2010.00643.x</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name></person-group> (<year>2008</year>) <article-title>jModelTest: phylogenetic model averaging.</article-title> <source>Molecular Biology and Evolution</source> <volume>25</volume>: <fpage>1253</fpage>-<lpage>1256</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msn083" xlink:type="simple">10.1093/molbev/msn083</ext-link></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name><name name-style="western"><surname>Buckley</surname> <given-names>TR</given-names></name></person-group> (<year>2004</year>) <article-title>Model selection and model averaging in phylogenetics: advantages of akaike information criterion and bayesian approaches over likelihood ratio tests.</article-title> <source>Systematic Biology</source> <volume>53</volume>: <fpage>793</fpage>-<lpage>808</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10635150490522304" xlink:type="simple">10.1080/10635150490522304</ext-link></mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ribeiro</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Metzger</surname> <given-names>JP</given-names></name><name name-style="western"><surname>Martensen</surname> <given-names>AC</given-names></name><name name-style="western"><surname>Ponzoni</surname> <given-names>FJ</given-names></name><name name-style="western"><surname>Hirota</surname> <given-names>MM</given-names></name></person-group> (<year>2009</year>) <article-title>The Brazilian Atlantic Forest: how much is left, and how is the remaining forest distributed? Implications for conservation.</article-title> <source>Biological Conservation</source> <volume>142</volume>: <fpage>1141</fpage>-<lpage>1153</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/J.Biocon.2009.02.021" xlink:type="simple">10.1016/J.Biocon.2009.02.021</ext-link></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname> <given-names>JP</given-names></name></person-group> (<year>2003</year>) <article-title>MrBayes 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics</source> <volume>19</volume>: <fpage>1572</fpage>-<lpage>1574</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btg180" xlink:type="simple">10.1093/bioinformatics/btg180</ext-link></mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ruiz-Herrera</surname> <given-names>A</given-names></name><name name-style="western"><surname>Nergadze</surname> <given-names>SG</given-names></name><name name-style="western"><surname>Santagostino</surname> <given-names>M</given-names></name><name name-style="western"><surname>Giulotto</surname> <given-names>E</given-names></name></person-group> (<year>2008</year>) <article-title>Telomeric repeats far from the ends: mechanisms of origin and role in evolution.</article-title> <source>Cytogenetic and Genome Research</source> <volume>122</volume>: <fpage>219</fpage>-<lpage>228</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1159/000167807000167807" xlink:type="simple">10.1159/000167807000167807</ext-link></mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Seabright</surname> <given-names>M</given-names></name></person-group> (<year>1971</year>) <article-title>A rapid banding technique for human chromosomes.</article-title> <source>Lancet</source> <volume>2</volume>: <fpage>971</fpage>-<lpage>972</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0140-6736(71)90287-X" xlink:type="simple">10.1016/S0140-6736(71)90287-X</ext-link></mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Silva</surname> <given-names>MJJ</given-names></name><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name></person-group> (<year>2004</year>) <article-title>B chromosomes in Brazilian rodents.</article-title> <source>Cytogenetic and Genome Research</source> <volume>106</volume>: <fpage>257</fpage>-<lpage>263</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1159/000079296" xlink:type="simple">10.1159/000079296</ext-link></mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname> <given-names>MF</given-names></name><name name-style="western"><surname>Patton</surname> <given-names>JL</given-names></name></person-group> (<year>1993</year>) <article-title>The diversification of South American murid rodents: evidence from mitochondrial DNA sequence data for the Akodontine tribe.</article-title> <source>Biological Journal of the Linnean Society</source> <volume>50</volume>: <fpage>149</fpage>-<lpage>177</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/J.1095-8312.1993.Tb00924.X" xlink:type="simple">10.1111/J.1095-8312.1993.Tb00924.X</ext-link></mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stamatakis</surname> <given-names>A</given-names></name></person-group> (<year>2006</year>) <article-title>RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models.</article-title> <source>Bioinformatics</source> <volume>22</volume>: <fpage>2688</fpage>-<lpage>2690</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btl446" xlink:type="simple">10.1093/bioinformatics/btl446</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <!--PageBreak-->
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stanhope</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Czelusniak</surname> <given-names>J</given-names></name><name name-style="western"><surname>Si</surname> <given-names>JS</given-names></name><name name-style="western"><surname>Nickerson</surname> <given-names>J</given-names></name><name name-style="western"><surname>Goodman</surname> <given-names>M</given-names></name></person-group> (<year>1992</year>) <article-title>A molecular perspective on mammalian evolution from the gene encoding interphotoreceptor retinoid binding protein, with convincing evidence for bat monophyly.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>1</volume>: <fpage>148</fpage>-<lpage>160</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/1055-7903(92)90026-D" xlink:type="simple">10.1016/1055-7903(92)90026-D</ext-link></mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sumner</surname> <given-names>AT</given-names></name></person-group> (<year>1972</year>) <article-title>A simple technique for demonstrating centromeric heterochromatin.</article-title> <source>Experimental Cell Research</source> <volume>75</volume>: <fpage>304</fpage>-<lpage>306</lpage>.</mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Voss</surname> <given-names>RS</given-names></name><name name-style="western"><surname>Myers</surname> <given-names>P</given-names></name></person-group> (<year>1991</year>) <source><italic>Pseudoryzomys simplex</italic> (Rodentia, Muridae) and the significance of lund collections from the caves of Lagoa-Santa, Brazil. Bulletin of the American Museum of Natural History: 414–432.</source></mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Walsh</surname> <given-names>PF</given-names></name><name name-style="western"><surname>Metzger</surname> <given-names>DA</given-names></name><name name-style="western"><surname>Higuchi</surname> <given-names>R</given-names></name></person-group> (<year>1991</year>) <article-title>Chelex 100 as a medium for simple extraction of DNA for PCR-based typing from forensic material.</article-title> <source>Biotechniques</source> <volume>10</volume>: <fpage>506</fpage>-<lpage>513</lpage>.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weksler</surname> <given-names>M</given-names></name></person-group> (<year>2003</year>) <article-title>Phylogeny of Neotropical oryzomyine rodents (Muridae: Sigmodontinae) based on the nuclear IRBP exon.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>29</volume>: <fpage>331</fpage>-<lpage>349</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weksler</surname> <given-names>M</given-names></name></person-group> (<year>2006</year>) <article-title>Phylogenetic relationships of oryzomine rodents (Muroidea: Sigmodontinae): separate and combined analyses of morphological and molecular data.</article-title> <source>Bulletin of the American Museum of Natural History</source> <volume>296</volume>: <fpage>1</fpage>-<lpage>48</lpage>.</mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weksler</surname> <given-names>M</given-names></name><name name-style="western"><surname>Bonvicino</surname> <given-names>CR</given-names></name></person-group> (<year>2005</year>) <article-title>Taxonomy of pigmy rice rats genus <italic>Oligoryzomys</italic> Bangs, 1900 (Rodentia, Sigmodontinae) of the Brazilian Cerrado, with the description of two new species.</article-title> <source>Arquivos do Museu Nacional Rio de Janeiro</source> <volume>63</volume>: <fpage>113</fpage>-<lpage>130</lpage>.</mixed-citation></ref>
+            <ref id="B49"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Weksler</surname> <given-names>M</given-names></name><name name-style="western"><surname>Geise</surname> <given-names>L</given-names></name><name name-style="western"><surname>Cerqueira</surname> <given-names>R</given-names></name></person-group> (<year>1999</year>) <article-title>A new species of <italic>Oryzomys</italic> (Rodentia, Sigmondontinae) from southeast Brazil, with comments on the classification of the <italic>O. capito</italic> species group.</article-title> <source>Zoological Journal of the Linnean Society</source> <volume>125</volume>: <fpage>445</fpage>-<lpage>462</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/J.1096-3642.1999.Tb00600.X" xlink:type="simple">10.1111/J.1096-3642.1999.Tb00600.X</ext-link></mixed-citation></ref>
+            <ref id="B50"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yonenaga-Yassuda</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Prado</surname> <given-names>RCD</given-names></name><name name-style="western"><surname>Mello</surname> <given-names>DA</given-names></name></person-group> (<year>1987</year>) <article-title>Supernumerary chromosomes in <italic>Holochilus brasiliensis</italic> and comparative cytogenetic analysis with <italic>Nectomys squamipes</italic> (Cricetidae, Rodentia).</article-title> <source>Revista Brasileira de Genetica</source> <volume>10</volume>: <fpage>209</fpage>-<lpage>220</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

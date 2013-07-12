@@ -1,0 +1,523 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.208.2869</article-id>
+            <title-group>
+                <article-title>Sexual dimorphism in shells of 
+                    <italic>Cochlostoma septemspirale</italic> (Caenogastropoda, Cyclophoroidea, Diplommatinidae, Cochlostomatinae)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Reichenbach</surname>
+                        <given-names>Fabian</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Baur</surname>
+                        <given-names>Hannes</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Neubert</surname>
+                        <given-names>Eike</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>University of Bern, Institute of Ecology and Evolution, Baltzerstrasse 6, 3012 Bern, Switzerland
+            </aff>
+            <aff id="A2">
+                <label>2</label>Naturhistorisches Museum der Burgergemeinde Bern, Abteilung Wirbellose Tiere, Bernastrasse 15, 3005 Bern, Switzerland
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Hannes Baur (<email xlink:type="simple">hannes.baur@nmbe.ch</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: L. Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>17</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>208</issue>
+            <fpage>1</fpage>
+            <lpage>16</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>2</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>10</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Fabian Reichenbach, Hannes Baur, Eike Neubert</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Sexual dimorphisms in shell-bearing snails expressed by characteristic traits of their respective shells would offer the possibility for a lot of studies about gender distribution in populations, species, etc. In this study, the seven main shell characters of the snail <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> were measured in both sexes: (1) height and (2) width of the shell, (3) height and (4) width of the aperture, (5) width of the last whorl, (6) rib density on the last whorl, and (7) intensity of the reddish or brown pigments forming three bands over the shell. The variation of size and shape was explored with statistical methods adapted to principal components analysis (PCA) and linear discriminant analysis (LDA). In particular, we applied some multivariate morphometric tools for the analysis of ratios that have been developed only recently, that is, the PCA ratio spectrum, allometry ratio spectrum, and LDA ratio extractor. The overall separation of the two sexes was tested with LDA cross validation.</p>
+                <p>The results show that there is a sexual dimorphism in the size and shape of shells. Females are more slender than males and are characterised by larger size, a slightly reduced aperture height but larger shell height and whorl width. Therefore they have a considerable larger shell volume (about one fifth) in the part above the aperture. Furthermore, the last whorl of females is slightly less strongly pigmented and mean rib density slightly higher. All characters overlap quite considerably between sexes. However, by using cross validation based on the 5 continuous shell characters more than 90% of the shells can be correctly assigned to each sex.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Sexual dimorphism</kwd>
+                <kwd>shell features</kwd>
+                <kwd><italic>C. septemspirale</italic></kwd>
+                <kwd>PCA ratio spectrum</kwd>
+                <kwd>allometry ratio spectrum</kwd>
+                <kwd>LDA ratio extractor</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Molluscs can be hermaphrodites or gonochoristic organisms with separate sexes throughout their life span, with the latter group sometimes being subject to differing phenotypic traits. Sexual dimophism has been recorded for unionoid mussels as well as for some marine, freshwater and terrestrial snails (for examples see: <xref ref-type="bibr" rid="B14">Raven 1990</xref>; <xref ref-type="bibr" rid="B8">Kenchington and Glass 1998</xref>; <xref ref-type="bibr" rid="B5">Gofas 2001</xref>; <xref ref-type="bibr" rid="B12">Minton and Wang 2011</xref>). In gastropods there are two large groups, the hermaphroditic pulmonate snails, and the remaining groups (formerly called prosobranch molluscs) with separate sexes, bearing an operculum to close the shell. The latter group mainly inhabits marine habitats, while the former group forms the majority of terrestrial species. However, there are several “prosobranch” families, which successfully adapted to terrestrial life. As in all other bisexual organisms, sexual dimorphism may occur, and thus there is the question whether this phenomenon can be found here as well.</p>
+            <p>Sex determination without harming the living individuals often is a problem. Usually, the animals hide inside the shell, what makes it impossible to determine its sex. The solution for this problem could be a method that helps to distinguish between the sexes based on sex-related shell features. This could also help to analyse the sex ratio within given populations even when only shells are available, as often is the case in malacology and particularly in museum’s collections.</p>
+            <p>Quite recently, <xref ref-type="bibr" rid="B4">De Mattia et al. (2011)</xref> intensively discussed the <italic><tp:taxon-name>Cochlostoma</tp:taxon-name></italic> species from Sabotino Hill (NE Italy), where three species of this genus occur. Next to anatomical and conchological character states, the authors also used landmark based, geometric morphometry to obtain reliable shell discriminating characters. To avoid a bias caused by sexual dimorphism, <xref ref-type="bibr" rid="B4">De Mattia et al. (2011)</xref> used three male and female specimens of each species, but the contribution of each sex to the average shell form was not addressed by them.</p>
+            <p>In their papers on the systematics of Pyrenean and Cantabrian cochlostomatid species, <xref ref-type="bibr" rid="B14">Raven (1990</xref>: 21 Fig. 1) as well as <xref ref-type="bibr" rid="B5">Gofas (2001)</xref> already mentioned that there is a sexual shell dimorphism which is reflected in the shells of males being smaller and stouter than females. According to <xref ref-type="bibr" rid="B9">Maassen (2007)</xref>, this phenomenon is not uncommon among operculated families. In contrast, AnimalBase without referring the source states that there is no significant sexual dimorphism in <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> (last visit July 2011). As the shell is one of the most useful characters for species recognition in <italic><tp:taxon-name>Cochlostoma</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B5">Gofas 2001</xref>) it might also be useful for identification of the sex. As far as known, sex dimorphism in this species is not expressed by differing behaviour between the sexes. However, increasing fecundity with increasing body size in females could be a good reason for sex dimorphism (<xref ref-type="bibr" rid="B18">Shine 1989</xref>). There are some differences in the reproductive system that might lead to sexual dimorphisms in shells. Females have to produce eggs, so it would be logic that they need a larger body, resulting in a higher volume of the shell which should be measurable in some shell metric <xref ref-type="bibr" rid="B5">Gofas (2001)</xref> mentioned a difference in pigmentation of the shell between <!--PageBreak-->the sexes in some <italic><tp:taxon-name>Cochlostoma</tp:taxon-name></italic> species, but gives no explanation for this difference. A last feature that often plays an important role in taxonomic studies is the rib density (ribs/mm) on the whorls of the shell (<xref ref-type="bibr" rid="B21">Welter-Schultes 2010</xref>). It is known that this feature is usually quite homogeneous within a single population, but it also can show an important geographical variation (<xref ref-type="bibr" rid="B5">Gofas 2001</xref>). For this reason, a comparison of this feature between the sexes is interesting as well.</p>
+            <p>In this study, <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> (Razoumowsky, 1789) is used to find such sex-related shell features. The distribution of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> extends from the Pyrenees to southern Germany and the central Balkans (<xref ref-type="bibr" rid="B20">Wagner 1897</xref>). In Switzerland, <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> is especially common throughout the Jura, from where it has been described by <xref ref-type="bibr" rid="B15">Razoumowsky in 1789</xref>. Although <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> is one of the most widely distributed <italic><tp:taxon-name>Cochlostoma</tp:taxon-name></italic> species, there is not much known about ecology, physiology, and reproduction biology of this species to date.</p>
+        </sec>
+        <sec sec-type="Material and methods">
+            <title>Material and methods</title>
+            <p>For analysing differences between males and females, only mature individuals have been tested. These can be recognised by a thickened outer lip (<xref ref-type="bibr" rid="B5">Gofas 2001</xref>).</p>
+            <p>The aim of this study was to analyse different shell characteristics of 5 populations with 30–50 individuals per population. The seven main characters were (1) height and (2) width of the shell, (3) height and (4) width of the aperture, (5) width of the last whorl, (6) rib density on the last whorl, and (7) intensity of the reddish or brown pigments forming three bands over the shell (for definition of measurements, see <xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>The 5 distances measured on the shell of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic>: shell height and width, aperture height and width, and whorl width.</p></caption>
+                <graphic xlink:href="ZooKeys-208-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <sec sec-type="Field procedures">
+                <title>Field procedures</title>
+                <p>The collection of the 220 samples of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> was performed during two days in the Jura. Here, 6 sites had been sampled; the collection time on each site was about an hour. All collected specimens were preserved in plastic bags and later processed in the lab.</p>
+            </sec>
+            <sec sec-type="Localities">
+                <title>Localities</title>
+                <p>Snails have been collected on the 5<sup>th</sup> and on the 19<sup>th</sup> of April. The first site was situated above Le Landeron (NE) (6 individuals); the second site was above La Neuveville (BE) (42 individuals), and the third site near Orvin (BE) (35 individuals) On the19<sup>th</sup> of April, the first two sites were situated near Nods (BE) with 35 and 47 individuals respectively; the last site was on the Twannberg (BE) (55 individuals). The habitat structure of these sites was similar: south-facing slopes, mainly beech forest, with some interspersed little limestone boulders; usually with low shrubs and <!--PageBreak-->a herb layer and also a moderately thick layer of foliage. For more information to the localities refer to Appendix 1.</p>
+            </sec>
+            <sec sec-type="Separation of the sexes">
+                <title>Separation of the sexes</title>
+                <p>To sex the collected specimens, it is necessary to check the genital organs of each specimen. This cannot be done in the contracted state, when the animal is retracted in the shell with the operculum closing the aperture. To relax the animals, they were stored in bottles filled with water over night. In a next step, the relaxed specimens were poured with boiling water to fix them in the expanded state. After this procedure, males and females could easily be separated with the naked eye even. Only in three cases, the stereo-microscope was needed. All individuals were stored in alcohol (85%) until the next step.<!--PageBreak--></p>
+            </sec>
+            <sec sec-type="Measurements and conservation">
+                <title>Measurements and conservation</title>
+                <p>Each specimen was photographed in a standardized orientation in up to 10 subsequent steps using a microscope camera (Leica DFC425). Afterwards, these multifocus images where combined to a single image by using ImageAccess Standard software. The measuring module of this software provided then measurements of height and width of shell, height and width of aperture and the width of the last whorl. The numbers of ribs on the last whorl and the pigmentation were also examined on the photos. Each specimen was stored in a glass tube with an individual number and preserved in 85% alcohol. Each lot received a catalogue number and was stored in the collection of the NMBE providing individual access to each specimen. All photos are stored on the NMBE Server and are available for subsequent research.</p>
+            </sec>
+            <sec sec-type="Data analysis">
+                <title>Data analysis</title>
+                <p>Continuous characters (measurements): 5 continuous variables (<xref ref-type="table" rid="T1">Table 1</xref>) were treated with a multivariate analysis in order to explore the most significant variation in size and shape of the shell. According to <xref ref-type="bibr" rid="B7">Jolicoeur and Mosimann (1960)</xref>, shape in general tends to provide more reliable information than size on the morphology of organisms. Size is often considered as a nuisance because it is strongly dependent on ecological factors (e.g., <xref ref-type="bibr" rid="B11">McCoy et al. 2006</xref>). Separation of size and shape in multivariate studies of morphological data is problematic (e.g., Claude 2008). One way to address this problem is by using principal component analysis (PCA), where the first principal component of PCA is usually considered as a general size axis, while the remaining principal components represent the shape space. However, the first principal component also includes size related shape information (<xref ref-type="bibr" rid="B7">Jolicoeur and Mosimann 1960</xref>) and has been identified by <xref ref-type="bibr" rid="B6">Jolicoeur (1963)</xref> heuristically as a multivariate allometric size axis (see <xref ref-type="bibr" rid="B2">Baur and Leuenberger 2011</xref> for a model based statistical derivation). The mixture of size and size related shape information in the first component makes the interpretation of the other components of a PCA rather difficult. Baur and Leuenberger (2011) therefore have developed new methods that allow the interpretation of principal components in terms of ratios. With their tools it is possible to strictly separated size and shape. In a first step, an isometric size axis (below called “isosize”) is defined as the geometric mean of the original measurements and thus comprises only differences in scaling (for the exact definition isosize, see Baur and Leuenberger (2011: 816)). Isometry free shape variables are obtained by projecting the measurements orthogonal to isosize. A PCA calculated on the covariance matrix of these shape variables then accounts solely for differences in proportions. <xref ref-type="bibr" rid="B2">Baur and Leuenberger (2011)</xref> developed a graphical tool for the interpretation of principal components in shape space that they called the “PCA ratio spectrum”. To assess the amount of allometry in the data, <xref ref-type="bibr" rid="B2">Baur and Leuenberger (2011)</xref> suggested to plot the <!--PageBreak-->isosize against each significant shape component and introduced another graphical tool, the “allometry ratio spectrum”.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Range, interquartile range, median, and number of specimens of each sex for the 5 distance measurements. Significance levels of t-test: ‘***’ p &lt; 0.001, ‘**’ p &lt; 0.01, ‘*’ p &lt; 0.05, ‘.’ p &lt; 0.1, ‘ ’ p &lt; 1. All measurements in μm.</p></caption>
+                <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="7"><bold>shell height ***</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">sex</td>
+                                <td rowspan="1" colspan="1">min.</td>
+                                <td rowspan="1" colspan="1">1st quartile</td>
+                                <td rowspan="1" colspan="1">median</td>
+                                <td rowspan="1" colspan="1">3rd quartile</td>
+                                <td rowspan="1" colspan="1">max.</td>
+                                <td rowspan="1" colspan="1">N</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">females</td>
+                                <td rowspan="1" colspan="1">6915</td>
+                                <td rowspan="1" colspan="1">7428</td>
+                                <td rowspan="1" colspan="1">7572</td>
+                                <td rowspan="1" colspan="1">7780</td>
+                                <td rowspan="1" colspan="1">8261</td>
+                                <td rowspan="1" colspan="1">104</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">males</td>
+                                <td rowspan="1" colspan="1">6549</td>
+                                <td rowspan="1" colspan="1">6956</td>
+                                <td rowspan="1" colspan="1">7120</td>
+                                <td rowspan="1" colspan="1">7271</td>
+                                <td rowspan="1" colspan="1">7873</td>
+                                <td rowspan="1" colspan="1">116</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="7"><bold>shell width</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">sex</td>
+                                <td rowspan="1" colspan="1">min.</td>
+                                <td rowspan="1" colspan="1">1st quartile</td>
+                                <td rowspan="1" colspan="1">median</td>
+                                <td rowspan="1" colspan="1">3rd quartile</td>
+                                <td rowspan="1" colspan="1">max.</td>
+                                <td rowspan="1" colspan="1">N</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">females</td>
+                                <td rowspan="1" colspan="1">3615</td>
+                                <td rowspan="1" colspan="1">3822</td>
+                                <td rowspan="1" colspan="1">3878</td>
+                                <td rowspan="1" colspan="1">3954</td>
+                                <td rowspan="1" colspan="1">4207</td>
+                                <td rowspan="1" colspan="1">104</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">males</td>
+                                <td rowspan="1" colspan="1">3573</td>
+                                <td rowspan="1" colspan="1">3837</td>
+                                <td rowspan="1" colspan="1">3929</td>
+                                <td rowspan="1" colspan="1">4003</td>
+                                <td rowspan="1" colspan="1">4332</td>
+                                <td rowspan="1" colspan="1">116</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="7"><bold>aperture height ***</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">sex</td>
+                                <td rowspan="1" colspan="1">min.</td>
+                                <td rowspan="1" colspan="1">1st quartile</td>
+                                <td rowspan="1" colspan="1">median</td>
+                                <td rowspan="1" colspan="1">3rd quartile</td>
+                                <td rowspan="1" colspan="1">max.</td>
+                                <td rowspan="1" colspan="1">N</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">females</td>
+                                <td rowspan="1" colspan="1">2249</td>
+                                <td rowspan="1" colspan="1">2535</td>
+                                <td rowspan="1" colspan="1">2596</td>
+                                <td rowspan="1" colspan="1">2681</td>
+                                <td rowspan="1" colspan="1">2953</td>
+                                <td rowspan="1" colspan="1">104</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">males</td>
+                                <td rowspan="1" colspan="1">2189</td>
+                                <td rowspan="1" colspan="1">2587</td>
+                                <td rowspan="1" colspan="1">2689</td>
+                                <td rowspan="1" colspan="1">2772</td>
+                                <td rowspan="1" colspan="1">2962</td>
+                                <td rowspan="1" colspan="1">116</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="7"><bold>aperture width</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">sex</td>
+                                <td rowspan="1" colspan="1">min.</td>
+                                <td rowspan="1" colspan="1">1st quartile</td>
+                                <td rowspan="1" colspan="1">median</td>
+                                <td rowspan="1" colspan="1">3rd quartile</td>
+                                <td rowspan="1" colspan="1">max.</td>
+                                <td rowspan="1" colspan="1">N</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">females</td>
+                                <td rowspan="1" colspan="1">2166</td>
+                                <td rowspan="1" colspan="1">2504</td>
+                                <td rowspan="1" colspan="1">2564</td>
+                                <td rowspan="1" colspan="1">2652</td>
+                                <td rowspan="1" colspan="1">2902</td>
+                                <td rowspan="1" colspan="1">104</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">males</td>
+                                <td rowspan="1" colspan="1">2161</td>
+                                <td rowspan="1" colspan="1">2456</td>
+                                <td rowspan="1" colspan="1">2564</td>
+                                <td rowspan="1" colspan="1">2650</td>
+                                <td rowspan="1" colspan="1">2893</td>
+                                <td rowspan="1" colspan="1">116</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="7"><bold>whorl width ***</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">sex</td>
+                                <td rowspan="1" colspan="1">min.</td>
+                                <td rowspan="1" colspan="1">1st quartile</td>
+                                <td rowspan="1" colspan="1">median</td>
+                                <td rowspan="1" colspan="1">3rd quartile</td>
+                                <td rowspan="1" colspan="1">max.</td>
+                                <td rowspan="1" colspan="1">N</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">females</td>
+                                <td rowspan="1" colspan="1">3069</td>
+                                <td rowspan="1" colspan="1">3202</td>
+                                <td rowspan="1" colspan="1">3258</td>
+                                <td rowspan="1" colspan="1">3325</td>
+                                <td rowspan="1" colspan="1">3531</td>
+                                <td rowspan="1" colspan="1">104</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">males</td>
+                                <td rowspan="1" colspan="1">2994</td>
+                                <td rowspan="1" colspan="1">3117</td>
+                                <td rowspan="1" colspan="1">3175</td>
+                                <td rowspan="1" colspan="1">3228</td>
+                                <td rowspan="1" colspan="1">3383</td>
+                                <td rowspan="1" colspan="1">116</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>To examine how well the sexes are separated, the data were subjected to a linear discriminant analysis (LDA). The performance of the LDA was assessed by means of cross validation (<xref ref-type="bibr" rid="B17">Rencher 2002</xref>: 310), where one specimen is omitted from the analysis and classified according to the discriminant function found for the remaining specimens in the data set. The number of correctly classified cases is a measure of how well the result will generalize for an independent data set. Finally, the “LDA ratio extractor” (see <xref ref-type="bibr" rid="B2">Baur and Leuenberger 2011</xref>) was applied for finding the best ratios for separating the sexes. The measure δ, also introduced by Baur and Leuenberger (2011: 818, formula 14), was calculated to see how much of the total differences are due to size and how much are due to shape.</p>
+            </sec>
+            <sec sec-type="Other characters">
+                <title>Other characters</title>
+                <p>The rib density (ribs/mm) on the last whorl was determined on the same photographs that were used for taking measurements. For counting the ribs, the last whorl was magnified on the screen. The total number of ribs on the last whorl was divided by whorl width in mm.<!--PageBreak--></p>
+                <p>Pigmentation has been recorded at the nominal level. There was no intention to include it in the PCA, because PCA has only been used for a size and shape analysis. To determine the intensity of the reddish or brown pigments, that form three bands over the shell, we also used the photographs of the specimens. The pigmentation was determined on the last whorl of the shell. The intensity of the bands was difficult to classify, so first the senior author worked out an appropriate method for classifying the intensity of pigmentation. Finally, a 3-level classification scheme (0 = missing band, 1 = interrupted band, and 2 = continuous band) was adopted and the shells were classified in a first run by the senior author. To avoid any bias, that easily might be introduced by a person involved in the study, an independent person repeated the classification of specimens in a second run.</p>
+                <p>All statistical and graphical analyses were performed with R, version 2.11.1 (<xref ref-type="bibr" rid="B16">R Development Core Team 2010</xref>). For the calculation of the multivariate methods of <xref ref-type="bibr" rid="B2">Baur and Leuenberger (2011)</xref> slightly modified versions of the R-scripts provided by the authors were employed (see section Supplementary material of their paper). In order to decide how many components to retain we plotted the scree graph (<xref ref-type="bibr" rid="B17">Rencher 2002</xref>: 398–399). Fisher’s exact test was applied for contingency tables (frequencies of pigmentation categories) and therefore the function “fisher.test()” was used. For testing differences in the mean we applied the t-test by using the function “t.test()” or the non-parametric Wilcoxon rank sum test and the function “wilcox.test()”, in case the distribution of the data points deviated from normality. The fit to a normal distribution was checked with Quantile-Quantile plots, i.e. by plotting the respective variables with functions “qqnorm()” and “qqline()”.</p>
+            </sec>
+            <sec sec-type="Data resources">
+                <title>Data resources</title>
+                <p>The data underpinning the analyses reported in this paper are deposited in the Dryad Data Repository at doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/http://dx.doi.org/10.5061/dryad.ns7v7.">http://dx.doi.org/10.5061/dryad.ns7v7.</ext-link></p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="Size and shape analysis of distance measurements">
+                <title>Size and shape analysis of distance measurements:</title>
+                <p>To get an overview, the range, interquartile range and median of the 5 continuous shell characters are given in <xref ref-type="table" rid="T1">Table 1</xref>. The shells of females are higher and the last whorl is wider compared to males, whereas the aperture is higher in males (t-tests, p &lt; 0.001). For the two remaining characters, no significant differences between sexes were found.</p>
+                <p>The multivariate analysis offered a closer look concerning the variation in size and shape of the shells of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic>. As mentioned in the Material and methods section, we calculated isosize (i.e., the geometric mean of all variables) as a general size measure. Although the range was more or less overlapping, mean isosize was significantly higher for females compared to males (Wilcoxon test, p &lt; 0.01).</p>
+                <p><!--PageBreak-->A principal component analysis (PCA) performed in isometry free shape space allowed us to explore variation in shape. The scree graph (not shown) suggested the first two principal components (PC) which explained 80.4% of the total variance in the data. In <xref ref-type="fig" rid="F2">Figure 2</xref>, the scatterplot of shape PC1 against shape PC2 is presented. In the graph, a distinct shift in the shape of females and males is evident, as the two cluster of points are only moderately overlapping. The shift is rather pronounced along shape PC1, but only weakly discernible along shape PC2. For the interpretation of the two components we used the PCA ratio spectrum (<xref ref-type="fig" rid="F3">Fig. 3</xref>) as detailed by <xref ref-type="bibr" rid="B2">Baur and Leuenberger (2011)</xref>. Following their description, ratios calculated from characters lying far apart in the spectrum explain a large portion of the variance of a shape PC; on the other hand, ratios from close characters contribute very little. According to the PCA ratio spectrum in <xref ref-type="fig" rid="F3">Fig. 3a</xref>, shape PC1 was dominated by the ratio shell height:aperture height, while the PCA ratio spectrum of shape PC2 (<xref ref-type="fig" rid="F3">Fig. 3b</xref>) suggested the ratio shell width:aperture width.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Scatterplot of first against second principal component in shape space; blue dots females, red triangles males.</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>PCA ratio spectrum of first (<bold>a</bold>) and second principal component (<bold>b</bold>) in shape space.</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>The first ratio, shell height:aperture height, showed a large mean difference between sexes (Wilcoxon test, p &lt; 0.001; <xref ref-type="fig" rid="F4">Fig. 4a</xref>). Females have a larger shell height as well as a smaller aperture height than males (<xref ref-type="table" rid="T1">Table 1</xref>). Because the width of the last whorl is also larger in females (<xref ref-type="table" rid="T1">Table 1</xref>), their shells should have considerably more volume in the part above the aperture. Indeed, mean volume is 1.19 times larger for females.</p>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Boxplots of the ratios shell height:aperture height (<bold>a</bold>) and shell width:aperture width (<bold>b</bold>), and aperture protrusion (<bold>c</bold>). Significance levels of Wilcoxon test: ‘***’ p &lt; 0.001, ‘**’ p &lt; 0.01, ‘*’ p &lt; 0.05, ‘.’ p &lt; 0.1, ‘ ’ p &lt; 1.</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>The mean of the other ratio, shell width:aperture width, differed slightly between sexes (<xref ref-type="fig" rid="F4">Fig. 4b</xref>), although the differences in the means of shell width and aperture width are themselves not significant (<xref ref-type="table" rid="T1">Table 1</xref>). Mean shell width is nevertheless slightly larger in males, which is why the differences in the ratio became slightly significant (Wilcoxon test, p = 0.044). Because shell width and aperture width do not differ between sexes, the greater whorl width should therefore cause a less pronounced lateral protrusion of the female aperture. Indeed, aperture protrusion – calculated by subtracting whorl width from shell width – has distinctly lower values for females than for males (Wilcoxon test, p &lt; 0.001; <xref ref-type="fig" rid="F4">Fig. 4c</xref>).</p>
+                <p>To assess the amount of allometry in the data we plotted isosize against each of the shape PCs, in order to see how strongly shape correlates with size. Judging from the respective graphs (<xref ref-type="fig" rid="F5">Figs 5a</xref> and <xref ref-type="fig" rid="F5">5b</xref>) only a very moderate correlation of shape PC2 with isosize is discernible, shape PC1 is clearly uncorrelated. Therefore allometric variation was of marginal importance concerning our data set. This observation is further supported by the allometry ratio spectrum. The latter is used in a very similar manner as a PCA ratio spectrum, except that the ratios calculated from distant characters are those showing the most distinctive allometric behaviour. Inspection of the allometry ratio spectrum in <xref ref-type="fig" rid="F5">Figure 5c</xref> reveals aperture width:whorl width as the ratio with the strongest allometric variation. Obviously, it is not among the most dominant ratios of the PCA ratio spectrum of shape PC1 or shape PC2 (<xref ref-type="fig" rid="F2">Fig. 2</xref>).</p>
+                <fig id="F5" position="float" orientation="portrait">
+                    <label>Figure 5.</label>
+                    <caption><p>Scatterplots of isosize against first (<bold>a</bold>) and isosize against second principal component (<bold>b</bold>) in shape space; blue dots females, red triangles males. Allometry ratio spectrum (<bold>c</bold>).</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Often, a researcher might simply wish to identify the sex of a shell. We therefore performed a linear discriminant analysis (LDA) that reveals the best separation of two groups by using the total information in the data. The performance of the LDA was then assessed with cross validation (<xref ref-type="table" rid="T2">Table 2</xref>). In our analysis, it was possible to correctly classify 92.3% of the females and 88.7% of the males.<!--PageBreak--></p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+								<label>Table 2.</label>
+                <caption><p>Identification of specimens based on cross validation.</p></caption>
+                <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="2" colspan="1"><bold>sex</bold></th>
+                                <th rowspan="1" colspan="2"><bold>identification as</bold></th>
+                                <th rowspan="2" colspan="1"><bold>correctly identified</bold></th>
+                            </tr>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>female</bold></th>
+                                <th rowspan="1" colspan="1"><bold>male</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">females</td>
+                                <td rowspan="1" colspan="1">96</td>
+                                <td rowspan="1" colspan="1">8</td>
+                                <td rowspan="1" colspan="1">92.3%</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">males</td>
+                                <td rowspan="1" colspan="1">13</td>
+                                <td rowspan="1" colspan="1">103</td>
+                                <td rowspan="1" colspan="1">88.8%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>For practical reasons, a few characters that would allow quick and easy identification of most specimens might sometimes be useful, for instance in field work. A discriminant function is too awkward for such purpose, because its application is complicated and it lacks an intuitive element. One or two ratios would be preferable, as these are easily calculated and differences in proportions can sometimes even be estimated by eye. We therefore applied the LDA ratio extractor (see <xref ref-type="bibr" rid="B2">Baur and Leuenberger 2011</xref>: 816–817) for finding the optimal ratios for separating females and males. The two best ratios were shell height:width and aperture height:width (<xref ref-type="fig" rid="F6">Fig. 6</xref>). Unfortunately, the sexes overlapped quite considerably in their range which is why ratios are apparently of limited use for identification. <xref ref-type="bibr" rid="B2">Baur and Leuenberger (2011)</xref> also introduced the measure <italic>δ</italic> that indicates how well shape discriminates in relation to size. A value of delta close to unity means that separation is mainly due to size, whereas for a value close to zero mostly shape is important. In our case, <italic>δ</italic> is 0.139 for the first ratio vector and thus the separation mainly stems from variation in shape.</p>
+                <fig id="F6" position="float" orientation="portrait">
+                    <label>Figure 6.</label>
+                    <caption><p>Scatterplot of best (shell height:shell width) against second best ratio (aperture height:aperture width) for separating females from males; blue dots females, red triangles males.</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Anaylsis of other characters">
+                <title>Anaylsis of other characters</title>
+                <p>The rib density, determined on the last whorl, was largely overlapping between the sexes, although the mean was slightly higher for females (Wilcoxon test, p &lt; 0.05; <xref ref-type="fig" rid="F7">Fig. 7</xref>).</p>
+                <fig id="F7" position="float" orientation="portrait">
+                    <label>Figure 7.</label>
+                    <caption><p>Boxplots of rip density. Significance levels of Wilcoxon test: ‘***’ p &lt; 0.001, ‘**’ p &lt; 0.01, ‘*’ p &lt; 0.05, ‘.’ p &lt; 0.1, ‘ ’ p &lt; 1.</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <p>Pigmentation of the last whorl revealed a significant difference in the lower band, while pigmentation of the median and upper band was the same for males and females (<xref ref-type="fig" rid="F8">Fig. 8</xref>). The figure is based on the classification made by the person that was not further involved in the study. However, classification by the senior author gave a very similar result.</p>
+                <fig id="F8" position="float" orientation="portrait">
+                    <label>Figure 8.</label>
+                    <caption><p>Bar diagrams showing the extent of pigmentation on the lower whorl: classification (missing, interrupted, continuous) of lower (<bold>a</bold>), median (<bold>b</bold>), and upper band (<bold>c</bold>); blue bars females, red bars males. Significance levels of Fisher’s exact test: ‘***’ p &lt; 0.001, ‘**’ p &lt; 0.01, ‘*’ p &lt; 0.05, ‘.’ p &lt; 0.1, ‘ ’ p &lt; 1.</p></caption>
+                    <graphic xlink:href="ZooKeys-208-001-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+        <sec sec-type="Sex ratio in the investigated six populations">
+            <title>Sex ratio in the investigated six populations</title>
+            <p>The numbers of males and females within the investigated populations are presented in <xref ref-type="table" rid="T3">Table 3</xref>. Population no. 1 (n = 6) is excluded here, the sample size is considered to be too small. For the remaining five populations, the observed average of females/males approaches a value of nearly 1, i.e. there is an equal number of females and males present. Two populations show a value &gt; 1 (= more females), two show a value &lt; 1 (= less females), and one population is balanced.<!--PageBreak--></p>
+            <table-wrap id="T3" position="float" orientation="portrait">
+								<label>Table 3.</label>
+                <caption><p>Sex ratio in five populations of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic>.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>population</bold></th>
+                            <th rowspan="1" colspan="1"><bold>♀</bold></th>
+                            <th rowspan="1" colspan="1"><bold>♂</bold></th>
+                            <th rowspan="1" colspan="1"><bold>No. of specimens</bold></th>
+                            <th rowspan="1" colspan="1"><bold>sex ratio ♀/♂</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1">1.00</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1">0.59</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1">1.19</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1">1.24</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">55</td>
+                            <td rowspan="1" colspan="1">0.72</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Sums</td>
+                            <td rowspan="1" colspan="1">102</td>
+                            <td rowspan="1" colspan="1">112</td>
+                            <td rowspan="1" colspan="1">214</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mean</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">0.95</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>As expected, there is a sexual dimorphism in shells of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic>. Females are larger than males, as revealed by larger mean isosize, a result already indicated by <xref ref-type="bibr" rid="B5">Gofas (2001)</xref>. However, the main differences are due to a considerable variation in shell shape. Aperture height is reduced in females, while shell height and whorl width are both larger. Females therefore are not only larger, they also have about one fifth more volume in the central part of the teleoconch above the aperture.</p>
+            <p>These differences in size and shape of the sexes may be explained by the differing morphology of the reproductive systems between females and males. Females have <!--PageBreak-->a seminal receptacle and a bursa copulatrix well separated from the oviduct (<xref ref-type="bibr" rid="B13">Prince 1967</xref>; <xref ref-type="bibr" rid="B19">Varga 1984</xref>; <xref ref-type="bibr" rid="B4">De Mattia et al. 2011</xref>). The ovarium, which is situated in whorls 3 and 4 contains up to 40 eggs, which increase in size during growth and are transferred via the oviduct to the uterus in the last whorl. Finally, clutch size in <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> reaches up to 10 eggs, with a diameter of 1.0–1.1 mm (<xref ref-type="bibr" rid="B13">Prince 1967</xref>). In contrast, males have only a germinative gland with a simple duct that ends in the penis on the right side of the head.</p>
+            <p>Mean rib density is slightly higher in females, but the ranges are more or less overlapping (<xref ref-type="fig" rid="F7">Fig. 7</xref>).<!--PageBreak--></p>
+            <p>In the character state “banding of the last whorl”, males are more strongly pigmented on the lower band than females (<xref ref-type="fig" rid="F8">Fig. 8</xref>). Currently there is no explanation for this result, as males and females live in mixed populations under the same environmental conditions. It also cannot play a role in sex recognition, because the optical abilities of snails are limited to recognition of darkness or brightness (<xref ref-type="bibr" rid="B3">Chase 2001</xref>).</p>
+            <p>From <xref ref-type="fig" rid="F2">Figure 2</xref> and <xref ref-type="fig" rid="F6">6</xref> it is evident that continuous character variation is quite strongly overlapping between sexes. However, the result of the cross validation indicated that about 90% of the shells can be correctly assigned (<xref ref-type="table" rid="T2">Table 2</xref>).</p>
+            <p><!--PageBreak-->From the results of the calculation of the sex ratios it can be concluded that the ratio between males and females is approximately balanced. However, the number of investigated populations is much too small to come to a generalized conclusion. The observed ratio variability can also be due to a too small population sample.</p>
+            <p>As we have shown above, multivariate morphometric methods could be successfully applied to populations of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> from the Jura. In particular, it was possible to uncover subtle, but nevertheless important morphological differences between sexes, that otherwise might have gone unnoticed. Future investigations will show whether our results apply for other populations from the distribution area of <italic><tp:taxon-name>Cochlostoma septemspirale</tp:taxon-name></italic> or even other species of <italic><tp:taxon-name>Cochlostoma</tp:taxon-name></italic>. In practice, the methods are easily applicable in a wide variety of ecological and systematic studies and offer the additional benefit to exploit museum’s material with their mainly dry shell collections.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgement</title>
+            <p>Thanks to Lisa Wilmsmeier (NMBE) for encoding the pigmentation of the last whorl.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>AnimalBase</surname></name></person-group>. <source>Species summary for <italic>Cochlostoma septemspirale</italic>. <ext-link ext-link-type="uri" xlink:href="http://www.animalbase.uni-goettingen.de/zooweb/servlet/AnimalBase/home/species?id=1486">http://www.animalbase.uni-goettingen.de/zooweb/servlet/AnimalBase/home/species?id=1486</ext-link> </source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Baur</surname> <given-names>H</given-names></name><name name-style="western"><surname>Leuenberger</surname> <given-names>C</given-names></name></person-group> (<year>2011</year>)<article-title> Analysis of Ratios in Multivariate Morphometry.</article-title> <source>Systematic Biology </source> <volume>60</volume>: <fpage>813</fpage>-<lpage>825</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/sysbio/syr061">10.1093/sysbio/syr061</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chase</surname> <given-names>R</given-names></name></person-group> (<year>2001</year>)<source> Sensory organs and the nervous system. In Barker, G. M. (ed.) The biology of Terrestrial Molluscs: 179–211.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Mattia</surname> <given-names>W</given-names></name><name name-style="western"><surname>Zallot</surname> <given-names>E</given-names></name><name name-style="western"><surname>Prodan</surname> <given-names>M</given-names></name></person-group> (<year>2011</year>)<source> <italic>Cochlostoma gracile</italic> (L. Pfeiffer, 1849) in Italy (Architaenigloss, Cochlostomatidae). Basteria 75 (1/3): 1–9.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gofas</surname> <given-names>S</given-names></name></person-group> (<year>2001</year>)<article-title> The systematics of Pyrenean and Cantabrian <italic>Cochlostoma</italic> (Gastropoda, Cyclophoroidea) revisited.</article-title> <source>Journal of Natural History </source> <volume>35</volume>: <fpage>1277</fpage>-<lpage>1369</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/002229301750384301">10.1080/002229301750384301</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jolicoeur</surname> <given-names>P</given-names></name></person-group> (<year>1963</year>)<article-title> The multivariate generalization of the allometry equation.</article-title> <source>Biometrics </source> <volume>19</volume>: <fpage>497</fpage>-<lpage>499</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2527939">10.2307/2527939</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jolicoeur</surname> <given-names>P</given-names></name><name name-style="western"><surname>Mosimann</surname> <given-names>JE</given-names></name></person-group> (<year>1960</year>)<article-title> Size and shape variation in the painted turtle. A principal component analysis.</article-title> <source>Growth </source> <volume>24</volume>: <fpage>339</fpage>-<lpage>354</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kenchington</surname> <given-names>E</given-names></name><name name-style="western"><surname>Glass</surname> <given-names>A</given-names></name></person-group> (<year>1998</year>)<article-title> Local adaptation and sexual dimorphism in the Waved Whelk (<italic>Buccinum undatum</italic>) in Atlantic Nova Scotia with applications to fisheries management. Canadian Technical Report of Fisheries and Aquatic Sciences No.</article-title>  <volume>2237</volume>: <fpage>1</fpage>-<lpage>43</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maassen</surname> <given-names>WJM</given-names></name></person-group> (<year>2007</year>)<article-title> A new species of the genus <italic>Notharinia</italic> Vermeulen, Phung &amp; Truong, 2007 from Peninsular Malaysia (Mollusca, Caenogastropoda, Pupinidae).</article-title> <source>Zoologische Mededelingen </source> <volume>82</volume>: <fpage>109</fpage>-<lpage>112</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mosimann</surname> <given-names>JE</given-names></name></person-group> (<year>1970</year>)<article-title> Size allometry: Size and shape variables with characterizations of the lognormal and generalized gamma distributions.</article-title> <source>Journal of the American Statistical Association </source> <volume>65</volume>: <fpage>930</fpage>-<lpage>945</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCoy</surname> <given-names>W</given-names></name><name name-style="western"><surname>Bolker</surname> <given-names>BM</given-names></name><name name-style="western"><surname>Osenberg</surname> <given-names>CW</given-names></name><name name-style="western"><surname>Miner</surname> <given-names>BG</given-names></name><name name-style="western"><surname>Vonesh</surname> <given-names>JR</given-names></name></person-group> (<year>2006</year>)<article-title> Size correction: comparing morphological traits among populations and environments.</article-title> <source>Oecologia </source> <volume>148</volume>: <fpage>547</fpage>-<lpage>554</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00442-006-0403-6">10.1007/s00442-006-0403-6</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Minton</surname> <given-names>R</given-names></name><name name-style="western"><surname>Wang</surname> <given-names>L</given-names></name></person-group> (<year>2011</year>)<article-title> Evidence of sexual shape dimorphism in Viviparus (Gastropoda: Viviparidae).</article-title> <source>Journal of Molluscan Studies, </source> <volume>77</volume>: <fpage>315</fpage>-<lpage>317</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/mollus/eyr014">10.1093/mollus/eyr014</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Prince</surname> <given-names>G</given-names></name></person-group> (<year>1967</year>)<article-title></article-title> <source>Archiv für Molluskenkunde </source> <volume>96</volume>: <fpage>1</fpage>-<lpage>18</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Raven</surname> <given-names>JGM</given-names></name></person-group> (<year>1990</year>)<source> A revision of <italic>Obscurella</italic> Clessin, 1889 (Gastropoda Prosobranchia: Cyclophoridae). Basteria, 54 (1/3): 17–62.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Razoumowsky</surname> <given-names>G</given-names></name></person-group> (<year>1789</year>)<source> Band 1: Histoire naturelle du Jorat et de ses environs; et celle des trois lacs de Neufchatel, Morat et Bienne, Lausanne, 1–322.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>R Development Core Team</surname></name></person-group> (<year>2010</year>)<source> R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. ISBN 3-900051-07-0, URL <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link></source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rencher</surname> <given-names>AC</given-names></name></person-group> (<year>2002</year>)<source> Methods of multivariate analysis.</source> <publisher-name>Wiley Series in Probability and Statistics</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>708</lpage> pp.doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/0471271357">10.1002/0471271357</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shine</surname> <given-names>R</given-names></name></person-group> (<year>1989</year>)<article-title> Ecological causes for the evolution of sexual dimorphism: a review of the evidence.</article-title> <source>The Quarterly Review of Biology </source> <volume>64</volume>: <fpage>419</fpage>-<lpage>461</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1086/416458">10.1086/416458</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Varga</surname> <given-names>A</given-names></name></person-group> (<year>1984</year>)<article-title> The Cochlostoma genus (Gastropoda, Prosobranchiata) in Yugoslavia. I. Anatomical studies.</article-title> <source>Miscellanea zoologica hungarica </source> <volume>2</volume>: <fpage>51</fpage>-<lpage>64</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wagner</surname> <given-names>AJ</given-names></name></person-group> (<year>1897</year>)<article-title> Monographie der Gattung <italic>Pomatias</italic> Studer.</article-title> <source>Denkschriften der Kaiserlichen Akademie der Wissenschaften, mathematisch-naturwissenschaftliche Classe, Wien </source> <volume>64</volume>: <fpage>565</fpage>-<lpage>632</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Welter-Schultes</surname> <given-names>FW</given-names></name></person-group> (<year>2010</year>)<article-title> Revision of the genus <italic>Albinaria</italic> in Crete (Greece): presence of geographically variable monotypic and polytypic species.</article-title> <source>Archiv für Molluskenkunde </source> <volume>139</volume>: <fpage>143</fpage>-<lpage>245</lpage>.</mixed-citation></ref>
+        </ref-list>
+        <app-group>
+        <app id="appendix1">
+            <title>Appendix 1</title>
+            <p><bold>Localities</bold></p>
+            <p>NMBE30979</p>
+            <p>Le Landeron, <named-content content-type="dwc:verbatimCoordinates">47.06760435°N, 7.06510484°E</named-content> (DD), 596 m, 5.4.2011, leg. Reichenbach et al.</p>
+            <p>NMBE30980</p>
+            <p>Chasseral, at the crossroads Diesse / Nods Chasseral, <named-content content-type="dwc:verbatimCoordinates">47.06996106°N, 7.09448308°E</named-content> (DD), 620 m, 5.4.2011, leg. Reichenbach et al.</p><!--PageBreak-->
+            <p>NMBE30981</p>
+            <p>Orvin, <named-content content-type="dwc:verbatimCoordinates">47.15439027°N, 7.19399571°E</named-content> (DD), 833 m, 5.4.2011, leg. Reichenbach et al.</p>
+            <p>NMBE30982</p>
+            <p>Route de Chasseral, Combes de Nods, <named-content content-type="dwc:verbatimCoordinates">47.11286416°N, 7.04331994°E</named-content> (DD), 1154 m, 19.4.2011, leg. Reichenbach et al.</p>
+            <p>NMBE30983</p>
+            <p>Route de Chasseral, 1 km towards Nods, <named-content content-type="dwc:verbatimCoordinates">47.12018349°N, 7.07096815°E</named-content> (DD), 1054 m, 19.4.2011, leg. Reichenbach et al.</p>
+            <p>NMBE30984</p>
+            <p>Gaicht in direction to Twannberg, <named-content content-type="dwc:verbatimCoordinates">47.10991059°N, 7.15971977°E</named-content> (DD), 794 m, 19.4.2011, leg. Reichenbach et al.</p>
+        </app>
+        </app-group>
+    </back>
+</article>

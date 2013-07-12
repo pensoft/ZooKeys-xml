@@ -1,0 +1,644 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.147.2024</article-id>
+            <title-group>
+                <article-title>The evolution and age of populations of 
+                    <italic>Scaphinotus petersi</italic> Roeschke on Arizona Sky Islands (Coleoptera, Carabidae, Cychrini)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Ober</surname>
+                        <given-names>Karen</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Matthews</surname>
+                        <given-names>Brian</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Ferrieri</surname>
+                        <given-names>Abigail</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kuhn</surname>
+                        <given-names>Sonia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biology, College of the Holy Cross, Worcester, MA 01610
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Karen Ober (<email xlink:type="simple">kober@holycross.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: T. Erwin</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>147</issue>
+            <fpage>183</fpage>
+            <lpage>197</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>20</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Karen Ober, Brian Matthews, Abigail Ferrieri, Sonia Kuhn</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Populations of the ground beetle <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> are isolated in subalpine conifer forest habitats on mountain ranges or Sky Islands in southeastern Arizona. Previous work on this species has suggested these populations have been isolated since the last post-glacial maximum times as warming caused this cool adapted species to retreat to high elevations. To test this hypothesis, we inferred the phylogeny from mitochondrial DNA sequence data from several Arizona Sky Island populations of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> and estimated the divergence time of the currently isolated populations. We found two major clades of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, an eastern clade and a western group. Our results indicated most mountain ranges form clades except the Huachucas, which are polyphyletic and the Santa Catalinas, which are paraphyletic. We estimated the Pinaleño population is much older than the last glacial maximum, but the Huachuca and Pinal populations may have been fragmented from the Santa Catalina population since the post-glacial maximum times.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>carabid ground beetles</kwd>
+                <kwd>divergence dates</kwd>
+                <kwd>phylogeography</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p><tp:taxon-name>Carabidae</tp:taxon-name> (ground beetle family) is one of the larger families of insects with approximately 40,000 described species (<xref ref-type="bibr" rid="B15">Lorenz 2005</xref>). The snail-eating beetles of the genus <!--PageBreak--><italic><tp:taxon-name>Scaphinotus</tp:taxon-name></italic> belong to the carabid tribe <tp:taxon-name>Cychrini</tp:taxon-name>. Cychrines consist of about 150 species in four genera and are restricted to the Northern Hemisphere; the <tp:taxon-name>Cychrini</tp:taxon-name> genus <italic><tp:taxon-name>Scaphinotus</tp:taxon-name></italic>, found only in North America, began its initial radiation about 35 million years ago (<xref ref-type="bibr" rid="B23">Osawa et al. 2004</xref>, <xref ref-type="bibr" rid="B30">Scudder 1900</xref>) into 55 species (Lorenz, 2005). <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> is a large ground beetle confined exclusively to moist coniferous forests that occur in southern Arizona at elevations &gt; 1800 m. <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> is a specialist predator of land snails, using elongated and narrow mouthparts to penetrate and extract the soft parts of terrestrial snails (<xref ref-type="bibr" rid="B6">Digweed 1993</xref>, <xref ref-type="bibr" rid="B12">LaRochelle 1972</xref>). <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, like other <italic><tp:taxon-name>Scaphinotus</tp:taxon-name></italic>, is flightless, with reduced or absent flight wings under fused elytra, and thus a poor disperser. Six subspecies of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> have been described (<xref ref-type="bibr" rid="B1">Ball 1966</xref>), and geographical variation among subspecies includes differences in size, head and neck characteristics, leg differences and color variation. All six <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> subspecies live only on mountains in the sub-Mogollon area of Arizona, a region known as the Sky Islands.</p>
+            <p>The Sky Islands (<xref ref-type="bibr" rid="B9">Heald 1951</xref>), also called the Madrean Archipelago, are a unique complex of mountain ranges and ecosystems in southeastern Arizona. At present, hot, dry, desert grasslands and desert scrub in the valleys (the sea between the Sky Islands) act as barriers to the movement of upland forest species such as <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> much as saltwater seas isolate flora and fauna on oceanic islands. As with oceanic islands, this separation of habitat limits genetic interchange between populations and creates environments with high evolutionary potential. The resulting Sky Island ecosystems, renowned for their biodiversity (<xref ref-type="bibr" rid="B14">Lomolino et al. 1989</xref>), support a high number of endemic species, including many threatened and endangered species, and are considered a biodiversity hot spot (<xref ref-type="bibr" rid="B34">Spector 2002</xref>). The Sky Islands are a natural laboratory in which to examine genetic differentiation and the evolutionary dynamics of vicariance. Mesic refuges, such as those in southwest mountains, may have been important centers of diversification during periods of dry climate for carabid beetles (<xref ref-type="bibr" rid="B22">Noonan 1992</xref>). Today, several Sky Island mountain ranges each contain a unique subspecies of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>.</p>
+            <p>The goal of this study was to infer the biogeographic history of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> in southeastern Arizona and investigate how the paleoclimatic oscillations of Quaternary affected the distribution of populations in the Sky Islands. We present a preliminary genealogy of mitochondrial DNA (mtDNA) sequences and use these data to address questions about population structure of this species and examine the potential role of the Pleistocene climate changes in the differentiation some of the Sky Island populations of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>.</p>
+        </sec>
+        <sec sec-type="methods"><title>Methods</title>
+            <sec sec-type="DNA sequence data"><title>DNA sequence data</title>
+                <p>We collected DNA sequence data from 45 specimens of four of the six subspecies of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> in five localities in four mountain ranges (<xref ref-type="table" rid="T1">Table 1</xref>, <xref ref-type="fig" rid="F1">Fig. 1</xref>). We included three outgroup species from the tribe <tp:taxon-name>Cychrini</tp:taxon-name>. One species of a related genus <italic><tp:taxon-name>Sphaeroderus</tp:taxon-name></italic>, and two other distantly related <italic><tp:taxon-name>Scaphinotus</tp:taxon-name></italic> species. Outgroup choices<!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak--> were limited by material available for DNA analysis. Genomic DNA was extracted following the protocol outlined in <xref ref-type="bibr" rid="B16">Maddison et al. 1999</xref>. PCR reactions were performed using a modification of the procedure described in <xref ref-type="bibr" rid="B16">Maddison et al. 1999</xref>. Reactions used a 53–56°C annealing temperature. This procedure was used to amplify approximately 1200bp of ND1 and adjacent RNA genes, and either a 500 bp portion or 1400 bps of COI. Macrogen Inc. (Korea) carried out DNA sequencing using an Applied Biosystems ABI 3730 48-capillary DNA analyzer with Big Dye Terminator Technology according to the manufacturer’s protocols (Applied Biosystems). The primers used for PCR amplification and DNA sequencing is given in <xref ref-type="table" rid="T2">Table 2</xref>. DNA sequence data was visualized using the SEQUENCHER 3.0 software (Gene Codes Corp.). Sequences were easily aligned by eye using MACCLADE 4.06 (<xref ref-type="bibr" rid="B17">Maddison and Maddison 2005</xref>). Data matrices are available from the corresponding author. Voucher specimens are in KAO insect collection at the College of the Holy Cross, Worcester, MA.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>Specimens, collection localities, and GenBank numbers included in this study.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Specimen</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Collection locality</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Specimen number</bold></th>
+                                <th rowspan="1" colspan="1"><bold>COI GenBank</bold></th>
+                                <th rowspan="1" colspan="1"><bold>ND1 GenBank</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sphaeroderus lecontei</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">MA: Worcester Co. Wachusett Reservior / <named-content content-type="dwc:verbatimCoordinates">71.6849°W, 42.4048°N</named-content> / 120m elev.</td>
+                                <td rowspan="1" colspan="1">001</td>
+                                <td rowspan="1" colspan="1">JN639333</td>
+                                <td rowspan="1" colspan="1">JN641890</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus crenatus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">CA: Kern Co., Silvia Rd. / <named-content content-type="dwc:verbatimCoordinates">37°29.789'N, 119°53.369'W</named-content></td>
+                                <td rowspan="1" colspan="1">002</td>
+                                <td rowspan="1" colspan="1">JN639334</td>
+                                <td rowspan="1" colspan="1">JN641891</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus</tp:taxon-name></italic> sp.</td>
+                                <td rowspan="1" colspan="1">CA: Kern Co. Hwy 49A / <named-content content-type="dwc:verbatimCoordinates">37°22.806'N, 119°43.879'W</named-content></td>
+                                <td rowspan="1" colspan="1">030</td>
+                                <td rowspan="1" colspan="1">JN639335</td>
+                                <td rowspan="1" colspan="1">JN641892</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Columbine Corral Camp/Ash Creek / <named-content content-type="dwc:verbatimCoordinates">32.7065°N, 109.9131°W</named-content> elev. 2904m</td>
+                                <td rowspan="1" colspan="1">040</td>
+                                <td rowspan="1" colspan="1">JN639336</td>
+                                <td rowspan="1" colspan="1">JN641893</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Ladybug Trail / <named-content content-type="dwc:verbatimCoordinates">32.6589°N, 109.8540°W</named-content> elev. 2716m</td>
+                                <td rowspan="1" colspan="1">041</td>
+                                <td rowspan="1" colspan="1">JN639337</td>
+                                <td rowspan="1" colspan="1">JN641894</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Columbine Corral Camp/Ash Creek / <named-content content-type="dwc:verbatimCoordinates">32.7065°N, 109.9131°W</named-content> elev. 2904m</td>
+                                <td rowspan="1" colspan="1">075</td>
+                                <td rowspan="1" colspan="1">JN639369</td>
+                                <td rowspan="1" colspan="1">JN641926</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Columbine Corral Camp/Ash Creek / <named-content content-type="dwc:verbatimCoordinates">32.7065°N, 109.9131°W</named-content> elev. 2904m</td>
+                                <td rowspan="1" colspan="1">076</td>
+                                <td rowspan="1" colspan="1">JN639370</td>
+                                <td rowspan="1" colspan="1">JN641927</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Columbine Corral Camp/Ash Creek / <named-content content-type="dwc:verbatimCoordinates">32.7065°N, 109.9131°W</named-content> elev. 2904m</td>
+                                <td rowspan="1" colspan="1">077</td>
+                                <td rowspan="1" colspan="1">JN639371</td>
+                                <td rowspan="1" colspan="1">JN641928</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Columbine Corral Camp/Ash Creek / <named-content content-type="dwc:verbatimCoordinates">32.7065°N, 109.9131°W</named-content> elev. 2904m</td>
+                                <td rowspan="1" colspan="1">078</td>
+                                <td rowspan="1" colspan="1">JN639372</td>
+                                <td rowspan="1" colspan="1">JN641929</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ:Graham Co., Pinaleño Mts., Columbine Corral Camp/Ash Creek / <named-content content-type="dwc:verbatimCoordinates">32.7065°N, 109.9131°W</named-content> elev. 2904m</td>
+                                <td rowspan="1" colspan="1">079</td>
+                                <td rowspan="1" colspan="1">JN639373</td>
+                                <td rowspan="1" colspan="1">JN641930</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">044</td>
+                                <td rowspan="1" colspan="1">JN639340</td>
+                                <td rowspan="1" colspan="1">JN641897</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">045</td>
+                                <td rowspan="1" colspan="1">JN639341</td>
+                                <td rowspan="1" colspan="1">JN641898</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">046</td>
+                                <td rowspan="1" colspan="1">JN639342</td>
+                                <td rowspan="1" colspan="1">JN641899</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">047</td>
+                                <td rowspan="1" colspan="1">JN639343</td>
+                                <td rowspan="1" colspan="1">JN641900</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">048</td>
+                                <td rowspan="1" colspan="1">JN639344</td>
+                                <td rowspan="1" colspan="1">JN641901</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">049</td>
+                                <td rowspan="1" colspan="1">JN639345</td>
+                                <td rowspan="1" colspan="1">JN641902</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">050</td>
+                                <td rowspan="1" colspan="1">JN639346</td>
+                                <td rowspan="1" colspan="1">JN641903</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">051</td>
+                                <td rowspan="1" colspan="1">JN639347</td>
+                                <td rowspan="1" colspan="1">JN641904</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">052</td>
+                                <td rowspan="1" colspan="1">JN639348</td>
+                                <td rowspan="1" colspan="1">JN641947</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">073</td>
+                                <td rowspan="1" colspan="1">JN639367</td>
+                                <td rowspan="1" colspan="1">JN641924</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Cochise Co., Huachuca Mts., Carr Canyon Trail / <named-content content-type="dwc:verbatimCoordinates">31.4272°N, 110.3069°W</named-content> elev. 2186m</td>
+                                <td rowspan="1" colspan="1">074</td>
+                                <td rowspan="1" colspan="1">JN639368</td>
+                                <td rowspan="1" colspan="1">JN641925</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Marshall Gulch / <named-content content-type="dwc:verbatimCoordinates">32.4279°N, 110.7052°W</named-content> elev. 2432m</td>
+                                <td rowspan="1" colspan="1">042</td>
+                                <td rowspan="1" colspan="1">JN639338</td>
+                                <td rowspan="1" colspan="1">JN641895</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Marshall Gulch / <named-content content-type="dwc:verbatimCoordinates">32.4279°N, 110.7052°W</named-content> elev. 2432m</td>
+                                <td rowspan="1" colspan="1">043</td>
+                                <td rowspan="1" colspan="1">JN639339</td>
+                                <td rowspan="1" colspan="1">JN641896</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">053</td>
+                                <td rowspan="1" colspan="1">JN639348</td>
+                                <td rowspan="1" colspan="1">JN641905</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">054</td>
+                                <td rowspan="1" colspan="1">JN639349</td>
+                                <td rowspan="1" colspan="1">JN641906</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">055</td>
+                                <td rowspan="1" colspan="1">JN639350</td>
+                                <td rowspan="1" colspan="1">JN641907</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">056</td>
+                                <td rowspan="1" colspan="1">JN639351</td>
+                                <td rowspan="1" colspan="1">JN641908</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">058</td>
+                                <td rowspan="1" colspan="1">JN639352</td>
+                                <td rowspan="1" colspan="1">JN641909</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">059</td>
+                                <td rowspan="1" colspan="1">JN639353</td>
+                                <td rowspan="1" colspan="1">JN641910</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">060</td>
+                                <td rowspan="1" colspan="1">JN639354</td>
+                                <td rowspan="1" colspan="1">JN641911</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">061</td>
+                                <td rowspan="1" colspan="1">JN639355</td>
+                                <td rowspan="1" colspan="1">JN641912</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">062</td>
+                                <td rowspan="1" colspan="1">JN639356</td>
+                                <td rowspan="1" colspan="1">JN641913</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">063</td>
+                                <td rowspan="1" colspan="1">JN639357</td>
+                                <td rowspan="1" colspan="1">JN641914</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">064</td>
+                                <td rowspan="1" colspan="1">JN639358</td>
+                                <td rowspan="1" colspan="1">JN641915</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">065</td>
+                                <td rowspan="1" colspan="1">JN639359</td>
+                                <td rowspan="1" colspan="1">JN641916</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">066</td>
+                                <td rowspan="1" colspan="1">JN639360</td>
+                                <td rowspan="1" colspan="1">JN641917</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">067</td>
+                                <td rowspan="1" colspan="1">JN639361</td>
+                                <td rowspan="1" colspan="1">JN641918</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">068</td>
+                                <td rowspan="1" colspan="1">JN639362</td>
+                                <td rowspan="1" colspan="1">JN641919</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">069</td>
+                                <td rowspan="1" colspan="1">JN639363</td>
+                                <td rowspan="1" colspan="1">JN641920</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">070</td>
+                                <td rowspan="1" colspan="1">JN639364</td>
+                                <td rowspan="1" colspan="1">JN641921</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">071</td>
+                                <td rowspan="1" colspan="1">JN639365</td>
+                                <td rowspan="1" colspan="1">JN641922</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic></td>
+                              <td rowspan="1" colspan="1">AZ: Pima Co., Santa Catalina Mts., Ski Valley / <named-content content-type="dwc:verbatimCoordinates">32.4507°N, 110.7789°W</named-content> elev. 2499m</td>
+                                <td rowspan="1" colspan="1">072 / </td>
+                                <td rowspan="1" colspan="1">JN639366</td>
+                                <td rowspan="1" colspan="1">JN641923</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Gila Co., Pinal Mts., Icehouse Canyon FTrail 198 / <named-content content-type="dwc:verbatimCoordinates">33.2925°N, 110.8311°W</named-content> elev. 2302.5m</td>
+                                <td rowspan="1" colspan="1">081</td>
+                                <td rowspan="1" colspan="1">JN639375</td>
+                                <td rowspan="1" colspan="1">JN641932</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Gila Co., Pinal Mts., Icehouse Canyon FTrail 198 / <named-content content-type="dwc:verbatimCoordinates">33.2925°N, 110.8311°W</named-content> elev. 2302.5m</td>
+                                <td rowspan="1" colspan="1">082</td>
+                                <td rowspan="1" colspan="1">JN639376</td>
+                                <td rowspan="1" colspan="1">JN641933</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Gila Co., Pinal Mts., Icehouse Canyon FTrail 198 / <named-content content-type="dwc:verbatimCoordinates">33.2925°N, 110.8311°W</named-content> elev. 2302.5m</td>
+                                <td rowspan="1" colspan="1">083</td>
+                                <td rowspan="1" colspan="1">JN639377</td>
+                                <td rowspan="1" colspan="1">JN641934</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Gila Co., Pinal Mts., Icehouse Canyon FTrail 198 / <named-content content-type="dwc:verbatimCoordinates">33.2925°N, 110.8311°W</named-content> elev. 2302.5m</td>
+                                <td rowspan="1" colspan="1">084</td>
+                                <td rowspan="1" colspan="1">JN639378</td>
+                                <td rowspan="1" colspan="1">JN641935</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Gila Co., Pinal Mts., Icehouse Canyon FTrail 198 / <named-content content-type="dwc:verbatimCoordinates">33.2925°N, 110.8311°W</named-content> elev. 2302.5m</td>
+                                <td rowspan="1" colspan="1">085</td>
+                                <td rowspan="1" colspan="1">JN639379</td>
+                                <td rowspan="1" colspan="1">JN641936</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">AZ: Gila Co., Pinal Mts., Icehouse Canyon FTrail 198 / <named-content content-type="dwc:verbatimCoordinates">33.2925°N, 110.8311°W</named-content> elev. 2302.5m</td>
+                                <td rowspan="1" colspan="1">086</td>
+                                <td rowspan="1" colspan="1">JN639333</td>
+                                <td rowspan="1" colspan="1">JN641890</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p> Study location <bold>A</bold> <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> distribution is circled area. Habitat above 1830m is shown in black and between 1500 and 1830m is shown in grey <bold>B</bold> Shaded relief map of study area. Black dots denote sampling localities of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> used in this study (see <xref ref-type="table" rid="T1">Table 1</xref>) abbreviated as follows: P, Pinal Mountains; SC, Santa Catalina Mountains; PN, Pinaleño Mountains; and H, Huachuca Mountains.  Figure courtesy of Sara Mitchell.</p></caption>
+                    <graphic xlink:href="ZooKeys-147-183-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Phylogenetic reconstruction"><title>Phylogenetic reconstruction</title>
+                <p>Phylogeographic patterns were examined by inferring phylogenetic relationships from mitochondrial sequence data from all specimens collected. The combined COI and ND1 data set (2678 characters) was partitioned in five unlinked subsets (COI pos 1 and 2, COI pos 3, ND1 pos 1 and 2, ND1 pos 3, mtRNA). Maximum likelihood <!--PageBreak-->models were selected using MODELTEST 3.7 (<xref ref-type="bibr" rid="B25">Posada 2005</xref>) and likelihood searches were completed using GARLI-PART 0.97 (<xref ref-type="bibr" rid="B38">Zwickl 2010</xref>) using a GTR+I+G model of evolution for each subset. Other search settings were default. The searches employed a heuristic search strategy and were repeated 20 times starting from random trees keeping only the tree with the best likelihood score. Support for the relationships found in these searches was evaluated by 200 replicate bootstrap analyses with two addition sequences per replicate.</p>
+                <p>Bayesian analyses were completed in MRBAYES 3.12 (<xref ref-type="bibr" rid="B29">Ronquist and Huelsenbeck 2003</xref>) using four runs of 10 million generations each. The same partition strategy and model of evolution as above was used. Each run used four separate chains, sampling every 1,000 generations. Independent runs were combined using LOGCOMBINER1.5.4 (<xref ref-type="bibr" rid="B26">Rambaut and Drummond 2010</xref>). For each analysis, the trees in a burn-in period were excluded (the first 25% of the runs), and the majority-rule consensus tree of the remaining trees was calculated by PAUP* (<xref ref-type="bibr" rid="B36">Swofford 2002</xref>) to determine Bayesian Posterior Probabilities of clades. The average standard deviation of split frequencies was below 0.01 and all parameters appeared to have reached stationarity.</p>
+            </sec>
+            <sec sec-type="Age estimates of populations"><title>Age estimates of populations</title>
+                <p>We inferred divergence dates of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> populations using a Bayesian relaxed clock uncorrelated lognormal method in BEAST (<xref ref-type="bibr" rid="B8">Drummond and Rambaut 2007</xref>) for all data combined. We partitioned the combined data into the same five subsets as used in the phylogenetic analyses. We chose unlinked GTR+I+G models with four gamma<!--PageBreak--> categories, a coalescent extended Bayesian skyline plot for the tree prior, and an uncorrelated lognormal relaxed clock model of rate variation estimated for each partition with a normal distribution and a mean for each gene based on the rates for each gene from <xref ref-type="bibr" rid="B24">Pons et al. (2010)</xref>. We constrained all <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> to be monophyletic because it was clearly monophyletic in the maximum likelihood analyses and to simplify the BEAST analyses. After an initial period of fine-tuning the operators, two separate MCMC analyses were run for 20 million generations with parameters sampled every 1000 generations. Independent runs were combined using LOGCOMBINER1.5.4 (<xref ref-type="bibr" rid="B26">Rambaut and Drummond 2010</xref>), and the first 30% of the generations from each run was discarded as burnin. Convergence of the chains was checked using TRACER 1.4 (<xref ref-type="bibr" rid="B27">Rambaut and Drummond 2007</xref>). The searches achieved adequate mixing as assessed by the high effective sampling size (ESS) values for all parameters of 100 or greater. Node ages and upper and lower bounds of the 95% highest posterior density interval for divergence times was calculated using TreeAnnotator 1.5.4 and visualized using FIGTREE 1.3.1 (<xref ref-type="bibr" rid="B28">Rambaut 2010</xref>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results"><title>Results</title>
+            <sec sec-type="Phylogenetic analyses"><title>Phylogenetic analyses</title>
+                <p>Both maximum likelihood and Bayesian analyses of mtDNA found similar topologies. The best maximum likelihood tree (<xref ref-type="fig" rid="F2">Fig. 2</xref>) had a log-likelihood score of -6033.6277, and the Bayesian analysis converged on a set of trees with a mean log-likelihood score of -5797.5. Within a monophyletic <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, two well-supported major clades were identified, corresponding to geographic relationships between collection localities (<xref ref-type="fig" rid="F2">Fig. 2</xref>) and spatially structured genetic variation at deep and shallow scales. A clade of <italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic> from the Pinaleño Mountains was clearly phylogenetically distinct from a western clade of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> from the Santa Catalina, Huachuca, and Pinal Mountains. The Santa Catalina population (<italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic>) was paraphyletic with respect to a clade of <italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic> from the Pinal Mountains and <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> from the Huachuca Mountains. The <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> population did not appear to be monophyletic with one specimen grouping with members of <italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic> from the Santa Catalina Mountains (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The overall phylogenetic tree topology estimate from GARLI and MRBAYES was similar to the BEAST analyses (<xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+                <table-wrap id="T2" position="float" orientation="portrait">
+                    <label>Table 2.</label>
+                    <caption><p> Primers used for DNA amplification (PCR) and sequencing for the ND1 and COI mitochodrial genes.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Gene</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Primer</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Direction</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Sequence 5’ to 3’</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="4" colspan="1">Cytochrome Oxidase I (COI)</td>
+                                <td rowspan="1" colspan="1">SK (modification of TY-J-1460 (Simon et al. 1994))</td>
+                                <td rowspan="1" colspan="1">Forward</td>
+                                <td rowspan="1" colspan="1">CGCTCTAGAACTAGTGGATCAANAAYCAYAARGAYATYG</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Pat (L2-N-3014 (Simon et al. 1994))</td>
+                                <td rowspan="1" colspan="1">Reverse</td>
+                                <td rowspan="1" colspan="1">TCCAATGCACTAATCTGCCATATTA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Ron (C1-J-1751 (Simon et al. 1994))</td>
+                                <td rowspan="1" colspan="1">Forward</td>
+                                <td rowspan="1" colspan="1">GGATCACCTGATATAGCATTCCC</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">Nancy (C1-N-2191 (Simon et al. 1994))</td>
+                                <td rowspan="1" colspan="1">Reverse</td>
+                                <td rowspan="1" colspan="1">CCCGGTAAAATTAAAATATAAACTTC</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="1">NADH1 dehydrogenase (ND1)</td>
+                                <td rowspan="1" colspan="1">ND1F</td>
+                                <td rowspan="1" colspan="1">Forward</td>
+                                <td rowspan="1" colspan="1">ACATGAATTGGAGCTCGACCAGT</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">16sR (LR-N-12866 (Simon et al. 1994))</td>
+                                <td rowspan="1" colspan="1">Reverse</td>
+                                <td rowspan="1" colspan="1">ACATGATCTGAGTTCAAACCGG</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p> Maximum likelihood tree of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> populations from combined COI and ND1 data. Outgroups are removed to show greater detail. Specimen numbers are removed, but the mountain range from which they were collected is indicated. Support for branches is indicated by Bayesian Posterior Probability/Maximum Likelihood bootstrap values. Scale bar units are substitutions per site.</p></caption>
+                    <graphic xlink:href="ZooKeys-147-183-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p> Phylogeny of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> dated using a Bayesian relaxed molecular clock in BEAST. Outgroups are removed to show greater detail. Specimen numbers are removed, but the mountain range from which they were collected is indicated. Branches are proportional to time in thousands of years. Shading indicates the two most recent glacial maxima. 95% confidence intervals for the ages of major clades in the tree are indicated with blue bars. The capital letters indicate population fragmentation between mountain ranges (see <xref ref-type="table" rid="T3">Table 3</xref>).</p></caption>
+                    <graphic xlink:href="ZooKeys-147-183-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Estimates of divergence times"><title>Estimates of divergence times</title>
+                <p>Divergence time estimates for mtDNA lineages from BEAST reveal a deep and complex history of diversification (<xref ref-type="fig" rid="F3">Fig. 3</xref> and <xref ref-type="table" rid="T3">Table 3</xref>). The <italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic> population in the Pinaleño Mountains diverged from the western populations in this study approximately 95,200 years ago. The <italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic> population in the Pinal Mountains diverged from the Santa Catalina Mountain population approximately 11,000 years ago. More <!--PageBreak-->than one dispersal event from the Santa Catalinas to the Huachucas may have occurred about 8,900 years ago and also 7,400 years ago (<xref ref-type="fig" rid="F3">Fig. 3</xref> and <xref ref-type="table" rid="T3">Table 3</xref>).</p>
+                <table-wrap id="T3" position="float" orientation="portrait">
+                    <label>Table 3.</label>
+                    <caption><p> Ages of selected nodes estimated from molecular data in <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> phylogeny from BEAST analysis. Letters correspond to nodes in Figure 3.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Node</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Split between populations</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Age in years</bold></th>
+                                <th rowspan="1" colspan="1"><bold>95% C.I. age in years</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">A</td>
+                                <td rowspan="1" colspan="1">Pinaleño vs western populations</td>
+                                <td rowspan="1" colspan="1">95,200</td>
+                                <td rowspan="1" colspan="1">8,000–225,000</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">B</td>
+                                <td rowspan="1" colspan="1">Huachuca vs Catalina 1</td>
+                                <td rowspan="1" colspan="1">7,400</td>
+                                <td rowspan="1" colspan="1">1,200–18,500</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">C</td>
+                                <td rowspan="1" colspan="1">Huachuca vs Catalina 2</td>
+                                <td rowspan="1" colspan="1">8,900</td>
+                                <td rowspan="1" colspan="1">1,500–21,300</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">D</td>
+                                <td rowspan="1" colspan="1">Catalina vs Pinal</td>
+                                <td rowspan="1" colspan="1">11,200</td>
+                                <td rowspan="1" colspan="1">1,800–28,200</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <sec sec-type="Phylogeography and genetic structure of Scaphinotus petersi"><title>Phylogeography and genetic structure of Scaphinotus petersi</title>
+                <p>Our phylogenetic analyses indicated geographic and genetic structure within the <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, and most clades corresponded to isolated mountain ranges. There was strong support for two major clades in this species; an eastern clade of <italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic> from the Pinaleño Mountains and a western clade of <italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic>, <italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic>, and <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> from the Pinal Mountains, Santa Catalina Mountains, and Huachuca Mountains, respectively. While it appears the Pinaleño clade is reproductively isolated from the rest of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, caution must be taken in interpreting genealogy patterns from mitochondrial data only, as it is a single locus and represents the maternal lineage only. The phylogenetic analyses suggested the Santa Catalina population is paraphyletic with respect<!--PageBreak--> to the Pinal and Huachuca populations that were derived from independent dispersal events from the Santa Catalinas. The history of the Huachuca population shows two relatively recent dispersal events from the Santa Catalinas to the Huachucas indicating there may have been suitable habitat in the past for low elevation Santa Catalina populations to migrate to the Huachucas. Based on morphological data, <xref ref-type="bibr" rid="B1">Ball (1966)</xref> suggested the Pinaleño population is fairly derived and experienced the earliest relative divergence from other <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, and that later, lower elevation Santa Catalina populations may have given rise to <italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic> and <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> based on the pronotum and body size. Trees inferred from molecular data were in agreement with this early hypothesis.</p>
+                <p>In this study we sampled only four of the six subspecies of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>, and only a few of the known populations of <italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic>, <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic>, and <italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic>. Future work will include the additional subspecies and populations for a fuller picture of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> evolution and biogeography. We predict, with the inclusion of these samples, the phylogeography of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> subspecies will follow, in large part, Ball’s (1966) hypotheses of relationships based on morphological characteristics. <xref ref-type="bibr" rid="B1">Ball (1966)</xref> suggested the <italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic><!--PageBreak--> from the Pinaleño Mountains shared traits with <italic><tp:taxon-name>Scaphinotus petersi kathleenae</tp:taxon-name></italic> from the Santa Rita Mountains and <italic><tp:taxon-name>Scaphinotus petersi corvus</tp:taxon-name></italic> from the Chiricahua Mountains. Thus we would predict these three subspecies form a clade even though the Santa Rita Mountains are more geographically close to the Huachuca Mountains where <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> are found. Based on morphological similarity, <xref ref-type="bibr" rid="B1">Ball (1966)</xref> hypothesized <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> in the Rincon Mountains are closely related to those in the Huachuca Mountains, however, based on the amount of dispersal from the Santa Catalina Mountains to neighboring mountain ranges and the amount of morphological variation <xref ref-type="bibr" rid="B1">Ball (1966)</xref> found there, we predict the population in the Rincon Mountains may be more closely related to a lineage of <italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic> instead of other <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> found in the Huachuca Mountains.</p>
+                <p>The distribution of genetic diversity in <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> is structured across southeastern Arizona, indicating extrinsic barriers to gene flow are probably responsible for phylogeographic structure. It appears that a historical corridor of shared, linked habitat existed along a north – south ridge in the Western clade of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> enabling dispersal from the Santa Catalinas to the Huachuca and Pinal Mountains. This north – south ridge of connectivity pattern in biogeography has been seen in other Sky Island arthropods (<xref ref-type="bibr" rid="B18">Maddison and McMahon 2000</xref>, <xref ref-type="bibr" rid="B32">Smith and Farrell 2005a</xref>). Future phylogeographic studies will include additional populations of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> from Eastern and Western clades as well as closely related species in Arizona and New Mexico to further investigate the role geographic barriers have played in population isolation.</p>
+            </sec>
+            <sec sec-type="Divergence time of isolated populations"><title>Divergence time of isolated populations</title>
+                <p>The divergence time estimates suggested the Pinaleño population (<italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic>) is considerably older than the end of the last glacial period, perhaps indicating that this population was isolated during previous interglacial events in the Pliocene and persisted during Pleistocene glaciations. The western populations of <italic><tp:taxon-name>Scaphinotus petersi petersi</tp:taxon-name></italic> from the Pinals and <italic><tp:taxon-name>Scaphinotus petersi biedermani</tp:taxon-name></italic> from the Huachucas have more recent divergence times, indicating that these areas were more recently isolated, perhaps since the end of the last glacial maximum (LGM). It is important to note that the error bars for the time estimates of nodes are large, making it difficult to pinpoint with certainty divergence dates and the impact particular changes in climate have had on population isolation. Additional loci could reduce variation in estimated time to coalescence.<!--PageBreak--></p>
+                <p><xref ref-type="bibr" rid="B1">Ball (1966)</xref> suggested that all subspecies of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> could have evolved within the time span of the classical Wisconsin stage and Holocene. He hypothesized that during the pluvial stages of the Pleistocene, the montane coniferous forests occurred in the lowlands, probably along watercourses, and <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> dispersal took place. In subsequent pluvial stages, range expansion of populations could have led to contact between previously isolated lineages. The results from our current molecular study are in concordance with this original hypothesis. During interglacial periods, contact between neighboring lineages of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> probably occurred in low elevation populations. These same populations were also probably the first to be extirpated during elevational shifts in habitat caused by post-glacial climate warming, leaving no signature of gene flow after the loss of these contact populations. Thus lineage boundaries like those between <italic><tp:taxon-name>Scaphinotus petersi grahami</tp:taxon-name></italic> in the Pinaleños and <italic><tp:taxon-name>Scaphinotus petersi catalinae</tp:taxon-name></italic> in the Santa Catalinas were maintained during glacial age population expansion and interglacial range retraction.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Conclusions"><title>Conclusions</title>
+            <p>Several studies have focused on the biogeography of species on the Arizona Sky Island region including plants, arthropods, birds, lizards, and mammals (<xref ref-type="bibr" rid="B7">Downie 2004</xref>, <xref ref-type="bibr" rid="B13">Linhart and Permoli 1994</xref>, <xref ref-type="bibr" rid="B20">McCord 1994</xref>, <xref ref-type="bibr" rid="B35">Sullivan 1994</xref>, <xref ref-type="bibr" rid="B31">Slentz et al. 1999</xref>, <xref ref-type="bibr" rid="B2">Barber 1999a</xref>, <xref ref-type="bibr" rid="B3">b</xref>, <xref ref-type="bibr" rid="B18">Maddison and McMahon 2000</xref>, <xref ref-type="bibr" rid="B19">Masta 2000</xref>, <xref ref-type="bibr" rid="B4">Boyd 2002</xref>, <xref ref-type="bibr" rid="B32">Smith and Farrell 2005a</xref>, <xref ref-type="bibr" rid="B33">b</xref>, <xref ref-type="bibr" rid="B21">McCormack et al. 2008</xref>, <xref ref-type="bibr" rid="B37">Tennessen and Zamudio 2008</xref>). Most of these studies have shown significant morphological variation among populations and/or genetic structure in species on the Sky Islands. However, a biogeographic study of a galling insect (<xref ref-type="bibr" rid="B7">Downie 2004</xref>) and a study of squirrels (<xref ref-type="bibr" rid="B11">Lamb et al. 1997</xref>) failed to detect evidence for genetic divergence. Past climate changes have influenced the evolution of Sky Island species in very different ways. Phylogeographic studies in other arthropods such as spiders (<xref ref-type="bibr" rid="B19">Masta 2000</xref>), and beetles (<xref ref-type="bibr" rid="B32">Smith and Farrell 2005a</xref>, <xref ref-type="bibr" rid="B33">b</xref>) have tested hypotheses of divergence times among isolated populations. These studies suggest ancient divergence times among populations (more than one My), suggesting a much earlier vicariance event than the proposed post-LGM habitat fragmentation. Other studies of vertebrates (<xref ref-type="bibr" rid="B35">Sullivan 1994</xref>, <xref ref-type="bibr" rid="B10">Holycross and Douglas 2007</xref>, <xref ref-type="bibr" rid="B21">McCormack et al. 2008</xref>) suggest a more recent post-LGM effect on population genetic structure. In addition, concordant biogeographic patterns can be seen in populations of organisms distributed on the Sky Islands. <xref ref-type="bibr" rid="B19">Masta (2000)</xref>, <xref ref-type="bibr" rid="B4">Boyd (2002)</xref>, and <xref ref-type="bibr" rid="B21">McCormack et al. (2008)</xref> all reported a North-South mountain range relationship among populations with an East-West gap.</p>
+            <p>Both recent and more ancient global climate changes could be the causal mechanisms underlying the history of habitat fragmentation in <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic>. Our results suggest <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> populations experienced a significant fragmentation into distinct eastern and western populations separated by the San Pedro River much earlier than the last glacial period. More recently, probably after the LGM, the western populations became more fragmented in the Pinal, Santa Catalina, and Huachuca Mountains. Future work will include more populations of <italic><tp:taxon-name>Scaphinotus petersi</tp:taxon-name></italic> and closely related species from additional <!--PageBreak-->mountain ranges, adding missing lineages. Additional nuclear genes will be included to provide a broader picture of genetic structure and a better estimate of divergence times. These efforts will help develop a general model for understanding the phylogeographic effects of climate change in Sky Island organisms.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors are deeply indebted to the work Ross and Joyce Bell have done on adephagan, rhysodine, and carabid systematics and natural history. It has formed the foundation of much of the work KAO has done on carabids, and it has truly inspired and facilitated her work in adephagan and carabid systematics. This paper is dedicated to the life and work of Ross and Joyce Bell. Some outgroup specimens were collected by Elizabeth Jockusch. The authors also thank the College of the Holy Cross, the Robert L. Ardizzone Faculty Excellence Fellowship, the Charles and Rosanna Batchelor Foundation Grant and the Richard B. Fisher Summer Research Fellowship for funding for this project. We thank Sean Devine and two anonymous reviewers for improvements to the manuscript.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ball</surname><given-names>GE</given-names></name></person-group> (<year>1966</year>)<article-title> The taxonomy of the subgenus <italic>Scaphinotus</italic> Dejeanwith particular reference to the subspecies of <italic>Scaphinotus petersi</italic> Roeschke (Coleoptera: Carabidae: Cychrini).</article-title> <source>Transactions of the American Entomological Society </source> <volume>92</volume>: <fpage>687</fpage>-<lpage>722</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Barber</surname><given-names>PH</given-names></name></person-group> (<year>1999a</year>)<article-title> Patterns of gene flow and population genetic structure in the canyon treefrog, <italic>Hyla arenicolor</italic> (Cope).</article-title> <source>Molecular Ecology </source> <volume>8</volume>: <fpage>563</fpage>-<lpage>576</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-294x.1999.00594.x" xlink:type="simple">doi: 10.1046/j.1365-294x.1999.00594.x</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Barber</surname><given-names>PH</given-names></name></person-group> (<year>1999b</year>)<article-title> Phylogeography of the canyon treefrog, <italic>Hyla arenicolor</italic> (Cope) based on mitochondrial DNA sequence data.</article-title> <source>Molecular Ecology </source> <volume>8</volume>: <fpage>547</fpage>-<lpage>562</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-294x.1999.00593.x" xlink:type="simple">doi: 10.1046/j.1365-294x.1999.00593.x</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Boyd</surname><given-names>AE</given-names></name></person-group> (<year>2002</year>)<article-title> Morphological analysis of Sky Island populations of <italic>Macromeria viridiflora</italic> (Boraginaceae).</article-title> <source>Systematic Botany </source> <volume>27</volume>: <fpage>116</fpage>-<lpage>126</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cook</surname><given-names>JP</given-names></name><name name-style="western"><surname>Youberg</surname><given-names>A</given-names></name><name name-style="western"><surname>Pearthree</surname><given-names>PA</given-names></name><name name-style="western"><surname>Onken</surname><given-names>JA</given-names></name><name name-style="western"><surname>MacFarlane</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Haddad</surname><given-names>DE</given-names></name><name name-style="western"><surname>Bigio</surname><given-names>ER</given-names></name><name name-style="western"><surname>Kowler</surname><given-names>AL</given-names></name></person-group> (<year>2009</year>)<source> Mapping of Holocene river alluvium along the San Pedro River, Aravaipa Creek, and Babocomari River, Southeastern Arizona. A Report to the Adjudication and Technical Support Section Statewide Planning Division Arizona Department of Water Resources. Version 1.1 Arizona Geological Survey, Tucson, AZ 85701.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Digweed</surname><given-names>SC</given-names></name></person-group> (<year>1993</year>)<article-title> Selection of terrestrial gastropod prey by Cychrine and Pterostichine ground beetles (Coleoptera: Carabidae).</article-title> <source>Canadian Entomologist </source> <volume>125</volume>: <fpage>463</fpage>-<lpage>472</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4039/Ent125463-3" xlink:type="simple">doi: 10.4039/Ent125463-3</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Downie</surname><given-names>DA</given-names></name></person-group> (<year>2004</year>)<article-title> Phylogeography in a galling insect, grape phylloxera, <italic>Daktulosphaira vitifoliae</italic> (Phylloxeridae) in the fragmented habitat of the Southwest USA.</article-title> <source>Journal of Biogeography </source> <volume>31</volume>: <fpage>1759</fpage>-<lpage>1768</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2699.2004.01075.x" xlink:type="simple">doi: 10.1111/j.1365-2699.2004.01075.x</ext-link><!--PageBreak--></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drummond</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name></person-group> (<year>2007</year>)<source> BEAST: Bayesian evolutionary analysis by sampling trees. BMC Evolutionary Biology 7: 214. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2148-7-214" xlink:type="simple">doi: 10.1186/1471-2148-7-214</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Heald</surname><given-names>WF</given-names></name></person-group> (<year>1951</year>)<source> Sky Islands of Arizona.Natural History 60:56–63, 95–96.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Holycross</surname><given-names>AT</given-names></name><name name-style="western"><surname>Douglas</surname><given-names>ME</given-names></name></person-group> (<year>2007</year>)<article-title> Geographic isolation, genetic divergence, and ecological non-exchangeability define conservation units in a threatened sky-island rattlesnake.</article-title> <source>Biological Conservation </source> <volume>134</volume>: <fpage>142</fpage>-<lpage>154</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2006.07.020" xlink:type="simple">doi: 10.1016/j.biocon.2006.07.020</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lamb</surname><given-names>T</given-names></name><name name-style="western"><surname>Jones</surname><given-names>TR</given-names></name><name name-style="western"><surname>Wettstein</surname><given-names>PJ</given-names></name></person-group> (<year>1997</year>)<article-title> Evolutionary genetics and phylogeography of the tassel-eared squirrels (<italic>Sciurus aberti</italic>).</article-title> <source>Journal of Mammalogy </source> <volume>78</volume>: <fpage>117</fpage>-<lpage>133</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1382645" xlink:type="simple">doi: 10.2307/1382645</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>LaRochelle</surname><given-names>A</given-names></name></person-group> (<year>1972</year>)<article-title> Notes on the food of Cychrini (Coleoptera: Carabidae).</article-title> <source>Great Lakes Entomologist </source> <volume>5</volume>: <fpage>81</fpage>-<lpage>83</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Linhart</surname><given-names>YB</given-names></name><name name-style="western"><surname>Permoli</surname><given-names>AC</given-names></name></person-group> (<year>1994</year>)<article-title> Genetic variation in central and disjunct populations of <italic>Lilium parryi</italic>.</article-title> <source>Canadian Journal of Botany </source> <volume>72</volume>: <fpage>79</fpage>-<lpage>85</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/b94-011" xlink:type="simple">doi: 10.1139/b94-011</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lomolino</surname><given-names>MV</given-names></name><name name-style="western"><surname>Brown</surname><given-names>JH</given-names></name><name name-style="western"><surname>Davis</surname><given-names>R</given-names></name></person-group> (<year>1989</year>)<article-title> Island biogeography of montane forest mammals in the American Southwest.</article-title> <source>Ecology </source> <volume>70</volume>: <fpage>180</fpage>-<lpage>194</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1938425" xlink:type="simple">doi: 10.2307/1938425</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lorenz</surname><given-names>W</given-names></name></person-group> (<year>2005</year>)<source> Systematic list of extant ground beetles of the world (Insecta Coleoptera “Geadephaga”: Trachypachidae and Carabidae incl. Paussinae, Cicindelinae, Rhysodinae). Second edition. Published by the author, Hoermannstrasse 4, D-82327 Tutzing, Germany, i-iii, 1–530.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name><name name-style="western"><surname>Baker</surname><given-names>MD</given-names></name><name name-style="western"><surname>Ober</surname><given-names>KA</given-names></name></person-group> (<year>1999</year>)<article-title> Phylogeny of carabid beetles as inferred from 18S ribosomal DNA (Coleoptera: Carabidae).</article-title> <source>Systematic Entomology </source> <volume>24</volume>: <fpage>103</fpage>-<lpage>138</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-3113.1999.00088.x" xlink:type="simple">doi: 10.1046/j.1365-3113.1999.00088.x</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>DR</given-names></name><name name-style="western"><surname>Maddison</surname><given-names>WP</given-names></name></person-group> (<year>2005</year>)<source> MacClade 4: Analysis of phylogeny and character evolution. Version 4.08. Sinauer Associates. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10635159950127312" xlink:type="simple">doi: 10.1080/10635159950127312</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname><given-names>WP</given-names></name><name name-style="western"><surname>McMahon</surname><given-names>MM</given-names></name></person-group> (<year>2000</year>)<article-title> Divergence and reticulation among montane populations of the jumping spider <italic>Habronattus pugillis</italic> Griswold.</article-title> <source>Systematic Biology </source> <volume>49</volume>: <fpage>400</fpage>-<lpage>421</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Masta</surname><given-names>S</given-names></name></person-group> (<year>2000</year>)<source> Phylogeography of the jumping spider <italic>Habronatus pugillis</italic> (Araneae: Salticidae): recent vicariance of sky island populations? Evolution 54: 1699–1711.</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCord</surname><given-names>RD</given-names></name></person-group> (<year>1994</year>)<source> Phylgoeny and biogeography of the land snail, <italic>Sonorella</italic>, in the Madrean Archipelago. In: DeBano LF, Ffolliott PF, Ortega-Rubio A et al. (Eds.) Biodiversity and Management of the Madrean Archipelago: The Sky Islands of Southwestern United States and Northwestern Mexico. US Department of Agriculture, Fort Collins, Colorado, 317–323.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McCormack</surname><given-names>JE</given-names></name><name name-style="western"><surname>Bowen</surname><given-names>BS</given-names></name><name name-style="western"><surname>Smith</surname><given-names>TB</given-names></name></person-group> (<year>2008</year>)<source> Integrating paleoecology and genetics of bird populations in two sky island archipelagos. BioMed Central Biology 6:28.</source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Noonan</surname><given-names>GR</given-names></name></person-group> (<year>1992</year>)<article-title> Biogeographic patterns of the montane Carabidae of North America north of Mexico (Coleoptera: Carabidae).</article-title> In: <person-group><name name-style="western"><surname>Ball</surname><given-names>GB</given-names></name><name name-style="western"><surname>Noonan</surname><given-names>GR</given-names></name><name name-style="western"><surname>Stork</surname><given-names>NE</given-names></name></person-group> (<role>Eds.</role>). <issue-title>The Biogeography of Ground Beetles of Mountains and Islands.</issue-title> <source>Intercept, Andover UK</source>: <fpage>1</fpage>-<lpage>41</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Osawa</surname><given-names>S</given-names></name><name name-style="western"><surname>Su</surname><given-names>Z-H</given-names></name><name name-style="western"><surname>Imura</surname><given-names>Y</given-names></name></person-group> (<year>2004</year>)<source> Molecular Phylogeny and Evolution of Carabid Ground Beetles.</source> <publisher-name>Springer-Verlag</publisher-name>, <publisher-loc>New York</publisher-loc>, <lpage>191</lpage> pp.<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/978-4-431-53965-0" xlink:type="simple">doi: 10.1007/978-4-431-53965-0</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pons</surname><given-names>J</given-names></name><name name-style="western"><surname>Ribera</surname><given-names>I</given-names></name><name name-style="western"><surname>Bertranpetit</surname><given-names>J</given-names></name><name name-style="western"><surname>Balke</surname><given-names>M</given-names></name></person-group> (<year>2010</year>)<article-title> Nucleotide substitution rates for the full set of mitochondrial protein-coding genes in Coleoptera. Molecular Phylogenetics and Evolution.</article-title> <volume>56</volume>: <fpage>796</fpage>-<lpage>807</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2010.02.007" xlink:type="simple">doi: 10.1016/j.ympev.2010.02.007</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname><given-names>D</given-names></name></person-group> (<year>2005</year>)<source> Modeltest: A tool to select the best-fit model of nucleotide substitution. Version 3.7. http://darwin.uvigo.es.</source></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name><name name-style="western"><surname>Drummond</surname><given-names>AJ</given-names></name></person-group> (<year>2010</year>)<source> LogCombiner v1.5.4 MCMC Output Combiner. Institute of Evolutionary Biology, University of Edinburgh.</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name><name name-style="western"><surname>Drummond</surname><given-names>AJ</given-names></name></person-group> (<year>2007</year>)<source> Tracer v1.4. http://beast.bio.ed.ac.uk/Tracer.</source></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name></person-group> (<year>2010</year>)<source> FigTree v1.3.1. Institute of Evolutionary Biology, University of Edinburgh.</source></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name></person-group> (<year>2003</year>)<article-title> MRBAYES 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics </source> <volume>19</volume>: <fpage>1572</fpage>-<lpage>1574</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btg180" xlink:type="simple">doi: 10.1093/bioinformatics/btg180</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Scudder</surname><given-names>SH</given-names></name></person-group> (<year>1900</year>)<source> Adephagous and clavicorn Coleoptera from Tertiary deposits at Florissant Colorado with descriptions of a few other forms and a systematic list of the non-rynchophorous Tertiary Coleoptera of North America. United States Geological Survey Professional Paper: 11–148.</source></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Slentz</surname><given-names>S</given-names></name><name name-style="western"><surname>Boyd</surname><given-names>AE</given-names></name><name name-style="western"><surname>McDade</surname><given-names>LA</given-names></name></person-group> (<year>1999</year>)<article-title> Patterns of morphological differentiation among Madrean Sky Island populations of <italic>Castilleja austromontana</italic> (Scrophulariaceae).</article-title> <source>Madroño </source> <volume>46</volume>: <fpage>100</fpage>-<lpage>111</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>CI</given-names></name><name name-style="western"><surname>Farrell</surname><given-names>BD</given-names></name></person-group> (<year>2005a</year>)<source> Phylogeography of the longhorn cactus beetle <italic>Moneilema appressum</italic> LeConte (Coleoptera: Cerambycidae): was the differentiation of the Madrean sky islands driven by Pleistocene climate changes? Molecular Ecology 14: 3049–3065. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-294X.2005.02647.x" xlink:type="simple">doi: 10.1111/j.1365-294X.2005.02647.x</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>CI</given-names></name><name name-style="western"><surname>Farrell</surname><given-names>BD</given-names></name></person-group> (<year>2005b</year>)<article-title> Range expansions in the flightless longhorn cactus beetles, <italic>Moneilema gigas</italic> and <italic>Moneilema armatum</italic>, in response to Pleistocene climate changes.</article-title> <source>Molecular Ecology </source> <volume>14</volume>: <fpage>1025</fpage>-<lpage>1044</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-294X.2005.02472.x" xlink:type="simple">doi: 10.1111/j.1365-294X.2005.02472.x</ext-link></mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Spector</surname><given-names>S</given-names></name></person-group> (<year>2002</year>)<article-title> Biogeographic crossroads as priority areas for bio-diversity conservation.</article-title> <source>Conservation Biology </source> <volume>16</volume>: <fpage>1480</fpage>-<lpage>1487</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1523-1739.2002.00573.x" xlink:type="simple">doi: 10.1046/j.1523-1739.2002.00573.x</ext-link></mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sullivan</surname><given-names>RM</given-names></name></person-group> (<year>1994</year>)<article-title> Micro-evolutionary differentiation and biogeographic structure among coniferous forest populations of the Mexican woodrat (<italic>Neotoma mexicana</italic>) in the American Southwest: a test of the vicariance hypothesis.</article-title> <source>Journal of Biogeography </source> <volume>21</volume>: <fpage>369</fpage>-<lpage>389</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2845756" xlink:type="simple">doi: 10.2307/2845756</ext-link></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname><given-names>DL</given-names></name></person-group> (<year>2002</year>)<source> PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4.0b10. Sinauer Associates.</source></mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tennessen</surname><given-names>JA</given-names></name><name name-style="western"><surname>Zamudio</surname><given-names>KR</given-names></name></person-group> (<year>2008</year>)<article-title> Genetic differentiation among mountain island populations of the striped plateau lizard, <italic>Sceloporus virgatus</italic> (Squamata: Phrynosomatidae).</article-title> <source>Copeia </source> <volume>3</volume>: <fpage>558</fpage>-<lpage>564</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1643/CG-06-038" xlink:type="simple">doi: 10.1643/CG-06-038</ext-link></mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zwickl</surname><given-names>D</given-names></name></person-group> (<year>2010</year>)<source> GARLI-PART 0.97 Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion. https://www.nescent.org/wg_garli/Partition_testing_version#The_GARLI_partitioned_version.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

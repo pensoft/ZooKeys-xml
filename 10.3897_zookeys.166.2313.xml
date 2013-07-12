@@ -1,0 +1,977 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.166.2313</article-id>
+            <title-group>
+                <article-title>Commensal Leucothoidae (Crustacea, Amphipoda) of the Ryukyu Archipelago, Japan. Part II: sponge-dwellers</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>White</surname>
+                        <given-names>Kristine N.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:1206DA5D-7756-4D17-92D2-890AE8A49F88</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Reimer</surname>
+                        <given-names>James Davis</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:3CD21222-ADA1-4A28-BE8B-7F9A9DEBA0F2</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Rising Star Program, Trans-disciplinary Organization for Subtropical Island Studies (TRO-SIS), University of the Ryukyus, 1 Senbaru, Nishihara, Okinawa, Japan 903-0213
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Kristine N. White (<email xlink:type="simple">white.kristinen@gmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: C.O. Coleman</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>1</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>166</issue>
+            <fpage>1</fpage>
+            <lpage>58</lpage>
+            <history>
+                <date date-type="received">
+                    <day>3</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>10</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Kristine N. White, James Davis Reimer</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:1341E2FB-F853-437A-8EE8-2701E1082C56</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>Commensal leucothoid amphipods have been collected from the canals of their sponge hosts throughout the Ryukyu Archipelago, Japan. Eleven new species are described in the genus <italic><tp:taxon-name>Leucothoe</tp:taxon-name></italic> with valuable location data and host records. An identification key to sponge-dwelling <tp:taxon-name>Leucothoidae</tp:taxon-name> of the Ryukyu Archipelago is provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Leucothoidae</kwd>
+                <kwd>Ryukyus</kwd>
+                <kwd>Okinawa</kwd>
+                <kwd>Japan</kwd>
+                <kwd>new species</kwd>
+                <kwd>commensal</kwd>
+                <kwd><italic>Leucothoe akaoni</italic></kwd>
+                <kwd><italic>Leucothoe bise</italic></kwd>
+                <kwd><italic>Leucothoe daisukei</italic></kwd>
+                <kwd><italic>Leucothoe hashi</italic></kwd>
+                <kwd><italic>Leucothoe lecroyae</italic></kwd>
+                <kwd><italic>Leucothoe nagatekubi</italic></kwd>
+                <kwd><italic>Leucothoe nurunuru</italic></kwd>
+                <kwd><italic>Leucothoe ouraensis</italic></kwd>
+                <kwd><italic>Leucothoe togatta</italic></kwd>
+                <kwd><italic>Leucothoe toribe</italic></kwd>
+                <kwd><italic>Leucothoe zanpa</italic></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The <tp:taxon-name>Leucothoidae</tp:taxon-name> are a marine family of gammaridean amphipods that can be found inhabiting sessile invertebrate hosts worldwide. The family currently contains 146 species in five genera and can be divided into two clades (<xref ref-type="bibr" rid="B40">White 2011</xref>, <xref ref-type="bibr" rid="B41">White and Reimer 2012a</xref>). Leucothoids are typically found as endocommensal associates of sponges<!--PageBreak-->, ascidians, and bivalve mollusks, where they utilize the feeding current produced by their hosts to feed (<xref ref-type="bibr" rid="B40">White 2011</xref>, <xref ref-type="bibr" rid="B41">White and Reimer 2012a</xref>).</p>
+            <p>There are currently 14 <tp:taxon-name>Leucothoidae</tp:taxon-name> species reported from Japan, with only seven of these from the Ryukyu Archipelago (<xref ref-type="bibr" rid="B41">White and Reimer 2012a</xref>). A map of the study area is available in part 1 (<xref ref-type="bibr" rid="B41">White and Reimer 2012a</xref>).</p>
+        </sec>
+        <sec sec-type="methods"><title>Methods</title>
+            <p>Specimens were collected via snorkeling and SCUBA at 47 locations throughout the Ryukyu Archipelago: Ishigaki–jima Island (4 locations), Iriomote–jima Island (4), Okinawa–jima Island (21), Yoron–to Island (2), Okinoerabu–jima Island (2), Tokunoshima Island (4), Amami–oshima Island (6), and Yakushima Island (4) (see map in <xref ref-type="bibr" rid="B41">White and Reimer 2012a</xref>). Detailed station data are available in Supplementary Table 1 in <xref ref-type="bibr" rid="B41">White and Reimer (2012a)</xref>.</p>
+            <p>Entire sponges were isolated in zip-lock plastic bags for subsequent dissection in the laboratory or amphipods were captured individually in situ using a modified squirt bottle (following <xref ref-type="bibr" rid="B36">Thomas and Klebba 2006</xref>, <xref ref-type="bibr" rid="B37">2007</xref>). When possible, pieces of sponge were preserved in 99% EtOH. Sponges were tentatively identified by Nicole de Voogd (Naturalis, Leiden) via photos of sponges and sponge spicules and by referencing <xref ref-type="bibr" rid="B1">Allen and Steene (2002)</xref>. Coral rubble samples were also taken, elutriated, and sieved on location using both saltwater and formalin washes. Samples were sorted immediately. Amphipods were preserved in 2% seawater buffered formalin for morphological analysis and 99% ethanol for molecular studies.</p>
+            <p>Specimens used for morphological analyses were transferred to glycerin, dissected, mounted on slides, and illustrated using a Nikon®Y-IDT drawing tube attached to a Nikon® Eclipse 50I compound microscope. Pencil drawings were scanned and digitally inked in Adobe® Illustrator using a Wacom® Tablet, following the methods of <xref ref-type="bibr" rid="B8">Coleman (2003)</xref>.</p>
+            <p>Descriptions are of males unless noted with sexually dimorphic characters described in a separate section. Terminology used in descriptions follows <xref ref-type="bibr" rid="B42">White and Thomas (2009)</xref> with ‘proximal margin’ of the carpus and dactylus referring to the margins closing on the propodus. Setae nomenclature follows <xref ref-type="bibr" rid="B25">Oshel and Steele (1988)</xref> where possible without having SEM images for the specimens described here. All setae are simple, unless noted.</p>
+            <p>Type material and sponge pieces are deposited in the University of the Ryukyus Museum (Fujukan), with the prefix RUMF for museum numbers. Additional material has been deposited in the National Museum of Nature and Science in Tokyo, with the prefix NSMT for museum numbers.</p>
+            <p>Scale bars in figures represent 0.1 mm unless noted.</p>
+            <p>Figures legend: <bold>Hd</bold> head; <bold>Mx</bold> maxilla; <bold>Md</bold> mandible; <bold>Xpd</bold> maxilliped; <bold>LL</bold> lower lip; <bold>UL</bold> upper lip; <bold>G</bold> gnathopod; <bold>P</bold> pereopod; <bold>T</bold> telson; <bold>U</bold> uropod; <bold>L</bold> left; <bold>R</bold> right; <bold>l</bold> lateral; <bold>m</bold> medial; <bold>p</bold> paratype; <bold>+</bold> enlarged.</p>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Taxonomy"><title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe\according_to_White_et_al_2012</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Leach, 1814</tp:taxon-authority>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Generic diagnosis"><title>Generic diagnosis.</title>
+                    <p>Eyes, if present, generally well developed with 10 or more ommatidia. Mandibles lacking molars, palp three articulate; right lacinia mobilis smaller than left. Maxilliped inner plates fused, palp 4–articulate; outer plates not reaching apex of palp article 1. Coxa 1–4 relatively equal in widths. Pereopods 5–7 bases generally expanded. Minimal to no sexual dimorphism.</p>
+                </tp:treatment-sec>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">akaoni</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:F254D541-1FB7-432B-A62E-665D65E787B6</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_akaoni</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figures 1</xref>
+                    <xref ref-type="fig" rid="F2">2</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype female, 9.6 mm RUMF-ZC-1732, Zanpa Cape, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N ,127°43'03"E</named-content>), in canals of large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name> of <xref ref-type="bibr" rid="B33">Sollas 1886</xref>, 30 m, Daisuke Ueno, col., 26 February 2011 (KNWOkinawa34C). Paratype male, 8.3 mm, RUMF-ZC-1733, Zanpa Cape, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>), in canals of large white ball sponge, 30–33 m, K.N. White and N.S. White, col., 3 April 2011 (KNWOkinawa40D).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Zanpa Cape, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>1 specimen, RUMF-ZC-1734, KNW17Aug10; 1 specimen, NSMT-Cr 21871, KNWOkinawa10A; 3 specimens, NSMT-Cr 21872, KNWOkinawa15G; 2 specimens, RUMF-ZC-1735, KNWOkinawa16I; 2 specimens, RUMF-ZC-1736, KNWOkinawa29D; 0.5 specimen, NSMT-Cr 21873, KNWOkinawa34C; 15 specimens, NSMT-Cr 21874, KNWYaku2F; 1 specimen, RUMF-ZC-1737, KNWOkinawa40D.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (female)"><title>Diagnosis (female).</title>
+                    <p>Ventral cephalic keel anteroventral margin with anteriorly projecting cusp. Right mandible lacinia mobilis with 2 rows of dentition. Maxilliped inner plates with short serrate robust setae. Gnathopod 1 coxa anterior margin serrate; basis anterior margin with 12 medium-length setae, posterior margin with 14 short setae. Gnathopod 2 basis anterior margin with 33 medium-length setae, posterior margin with 7 setae, distal margin with 4 curved setae; ischium with several short posterior and distal setae and posterodistal serrations; carpus distally truncate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (female).</title>
+                    <p>Head. Anterior margin rounded, anterodistal margin evenly rounded; ventral cephalic keel anterior margin excavate, anteroventral margin with anteriorly projecting cusp, ventral margin straight; eyes present with more than 10 ommatidia, oval. Antenna 1 0.3 × body length, flagellum 10–articulate, peduncle article 1 <!--PageBreak--><!--PageBreak-->width less than 2 × article 2, accessory flagellum absent. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 8–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.6: 1.7, article 2 with 8–9 long distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible with 16 raker spines, lacinia mobilis large, strongly toothed; right mandible with 14 raker spines, lacinia mobilis small, with 2 rows of dentition. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with small gape, anterior margins setose. Maxilla 1 palp 2–articulate with 4 distal setae; outer plate with 9 distal robust setae and 4 distal slender setae. Maxilla 2 inner plate with 8 slender distal setae, 6 robust marginal setae, and facial setae; outer plate with 2 robust and 6 slender distal setae, 9 slender marginal setae, and facial setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short serrate robust setae; outer plate inner margin smooth, reaching 0.3 × palp article 1, with simple marginal setae, facial setae present; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.3: 1.0: 1.4. Gnathopod 1 coxa with tiny marginal setae, anterior margin serrate, anterodistal margin produced, rounded, distal margin straight, posterior margin excavate, facial setae absent; basis slightly inflated, anterior margin with 12 short setae, posterior margin with 14 short setae; ischium with posterior setae; carpus linear, distal length 12.9 × width, proximal margin dentate, distal margin with 3 setae; propodus straight, palm dentate with 8 distal setae; dactylus smooth, reaching 0.5 × propodus length. Gnathopod 2 coxa broader than long, subequal in size with coxa 3, smooth, with tiny marginal setae; anterior margin straight, anterodistally rounded, distal margin straight, posterior margin straight, facial setae absent; basis slightly posteriorly expanded, anterior margin with 33 medium setae, posterior margin with 7 setae, distal margin with 4 curved setae; ischium with several short posterior and distal setae and posterodistal serrations; carpus 0.3 × propodus length, curved, distally truncate, anterior margin dentate; propodus with 1 mediofacial setal row displaced to midline, reaching 0.8 × propodus length, with 1 row of submarginal setae, posterior margin smooth, palm convex dentate; dactylus curved, proximal margin smooth, bare, anterior margin distally subacute, reaching 0.6 × propodus length. Pereopod 3 coxa length 1.3 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, bare, anterior margin straight, distal margin oblique, posterior margin tapered, facial setae absent. Pereopod 4 coxa smooth, bare, anterior margin straight, distal margin evenly rounded, posterior margin tapered, facial setae absent. Pereopods 5–7 coxae facial setae absent; bases width length ratios 1: 1.4, 1: 1.4, 1: 1.3, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1 and 3 bare, epimeron 2 with ventral setae; epimeron 3 posteroventral corner subquadrate. Uropods 1–3 relative lengths 1.0: 0.8: 1.1. Uropod 1 peduncle and outer ramus 0.9 × inner ramus length; inner ramus with 3 robust setae; outer ramus with 7 robust setae. Uropod 2 peduncle length 0.7 × inner ramus length, outer ramus length 0.6 × inner ramus length; inner ramus with 4 robust setae; outer<!--PageBreak--><!--PageBreak--> ramus with 7 robust setae. Uropod 3 peduncle 1.3 × inner ramus length, outer ramus length subequal in length with inner ramus; inner ramus with 4 robust setae; outer ramus with 5 robust setae. Telson 2.7 × longer than wide, apex strongly tridentate.</p>
+                		<p><bold>Male (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 1 basis anterior margin with 7 setae, posterior margin with 5 setae. Gnathopod 2 basis anterior margin with 9 long setae, posterior margin bare; ischium with posterodistal setae, smooth.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n., holotype female, 9.6 mm, RUMF-ZC-1732.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n., holotype female, 9.6 mm, RUMF-ZC-1732; paratype male, 8.3 mm, RUMF-ZC-1733.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese words ‘aka’, meaning ‘red’, and ‘oni’, meaning ‘barbarian’ and referring to the red color and large size (pronounced ah-ka-oh-nee).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of sponges, spiculose green ball sponge, ?<italic><tp:taxon-name>Axinyssa</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B22">Lendenfeld 1897</xref> (<xref ref-type="fig" rid="F24">Figure 24E</xref>); spiculose beige sponge, <tp:taxon-name>Niphatidae</tp:taxon-name> of <xref ref-type="bibr" rid="B38">Van Soest 1980</xref> (probably <italic><tp:taxon-name>Niphates</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B12">Duchassaing and Michelotti 1864</xref>), RUMF-ZP-6, KNWOkinawa10A (<xref ref-type="fig" rid="F25">Figure 25I</xref>); large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name>, RUMF-ZP-11, KNWOkinawa40E (<xref ref-type="fig" rid="F24">Figure 24I</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe denticulata</tp:taxon-name></italic> Costa, 1851 and <italic><tp:taxon-name>Leucothoe wuriti</tp:taxon-name></italic> Thomas &amp; Klebba, 2007 in having a rounded head, ventral cephalic keel with projection, gnathopod 1 dactylus reaching greater than 0.2 × propodus length, and a truncate gnathopod 2 carpus. <italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n. differs from these species in lacking facial setae on coxa 1, having a setose posterior margin on the gnathopod 1 basis, gnathopod 2 basis anterior margin with more than 9 setae, slightly less broadly expanded bases on pereopods 5–7.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n. is deep red in color, darkest on the head, fading to deep orange posteriorly (<xref ref-type="fig" rid="F23">Figure 23A</xref>). This species has been collected only on Yakushima Island, Kagoshima and from the northwestern coast of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island (Okinawa), Yakushima (Kagoshima), Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">bise</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:316E130F-9811-4DAE-9666-4625146E5339</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_bise</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F3">Figures 3</xref>
+                    <xref ref-type="fig" rid="F4">4</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 2.1 mm RUMF-ZC-1738, Bise, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°42'46"N, 127°52'44"E</named-content>), among coral rubble, 7–15 m, K.N. White and N.S. White, col., 9 February 2011 (KNWOkinawa30D). Paratype female, 3.6 mm RUMF-ZC-1739, same station data as holotype. Paratype male, 3.3 mm RUMF-ZC-1846, Yona, Kunigami, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°45'56"N, 128°46'39"E</named-content>), among coral rubble, 9 m, K.N. White and N.S. White, col., 23 October 2010 (KNWOkinawa15E).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Bise, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°42'46"N, 127°52'44"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>1 specimen, NSMT-Cr 21875, KNWOkinawa23F; 1 specimen, NSMT-Cr 21876, KNWOkinawa27E; 1 specimen, RUMF-ZC-1740, KNWOkinawa29B; 1 specimen, RUMF-ZC-1741, KNWOkinawa29M;<!--PageBreak--> 6 specimens, RUMF-ZC-1742, KNWOkinawa30D; 1 specimen, NSMT-Cr 21877, KNWOkinawa31G; 5 specimens, NSMT-Cr 21878, KNWOkinawa39I; 6 specimens, NSMT-Cr 21879, KNWOkinawa43C; 1 specimen, NSMT-Cr 21880, KNWOkinawa50C; 1 specimen, RUMF-ZC-1743, KNWOkinawa55A; 5 specimens, RUMF-ZC-1795, KNWYaku3G; 1 specimen, RUMF-ZC-1847, KNWOkinawa15E; 1 specimen, RUMF-ZC-1848, KNWOkinawa15E; 4 specimens, NSMT-Cr 21991, KNWOkinawa15E; 1 specimen, RUMF-ZC-1849, KNWOkinawa21C; 2 specimens, NSMT-Cr 21992, KNWOkinawa13E.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Head anterodistal margin quadrate with cusp. Antenna 1 with many setulate-serrate setae. Maxilla 1 palp 1–articulate, margins constricted. Gnathopod 1 basis proximally widened; propodus palm serrate, saw-like. Gnathopod 2 carpus distally rounded; propodus with 2 mediofacial setal rows, primary mediofacial setal row very short. Pereopods 5–7 bases very narrowly expanded. Female gnathopod 1 basis posterior margin with 7 setae; gnathopod 2 carpus distally truncate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin truncate, anterodistal margin quadrate with cusp; ventral cephalic keel anterior margin transverse, anteroventral margin quadrate, ventral margin straight; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, with setulate-serrate setae, flagellum 4–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum absent. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 3–articulate. Mandibular palp ratio of articles 1–3 1.0: 3.0: 1.8, article 2 with 5 medium distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible lacinia mobilis with 12 raker spines, large, strongly toothed; right mandible with 10 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate, margins constricted and with 4 distal setae; outer plate with 5 distal robust setae and 4 distal setae. Maxilla 2 inner plate with 5 robust distal setae; outer plate with 3 robust distal setae and 11 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin smooth, reaching 0.2 × palp article 1, with simple marginal setae, facial setae absent; palp 4–articulate, article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.0: 0.9: 1.1. Gnathopod 1 coxa smooth, with tiny marginal setae, anterodistal margin produced, subtriangular, distal margin straight, posterior margin excavate, facial setae absent; basis proximally widened, anterior margin bare, posterior margin with 2 setae; ischium bare; carpus linear, distal length 18.8 × width, proximal margin smooth, distal margin bare; propodus straight, palm serrate, saw-like, with 3 robust and 5 short proximal setae; dactylus smooth, reaching 0.4 × propodus length. Gnathopod 2 coxa broader than long, subequal in size to coxa 3, smooth, with tiny marginal setae, anterior margin straight, anterodistally acute, distal and posterior margins straight, facial setae absent; basis linear, anterior margin with 3 setae, posterior margin bare; ischium bare; carpus 0.3 × propodus length, curved, distally rounded, anterior margin smooth; propodus <!--PageBreak-->with 2 mediofacial setal rows, primary mediofacial setal row above midline, reaching 0.4 × propodus length, secondary mediofacial setal row with 1 seta, with 1 row of submarginal setae, posterior margin smooth, palm convex, dentate; dactylus curved,<!--PageBreak--> proximal margin smooth, with 2 setae, anterior margin distally subacute, reaching 0.6 × propodus length. Pereopod 3 coxa length 0.9 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin evenly rounded, distal margin slightly convex, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin tapered, distal margin straight, posterior margin tapered, facial setae absent. Pereopods 5–7 coxae facial setae absent; bases width length ratios 1: 1.9, 1: 1.7, 1: 1.8, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1 and 3 bare, epimeron 2 with ventral setae; epimeron 3 posteroventral corner subquadrate, produced. Uropods 1–2 relative lengths 1.0: 0.9; inner and outer rami lined with short marginal setae. Uropod 1 peduncle 0.9 × inner ramus length, outer ramus subequal in length with inner ramus length; inner ramus with 2 robust setae, outer ramus with 1 robust seta. Uropod 2 peduncle 0.7 × inner ramus length, outer ramus 0.9 × inner ramus length; inner ramus with 1 robust seta, outer ramus with 2 robust setae. Uropod 3 missing. Telson 2.1 × longer than wide, with plumose facial setae, apex weakly tridentate.</p>
+                		<p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 1 basis anterior margin with 1 seta, posterior margin with 7 setae; ischium with 2 posterior setae; carpus distal margin with 3 setae. Gnathopod 2 basis anterior margin with 10 medium setae, posteromedial margin with 1 seta; carpus distally truncate, reaching 0.5 × propodus length; propodus secondary mediofacial setal row with 4 setae, palm with more prominent tubercles.</p>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Leucothoe bise sp. n., holotype male, 2.1 mm, RUMF-ZC-1738; paratype female, 3.6 mm, RUMF-ZC-1739; paratype male, 3.3 mm RUMF-ZC-1846.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe bise</tp:taxon-name></italic> sp. n., paratype female, 3.6 mm, RUMF-ZC-1739.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese place name, ‘Bise’, and referring to the type locality. (Pronounced bee-say.)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of sponges, <italic><tp:taxon-name>Tedania</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B14">Gray 1867</xref> (<xref ref-type="fig" rid="F25">Figure 25E</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe bise</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe hortapugai</tp:taxon-name></italic> Winfield et al., 2009 and <italic><tp:taxon-name>Leucothoe kensleyi</tp:taxon-name></italic> Thomas &amp; Klebba, 2006 in having a quadrate anterior head margin, anterodistal head margin quadrate with cusp, narrow pereopod 5–7 bases, and gnathopod 1 dactylus reaching less than 0.2 × propodus. It differs from these species in having a quadrate keel without a projection, maxilla 1 palp 1–articulate, margins constricted, bare gnathopod 1 basis anterior margin, gnathopod 2 carpus distally rounded and reaching less than 0.4 × propodus length, and a produced posteroventral margin on epimeron 3.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p>Some sexually dimorphic characters may be due to the larger size of the female. Some specimens have larger serrations on the saw-like gnathopod 1 propodus palm, suggesting morphological variation in this character, perhaps depending on size. <italic><tp:taxon-name>Leucothoe bise</tp:taxon-name></italic> sp. n. is translucent orange in color (<xref ref-type="fig" rid="F24">Figure 24B</xref>). This species has been collected on Iriomote–jima and throughout the western coast of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island, Iriomote–jima Island (both Okinawa), Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">daisukei</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:93EDC549-9973-448C-A5E0-88ED1BD45443</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_daisukei</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F5">Figures 5</xref>
+                    <xref ref-type="fig" rid="F6">6</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 4.4 mm RUMF-ZC-1744, Zanpa Cape,  Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>), in canals of large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name>, 30 m, Daisuke Ueno, col., 26 February 2011 (KNWOkinawa34F). Paratype female, 2.8 mm RUMF-ZC-1745, Zanpa Cape, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>), among coral rubble, 10–30 m, K.N. White and N.S. White, col., 26 February 2011 (KNWOkinawa34N).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Zanpa Cape, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>2 specimens, KNWOkinawa34E; 2 specimens, KNWIshigaki2C; 1 specimen, RUMF-ZC-1746, KNWOkinawa40E; 1 specimen, NSMT-Cr 21881, KNWOkinawa34F.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Body stout. Antennae robust, short. Ventral cephalic keel anterior margin excavate. Mandibular palp article 2 robust. Maxilla 1 palp 1–articulate. Maxilliped inner plates with short serrate robust setae. Pereopods 5 and 7 coxae with facial setae. Gnathopod 2 stout.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin rounded, anterodistal margin subquadrate; ventral cephalic keel anterior margin excavate, anteroventral margin subquadrate, ventral margin oblique; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, flagellum 6–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum absent. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 6–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.3: 1.8, article 2 robust, with 2–3 long distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible with 11 raker spines, lacinia mobilis large, strongly toothed; right mandible with 11 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, setose; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate with 4 distal setae; outer plate with 4 distal robust setae and 10 distal setae. Maxilla 2 inner plate with 7 robust distal setae; outer plate with 3 robust distal setae and 16 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short and long serrate robust setae; outer plate inner margin smooth, reaching 0.2 × palp article 1, with simple marginal setae, facial setae absent; palp article 2 with setulate-serrate marginal setae; article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.2: 0.8: 1.3. Gnathopod 1 coxa smooth, with tiny marginal setae, anterodistal margin produced, rounded, distal margin straight, posterior margin excavate, facial setae absent; basis linear, anterior margin with 3 setae, posterior margin with 1 seta; ischium bare; carpus linear, distal length<!--PageBreak--> 12.8 × width, proximal margin dentate, distal margin with 2 short setae; propodus straight, palm dentate with 4 long and 8 short distal setae; dactylus smooth, reaching 0.5 × propodus length. Gnathopod 2 coxa broader than long, subequal in size <!--PageBreak-->with coxa 3, smooth, with tiny marginal setae, anterior margin rounded, anterodistally rounded, distal margin straight, posterior margin straight, facial setae absent; basis distally expanded, anterior margin with 7 long setae, posterior margin with<!--PageBreak--> 3 setae, posteromedial margin with 1 long seta; ischium with distal, posterior, and posterodistal setae; carpus 0.4 × propodus length, curved, distally tapered, anterior margin smooth; propodus with 1 mediofacial setal row displaced to midline, reaching 0.8 × propodus length, with 1 row of submarginal setae, posterior margin smooth, palm convex, dentate; dactylus curved, proximal margin smooth with 2 setae, anterior margin distally acute, reaching 0.8 × propodus length. Pereopod 3 coxa length 1.4 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin straight, distal margin slightly convex, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, bare, anterior margin straight, distal margin evenly rounded, posterior margin tapered, facial setae absent. Pereopods 5 and 7 coxae facial setae present, pereopod 6 coxa facial setae absent. Pereopods 5–7 bases width length ratios 1: 1.3, 1: 1.1, 1: 1.1, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1 and 3 bare, epimeron 2 with ventral setae; epimeron 3 posteroventral corner subquadrate. Uropods 1–3 relative lengths 1.0: 0.8: 1.1. Uropod 1 peduncle and inner ramus 0.8 × inner ramus length; inner ramus with 2 robust setae, outer ramus with 1 robust seta. Uropod 2 peduncle 0.6 × inner ramus length, outer ramus 0.9 × inner ramus length; inner and outer rami each with 1 robust seta. Uropod 3 peduncle 1.1 × inner ramus length, outer ramus length 0.9 × inner ramus length; inner and outer rami lined with short marginal setae, inner ramus with 1 robust seta, outer ramus with 2 robust setae. Telson 2.1 × longer than wide, apex weakly tridentate.</p>
+                		<p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 1 basis anterior margin with 1 seta, posterior margin with 2 setae; carpus distal margin with 1 short seta; propodus palm with 2 long and 7 short distal setae; dactylus with 2 proximal setae. Gnathopod 2 basis anterior margin with 4 long setae, posterior margin with 2 setae, posteromedial margin with 1 medium seta; carpus anterior margin dentate.</p>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n., holotype male, 4.4 mm, RUMF-ZC-1744.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figure 6.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n., holotype male, 4.4 mm, RUMF-ZC-1744; paratype female, 2.8 mm, RUMF-ZC-1745.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>Named for Dr. Daisuke Ueno, who collected the type specimens of this species. Dr. Ueno has shared valuable specimens and collection locations on Okinawa–jima Island.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name>, RUMF-ZP-11, KNWOkinawa40E (<xref ref-type="fig" rid="F24">Figure 24I</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe madrasana</tp:taxon-name></italic> Sivaprakasam, 1969 in having a subquadrate anterodistal head margin and gnathopod 1 dactylus reaching greater than 0.2 × propodus length. <italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n. differs from this species in having a rounded anterior head margin, 1–articulate maxilla 1 palp, a smooth gnathopod 1 carpus proximal margin, and a tapered gnathopod 2 carpus distal margin.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n. is peach in color, darkest along pereonite edges (<xref ref-type="fig" rid="F23">Figure 23F</xref>). This species has been collected only on Ishigaki–jima Island and from 30 meters on the west coast of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island, Ishigaki–jima Island (both Okinawa), Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">hashi</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:40C1B3A0-33C9-419C-A5D8-267DA462931C</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_hashi</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F7">Figures 7</xref>
+                    <xref ref-type="fig" rid="F8">8</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 2.5 mm RUMF-ZC-1747, Mizugama, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°21'35"N, 127°44'22"E</named-content>), in canals of yellow-beige sponge, <italic><tp:taxon-name>Callyspongia</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B12">Duchassaing and Michelotti 1864</xref>, 8–10 m, K.N. White, col., 10 April 2011 (KNWOkinawa42A). Paratype female, 2.5 mm RUMF-ZC-1748, same station data as holotype. Paratype male, 1.9 mm RUMF-ZC-1749, Kaichu Doro, Okinawa–jima Island, Okinawa, seagrass bed (<named-content content-type="dwc:verbatimCoordinates">26°19'56"N, 127°55'23"E</named-content>), in canals of green, hard branching sponge, ?<italic><tp:taxon-name>Clathria  (Thalysias) reinwardti</tp:taxon-name></italic> Vosmaer, 1880, 1 m, K.N. White, col., 21 August 2010 (KNW_21Aug10).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Mizugama, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°21'35"N, 127°44'22"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>1 specimen, RUMF-ZC-1750, KNW21Aug10; 2 specimens, RUMF-ZC-1751, KNWOkinawa11B; 1 specimen, RUMF-ZC-1752, KNWOkinawa12H; 1 specimen, NSMT-Cr 21882, KNWOkinawa12H; 1 specimen, RUMF-ZC-1753, KNWOkinawa16D; 1 specimen, RUMF-ZC-1754, KNWOkinawa21B; 1 specimen, NSMT-Cr 21883, KNWOkinawa21E; 1 specimen, RUMF-ZC-1755, KNWOkinawa22B; 1 specimen, NSMT-Cr 21884, KNWOkinawa25C; 1 specimen, NSMT-Cr 21885, KNWOkinawa29C; 2 specimens, NSMT-Cr 21886, KNWOkinawa31B; 4 specimens, RUMF-ZC-1756, KNWOkinawa31F; 3 specimens, RUMF-ZC-1757, KNWOkinawa33E; 1 specimen, NSMT-Cr 21887, KNWOkinawa33E; 3 specimens, NSMT-Cr 21888, KNWOkinawa34G; 4 specimens, RUMF-ZC-1758, KNWOkinawa42A; 2 specimens, NSMT-Cr 21889, KNWOkinawa43A; 3 specimens, NSMT-Cr 21890, KNWOkinawa44A; 2 specimens, RUMF-ZC-1759, KNWIriomote2H; 1 specimen, NSMT-Cr 21891, KNWOkinawa51C; 1 specimen, RUMF-ZC-1760, KNWOkinawa53A; 2 specimens, NSMT-Cr 21892, KNWOkinawa53D; 1 specimen, RUMF-ZC-1761, KNWYaku5O; 2 specimens, RUMF-ZC-1762, KNWTokuno4C; 2 specimens, RUMF-ZC-1796, KNWYaku3J; 1 specimen, RUMF-ZC-1797, KNWYaku5I; 2 specimens, RUMF-ZC-1798, KNWOkinawa43D.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Antenna 1 accessory flagellum 1–articulate. Mandibular palp article 3 shorter than article 1. Maxilla 1 palp 1–articulate. Maxilliped outer plate tuberculate. Gnathopod 1 carpus and propodus very slender, chopstick-like; carpus proximal margin with denticles; propodus palm serrate with triangular teeth. Gnathopod 2 propodus with 2 mediofacial setal rows. Pereopods 5–7 bases narrowly expanded.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin rounded, anterodistal margin evenly rounded; ventral cephalic keel anterior margin slightly excavate, anteroventral margin subquadrate, ventral margin straight; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, flagellum 5–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum 1–articulate. Antenna 2 0.2 × body length, slightly<!--PageBreak--> shorter than antenna 1, flagellum 5–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.0: 0.4, article 2 with 2 medium distal setae, article 3 with 1 distal seta, incisors weakly dentate; left mandible with 6 raker spines, lacinia mobilis large, strongly <!--PageBreak-->toothed; right mandible with 6 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate with 4 distal setae; outer plate with 5 distal robust setae. Maxilla 2 inner plate with 5 robust distal setae and 2 robust facial setae; outer plate with 3 robust distal setae and 4 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin tuberculate, reaching 0.1 × palp article 1, with simple marginal setae, facial setae absent; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.2: 1.2: 1.3. Gnathopod 1 coxa smooth, with tiny marginal setae, anterodistal margin produced, rounded, distal margin straight, posterior margin slightly excavate, facial setae absent; basis distally expanded, anterior margin bare, posterior margin with 2 short setae; ischium bare; carpus linear, distal length 15.8 × width, proximal margin with denticles, distal margin bare; propodus straight, palm serrate with 7 distal triangular teeth and 7 distal setae; dactylus with small proximal notch, reaching 0.2 × propodus length. Gnathopod 2 coxa as long as broad, subequal in size with coxa 3, smooth, with tiny marginal setae, anterior margin expanded, anterodistally rounded, distal and posterior margins straight, facial setae absent; basis distally expanded, anterior margin with 5 medium setae, posterior margin with 1 seta; ischium with 1 posterodistal seta; carpus 0.3 × propodus length, curved, distally truncate, anterior margin dentate; propodus with 2 mediofacial setal rows, primary mediofacial setal row above midline, reaching 0.8 × propodus length, secondary mediofacial setal row with 2 setae, with 1 row of submarginal setae, posterior margin smooth, palm convex with 4 small denticles; dactylus curved, proximal margin smooth with 1 seta, anterior margin distally subacute, reaching 0.8 × propodus length. Pereopod 3 coxa length 1.0 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin straight, distal margin slightly convex, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin straight, distal margin evenly rounded, posterior margin tapered, facial setae absent. Pereopods 5–7 coxae facial setae absent; bases width length ratios 1: 1.5, 1: 1.5, 1: 1.7, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1–2 with ventral setae, epimeron 3 bare; epimeron 3 posteroventral corner rounded. Uropods 1–3 relative lengths 1.0: 0.8: 1.2; inner and outer rami lined with short marginal setae. Uropod 1 peduncle and outer ramus 0.8 × inner ramus length; inner ramus with 6 robust setae and outer ramus with 5 robust setae. Uropod 2 peduncle 0.7 × inner ramus length, outer ramus 0.6 × inner ramus length; inner ramus with 3 robust setae and outer ramus with 4 robust setae. Uropod 3 peduncle 1.2 × inner ramus length, outer ramus 0.9 × inner ramus length; inner ramus with 4 robust setae and outer ramus with 7 robust setae. Telson 2.0 × longer than wide, apex weakly tridentate, almost bidentate.</p>
+                		<p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 1 basis posterior margin with 5 short setae. Gnathopod 2 basis posterior margin with 4 medium setae; ischium<!--PageBreak--><!--PageBreak--> with 2 posterior and1 posterodistal seta; carpus distally tapered; propodus secondary mediofacial setal row with 4 setae.</p>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figure 7.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n., holotype male, 2.5 mm, RUMF-ZC-1747; paratype female, 2.5 mm, RUMF-ZC-1748.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figure 8.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n., holotype male, 2.5 mm, RUMF-ZC-1747; paratype female, 2.5 mm, RUMF-ZC-1748; paratype male, 1.9 mm, RUMF-ZC-1749.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese word ‘hashi’, meaning ‘chopsticks’ and referring to the extremely slender carpus and propodus of gnathopod 1. (Pronounced hah-shee.)</p>
+                    <p><bold>Ecology.</bold> In canals of sponges, <italic><tp:taxon-name>Callyspongia</tp:taxon-name></italic> sp., RUMF-ZP-2, KNWOkinawa42C (<xref ref-type="fig" rid="F24">Figure 24F</xref>), ?<italic><tp:taxon-name>Clathria  (Thalysias) reinwardti</tp:taxon-name></italic>, RUMF-ZP-4, 21Aug10 (<xref ref-type="fig" rid="F25">Figure 25F</xref>), <italic><tp:taxon-name>Tedania</tp:taxon-name></italic> sp. (<xref ref-type="fig" rid="F25">Figure 25E</xref>), <italic><tp:taxon-name>Haliclona</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B13">Grant 1836</xref>, RUMF-ZP-3, KNWOkinawa44A (<xref ref-type="fig" rid="F24">Figure 24G</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe cheiriserra</tp:taxon-name></italic> Serejo, 1998, <italic><tp:taxon-name>Leucothoe gavialis</tp:taxon-name></italic> Myers, 1985, <italic><tp:taxon-name>Leucothoe hipposideros</tp:taxon-name></italic> White &amp; Thomas, 2009, <italic><tp:taxon-name>Leucothoe squalidens</tp:taxon-name></italic> Ledoyer, 1984, and <italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic> sp. n. in having triangular teeth on the palm of gnathopod 1 propodus. It also shares a rounded anterodistal head margin and distally truncate gnathopod 2 carpus with <italic><tp:taxon-name>Leucothoe hipposideros</tp:taxon-name></italic> and <italic><tp:taxon-name>Leucothoe squalidens</tp:taxon-name></italic>, but differs in having narrow pereopod 5–7 bases, a 1–articulate maxilla 1 palp, tuberculate maxilliped inner plate, and a 1–articulate accessory flagellum on antenna 1.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n. is translucent pink in color, darkest along pereonite edges (<xref ref-type="fig" rid="F24">Figure 24A</xref>). This species has been collected from only 5 islands throughout the Ryukyu Archipelago. There appears to be some minor variation among specimens in the following characters: gnathopod 1 carpus dentition, propodus palm serration; gnathopod 2 shape and setal patterns.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Iriomote–jima Island, Okinawa–jima Island (both Okinawa), Tokunoshima Island, Amami–oshima Island, Yakushima Island (all Kagoshima), Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">lecroyae</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:5089CA73-CBB4-4A13-A3A2-9F1CE93749FB</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_lecroyae</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F9">Figures 9</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 3.5 mm RUMF-ZC-1763, Kuse, Kakeroma–jima Island reef wall (<named-content content-type="dwc:verbatimCoordinates">28°06'05"N, 129°21'12"E</named-content>), in canals of brown sponge, <italic><tp:taxon-name>Rhabdastrella</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B34">Thiele 1903</xref>, 10 m, K.N. White, col., 19 March 2011 (KNWAmami2C). Paratype female, 3.3 mm RUMF-ZC-1764, same station data as holotype.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Kuse, Kakeroma–jima Island, Amami–oshima Island region, Kagoshima, Japan (<named-content content-type="dwc:verbatimCoordinates">28°06'05"N, 129°21'12"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>7 specimens, NSMT-Cr 21894, KNWYaku3D; 7 specimens, RUMF-ZC-1765, KNWYaku3D; 1 specimen, RUMF-ZC-1766, KNWYaku5P; 3 specimens, NSMT-Cr 21895 KNWOkinawa44A; 1 specimen, RUMF-ZC-1767, KNWOkinawa44F; 5 specimens, NSMT-Cr 21893, KNWAmami2D; 1 male specimen, RUMF-ZC-1799, KNWAmami2C.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Ventral cephalic keel anterior margin transverse, anteroventral margin quadrate. Eyes oval. Antennae 1 accessory flagellum 1–articulate. Right <!--PageBreak-->mandible with small 2–layered lacinia mobilis. Maxilliped inner plates small with serrate robust setae; outer plate tuberculate. Gnathopod 1 coxa anterior margin serrate; carpus robust, proximal margin serrate; propodus palm serrate with triangular teeth.<!--PageBreak--> Gnathopod 2 carpus distally truncate; propodus with 2 mediofacial setal rows. Pereopods 5–7 coxae with facial setae; bases posteriorly serrate. Female ventral cephalic keel anteroventral margin serrate; gnathopod 1 basis posterior margin with 6 short setae; gnathopod 2 carpus distally tapered.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin rounded, anterodistal margin evenly rounded; ventral cephalic keel anterior margin transverse, anteroventral margin quadrate, ventral margin oblique; eyes with more than 10 ommatidia, oval. Antenna 1 0.4 × body length, flagellum 10+–articulate (broken), peduncle article 1 width less than 2 × article 2, accessory flagellum 1–articulate. Antenna 2 0.3 × body length, slightly shorter than antenna 1, flagellum 6–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.8: 1.0, article 2 with 2 medium distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible with 8 raker spines, lacinia mobilis large, strongly toothed; right mandible with 7 raker spines, with small 2–layered lacinia mobilis, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, setose; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate, margins constricted and with 4 distal setae; outer plate with 7 distal robust setae and 6 short marginal setae. Maxilla 2 inner plate with 4 robust distal setae, 2 robust facial setae, and 7 slender marginal setae; outer plate with 3 robust distal setae and 3 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short simple and serrate robust setae; outer plate inner margin tuberculate, reaching 0.3 × palp article 1, with simple marginal setae, facial setae absent; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.5: 1.2: 1.8. Gnathopod 1 coxa smooth, with tiny marginal setae, anterior margin serrate, anterior margin produced, rounded, distal margin straight, posterior margin excavate, facial setae absent; basis linear, anterior margin with 1 short seta, posterior margin with 2 short setae; ischium bare; carpus linear, distal length 7.1 × width, proximal margin serrate, distal margin bare; propodus straight, palm serrate with 10 distal setae and 10 distal triangular teeth; dactylus smooth, reaching 0.1 × propodus length. Gnathopod 2 coxa broader than long, subequal in size with coxa 3, smooth, with tiny marginal setae, anterior margin expanded, anterodistally rounded, distal and posterior margins straight, facial setae absent; basis distally expanded, anterior margin with 10 medium setae, posterior margin with 2 short setae; ischium with 1 posterodistal seta; carpus 0.4 × propodus length, curved, distally truncate, anterior margin dentate; propodus with 2 mediofacial setal rows, primary mediofacial setal row above midline, reaching 0.8 × propodus length, secondary mediofacial setal row with 4 setae, with 1 row of submarginal setae, posterior margin with 5 small robust setae, palm convex with 10 tubercles; dactylus curved, proximal margin smooth with 1 seta, anterior margin distally subacute, reaching 0.5 × propodus length. Pereopod 3 coxa length 1.3 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin straight, distal margin oblique, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin produced, distal margin evenly rounded, posterior margin tapered, facial setae absent. Pereopods 5–7 coxae facial setae present; bases width length ratios 1: 1.4, 1: 1.3, 1: 1.2, serrate, setose.</p>
+                    <!--PageBreak-->
+                    <!--PageBreak-->
+                    <p>Pleon. Epimera 1–2 with ventral setae, epimeron 3 bare; epimeron 3 posteroventral corner sinuous, rounded. Uropods 1–3 relative lengths 1.0: 0.8: 0.9. Uropod 1 peduncle subequal in length with inner ramus, outer ramus 0.9 × inner ramus length; inner ramus with 6 robust setae and outer ramus with 4 robust setae. Uropod 2 peduncle 0.9 × inner ramus length, outer ramus length 0.6 × inner ramus length; inner ramus with 4 robust setae and outer ramus with 3 robust setae. Uropod 3 peduncle 1.2 × inner ramus length, outer ramus length 0.9 × inner ramus length; inner ramus with 3 robust setae and outer ramus with 5 robust setae. Telson 2.3 × longer than wide, apex strongly tridentate.</p>
+                		<p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Ventral cephalic keel anteroventral margin serrate. Gnathopod 1 basis posterior margin with 6 short setae. Gnathopod 2 basis posterior margin with 1 seta; ischium with 2 distal and 2 posterodistal setae; carpus distally tapered, anterior margin smooth; propodus posterior margin bare.</p>
+                    <fig id="F9" position="float" orientation="portrait">
+                        <label>Figure 9.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic> sp. n., holotype male, 3.5 mm, RUMF-ZC-1763; paratype female, 3.3 mm, RUMF-ZC-1764.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F10" position="float" orientation="portrait">
+                        <label>Figure 10.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic> sp. n., holotype male, 3.5 mm, RUMF-ZC-1763; paratype female, 3.3 mm, RUMF-ZC-1764.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>Named for Sara E. LeCroy, in recognition of her contribution to amphipod taxonomy. Ms LeCroy has been a colleague and friend for the past 7 years and the first author is very grateful for all her support.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of sponges, brown sponge with holes on top only, <italic><tp:taxon-name>Rhadastrella</tp:taxon-name></italic> sp., RUMF-ZP-1, KNWOkinawa16A (<xref ref-type="fig" rid="F24">Figure 24H</xref>), dark red chimney sponge, Axinellidaeof <xref ref-type="bibr" rid="B7">Carter 1875</xref>, RUMF-ZP-12, KNWYaku3F (<xref ref-type="fig" rid="F24">Figure 24D</xref>), orange lumpy sponge, <tp:taxon-name>Axinellidae</tp:taxon-name> (<xref ref-type="fig" rid="F24">Figure 24J</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe cheiriserra</tp:taxon-name></italic> Serejo, 1998, <italic><tp:taxon-name>Leucothoe gavialis</tp:taxon-name></italic> Myers, 1985, <italic><tp:taxon-name>Leucothoe hipposideros</tp:taxon-name></italic> White &amp; Thomas, 2009, <italic><tp:taxon-name>Leucothoe squalidens</tp:taxon-name></italic> Ledoyer, 1984, and <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n. in having triangular teeth on the palm of gnathopod 1 propodus. It also shares a short dactylus on gnathopod 1, rounded head margin, and distally truncate gnathopod 2 carpus with <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n., but differs in having a more robust gnathopod 1 propodus and carpus, maxilla 1 palp 1–articulate, margins constricted, 2–layered lacinia mobilis on the right mandible, and wide pereopod 5–7 bases.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic> sp. n. is faint yellow in color (<xref ref-type="fig" rid="F23">Figure 23C</xref>). This species has been collected on Yakushima Island and Amami–oshima Island region (both Kagoshima) and from the northwestern and eastern coasts of Okinawa–jima Island, Okinawa, Japan.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island (Okinawa), Amami–oshima Island, Yakushima Island (both Kagoshima), Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">nagatekubi</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:5416F771-FBE3-4D5F-A7A2-2D25A582ADA0</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_nagatekubi</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F11">Figures 11</xref>
+                    <xref ref-type="fig" rid="F12">12</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 3.0 mm RUMF-ZC-1768, Mizugama, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°21'35"N, 127°44'22"E</named-content>), in canals of orange encrusting<!--PageBreak--> sponge, <italic><tp:taxon-name>Clathria</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B30">Schmidt 1862</xref>, 10 m, N.S. White, col., 26 February 2011 (KNWOkinawa34K). Paratype female, 3.4 mm RUMF-ZC-1769, Mizugama, Okinawa reef wall (<named-content content-type="dwc:verbatimCoordinates">26°21'35"N, 127°44'22"E</named-content>), in canals of orange encrusting sponge, <italic><tp:taxon-name>Clathria</tp:taxon-name></italic>, 7 m, N.S. White, col., 20 October 2011 (KNWOkinawa69D)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Mizugama, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°21'35"N, 127°44'22"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>9 specimens, NSMT-Cr 21896, KNWOkinawa69B; 9 specimens, RUMF-ZC-1770, KNWOkinawa69C.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Head anterior margin truncate, anterodistal margin quadrate with cusp. Maxilla 1 palp 1–articulate. Maxilliped outer plate tuberculate with facial setae. Gnathopod 1 basis anterodistal margin with 7 very short, slender setae. Gnathopod 2 carpus elongate, distally tapered; propodus palm with large concavity. Pereopod 7 basis posteriorly serrate. Telson with plumose facial setae.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin truncate, anterodistal margin quadrate with cusp; ventral cephalic keel anterior margin transverse, anteroventral margin quadrate, ventral margin distally excavate, rounded; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, flagellum 7–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum 1–articulate. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 4–articulate. Mandibular palp ratio of articles 1–3 1.0: 3.0: 1.7, article 2 with 2 medium distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible with 5 raker spines, lacinia mobilis large, strongly toothed; right mandible with 7 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate with 4 distal setae; outer plate with 5 distal robust setae. Maxilla 2 inner plate with 3 robust distal setae and 7 slender marginal setae; outer plate with 3 robust distal setae and 15 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin tuberculate, reaching 0.1 × palp article 1, with simple marginal setae, facial setae present; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.8: 1.1: 2.1. Gnathopod 1 coxa smooth, with tiny marginal setae, anterodistal margin produced, rounded with cusp, distal margin straight, posterior margin excavate, facial setae absent; basis linear, anterodistal margin with 7 very short, slender setae, posterior margin bare; ischium bare; carpus linear, distal length 13.1 × width, proximal margin serrate, distal margin with 1 short seta; propodus straight, palm with 6 distal triangular teeth and 6 distal setae; dactylus smooth, reaching 0.1 × propodus length. Gnathopod 2 coxa broader than long, subequal in size with coxa 3, smooth, with tiny marginal setae, anterior margin expanded anteriorly, anterodistally rounded, distal margin oblique, posterior margin straight, facial setae absent; basis distally expanded, anterior margin with 5 medium setae, distal margin with 2 setae, posterior margin with 3 setae; ischium with 3 posterior, 2 distal, and 3 posterodistal setae; carpus 0.5 × propodus length, curved, distally tapered, anterior margin smooth; propodus with 1 mediofacial setal row above midline, reaching 0.8 × propodus length, with 2 submarginal setae, posterior margin smooth, palm convex with 6 major tubercles and 1 major concavity; dactylus curved, proximal margin smooth with 1 seta, anterior margin distally acute, reaching 0.5 × propodus length. Pereopod 3 coxa length<!--PageBreak--><!--PageBreak--> 1.5 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin evenly rounded, distal margin oblique, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin produced, distal margin evenly rounded, posterior margin tapered, facial setae absent. Pereopods 5–7 coxae facial setae absent; bases width length ratios 1: 1.3, 1: 1.3, 1: 1.2, posterior margins setose. Pereopods 5–6 bases posterior margins smooth, pereopod 7 basis posterior margin serrate.</p>
+                    <p>Pleon. Epimera 1 and 3 bare, epimeron 2 with ventral setae; epimeron 3 posteroventral corner rounded. Uropods 1–3 relative lengths 1.0: 0.7: 0.9. Uropod 1 peduncle and outer ramus subequal in length with inner ramus; inner ramus with 5 robust setae and outer ramus with 2 robust setae. Uropod 2 peduncle 0.9 × inner ramus length, outer ramus 0.7 × inner ramus length; inner ramus with 1 robust seta and outer ramus with 2 robust setae. Uropod 3 peduncle 1.6 × inner ramus length, outer ramus 0.9 × inner ramus length; inner ramus with 1 robust seta and outer ramus with 2 robust setae. Telson 2.3 × longer than wide, with plumose facial setae, apex strongly tridentate.</p>
+               		  <p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Unknown.</p>
+                    <fig id="F11" position="float" orientation="portrait">
+                        <label>Figure 11.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n., holotype male, 3.0 mm, RUMF-ZC-1768.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g011.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F12" position="float" orientation="portrait">
+                        <label>Figure 12.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n., holotype male, 3.0 mm, RUMF-ZC-1768; paratype female, 3.4 mm, RUMF-ZC-1769.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g012.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese words ‘nagai’, meaning ‘long’, and ‘tekubi’, meaning ‘wrist’ and referring to the elongate carpus on gnathopod 2. (Pronounced na-ga-tay-koo-bee)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of orange encrusting sponge, <italic><tp:taxon-name>Clathria</tp:taxon-name></italic> sp., RUMF-ZP-5, KNWOkianawa69G (<xref ref-type="fig" rid="F25">Figure 25D</xref>), found in caves.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe serrata</tp:taxon-name></italic> White &amp; Thomas, 2009 in having an elongate gnathopod 2 carpus, narrow gnathopod 1 propodus and carpus, high mediofacial setal row on gnathopod 2 propodus, and wide pereopod 5–7 bases. It differs in the large indentation on the gnathopod 2 propodus palm, having a 1–articulate accessory flagellum on antenna 1, triangular teeth on gnathopod 1 propodus palm, and a 1–articulate maxilla 1 palp.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n. is pinkish-orange in color (<xref ref-type="fig" rid="F24">Figure 24C</xref>). This species is endemic to the western coast of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island, Okinawa, Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">nurunuru</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:02C845F0-D0F4-4E56-AED4-0970D1310F53</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_nurunuru</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F13">Figures 13</xref>
+                    <xref ref-type="fig" rid="F14">14</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 5.8 mm RUMF-ZC-1771, Channel between Iriomote–jima Island and Hatoma–jima Island, Okinawa, patch reef (<named-content content-type="dwc:verbatimCoordinates">24°26'34"N, 123°49'18"E</named-content>), in canals of slimy black-purple sponge, <tp:taxon-name>Iotrochotidae</tp:taxon-name> of <xref ref-type="bibr" rid="B11">Dendy 1922</xref> (probably <italic><tp:taxon-name>Iotrochota</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B28">Ridley 1884</xref>), 10 m, K.N. White and N.S. White, col., 22 April 2011 (KNWIriomote2F). Paratype female, 6.5 mm RUMF-ZC-1772, same station data as holotype.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Iriomote Channel between Iriomote–jima and Hatoma–jima Islands (<named-content content-type="dwc:verbatimCoordinates">24°26'34"N, 123°49'18"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>4 specimens, RUMF-ZC-1773, KNWIriomote2F; 4 specimens, NSMT-Cr 21897, KNWIriomote2F.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Antenna 1 accessory flagellum 1–articulate. Maxilla 1 palp 1–articulate, margins constricted. Maxilliped outer plate with setulate-serrate marginal setae. Gnathopod 1 coxa with 2 mediofacial setae; propodus palm with square-shaped denticles. Gnathopod 2 carpus distally truncate; propodus with long submarginal setae. Pereopod 5 coxa with 2 facial setae. Telson apex with strongly rounded point. Female gnathopod 1 basis anterior margin with 16 short setae, posterior margin with 14 short setae; gnathopod 2 basis anterior margin with 14 short and 2 long curved setae.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head, anterior margin rounded, anterodistal margin evenly rounded; ventral cephalic keel anterior margin excavate, anteroventral margin subquadrate, ventral margin oblique; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, flagellum 11–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum 1–articulate. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 7–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.6: 1.1, article 2 with 6–8 long distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible with 12 raker spines, lacinia mobilis large, strongly toothed; right mandible with 13 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, setose; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate, margins constricted and with 3 distal setae; outer plate with 7 distal robust setae. Maxilla 2 inner plate with 6 robust distal setae and several slender facial setae; outer plate with 4 robust distal setae and 5 slender distal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin smooth, reaching 0.2 × palp article 1, with simple and setulate-serrate marginal setae, facial setae absent; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.0: 0.8: 1.4. Gnathopod 1 coxa smooth, with tiny marginal setae, anterodistal margin produced, subquadrate, distal margin straight, posterior margin excavate, 2 mediofacial setae present; basis proximally widened, anterior margin with 7 short setae, posterior margin with 6 short setae; ischium bare; carpus linear, distal length 13.1 × width, proximal margin smooth, distal margin bare; propodus straight, palm with square-shaped denticles with 6 large and 20 small proximal setae; dactylus smooth, with 2 distal setae, reaching 0.5 × propodus length. Gnathopod 2 coxa as long as broad, subequal in size with coxa 3, smooth, with tiny marginal setae, anterior margin expanded anteriorly, anterodistally rounded, distal and posterior margins rounded, facial setae absent; basis slightly posteriorly expanded, anterior margin with 7 short and 2 long curved setae, posterior margin with 1 posterodistal seta, distal margin with 2 setae; ischium with 3 short posterior, 2 long distal, and 5 short posterodistal setae; carpus 0.4 × propodus length, curved, distally truncate, anterior margin smooth; propodus with 1 mediofacial setal row displaced to midline, reaching 0.8 × propodus length, with 1 row of short and long submarginal setae, posterior margin smooth, palmar corner pronounced, palm convex with small tubercles; dactylus curved, proximal margin smooth with 2 setae, anterior margin distally acute, reaching 0.6 × propodus length. Pereopod 3 coxa length 1.4 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with <!--PageBreak-->tiny marginal setae, anterior margin expanded, distal margin slightly convex, posterior margin tapered, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin produced, distal margin evenly rounded, posterior margin excavate,<!--PageBreak--> facial setae absent. Pereopod 5 coxa with 2 facial setae. Pereopods 6–7 coxae facial setae absent. Pereopods 5–7 bases width length ratios 1: 1.2, 1: 1.2, 1: 1.0, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1–2 with ventral setae, epimeron 3 bare; epimeron 3 posteroventral corner subquadrate. Uropods 1–3 relative lengths 1.0: 0.7: 1.0. Uropod 1 peduncle 0.8 × inner ramus length, outer ramus 0.9 × inner ramus length; inner ramus with 4 robust setae and outer ramus with 6 robust setae. Uropod 2 peduncle subequal in length with inner ramus, outer ramus 0.8 × inner ramus length; inner ramus with 5 robust setae and outer ramus with 3 robust setae. Uropod 3 peduncle 1.2 × inner ramus length, outer ramus 0.8 × inner ramus length; inner and outer rami lined with short marginal setae; inner ramus with 4 robust setae and outer ramus with 5 robust setae. Telson 2.3 × longer than wide, apex with strongly rounded point.</p>
+                    <p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 1 basis anterior margin with 16 short setae, posterior margin with 14 short setae; ischium with 3 short posterior setae. Gnathopod 2 basis anterior margin with 14 short and 2 long curved setae; ischium with 3 distal and 6 posterodistal setae; carpus slightly less truncate than in the male.</p>
+                    <fig id="F13" position="float" orientation="portrait">
+                        <label>Figure 13.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n., holotype male, 5.8 mm, RUMF-ZC-1771.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g013.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F14" position="float" orientation="portrait">
+                        <label>Figure 14.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n., holotype male, 5.8 mm, RUMF-ZC-1771; paratype female, 6.5 mm, RUMF-ZC-1772.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g014.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese word ‘nurunuru’, meaning ‘slimy’ and referring to the host sponge. (Pronounced new-rue-new-rue)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of <tp:taxon-name>Iotrochotidae</tp:taxon-name> (probably <italic><tp:taxon-name>Iotrochota</tp:taxon-name></italic> sp.), RUMF-ZP-7, KNWIriomote2G (<xref ref-type="fig" rid="F25">Figure 25A</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n.is similar to <italic><tp:taxon-name>Leucothoe commensalis</tp:taxon-name></italic> (Haswell, 1879), <italic><tp:taxon-name>Leucothoe procera</tp:taxon-name></italic> (Bate, 1857), <italic><tp:taxon-name>Leucothoe makromattos</tp:taxon-name></italic> White &amp; Thomas, 2009, <italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n., and <italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n. in having a round anterior head margin and long gnathopod 1 dactylus. The pointed apex of the telson is similar to <italic><tp:taxon-name>Leucothoe commensalis</tp:taxon-name></italic> and <italic><tp:taxon-name>Leucothoe procera</tp:taxon-name></italic>, although the point is much stronger in <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n. <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n. differs from these two species in having maxilla 1 palp 1–articulate, margins constricted, wider pereopod 5–7 bases, and epimeron 3 posteroventral corner subquadrate. <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n. also shares wide pereopod 5–7 bases and a setose posterior margin of gnathopod 1 basis with <italic><tp:taxon-name>Leucothoe makromattos</tp:taxon-name></italic>, <italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n., and <italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n., but differs in having maxilla 1 palp 1–articulate, margins constricted and square-shaped denticles on gnathopod 1 propodus palm.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n. is deep orange in color (<xref ref-type="fig" rid="F23">Figure 23D</xref>). This species is endemic to Iriomote–jima Island.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Iriomote–jima Island, Okinawa, Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">ouraensis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:6A8C5B7D-3111-4AEE-AEFB-0F3A26FE01A4</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_ouraensis</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F15">Figures 15</xref>
+                    <xref ref-type="fig" rid="F16">16</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 3.3 mm RUMF-ZC-1774, Kita–nakase, Oura–wan Bay, Okinawa–jima Island, Okinawa, patch reef (<named-content content-type="dwc:verbatimCoordinates">26°32'40"N, 128°03'36"E</named-content>), among <!--PageBreak-->coral rubble, 30 m, K.N. White and N.S. White, col., 3 March 2011 (KNWOkinawa35F). Paratype female, 3.0 mm RUMF-ZC-1775, Tettou–mae–oki, Oura–wan Bay, Okinawa–jima Island, Okinawa, patch reef (<named-content content-type="dwc:verbatimCoordinates">26°32'43"N, 128°02'56"E</named-content>), among coral rubble, 28 m, K.N. White, col., 4 April 2011 (KNWOkinawa37G).</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Oura–wan Bay, Okinawa–jima Island, Okinawa, Japan (26°32'40–43"N, 128°02'56"–03'36"E).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>1 specimen, RUMF-ZC-1776, KNWOkinawa39H; 1 specimen, NSMT-Cr 21898, KNWOkinawa39L; 1 specimen, RUMF-ZC-1777, KNWOkinawa37C; 2 specimens, NSMT-Cr 21899, KNWOkinawa37N.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Head anterior margin truncate, anterodistal margin quadrate. Ventral cephalic keel anteroventral margin with anteriorly projecting cusp. Right mandible lacinia mobilis cleft. Upper lip distal margin with row of short setae. Maxilla 1 palp 1–articulate, proximal margin serrate. Maxilliped outer plate tuberculate. Gnathopod 1 basis posterior margin with 6 short setae; propodus palm serrate; dactylus reaching 0.1 × propodus length. Gnathopod 2 carpus distally truncate; propodus with 2 mediofacial setal rows. Uropod 3 peduncle 1.2 × inner ramus length. Telson apex bidentate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin truncate, anterodistal margin quadrate; ventral cephalic keel anterior margin oblique, anteroventral margin with anteriorly projecting cusp, ventral margin convex; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, flagellum 8–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum absent. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 5–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.4: 1.6, article 2 with 3 medium distal setae, article 3 with 2 distal setae, incisors weakly dentate; left mandible with 9 raker spines, lacinia mobilis large, strongly toothed; right mandible with 7 raker spines, lacinia mobilis small, strongly dentate, cleft. Upper lip asymmetrically lobate, anterior margin setose, distal margin with row of short setae. Lower lip inner lobes fused, setose; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate with 4 distal setae, proximal margin serrate; outer plate with 4 distal robust setae and 4 distal setae. Maxilla 2 inner plate with 3 robust distal setae and 4 slender marginal setae; outer plate with 2 robust and 2 slender distal setae and 6 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin tuberculate, reaching 0.1 × palp article 1, with simple marginal setae, facial setae present; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.2: 0.9: 1.7. Gnathopod 1 coxa smooth, with tiny marginal setae, anterior margin produced, rounded, distal margin straight, posterior margin excavate, facial setae absent; basis distally expanded, anterior margin bare, posterior margin with 6 short setae; ischium bare; carpus linear, distal length 13.6 × width, proximal margin smooth, distal margin bare; propodus straight, palm serrate with 9 distal setae; dactylus smooth, reaching 0.1 × propodus length. Gnathopod 2 coxa as long as broad, subequal in size with coxa 3, smooth, with tiny marginal setae, anterior margin straight, anterodistally rounded, distal margin evenly rounded, posterior margin straight, facial setae absent; basis distally expanded, anterior margin with 9 setae, posterior margin with 4 setae; ischium with 1 posterodistal seta; carpus 0.4 × propodus length, curved, distally truncate, anterior margin dentate; propodus with 2 mediofacial setal rows, primary mediofacial setal row above midline, reaching 0.8 × propodus length, secondary mediofacial setal row with 2 setae, with 1 row of submarginal<!--PageBreak--> setae, posterior margin smooth, palm convex, dentate; dactylus curved, proximal margin smooth with 1 seta, anterior margin distally acute, reaching 0.6 × propodus length. Pereopod 3 coxa length 1.4 × width, anterodistal corner overriding distal face<!--PageBreak--> of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin straight, distal margin slightly convex, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin produced, distal margin evenly rounded, posterior margin tapered, facial setae absent. Pereopods 5–7 coxae facial setae absent. Pereopods 5–7 bases width length ratios 1: 1.4, 1: 1.2, 1: 1.1; posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1–2 with ventral setae, epimeron 3 bare; epimeron 3 posteroventral corner rounded. Uropods 1–3 relative lengths 1.0: 0.8: 1.1; outer rami lined with short marginal setae. Uropod 1 peduncle and outer ramus subequal in length with inner ramus; inner ramus with 2 robust setae; outer ramus without robust setae. Uropod 2 peduncle length 0.8 × inner ramus, outer ramus length 0.6 × inner ramus; inner ramus with 4 robust setae; outer ramus with 3 robust setae. Uropod 3 peduncle length 1.2 × inner ramus, outer ramus subequal in length with inner ramus; inner and outer rami lined with short marginal setae, each with 4 robust setae. Telson 2.7 × longer than wide, apex bidentate.</p>
+                		<p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 2 ischium with posterior and posterodistal setae; carpus distally tapered, anterior margin smooth; propodus secondary mediofacial setal row with 4 setae.</p>
+                    <fig id="F15" position="float" orientation="portrait">
+                        <label>Figure 15.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n., holotype male, 3.3 mm, RUMF-ZC-1774.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g015.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F16" position="float" orientation="portrait">
+                        <label>Figure 16.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n., holotype male, 3.3 mm, RUMF-ZC-1774; paratype female, 3.0 mm, RUMF-ZC-1775.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g016.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese place name ‘Oura’, meaning ‘large inlet’ and referring to the type locality. (Pronounced oh-ooh-ra)</p>
+                    <p><bold>Ecology.</bold> In canals of brown-red chimney sponge, <italic><tp:taxon-name>Mycale</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B14">Gray 1867</xref>, RUMF-ZP-8, KNWOkinawa37K (<xref ref-type="fig" rid="F25">Figure 25B</xref>), brown-red holey sponge, <italic><tp:taxon-name>Mycale  (Zygomycale) parishii</tp:taxon-name></italic> (Bowerbank, 1875), RUMF-ZP-9, KNWOkinawa37N (<xref ref-type="fig" rid="F25">Figure 25G</xref>), brown bivalve encrusting sponge, ?<italic><tp:taxon-name>Mycale</tp:taxon-name></italic> of Gray, 1867, RUMF-ZP-10, KNWOkinawa37M (<xref ref-type="fig" rid="F25">Figure 25H</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe ctenochasma</tp:taxon-name></italic> Moore, 1987 in having gnathopod 1 dactylus reaching less than 0.1 × propodus length and a bidentate apex on the telson. This species differs from <italic><tp:taxon-name>Leucothoe ctenochasma</tp:taxon-name></italic> in having a truncate anterior head margin, quadrate anterodistal head margin, 1–articulate maxilla 1 palp, setose posterior margin on gnathopod 1 basis, and pereopods 5–7 bases broadly expanded and posteriorly smooth.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n. is yellow-orange in color (<xref ref-type="fig" rid="F23">Figure 23E</xref>). This species is endemic to the eastern coast of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island, Okinawa, Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">togatta</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:8846964A-A117-496F-B735-2B6039964F76</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_togatta</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F17">Figures 17</xref>
+                    <xref ref-type="fig" rid="F18">18</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 4.2 mm RUMF-ZC-1778, Yoshida, Yakushima Island, Kagoshima, patch reef (<named-content content-type="dwc:verbatimCoordinates">30°23'58"N, 130°25'53"E</named-content>), among coral rubble, 3–7 m, K.N. <!--PageBreak-->White and N.S. White, col., 26 May 2011 (KNWYaku2E). Paratype female, 5.4 mm RUMF-ZC-1779, same station data as holotype.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Yoshida, Yakushima Island, Kagoshima, Japan (<named-content content-type="dwc:verbatimCoordinates">30°23'58"N, 130°25'53"E</named-content>).</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>2 specimens, RUMF-ZC-1780, KNWYaku5M; 1 specimen, NSMT-Cr 21900, KNWOkinawa35A; 1 specimen, RUMF-ZC-1781, KNWOkinawa36E; 1 specimen, RUMF-ZC-1782, KNWYaku1F; 1 specimen, NSMT-Cr 21901, KNWOkinawa51D; 1 specimen, RUMF-ZC-1783, KNWYaku1G; 1 specimen, KNWOkinawa55E.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Ventral cephalic keel anteroventral margin quadrate with large projection. Antenna 1 accessory flagellum 1–articulate. Mandibular palp article 2 with 11 long distal setae; article 2 with facial setae and 1 distal seta. Gnathopod 2 basis anterior margin with 7 long curved setae; carpus with setulate-serrate marginal setae; propodus with 3 mediofacial setal rows. Pereopod 7 basis posterior margin serrate. Female gnathopod 1 carpus elongate; gnathopod 2 basis anterior margin with 22 long curved setae, distal margin with 4 long curved setae; ischium with 3 long and 2 short distal setae, carpus distally truncate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin rounded, anterodistal margin evenly rounded; ventral cephalic keel anterior margin excavate, anteroventral margin quadrate with projection, ventral margin convex; eyes with more than 10 ommatidia, round. Antenna 1 0.3 × body length, flagellum 10–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum 1–articulate. Antenna 2 0.3 × body length, subequal in length with antenna 1, flagellum 8–articulate. Mandibular palp ratio of articles 1–3 1.0: 3.4: 2.0, article 2 with 11 long distal setae, article 3 with facial setae and 1 distal seta, incisors strongly dentate; left mandible with 10 raker spines, lacinia mobilis large, strongly toothed; right mandible with 11 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 2–articulate with 4 distal setae; outer plate with 9 distal robust setae. Maxilla 2 inner plate with 5 robust distal setae, 1 robust facial seta, and several slender facial setae; outer plate with 3 robust distal setae and 13 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin smooth, reaching 0.1 × palp article 1, with simple marginal setae, facial setae absent; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.2: 0.9: 1.6. Gnathopod 1 coxa smooth, bare, anterodistal margin produced, subquadrate, distal margin straight, posterior margin excavate, facial setae absent; basis distally expanded, anterior margin with 5 medium setae, posterior margin bare; ischium bare; carpus linear, distal length 11.2 × width, proximal margin smooth, distal margin with 2 short setae; propodus straight, palm dentate with 7 robust and 12 distal setae; dactylus smooth, reaching 0.4 × propodus length. Gnathopod 2 coxa broader than long, subequal in size with coxae 3, smooth, bare, anterior margin straight, anterodistally rounded, distal and posterior margins straight, facial setae absent; basis slightly posteriorly expanded, anterior margin with 7 long curved setae, distal margin with 2 long setae, posterior margin bare; ischium with 2 distal setae; carpus 0.3 × propodus length, curved, distally tapered, anterior margin smooth, with setulate-serrate marginal setae; propodus <!--PageBreak-->with 1 mediofacial setal row above midline, reaching 0.8 × propodus length, with 3 rows of submarginal setae, posterior margin smooth, palm convex with 2 large and several small tubercles; dactylus curved, proximal margin smooth with 2 setae, anterior<!--PageBreak--> margin distally acute, reaching 0.6 × propodus length. Pereopod 3 coxa length 1.3 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, bare, anterior margin straight, distal margin oblique, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, bare, anterior margin produced, distal margin evenly rounded, posterior margin excavate, facial setae absent. Pereopods 5–7 coxae facial setae absent, bases width length ratios 1: 1.3, 1: 1.2, 1: 1.2, posterior margins bare; pereopods 5–6 bases posterior margins smooth, pereopod 7 basis posterior margin serrate.</p>
+                    <p>Pleon. Epimera 1–2 with ventral setae, epimeron 3 bare; epimeron 3 posteroventral corner subquadrate. Uropods 1–2 relative lengths 1.0: 0.9. Uropod 1 peduncle 0.7 × inner ramus length, outer ramus 0.8 × inner ramus length; inner ramus with 4 robust setae on each margin; outer ramus with 4 robust setae. Uropod 2 peduncle 0.8 × inner ramus length, outer ramus 0.7 × inner ramus length; inner ramus with 4 robust setae; outer ramus with 3 robust setae. Uropod 3 missing. Telson 2.3 × longer than wide, with 2 simple facial setae, apex weakly tridentate.</p>
+                		<p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 1 carpus length 10.8 × width; basis anterior margin with 8 long setae. Gnathopod 2 basis distally expanded, anterior margin with 22 long curved setae, distal margin with 4 long curved setae; ischium with 3 long and 2 short distal setae; carpus distally truncate, anterior margin dentate; propodus palm with 1 row of submarginal setae.</p>
+                    <fig id="F17" position="float" orientation="portrait">
+                        <label>Figure 17.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n., holotype male, 4.2 mm, RUMF-ZC-1778.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g017.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F18" position="float" orientation="portrait">
+                        <label>Figure 18.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n., holotype male, 4.2 mm, RUMF-ZC-1778; paratype female, 5.4 mm, RUMF-ZC-1779.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g018.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese word ‘togatta’, meaning ‘sharp’ and referring to the sharply pointed projection on the ventral cephalic keel. (Pronounced toe-ga-ta)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of hard brown sponge, yellow inside with groups of small holes on top, ?<italic><tp:taxon-name>Jaspis</tp:taxon-name></italic> of Gray, 1867 (<xref ref-type="fig" rid="F25">Figure 25C</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe ashleyae</tp:taxon-name></italic> Thomas &amp; Klebba, 2006 and <italic><tp:taxon-name>Leucothoe saron</tp:taxon-name></italic> Thomas &amp; Klebba, 2007 in having a rounded head margin, a 2–articulate maxilla 1 palp, high mediofacial setal row on gnathopod 2 propodus, wide pereopod 5–7 bases, and a tridentate telson. It also shares long curved setae on the distal margin of gnathopod 2 basis with <italic><tp:taxon-name>Leucothoe saron</tp:taxon-name></italic>. It differs from these species in having a ventral cephalic keel that is anteriorly excavate and anteroventrally quadrate with a projection. <italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n. shares these keel characteristics with <italic><tp:taxon-name>Leucothoe amamiensis</tp:taxon-name></italic> White &amp; Reimer, 2012a and <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n., but differs from <italic><tp:taxon-name>Leucothoe amamiensis</tp:taxon-name></italic> in the distally truncate gnathopod 2 carpus, from <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> in the robustness of gnathopod 1 propodus and length of gnathopod 1 dactylus, and from both species in the long curved setae on gnathopod 2 basis and robust row of submarginal setae on the gnathopod 2 propodus.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n. is white in color (<xref ref-type="fig" rid="F23">Figure 23G</xref>). This species has been collected only on Yakushima Island and from both western and eastern coasts of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island (Okinawa), Yakushima Island (Kagoshima), Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">toribe</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:430610B7-66FE-49E0-A683-C0CDD538E2D5</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_toribe</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F19">Figures 19</xref>
+                    <xref ref-type="fig" rid="F20">20</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 3.3 mm RUMF-ZC-1784, Manza, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°30'15"N, 127°50'39"E</named-content>), among coral rubble, 10–23 m, K.N. White and N.S. White, col., 8 February 2011 (KNWOkinawa29K). Paratype female, 3.8 mm RUMF-ZC-1785, same station data as holotype.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Manza, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°30'15"N, 127°50'39"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>4 specimens, RUMF-ZC-1786, KNWOkinawa22C; 5 specimens, NSMT-Cr 21902, KNWOkinawa23D; 2 specimens, RUMF-ZC-1787, KNWOkinawa23E; 1 specimen, NSMT-Cr 21903, KNWOkinawa25E; 4 specimens, RUMF-ZC-1788, KNWOkinawa27D; 6 specimens, NSMT-Cr 21904, KNWOkinawa29K; 6 specimens, RUMF-ZC-1789, KNWOkinawa30E; 1 specimen, RUMF-ZC-1790, KNWOkinawa33G; 12 specimens, NSMT-Cr 21905, KNWOkinawa39J.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Head anterodistal margin concave. Mandibular palp article 3 shorter than article 1; left mandible with 5 robust marginal setae. Maxilla 1 palp 1–articulate. Maxilliped inner plates with facial setae. Gnathopod 1 basis distally expanded, posterior margin with 5 short proximal setae; carpus robust; propodus curved, palm smooth with 22 short distal setae; dactylus reaching 0.2 × propodus length. Gnathopod 2 carpus distally truncate, spoon-like, with setulate-serrate setae; propodus with 3 mediofacial setal rows; dactylus elongate. Pereopods 5–6 coxae with facial setae; epimeron 3 posteroventral corner sinuous.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin transverse, anterodistal margin concave; ventral cephalic keel anterior margin transverse, anteroventral margin rounded, ventral margin excavate; eyes with more than 10 ommatidia, round. Antenna 1 0.4 × body length, flagellum 10–articulate, peduncle article 1 width less than 2 × article 2, accessory flagellum 1–articulate. Antenna 2 0.3 × body length, slightly shorter than antenna 1, flagellum 6–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.6: 0.8, article 2 with 2 medium distal setae, article 3 with 1 distal seta, incisors weakly dentate; left mandible with 1 row of 5 and 1 row of 4 raker spines, with 5 robust marginal setae, lacinia mobilis large, strongly toothed; right mandible with 9 raker spines, lacinia mobilis small, weakly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with moderate gape, anterior margins setose. Maxilla 1 palp 1–articulate with 4 distal setae; outer plate with 6 distal robust setae and 6 distal setae. Maxilla 2 inner plate with 3 robust distal and 3 robust marginal setae; outer plate with 4 robust distal setae and 4 sets of 2 slender distal marginal setae. Maxilliped inner plates distal margin with a v-shaped indentation, with short robust setae, facial setae present; outer plate inner margin smooth, reaching 0.3 × palp article 1, with simple marginal setae, facial setae absent; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <!--PageBreak-->
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.4: 1.1: 1.2. Gnathopod 1 coxa smooth, with tiny marginal setae, anterodistal margin produced, rounded, distal margin rounded, posterior margin excavate, facial setae absent; basis distally expanded, anterior margin with 1 short seta, anterodistal margin with several short slender setae, posterior margin with 5 setae; ischium bare; carpus linear, distal length 5.3 × width, proximal margin <!--PageBreak-->smooth, distal margin with 5 short setae; propodus curved, palm smooth with 22 distal setae; dactylus smooth, reaching 0.2 × propodus length. Gnathopod 2 coxa as long as broad, subequal in size with coxa 3, smooth, with tiny marginal setae, anterior margin straight, anterodistally subquadrate, distal and posterior margins straight, facial setae absent; basis distally expanded, anterior margin with 9 short setae, posterior margin with 1 short seta; ischium bare; carpus 0.2 × propodus length, curved, distally truncate, spoon-like, anterior margin smooth with setulate-serrate setae; propodus with 3 mediofacial setal rows, primary mediofacial setal row above midline, reaching 0.9 × propodus length, secondary mediofacial setal row with 9 setae, tertiary mediofacial setal row with 4 setae, posterior margin smooth, palmar corner pronounced, palm convex with 4 major tubercles; dactylus curved, proximal margin smooth with 2 setae, anterior margin distally subacute, reaching 0.7 × propodus length. Pereopod 3 coxa length 1.5 × width, anterodistal corner overriding distal face of coxa 2 and extending below it, smooth, with tiny marginal setae, anterior margin straight, distal margin slightly convex, posterior margin straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin straight, distal margin produced, posterior margin excavate, facial setae absent. Pereopods 5–6 coxae facial setae present. Pereopod 7 coxa facial setae absent. Pereopods 5–7 bases width length ratios 1: 1.3, 1: 1.2, 1: 1.1, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1–2 with ventral setae, epimeron 3 bare; epimeron 3 posteroventral corner sinuous, rounded. Uropods 1–3 relative lengths 1.0: 0.7: 1.0. Uropod 1 peduncle subequal in length with inner ramus, outer ramus 0.8 × inner ramus length; inner ramus with 3 robust setae; outer ramus with 4 robust setae. Uropod 2 peduncle and outer ramus 0,7 × inner ramus length; inner and outer rami each with 3 robust setae. Uropod 3 peduncle and outer ramus subequal in length with inner ramus; inner ramus with 3 robust setae; outer ramus with 2 robust setae. Telson 2.5 × longer than wide, apex weakly tridentate.</p>
+               		  <p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Gnathopod 2 basis linear, posterior margin bare; ischium with 5 posterodistal setae; carpus 0.4 × propodus length, distally tapered.</p>
+                    <fig id="F19" position="float" orientation="portrait">
+                        <label>Figure 19.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n., holotype male, 3.3 mm, RUMF-ZC-1784.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g019.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F20" position="float" orientation="portrait">
+                        <label>Figure 20.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n., holotype male, 3.3 mm, RUMF-ZC-1784; paratype female, 3.8 mm, RUMF-ZC-1785.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g020.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese word ‘toribe’, meaning ‘ladle’ and referring to the spoon-like carpus on gnathopod 2. (Pronounced toe-ree-bay)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of green hard branching sponge, ?<italic><tp:taxon-name>Clathria  (Thalysias) reinwardti</tp:taxon-name></italic>  (<xref ref-type="fig" rid="F25">Figure 25F</xref>); and among coral rubble.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe alata</tp:taxon-name></italic> (Barnard, 1959), <italic><tp:taxon-name>Leucothoe nagatai</tp:taxon-name></italic> Ishimaru, 1985, and <italic><tp:taxon-name>Leucothoe obuchii</tp:taxon-name></italic> White &amp; Reimer, 2012a in having gnathopod 1 carpus reaching 0.1–0.2 × propodus length, and a curved gnathopod 1 propodus, but differs in having a 1–articulate maxilla 1 palp, broad pereopod 5–7 bases, and a sinuous posteroventral margin on epimeron 3. <italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n. shares the spoon-like gnathopod 2 carpus with <italic><tp:taxon-name>Leucothoe alata</tp:taxon-name></italic> as well.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n. is faint pink in color, darkest along pereonite edges (<xref ref-type="fig" rid="F23">Figure 23H</xref>). This species has been collected only on Yakushima Island, Kagoshima and from both western and eastern coasts of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island (Okinawa), Yakushima Island (Kagoshima), Japan.</p>
+                    <!--PageBreak-->
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Leucothoe</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">zanpa</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:74A3D66E-F5F5-4110-A799-A69E9BAE1028</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Leucothoe_zanpa</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F21">Figures 21</xref>
+                    <xref ref-type="fig" rid="F22">22</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype male, 3.2 mm, RUMF-ZC-1791, Zanpa Cape, Okinawa–jima Island, Okinawa, reef wall (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>), in canals of large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name>, 30 m, Daisuke Ueno, col., 26 February 2011 (KNWOkinawa34A). Paratype female, 3.8 mm, RUMF-ZC-1792, same station data as holotype.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type locality"><title>Type locality.</title>
+                    <p>Cape Zanpa, Okinawa–jima Island, Okinawa, Japan (<named-content content-type="dwc:verbatimCoordinates">26°26'27"N, 127°43'03"E</named-content>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional material examined"><title>Additional material examined.</title>
+                    <p>12 specimens, RUMF-ZC-1793, KNWOkinawa34A; 13 specimens, NSMT-Cr 21906, KNWOkinawa34A; 3 specimens, RUMF-ZC-1794, KNWOkinawa34B; 2 specimens, NSMT-Cr 21907, KNWOkinawa34B.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis (male)"><title>Diagnosis (male).</title>
+                    <p>Eyes rectangular. Antenna 1 0.6 × body length, peduncle article 1 width greater than 2 × article 2. Gnathopod 1 coxa about ½ as wide as coxa 2; basis proximally inflated, elongate; carpus and propodus elongate. Gnathopod 2 basis posterior margin with 2 long setae; ischium with 5 long posterodistal setae; propodus with 1 row of robust submarginal setae. Pereopod 5 coxa with facial setae; pereopods 5–7 bases very narrowly expanded. Uropod 3 peduncle 1.5 × inner ramus length. Telson apex truncate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description (male).</title>
+                    <p>Head. Anterior margin excavate, anterodistal margin subquadrate; ventral cephalic keel anterior margin excavate, anteroventral margin rounded, ventral margin straight; eyes with more than 10 ommatidia, rectangular. Antenna 1 0.6 × body length, flagellum 6–articulate, peduncle article 1 width greater than 2 × article 2, accessory flagellum absent. Antenna 2 0.5 × body length, slightly shorter than antenna 1, flagellum 3–articulate. Mandibular palp ratio of articles 1–3 1.0: 2.0: 1.3, article 2 with 4–5 short distal setae, article 3 with 2 distal setae, incisors strongly dentate; left mandible with 8 raker spines, lacinia mobilis large, strongly toothed; right mandible with 12 raker spines, lacinia mobilis small, strongly dentate. Upper lip asymmetrically lobate, anterior margin setose. Lower lip inner lobes fused, bare; outer lobes with large gape, anterior margins setose. Maxilla 1 palp 2–articulate with 4 distal setae; outer plate with 4 distal robust setae and 7 distal setae. Maxilla 2 inner plate with 5 robust distal setae and 1 slender facial seta; outer plate with 4 robust distal setae, 7 distal and 5 proximal slender marginal setae. Maxilliped inner plates fused, distal margin with a v-shaped indentation, with short robust setae; outer plate inner margin tuberculate, reaching 0.1 × palp article 1, with simple marginal setae, facial setae present; palp article 4 subequal in length with article 3, distally acute.</p>
+                    <p>Pereon. Coxae 1–4 relative widths 1.0: 1.9: 1.7: 1.7. Gnathopod 1 coxa smooth, with tiny marginal setae, anterior margin straight, anterodistal margin subquadrate, distal margin straight, posterior margin excavate, facial setae absent; basis proximally inflated, anterior margin with 4 setae, posterior margin with 2 setae; ischium bare; carpus linear, distal length 14.1 × width, proximal margin with denticles, distal margin bare; propodus curved, palm serrate with 13 distal setae; dactylus smooth, <!--PageBreak-->reaching 0.2 × propodus length. Gnathopod 2 coxa longer than broad, subequal in size with coxa 3, smooth, with tiny marginal setae, anterodistally rounded, distal margin straight, posterior margin straight, facial setae absent; basis linear, anterior<!--PageBreak--> margin with 5 short setae, posterior margin with 2 long setae; ischium with 5 long posterodistal setae; carpus 0.4 × propodus length, straight, distally tapered, anterior margin smooth; propodus with 1 mediofacial setal row displaced to midline, reaching 0.6 × propodus length, with 1 row of robust submarginal setae, posterior margin smooth, palm convex with many small tubercles; dactylus curved, proximal margin smooth, bare, anterior margin distally subacute, reaching 0.6 × propodus length. Pereopod 3 coxa length 0.8 × width, anterodistal corner overriding distal face of coxa 2, not extending below it, smooth, with tiny marginal setae, anterior margin evenly rounded, distal and posterior margins straight, facial setae absent. Pereopod 4 coxa smooth, with tiny marginal setae, anterior margin straight, distal margin evenly rounded, posterior margin straight, facial setae absent. Pereopod 5 coxa facial setae present, pereopods 6–7 coxae facial setae absent. Pereopods 5–7 bases width length ratios 1: 1.8, 1: 1.9, 1: 1.7, posterior margins smooth, setose.</p>
+                    <p>Pleon. Epimera 1 and 3 bare, epimeron 2 with ventral setae; epimeron 3 posteroventral corner rounded. Uropods 1–3 relative lengths 1.0: 0.7: 0.8. Uropod 1 peduncle and outer ramus subequal in length with inner ramus; inner ramus with 1 robust seta; outer ramus lined with short marginal setae, with 5 robust setae. Uropod 2 peduncle 0.9 × inner ramus length, outer ramus 0.8 × inner ramus length; inner ramus with 2 robust setae; outer ramus lined with short marginal setae, with 2 robust setae. Uropod 3 peduncle 1.5 × inner ramus length, outer ramus subequal in length with inner ramus; inner ramus lined with short marginal setae, without robust setae; outer ramus with 3 robust setae. Telson 2.0 × longer than wide, apex truncate.</p>
+               		  <p><bold>Female (sexually dimorphic characters).</bold></p>
+                    <p>Antenna 1 0.2 × body length. Antenna 2 0.3 × body length, subequal in length with antenna 1. Gnathopod 1 basis proximally wider than in male, posterior margin with 11 long setae. Gnathopod 2 basis anterior margin with 10 short setae.</p>
+                    <fig id="F21" position="float" orientation="portrait">
+                        <label>Figure 21.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n., holotype male, 3.2 mm, RUMF-ZC-1791.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g021.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F22" position="float" orientation="portrait">
+                        <label>Figure 22.</label>
+                        <caption><p><italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n., holotype male, 3.2 mm, RUMF-ZC-1791; paratype female, 3.8 mm, RUMF-ZC-1792.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g022.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>After the Japanese place name ‘Zanpa’, meaning ‘wave slicing’ and referring to the type locality.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology"><title>Ecology.</title>
+                    <p>In canals of large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name> (<xref ref-type="fig" rid="F24">Figure 24I</xref>).</p>
+                    <fig id="F23" position="float" orientation="portrait">
+                        <label>Figure 23.</label>
+                        <caption><p>Color plate of new leucothoid amphipod species. <bold>A</bold> <italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n. <bold>B</bold> <italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n. <bold>C</bold> <italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic> sp. n. <bold>D</bold> <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n. <bold>E</bold> <italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n. <bold>F</bold> <italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n. <bold>G</bold> <italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n. <bold>H</bold> <italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g023.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F24" position="float" orientation="portrait">
+                        <label>Figure 24.</label>
+                        <caption><p>Color plate of new leucothoid amphipod species and sponge hosts. <bold>A</bold> <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n. <bold>B</bold> <italic><tp:taxon-name>Leucothoe bise</tp:taxon-name></italic> sp. n. <bold>C</bold> <italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n. <bold>D</bold> <tp:taxon-name>Axinellidae</tp:taxon-name> of Carter, 1875, RUMF-ZP-12 <bold>E</bold> ?<italic><tp:taxon-name>Axinyssa</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B22">Lendenfeld 1897</xref> <bold>F</bold> <italic><tp:taxon-name>Callyspongia</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B12">Duchassaing and Michelotti 1864</xref>, RUMF-ZP-2 <bold>G</bold> <italic><tp:taxon-name>Haliclona</tp:taxon-name></italic> of Grant, 1836, RUMF-ZP-3 <bold>H</bold> <italic><tp:taxon-name>Rhabdastrella</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B34">Thiele 1903</xref>, RUMF-ZP-1 I <tp:taxon-name>Tetillidae</tp:taxon-name> of <xref ref-type="bibr" rid="B33">Sollas 1886</xref>, RUMF-ZP-11 J <tp:taxon-name>Axinellidae</tp:taxon-name> of Carter, 1875.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g024.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F25" position="float" orientation="portrait">
+                        <label>Figure 25.</label>
+                        <caption><p>Color plate of sponge hosts. <bold>A</bold> <tp:taxon-name>Iotrochotidae</tp:taxon-name> of Dendy, 1922 (probably <italic><tp:taxon-name>Iotrochota</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B28">Ridley 1884</xref>), RUMF-ZP-7 <bold>B</bold> <italic><tp:taxon-name>Mycale</tp:taxon-name></italic> of Gray, 1867, RUMF-ZP-8 <bold>C</bold> ?<italic><tp:taxon-name>Jaspis</tp:taxon-name></italic> of Gray, 1867 <bold>D</bold> orange encrusting sponge, <italic><tp:taxon-name>Clathria</tp:taxon-name></italic> of Schmidt, 1862, RUMF-ZP-5 <bold>E</bold> ?<italic><tp:taxon-name>Clathria  (Thalysias) reinwardti</tp:taxon-name></italic> Vosmaer, 1880, RUMF-ZP-4 <bold>F</bold> <italic><tp:taxon-name>Tedania</tp:taxon-name></italic> of Gray, 1867 <bold>G</bold> <italic><tp:taxon-name>Mycale (Zygomycale) parishii</tp:taxon-name></italic> (Bowerbank, 1875), RUMF-ZP-9 <bold>H</bold> ?<italic><tp:taxon-name>Mycale</tp:taxon-name></italic> of Gray, 1867, RUMF-ZP-10 I <tp:taxon-name>Niphatidae</tp:taxon-name> of Van Soest, 1980 (probably <italic><tp:taxon-name>Niphates</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B12">Duchassaing and Michelotti 1864</xref>), RUMF-ZP-6 <bold>J</bold> grey/purple hard sponge, <italic><tp:taxon-name>Clathria (Thalysias)</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B12">Duchassaing and Michelotti 1864</xref> <bold>K</bold> orange flame sponge, <italic><tp:taxon-name>Ciocalypta</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B5">Bowerbank 1862</xref> <bold>L</bold> orange stubby sponge, <italic><tp:taxon-name>Mycale</tp:taxon-name></italic> sp. <bold>M</bold> purple brown soft sponge, ?<italic><tp:taxon-name>Pericharax</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B27">Poléjaeff 1883</xref>.</p></caption>
+                        <graphic xlink:href="ZooKeys-166-001-g025.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Relationships"><title>Relationships.</title>
+                    <p><italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe oboa</tp:taxon-name></italic> Karaman, 1971, <italic><tp:taxon-name>Leucothoe occulta</tp:taxon-name></italic> Krapp-Schickel, 1975, and <italic><tp:taxon-name>Leucothoe pachycera</tp:taxon-name></italic> Della Valle, 1893, in having antennae 1 peduncle article 1 width greater than 2 × the width of article 2, but differs in having an excavate anterior head margin, tuberculate maxilliped inner plate, setose gnathopod 2 basis posterior margin, pereopods 5–7 bases without facial setae, bare epimera 1 and 3, subquadrate epimeron 3 posteroventral margin, and truncate telson apex. <italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n. is similar to <italic><tp:taxon-name>Leucothoe elegans</tp:taxon-name></italic> White &amp; Reimer, 2012a in the gracefully elongate gnathopod 1, but differs in eye shape, antennae length, and pereopod 5–7 bases widths.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks.</title>
+                    <p><italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n. is white in color with faint purple stripes along pereonite edges (<xref ref-type="fig" rid="F23">Figure 23B</xref>). This species is endemic to Zanpa Cape on the western coast of Okinawa–jima Island, Okinawa.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Distribution.</title>
+                    <p>East China Sea: Okinawa–jima Island, Okinawa, Japan.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Note"><title>Note</title>
+            <p>Sponge hosts for <italic><tp:taxon-name>Leucothoe elegans</tp:taxon-name></italic> White &amp; Reimer, 2012a have been tentatively identified. These include: grey/purple hard sponge, <italic><tp:taxon-name>Clathria (Thalysias)</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B12">Duchassaing and Michelotti 1864</xref> (<xref ref-type="fig" rid="F25">Figure 25J</xref>); dark red chimney sponge, <tp:taxon-name>Axinellidae</tp:taxon-name> (<xref ref-type="fig" rid="F24">Figure 24D</xref>); orange flame sponge, <italic><tp:taxon-name>Ciocalypta</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B5">Bowerbank 1862</xref> (<xref ref-type="fig" rid="F25">Figure 25K</xref>); purple brown soft sponge, ?<italic><tp:taxon-name>Pericharax</tp:taxon-name></italic> of <xref ref-type="bibr" rid="B27">Poléjaeff 1883</xref> (<xref ref-type="fig" rid="F25">Figure 25M</xref>); and orange stubby sponge, <italic><tp:taxon-name>Mycale</tp:taxon-name></italic> sp. (<xref ref-type="fig" rid="F25">Figure 25L</xref>).</p>
+        </sec>
+        <sec sec-type="Identification Key for sponge-dwelling Leucothoidae of the Ryukyu Archipelago (including Leucothoe elegans and Leucothoe vulgaris both White and Reimer 2012a)"><title>Identification Key for sponge-dwelling Leucothoidae of the Ryukyu Archipelago (including Leucothoe elegans and Leucothoe vulgaris both White &amp; Reimer 2012a)</title>
+            <table-wrap content-type="key" position="anchor" orientation="portrait">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">Antenna 1 length greater than 0.5 × body length (males), peduncle article 1 width greater than 2 × article 2; eyes rectangular; coxa 1 about ½ width of coxa 2, telson apex truncate</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antenna 1 length less than 0.5 × body length, peduncle article 1 width less than 2 × article 2; eyes round or oval; coxa 1 subequal to or slightly smaller than coxa 2, telson apex tridentate, bidentate, or with strong point (rounded or sharp)</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">Gnathopod 1 propodus curved</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Gnathopod 1 propodus straight</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">Gnathopod 1 palm without ornamentation; gnathopod 2 carpus distally truncate, spoon-like (male)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Gnathopod 1 palm dentate; gnathopod 2 carpus distally tapered</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe elegans</tp:taxon-name></italic> White &amp; Reimer, 2012a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">Maxilliped outer plate tuberculate; gnathopod 1 dactylus 0.2 or less × propodus length</td>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Maxilliped outer plate smooth; gnathopod 1 dactylus length greater than 0.2 × propodus length</td>
+                            <td rowspan="1" colspan="1">8</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">Ventral cephalic keel anterior margin oblique, anteroventral margin with projection; gnathopod 1 basis distally expanded, propodus palm without large triangular teeth, dactylus reaching less than 0.1 × propodus length; telson apex bidentate</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Ventral cephalic keel anterior margin transverse, anteroventral margin quadrate; gnathopod 1 basis linear, propodus palm with large triangular teeth, dactylus reaching 0.1–0.2 × propodus length; telson apex tridentate</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">Head anterior margin truncate, anterodistal margin quadrate with cusp; maxilliped outer plate with facial setae; gnathopod 1 basis posterior margin bare, distal margin setose; gnathopod 2 carpus distally tapered, propodus with 1 mediofacial setal row</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic></td>
+                            <!--PageBreak-->
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head anterior margin round, anterodistal margin round; maxilliped outer plate without facial setae; gnathopod 1 basis posterior margin setose, distal margin bare; gnathopod 2 carpus distally truncate, propodus with 2 mediofacial setal rows</td>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">Antenna 1 accessory flagellum 1–articulate; mandibular palp article 3 shorter than article 1 and with 1 distal seta; maxilla 1 palp 1–articulate; gnathopod 1 basis anterior margin bare, carpus slender; pereopods 5–6 coxae without facial setae, pereopods 5–7 bases narrowly expanded</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antenna 1 accessory flagellum absent; mandibular palp article 3 subequal in length with article 1 and with 2 distal setae; maxilla 1 palp 2–articulate; gnathopod 1 basis anterior margin setose, carpus robust; pereopods 5–6 coxae with facial setae, pereopods 5–7 bases broadly expanded </td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe lecroyae</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">Head anterodistal margin quadrate; gnathopod 2 propodus with 2 mediofacial setal rows; pereopods 5–7 bases narrowly expanded (length greater than 1.4 × width)</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe bise</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Head anterodistal margin rounded or subquadrate; gnathopod 2 propodus with 1 mediofacial setal row; pereopods 5–7 bases broadly expanded (length 1.4 × width or less)</td>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">Ventral cephalic keel anteroventral margin with strong anterior projection; antenna 1 accessory flagellum 1–articulate; mandibular palp article 3 with 1 distal seta; gnathopod 2 propodus mediofacial setal row above midline; pereopod 7 basis posterior margin serrate</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Ventral cephalic keel anteroventral margin subquadrate or quadrate with small projection; antenna 1 accessory flagellum absent; mandibular palp article 3 with 2 distal setae; gnathopod 2 propodus mediofacial setal row displaced to midline; pereopod 7 basis posterior margin smooth</td>
+                            <td rowspan="1" colspan="1">10</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">Ventral cephalic keel anteroventral margin quadrate with small projection; maxilliped outer plate with facial setae; coxa 1 anterior margin serrate; gnathopod 1 ischium with posterior setae; </td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Ventral cephalic keel anteroventral margin subquadrate; maxilliped outer plate without facial setae; coxa 1 anterior margin smooth; gnathopod 1 ischium bare</td>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">Mandibular palp article 2 with 15 distal setae; gnathopod 1 coxa anterior margin serrate, basis posterior margin bare; gnathopod 2 basis anterior margin with 10 setae, carpus reaching less than 0.4 × propodus length, propodus palm with large projections; pereopod 5 coxa without facial seta</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe vulgaris</tp:taxon-name></italic> White &amp; Reimer, 2012a</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Mandibular palp article 2 with less than 10 distal setae; gnathopod 1 coxa anterior margin smooth, basis posterior margin setose; gnathopod 2 basis anterior margin with less than 10 setae, carpus reaching greater than 0.4 × propodus length, propodus palm with small projections; pereopod 5 coxa with facial setae</td>
+                            <td rowspan="1" colspan="1">12</td>
+                        </tr>
+                        <tr>
+                            <!--PageBreak-->
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">Antenna 1 flagellum 11–articulate; maxilla 1 palp 1–articulate, margins constricted; maxilliped inner plates with simple setae; gnathopod 1 carpus proximal margin smooth; gnathopod 2 basis posterior margin bare, carpus distally truncate; telson apex with strongly rounded point</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Antenna 1 flagellum 6–articulate; maxilla 1 palp 1–articulate; maxilliped inner plates with simple and serrate setae; gnathopod 1 carpus proximal margin dentate; gnathopod 2 basis posterior margin setose, carpus distally tapered; telson apex tridentate</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p>Four of the <italic><tp:taxon-name>Leucothoe</tp:taxon-name></italic> species described here share the displaced gnathopod 2 propodus mediofacial row. This character is typically found in ascidian-dwelling species worldwide, suggesting that these species may also inhabit ascidian hosts, or that this character may not be an artifact of convergent evolution, as noted in <xref ref-type="bibr" rid="B41">White and Reimer (2012a)</xref>. Six of the <italic><tp:taxon-name>Leucothoe</tp:taxon-name></italic> species described here have a small accessory flagellum on antenna 1. This character is unusual in leucothoid species and apparently much more common in Pacific species than in Caribbean species.</p>
+            <p>The currently recognized biogeographic boundaries of the Ryukyu Archipelago (<xref ref-type="bibr" rid="B16">Hikida and Ota 1997</xref>, <xref ref-type="bibr" rid="B26">Ota 1998</xref>) do not appear to apply to leucothoid amphipods in this region, although this will require further examination. Four species (<italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n., and <italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n.) were each found on only one island, while <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n. was collected throughout the entire archipelago. It is possible that these patterns in amphipod distributions are partly attributable to the ephemeral nature of their sponge hosts. Both sponge species and individuals in the Ryukyu Archipelago appear to be more prevalent in the winter months than in the summer.</p>
+            <p>Restricted distributional patterns were observed in <italic><tp:taxon-name>Leucothoe ouraensis</tp:taxon-name></italic> sp. n., which was collected only on the east coast of Okinawa–jima Island; <italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n., which was collected from one sponge host in caves at Mizugama on Okinawa–jima Island; <italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n., which was collected from only one sponge species at 30 meters at Zanpa Cape on Okinawa–jima Island; and <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n. was collected from only one sponge species at one location near Iriomote–jima Island. Interestingly, <italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Leucothoe toribe</tp:taxon-name></italic> sp. n., and <italic><tp:taxon-name>Leucothoe togatta</tp:taxon-name></italic> sp. n. were all collected from Okinawa–jima Island in the mid-Ryukyus as well as from Yakushima Island, the northernmost island in the Ryukyus.</p>
+            <p>The host data collected here are invaluable in understanding the ecology of these amphipods. Sponges are often a preferred habitat for leucothoid amphipods, functioning as a food resource and as protection from predators (<xref ref-type="bibr" rid="B35">Thomas 1997</xref>, <xref ref-type="bibr" rid="B37">Thomas and Klebba 2007</xref>). Knowing the preferred habitat of amphipods will allow easier collection of additional specimens in the future. Furthermore, such data can also help us to understand the difference(s) between apomorphic and convergent morphological<!--PageBreak--> characters. Due to the difficulty in identifying sponges and lack of sponge specialists in the Ryukyu Archipelago, tentative identifications, photos, and descriptive data are provided here and pieces of host sponges have been deposited in the University of the Ryukyus Museum (Fujukan).</p>
+            <p>Most of the species reported here were collected from 1–4 sponge host species and from coral rubble. Presumably, these amphipods are inhabiting sponges in the crevices of the coral rubble. Perhaps the ephemeral nature of the sponges is also forcing the amphipods to adapt to new and available hosts, which may explain the higher number of species found in the genus <italic><tp:taxon-name>Leucothoe</tp:taxon-name></italic> than found in the anamixid clade of the <tp:taxon-name>Leucothoidae</tp:taxon-name>. <italic><tp:taxon-name>Leucothoe nagatekubi</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Leucothoe nurunuru</tp:taxon-name></italic> sp. n., and <italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n. show higher specialization or host preference. Each of these species were collected from only one host at one location. With the exception of the large white ball sponge, <tp:taxon-name>Tetillidae</tp:taxon-name> (<xref ref-type="fig" rid="F24">Figure 24I</xref>), individual sponges hosted only one leucothoid species at each location. <italic><tp:taxon-name>Leucothoe akaoni</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Leucothoe daisukei</tp:taxon-name></italic> sp. n., <italic><tp:taxon-name>Leucothoe hashi</tp:taxon-name></italic> sp. n., and <italic><tp:taxon-name>Leucothoe zanpa</tp:taxon-name></italic> sp. n. were collected from the same white ball sponge at Zanpa Cape.</p>
+            <p>The very high diversity of new leucothoid species discovered in the Ryukyu Archipelago to date supports the theory of <xref ref-type="bibr" rid="B29">Roberts et al. (2002)</xref>, stating that Indo–Pacific reefs are the most diverse areas in the world with high levels of endemicity.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors would like to thank Nicole de Voogd (Naturalis) for her help with identifying sponges. Thanks also go to Nathan White for his tremendous support and assistance with all research efforts in the Ryukyu Archipelago and to Dr. Masami Obuchi for his logistical support and collection assistance. Additional support in many forms has been provided by members of the MISE Laboratory at the University of the Ryukyus. The Rising Star Program at the University of the Ryukyus provided laboratory space and logistical support. Reviews from Traudl Krapp and Alan Myers significantly improved the manuscript. Funding was provided by a Japanese Society for the Promotion of Science (JSPS) postdoctoral fellowship awarded to the first author (#P10711). The second author was supported in part by the International Research Hub Project for Climate Change and Coral Reef/Island Dynamics at the University of the Ryukyus.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Allen</surname><given-names>GR</given-names></name><name name-style="western"><surname>Steene</surname><given-names>R</given-names></name></person-group> (<year>2002</year>)<source> Indo–Pacific Coral Reef Field Guide.</source> <publisher-name>Tropical Reef Research</publisher-name>, <publisher-loc>Singapore</publisher-loc>, <lpage>378</lpage> pp.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Barnard</surname><given-names>JL</given-names></name></person-group> (<year>1959</year>)<article-title> Estuarine Amphipoda.</article-title> In: <person-group><name name-style="western"><surname>Barnard</surname><given-names>JL</given-names></name><name name-style="western"><surname>Reish</surname><given-names>DJ</given-names></name></person-group> (<role>Ed</role>). <issue-title> Ecology of Amphipoda and Polychaeta of Newport Bay, California.</issue-title> <source>Allan Hancock Foundation Publications Occasional Paper</source> <volume>21</volume>: <fpage>13</fpage>-<lpage>69</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Barnard</surname><given-names>JL</given-names></name></person-group> (<year>1974</year>)<article-title> Evolutionary patterns in Gammaridean Amphipoda.</article-title> <source>Crustaceana </source> <volume>27</volume>: <fpage>137</fpage>-<lpage>146</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1163/156854074X00343" xlink:type="simple">doi: 10.1163/156854074X00343</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bate</surname><given-names>CS</given-names></name></person-group> (<year>1857</year>)<source> A synopsis of the British edriophthalmous Crustacea. Annals and Magazine of Natural History, series 2 19: 135–152.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bowerbank</surname><given-names>JS</given-names></name></person-group> (<year>1862</year>)<article-title> On the anatomy and physiology of the Spongiadae. Part III On the generic characters, the specific characters, and on the method of examination.</article-title> <source>Philosophical Transactions of the Royal Society </source> <volume>152</volume> (<issue>2</issue>): <fpage>1087</fpage>-<lpage>1135</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bowerbank</surname><given-names>JS</given-names></name></person-group> (<year>1875</year>)<article-title> Contributions to a General History of the Spongiadae. Part VII.</article-title> <source>Proceedings of the Zoological Society of London </source> <volume>1875</volume>: <fpage>281</fpage>-<lpage>296</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carter</surname><given-names>HJ</given-names></name></person-group> (<year>1875</year>)<source> Notes Introductory to the Study and Classification of the Spongida. Part II. Proposed Classification of the Spongida. Annals and Magazine of Natural History (4) 16(92): 126–145, 177–200.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Coleman</surname><given-names>CO</given-names></name></person-group> (<year>2003</year>)<source> “digital inking”: how to make perfect line drawings on computers. Organisms Diversity and Evolution 3 Electronic Supplement 14: 1–14.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Costa</surname><given-names>A</given-names></name></person-group> (<year>1851</year>)<source> Caratteeri di alcuni de’generi e specie nouve segnete nel presente catalogo. In: Hope FW (Ed) Catalogo dei Crostacei Italiani e di Molti Altri del Mediterraneo, Naples, 1–48.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Della Valle</surname><given-names>A</given-names></name></person-group> (<year>1893</year>)<article-title> Gammarini del Golfo di Napoli.</article-title> <source>Fauna und Flora des Golfes von Neapel </source> <volume>20</volume>: <fpage>1</fpage>-<lpage>948</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dendy</surname><given-names>A</given-names></name></person-group> (<year>1922</year>)<source> Report on the Sigmatotetraxonida collected by H.M.S.‘Sealark’ in the Indian Ocean. In: Reports of the Percy Sladen Trust Expedition to the Indian Ocean in 1905, Volume 7, Transactions of the Linnean Society of London (2), 18(1): 1–164.</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Duchassaing De Fondbressin</surname><given-names>P</given-names></name><name name-style="western"><surname>Michelotti</surname><given-names>G</given-names></name></person-group> (<year>1864</year>)<article-title> Spongiaires de la mer Caraibe.</article-title> <source>Natuurkundige verhandelingen van de Hollandsche maatschappij der wetenschappen te Haarlem </source> <volume>21</volume> (<issue>2</issue>): <fpage>1</fpage>-<lpage>124</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grant</surname><given-names>RE</given-names></name></person-group> (<year>1836</year>)<article-title> Animal Kingdom.</article-title> In: <person-group><name name-style="western"><surname>Todd</surname><given-names>RB</given-names></name></person-group> (<role>Ed</role>). <issue-title>The Cyclopaedia of Anatomy and Physiology.</issue-title> <source>Volume 1.Sherwood, Gilbert, and Piper, London</source>: <fpage>107</fpage>-<lpage>118</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gray</surname><given-names>JE</given-names></name></person-group> (<year>1867</year>)<source> Notes on the arrangement of sponges, with the descriptions of some new genera. Proceedings of the Zoological Society of London, 1867, 2: 492–558.</source></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Haswell</surname><given-names>WA</given-names></name></person-group> (<year>1879</year>)<article-title> On Australian Amphipoda.</article-title> <source>Proceedings of the Linnean Society of New South Wales </source> <volume>4</volume>: <fpage>245</fpage>-<lpage>279</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hikida</surname><given-names>T</given-names></name><name name-style="western"><surname>Ota</surname><given-names>H</given-names></name></person-group> (<year>1997</year>)<article-title> Biogeography of reptiles in the subtropical East Asian Islands.</article-title> In: <person-group><name name-style="western"><surname>Kue</surname><given-names>KY</given-names></name><name name-style="western"><surname>Chen</surname><given-names>TH</given-names></name></person-group> (<role>Ed</role>). <issue-title>Proceedings of the Symposium on the Phylogeny, Biogeography and Conservation of Fauna and Flora of East Asian Region, Taipei (Taiwan), 1997.</issue-title> <source>Department of Biology, National Taiwan Normal University and National Science Counsil, ROC</source>: <fpage>11</fpage>-<lpage>28</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ishimaru</surname><given-names>SI</given-names></name></person-group> (<year>1985</year>)<article-title> A new species of the genus <italic>Leucothoe</italic> (Amphipoda, Gammaridea, Leucothoidae) from Japan.</article-title> <source>Proceedings of the Japanese Society of Systematic Zoology </source> <volume>30</volume>: <fpage>46</fpage>-<lpage>52</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Karaman</surname><given-names>GS</given-names></name></person-group> (<year>1971</year>)<article-title> Uber einige neue und schon bekannte arten der gattung <italic>Leucothoe</italic> (Fam. Leucothoidae) aus der adria sowie dem mittelmeer.</article-title> <source>Memorie del Museo Civico di Storia Naturale di Verona </source> <volume>19</volume>: <fpage>57</fpage>-<lpage>71</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Krapp-Schickel</surname><given-names>G</given-names></name></person-group> (<year>1975</year>)<article-title> Revision of Mediterranean <italic>Leucothoe</italic> species (Crustacea, Amphipoda).</article-title> <source>Bollettino del Museo Civico di Storia Naturale di Verona </source> <volume>2</volume>: <fpage>91</fpage>-<lpage>118</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lamarck JBP</surname><given-names>De Monet</given-names></name><name name-style="western"><surname>Comte</surname><given-names>De</given-names></name></person-group> (<year>1814</year>)<source> Sur les polypiers empâtés. Suite du mémoire intitulé: Sur les Polypiers empâtés. Suite des éponges. Annales du Muséum national d’histoire naturelle, Paris20(6): 370–386, 432–458.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ledoyer</surname><given-names>M</given-names></name></person-group> (<year>1984</year>)<article-title> Les Gammariens (Crustacea, Amphipoda) des herbiers de Phanérogames marines de nouvelle Calédonie (Région de Nouméa).</article-title> <source>Mémoires du Muséum National D’Histoire Naturelle Nouvelle Série </source> <volume>129</volume>: <fpage>1</fpage>-<lpage>113</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lendenfeld</surname><given-names>RV</given-names></name></person-group> (<year>1897</year>)<article-title> Spongien von Sansibar.</article-title> <source>Abhandlungen herausgegeben von der Senckenbergischen naturforschenden Gesellschaft </source> <volume>21</volume>: <fpage>93</fpage>-<lpage>133</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moore</surname><given-names>PG</given-names></name></person-group> (<year>1987</year>)<article-title> Taxonomic studies on Tasmanian phytal amphipods (Crustacea), the families Anamixidae, Leucothoidae and Sebidae.</article-title> <source>Journal of Natural History </source> <volume>21</volume>: <fpage>239</fpage>-<lpage>262</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/00222938700770111" xlink:type="simple">doi: 10.1080/00222938700770111</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Myers</surname><given-names>AA</given-names></name></person-group> (<year>1985</year>)<article-title> Shallow–water, coral reef and mangrove Amphipoda (Gammaridea) of Fiji.</article-title> <source>Records of the Australian Museum, Supplement </source> <volume>5</volume>: <fpage>1</fpage>-<lpage>143</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Oshel</surname><given-names>PE</given-names></name><name name-style="western"><surname>Steele</surname><given-names>DH</given-names></name></person-group> (<year>1988</year>)<article-title> Comparative morphology of amphipod setae, and a proposed classification of setal types.</article-title> <source>Crustaceana Supplement </source> <volume>13</volume>: <fpage>90</fpage>-<lpage>99</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ota</surname><given-names>H</given-names></name></person-group> (<year>1998</year>)<article-title> Geographic patterns of endemism and speciation in amphibians and reptile of the Ryukyu Archipelgao, Japan, with special reference to their paleogeographical implications.</article-title> <source>Researches on Population Ecology </source> <volume>40</volume>: <fpage>189</fpage>-<lpage>204</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02763404" xlink:type="simple">doi: 10.1007/BF02763404</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Poléjaeff</surname><given-names>N</given-names></name></person-group> (<year>1883</year>)<article-title> Report on the Calcarea dredged by H.M.S. ‘Challenger’, during the years 1873–1876. Report on the Scientific Results of the Voyage of H.M.S. ‘Challenger’, 1873–1876.</article-title> <source>Zoology </source> <volume>8</volume> (<issue>2</issue>): <fpage>1</fpage>-<lpage>76</lpage>.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ridley</surname><given-names>SO</given-names></name></person-group> (<year>1884</year>)<source> Spongiida. In: Report on the Zoological Collections made in the Indo–Pacific Ocean during the Voyage of H.M.S. ‘Alert’, 1881–2. British Museum of Natural History, London, 366–482, 582–630.</source></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Roberts</surname><given-names>CM</given-names></name><name name-style="western"><surname>McClean</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Veron</surname><given-names>JEN</given-names></name><name name-style="western"><surname>Hawkins</surname><given-names>JP</given-names></name><name name-style="western"><surname>Allen</surname><given-names>GR</given-names></name><name name-style="western"><surname>McAllister</surname><given-names>DE</given-names></name><name name-style="western"><surname>Mittermeier</surname><given-names>CG</given-names></name><name name-style="western"><surname>Schueler</surname><given-names>DE</given-names></name><name name-style="western"><surname>Spalding</surname><given-names>M</given-names></name><name name-style="western"><surname>Wells</surname><given-names>F</given-names></name><name name-style="western"><surname>Vynne</surname><given-names>C</given-names></name><name name-style="western"><surname>Werner</surname><given-names>TB</given-names></name></person-group> (<year>2002</year>)<article-title> Marine biodiversity hotspots and conservation priorities for tropical reefs.</article-title> <source>Science </source> <volume>295</volume>: <fpage>1280</fpage>-<lpage>1284</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1067728" xlink:type="simple">doi: 10.1126/science.1067728</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmidt</surname><given-names>O</given-names></name></person-group> (<year>1862</year>)<source> Die Spongien des adriatischen Meeres. Wilhelm Engelmann, Leipzig, 1–88.</source></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Serejo</surname><given-names>CS</given-names></name></person-group> (<year>1998</year>)<article-title> The genus <italic>Leucothoe</italic> (Crustacea, Amphipoda, Leucothoidae) on the Brazilian coast.</article-title> <source>Beaufortia </source> <volume>48</volume>: <fpage>105</fpage>-<lpage>135</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sivaprakasam</surname><given-names>TE</given-names></name></person-group> (<year>1969</year>)<article-title> Leucothoid Amphipoda from the Madras Coast.</article-title> <source>Journal of the Marine Biological Association of India </source> <volume>9</volume>: <fpage>384</fpage>-<lpage>391</lpage>.</mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sollas</surname><given-names>WJ</given-names></name></person-group> (<year>1886</year>)<article-title> Preliminary account of the Tetractinellid sponges Dredged by H.M.S. ‘Challenger’ 1872–76. Part I. The Choristida.</article-title> <source>Scientific Proceedings of the Royal Dublin Society (new series) </source> <volume>5</volume>: <fpage>177</fpage>-<lpage>199</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thiele</surname><given-names>J</given-names></name></person-group> (<year>1903</year>)<article-title> Kieselschwämme von Ternate. II.</article-title> <source>Abhandlungen herausgegeben von der Senckenbergischen naturforschenden Gesellschaft </source> <volume>25</volume>: <fpage>933</fpage>-<lpage>968</lpage>.</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thomas</surname><given-names>JD</given-names></name></person-group> (<year>1997</year>)<article-title> Systematics, ecology, and phylogeny of the Anamixidae (Crustacea, Amphipoda).</article-title> <source>Records of the Australian Museum </source> <volume>49</volume>: <fpage>35</fpage>-<lpage>98</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3853/j.0067-1975.49.1997.298" xlink:type="simple">doi: 10.3853/j.0067-1975.49.1997.298</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thomas</surname><given-names>JD</given-names></name><name name-style="western"><surname>Klebba</surname><given-names>KN</given-names></name></person-group> (<year>2006</year>)<article-title> Studies of commensal leucothoid amphipods: two new sponge-inhabiting species from south Florida and the western Caribbean.</article-title> <source>Journal of Crustacean Biology </source> <volume>26</volume> (<issue>1</issue>): <fpage>13</fpage>-<lpage>22</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1651/C-2624.1" xlink:type="simple">doi: 10.1651/C-2624.1</ext-link></mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thomas</surname><given-names>JD</given-names></name><name name-style="western"><surname>Klebba</surname><given-names>KN</given-names></name></person-group> (<year>2007</year>)<article-title> New species and host associations of commensal leucothoid amphipods from coral reefs in Florida and Belize (Crustacea, Amphipoda).</article-title> <source>Zootaxa </source> <volume>1494</volume>: <fpage>1</fpage>-<lpage>44</lpage>.</mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Van Soest</surname><given-names>RWM</given-names></name></person-group> (<year>1980</year>)<article-title> Marine sponges from Curaçao and other Caribbean localities. Part II. Haplosclerida.</article-title> In: <person-group><name name-style="western"><surname>Hummelinck</surname><given-names>PW</given-names></name><name name-style="western"><surname>Van der Steen</surname><given-names>LJ</given-names></name></person-group> (<role>Ed</role>). <issue-title>Uitgaven van de Natuurwetenschappelijke Studiekring voor Suriname en de Nederlandse Antillen.</issue-title> <source>No. 104. Studies on the Fauna of Curaçao and other Caribbean Islands 62(191)</source>: <fpage>1</fpage>-<lpage>173</lpage>.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vosmaer</surname><given-names>GCJ</given-names></name></person-group> (<year>1880</year>)<article-title> The Sponges of the Leyden Museum. 1. The family of the Desmacidinae.</article-title> <source>Notes from the Leyden Museum </source> <volume>2</volume>: <fpage>99</fpage>-<lpage>164</lpage>.</mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>White</surname><given-names>KN</given-names></name></person-group> (<year>2011</year>)<article-title> A taxonomic review of the Leucothoidae (Crustacea: Amphipoda).</article-title> <source>Zootaxa </source> <volume>3078</volume>: <fpage>1</fpage>-<lpage>113</lpage>.</mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>White</surname><given-names>KN</given-names></name><name name-style="western"><surname>Reimer</surname><given-names>JD</given-names></name></person-group> (<year>2012a</year>)<article-title> Commensal Leucothoidae (Crustacea, Amphipoda) of the Ryukyu Archipelago, Japan. Part I: ascidian dwellers.</article-title> <source>ZooKeys </source> <volume>163</volume>: <fpage>13</fpage>-<lpage>55</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3987/zookeys.163.2003" xlink:type="simple">doi: 10.3987/zookeys.163.2003</ext-link></mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>White</surname><given-names>KN</given-names></name><name name-style="western"><surname>Thomas</surname><given-names>JD</given-names></name></person-group> (<year>2009</year>)<article-title> Leucothoidae.</article-title> In: <person-group><name name-style="western"><surname>Lowry</surname><given-names>JK</given-names></name><name name-style="western"><surname>Myers</surname><given-names>AA</given-names></name></person-group> (<role>Ed</role>). <issue-title> Amphipoda (Crustacea, Peracarida) of the Great Barrier Reef, Australia.</issue-title> <source>Zootaxa</source> <volume>2260</volume>: <fpage>494</fpage>-<lpage>555</lpage>.</mixed-citation></ref>
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Winfield</surname><given-names>I</given-names></name><name name-style="western"><surname>Ortiz</surname><given-names>M</given-names></name><name name-style="western"><surname>Chazaro-Olvera</surname><given-names>S</given-names></name></person-group> (<year>2009</year>)<article-title> A new species of commensal amphipod (Amphipoda, Gammaridea, Leucothoidae) from Veracruz coral reef system, SW Gulf of Mexico.</article-title> <source>Revista Mexicana de Bioversidad </source> <volume>80</volume>: <fpage>315</fpage>-<lpage>320</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

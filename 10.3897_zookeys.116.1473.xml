@@ -1,0 +1,1267 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title>ZooKeys</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.116.1473</article-id>
+            <title-group>
+                <article-title>Pictorial key for females of <italic>Decevania</italic> Huben (Hymenoptera, Evaniidae) and description of a new species</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western"> 
+                        <surname>Kawada</surname>
+                        <given-names>Ricardo</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:839A3861-8EFC-4F22-8721-070E6E48E051</uri>
+                </contrib>
+            </contrib-group>
+                    <aff id="A1"><label/>Museu de Zoologia da Universidade de São Paulo. Av. Nazaré, 481, Ipiranga, CEP 04263-000. São Paulo-SP, Brazil</aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Ricardo Kawada (<email xlink:type="simple">rk.evaniidae@gmail.com</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Norman Johnson</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+            	    <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>7</day>
+                <month>7</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>116</issue>
+            <fpage>59</fpage>
+            <lpage>84</lpage>
+            <history>
+                <date date-type="received">
+                    <day>3</day>
+                    <month>5</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>6</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Ricardo Kawada</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:C966B837-596B-4D8C-AB2E-670DD93A5C10</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p><italic><tp:taxon-name>Decevania</tp:taxon-name></italic> Huben currently comprises 13 species, the females of which are known for only four. Herein an additional Neotropical <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> is newly described: <italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> Kawada, <bold>sp. n.</bold> from Colombia. The description and identification key were made using the DELTA program. A pictorial key to females of <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> is provided. Anatomical terminology follows the <tp:taxon-name>Hymenoptera</tp:taxon-name> Anatomy Ontology project with an atlas for terminologies used for recognition of <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> species. The distribution maps can be accessed in Google Maps or through of Dryad (repository of data).</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Evanioidea</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>new species</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p><italic><tp:taxon-name>Decevania</tp:taxon-name></italic> Huben<ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25686" xlink:type="simple">1</ext-link> is a small genus of Neotropical <tp:taxon-name>Evaniidae</tp:taxon-name> with 13 species recognized so far. <xref ref-type="bibr" rid="B6">Kawada and Azevedo (2007)</xref> recently revised the genus, providing redescriptions of <italic><tp:taxon-name>Decevania parva</tp:taxon-name></italic><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25752" xlink:type="simple">2</ext-link> (Enderlein, 1901) and <italic><tp:taxon-name>Decevania striatigena</tp:taxon-name></italic><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25753" xlink:type="simple">3</ext-link> (Kieffer, 1910), descriptions <!--PageBreak-->of 11 new species, an identification key, illustrations of all species, and increased the geographical distribution known for the genus, which ranges from Mexico to Bolivia, east to Brazil.</p>
+            <p>Species in this genus are characterized by having 8 flagellomeres, relatively reduced eyes (usually females), wings frequently large and floppy with reduced venation (C, Sc, M+CU, 1CUa, 1CUb and 2CU only present), fore wing with only one cell enclosed by tubular veins (costal), and hind tarsomeres 1-3 elongated posteriorly into spines. According to <xref ref-type="bibr" rid="B6">Kawada and Azevedo (2007)</xref>, <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> resembles <italic><tp:taxon-name>Hyptia</tp:taxon-name></italic> Illiger<ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25692" xlink:type="simple">4</ext-link> by having one closed cell in the fore wing always with M+CU, 1CU, and 2CU veins combined (a Caribbean group of <italic><tp:taxon-name>Hyptia</tp:taxon-name></italic> has a close configuration). However, <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> has the stigmal vein wide (narrow in <italic><tp:taxon-name>Hyptia</tp:taxon-name></italic>), 1R1 vein shorter (longer in <italic><tp:taxon-name>Hyptia</tp:taxon-name></italic>) and body with sparse punctures (usually dense punctures in <italic><tp:taxon-name>Hyptia</tp:taxon-name></italic>).</p>
+            <p><italic><tp:taxon-name>Decevania</tp:taxon-name></italic> species are sexually dimorphic (antenna, eye, color, facial sculpture, and others) and this complicates association of the sexes and description of new taxa. The head in females is distinctly sculptured and eyes flattened. The antenna is enlarged progressively from the fourth flagellomere apically, antennal pubescence is considerably reduced in flagellomeres IV–X (flattened area) and the posterior region of the metasoma is expanded dorso-ventrally with the ovipositor usually concealed. Males generally have a larger bulging eye, all flagellomeres are equal in diameter, antennal pubescence is evenly distributed with long setae interspersed and the posterior region of the metasoma is constricted dorsoventrally with genitalia protracted, depending on preservation.</p>
+            <p>The goal of this paper is to disseminate the pictorial key for females of <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> and describe a new species of this genus from Colombia.</p>
+        </sec>
+        <sec sec-type="material|methods"><title>Material and methods</title>
+            <p><bold>Material.</bold> The material examined is presented in a list of museums with respective acronyms and countries: CNCI (Canadian National Collection of Insects<ext-link ext-link-type="uri" xlink:href="http://www.canacoll.org/" xlink:type="simple">5</ext-link>) and IAVH (Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia<ext-link ext-link-type="uri" xlink:href="http://www.humboldt.org.co/iavh/inicio" xlink:type="simple">6</ext-link>). The holotypes are unambiguously identifiable by mean of a red holotype label. The type-material of newly described species are deposited in the IAVH and MZSP (Museu de Zoologia da Universidade de São Paulo, Brazil<ext-link ext-link-type="uri" xlink:href="http://www.mz.usp.br/" xlink:type="simple">7</ext-link>).</p>
+            <p><bold>Images.</bold> The best characters for distinguishing species were photographed under a stereomicroscope Leica M205C, magnifying glass attached to video camera Leica DFC 295. The equipment responsible for storing and processing data was a desktop computer with Windows 7 Professional and high-capacity processor Intel (R) Xeon (R) CPU and the software used to combine the images was Leica LAS (Leica Application<!--PageBreak--> Suite V3.6.0) Microsystems by Leica<ext-link ext-link-type="uri" xlink:href="http://www.leica-microsystems.com" xlink:type="simple">8</ext-link> (Switzerland) Limited. Photos were edited in PhotoShop® using the adjustments (e.g., levels, shadows/highlights), tools (e.g., healing brush, clone stamp) and filters (e.g., unsharp mask).</p>
+            <p><bold>Distribution map.</bold> Google maps<ext-link ext-link-type="uri" xlink:href="http://maps.google.com/" xlink:type="simple">9</ext-link> provides a powerful tool for fast, collaborative research, with some advantages listed below: (1) steady inclusion of data even after publication; (2) use of the same map in other publications, enabling a comparison with previous work; (3) fast inclusion of data through a network of collaboration; (4) accuracy and standardization of data among researchers; (5) the use of the same map, resulting from a publication, elsewhere in the network (blog’s, discussion list, meetings). The locality data reported for all analyzed specimens are a literal transcription of the label. Details on the data associated with these specimens may be accessed at the following link, using Google url shortener<ext-link ext-link-type="uri" xlink:href="http://goo.gl/" xlink:type="simple">10</ext-link>: Decevania Distribution<ext-link ext-link-type="uri" xlink:href="http://goo.gl/LJ1hd" xlink:type="simple">11</ext-link> in © 2011 Google - Map data © Google or downloaded through the Dryad<ext-link ext-link-type="uri" xlink:href="http://datadryad.org/" xlink:type="simple">12</ext-link>, an international repository of data underlying peer-reviewed articles.</p>
+            <p><bold>Taxonomic procedures.</bold> The taxonomic treatment method follows <xref ref-type="bibr" rid="B9">Winston (1999)</xref>. The description and identification key were made using the DELTA program. Morphological characters for species of <italic><tp:taxon-name>Decevania</tp:taxon-name></italic> were imported to the DELTA editor (Description Language for Taxonomy<ext-link ext-link-type="uri" xlink:href="http://delta-intkey.com/" xlink:type="simple">13</ext-link>) (<xref ref-type="bibr" rid="B1">Dallwitz 1980</xref>, <xref ref-type="bibr" rid="B3">Dallwitz et al. 1999</xref>). The species description was generated by DELTA &lt;tonart&gt; with output in the format of “character: character state(s)”; Identification key by DELTA &lt;key&gt; (<xref ref-type="bibr" rid="B1">Dallwitz 1980</xref>, <xref ref-type="bibr" rid="B2">Dallwitz et al. 1993</xref>). The dichotomous, pictoral identification key follows the procedures of <xref ref-type="bibr" rid="B9">Winston (1999)</xref>. For the purpose of this description, the new species are diagnosable by putative autapomorphies or by a unique combination of fixed character states.</p>
+            <p><bold>General terminology.</bold> Anatomical terminology follows the <tp:taxon-name>Hymenoptera</tp:taxon-name> Anatomy Ontology project (HAO<ext-link ext-link-type="uri" xlink:href="http://purl.bioontology.org/ontology/HAO" xlink:type="simple">14</ext-link>) using the proofing tool available through the <xref ref-type="bibr" rid="B8">Hymenoptera Glossary</xref> <ext-link ext-link-type="uri" xlink:href="http://goo.gl/LJ1hd" xlink:type="simple">15</ext-link> (<xref ref-type="bibr" rid="B7">Yoder et al. 2010</xref>). Some terms are also included from <xref ref-type="bibr" rid="B5">Deans and Huben (2003)</xref> and <xref ref-type="bibr" rid="B6">Kawada and Azevedo (2007)</xref>. The list of terminology is illustrated and labeled to facilitate their use (see table 1).</p>
+        </sec>
+        <sec sec-type="Pictorial key for females of Decevania"><title>Pictorial key for females of Decevania</title>
+            <p>(Unknown female for <italic><tp:taxon-name>Decevania brevis</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania deansi</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania destituta</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania elongata</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania glabra</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania hemisphaerica</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania nigra</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania polita</tp:taxon-name></italic> Kawada, 2007; <italic><tp:taxon-name>Decevania striatigena</tp:taxon-name></italic> (Kieffer, 1910))</p>
+            <p><xref ref-type="fig" rid="F1">Fig. a1</xref><xref ref-type="fig" rid="F2"/><xref ref-type="fig" rid="F3"/>–<xref ref-type="fig" rid="F4">25</xref></p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figures a1–6.</label>
+                <caption><p>Females. <bold>a1</bold> <italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n., left fore wing: 1R1 vein <bold>a2</bold> <italic><tp:taxon-name>Decevania parva</tp:taxon-name></italic> (Enderlein, 1901), left fore wing: 1R1 vein <bold>a3</bold> <italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007, left fore wing: 1R1 vein <bold>a4</bold> <italic><tp:taxon-name>Decevania unidentata</tp:taxon-name></italic> Kawada, 2007, holotype, left fore wing: 1R1 vein <bold>a5-6</bold> <italic><tp:taxon-name>Decevania nuda</tp:taxon-name></italic> Kawada, 2007 <bold>a5</bold> wings and <bold>a6</bold> left fore wing: 1R1 vein.</p></caption>
+                <graphic xlink:href="ZooKeys-116-059-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figures a7–10.</label>
+                <caption><p>Females. <bold>a7</bold> <italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n., left hind femur in lateral view <bold>a8</bold> <italic><tp:taxon-name>Decevania unidentata</tp:taxon-name></italic> Kawada, 2007, holotype, left hind femur in lateral view <bold>a9</bold> <italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007, left hind femur in lateral view <bold>a10</bold> <italic><tp:taxon-name>Decevania parva</tp:taxon-name></italic> Kawada, 2007, left hind femur in lateral view.</p></caption>
+                <graphic xlink:href="ZooKeys-116-059-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figures a11–19.</label>
+                <caption><p>Females. <bold>a11</bold> <italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007, mesoscutum in dorsal view <bold>a12</bold> <italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007, left hind femur in lateral view <bold>a13</bold> <italic><tp:taxon-name>Decevania unidentata</tp:taxon-name></italic> Kawada, 2007, holotype, left hind femur in lateral view <bold>a14</bold> <italic><tp:taxon-name>Decevania unidentata</tp:taxon-name></italic> Kawada, 2007, holotype, mesoscutum in dorsal view <bold>a15</bold> <italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007, head and mesosoma in lateral view <bold>a16–19</bold> <italic><tp:taxon-name>Decevania parva</tp:taxon-name></italic> (Enderlein, 1901) <bold>a16</bold> mesoscutum in dorsal view <bold>a17</bold> left hind femur in lateral view <bold>a18</bold> head in lateral view and <bold>a19</bold> metapectal-propodeal complex in lateral view.</p></caption>
+                <graphic xlink:href="ZooKeys-116-059-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figures a20–25.</label>
+                <caption><p>Females. <bold>a20-22</bold> <italic><tp:taxon-name>Decevania unidentata</tp:taxon-name></italic> Kawada, 2007, holotype <bold>a20</bold> propodeum and metasoma in lateral view <bold>a21</bold> left hind femur in lateral view <bold>a22</bold> head and mesosoma in dorsal view <bold>a23–25</bold> <italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007 <bold>a23</bold> propodeum and metasoma in lateral view <bold>a24</bold> left hind femur in lateral view and <bold>a25</bold> head and mesosoma in dorsal view.</p></caption>
+                <graphic xlink:href="ZooKeys-116-059-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Decevania</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">feitosai</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:zoobank.org:act:C11F980C-6446-4311-B71B-6812939BEC49</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Decevania_feitosai</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Kawada</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F5">Fig. 1</xref>
+                    <xref ref-type="fig" rid="F6"/>
+                    <xref ref-type="fig" rid="F7"/>
+                    <xref ref-type="fig" rid="F8"/>
+                    <xref ref-type="fig" rid="F9"/>
+                    <xref ref-type="fig" rid="F10"/>
+                    <xref ref-type="fig" rid="F11">12</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Female body length: 1.6 mm (head to propodeum). Head color: black. Mesosoma color: black. Legs color: fore leg: trochanter, trochantellus, tibia, tarsus light-castaneous; femur dark-castaneous. Wings: fore and hind wing hyaline. Metasoma: petiole light-castaneous; tergites: dark-castaneous.</p>
+                    <p><italic>Head</italic> (<xref ref-type="fig" rid="F5">Fig. 1</xref>-<xref ref-type="fig" rid="F6">2</xref>, <xref ref-type="fig" rid="F7">5</xref>-<xref ref-type="fig" rid="F8">7</xref>, <xref ref-type="fig" rid="F9">9</xref>). Head: long and stiff setae present evenly distributed; close to mesosoma. Vertex: slightly convex in lateral view; nitid with some small and sparse punctures. Ocelli: equal in size; arranged in obtuse isosceles triangle; anterior ocellus: separated from posterior ocellus by one ocellar diameter; anterior ocellus: not reaching the imaginary line between the anterior margin of posterior ocelli; posterior ocelli: separated by three ocellar diameters. Upper face: nitid with some sparse punctures. Eye: subovoid (lateral view); detached from dorsal profile of head; height of eye: as high as anterior margin of mesopleuron. Circumocular sulcus: absent. Postorbital carina: present; extending from anterior base of mandible to 3/4 the height of eye; strongly sinuous; narrower than postgenal sulcus. Antennal foramen: positioned at the same level as the top of the eye orbit; separated by one antennal foramen diameter; antennal rim: elevated laterally. Scape: long and stiff setae present evenly distributed; as long as F8. Pedicel + flagellomere 1: longer than wide; pedicel: as long as F1; flagellum: evenly and densely setose with some sparse and long setae. Median process of lower face: very weak in lateral view (difficult to see). Orbital band: strong, narrow and straight striae to the ventral margin of antennal foramen. Malar sulcus: present and conspicuous, differs from orbital band striae. Malar space: 0.64 times the height of eye (greater length). Clypeus: projecting medially; apical margin dilated and convex laterally. Mandible: two visible teeth, apical tooth longer and sharper than basal tooth.</p>
+                    <p><italic>Mesosoma</italic> (<xref ref-type="fig" rid="F5">Fig. 1</xref>-<xref ref-type="fig" rid="F6">2</xref>, <xref ref-type="fig" rid="F9">9</xref>, <xref ref-type="fig" rid="F10">11</xref>-<xref ref-type="fig" rid="F11">12</xref>). Pronotum: long and stiff setae present evenly distributed. Pronotal neck: obscured. Dorsal pronotal area: concealed medially. Dorsolateral area of pronotum: expanded posteriorly into a lobe. Pronotal suprahumeral sulcus: scrobiculate, with a large fovea anterior to the lobe. Transverse pronotal carina: acuminate and extending along the anterior margin of pronotum. Mesothoracic spiracular incision: strongly curved and almost closed into an orifice. Lateral and dorsolateral pronotal area: not clearly separated by a carina (inconspicuous). Lateral pronotal area: narrow, same width between the upper eye orbit and occipital carina (widest point); vertical and covered by a row of fovea (transverse pronotal sulcus). Mesonotum: slightly raised (lateral view: compared with propodeum). Mesoscutum: 2.0 times wider than long; nitid with a few, sparse and regular foveae. Anterior mesoscutal sulcus: present as continuous furrow. Notaulus: present as continuous furrow, slightly curved towards the middle and not reaching the posterior margin. Median lobe of mesoscutum: slightly curved anteriorly (lat<!--PageBreak-->eral view: difficult to see). Parascutal carina: present at posterior half; sulcus: following the parascutal carina and opening posteriorly. Parapsidal line: conspicuous suture, same length of parascutal carina and reaching the posterior margin of mesoscutum. Transscutal articulation: open in the middle and closing to lateral, near the parapsidal line. Mesoscutellum: long and stiff setae present, evenly distributed laterally; <!--PageBreak-->nitid in the middle with closed fovea laterally; bulging posteromedially; with a delicate median convexity on the posterior margin, but without overlap on metanotum. Scutoscutellar sulcus: not reaching the transscutal articulation, covered by a large and subcircular fovea. Metanotum: dorsolateral area covered by moderate (cuticle visible) layer of setae. Metanotum and metascutellum: form a continuous structure. Metascutellum: as a flat and nitid structure. Epicnemial carina: without median process (continuous shape). Prespecular sulcus: composed of one fovea. Anterior mesopleural area: covered by a row of rectangular impressions to femoral groove. Speculum: slightly dilated just above the middle of femoral groove. Mesepimeral sulcus: present as a row of irregular and subcircular foveae from posterodorsal mesepimeral area to mesocoxal foramen. Posterodorsal mesepimeral area: scrobiculate (narrow and shallow). Posterior mesepimeral area: curve and elongated posteriorly (closer to metacoxal foramen). Femoral groove: weakly concave; unsculptured medially. Mesopleural pit: absent. Ventral mesopleural area: covered by a subcircular and adjacent fovea; long and stiff setae present evenly distributed. Mesosternum: higher compared to metasternum; mesosternum foveate (irregular) with an open area (punctate) laterally. Mesodiscrimen: present as a flat and inconspicuous sulcus. Mesocoxa: distant 2.5 times (width of mesocoxa) from procoxa; adjacent to metacoxa. Meso- and metacoxa: without a pair of processes between coxae. Metapleuron (metapleural arm to metacoxal foramen): at least 3 times longer than wide. Metapleural carina: straight and parallel with concave lower metapleural area. Upper metapleural area: covered by a row of rectangular foveae. Lower metapleural area: lower region covered by an irregular polygonal fovea; long and stiff setae present, evenly distributed. Metapleural pit: present. Anterior area of metapleural pit: acute isosceles triangle shaped and covered by an irregular fovea. Metapleural epicoxal sulcus: present as a row of large and subrectangular foveae. Metanotum and propodeum: form a continuous structure. Propodeum: irregular foveae (dorsal) to regularly areolate (lateral). Dorsal propodeal area: long and stiff setae present, evenly distributed. Lateral propodeal carina: absent. Lateral propodeal area (upper region): long and stiff setae present evenly distributed. Adpetiolar strip: longer than wide. Nucha: slightly elevated (lateral view). Upper region of propodeal declivity (ventral to nucha): projection present and longer than base. Middle area of propodeal declivity: with long and stiff setae present evenly distributed. Posterior edge of metapectal-complex: curved (lateral view).</p>
+                    <p><italic>Legs</italic> (<xref ref-type="fig" rid="F7">Fig. 4</xref>, <xref ref-type="fig" rid="F10">10</xref>). Protibial spur: apex of calcar longer than apex of velum. Hind leg: long and stiff setae present evenly distributed (longer than outer spur); nitid with sparse punctures (trochanter, trochantellus, femur and tibia). Trochanter: 3.6 times longer (longer point) than wide (widest point). Hind femur: dorsal and ventral margin slightly dilated medially. Hind tibia: longer than hind femur; apical incision of hind tibia: sinuous. Tibial spurs: slightly sinuous; inner tibial spur: extending past the mid length of basitarsus; outer tibial spur: 1.8 times the length of hind basitarsus. Tarsus: minute striae (interspace) and more closer punctures; projections: conspicuous in tarsus 1–3; basitarsus: as long as tarsus 2–4 combined; basitarsus projection: longer than<!--PageBreak--> apex of basitarsus (widest point). Tarsal claw: hook-shaped, medially with a minute ventral spine.</p>
+                    <p><italic>Wings</italic> (<xref ref-type="fig" rid="F9">Fig. 8</xref>). Apex of fore wing: bordered by long setae. Costal cell: the same length as head + mesosoma combined (dorsal view). Stigmal vein: as wide as costal <!--PageBreak-->cell. 1R1 vein: as long as stigmal vein, with slightly dilated apex. M+CU, 1CU and 2CU veins combined: extending past the propodeal declivity. 1CUb and 2CU vein: combined to form an angulated angle (45 degrees). 2CU vein: present with a slight dilatation distally. Hind wing: three hook-shaped hamuli of equal size; fusiform and three times longer than wide. Jugal lobe: present, slender and extending past the propodeal spiracle.</p>
+                    <p><italic>Metasoma</italic> (<xref ref-type="fig" rid="F10">Fig. 11</xref>). Petiole: shorter than propodeal declivity; 6–7 times longer than wide; slightly curved distally. Transverse carina on petiole: as a narrow and acuminate rim. Dorsal petiolar area: nitid. Lateral petiolar area: some sparse and elongated punctures; long and stiff setae present, evenly distributed. Ventral petiolar area: fine and delicate longitudinal carina. Metasoma: subovoid (lateral view) with ovipositor concealed; without setae except T6–7 on posterior edge. Tergite 1: longer than petiole.</p>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. Head and mesosoma in lateral view. For terminology see the list in Material and methods. Scale in the figure.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. Head and mesosoma in dorsal view. For terminology see the list in Material and methods. Scale in the figure.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figures 3–5.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. <bold>3</bold> right antenna in dorsal view <bold>4</bold> hind legs in lateral view <bold>5</bold> head in dorsal view. For terminology see the list in Material and methods. Scale in the figures.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figures 6–7.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. <bold>6</bold> head in lateral view <bold>7</bold> head in frontal view. For terminology see the list in Material and methods. Scale in the figures.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g008.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F9" position="float" orientation="portrait">
+                        <label>Figures 8–9.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. <bold>8</bold> left fore wing <bold>9</bold> head and mesosoma in ventral view. For terminology see the list in Material and methods. Scale in the figures.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g009.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F10" position="float" orientation="portrait">
+                        <label>Figures 10–11.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. <bold>10</bold> fore and mid leg in frontal view <bold>11</bold> metasoma in laterodorsal view. For terminology see the list in Material and methods. Scale in the figures.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g010.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F11" position="float" orientation="portrait">
+                        <label>Figure 12.</label>
+                        <caption><p><italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n. Holotype, female. <bold>10</bold> habitus in lateral view. Scale in the figure.</p></caption>
+                        <graphic xlink:href="ZooKeys-116-059-g011.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p>Eye: 1.8–2.0 times higher than wide. Postorbital carina: present and complete; conspicuously outlined; detached from the margin of lower eye orbit; sinuous (see malar space); reaching the top of eye orbit (some foveae may also be present and are part of carina). Antennal foramen: inserted at the same level as the top of eye orbit; antennal rim: conspicuously elevated laterally (head lateral view). Median lobe of mesoscutum: slightly curved or flat (lateral view). Notaulus: present as continuous furrow. Metanotum: not concealed by mesoscutellum (dorsal view). Sculpture of hind femur: unsculptured (nitid, autapomorphy for <italic><tp:taxon-name>Decevania feitosai</tp:taxon-name></italic> sp. n.). Posterior edge of metapectal complex: curved (lateral view). Dorsal area of propodeal declivity (ventral to nucha): projection present and longer than base. Petiole: longer than or as long as dorsal margin of tergite 1. 1R1 vein: present and elongate.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The specific epithet is a patronymic honoring Rodrigo M. Feitosa, colleague and researcher of <tp:taxon-name>Formicidae</tp:taxon-name> from MZSP.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution"><title>Link to distribution map.</title>
+                  <p>Decevania Distribution<ext-link ext-link-type="uri" xlink:href="http://purl.oclc.org/NET/hymontology/proof" xlink:type="simple">16</ext-link>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Material examined"><title>Material examined.</title>
+                    <p>Holotype. Female. <bold>COLOMBIA:</bold> Risaralda, SFF Otún Quimbaya, El Molinillo, <named-content content-type="dwc:verbatimCoordinates">4°43'N, 75°34'W</named-content> , 2220 m, Malaise, 17.ii–04.iii.2003, G. López leg., M.3696 (IAVH). Paratypes. 3 females. <bold>COLOMBIA:</bold> Magdalena, PNN Sierra Nevada de Santa Marta, San Lorenzo, <named-content content-type="dwc:verbatimCoordinates">10°48'N, 73°39'W</named-content> , 2200 m, Malaise, 09–24.vi.2000, J. Cantillo leg. M. 205 (IAVH 65814); 09–24.vi.2000, J. Cantillo leg. M. 205 (IAVH 65815); 24–30.vi.2000, J. Cantillo leg. M. 211 (IAVH 65816). 4 females. Risaralda, SFF Otún Quimbaya, El Molinillo, <named-content content-type="dwc:verbatimCoordinates">4°43'N, 75°34'W</named-content> , 2220 m, 03–17.xii.2002, Malaise, G. Walker leg., M. 2972 (IAVH 65827); <named-content content-type="dwc:verbatimCoordinates">4°43'N, 75°34'W</named-content> , 2220 m, 17.xii.2002–03.i.2003, Malaise, G. Walker leg., M. 2971 (IAVH 65828). Cuchilla Camino, <named-content content-type="dwc:verbatimCoordinates">4°43'N, 75°35'W</named-content> , 2050 m, 04–17.ii.2003, Malaise, G. López leg., M. 3680 (IAVH). Cuchilla Camino, <named-content content-type="dwc:verbatimCoordinates">4°44'N, 75°35'W</named-content> , 1960 m, 04–21.iii.2003, Malaise, G. López leg., M. 3669 (IAVH 65826).<!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak--><!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Additional diagnoses for females of Decevania"><title>Additional diagnoses for females of Decevania</title>
+            <p><italic><tp:taxon-name>Decevania nuda</tp:taxon-name></italic> Kawada, 2007. Eye: 1.8–2.0 times higher than wide. Postorbital carina: present and complete; conspicuously outlined; closer to the margin of lower eye orbit; slightly sinuous (see malar space); reaching the top of eye orbit (some foveae may also be present and are part of carina). Antennal foramen: positioned above the level of the top of eye orbit; antennal rim: inconspicuous elevated laterally (head lateral view). Median lobe of mesoscutum: curved (lateral view). Notaulus: present as series of elongate foveae. Metanotum: not concealed by mesoscutellum (dorsal view). Sculpture of hind femur: protuberant sculpture (colliculate). Posterior edge of metapectal complex: angulated (lateral view). Dorsal area of propodeal declivity (ventral to nucha): projection present, shorter than base or as long as wide. Petiole: shorter than tergite 1. 1R1 vein: absent.</p>
+            <sec sec-type="Material examined"><title>Material examined.</title>
+                <p>Paratype. Female. <bold>ECUADOR:</bold> Napo, Sierra Azul, <named-content content-type="dwc:verbatimCoordinates">0.67°S, 77.92°W</named-content> , 2300 m, 21–22.iv.1996, PT, P.J. Hibbs col. (CNCI).</p>
+                <p><italic><tp:taxon-name>Decevania parva</tp:taxon-name></italic> (Enderlein, 1901). Eye: 1.8–2.0 times higher than wide. Postorbital carina: present and complete; inconspicuously outlined; detached from the margin of lower eye orbit; sinuous (see malar space); not reaching the top of eye orbit. Antennal foramen: positioned at the same level as the top of eye orbit; antennal rim: conspicuous elevated laterally (head lateral view). Median lobe of mesoscutum: curved (lateral view). Notaulus: present as continuous furrow. Metanotum: not concealed by mesoscutellum (dorsal view). Sculpture of hind femur: protuberant sculpture (colliculate). Posterior edge of metapectal complex: curved (lateral view). Dorsal area of propodeal declivity (ventral to nucha): projection present, shorter than base or as long as wide. Petiole: longer than or as long as dorsal margin of tergite 1. 1R1 vein: present and elongated.</p>
+            </sec>
+            <sec sec-type="Material examined"><title>Material examined.</title>
+                <p>Female. <bold>COLOMBIA:</bold> Cundinamarca, PNN Chingaza Bosque, Palacio, <named-content content-type="dwc:verbatimCoordinates">4°31'N, 73°45'W</named-content> , 2930 m, Malaise, 20.xii.2000–05.i.2001, L. Cifuentes leg., M. 1223 (IAVH 65781).</p>
+                <p><italic><tp:taxon-name>Decevania reticulata</tp:taxon-name></italic> Kawada, 2007. Eye: 1.8–2.0 times higher than wide. Postorbital carina: present and complete; conspicuously outlined; detached from the margin of lower eye orbit; slightly sinuous (see malar space); reaching the top of eye orbit (some foveae may also be present and are part of carina). Antennal foramen: positioned above the level as the top of eye orbit; antennal rim: inconspicuously elevated laterally (head lateral view). Median lobe of mesoscutum: curved (lateral view). Notaulus: present as series of subcircular foveae. Metanotum: concealed by mesoscutellum (dorsal view). Sculpture of hind femur: irregular sculpture (rugulose). Posterior edge of metapectal complex: angulated (lateral view). Dorsal area of propodeal declivity (ventral to nucha): projection present, shorter than base or as long as wide. Petiole: shorter than tergite 1. 1R1 vein: present and elongated.</p>
+            </sec>
+            <sec sec-type="Material examined"><title>Material examined.</title>
+                <p>Paratype. Female. <bold>COLOMBIA:</bold> Chocó, PNN Utría Cocalito Dosel, <named-content content-type="dwc:verbatimCoordinates">6°1'N, 77°20W</named-content> , 20 m, Malaise, 04–19.vii.2000, J. Pérez leg., M. 339 (IAVH 65778).</p>
+                <p><italic><tp:taxon-name>Decevania unidentata</tp:taxon-name></italic> Kawada, 2007. Eye: 1.6 times higher than wide. Postorbital carina: present, but some portion not visible; inconspicuously outlined; closer to the margin of lower eye orbit; reaches the top of eye orbit (some foveae may also be present and are part of carina). Antennal foramen: positioned above the level as the top of eye orbit; antennal rim: conspicuous elevated laterally (head lateral view). Median lobe of mesoscutum: slightly curved or flat (lateral view). Notaulus: present as series of subcircular foveae. Metanotum: not concealed by mesoscutellum (dorsal view). Sculpture of hind femur: regular sculpture (imbricate). Posterior edge of metapectal complex: angulated (lateral view). Dorsal area of propodeal declivity (ventral to nucha): projection present and longer than base. Petiole: longer than or as long as dorsal margin of tergite 1. 1R1 vein: present and elongate.</p>
+                <p><bold>Material examined.</bold> Holotype observed. Access through: <tp:taxon-name>Evanioidea</tp:taxon-name> online<ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/29154" xlink:type="simple">17</ext-link>.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Thanks to A. Bennett (CNCI) and C. A. M. Uribe (IAVH) for the loan of material for this study. Julia C. Almeida (MZSP) and Maurício M. da Rocha (MZSP) for discussion and to Antonio C. C. Macedo, Cleide Costa (MZSP), Gabriel Biffi (MZSP), Patricia Mullins (NCSU) and Rodrigo M. Feitosa (MZSP) for constructive comments on the manuscript. This material is based upon work supported by Fundação de Amparo à Pesquisa do Estado de São Paulo (process 2008/04661-3 to Ricardo Kawada).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dallwitz</surname><given-names>MJ</given-names></name></person-group> (<year>1980</year>)<article-title> A general system for coding taxonomic descriptions.</article-title> <source>Taxon</source> <volume>29</volume>:<fpage>41</fpage>-<lpage>46</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/1219595" xlink:type="simple">doi: 10.2307/1219595</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dallwitz</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Paine</surname><given-names>TA</given-names></name><name name-style="western"><surname>Zurcher</surname><given-names>EJ</given-names></name></person-group> (<year>1993 onwards</year>) <source>User’s guide to the DELTA System: a general system for processing taxonomic descriptions. 4th edition</source>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dallwitz</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Paine</surname><given-names>TA</given-names></name><name name-style="western"><surname>Zurcher</surname><given-names>EJ</given-names></name></person-group> (<year>1999 onwards</year>)<source> User’s Guide to the DELTA Editor.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Deans</surname><given-names>AR</given-names></name></person-group> (<year>2006</year>)<article-title> Familia Evaniidae</article-title>. In: <person-group><name name-style="western"><surname>Fernandez</surname><given-names>F</given-names></name><name name-style="western"><surname>Sharkey</surname><given-names>MJ</given-names></name></person-group> (<role>Eds</role><source> Introducción a los Hymenoptera de la Región Neotropical</source>. <publisher-name>Sociedad Colombiana de Entomología &amp; Universidad Nacional de Colombia</publisher-name>, <publisher-loc>Bogotá</publisher-loc>, <fpage>795</fpage>–<lpage>802</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Deans</surname><given-names>AR</given-names></name><name name-style="western"><surname>Huben</surname><given-names>M</given-names></name></person-group> (<year>2003</year>)<article-title> Annotated key to the ensign wasp (Hymenoptera: Evaniidae) genera of the world, with descriptions of three new genera.</article-title> <source>Proceedings of the Entomological Society of Washington</source> <volume>105</volume>:<fpage>859</fpage>-<lpage>875</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kawada</surname><given-names>R</given-names></name><name name-style="western"><surname>Azevedo</surname><given-names>CO</given-names></name></person-group> (<year>2007</year>)<article-title> Taxonomic revision of the Neotropical ensign wasp genus Decevania (Hymenoptera: Evaniidae)</article-title>. <source>Zootaxa</source> <volume>1496</volume>: <fpage>1</fpage>–<lpage>30</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2007f/z01496p030f.pdf" xlink:type="simple">18</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Yoder</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Mikó</surname><given-names>I</given-names></name><name name-style="western"><surname>Seltmann</surname><given-names>KC</given-names></name><name name-style="western"><surname>Bertone</surname><given-names>MA</given-names></name><name name-style="western"><surname>Deans</surname><given-names>AR</given-names></name></person-group> (<year>2010</year>)<article-title> A gross anatomy ontology for Hymenoptera</article-title>. <source>PLoS ONE</source> <volume>5</volume> (<issue>12</issue>): <lpage>e15991</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.001599119" xlink:type="simple">doi: 10.1371/journal.pone.0015991</ext-link> <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0015991" xlink:type="simple">19</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>The Hymenoptera Glossary: Hymenoptera Anatomy Consortium</surname></name></person-group>. Accessed on Fri Apr 22 07:37:41 -0500 2011. Available at <ext-link ext-link-type="uri" xlink:href="http://glossary.hymao.org" xlink:type="simple">http://glossary.hymao.org</ext-link>. <ext-link ext-link-type="uri" xlink:href="http://purl.oclc.org/NET/hymontology" xlink:type="simple">20</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Winston</surname><given-names>JE</given-names></name></person-group> (<year>1999</year>)<source> Describing Species</source>. xxi+ 518 pp. <publisher-loc>New York</publisher-loc>: <publisher-name>Columbia University Press</publisher-name>. <ext-link ext-link-type="uri" xlink:href="http://geolmag.geoscienceworld.org/cgi/content/extract/137/4/472-a" xlink:type="simple">21</ext-link></mixed-citation></ref>
+        </ref-list>
+        <app-group>
+        	<app>
+        		<title>Appendix I</title>
+            <table-wrap position="float" orientation="portrait"><!--PageBreak--><!--PageBreak--><!--PageBreak-->
+                <caption><p><bold>Abbreviations used on figures</bold></p></caption>
+                <table id="T1">
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">abbreviation</th>
+                            <th rowspan="1" colspan="1">description</th>
+                            <th rowspan="1" colspan="1">detail</th>
+                            <th rowspan="1" colspan="1">Fig.</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">aamp</td>
+                            <td rowspan="1" colspan="1">anterior area of metapleural pit</td>
+                            <td rowspan="1" colspan="1">area anterior to metapleural pit, after posterodorsal mesepimeral area and bellow the propodeal spiracle</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">af</td>
+                            <td rowspan="1" colspan="1">antennal foramen</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ar</td>
+                            <td rowspan="1" colspan="1">antennal rim</td>
+                            <td rowspan="1" colspan="1"> </td>
+                            <td rowspan="1" colspan="1">6, 7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">aiht</td>
+                            <td rowspan="1" colspan="1">apical incision of hind tibia</td>
+                            <td rowspan="1" colspan="1">distal margin of hind tibia, site of insertion of inner and outer tibia spurs</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ama</td>
+                            <td rowspan="1" colspan="1">anterior mesopleural area</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ams</td>
+                            <td rowspan="1" colspan="1">anterior mesoscutal sulcus</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ao</td>
+                            <td rowspan="1" colspan="1">anterior ocellus</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">aps</td>
+                            <td rowspan="1" colspan="1">adpetiolar strip</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">bt</td>
+                            <td rowspan="1" colspan="1">basitarsus</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">btp</td>
+                            <td rowspan="1" colspan="1">basitarsus projection</td>
+                            <td rowspan="1" colspan="1">projection of the apex of tarsus (at least tarsus 1-3)</td>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ce</td>
+                            <td rowspan="1" colspan="1">compound eye</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">cl</td>
+                            <td rowspan="1" colspan="1">clypeus</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">7, 9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">cos</td>
+                            <td rowspan="1" colspan="1">circumocular sulcus</td>
+                            <td rowspan="1" colspan="1">furrow that surrounds the compound eye</td>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">dlpa</td>
+                            <td rowspan="1" colspan="1">dorsolateral pronotal area</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">dpa</td>
+                            <td rowspan="1" colspan="1">dorsal petiolar area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">dppa</td>
+                            <td rowspan="1" colspan="1">dorsal propodeal area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">dpra</td>
+                            <td rowspan="1" colspan="1">dorsal pronotal area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ec</td>
+                            <td rowspan="1" colspan="1">epicnemial carina </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">fg</td>
+                            <td rowspan="1" colspan="1">femoral groove</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">fl</td>
+                            <td rowspan="1" colspan="1">flagellum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">F1, F2...</td>
+                            <td rowspan="1" colspan="1">flagellomere </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">hf</td>
+                            <td rowspan="1" colspan="1">hind femur </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ht</td>
+                            <td rowspan="1" colspan="1">hind tibia </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">its</td>
+                            <td rowspan="1" colspan="1">inner tibial spur </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">jl</td>
+                            <td rowspan="1" colspan="1">jugal lobe </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lf</td>
+                            <td rowspan="1" colspan="1">lower face </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">7, 9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lmta</td>
+                            <td rowspan="1" colspan="1">lower metapleural area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lpa</td>
+                            <td rowspan="1" colspan="1">lateral petiolar area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lppa</td>
+                            <td rowspan="1" colspan="1">lateral propodeal area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">lpra</td>
+                            <td rowspan="1" colspan="1">lateral pronotal area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mc</td>
+                            <td rowspan="1" colspan="1">mesoscutum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mcx2</td>
+                            <td rowspan="1" colspan="1">mesocoxa </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mcx3</td>
+                            <td rowspan="1" colspan="1">metacoxa </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">md</td>
+                            <td rowspan="1" colspan="1">mandible </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mds</td>
+                            <td rowspan="1" colspan="1">mesodiscrimen </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mlms</td>
+                            <td rowspan="1" colspan="1">median lobe of mesoscutum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mls</td>
+                            <td rowspan="1" colspan="1">malar sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mn</td>
+                            <td rowspan="1" colspan="1">mesonotum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mplf</td>
+                            <td rowspan="1" colspan="1">median process of lower face </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">7, 9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ms</td>
+                            <td rowspan="1" colspan="1">malar space </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">msi</td>
+                            <td rowspan="1" colspan="1">mesothoracic spiracular incision </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">msn</td>
+                            <td rowspan="1" colspan="1">mesosternum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">9</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mss</td>
+                            <td rowspan="1" colspan="1">mesepimeral sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mst</td>
+                            <td rowspan="1" colspan="1">mesoscutellum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mtes</td>
+                            <td rowspan="1" colspan="1">metapleural epicoxal sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mtn</td>
+                            <td rowspan="1" colspan="1">metanotum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mtp</td>
+                            <td rowspan="1" colspan="1">metapleuron </td>
+                            <td rowspan="1" colspan="1">divided into two regions by difference of sculpture and flatness: upper metapleural area (usually flat/areolate) and lower metapleural area (usually concave/foveolate)</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mtpc</td>
+                            <td rowspan="1" colspan="1">metapleural carina </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mtpp</td>
+                            <td rowspan="1" colspan="1">metapleural pit </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">mts</td>
+                            <td rowspan="1" colspan="1">metascutellum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">nc</td>
+                            <td rowspan="1" colspan="1">nucha </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2, 11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">not</td>
+                            <td rowspan="1" colspan="1">notaulus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">orb</td>
+                            <td rowspan="1" colspan="1">orbital band </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6, 7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ots</td>
+                            <td rowspan="1" colspan="1">outer tibial spur </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pd</td>
+                            <td rowspan="1" colspan="1">pedicel </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">3, 5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pdma</td>
+                            <td rowspan="1" colspan="1">posterodorsal mesepimeral area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">occ</td>
+                            <td rowspan="1" colspan="1">occipital carina</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pmsa</td>
+                            <td rowspan="1" colspan="1">posterior mesepimeral area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">poc</td>
+                            <td rowspan="1" colspan="1">posterior ocelli </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pp</td>
+                            <td rowspan="1" colspan="1">propodeum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ppl</td>
+                            <td rowspan="1" colspan="1">parapsidal line </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pps</td>
+                            <td rowspan="1" colspan="1">prespecular sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pr</td>
+                            <td rowspan="1" colspan="1">pronotum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">prj</td>
+                            <td rowspan="1" colspan="1">projection of propodeum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">prn</td>
+                            <td rowspan="1" colspan="1">pronotal neck </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">psc</td>
+                            <td rowspan="1" colspan="1">parascutal carina </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pshs</td>
+                            <td rowspan="1" colspan="1">pronotal suprahumeral sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pss</td>
+                            <td rowspan="1" colspan="1">parascutal sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pt</td>
+                            <td rowspan="1" colspan="1">petiole </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ptc</td>
+                            <td rowspan="1" colspan="1">postorbital carina </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6, 7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">pts</td>
+                            <td rowspan="1" colspan="1">protibial spur </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">10</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sc</td>
+                            <td rowspan="1" colspan="1">scape </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">3, 5</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sp</td>
+                            <td rowspan="1" colspan="1">speculum </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">sss</td>
+                            <td rowspan="1" colspan="1">scutoscutellar sulcus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">T1, T2...</td>
+                            <td rowspan="1" colspan="1">tergite </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tc</td>
+                            <td rowspan="1" colspan="1">tarsal claw </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4, 10</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tcpt</td>
+                            <td rowspan="1" colspan="1">transverse carina on petiole </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tprc</td>
+                            <td rowspan="1" colspan="1">transverse pronotal carina </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tr</td>
+                            <td rowspan="1" colspan="1">trochanter </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">trll</td>
+                            <td rowspan="1" colspan="1">trochantellus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ts</td>
+                            <td rowspan="1" colspan="1">tarsus </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">4, 10</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">tsa</td>
+                            <td rowspan="1" colspan="1">transcutal articulation </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">ufc</td>
+                            <td rowspan="1" colspan="1">upper face </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">6, 7</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">umta</td>
+                            <td rowspan="1" colspan="1">upper metapleural area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">vmsa</td>
+                            <td rowspan="1" colspan="1">ventral mesopleural area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">vpta</td>
+                            <td rowspan="1" colspan="1">ventral petiolar area </td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">11</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">vx</td>
+                            <td rowspan="1" colspan="1">vertex</td>
+                            <td rowspan="1" colspan="1"/>
+                            <td rowspan="1" colspan="1">5, 6</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            </app>
+            <app>
+            	<title>Appendix II</title>
+            <table-wrap position="float" orientation="portrait">
+                <caption><p><bold>Links</bold></p></caption>
+                <table id="T2">
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25686" xlink:type="simple">http://evanioidea.info/public/taxon_name/show/25686</ext-link></td>
+                            <td rowspan="1" colspan="1">introduction</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25752" xlink:type="simple">http://evanioidea.info/public/taxon_name/show/25752</ext-link></td>
+                            <td rowspan="1" colspan="1">introduction</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25753" xlink:type="simple">http://evanioidea.info/public/taxon_name/show/25753</ext-link></td>
+                            <td rowspan="1" colspan="1">introduction</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/25692" xlink:type="simple">http://evanioidea.info/public/taxon_name/show/25692</ext-link></td>
+                            <td rowspan="1" colspan="1">introduction</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.canacoll.org/" xlink:type="simple">http://www.canacoll.org/</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.humboldt.org.co/iavh/inicio" xlink:type="simple">http://www.humboldt.org.co/iavh/inicio</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.mz.usp.br/" xlink:type="simple">http://www.mz.usp.br/</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.leica-microsystems.com" xlink:type="simple">http://www.leica-microsystems.com</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://maps.google.com/" xlink:type="simple">http://maps.google.com/</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://goo.gl/" xlink:type="simple">http://goo.gl/</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://goo.gl/LJ1hd" xlink:type="simple">http://goo.gl/LJ1hd</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://datadryad.org/" xlink:type="simple">http://datadryad.org/</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://delta-intkey.com/" xlink:type="simple">http://delta-intkey.com/</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.bioontology.org/ontology/HAO" xlink:type="simple">http://purl.bioontology.org/ontology/HAO</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://goo.gl/LJ1hd" xlink:type="simple">http://goo.gl/LJ1hd</ext-link></td>
+                            <td rowspan="1" colspan="1">material and methods</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.oclc.org/NET/hymontology/proof " xlink:type="simple">http://purl.oclc.org/NET/hymontology/proof </ext-link></td>
+                            <td rowspan="1" colspan="1">results</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://evanioidea.info/public/taxon_name/show/29154" xlink:type="simple">http://evanioidea.info/public/taxon_name/show/29154</ext-link></td>
+                            <td rowspan="1" colspan="1">results</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.mapress.com/zootaxa/2007f/z01496p030f.pdf" xlink:type="simple">http://www.mapress.com/zootaxa/2007f/z01496p030f.pdf</ext-link></td>
+                            <td rowspan="1" colspan="1">references</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0015991" xlink:type="simple">http://dx.doi.org/10.1371/journal.pone.0015991</ext-link></td>
+                            <td rowspan="1" colspan="1">references</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://purl.oclc.org/NET/hymontology" xlink:type="simple">http://purl.oclc.org/NET/hymontology</ext-link></td>
+                            <td rowspan="1" colspan="1">references</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://geolmag.geoscienceworld.org/cgi/content/extract/137/4/472-a" xlink:type="simple">http://geolmag.geoscienceworld.org/cgi/content/extract/137/4/472-a</ext-link></td>
+                            <td rowspan="1" colspan="1">references</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/5025" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/5025</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1080" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1080</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3191" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3191</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/611" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/611</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://hymglossary.tamu.edu/projects/32/public/ontology_class/show/1069" xlink:type="simple">http://hymglossary.tamu.edu/projects/32/public/ontology_class/show/1069</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3836" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3836</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">28</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4502" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4502</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4160" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4160</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">30</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1084" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1084</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1779" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1779</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/5973" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/5973</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1118" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1118</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">34</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1076" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1076</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/470" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/470</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/516" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/516</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4001" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4001</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3172" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3172</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">39</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/522" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/522</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1196" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1196</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">41</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/484" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/484</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/526" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/526</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/8063" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/8063</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/615" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/615</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">45</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1228" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1228</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">46</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/853" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/853</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">47</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/7261" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/7261</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">48</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3270" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3270</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">49</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3241" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3241</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">50</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/mesoscutum" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/mesoscutum</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">51</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1711" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1711</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">52</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1708" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1708</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">53</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/488" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/488</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">54</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3274" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3274</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">55</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1417" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1417</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">56</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1635" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1635</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">57</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/492" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/492</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">58</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1075" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1075</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">59</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/malar%20space" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/malar%20space</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">60</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/mesosternum" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/mesosternum</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">61</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3173" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3173</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">62</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/622" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/622</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">63</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3181" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3181</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">64</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/532" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/532</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">65</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/metapleuron" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/metapleuron</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">66</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3332" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3332</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">67</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/623" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/623</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">68</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1698" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1698</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">69</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/601" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/601</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">70</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3255" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3255</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/541" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/541</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">71</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1597" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1597</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">73</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3232" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3232</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">74</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1780" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1780</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">75</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/propodeum" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/propodeum</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">76</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/1699" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/1699</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">77</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3174" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3174</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">78</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/489" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/489</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">79</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4538" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4538</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">80</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3258" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3258</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">81</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3183" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3183</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">82</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4542" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4542</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">83</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/860" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/860</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">84</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4591" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4591</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">85</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/550" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/550</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">86</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/speculum" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/speculum</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">87</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/scutoscutellar%20sulcus" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/scutoscutellar%20sulcus</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">88</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/583" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/583</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">89</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/580" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/580</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">90</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/4382" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/4382</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">91</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/3458" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/3458</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">92</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/610" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/610</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">93</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/612" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/612</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">94</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/579" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/579</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">95</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/label/show_via_name/articulation" xlink:type="simple">http://api.hymao.org/projects/32/public/label/show_via_name/articulation</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">96</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/655" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/655</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">97</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/7242" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/7242</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">98</td>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://api.hymao.org/projects/32/public/ontology_class/show/608" xlink:type="simple">http://api.hymao.org/projects/32/public/ontology_class/show/608</ext-link></td>
+                            <td rowspan="1" colspan="1">terminology</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            </app>
+        </app-group>
+    </back>
+</article>

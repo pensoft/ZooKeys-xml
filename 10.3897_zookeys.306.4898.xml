@@ -1,0 +1,355 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.306.4898 </article-id>
+            <title-group>
+                <article-title>FORMIDABEL: The Belgian Ants Database</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Brosens</surname>
+                        <given-names>Dimitri</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Vankerkhoven</surname>
+                        <given-names>François</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Ignace</surname>
+                        <given-names>David</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Wegnez</surname>
+                        <given-names>Philippe</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Noé</surname>
+                        <given-names>Nicolas</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Heughebaert</surname>
+                        <given-names>André</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A5">5</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bortels</surname>
+                        <given-names>Jeannine</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Dekoninck</surname>
+                        <given-names>Wouter</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A7">7</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Instituut voor Natuur en Bosonderzoek, Kliniekstraat 25, B-1070, Brussels, Belgium
+            </aff>
+            <aff id="A2">
+                <label>2</label>Polyergus, Wolvenstraat 9, B-3290, Diest, Belgium
+            </aff>
+            <aff id="A3">
+                <label>3</label>FourmisWalBru, Rue Winston Churchill 91, B-6180, Courcelles, Belgium
+            </aff>
+            <aff id="A4">
+                <label>4</label>FourmisWalBru, Rue de la Grotte, 23, B-4651, Herve, Belgium
+            </aff>
+            <aff id="A5">
+                <label>5</label>ULB, Université Libre de Bruxelles, Campus de la Plaine CP257, Brussels, Belgium
+            </aff>
+            <aff id="A6">
+                <label>6</label>ULG, Université de Liège, Gembloux Agro-Bio Tech, Passage des Déportés, 2, B-5030 Gembloux - Belgium
+            </aff>
+            <aff id="A7">
+                <label>7</label>Royal Belgian Institute of Natural Sciences (RBINS), Vautierstraat 29, B-1000, Brussels, Belgium
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Wouter Dekoninck (<email xlink:type="simple">Wouter.Dekoninck@naturalsciences.be</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Chavan</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>306</issue>
+            <fpage>59</fpage>
+            <lpage>70</lpage>
+            <history>
+                <date date-type="received">
+                    <day>25</day>
+                    <month>2</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>22</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Dimitri Brosens, François Vankerkhoven, David Ignace, Philippe Wegnez, Nicolas Noé, André Heughebaert, Jeannine Bortels, Wouter Dekoninck</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>FORMIDABEL is a database of Belgian Ants containing more than 27.000 occurrence records. These records originate from collections, field sampling and literature. The database gives information on 76 native and 9 introduced ant species found in Belgium. The collection records originated mainly from the ants collection in Royal Belgian Institute of Natural Sciences (RBINS), the ‘Gaspar’ Ants collection in Gembloux and the zoological collection of the University of Liège (ULG). The oldest occurrences date back from May 1866, the most recent refer to August 2012. FORMIDABEL is a work in progress and the database is updated twice a year.</p>
+                <p>The latest version of the dataset is publicly and freely accessible through this url: <ext-link ext-link-type="uri" xlink:href="http://ipt.biodiversity.be/resource.do?r=formidabel" xlink:type="simple">http://ipt.biodiversity.be/resource.do?r=formidabel</ext-link>. The dataset is also retrievable via the GBIF data portal through this link: <ext-link ext-link-type="uri" xlink:href="http://data.gbif.org/datasets/resource/14697" xlink:type="simple">http://data.gbif.org/datasets/resource/14697</ext-link></p>
+                <p><!--PageBreak-->A dedicated geo-portal, developed by the Belgian Biodiversity Platform is accessible at: <ext-link ext-link-type="uri" xlink:href="http://www.formicidae-atlas.be" xlink:type="simple">http://www.formicidae-atlas.be</ext-link></p>
+                <p><bold>Purpose:</bold> FORMIDABEL is a joint cooperation of the Flemish ants working group “Polyergus” (<ext-link ext-link-type="uri" xlink:href="http://formicidae.be" xlink:type="simple">http://formicidae.be</ext-link>) and the Wallonian ants working group “FourmisWalBru” (<ext-link ext-link-type="uri" xlink:href="http://fourmiswalbru.be" xlink:type="simple">http://fourmiswalbru.be</ext-link>). The original database was created in 2002 in the context of the preliminary red data book of Flemish Ants (<xref ref-type="bibr" rid="B2">Dekoninck et al. 2003</xref>). Later, in 2005, data from the Southern part of Belgium; Wallonia and Brussels were added. In 2012 this dataset was again updated for the creation of the first Belgian Ants Atlas (<xref ref-type="fig" rid="F1">Figure 1</xref>) (<xref ref-type="bibr" rid="B5">Dekoninck et al. 2012</xref>). The main purpose of this atlas was to generate maps for all outdoor-living ant species in Belgium using an overlay of the standard Belgian ecoregions. By using this overlay for most species, we can discern a clear and often restricted distribution pattern in Belgium, mainly based on vegetation and soil types.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Formicidae</kwd>
+                <kwd>Belgium</kwd>
+                <kwd>Flanders</kwd>
+                <kwd>Wallonia</kwd>
+                <kwd>Brussels Capital Region</kwd>
+                <kwd>ecological data</kwd>
+                <kwd>grid mapping</kwd>
+                <kwd>UTM</kwd>
+                <kwd>historical data</kwd>
+                <kwd>literature</kwd>
+                <kwd>collections</kwd>
+                <kwd>observations</kwd>
+                <kwd>trapping</kwd>
+                <kwd>ants</kwd>
+            </kwd-group>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>Resource citation</meta-name>
+                    <meta-value><bold>Resource citation:</bold> Polyergus Working Group and FourmisWalBru Working Group (2013 -). FORMIDABEL: The Belgian Ants Database, 27264 records. Contributed by Brosens D, Vankerkhoven F, Ignace D, Wegnez P, Noé N, Heughebaert A, Bortels J and W Dekoninck. Online at <ext-link ext-link-type="uri" xlink:href="http://ipt.biodiversity.be/resource.do?r=formidabel" xlink:type="simple">http://ipt.biodiversity.be/resource.do?r=formidabel</ext-link> and, <ext-link ext-link-type="uri" xlink:href="http://www.formicidae-atlas.be" xlink:type="simple">www.formicidae-atlas.be</ext-link>, Version 1.0 (last updated on 2013-04-19), GBIF key: <ext-link ext-link-type="uri" xlink:href="http://gbrds.gbif.org/browse/agent?uuid=b528799a-2d52-4023-aa02-9ce081e3ca5f" xlink:type="simple">http://gbrds.gbif.org/browse/agent?uuid=b528799a-2d52-4023-aa02-9ce081e3ca5f</ext-link>. Data Paper ID: doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.306.4898" xlink:type="simple">10.3897/zookeys.306.4898</ext-link></meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Taxonomic coverage">
+            <title>Taxonomic coverage</title>
+            <sec sec-type="General taxonomic coverage description">
+                <title>General taxonomic coverage description</title>
+                <p>The taxonomic coverage (<xref ref-type="fig" rid="F2">Figure 2</xref>) of this database spans the full range of ants pertaining to Belgium (indigenous ant species and exotic introduced species). The determination level is species level and, if appropriate, hybrid level. For some species, information on micro-and macrogynes is available. Key milestones of FORMIDABEL from conception till date are described in the ”Dataset” section of this manuscript.</p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p><ext-link ext-link-type="uri" xlink:href="http://www.formicidae-atlas.be" xlink:type="simple">www.formicidae-atlas.be</ext-link></p></caption>
+                    <graphic xlink:href="ZooKeys-306-059-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 2.</label>
+                    <caption><p>Taxonomic range of the FORMIDABEL database subfamilies</p></caption>
+                    <graphic xlink:href="ZooKeys-306-059-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <!--PageBreak-->
+                <p>The taxonomic authorities followed are: <xref ref-type="bibr" rid="B7">Radchenko and Elmes (2010)</xref> for the genus <italic><tp:taxon-name>Myrmica</tp:taxon-name></italic> and <xref ref-type="bibr" rid="B6">Seifert (2007)</xref> for the other genera. The dataset contains occurrences of 76 native and 9 introduced species.</p>
+                <p>As depicted in <xref ref-type="fig" rid="F2">Figure 2</xref>, the most abundant subfamily in the database is the <tp:taxon-name>Formicinae</tp:taxon-name> (49,4%) followed by the <tp:taxon-name>Myrmicinae</tp:taxon-name> (48,7%), the <tp:taxon-name>Dolichoderinae</tp:taxon-name> (0,9%) and the <tp:taxon-name>Ponerinae</tp:taxon-name> (0,8%). The top five most recorded species are <italic><tp:taxon-name>Lasius niger</tp:taxon-name></italic> (2846 records), <italic><tp:taxon-name>Myrmica rubra</tp:taxon-name></italic> (2601 records), <italic><tp:taxon-name>Myrmica scabrinodis</tp:taxon-name></italic> (1626 records), <italic><tp:taxon-name>Formica fusca</tp:taxon-name></italic> (1467 records) and <italic><tp:taxon-name>Myrmica sabuleti</tp:taxon-name></italic> (1202 records).</p>
+            </sec>
+        </sec>
+        <sec sec-type="Taxonomic ranks">
+            <title>Taxonomic ranks</title>
+            <p><bold>Phylum</bold>: <tp:taxon-name>Arthropoda</tp:taxon-name></p>
+            <p><bold>Subphylum</bold>: <tp:taxon-name>Hexapoda</tp:taxon-name></p>
+            <p><bold>Class</bold>: <tp:taxon-name>Insecta</tp:taxon-name></p>
+            <p><bold>Order</bold>: <tp:taxon-name>Hymenoptera</tp:taxon-name></p>
+            <p><bold>Suborder</bold>: <tp:taxon-name>Apocrita</tp:taxon-name></p>
+            <p><bold>Superfamily</bold>: <tp:taxon-name>Vespoidea</tp:taxon-name></p>
+            <p><bold>Family</bold>: <tp:taxon-name>Formicidae</tp:taxon-name></p>
+            <p><bold>Subfamily</bold>: <tp:taxon-name>Dolichoderinae</tp:taxon-name>, <tp:taxon-name>Formicinae</tp:taxon-name>, <tp:taxon-name>Myrmicinae</tp:taxon-name>, <tp:taxon-name>Ponerinae</tp:taxon-name></p>
+            <p><bold>Genera</bold>: <italic><tp:taxon-name>Anergates</tp:taxon-name></italic>, <italic><tp:taxon-name>Aphaenogaster</tp:taxon-name></italic>, <italic><tp:taxon-name>Camponotus</tp:taxon-name></italic>, <italic><tp:taxon-name>Dolichoderus</tp:taxon-name></italic>, <italic><tp:taxon-name>Formica</tp:taxon-name></italic>, <italic><tp:taxon-name>Formicoxenus</tp:taxon-name></italic>, <italic><tp:taxon-name>Harpagoxenus</tp:taxon-name></italic>, <italic><tp:taxon-name>Hypoponera</tp:taxon-name></italic>, <italic><tp:taxon-name>Lasius</tp:taxon-name></italic>, <italic><tp:taxon-name>Leptothorax</tp:taxon-name></italic>, <italic><tp:taxon-name>Linepithema</tp:taxon-name></italic>, <italic><tp:taxon-name>Manica</tp:taxon-name></italic>, <italic><tp:taxon-name>Monomorium</tp:taxon-name></italic>, <italic><tp:taxon-name>Myrmecina</tp:taxon-name></italic>, <italic><tp:taxon-name>Myrmica</tp:taxon-name></italic>, <italic><tp:taxon-name>Plagiolepis</tp:taxon-name></italic>, <italic><tp:taxon-name>Polyergus</tp:taxon-name></italic>, <italic><tp:taxon-name>Ponera</tp:taxon-name></italic>, <italic><tp:taxon-name>Solenopsis</tp:taxon-name></italic>, <italic><tp:taxon-name>Stenamma</tp:taxon-name></italic>, <italic><tp:taxon-name>Strongylognathus</tp:taxon-name></italic>, <italic><tp:taxon-name>Tapinoma</tp:taxon-name></italic>, <italic><tp:taxon-name>Technomyrmex</tp:taxon-name></italic>, <italic><tp:taxon-name>Temnothorax</tp:taxon-name></italic> and <italic><tp:taxon-name>Tetramorium</tp:taxon-name></italic>.</p>
+            <p><bold>Common names:</bold> Ants</p>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Spatial coverage">
+            <title>Spatial coverage</title>
+            <sec sec-type="General spatial coverage">
+                <title>General spatial coverage</title>
+                <p>Belgium is a small country in Western Europe. To the west, its 70 km coastline fronts the North Sea; to the north lies the Netherlands; to the east, Germany, and to the south, France and Luxembourg. Biologeographically, the fauna of eastern Belgium belongs to the Central European Province of the Eurasian (Palaearctic) region. By contrast, the rest of the country primarily consists of an Atlantic fauna plus a few Central European relict species.</p>
+                <p>Politically and geographically, the country is divided into three parts: Flanders, Wallonia and the Brussels Capital Region (<xref ref-type="fig" rid="F3">Figure 3</xref>). In Flanders (13,522 km² and population about 6 million people), to the north, soils are mainly sandy to loamy. Here, the most important habitats for ants are heathlands and dry grasslands. The Brussels Capital Region is a small region (162 km²) entirely situated in the sandy loam area. In Wallonia (17,006 km² and about 3,5 million people), to the south, soils and habitats are more diverse, ranging from forests to rocky and calcareous grasslands on loam and chalky soils. Eastern Wallonia, near the German border, includes the Hautes Fagnes, a large area of bogs and peat with some typical ant species.</p>
+                <fig id="F3" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p>The UTM 5 Km grid of Belgium</p></caption>
+                    <graphic xlink:href="ZooKeys-306-059-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Geographical method">
+                <title>Geographical method</title>
+                <p>The Universal Transverse Mercator Projection (UTM), an adaptation of the standard Mercator projection, uses a two dimensional Cartesian co-ordinate system to identify locations on the surface of the Earth (Wikipedia).</p>
+                <p>The UTM 5 Km (Universal Transverse Mercator Projection) raster projection divides Belgium in approximately 1200 25 km² squares (<xref ref-type="fig" rid="F3">Figure 3</xref>). A representative number of UTM squares has been sampled (1125 UTM 5×5 km squares of which 659 squares with more than 10 records: see <xref ref-type="fig" rid="F3">Figures 3</xref> and <xref ref-type="fig" rid="F4">4</xref>) to complete the dataset. All the records in FORMIDABEL are georeferenced through the centroid coordinates of the corresponding UTM 5 km square. Therefore, the uncertainty on these coordinates is 3.500 meters, the distance between the centre and the corner of the UTM square.</p>
+                <fig id="F4" position="float" orientation="portrait">
+                    <label>Figure 4.</label>
+                    <caption><p>Projection of the number of records per UTM 5x5 km square (grey dots= 1-20 records, pink dots= 21-50 records, red dots= 51-150 records, dark red dots=151-300 records and black dots=301-644 records).</p></caption>
+                    <graphic xlink:href="ZooKeys-306-059-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Ecocodes">
+                <title>Ecocodes</title>
+                <p>More than half of the records are provided with a description of the microhabitat of the record locality. This allows us to give details on ecological preferences of all Belgian ant species. In FORMIDABEL we created a list of potential microhabitats for ants in Belgium. For each of these microhabitats we use a code called the “ecocode”. This code thus gives information on the habitat were the occurrence was made. Nine types of habitat and landscape were defined to collect accurate information on the habi<!--PageBreak-->tat preference of all ant species (<xref ref-type="bibr" rid="B3">Dekoninck et al. 2005</xref>). These nine types are based on the EIS-code and the Flemish nature types (<xref ref-type="bibr" rid="B8">Vandenbussche 2002</xref>; <xref ref-type="bibr" rid="B9">Zwaenepoel et al. 2002</xref>). When no habitat description was available for a record (for example, with some older records) the habitat was coded as ‘Not known or not observed’. The nine <!--PageBreak-->main habitats we defined were: i) anthropogenic habitats, ii) dry grasslands, iii) moist grasslands, iv) forests, v) chalk grasslands, stony slopes and other rocky xerothermic habitats, vi) shrubs, vii) heathlands, viii) fens and highland bogs and ix) coastal and inland dunes.</p>
+            </sec>
+            <sec sec-type="Coordinates">
+                <title>Coordinates</title>
+                <p>49°27'0&quot;N and 51°32'24&quot;N Latitude; 2°28'12&quot;E and 6°27'36&quot;E Longitude</p>
+            </sec>
+        </sec>
+        <sec sec-type="Temporal coverage">
+            <title>Temporal coverage</title>
+            <p>The oldest record in the database goes back to May 5, 1866 and the most recent records are from August 2012. The largest part of the records were obtained after 1991 (<xref ref-type="fig" rid="F5">Figure 5</xref>).</p>
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figure 5.</label>
+                <caption><p>Temporal distribution of the records</p></caption>
+                <graphic xlink:href="ZooKeys-306-059-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec sec-type="Method step description">
+                <title>Method step description:</title>
+                <p>A large portion of the occurrence data have been collected by volunteers, other records originated from several projects and research programs. The data and specimens were sent to the Belgian ant curators, and after validation, the information was incorporated in the database. The collection records “dry specimen” originate from the Gembloux “Ant” collection and the Charles Gaspar collection, the collection of the “Cercle des entomologists Liégeois”, the RBINS collection and the private collection “Roland Vannieuwenhuyse”. After revision and validation, this information was also included in the database. The literature-based records were retrieved from <xref ref-type="bibr" rid="B24">van Boven 1970</xref>; <xref ref-type="bibr" rid="B25">van Boven and Mabelis 1986</xref>; <xref ref-type="bibr" rid="B4">Dekoninck et al. 2006</xref> and references therein. How the database evolved is described in the Database history section.</p>
+                <p><bold>Sampling description:</bold> Most occurrence records originate from hand/nest sampling (42,3% of all records and mainly from Wallonia) andpitfall sampling (36,7% mainly from Flanders). The followed procedure differs from region to region. This is due to historical reasons. Some very interesting occurrence records were obtained by sifting, coloured water traps and Malaise traps (all less than 3 % of the total sampling). An extensive description of the sampling methods is provided by <xref ref-type="bibr" rid="B1">Schauff (2001)</xref>.</p>
+                <p><bold>Quality control description:</bold> All the records were validated by the dataset curators before being added to the FORMIDABEL database. The dataset curators also checked the determinations of the collection specimens. If needed, the determination was adapted and made consistent with modern taxonomy; <xref ref-type="bibr" rid="B7">Radchenko and Elmes (2010)</xref> for the genus <italic><tp:taxon-name>Myrmica</tp:taxon-name></italic> and <xref ref-type="bibr" rid="B6">Seifert (2007)</xref> for the other genera. Before the final publication of the database all the records were tested on geographical consistency by the Belgian Biodiversity Platform and corrected if necessary.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Dataset">
+            <title>Dataset</title>
+            <sec sec-type="Dataset history">
+                <title>Dataset history</title>
+                <p>At the beginning of 2001 all available records of ants in Flanders (northern part of Belgium) were brought together for the first time and several inventories were started. More than 20.000 records (for the most part gathered after 1990) were assembled in the FORMIDABEL (FORMIcidaeDAtaBELgium) database resulting in the ‘Verspreidingsatlas en voorlopige Rode lijst van de mieren van Vlaanderen; <xref ref-type="bibr" rid="B2">Dekoninck et al. 2003</xref>. [Distribution atlas and preliminary Red list of ant species in Flanders, Belgium]. This report contains all available distribution data for Flanders. In the southern part of Belgium (Wallonia) intensive inventorying started in 2005. Until then knowledge on the distribution of ants in Wallonia was limited. Only a few areas (Haute Fagnes, Famenne and the Viroin valley) had already been inventoried. Thanks to the good cooperation between the Polyergus and the FourmisWalBru working groups; many Belgian ant records were brought together in the FORMIDABEL database. Since then, FORMIDABEL is updated with data originating from FourmisWalBru twice a year. The FORMIDABEL dataset was then used for the creation of the “Belgian Ant Atlas”, (<xref ref-type="bibr" rid="B5">Dekoninck et al. 2012</xref>). In 2010 a cooperation agreement between the authors of the atlas and the Belgian Biodiversity Platform (<ext-link ext-link-type="uri" xlink:href="http://www.biodiversity.be" xlink:type="simple">www.biodiversity.be</ext-link>) was made. Together with the publication of the book, the data was published in Darwin Core Archives to GBIF (url: <ext-link ext-link-type="uri" xlink:href="http://data.gbif.org/datasets/resource/14697/" xlink:type="simple">http://data.gbif.org/datasets/resource/14697/</ext-link>) and a dedicated data portal was created: <ext-link ext-link-type="uri" xlink:href="http://www.formicidae-atlas.be" xlink:type="simple">www.formicidae-atlas.be</ext-link>.</p>
+                <p>The original FORMIDABEL database was created in Microsoft Access. Later, this database was completely imported in a relational SQL database. During this process <!--PageBreak-->additional data cleaning was performed; see section Quality control description. The dataflow is illustrated in <xref ref-type="fig" rid="F6">Figure 6</xref>.</p>
+                <fig id="F6" position="float" orientation="portrait">
+                    <label>Figure 6.</label>
+                    <caption><p>Formidabel flowchart</p></caption>
+                    <graphic xlink:href="ZooKeys-306-059-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Dataset description">
+                <title>Dataset description</title>
+                <p>The FORMIDABEL Darwin Core Archive is a custom made SQL view on the original version of the FORMIDABEL access database which is in the custody of the Belgian Ant working groups Polyergus and fourmisWalBru. Mind that every record in FORMIDABEL represent at least one occurrence, but primarily contains information on the presence of a species. The view only shows data that are accepted for publication. Fields given are:</p>
+                <p>id, decimalLatitude, family, basisOfRecord, stateProvince, identifiedBy, eventDate, modified, country, individualCount, scientificName, kingdom, order, geodeticDatum, genus, collectionCode, decimalLongitude, samplingProtocol, catalogNumber, phylum, recordNumber, countryCode, coordinatePrecision, language, coordinateUncertaintyInMeters, locality, specificEpithet, recordedBy, institutionCode, nomenclaturalCode, class.</p>
+                <p>The dataset contains primary biodiversity data, mostly occurrence data (<xref ref-type="fig" rid="F7">Figure 7</xref>). Some records hold an indirect link to collection specimens. This link is only available in the original database.</p>
+                <fig id="F7" position="float" orientation="portrait">
+                    <label>Figure 7.</label>
+                    <caption><p>A small preview of the Darwin Core-Archive</p></caption>
+                    <graphic xlink:href="ZooKeys-306-059-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                <!--PageBreak-->
+            </sec>
+        </sec>
+        <sec sec-type="Dataset preview">
+            <title>Dataset preview</title>
+            <p><bold>Object name:</bold> Darwin Core Archive Formidabel; Belgian Ants Database</p>
+            <p><bold>Character encoding: UTF-8Format name:</bold> Darwin Core Archive format</p>
+            <p><bold>Format version:</bold> 1.0</p>
+            <p><bold>Distribution:</bold> <ext-link ext-link-type="uri" xlink:href="http://ipt.biodiversity.be/resource.do?r=formidabel" xlink:type="simple">http://ipt.biodiversity.be/resource.do?r=formidabel</ext-link></p>
+            <p><bold>Publication date of data: 2013-08-02</bold></p>
+            <p><bold>Language: English</bold></p>
+            <p><bold>Licenses of use:</bold> This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-sa/3.0/" xlink:type="simple">http://creativecommons.org/licenses/by-nc-sa/3.0/</ext-link></p>
+            <p><bold>Metadata language:</bold> English</p>
+            <p><bold>Date of metadata creation:</bold> 2013-02-18</p>
+            <p><bold>Hierarchy level:</bold> Dataset</p>
+            <p><bold>Norms for data use and publication:</bold></p>
+            <p>Based on <ext-link ext-link-type="uri" xlink:href="http://www.canadensys.net/norms" xlink:type="simple">http://www.canadensys.net/norms</ext-link></p>
+            <p><italic>Give credit where credit is due</italic></p>
+            <p>As is common practice in scientific research, cite the data you are using.</p>
+            <p><italic>Be responsible</italic></p>
+            <p>Use the data responsibly. The data are published to allow anyone to better study and understand the world around us, so please do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.</p>
+            <p><italic>Share knowledge</italic></p>
+            <p>Let us know if you have used the data. It helps our participants to showcase their efforts and it helps you reach a wider audience. Inform the data publisher(s) if you have comments about the data, notice errors, or want more information.</p>
+            <p><italic>Respect the data license</italic></p>
+            <p>Understand and respect the data license or waiver under which the data are published. It is indicated in the rights field of every record and in the dataset metadata.</p>
+            <p><bold>Collection data:</bold> Ant Collection Gembloux (<ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:33368" xlink:type="simple">urn:lsid:biocol.org:col:33368</ext-link>), Collection Charles Gaspar, Collection “Cercle des entomologists Liégeois”, RBINS Belgian <tp:taxon-name>Formicidae</tp:taxon-name> Collection (<ext-link ext-link-type="uri" xlink:href="http://biocol.org/urn:lsid:biocol.org:col:35271" xlink:type="simple">urn:lsid:biocol.org:col:35271</ext-link>), Private collection “Van Nieuwenhuyse”. All collections are dry prepared insect collections. The dataset does not contain unique identifiers for specimens. To track a collection specimen, the corresponding author should be contacted.</p>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Additional information">
+            <title>Additional information</title>
+            <p>This dataset was originally created to develop the Belgian Ants Atlas. However, the dataset can be reused for a variety of purposes. Since the link between individual data records and underlined specimens (stored in multiple collections) is not recorded, we doubt if the dataset can be used for taxonomic or systematic studies. However, this being an occurrence dataset, it can be used for understanding species richness, distribution pattern and modeling studies such as ecological niche modeling. In order to enhance the confidence of use, we have documented the metadata as well as subjected the data records to a series of quality assessment and enhancement processes as described in the earlier section quality control description.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>The authors would like to thank all the contributors to this data paper. Especially all the volunteers who spend hours in the field collecting ants. We would also like to thank the Entomology Department of RBINS (Dr. Patrick Grootaert), the Cercle des Entomologistes Liégeois (P. Lays) and Gembloux Agro-Bio Tech, Unité d’Entomologie <!--PageBreak-->fonctionnelle et évolutive for giving us access to the collections and the Belgian Biodiversity Platform and GBIF to make this work possible. Last but not least we would like to thank Thomas Little for making sure that the English language was respected during the creation of this paper.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref-list>
+            <label>1) References cited within the metadata</label>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schauff</surname> <given-names>ME</given-names></name></person-group> (<year>2001</year>) <source>Collecting And Preserving Insects And Mites Techniques And Tools Update and modified WWW version of: Steyskal GC, Murphy WL, Hoover EM (Eds) (1986) Insects and mites: techniques for collection and preservation. Agricultural Research Service, USDA, Miscellaneous Publication, Vol. 1443</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dekoninck</surname> <given-names>W</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name><name name-style="western"><surname>Maelfait</surname> <given-names>J-P</given-names></name></person-group> (<year>2003</year>) <source>Verspreidingsatlas en voorlopige Rode Lijst van de mieren van Vlaanderen. Rapport van het Instituut voor Natuurbehoud IN.R.2003.07. Brussel 191 pp.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dekoninck</surname> <given-names>W</given-names></name><name name-style="western"><surname>Maelfait</surname> <given-names>J-P</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name><name name-style="western"><surname>Grootaert</surname> <given-names>P</given-names></name></person-group> (<year>2005</year>) <article-title>Remarks on the distribution and use of a provisional red list of the ants of Flanders (Formicidae, Hymenoptera).</article-title> In: <person-group><name name-style="western"><surname>Procter</surname> <given-names>D</given-names></name><name name-style="western"><surname>Harding</surname> <given-names>PY</given-names></name></person-group> (<role>Eds</role>). <issue-title>JNCC Report No.</issue-title> <source>367 Proceedings of <italic>IN</italic> Cardiff 2003, Red Lists for Invertebrates: their application at different spatial scales – practical issues, pragmatic approaches</source>: <fpage>74</fpage>-<lpage>85</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dekoninck</surname> <given-names>W</given-names></name><name name-style="western"><surname>Maelfait</surname> <given-names>J-P</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name><name name-style="western"><surname>Baugnée</surname> <given-names>J-Y</given-names></name><name name-style="western"><surname>Grootaert</surname> <given-names>P</given-names></name></person-group> (<year>2006</year>) <article-title>– An update of the checklist of the Belgian ant fauna with comments on new species for the country (Hymenoptera, Formicidae).</article-title> <source>Belgium Journal of Entomology</source> <volume>8</volume>: <fpage>27</fpage>-<lpage>41</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dekoninck</surname> <given-names>W</given-names></name><name name-style="western"><surname>Igance</surname> <given-names>D</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name><name name-style="western"><surname>Wegnez</surname> <given-names>P</given-names></name></person-group> (<year>2012</year>) <source>Verspreidingsatlas van de mieren van België/Atlas des fourmis de Belgique. Bulletin SRBE/KBVE, 148 (III): 95–186pp.</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Seifert</surname> <given-names>B</given-names></name></person-group> (<year>2007</year>) <source>Die Ameisen Mittel-und Nordeuropas <italic>- Lutra Verlags- und Vertriebgesellschaft</italic>. Klitten, 368 pp.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Radchenko</surname> <given-names>AG</given-names></name><name name-style="western"><surname>Elmes</surname> <given-names>GW</given-names></name></person-group> (<year>2010</year>) <source><italic>Myrmica</italic> ants (Hymenoptera: Formicidae) of the Old World. Fauna Mundi, Vol. 3, 789 pp.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vandenbussche</surname> <given-names>V</given-names></name></person-group> (<year>2002</year>) <source>Systematiek van natuurtypes voor de biotopen heide, moeras, duin, slik en schor: deel 1: Inleiding. Brussels, Instituut voor Natuurbehoud.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zwaenepoel</surname> <given-names>A</given-names></name><name name-style="western"><surname>T’Jollyn</surname> <given-names>F</given-names></name><name name-style="western"><surname>Vandenbussche</surname> <given-names>V</given-names></name><name name-style="western"><surname>Hoffmann</surname> <given-names>M</given-names></name></person-group> (<year>2002</year>) <source>Systematiek van Natuurtypes voor de biotoop grasland. Brugge &amp; Brussels, WVI &amp; Instituut voor Natuurbehoud.</source></mixed-citation></ref>
+            </ref-list>
+            <ref-list>
+            <label>2) References used to develop the dataset</label>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bondroit</surname> <given-names>J</given-names></name></person-group> (<year>1909</year>) <source>Les fourmis de Belgique. Annales de la Société royale belge d’Entomologie 1909, 53: 479–500.</source></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bondroit</surname> <given-names>J</given-names></name></person-group> (<year>1910</year>) <article-title>Compte rendu d’une excursion aux environs de Hockai.</article-title> <source>Annales de la Société royale belge d’Entomologie,</source> <volume>54</volume>: <fpage>231</fpage>-<lpage>232</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bondroit</surname> <given-names>J</given-names></name></person-group> (<year>1911</year>) <article-title>Contribution à la fauna de Belgique, Notes diverses.</article-title> <source>Annales de la Société royale belge d’Entomologie,</source> <volume>55</volume>: <fpage>8</fpage>-<lpage>13</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bondroit</surname> <given-names>J</given-names></name></person-group> (<year>1912</year>) <article-title>Fourmis des Hautes Fagnes.</article-title> <source>Bulletin et Annales de la Société royale belge d’Entomologie,</source> <volume>56</volume>: <fpage>351</fpage>-<lpage>352</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bondroit</surname> <given-names>J</given-names></name></person-group> (<year>1918</year>) <article-title>Les Fourmis de France et de Belgique.</article-title> <source>Annales de la Société d’Entomologie de France,</source> <volume>87</volume>: <fpage>1</fpage>-<lpage>174</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cammaerts</surname> <given-names>R</given-names></name><name name-style="western"><surname>Cammaerts</surname> <given-names>M-C</given-names></name></person-group> (<year>1988</year>) <article-title>Four ants (Hym.: Formicidae) new to the Belgian Fauna.</article-title> <source>Entomolgist’s Record,</source> <volume>100</volume>: <fpage>37</fpage>-<lpage>38</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>De Biseau</surname> <given-names>J-C</given-names></name><name name-style="western"><surname>Couvreur</surname> <given-names>J-M</given-names></name></person-group> (<year>1994</year>) <source>Fourmis (Formicidae). <italic>Faune de Belgique</italic>. Institut royal des Sciences naturelles de Belgique, 56 pp.</source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dessart</surname> <given-names>P</given-names></name><name name-style="western"><surname>Cammaerts</surname> <given-names>R</given-names></name></person-group> (<year>1995</year>) <article-title>Recaptures d’Hypoponera punctatissima en Belgique (Hymenoptera Formicidae Ponerinae). Bulletin S.R.B.E./K.B.V.E.</article-title> <source>,</source> <volume>131</volume>: <fpage>487</fpage>-<lpage>489</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gaspar</surname> <given-names>C</given-names></name></person-group> (<year>1970</year>) <source>Hymenoptera Formicidae: cartes 143–164. In Atlas Provisoire des Insectes de Belgique, cartes 101–200. Edité par J. Leclercq, Faculté des Sciences Agronomiques de l’Etat, Zoologie générale et Faunistique, Gembloux.</source></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gaspar</surname> <given-names>C</given-names></name></person-group> (<year>1970</year>) <source>Hymenoptera Formicidae: cartes 15–30. In Atlas Provisoire des Insectes de Belgique, cartes 1–100. Edité par J. Leclercq, Faculté des Sciences Agronomiques de l’Etat, Zoologie générale et Faunistique, Gembloux.</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gaspar</surname> <given-names>C</given-names></name></person-group> (<year>1971</year>) <source>Hymenoptera Formicidae: cartes 203–216. In Atlas Provisoire des Insectes de Belgique, cartes 201–300. Edité par J. Leclercq, Faculté des Sciences Agronomiques de l’Etat, Zoologie générale et Faunistique, Gembloux.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schoeters</surname> <given-names>E</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name></person-group> (<year>2001</year>) <source>Onze mieren.</source> <publisher-name>Educatie Limburgs Landschap</publisher-name>, <publisher-loc>Heusden-Zolder</publisher-loc>, <lpage>175</lpage> pp.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Boven</surname> <given-names>JKA</given-names></name></person-group> (<year>1947</year>) <article-title>Liste de détermination des principales espèces de Fourmis belges (Hymenoptera: Formicidae). Bulletin S.R.B.E./K.B.V.E.</article-title> <source>,</source> <volume>83</volume>: <fpage>163</fpage>-<lpage>190</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Boven</surname> <given-names>JKA</given-names></name></person-group> (<year>1949</year>) <article-title>Notes sur la faune des Hautes Fagnes en Belgique. Bulletin S.R.B.E./K.B.V.E.</article-title> <source>,</source> <volume>85</volume>: <fpage>135</fpage>-<lpage>143</lpage>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Boven,</surname> <given-names>JKA</given-names></name></person-group> (<year>1970</year>) <source>Vliesvleugelige insecten - Hymenoptera, Angeldragers - Aculeata, Mieren - Formicidae. Wetenschappelijke Mededelingen van de Koninklijke Nederlandse Natuurhistorische Vereniging, 30: 52 pp.</source></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Boven</surname> <given-names>JKA</given-names></name><name name-style="western"><surname>Mabelis</surname> <given-names>AA</given-names></name></person-group> (<year>1986</year>) <source>De mieren van de Benelux. Wetenschappelijke Mededelingen van de KNNV 173, 64 pp.</source></mixed-citation></ref>
+            </ref-list>
+            <ref-list>
+            <label>3) Puplications based on this dataset</label>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dekoninck</surname> <given-names>W</given-names></name><name name-style="western"><surname>Igance</surname> <given-names>D</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name><name name-style="western"><surname>Wegnez</surname> <given-names>P</given-names></name></person-group> (<year>2012</year>) <source>Verspreidingsatlas van de mieren van België/Atlas des fourmis de Belgique. Bulletin SRBE/KBVE, 148 (II): 94 pp.</source></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dekoninck</surname> <given-names>W</given-names></name><name name-style="western"><surname>Maelfait</surname> <given-names>J-P</given-names></name><name name-style="western"><surname>Vankerkhoven</surname> <given-names>F</given-names></name><name name-style="western"><surname>Baugnée</surname> <given-names>J-Y</given-names></name><name name-style="western"><surname>Grootaert</surname> <given-names>P</given-names></name></person-group> (<year>2006</year>) <article-title>An update of the checklist of the Belgian ant fauna with comments on new species for the country (Hymenoptera, Formicidae).</article-title> <source>Belgium Journal of Entomology,</source> <volume>8</volume>: <fpage>27</fpage>-<lpage>41</lpage>.</mixed-citation></ref>
+            </ref-list>
+        </ref-list>
+    </back>
+</article>

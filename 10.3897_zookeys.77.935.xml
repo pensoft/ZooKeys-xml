@@ -1,0 +1,431 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.77.935</article-id>
+            <title-group>
+                <article-title>
+                Redescription of Marstonia comalensis  (Pilsbry &amp; Ferriss, 1906), a poorly known and possibly threatened freshwater gastropod from  the Edwards Plateau region (Texas)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Hershler</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A1">1</xref>
+								</contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Liu</surname>
+                        <given-names>Hsiu-Ping</given-names>
+                    </name>
+										<xref ref-type="aff" rid="A2">2</xref>
+								</contrib>
+            </contrib-group>
+                    <aff id="A1"><label>Department of Invertebrate Zoology, Smithsonian Institution, P.O. Box 37012, Washington, D.C. 20013-7012, USA</label></aff>
+                    <aff id="A2"><label>Department of Biology, Metropolitan State College of Denver, Denver, CO 80217, USA</label></aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Robert Hershler (<email xlink:type="simple">hershlerr@si.edu</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Anatoly Schileyko</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>26</day>
+                <month>1</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>77</issue>
+            <fpage>1</fpage>
+            <lpage>16</lpage>
+            <history>
+                <date date-type="received">
+                    <day>2</day>
+                    <month>6</month>
+                    <year>2010</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>1</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Robert Hershler, Hsiu-Ping Liu</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><tp:taxon-name>Marstonia comalensis</tp:taxon-name>, a poorly known nymphophiline gastropod (originally described from Comal Creek, Texas) that has often been confused with <tp:taxon-name>Cincinnatia integra</tp:taxon-name>, is re-described and the generic placement of this species, which was recently allocated to <tp:taxon-name>Marstonia</tp:taxon-name> based on unpublished evidence, is confirmed by anatomical study. <tp:taxon-name>Marstonia comalensis</tp:taxon-name> is a large congener having an ovate-conic, openly umbilicate shell and penis having a short filament and oblique, squarish lobe bearing a narrow gland along its distal edge. It is well differentiated morphologically from congeners having similar shells and penes and is also genetically divergent relative to those congeners that have been sequenced (mtCOI divergence 3.0–8.5%). A Bayesian analysis of a small COI dataset resolved <tp:taxon-name>Marstonia comalensis</tp:taxon-name> in a poorly supported sub-clade together with <tp:taxon-name>Marstonia hershleri</tp:taxon-name>, <tp:taxon-name>Marstonia lustrica</tp:taxon-name> and <tp:taxon-name>Marstonia pachyta</tp:taxon-name>. The predominantly new records presented herein indicate that <tp:taxon-name>Marstonia comalensis</tp:taxon-name> was historically distributed in the upper portions of the Brazos, Colorado, Guadalupe and Nueces River basins, south-central Texas. The species has been live collected at only 12 localities and only two of these have been re-visited since 1993. These data suggest that the conservation status of this snail, which has a critically imperiled (G1) NatureServe ranking and was recently proposed for federal listing, needs to be re-assessed.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Marstonia</italic></kwd>
+                <kwd>Hydrobiidae</kwd>
+                <kwd>Gastropoda</kwd>
+                <kwd>United States</kwd>
+                <kwd>Texas</kwd>
+                <kwd>freshwater</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>conservation</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The freshwater gastropod genus <tp:taxon-name>Marstonia</tp:taxon-name> (<tp:taxon-name>Hydrobiidae</tp:taxon-name>: <tp:taxon-name>Nymphophilinae</tp:taxon-name>) is composed of 15 small (shell height &lt; 5.0 mm), ovate- to elongate-shelled species that are distributed in springs, streams and lakes in eastern North America (<xref ref-type="bibr" rid="B31">Thompson and Hershler 2002</xref>, <xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref>, <xref ref-type="bibr" rid="B30">Thompson 2005</xref>). Most of these species have extremely narrow geographic ranges and consequently have become a focus of conservation activities; two are federally listed as endangered (<xref ref-type="bibr" rid="B35">USFWS 1994</xref>, <xref ref-type="bibr" rid="B37">2000</xref>) and others are variously listed by state wildlife agencies. <tp:taxon-name>Marstonia</tp:taxon-name> differs from the other eight North American nymphophiline genera in that the (female) oviduct and bursal duct join well in front of (instead of behind) the posterior wall of the pallial cavity (<xref ref-type="bibr" rid="B31">Thompson and Hershler 2002</xref>); it has also been resolved as a well supported sub-clade within its subfamily based on mtDNA sequences (<xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref>). Although <tp:taxon-name>Marstonia</tp:taxon-name> has been reviewed three times since 1978 (<xref ref-type="bibr" rid="B28">Thompson 1978</xref>, <xref ref-type="bibr" rid="B8">Hershler 1994</xref>, <xref ref-type="bibr" rid="B31">Thompson and Hershler 2002</xref>), three of its congeners have been little studied beyond their original descriptions and their anatomy is unknown. Two of these — <tp:taxon-name>Marstonia olivacea</tp:taxon-name> (Pilsbry), <tp:taxon-name>Marstonia ozarkensis</tp:taxon-name> (Hinkley) — may be extinct (<xref ref-type="bibr" rid="B28">Thompson 1978</xref>, <xref ref-type="bibr" rid="B17">NatureServe 2009</xref>) and thus will likely remain <italic>incertae sedis</italic>. The third, <tp:taxon-name>Marstonia comalensis</tp:taxon-name> (Pilsbry &amp; Ferriss) (originally <tp:taxon-name>Amnicola comalensis</tp:taxon-name> Pilsbry &amp; Ferriss), which is extant, is the focus of this paper.</p>
+            <p><xref ref-type="bibr" rid="B20">Pilsbry and Ferriss (1906)</xref> described <tp:taxon-name>Amnicola comalensis</tp:taxon-name> based on six shells from Comal Creek and the Guadalupe River near New Braunfels, south-central Texas. They differentiated this species from <tp:taxon-name>Amnicola limosa</tp:taxon-name> (Say) and two <italic>nomina</italic> (<tp:taxon-name>Amnicola cincinnatiensis</tp:taxon-name> [Anthony], <tp:taxon-name>Amnicola peracuta</tp:taxon-name> Pilsbry &amp; Walker) that are currently recognized as synonyms of <tp:taxon-name>Cincinnatia integra</tp:taxon-name> (Say) (see <xref ref-type="bibr" rid="B10">Hershler and Thompson 1996</xref>) by its much smaller size and noted that it further differed from the latter by its less shouldered whorls. The genus <tp:taxon-name>Amnicola</tp:taxon-name> was used at that time as “a catch-all for most American amnicoloid species that could not conveniently be placed elsewhere on the basis of their shells” (<xref ref-type="bibr" rid="B27">Thompson 1968</xref>: 150). <tp:taxon-name>Amnicola comalensis</tp:taxon-name> was not further treated taxonomically until <xref ref-type="bibr" rid="B25">Taylor (1975)</xref> transferred it to <tp:taxon-name>Cincinnatia</tp:taxon-name> without comment in a bibliographic compilation; this allocation was widely followed in the subsequent literature (e.g., <xref ref-type="bibr" rid="B4">Burch and Tottenham 1980</xref>, <xref ref-type="bibr" rid="B33">Turgeon et al. 1998</xref>). During the course of a revisionary study of <tp:taxon-name>Cincinnatia integra</tp:taxon-name>, <xref ref-type="bibr" rid="B10">Hershler and Thompson (1996)</xref> examined several alcohol preserved collections of a snail that they identified as <tp:taxon-name>Amnicola comalensis</tp:taxon-name> and noted that it closely resembled species of <tp:taxon-name>Marstonia</tp:taxon-name> (which were then placed in <tp:taxon-name>Pyrgulopsis</tp:taxon-name>); <tp:taxon-name>Amnicola comalensis</tp:taxon-name> was subsequently transferred to <tp:taxon-name>Marstonia</tp:taxon-name> based on this unpublished work (<xref ref-type="bibr" rid="B31">Thompson and Hershler 2002</xref>). <xref ref-type="bibr" rid="B11">Hershler et al. (2003a)</xref> recently published a molecular phylogenetic analysis of the North American nymphophilines that included a specimen of <tp:taxon-name>Marstonia comalensis</tp:taxon-name> from Old Faithful Spring in Real County, Texas (ca. 180 km from the type locality), which was depicted as nested within the <tp:taxon-name>Marstonia</tp:taxon-name> clade. This is the only published record for <tp:taxon-name>Marstonia comalensis</tp:taxon-name> subsequent to its original description.</p>
+            <!--PageBreak-->
+            <p>We redescribe <tp:taxon-name>Marstonia comalensis</tp:taxon-name> herein based on study of a large series of dry shell and alcohol-preserved material, most of which was collected by malacologists J.J. Landye and D.W. Taylor from 1971–1993, and provide anatomical evidence supporting its current generic allocation. The new records detailed in this paper considerably expand the geographic range of <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, which lives in springs and fluvial habitats spread among four river basins in south-central Texas. We also further analyze previously published molecular data (<xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref>) to evaluate the divergence and phylogenetic relationships of <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, whose geographic range is broadly disjunct relative to other members of the genus. The information presented in this paper may assist efforts to protect this poorly known species, which was included in a recent federal listing petition (<xref ref-type="bibr" rid="B22">Rosmarino and Tutchton 2007</xref>) based on its critically imperiled (G1) <xref ref-type="bibr" rid="B17">NatureServe (2009)</xref> ranking, but found not to warrant listing owing to insufficient information (<xref ref-type="bibr" rid="B38">USFWS 2009</xref>).</p>
+        </sec>
+        <sec sec-type="Materials and methods"><title>Materials and methods</title>
+            <p>Anatomical study was based on specimens that were relaxed with menthol crystals and fixed in dilute formalin. Types and other material of <tp:taxon-name>Marstonia comalensis</tp:taxon-name> in the collections of the Academy of Natural Sciences of Philadelphia (ANSP); Florida Museum of Natural History (FMNH); National Museum of Natural History, Smithsonian Institution (USNM); and University of Minnesota Bell Museum of Natural History (UMBMNH) were examined during the course of this study.</p>
+            <p>Variation in the number of cusps on the radular teeth was assessed using the method of <xref ref-type="bibr" rid="B12">Hershler et al. (2007)</xref>. Other methods of morphological study and descriptive terminology are those used in recent taxonomic investigations of nymphophiline gastropods (<xref ref-type="bibr" rid="B9">Hershler 1998</xref>, <xref ref-type="bibr" rid="B13">Hershler et al. 2003b</xref>). Shell data were compiled using Systat for Windows 11.00.01 (<xref ref-type="bibr" rid="B23">SSI 2004</xref>).</p>
+            <p>The molecular phylogenetic analysis included single mtCOI sequences from <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, six other species of <tp:taxon-name>Marstonia</tp:taxon-name> and representatives of six other North American nymphophiline genera. <tp:taxon-name>Hydrobia acuta</tp:taxon-name> (Draparnaud) was used as the root. Sample information, GenBank accession numbers and publication references for the sequences are in <xref ref-type="table" rid="T1">Table 1</xref>. Sequence divergences (uncorrected p distance) were calculated using MEGA4 (<xref ref-type="bibr" rid="B24">Tamura et al. 2007</xref>). Phylogenetic relationships were inferred using Bayesian inference in MrBayes 3.12 (<xref ref-type="bibr" rid="B21">Ronquist and Huelsenbeck 2003</xref>). MrModeltest (<xref ref-type="bibr" rid="B18">Nylander 2004</xref>) selected the Hasegawa-Kishino-Yano model with some sites assumed to be invariable and with variable sites assumed to follow a discrete gamma distribution (HKY + I + G), which best fit the data under the Akaike Information Criterion. In the initial Bayesian analysis the burn-in was set at 10% (10,000 generations) of the chain length (100,000 generations). Three runs were conducted in MrBayes using the HKY + I + G model and the default random tree option to determine when the log-likelihood sum reached a stable value (by plotting the log-likelihood scores of sample <!--PageBreak-->points against generation time). The ln likelihoods started around -4,300 and quickly converged upon a stable value of about -3,050 after 1,000 generations. For the final run, Metropolis-coupled Markov chain Monte Carlo simulations were performed with four chains for 1,000,000 generations and Markov chains were sampled at intervals of 10 generations to obtain 100,000 sample points. The sampled trees with branch lengths were used to generate a 50% majority rule consensus tree with the first 5000 trees (equal to 50,000 generations) removed to ensure that the chain sampled a stationary portion.</p>
+            <!--PageBreak-->
+            <table-wrap id="T1" position="float" orientation="portrait">
+        	
+                <label>Table 1.</label>
+                <caption><p>Species (specimen codes), locality details, GenBank accession numbers and publication references for mtCOI sequences. </p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><italic>Species (code)</italic></th>
+                            <th rowspan="1" colspan="1"><italic>Locality</italic></th>
+                            <th rowspan="1" colspan="1"><italic>GenBank accession number</italic></th>
+                            <th rowspan="1" colspan="1"><italic>Reference</italic></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia agarhecta</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Bluff Creek, Pulaski Co., GA</td>
+                            <td rowspan="1" colspan="1">AF520934</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia castor</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Mercer Mill Creek, Worth Co., GA</td>
+                            <td rowspan="1" colspan="1">AF520938</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia comalensis</tp:taxon-name> (Pilsbry &amp; Ferriss)</td>
+                            <td rowspan="1" colspan="1">Old Faithful Spring, Real Co., TX</td>
+                            <td rowspan="1" colspan="1">AF520933</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia halcyon</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Ogeechee River, Screven Co., GA</td>
+                            <td rowspan="1" colspan="1">AF520935</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia hershleri</tp:taxon-name> (Thompson)</td>
+                            <td rowspan="1" colspan="1">Coosa River, Elmore Co., AL</td>
+                            <td rowspan="1" colspan="1">AF520946</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia lustrica</tp:taxon-name> (Pilsbry)</td>
+                            <td rowspan="1" colspan="1">Stockbridge Bowl, Berkshire Co., MA</td>
+                            <td rowspan="1" colspan="1">AF520945</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Marstonia pachyta</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Limestone Creek, Limestone Co., AL</td>
+                            <td rowspan="1" colspan="1">AF520939</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Cincinnatia integra</tp:taxon-name> (Say)</td>
+                            <td rowspan="1" colspan="1">Stream north of Fredericksburg, Gillespie Co., TX</td>
+                            <td rowspan="1" colspan="1">AF520948</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notogillia wetherby</tp:taxon-name> (Dall) (WW)</td>
+                            <td rowspan="1" colspan="1">Weeki Wachee River, Hernando Co., FL</td>
+                            <td rowspan="1" colspan="1">AF367630</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B41">Wilke et al. 2001</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Notogillia wetherbyi</tp:taxon-name> (Dall) (RS)</td>
+                            <td rowspan="1" colspan="1">Rainbow Springs, Marion Co., FL</td>
+                            <td rowspan="1" colspan="1">AF520918</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Pyrgulopsis bruneauensis</tp:taxon-name> Hershler</td>
+                            <td rowspan="1" colspan="1">Bruneau Hot Springs, Owyhee Co., ID</td>
+                            <td rowspan="1" colspan="1">AF520941</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Rhapinema dacryon</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Chipola River, Jackson Co., FL</td>
+                            <td rowspan="1" colspan="1">AF520932</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Spilochlamys gravis</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Alexander Springs, Lake Co., FL</td>
+                            <td rowspan="1" colspan="1">AF520919</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Stiobia nana</tp:taxon-name> Thompson</td>
+                            <td rowspan="1" colspan="1">Coldwater Spring, Calhoun Co., AL</td>
+                            <td rowspan="1" colspan="1">AF520921</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Hydrobia acuta</tp:taxon-name> (Draparnaud)</td>
+                            <td rowspan="1" colspan="1">Lagoon 6, Suffolk, East Anglia, United Kingdom</td>
+                            <td rowspan="1" colspan="1">AF354773</td>
+                            <td rowspan="1" colspan="1"><xref ref-type="bibr" rid="B16">Liu et al. 2001</xref></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot><fn><p>Additional locality details are in <xref ref-type="bibr" rid="B11">Hershler et al. (2003a)</xref>.</p></fn></table-wrap-foot>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Systematic description"><title>Systematic description</title>
+            <p><bold>Family <tp:taxon-name>Hydrobiidae</tp:taxon-name></bold></p>
+            <p><bold>Subfamily <tp:taxon-name>Nymphophilinae</tp:taxon-name></bold></p>
+            <p><bold>Genus</bold> Marstonia <bold>Baker, 1926</bold></p>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	
+                        <tp:taxon-name-part taxon-name-part-type="genus">Marstonia</tp:taxon-name-part>
+                    	
+                        <tp:taxon-name-part taxon-name-part-type="species">comalensis</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>(Pilsbry &amp; Ferriss, 1906)</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figs 1</xref><xref ref-type="fig" rid="F2"/><xref ref-type="fig" rid="F3">3</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Amnicola comalensis</tp:taxon-name><comment> Pilsbry &amp; Ferriss, 1906: 171, fig. 37 (Comal Creek, near New Braunfels, Comal County, Texas; also from the Guadalupe River about four miles [3.2 km] above New Braunfels). <xref ref-type="bibr" rid="B19">Pilsbry 1910</xref>: 98 (corrected measurement of figured specimen [lectotype]). <xref ref-type="bibr" rid="B40">Walker 1918</xref>: 133. <xref ref-type="bibr" rid="B2">Baker 1964</xref>: 172 (lectotype selection). <xref ref-type="bibr" rid="B10">Hershler and Thompson 1996</xref>: 51.</comment></tp:nomenclature-citation>
+												
+                        <tp:nomenclature-citation><tp:taxon-name>Cincinnatia comalensis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B25">Taylor 1975</xref>: 61 (transfer to <tp:taxon-name>Cincinnatia</tp:taxon-name>, summary of literature citations). <xref ref-type="bibr" rid="B4">Burch and Tottenham 1980</xref>: 110, fig. 190 (from <xref ref-type="bibr" rid="B20">Pilsbry and Ferris 1906</xref>). <xref ref-type="bibr" rid="B33">Turgeon et al. 1998</xref>: 72.</comment></tp:nomenclature-citation>
+												
+                        <tp:nomenclature-citation><tp:taxon-name>Marstonia comalensis</tp:taxon-name><comment> <xref ref-type="bibr" rid="B31">Thompson and Hershler 2002</xref>: 270 (transfer to <tp:taxon-name>Marstonia</tp:taxon-name>). <xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref>: 366, figs. 2, 3 (new record, phylogenetic analysis).</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Types"><title>Types:</title>
+                    <p> Figured lectotype, ANSP 91323 (<xref ref-type="fig" rid="F1">Fig. 1A</xref>); paralectotypes (from same lot), ANSP 420575.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Referred material"><title>Referred material:</title>
+                    <p> TEXAS. USNM 123757, USNM 134007, Guadalupe River. ANSP 134247, Nueces River. <italic>Bell County</italic>: UMBMNH uncat., Salado Creek, Salado, old US 81 (30.944°N, 97.539°W), 14.IV.1972. <italic>Comal County</italic>: ANSP 90562, drift of Guadalupe River, 3.2 km above New Braunfels (29.756°N, 98.138°W). UMBMNH uncat., Spring Branch, west of Spring Branch (29.891°N, 98.435°W), 28.III.1963. USNM 473488, New Braunfels (29.702°N, 98.124°W). <italic>Kerr County</italic>: USNM 874910, South Fork Guadalupe River, ca. 56.4 km northwest of Leakey (29.957°N, 99.456°W), 30.XII.1979. USNM 874932, spring run adjacent to South Fork of Guadalupe River, ca. 11.2 km southwest of Hunt (30.005°N, 99.409°W), 30.XII.1979. USNM 883412, North Fork Guadalupe River (30.054°N, 99.486°W), 26.IV.1993. USNM 874923, North Fork of Guadalupe River at Riverbend Ranch crossing at FM 1340 (30.065°N, 99.373°W), 29.XII.1979. USNM 251887, Japonica (30.064°N, 99.344°W). <italic>Kimble County</italic>: UMBMNH uncat., Llano River at FM 385, 25.6 km northeast of Junction (30.589°N, 99.598°W), 12–13.IV.1972. <italic>Kinney County</italic>: UMBMNH uncat., Nueces River, Tularosa Road, A.G. “Tony” Rose Ranch (29.518°N, 100.271°W), 9.VI.1971. USNM 883413, West Nueces River above crossing on Tularosa Road near Spring Ranch, just below Silver Lake (29.523°N, 100.251°W), 25.IV.1993. <italic>Real County</italic>: UMBMNH uncat., USNM 874926, Old Faithful Spring outflow, Hwy 55, 0.8 km north of Camp Wood (29.680°N, 100.015°W), 8.VI.1971, 31.XII.1979. FMNH 283564, FMNH 283565, FMNH 283573, FMNH 287574, Old Faithful Spring, <!--PageBreak-->1.0 km north of Camp Wood (29.680°N, 100.015°W), 27.I.2001. USNM 883414, Leakey Springs run at Hwy 337 crossing, ca. 0.48 km east of Leakey (29.723°N, 99.757°W), 25.IV.1993. FMNH 283561, Leakey Springs creek, 0.64 km east of Leakey (29.723°N, 99.757°W), 26.I.2001. <italic>Uvalde County</italic>: UMBMNH uncat., Nueces River,<!--PageBreak--> Chalk Bluff, 24 km northwest of Uvalde (29.359°N, 99.984°W), 27.V.1971. USNM 883477, spring at Camp Chalk Bluff, tributary to East Nueces River (29.362°N, 99.984°W), 23.IV.1993. USNM 883666, USNM 883421, East Nueces River at 19 Mile Crossing, 1.6–3.2 km south of Hwy 55 and FM 334 (29.398°N, 100.00°W), 31.XII.1979, 29.IV.1993. UMBMNH uncat., USNM 883420, East Nueces River, Hwy 55, Lake Nueces County Park (29.619°N, 100.01°W), 1-VI-1971, 29.IV.1993.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Revised diagnosis"><title>Revised diagnosis:</title>
+                    <p> Shell large for genus (maximum height, 4.6 mm), ovate-conic, openly umbilicate; penis with short filament and oblique, squarish lobe bearing a single terminal gland along its distal edge. Distinguished from congeners having closely similar shells and penes as follows: from <tp:taxon-name>Marstonia gaddisorum</tp:taxon-name> Thompson by its less convex shell whorls, distinctive pallial roof pigmentation, larger number of cusps on the inner side of the lateral teeth and on the outer marginal teeth, larger penial lobe, narrower terminal gland, and smaller overlap of the bursa copulatrix by the albumen gland; from <tp:taxon-name>Marstonia lustrica</tp:taxon-name> by its smaller prostate gland, smaller penial lobe, narrower penial filament, straight anterior vas deferens, partly imbedded (in albumen gland) bursal duct, and larger seminal receptacle; and from <tp:taxon-name>Marstonia ogmorhaphe</tp:taxon-name> Thompson by its smaller size, broader shell, smaller prostate gland, straight anterior vas deferens, and smaller bursa copulatrix.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description:</title>
+                    <p> Shell ovate-conic, (<xref ref-type="fig" rid="F1">Fig. 1A–C</xref>); height about 2.6–4.6 mm; whorls 4.5–5.5. Protoconch near planispiral, slightly tilted (<xref ref-type="fig" rid="F1">Fig. 1D</xref>), initial 0.75–1.0 whorl strongly wrinkled (<xref ref-type="fig" rid="F1">Fig. 1E</xref>). Teleoconch whorls weakly convex, often narrowly shouldered,<!--PageBreak--> rarely having subsutural angulation; sculpture of strong collabral growth lines, later whorls having numerous weak spiral striae. Aperture pyriform or ovate. Inner lip complete across parietal wall in larger specimens, usually narrowly adnate, rarely slightly disjunct; usually thin, sometimes slightly thickened apically; columellar shelf absent or very narrow; outer lip thin or slightly thickened, orthocline or prosocline. Umbilicus open but small. Measurements of the lectotype and a live-collected series of shells from the Nueces River basin are in <xref ref-type="table" rid="T2">Table 2</xref>.</p>
+                    <p>Operculum thin, amber, narrowly ovate, multispiral with eccentric nucleus (<xref ref-type="fig" rid="F1">Fig. 1F</xref>); last 0.25 whorl sometimes frilled on outer side; inner side having well developed rim near outer edge (<xref ref-type="fig" rid="F1">Fig. 1G</xref>); attachment scar border sometimes weakly thickened near nucleus. Radula (<xref ref-type="table" rid="T2">Fig. 2A</xref>), having about 36 well-formed rows of teeth. Central teeth about 38 µm wide, cutting edge convex (<xref ref-type="table" rid="T2">Fig. 2B</xref>); lateral cusps 3–8; central cusp pointed or hoe-shaped, parallel-sided proximally or tapering throughout; basal cusps 1–3, small; basal tongue U- or V-shaped, about as long as lateral margins. Lateral tooth face rectangular; central cusp pointed or hoe-shaped (<xref ref-type="table" rid="T2">Fig. 2C</xref>); lateral cusps 2–5 (inner), 3–7 (outer); outer wing broad, flexed, about 140% length of cutting edge; basal tongue weakly developed. Inner (<xref ref-type="table" rid="T2">Fig. 2D</xref>) and outer (<xref ref-type="table" rid="T2">Fig 2E</xref>) marginal teeth both having 14–21 cusps and basally positioned rectangular wing. Radular count data were from USNM 874926.</p>
+                    <p>Cephalic tentacles pale except for black eyespots. Snout brown; distal lips pale; foot pale. Pallial roof having black pigment bands along edges of ctenidium and dorsal edge of genital duct (<xref ref-type="fig" rid="F1">Fig. 1H</xref>); visceral coil pale except for black pigment on testis. Ctenidium positioned a little in front of pericardium; ctenidial filaments 24–25 (<italic>n</italic>=5), broadly triangular, lateral surfaces ridged. Osphradium narrow, positioned slightly posterior to middle of ctenidium. Hypobranchial gland large, overlapping rectum and part of genital duct, thickened alongside kidney. Style sac longer than remaining portion of stomach, posterior stomach having small caecal appendix. Testis large (1.75 whorls), composed of compound lobes, broadly overlapping stomach anteriorly. Seminal vesicle opening near anterior edge of testis, composed of a few thickened coils, positioned along ventral side of anterior 33% of testis. Prostate gland small, pea-shaped, with about 50% of length in pallial roof. Anterior vas deferens<!--PageBreak--> opening from antero-ventral edge of prostate gland, section of duct on columellar muscle straight. Penis large, base rectangular, inner edge without folds; filament short, narrow, tapering, oblique; lobe rather medium-sized, squarish, oblique (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). Terminal gland (<xref ref-type="fig" rid="F3">Fig. 3A–D</xref>) narrow, usually transversely positioned along outer edge of lobe (58/86 specimens examined from three samples), less frequently horizontal (28/86), sometimes borne on short stalk. Penial duct narrow, near outer edge, almost straight. Penial filament having black internal pigment core along most of length. Ovary small (0.75 whorl), composed of simple, stalked lobes; slightly overlapping stomach anteriorly. Female glandular oviduct and associated structures shown in <xref ref-type="fig" rid="F3">Figure 3E–F</xref>. Coiled oviduct narrow, vertical. Bursa copulatrix small, ovate, horizontal, about 50% overlapped by albumen gland. Bursal duct longer than bursa, narrow, opening from distal edge, partly embedded in albumen gland proximally, entirely embedded distally, junction with common duct well in front of posterior wall of pallial cavity. Seminal receptacle small, pouch-like, positioned near ventral edge of albumen gland slightly anterior to bursa copulatrix. Albumen gland largely visceral. Capsule gland composed of two distinct tissue sections. Genital aperture a terminal slit.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+        	
+                        <label>Figure 1.</label>
+                        <caption><p>Shells, opercula and animal, <tp:taxon-name>Marstonia comalensis</tp:taxon-name>. <bold>A</bold> Lectotype, ANSP 91323 <bold>B, C</bold> Shells, USNM 874932, USNM 874926 <bold>D</bold> Lateral view of shell apex, USNM 874932 <bold>E</bold> Protoconch, USNM 874926 <bold>F, G</bold> Opercula (outer, inner sides), USNM 874926 <bold>H</bold> Relaxed, alcohol-preserved preserved male (dorsal view), showing distinctive pigment bands on the pallial roof, USNM 874926. Scale bars A–C, H, 1.0 mm; D, E, 100 µm; F, G, 200 µm.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00001/ZooKeys-077-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+        	
+                        <label>Figure 2.</label>
+                        <caption><p>Radula, <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, USNM 874926. <bold>A</bold> Portion of radular ribbon <bold>B</bold> Central teeth <bold>C</bold> Lateral teeth <bold>D</bold> Inner marginal tooth <bold>E</bold> Outer marginal teeth. Scale bars A, 20 µm; B-E, 10 µm.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00001/ZooKeys-077-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+        	
+                        <label>Figure 3.</label>
+                        <caption><p>Reproductive anatomy, <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, USNM 874926. <bold>A</bold> Penis, dorsal surface <bold>B–D</bold> Distal portion of penis showing terminal gland variation <bold>E</bold> Female glandular oviduct and associated structures (viewed from left side) <bold>F</bold> Bursa copulatrix and seminal receptacle and their ducts. Scale bars = 500 µm. <bold>Ag</bold> albumen gland <bold>Bu</bold> bursa copulatrix <bold>Cg</bold> capsule gland <bold>Cov</bold> coiled oviduct <bold>Dby</bold> bursal duct <bold>Ga</bold> genital aperture <bold>Pf</bold> penial filament <bold>Pl</bold> penial lobe <bold>Pw</bold> posterior wall of pallial cavity <bold>Sr</bold> seminal receptacle <bold>Vc</bold> ventral channel of capsule gland.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00001/ZooKeys-077-001-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+        	
+                        <label>Figure 4.</label>
+                        <caption><p>Map showing the distribution of <tp:taxon-name>Marstonia comalensis</tp:taxon-name> in the Brazos, Colorado, Guadalupe and Nueces River basins, south-central Texas. The arrow indicates the type locality (Comal Creek).</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00001/ZooKeys-077-001-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and habitat"><title>Distribution and habitat:</title>
+                    <p> <tp:taxon-name>Marstonia comalensis</tp:taxon-name> is distributed in the upper portions of the Brazos, Colorado, Guadalupe and Nueces River basins, south-central Texas (<xref ref-type="fig" rid="F4">Fig. 4</xref>); almost all of these localities are on the Edwards Plateau. We were unable to confirm a previous report of this species from a drainage canal near Galveston Bay (<xref ref-type="bibr" rid="B5">Cable and Isserhoff 1969</xref>). <tp:taxon-name>Marstonia comalensis</tp:taxon-name> lives in cold water springs near their sources and slack water riverine habitats; it has been most commonly found on mud, aquatic vegetation and dead leaves.</p>
+                    <table-wrap id="T2" position="float" orientation="portrait">
+        	
+                        <label>Table 2.</label>
+                        <caption><p>Shell parameters for <tp:taxon-name>Marstonia comalensis</tp:taxon-name>. </p></caption>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1"/>
+                                    <th rowspan="1" colspan="1"><italic>WH</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>SH</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>SW</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>HBW</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>WBW</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>AH</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>AW</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>SW/SH</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>HBW/SH</italic></th>
+                                    <th rowspan="1" colspan="1"><italic>AH/SH</italic></th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="11">Lectotype, ANSP 91323</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"/>
+                                    <td rowspan="1" colspan="1">4.5</td>
+                                    <td rowspan="1" colspan="1">3.00</td>
+                                    <td rowspan="1" colspan="1">2.08</td>
+                                    <td rowspan="1" colspan="1">2.12</td>
+                                    <td rowspan="1" colspan="1">1.81</td>
+                                    <td rowspan="1" colspan="1">1.36</td>
+                                    <td rowspan="1" colspan="1">1.14</td>
+                                    <td rowspan="1" colspan="1">0.69</td>
+                                    <td rowspan="1" colspan="1">0.71</td>
+                                    <td rowspan="1" colspan="1">0.45</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="11">USNM 874926 (n=30)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Mean</td>
+                                    <td rowspan="1" colspan="1">4.79</td>
+                                    <td rowspan="1" colspan="1">3.49</td>
+                                    <td rowspan="1" colspan="1">2.39</td>
+                                    <td rowspan="1" colspan="1">2.58</td>
+                                    <td rowspan="1" colspan="1">2.08</td>
+                                    <td rowspan="1" colspan="1">1.66</td>
+                                    <td rowspan="1" colspan="1">1.35</td>
+                                    <td rowspan="1" colspan="1">0.69</td>
+                                    <td rowspan="1" colspan="1">0.74</td>
+                                    <td rowspan="1" colspan="1">0.48</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">S.D.</td>
+                                    <td rowspan="1" colspan="1">0.18</td>
+                                    <td rowspan="1" colspan="1">0.17</td>
+                                    <td rowspan="1" colspan="1">0.09</td>
+                                    <td rowspan="1" colspan="1">0.11</td>
+                                    <td rowspan="1" colspan="1">0.08</td>
+                                    <td rowspan="1" colspan="1">0.09</td>
+                                    <td rowspan="1" colspan="1">0.05</td>
+                                    <td rowspan="1" colspan="1">0.03</td>
+                                    <td rowspan="1" colspan="1">0.02</td>
+                                    <td rowspan="1" colspan="1">0.02</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Range</td>
+                                    <td rowspan="1" colspan="1">4.5–5.0</td>
+                                    <td rowspan="1" colspan="1">3.20–3.87</td>
+                                    <td rowspan="1" colspan="1">2.22–2.55</td>
+                                    <td rowspan="1" colspan="1">2.38–2.84</td>
+                                    <td rowspan="1" colspan="1">1.93–2.25</td>
+                                    <td rowspan="1" colspan="1">1.50–1.84</td>
+                                    <td rowspan="1" colspan="1">1.26–1.45</td>
+                                    <td rowspan="1" colspan="1">0.63–0.74</td>
+                                    <td rowspan="1" colspan="1">0.70–0.77</td>
+                                    <td rowspan="1" colspan="1">0.43–0.51</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table-wrap-foot>
+                        <title>Abbreviations:</title>
+                        <fn><label>WH</label><p> total shell whorls;</p></fn>
+                        <fn><label>SH</label><p> shell height;</p></fn>
+                        <fn><label>SW</label><p> shell width;</p></fn>
+                        <fn><label>HBW</label><p> height of body whorl;</p></fn>
+                        <fn><label>WBW</label><p> width of body whorl;</p></fn>
+                        <fn><label>AH</label><p> aperture height;</p></fn>
+                        <fn><label>AW</label><p> aperture width.</p></fn>
+                        </table-wrap-foot>
+                    </table-wrap>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Remarks"><title>Remarks:</title>
+                    <p> The material referred to <tp:taxon-name>Marstonia comalensis</tp:taxon-name> herein, which includes specimens from the Guadalupe River above the Comal Creek confluence, closely conforms to the types of this species both in size and shell shape (<xref ref-type="fig" rid="F1">Fig. 1A–C</xref>). This snail clearly belongs to <tp:taxon-name>Marstonia</tp:taxon-name> based on its strongly wrinkled shell protoconch, distally bifurcate penis ornamented with a gland along the edge of the lobe (terminal gland), and connection between the oviduct and bursal duct well in front of the posterior pallial wall (<xref ref-type="bibr" rid="B31">Thompson and Hershler 2002</xref>). As noted above, this generic placement is also supported by molecular phylogenetic evidence (<xref ref-type="bibr" rid="B11">Hershler et al. 2003a</xref>).</p>
+                    <p>The original collections of <tp:taxon-name>Marstonia comalensis</tp:taxon-name> are worn shells having the appearance of drift material (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). We have not seen any live-collected specimens of this species in the numerous samples that we have examined from the type locality (Comal Springs) and other waters near New Braunfels. The various reports of living <tp:taxon-name>Marstonia comalensis</tp:taxon-name> from this portion of the Guadalupe River basin (e.g., <xref ref-type="bibr" rid="B7">EHA 1975</xref>; <xref ref-type="bibr" rid="B1">Arsuffi 1994</xref>; <xref ref-type="bibr" rid="B32">Tolley-Jordan and Owen 2008</xref>) are probably of misidentified <tp:taxon-name>Cincinnatia integra</tp:taxon-name>, as evidenced by the illustrations of shells in several of these documents (<xref ref-type="bibr" rid="B15">Lindholm 1979</xref>, fig. 4; <xref ref-type="bibr" rid="B6">Cauble 1998</xref>, fig. 7). It is possible that <tp:taxon-name>Marstonia comalensis</tp:taxon-name> became extinct at Comal Springs when this water body temporarily dried in 1964 (<xref ref-type="bibr" rid="B36">USFWS 1996</xref>); it is also possible that the shells of this species which have been found at this site were washed downflow from extant populations in the headwaters of the Guadalupe River.</p>
+                    <!--PageBreak-->
+                    <p>Taylor’s (1975) allocation of <tp:taxon-name>Amnicola comalensis</tp:taxon-name> to <tp:taxon-name>Cincinnatia</tp:taxon-name> appears to have been the result of a misidentification as all of the material in his collection that he referred to this species (per the original labels), including several lots from the type locality, is <tp:taxon-name>Cincinnatia integra</tp:taxon-name> (RH unpublished). Some of these records were detailed in an unpublished manuscript, “Freshwater molluscs from the Nueces River drainage, Texas” that Taylor circulated in the mid-1970’s. <tp:taxon-name>Cincinnatia integra</tp:taxon-name>, which is widely distributed in Texas (<xref ref-type="bibr" rid="B10">Hershler and Thompson 1996</xref>), has been frequently confused with <tp:taxon-name>Marstonia comalensis</tp:taxon-name> in museum collections despite the obvious differences between their shells that were noted in the original description of the latter (<xref ref-type="bibr" rid="B20">Pilsbry and Ferriss 1906</xref>). These two species also well differentiated anatomically (see <xref ref-type="bibr" rid="B10">Hershler and Thompson 1996</xref> for details of the former).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion"><title>Discussion</title>
+            <p><xref ref-type="bibr" rid="B28">Thompson (1978)</xref> speculated that <tp:taxon-name>Marstonia</tp:taxon-name> is composed of two species lineages that are differentiated by the size and shape of the penial lobe and filament. <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, which is distributed almost 800 km distant from its most proximal congener, conforms to the putative lineage characterized by a large, squarish lobe and small, slender filament. This group includes widely ranging <tp:taxon-name>Marstonia lustrica</tp:taxon-name> and species distributed in the Tennessee (<tp:taxon-name>Marstonia arga</tp:taxon-name> Thompson, <tp:taxon-name>Marstonia ogmorhaphe</tp:taxon-name>, <tp:taxon-name>Marstonia pachyta</tp:taxon-name>), Alabama (<tp:taxon-name>Marstonia hershleri</tp:taxon-name>; see <xref ref-type="bibr" rid="B29">Thompson 1995</xref>) and Altamaha (<tp:taxon-name>Marstonia gaddisorum</tp:taxon-name>; see <xref ref-type="bibr" rid="B30">Thompson 2005</xref>) River basins. The molecular phylogenetic relationships of <tp:taxon-name>Marstonia comalensis</tp:taxon-name> were previously delineated by <xref ref-type="bibr" rid="B11">Hershler et al. (2003a)</xref>, who analyzed a mtCOI dataset using maximum parsimony and maximum likelihood methods. We re-analyzed the relevant portion of these data using a Bayesian algorithm The resulting topology (<xref ref-type="fig" rid="F5">Fig. 5</xref>) is closely similar to those illustrated by <xref ref-type="bibr" rid="B11">Hershler et al. (2003a: figs. 2, 3)</xref> and has slightly better resolution. <tp:taxon-name>Marstonia</tp:taxon-name> is resolved as a well supported (100% posterior probability) clade. Three congeners living in Georgia coastal drainage, which <xref ref-type="bibr" rid="B28">Thompson (1978)</xref> recognized as a distinct lineage based on their elongate penial lobe and robust filament, formed a well supported (95%) sub-clade. The other four congeners included in the analysis, which conform to the second putative lineage discussed above, formed a weakly supported subunit, within which <tp:taxon-name>Marstonia comalensis</tp:taxon-name> was positioned as sister to a subclade containing <tp:taxon-name>Marstonia lustrica</tp:taxon-name> and <tp:taxon-name>Marstonia pachyta</tp:taxon-name>. The single sequenced specimen of <tp:taxon-name>Marstonia comalensis</tp:taxon-name> differs from those of the six other congeners that have been similarly analyzed by 3.0–8.5%; it is most similar to <tp:taxon-name>Marstonia pachyta</tp:taxon-name>.</p>
+            <fig id="F5" position="float" orientation="portrait">
+        	
+                <label>Figure 5.</label>
+                <caption><p>Bayesian tree based on the COI dataset. Posterior probabilities for each node within the <tp:taxon-name>Marstonia</tp:taxon-name> clade are shown for the reader’s interest; only those &gt;95% are considered significant.</p></caption>
+                <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/00001/ZooKeys-077-001-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            <p><tp:taxon-name>Marstonia comalensis</tp:taxon-name> is ranked as critically imperiled (G1) by <xref ref-type="bibr" rid="B17">NatureServe (2009)</xref>, but has a minimal conservation profile otherwise. Following the negative finding per its proposed listing (<xref ref-type="bibr" rid="B38">USFWS 2009</xref>) it was categorized by the <xref ref-type="bibr" rid="B39">USFWS (2010)</xref> as “status undefined.” It was misidentified as a “mussel” in a ecological sustainability report for the Cibola National Forest Grasslands plan revision (<xref ref-type="bibr" rid="B34">USDAFS 2008</xref>) and is not mentioned on the Texas Parks and Wildlife’s website (http://www.tpwd.state.tx.us/) or in the State Wildlife Action Plan (<xref ref-type="bibr" rid="B26">Texas Parks and Wildlife 2010</xref>). Given that <tp:taxon-name>Marstonia comalensis</tp:taxon-name> has been live-collected at only 12 localities (<xref ref-type="fig" rid="F4">Fig. 4</xref>) and only two of these sites (Leakey Springs, Old Faithful Spring) have been re-visited since 1993, it would <!--PageBreak-->seem prudent to add this species to the list of aquatic biota of the Edwards Plateau region meriting protection (<xref ref-type="bibr" rid="B3">Bowles and Arsuffi 1993</xref>) and assess its current conservation status. Depending on the extent of its possible decline since 1993, <tp:taxon-name>Marstonia comalensis</tp:taxon-name> may merit addition to the IUCN Red List (e.g., if it consists of 10 or fewer extant populations; <xref ref-type="bibr" rid="B14">IUCN 2001</xref>) and other conservation watch lists.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank Paul Callomon and Amanda Lawless (ANSP), Andrew Simons and Jonathan Slaght (UMBMNH), and Fred Thompson and John Slapcinsky (FLMNH) for loans of specimens under their care. We also thank Peter Diaz and Randy Gibson for providing collections of snails from the type locality area of <tp:taxon-name>Marstonia comalensis</tp:taxon-name>, and Tierra Curry for sharing information regarding this conservation status of this species. Yolanda Villacampa measured shells and prepared scanning electron micrographs, and Karolyn Darrow inked the anatomical drawings. This paper was improved by the comments provided by two anonymous reviewers.</p>
+            <!--PageBreak-->
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arsuffi</surname><given-names>T</given-names></name></person-group> (<year>1994</year>)<article-title> Status of the Comal Springs riffle beetle (<italic>Heterelmis comalensis</italic> Bosse, Tuff and Brown), Peck’s cave amphipod (<italic>Stygobromus pecki</italic> Holsinger), and the Comal Springs drypoid beetle (<italic>Stygoparnus comalensis</italic> Barr and Spangler). Contract No. 14–16-0002-90-207</article-title>. <source>Report to the United States Fish and Wildlife Service</source>, <publisher-loc>Austin, TX</publisher-loc>, <lpage>26</lpage> pp + Appendix 1–5.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Baker</surname><given-names>HB</given-names></name></person-group> (<year>1964</year>)<article-title> Type land snails in the Academy of Natural Sciences of Philadelphia. Part III. Limnophile and thalassophile Pulmonata. Part IV. Land and fresh-water Prosobranchia.</article-title> <source>Proceedings of the Academy of Natural Sciences of Philadelphia</source> <volume>116</volume>:<fpage>149</fpage>-<lpage>193</lpage>.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bowles</surname><given-names>DE</given-names></name><name name-style="western"><surname>Arsuffi</surname><given-names>TL</given-names></name></person-group> (<year>1993</year>)<article-title> Karst aquatic ecosystems of the Edwards Plateau region of central Texas, USA: a consideration of their importance, threats to their existence, and efforts for their conservation.</article-title> <source>Aquatic Conservation: Marine and Freshwater Ecosystems</source> <volume>3</volume>:<fpage>312</fpage>-<lpage>329</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Burch</surname><given-names>JB</given-names></name><name name-style="western"><surname>Tottenham</surname><given-names>JL</given-names></name></person-group> (<year>1980</year>)<article-title> North American freshwater snails. Species list, ranges and illustrations.</article-title> <source>Walkerana</source> <volume>1</volume>:<fpage>81</fpage>-<lpage>215</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cable</surname><given-names>RM</given-names></name><name name-style="western"><surname>Isserhoff</surname><given-names>H</given-names></name></person-group> (<year>1969</year>)<article-title> A protandrous haploporid cercaria, probably the larva of <italic>Saccocoelioides sogandaresi</italic> Lumsden, 1963.</article-title> <source>Proceedings of the Helminthological Society of Washington</source> <volume>36</volume>:<fpage>131</fpage>-<lpage>135</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cauble</surname><given-names>MK</given-names></name></person-group> (<year>1998</year>)<source> Abundance and distribution of the freshwater snail fauna in Comal Springs-Landa Lake, New Braunfels, Comal Co., TX. M.S. thesis</source>, <publisher-loc>San Marcos, Texas</publisher-loc>: <publisher-name>Southwest Texas State University</publisher-name>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>EHA</surname><given-names>(Espey,Huston &amp; Associates, Inc.)</given-names> </name></person-group> (<year>1975</year>)<article-title> Investigation of flow requirements from Comal and San Marcos Springs to maintain associated aquatic ecosystems Guadalupe River basin. Document No. 7503</article-title>. <source>Report to the Texas Water Development Board</source>, <publisher-loc>Austin, TX</publisher-loc>, i-iii + <lpage>137</lpage> pp.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name></person-group> (<year>1994</year>)<article-title> A review of the North American freshwater snail genus <italic>Pyrgulopsis</italic>.</article-title> <source>Smithsonian Contributions to Zoology</source> <volume>554</volume>:<fpage>1</fpage>-<lpage>115</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name></person-group> (<year>1998</year>)<article-title> A systematic review of the hydrobiid snails (Gastropoda: Rissooidea) of the Great Basin, western United States. Part I. Genus <italic>Pyrgulopsis</italic>.</article-title> <source>Veliger</source> <volume>41</volume>:<fpage>1</fpage>-<lpage>132</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>1996</year>)<article-title> Redescription of <italic>Paludina integra</italic> Say, 1821, type species of genus <italic>Cincinnatia</italic> (Gastropoda: Hydrobiidae).</article-title> <source>Journal of Molluscan Studies</source> <volume>62</volume>:<fpage>33</fpage>-<lpage>55</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H-P</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>2003a</year>)<article-title> Phylogenetic relationships of North American nymphophiline gastropods based on mitochondrial DNA sequences.</article-title> <source>Zoologica Scripta</source> <volume>32</volume>:<fpage>357</fpage>-<lpage>366</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H-P</given-names></name><name name-style="western"><surname>Frest</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Johannes</surname><given-names>EJ</given-names></name></person-group> (<year>2007</year>)<article-title> Extensive diversification of pebblesnails (Lithoglyphidae: <italic>Fluminicola</italic>) in the upper Sacramento River basin, northwestern United States.</article-title> <source>Zoological Journal of the Linnean Society of London</source> <volume>149</volume>:<fpage>371</fpage>-<lpage>422</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name><name name-style="western"><surname>Frest</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H.-P.</given-names></name><name name-style="western"><surname>Johannes</surname><given-names>EJ</given-names></name></person-group> (<year>2003b</year>)<article-title> Rissooidean snails from the Pit River basin, California.</article-title> <source>Veliger</source> <volume>46</volume>:<fpage>275</fpage>-<lpage>304</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>IUCN</surname><given-names>(International Union for Conservation of Nature)</given-names></name></person-group> (<year>2001</year>)<source> IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission</source>. <publisher-name>IUCN</publisher-name>, <publisher-loc>Gland, Switzerland and Cambridge, UK</publisher-loc>, ii + <lpage>30</lpage> pp. <ext-link ext-link-type="uri" xlink:href="http://www.iucnredlist.org/documents/redlist_cats_crit_en.pdf" xlink:type="simple">http://www.iucnredlist.org/documents/redlist_cats_crit_en.pdf</ext-link> [accessed 3.I.2011]</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lindholm</surname><given-names>JJT</given-names></name></person-group> (<year>1979</year>)<source> The gastropods of the upper San Marcos River and their trematode parasites. M.S. thesis</source>. <publisher-loc>San Marcos, TX</publisher-loc>: <publisher-name>South Texas State University</publisher-name>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liu</surname><given-names>H-P</given-names></name><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>2001</year>)<article-title> Phylogenetic relationships of the Cochliopinae (Rissooidea: Hydrobiidae): an enigmatic group of aquatic gastropods.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>21</volume>:<fpage>17</fpage>-<lpage>25</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>NatureServe</surname></name></person-group> (<year>2009</year>)<source> NatureServe Explorer: an online encyclopedia of life [web application]. Version 7.1</source>. <publisher-name>NatureServe</publisher-name>, <publisher-loc>Arlington, VA</publisher-loc>. <ext-link ext-link-type="uri" xlink:href="http://www.natureserve.org/explorer" xlink:type="simple">http://www.natureserve.org/explorer</ext-link> [accessed 3.VI.2010]</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nylander</surname><given-names>JAA</given-names></name></person-group> (<year>2004</year>)<source> MrModeltest v2</source>. Program distributed by the author. <publisher-name>Evolutionary Biology Centre, Uppsala University</publisher-name>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pilsbry</surname><given-names>HA</given-names></name></person-group> (<year>1910</year>)<article-title> New Amnicolidae of the Panuco River system, Mexico</article-title>. <source>Nautilus</source> <volume>23</volume>: <fpage>97</fpage>–<lpage>100</lpage>, plate IX.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Pilsbry</surname><given-names>HA</given-names></name><name name-style="western"><surname>Ferriss</surname><given-names>JH</given-names></name></person-group> (<year>1906</year>)<article-title> Mollusca of the southwestern states. II</article-title>. <source>Proceedings of the Academy of Natural Sciences of Philadelphia</source> <volume>58</volume>: <fpage>123</fpage>–<lpage>175</lpage>, plates V–IX.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name></person-group> (<year>2003</year>)<article-title> MRBAYES 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics</source> <volume>19</volume>:<fpage>1572</fpage>-<lpage>1574</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rosmarino</surname><given-names>NJ</given-names></name><name name-style="western"><surname>Tutchton</surname><given-names>JJ</given-names></name></person-group> (<year>2007</year>)<source> A petition to list all critically imperiled or imperiled species in the southwest United States as threatened or endangered under the Endangered Species Act, 16 U.S.C. §§ 1531 <italic>et seq</italic></source>. <publisher-name>Forest Guardians</publisher-name>, <publisher-loc>Santa Fe, NM</publisher-loc>, <lpage>55</lpage> pp. <ext-link ext-link-type="uri" xlink:href="http://www.wildearthguardians.org/Portals/0/support_docs/petition_protection-475-species_6-21-07.pdf" xlink:type="simple">http://www.wildearthguardians.org/Portals/0/support_docs/petition_protection-475-species_6-21-07.pdf</ext-link> [accessed 3.VI.2010]</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>SSI</surname><given-names>(Systat Software Inc.)</given-names></name></person-group> (<year>2004</year>)<source> Systat® for Windows®</source>. <publisher-loc>Richmond, CA</publisher-loc>.</mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tamura</surname><given-names>K</given-names></name><name name-style="western"><surname>Dudley</surname><given-names>J</given-names></name><name name-style="western"><surname>Nei</surname><given-names>M</given-names></name><name name-style="western"><surname>Kumar,</surname><given-names>S</given-names></name></person-group> (<year>2007</year>)<article-title> MEGA4: Molecular evolutionary genetics analysis (MEGA) software version 4.0.</article-title> <source>Molecular Biology and Evolution</source> <volume>24</volume>:<fpage>1596</fpage>-<lpage>1599</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Taylor</surname><given-names>DW</given-names></name></person-group> (<year>1975</year>)<article-title> Index and bibliography of late Cenozoic freshwater Mollusca of western North America.</article-title> <source>University of Michigan Papers on Paleontology</source> <volume>10</volume>:<fpage>1</fpage>-<lpage>384</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Texas Parks and Wildlife</surname></name></person-group> (<year>2010</year>)<source> State Wildlife Action Plan (SWAP)</source>. <ext-link ext-link-type="uri" xlink:href="http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/" xlink:type="simple">http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/</ext-link> [accessed 10.VI.2010]</mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>1968</year>)<source> The Aquatic Snails of the Family Hydrobiidae of Peninsular Florida</source>. <publisher-name>University of Florida Press</publisher-name>, <publisher-loc>Gainesville</publisher-loc>, <lpage>268</lpage> pp.</mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>1978</year>)<article-title> The hydrobiid snail genus <italic>Marstonia</italic>.</article-title> <source>Bulletin of the Florida State Museum Biological Sciences</source> <volume>21</volume>:<fpage>113</fpage>-<lpage>158</lpage>.</mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>1995</year>)<article-title> A new freshwater snail from the Coosa River, Alabama (Gastropoda: Prosobranchia: Hydrobiidae).</article-title> <source>Proceedings of the Biological Society of Washington</source> <volume>108</volume>:<fpage>502</fpage>-<lpage>507</lpage>.</mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name></person-group> (<year>2005</year>)<article-title> Two new species of hydrobiid snails of the genus <italic>Marstonia</italic> from Alabama and Georgia.</article-title> <source>Veliger</source> <volume>47</volume>:<fpage>175</fpage>-<lpage>182</lpage>.</mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name><name name-style="western"><surname>Hershler</surname><given-names>R</given-names></name></person-group> (<year>2002</year>)<article-title> Two genera of North American freshwater snails: <italic>Marstonia</italic> Baker, 1926, resurrected to generic status, and <italic>Floridobia</italic>, new genus (Prosobranchia: Hydrobiidae: Nymphophilinae).</article-title> <source>Veliger</source> <volume>45</volume>:<fpage>269</fpage>-<lpage>271</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tolley-Jordan</surname><given-names>LR</given-names></name><name name-style="western"><surname>Owen</surname><given-names>JM</given-names></name></person-group> (<year>2008</year>)<article-title> Habitat influences snail community structure and trematode infection levels in a spring-fed river, Texas, USA.</article-title> <source>Hydrobiologia</source> <volume>600</volume>:<fpage>29</fpage>-<lpage>40</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Turgeon</surname><given-names>DD</given-names></name><name name-style="western"><surname>Quinn</surname><given-names>JF</given-names></name><name name-style="western"><surname>Bogan</surname><given-names>AS</given-names></name><name name-style="western"><surname>Coan</surname><given-names>EV</given-names></name><name name-style="western"><surname>Hochberg</surname><given-names>FG</given-names></name><name name-style="western"><surname>Lyons</surname><given-names>WG</given-names></name><name name-style="western"><surname>Mikkelsen</surname><given-names>PM</given-names></name><name name-style="western"><surname>Neves</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Roper</surname><given-names>CFE</given-names></name><name name-style="western"><surname>Rosenberg</surname><given-names>G</given-names></name><name name-style="western"><surname>Roth</surname><given-names>B</given-names></name><name name-style="western"><surname>Scheltema</surname><given-names>A</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>FG</given-names></name><name name-style="western"><surname>Vecchione</surname><given-names>M</given-names></name><name name-style="western"><surname>Williams</surname><given-names>JD</given-names></name></person-group> (<year>1998</year>)<article-title> Common and scientific names of aquatic invertebrates from the United States and Canada: Mollusks. Second edition</article-title>. <source>American Fisheries Society Special Publication</source> <volume>26</volume>, <lpage>526</lpage> pp.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>USDAFS</surname><given-names>(United States Department of Agriculture ForestService)</given-names></name></person-group> (<year>2008</year>)<source> Ecological sustainability report Kiowa, Rita Blanca, Black Kettle, and McClellan Creek National Grasslands. August 2008 version</source>. <publisher-name>Cibola National Forest</publisher-name>, <publisher-loc>Albuquerque, NM</publisher-loc>, <lpage>84</lpage>pp. <ext-link ext-link-type="uri" xlink:href="http://www.fs.fed.us/r3/cibola/plan-revision/national_grasslands/plandocs/esr_final.pdf" xlink:type="simple">http://www.fs.fed.us/r3/cibola/plan-revision/national_grasslands/plandocs/esr_final.pdf</ext-link> [accessed 14.VI.2010]</mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>USFWS</surname><given-names>(United States Fish and Wildlife Service)</given-names></name></person-group> (<year>1994</year>)<article-title> Endangered and threatened wildlife and plants; determination of endangered status for the Royal snail and Anthony’s riversnail</article-title>. <source>Federal Register</source> <volume>59</volume>: <fpage>17994</fpage>–<lpage>17998</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.fws.gov/ecos/ajax/docs/federal_register/fr2561.pdf" xlink:type="simple">http://www.fws.gov/ecos/ajax/docs/federal_register/fr2561.pdf</ext-link> [accessed 4.VI.2010]</mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>USFWS </surname><given-names>(United States Fish and Wildlife Service)</given-names></name></person-group> (<year>1996</year>)<source> San Marcos and Comal Springs and associated aquatic ecosystems (revised) recovery plan for San Marcos gambusia (<italic>Gambusia georgei</italic>), Fountain darter (<italic>Etheostoma fonticola</italic>), San Marcos salamander (<italic>Eurycea nana</italic>), Texas wild-rice (<italic>Zizania texana</italic>), Texas blind salamander (<italic>Typhlomolge rathbuni</italic>)</source>. Prepared for the San Marcos/Comal Recovery Team. <publisher-loc>Austin, Texas</publisher-loc>, <lpage>121</lpage> pp. <ext-link ext-link-type="uri" xlink:href="http://www.fws.gov/ecos/ajax/docs/recovery_plan/960214.pdf" xlink:type="simple">http://www.fws.gov/ecos/ajax/docs/recovery_plan/960214.pdf</ext-link> [accessed 15.VI.2010]</mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>USFWS</surname><given-names>(United States Fish and Wildlife Service)</given-names></name></person-group> (<year>2000</year>)<article-title> Endangered and threatened wildlife and plants; endangered status for the Armored snail and Slender campeloma</article-title>. <source>Federal Register</source> <volume>65</volume>: <fpage>10033</fpage>–<lpage>10039</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.fws.gov/ecos/ajax/docs/federal_register/fr3525.pdf" xlink:type="simple">http://www.fws.gov/ecos/ajax/docs/federal_register/fr3525.pdf</ext-link> [accessed 4.VI.2010]</mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>USFWS</surname><given-names>(United States Fish and Wildlife Service)</given-names></name></person-group> (<year>2009</year>)<article-title> Endangered and threatened wildlife and plants; partial 90-day finding on a petition to list 475 species in the southwestern United States as threatened or endangered with critical habitat; proposed rule</article-title>. <source>Federal Register</source> <volume>74</volume>: <fpage>66866</fpage>–<lpage>66905</lpage>. <ext-link ext-link-type="uri" xlink:href="http://www.fws.gov/policy/library/2009/E9-29699.pdf" xlink:type="simple">http://www.fws.gov/policy/library/2009/E9-29699.pdf</ext-link> [accessed 3.VI.2010].</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>USFWS</surname><given-names>(United States Fish and Wildlife Service)</given-names></name></person-group> (<year>2010</year>)<source> Species profile. Comal siltsnail (<italic>Marstonia comalensis</italic>)</source>. <ext-link ext-link-type="uri" xlink:href="http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=F04C" xlink:type="simple">http://ecos.fws.gov/speciesProfile/profile/speciesProfile.action?spcode=F04C</ext-link> [accessed 14.VI.2010]</mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Walker</surname><given-names>B</given-names></name></person-group> (<year>1918</year>)<article-title> A synopsis of the classification of the fresh-water Mollusca of North America, north of Mexico, and a catalogue of the more recently described species, with notes.</article-title> <source>University of Michigan Museum of Zoology Miscellaneous Publications</source> <volume>6</volume>:<fpage>1</fpage>-<lpage>133</lpage>.</mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilke</surname><given-names>T</given-names></name><name name-style="western"><surname>Davis</surname><given-names>GM</given-names></name><name name-style="western"><surname>Falniowski</surname><given-names>A</given-names></name><name name-style="western"><surname>Giusti</surname><given-names>F</given-names></name><name name-style="western"><surname>Bodon</surname><given-names>M</given-names></name><name name-style="western"><surname>Szarowska</surname><given-names>M</given-names></name></person-group> (<year>2001</year>)<article-title> Molecular systematic of Hydrobiidae ( Mollusca: Gastropoda: Rissooidea): testing monophyly and phylogenetic relationships.</article-title> <source>Proceedings of the Academy of Natural Sciences of Philadelphia</source> <volume>151</volume>:<fpage>1</fpage>-<lpage>21</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

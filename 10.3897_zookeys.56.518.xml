@@ -1,0 +1,898 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+	
+    <front>
+
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.56.518</article-id>
+            <title-group>
+                <article-title>
+                    Resurrection of 
+                        <tp:taxon-name>Dryotomicus</tp:taxon-name> Wood and description of two new species from the Amazon River Basin (Coleoptera, Curculionidae, Scolytinae, Phloeotribini)
+                </article-title>
+            </title-group>
+	
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Cognato</surname>
+                        <given-names>Anthony I.</given-names>
+                    </name>
+                    <aff>
+                        Department of Entomology, Michigan State University, 243 Natural Science, East Lansing, MI 48824
+                    </aff>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:DE99F1CE-BC9B-4491-9827-DCC3243B38A1</uri>
+                </contrib>
+
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>M. Smith</surname>
+                        <given-names>Sarah</given-names>
+                    </name>  
+                    <aff>
+                        Department of Entomology, Michigan State University, 243 Natural Science, East Lansing, MI 48824
+                    </aff>
+          			  	<uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:6E59A804-EB30-41D4-B908-BC8218027704</uri>
+                </contrib>
+            </contrib-group>
+
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Anthony I. Cognato (<email xlink:type="simple">cognato@msu.edu</email>).</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Bjarte H. Jordal</p>
+                </fn>
+            </author-notes>
+
+            <pub-date pub-type="epub">
+                <day>17</day>
+                <month>9</month>
+                <year>2010</year>
+            </pub-date>
+            <issue>56</issue>
+            <fpage>49</fpage>
+            <lpage>64</lpage>
+
+            <history>
+                <date date-type="received">
+                    <day>24</day>
+                    <month>8</month>
+                    <year>2009</year>
+                </date>
+                <date date-type="accepted">
+                    <day>2</day>
+                    <month>3</month>
+                    <year>2010</year>
+                </date>
+            </history>
+
+            <permissions>
+                <copyright-statement>A.I. Cognato, S.M. Smith</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:087AE5FB-6DFF-4235-A4A9-706A4E6EC561</self-uri>
+
+            <abstract>
+                <label>Abstract</label>
+                <p>A cladistic analysis based on 20 morphological characters was conducted for 11 species representing two valid and two synonymized <tp:taxon-name>Phloeotribini</tp:taxon-name> genera. One hundred-eighty most-parsimonious trees were recovered and the <tp:taxon-name>Dryotomicus</tp:taxon-name> Wood species were monophyletic in a mostly unresolved strict-consensus tree. The unusual antennal morphology, with the length of the first two funicular segments equal to the last three segments and a scape which is twice the length of the funicle, distinguish <tp:taxon-name>Dryotomicus</tp:taxon-name> from the other <tp:taxon-name>Phloeotribini</tp:taxon-name> genera. Hence this genus is resurrected because of monophyly and diagnostic characters. <tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp. n. and <tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n. are described from Guyana and Peru, respectively. In the male specimen of <tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name>, the frons has one median and two large lateral carinae and in the male specimen of <tp:taxon-name>Dryotomicus woodrex</tp:taxon-name>, the frons has three smaller median tubercles arranged transversely. <tp:taxon-name>Phloeotribus puberulus</tp:taxon-name> Chapuis and <tp:taxon-name>Phloeotribus tuberculatus</tp:taxon-name> (Eggers) were monophyletic with the new <tp:taxon-name>Dryotomicus</tp:taxon-name> species and thus are transferred to this genus. Keys to the <tp:taxon-name>Phloeotribini</tp:taxon-name> genera and <tp:taxon-name>Dryotomicus</tp:taxon-name> species are given.</p>
+            </abstract>
+	
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Scolytidae</kwd>
+                <kwd>bark beetle</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>tropical biodiversity</kwd>  
+            </kwd-group>
+
+        </article-meta>
+    </front>
+
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>The most diverse and unknown scolytine fauna lies in the tropics. Although a recent monograph of the South American scolytines has been published, approximately another 2500 species remain undiscovered in the Neotropics (<xref ref-type="bibr" rid="B11">Wood 2007</xref>). Among these species, are lineages with previously unobserved morphologies, some of which represent undescribed genera. For example, <xref ref-type="bibr" rid="B3">Dole and Cognato (2007)</xref> described <tp:taxon-name>Akrobothrus ecuadoriensis</tp:taxon-name> because of the elytral depression around the scutellum, which is a rare character among scolytines. Similarly, we recently discovered two morphologically interesting species of the <tp:taxon-name>Phloeotribini</tp:taxon-name> collected from primary wet forests in Guyana and Peru. Although the pseudo-lamellate antennal club places these new species in <tp:taxon-name>Phloeotribus</tp:taxon-name> Latreille, the unusually long funicle and scape suggests the placement of these species in a different genus. <tp:taxon-name>Phloeotribini</tp:taxon-name> currently contains two genera: <tp:taxon-name>Phloeotribus</tp:taxon-name> which is represented by ~100 species distributed in the Holarctic, South America (with highest diversity), and Australia and <tp:taxon-name>Aricerus</tp:taxon-name> Blandford which is represented by three Australian- New Guinea species (<xref ref-type="bibr" rid="B10">Wood 1986</xref>). However, as many as nine previously recognized genera have been synonymized with <tp:taxon-name>Phloeotribus</tp:taxon-name> and, of these, the Neotropical genera <tp:taxon-name>Eulytocerus</tp:taxon-name> Blandford and <tp:taxon-name>Dryotomicus</tp:taxon-name> Wood resemble the recently collected specimens based on previous descriptions (Chapuis 1869; <xref ref-type="bibr" rid="B1">Blandford 1897</xref>; <xref ref-type="bibr" rid="B5">Schedl 1962</xref>; <xref ref-type="bibr" rid="B8">Wood 1962</xref>).</p>
+            <p>In this study, we assembled specimens of Neotropical, Nearctic, and Australian <tp:taxon-name>Phloeotribini</tp:taxon-name> and conducted a cladistic analysis, which justified the resurrection of <tp:taxon-name>Dryotomicus</tp:taxon-name> and the description of two new species.</p>
+        </sec>
+        <sec sec-type="Materials and methods"><title>Materials and methods</title>
+            <p>Specimens of one Chramesus (outgroup), one Aricerus and 11 Phloeotribus species, which included all species described as Dryotomicus and Eulytocerus (<xref ref-type="bibr" rid="B12">Wood and Bright 1992</xref>), fromthe A.J. Cook Arthropod Research Collection, East Lansing, MI [MSUC], the NationalMuseum of Natural History at the Smithsonian Institute, Washington, D.C. [USNM], Snow Insect collection, Lawrence, KS [SMEC], The Natural History Museum, London [BMNH] and Institut Royal des Sciences Naturelles de Belgique (IRSNB) were examined and scored for 20 morphologically variable characters (<xref ref-type="table" rid="T1">Tables 1</xref>, <xref ref-type="table" rid="T2">2</xref>).</p>
+
+						
+            <table-wrap id="T1" position="float" orientation="portrait">
+							
+                <label>Table 1.</label>
+                <caption>
+									<p>Characters and their states used in the phylogenetic analysis.</p></caption>
+
+                <table>
+                    <tbody> 
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 1</td>
+                            <td rowspan="1" colspan="1">Antennal club. 0: segments fused, 1: segments articulated.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 2</td>
+                            <td rowspan="1" colspan="1">Antennal club, shape of first segment. 0: not applicable, 1: asymmetrical with a constant width, 2: Asymmetrical, expanded at base (j- shaped), 3: symmetrical chevron-shaped.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 3</td>
+                            <td rowspan="1" colspan="1">Second funicular segment. 0: not longer than total length of segments 3-5, 1: longer than total length of segments 3-5. </td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 4</td>
+                            <td rowspan="1" colspan="1">Length of scape. 0: not extending beyond the anterior margin of the pronotum, 1: extending beyond the anterior margin of the pronotum.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 5</td>
+                            <td rowspan="1" colspan="1">Area between the antennal insertions and mandibles. 0: less than or equal to length of the mandibles, 1: greater than the length of the mandibles. </td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 6</td>
+                            <td rowspan="1" colspan="1">Male frons with median tubercule(s). 0: absent, 1: one 2: &gt; one.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 7</td>
+                            <td rowspan="1" colspan="1">Male frons with lateral carina. 0: absent, 1: present.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 8</td>
+                            <td rowspan="1" colspan="1">Male head sulcate from the apex of the eyes to the vertex. 0: absent, 1: present.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 9</td>
+                            <td rowspan="1" colspan="1">Declivitous anterior edge of the pronotum. 0: absent, 1: present.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 10</td>
+                            <td rowspan="1" colspan="1">Dorsum of the pronotum. 0: with dense, minute, oppressed setae, 1: with scattered longer erect setae.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 11</td>
+                            <td rowspan="1" colspan="1">Anterior and lateral margins of the pronotum. 0: without asperities, 1: with asperities.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 12</td>
+                            <td rowspan="1" colspan="1">Basal margin of the elytra. 0: crenulate, 1: carinate.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 13</td>
+                            <td rowspan="1" colspan="1">Elytral striae. 0: deeply impressed, 1: shallowly impressed.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 14</td>
+                            <td rowspan="1" colspan="1">First and second interstriae on elytral declivity. 0: raised above striae, 1: flush with striae.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 15</td>
+                            <td rowspan="1" colspan="1">Third, fifth and seventh elytral interstriae on declivity. 0: with tubercules, 1: smooth.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 16</td>
+                            <td rowspan="1" colspan="1">Scales on elytral declivity. 0: absent, 1: present.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 17</td>
+                            <td rowspan="1" colspan="1">Tubercles on protibia (male). 0:3, 1:5, 2:6, 3:7, 4:8, 5:9.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 18</td>
+                            <td rowspan="1" colspan="1">Protibiae. 0: without socketed teeth, 1: with socketed teeth.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 19</td>
+                            <td rowspan="1" colspan="1">Metatibae. 0: widest at distal end, 1: widest near the middle.</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1">Character 20</td>
+                            <td rowspan="1" colspan="1">Metatibae. 0: with less than five denticles, 1: with more than five denticles.</td>
+                        </tr>
+									
+                    </tbody>
+								
+                </table>
+						
+            </table-wrap>
+
+            <p>Using this data matrix (<xref ref-type="table" rid="T2">Table 2</xref>), most parsimonious trees (mpts) were reconstructed by a branch and bound search in PAUP* 4.0 b10 PPC using default settings (<xref ref-type="bibr" rid="B7">Swofford 2002</xref>). Bootstrap values were determined by performing 500 pseudo-replicates in a heuristic search with simple stepwise addition replicates. Bremer support was calculated with TreeRot v.2 (<xref ref-type="bibr" rid="B6">Sorenson 1999</xref>).</p>
+            <!--PageBreak-->
+
+						
+            <table-wrap id="T2" position="float" orientation="portrait">
+							
+                <label>Table 2.</label>
+								
+                <caption>
+									<p>Character states used for the reconstruction of the <tp:taxon-name>Phloeotribini</tp:taxon-name> phylogeny (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Characters and states are in Table 1.</p></caption>
+								
+                <table>
+									
+                    <tbody>
+										
+                        <tr>
+                            <th rowspan="1" colspan="1"/><th colspan="20" rowspan="1">Characters</th>
+                        </tr>
+										
+                        <tr>
+                            <th rowspan="1" colspan="1"></th>
+                            <th rowspan="1" colspan="1">1</th>
+                            <th rowspan="1" colspan="1">2</th>
+                            <th rowspan="1" colspan="1">3</th>
+                            <th rowspan="1" colspan="1">4</th>
+                            <th rowspan="1" colspan="1">5</th>
+                            <th rowspan="1" colspan="1">6</th>
+                            <th rowspan="1" colspan="1">7</th>
+                            <th rowspan="1" colspan="1">8</th>
+                            <th rowspan="1" colspan="1">9</th>
+                            <th rowspan="1" colspan="1">10</th>
+                            <th rowspan="1" colspan="1">11</th>
+                            <th rowspan="1" colspan="1">12</th>
+                            <th rowspan="1" colspan="1">13</th>
+                            <th rowspan="1" colspan="1">14</th>
+                            <th rowspan="1" colspan="1">15</th>
+                            <th rowspan="1" colspan="1">16</th>
+                            <th rowspan="1" colspan="1">17</th>
+                            <th rowspan="1" colspan="1">18</th>
+                            <th rowspan="1" colspan="1">19</th>
+                            <th rowspan="1" colspan="1">20</th>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Aricerus</tp:taxon-name> sp.</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus championi</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus</tp:taxon-name> sp. Costa Rica</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus</tp:taxon-name> sp. Ecuador</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus frontalis</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus liminaris</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus ovatus</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">?</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus</tp:taxon-name> sp. Panama</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus oenophillis</tp:taxon-name> sp. n.</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n.</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus puberulus</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus tuberculatus</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+										
+                        <tr>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Chramesus</tp:taxon-name> sp.</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">0</td>
+                            <td rowspan="1" colspan="1">1</td>
+                        </tr>
+									
+                    </tbody>
+								
+                </table>
+						
+            </table-wrap>
+
+        </sec>
+        <sec sec-type="Results and discussion"><title>Results and discussion</title>
+            <p>One hundred-eighty mpts where reconstructed for the 13 taxa. The strict consensus tree of the mpts was mostly unresolved except for the monophyly of <tp:taxon-name>Dryotomicus</tp:taxon-name> species (<xref ref-type="fig" rid="F1">Fig. 1</xref>). This clade has a high bootstrap value (100), is supported by a relatively high Bremer value (4) and has several diagnostic characters (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The antennal funicle, in which the length of the first two funicular segments equals the last three segments, and the scape, which is twice the length of the funicle, are the most striking features. Antennal morphological variation is taxonomically important because these features diagnose <tp:taxon-name>Aricerus</tp:taxon-name> as well as species of <tp:taxon-name>Phloeotribus</tp:taxon-name> (<xref ref-type="bibr" rid="B9">Wood 1982</xref>, <xref ref-type="bibr" rid="B10">Wood 1986</xref>). Hence, given monophyly and the diagnostic characters, <tp:taxon-name>Dryotomicus</tp:taxon-name> is removed from synonymy with <tp:taxon-name>Phloeotribus</tp:taxon-name> and includes four species <tp:taxon-name>Dryotomicus puberulus</tp:taxon-name> (Chapuis, 1869), <tp:taxon-name>Dryotomicus tuberculatus</tp:taxon-name> (Eggers, 1943), <tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp. n., and <tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n. Exclusion of <tp:taxon-name>Dryotomicus ovatus</tp:taxon-name> (Eggers, 1943) and <tp:taxon-name>Phloeotribus championi</tp:taxon-name> (Blandford, 1897) from this clade confirms their synonymy with <tp:taxon-name>Phloeotribus</tp:taxon-name> (<xref ref-type="bibr" rid="B12">Wood and Bright 1992</xref>). Although the relationship of the <tp:taxon-name>Phloeotribus</tp:taxon-name> spp. is unresolved, many of the mpts suggest that this genus is potentially paraphyletic. The inclusion of more <tp:taxon-name>Phloeotribus</tp:taxon-name> spp. and data, especially DNA sequences, in future phylogenetic analyses would help to solidify the relationships among the genera.</p><!--PageBreak-->
+
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Phylogeny of <tp:taxon-name>Phloeotribini</tp:taxon-name> species, 1 of 180 most parsimonious trees (tree length=35, RC=0.6429). Numbers above branches are Bremer support and numbers below are bootstrap values (&lt; 50 not shown). Nodes with zero Bremer support were unresolved in a strict consensus of the 180 mpts. Vertical lines represent unambiguous character state changes inferred using accelerated transformations. Numbers above vertical lines are the characters and numbers below are the character state changes.</p></caption>
+                <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g001.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+
+            <p>The relationship of the four <tp:taxon-name>Dryotomicus</tp:taxon-name> species is mostly unresolved (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Low support values indicate a potential sister- relationship between <tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> and <tp:taxon-name>Dryotomicus tuberculatus.</tp:taxon-name> However this is a likely spurious result caused by missing character data for<!--PageBreak--> <tp:taxon-name>Dryotomicus tuberculatus</tp:taxon-name>; the only known specimen representing this species is missing its head. However, the distinct morphology of the male frons and elytral declivity distinguish the new species from <tp:taxon-name>Dryotomicus tuberculatus</tp:taxon-name> (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+        </sec>
+        <sec sec-type="Systematics"><title>Systematics</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Dryotomicus</tp:taxon-name-part>
+                   	</tp:taxon-name>
+                        <tp:taxon-authority>Wood</tp:taxon-authority>
+                        <tp:taxon-status>genus bona</tp:taxon-status>
+                    <tp:nomenclature-citation-list>
+                      	<tp:nomenclature-citation><tp:taxon-name>Dryotomus</tp:taxon-name><comment> Chapuis 1869: 46. Type species: <tp:taxon-name>Dryotomus puberulus</tp:taxon-name> Chapuis, monobasic, preoccupied by Swainson 1831: 301. Synonymy: <xref ref-type="bibr" rid="B5">Schedl 1962</xref>: 487. (References in <xref ref-type="bibr" rid="B12">Wood and Bright 1992</xref>: 216)</comment></tp:nomenclature-citation>
+												<tp:nomenclature-citation><tp:taxon-name>Dryotomicus</tp:taxon-name><comment> <xref ref-type="bibr" rid="B8">Wood 1962</xref>: 76. <tp:taxon-name>Dryotomus puberulus</tp:taxon-name> Chapuis, automatic. Synonymy: <xref ref-type="bibr" rid="B9">Wood 1982</xref>: 256. (References in <xref ref-type="bibr" rid="B12">Wood and Bright 1992</xref>: 217)</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> The asymmetrical first segment of antennal club, socketed teeth on the protibae, and rounded lateral margins of the pronotum distinguish this genus from <tp:taxon-name>Aricerus</tp:taxon-name>. The usual median tubercle(s) on the male frons, the longer second antennal funicular segment, declivitous anterior edge of the pronotum, the shallowly impressed elytral striae, and elytral declivity with scales and long setae distinguishes <tp:taxon-name>Dryotomicus</tp:taxon-name> from <tp:taxon-name>Phloeotribus</tp:taxon-name>.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Dryotomicus</tp:taxon-name-part>
+                    	<tp:taxon-name-part taxon-name-part-type="species">oenophilis</tp:taxon-name-part>
+                    	<object-id xlink:type="simple">urn:lsid:zoobank.org:act:A2174B38-3EBD-4463-AB45-718C449F858D</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status>sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Figs 2</xref><xref ref-type="fig" rid="F5">5</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p><tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> is distinguished from the other <tp:taxon-name>Dryotomicus</tp:taxon-name> species by a large medial tubercle and lateral carina with acute proximal tips on the male frons, interstriae 2 without long uniserial setae, and by raised interstriae of the elytral declivity having tubercles on interstriae 3, 5, and 7 (<xref ref-type="fig" rid="F3">Fig. 3B</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Holotype, male, total length 4.5 mm (3.8–4.5 mm, n=7), 2× longer than wide, color reddish-black (<xref ref-type="fig" rid="F2">Fig. 2</xref>).</p>
+                    <p>Head. Frons shagreen with setae as long as or longer than the large median tubercle, longest setae close to epistoma and frontal margins; a large median tubercle between antennal insertions and dorsal margin of eye; lateral carinae from epistoma to dorsal end of eye thicker at antennal insertion and ending acutely (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). Vertex, shagreen with setae approximately as long as or longer than large median tubercle; slightly concave with distinct slightly carinate lateral margins; obtuse median carina from median frontal tubercle to epistoma. Antennae, scape expanded distally and curved proximally beyond the anterior edge of pronotum, funicle five segmented, segments 1 and 2 about equal length and each as long as the combination of segments 3, <!--PageBreak-->4, 5, club pseudo-lamellate, asymmetric, basal segment 1 expanded at base (j- shaped). Eyes oval, ventrally acute (<xref ref-type="fig" rid="F3">Fig. 3A</xref>).</p>
+
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp. n. male. Habitus, A Dorsal B Lateral.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g002.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+										
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp. n. male, A Frons B Elytral declivity.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g003.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                    <p>Pronotal width 2.2 mm (1.7–2.2 mm, n=7), 0.64× longer than wide; quadrate flat summit not apparent, densely punctured with appressed minute pubescence and scattered longer setae approximately as long as the funicle concentrated anteriorly and laterally.</p>
+                    <p>Elytra 1.2× longer than wide, 2× longer than pronotum, striae on disk impressed, punctures only evident near declivity; striae 4–9 marked by shallow, uniserial punctures;<!--PageBreak--> interstriae on disk 2–3× width of striae, confused scales from base to apex on interstriae 1 and 2, interstriae 1 and 3–9 with long uniserial setae approximately as long as the funicle; interstriae 3–9 minutely punctured. (<xref ref-type="fig" rid="F2">Figs 2</xref>, <xref ref-type="fig" rid="F3">3B</xref>). Elytral declivity with densely placed scales and scattered long setae; striae impressed; interstriae 3, 5, 7 each with 3 tubercles (<xref ref-type="fig" rid="F3">Fig. 3B</xref>).</p>
+                    <p>Male genitalia. Aedeagal body (median lobe) conical, apex acute, lateral margins heavily sclerotized medially on apical half, apophyses (struts) as long as body, attached ventrally; internal sac central area lightly sclerotized, lateral margins heavily sclerotized appearing as ventral apophyses (struts) directed apically , seminal trough at proximal end comprised of two lobes that curve medially (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Tegmen circular, weakly scle<!--PageBreak-->rotised on dorsal side. Spiculum gastrale nearly as long as adeagus, crescent-shaped with small knob near the apicalend.</p>
+
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp. n. male genitalia, A Dorsal B Lateral. Spiculum gastrale not shown.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g004.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                    <p>Female similar to male in most features, except frons flat to slightly convex, densely punctured, without median tubercles and carinae (<xref ref-type="fig" rid="F5">Fig. 5A</xref>). Strial punctures on elytra more distinct, interstrial tubercles smaller (<xref ref-type="fig" rid="F5">Fig. 5B</xref>).</p>
+
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp. n. female, A Lateral habitus B Frons.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g005.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                </tp:treatment-sec>
+
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype and 6 paratypes (3 males and 3 females) bear two collection data labels, First: “Guyana: Iwokrama Forest, GPS N 04,40.486’, W 58.41.028’, 4–9 March 2007, Cognato, Hulcr, Smith, Dole, McCall Colls”; Second: “Collected with ethanol trap”. The holotype is deposited in the Biodiversity Center at the University of Guyana and 4 paratypes are deposited in the A. J. Cook Arthropod Research Collection, Michigan State University, East Lansing; 2 paratypes are in the U.S. National Museum of Natural History, Washington D.C.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                    <p>In Guyana, we collected all specimens from 20 plastic cups filled with 100 ml of 90% ethanol and nailed to trees 1.5 meters above ground.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> oeno (G) = wine, philis (G) = lover. The name “wine-lover” signifies the collection of all specimens from ethanol traps.<!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Dryotomicus</tp:taxon-name-part>
+                    	<tp:taxon-name-part taxon-name-part-type="species">woodrex</tp:taxon-name-part>
+                    	<object-id xlink:type="simple">urn:lsid:zoobank.org:act:C0901E0A-AC6D-4501-B4F4-1E5E975DC0B6</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status>sp. n.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F6">Figs 6–</xref><xref ref-type="fig" rid="F8">8</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p><tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> is distinguished from the other <tp:taxon-name>Dryotomicus</tp:taxon-name> species by three medial tubercles arranged transversely on a tumescence on the male frons; the interstriae flush with striae on the elytral declivity.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p> Holotype, male, total length 4.6 mm, 2× longer than wide, antennae reddish-black, head, legs, thorax, and elytra tannish (perhaps teneral). Pronotum tannish with dark diamond pattern (<xref ref-type="fig" rid="F6">Fig. 6</xref>).</p>
+
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figure 6.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n. male. Habitus, A Dorsal B Lateral.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g006.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                    <p>Head. Frons shagreen with setae approximately as long as or longer than funicle; three medial tubercles arranged transversely on a tumescence between antennal insertion and dorsal margin of eye; lateral carinae from epistoma to dorsal end of eye thicker at antennal insertions (<xref ref-type="fig" rid="F7">Fig. 7A</xref>). Vertex shagreen with setae approximately as long or longer than funicle; slightly concave. Antennae, scape expanded distally and curved proximally beyond the anterior edge of pronotum, funicle 5-segmented, segments 1 and 2 about equal length and each as long as segments 3–5 combined, club pseudo-lamellate, asymmetric, segment 1 expanded at base (j- shaped). Eyes oval, ventrally acute (<xref ref-type="fig" rid="F3">Fig. 3A</xref>).</p>
+                    <!--PageBreak-->
+
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figure 7.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n. male, A Frons B Elytral declivity.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g007.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+
+                    <p>Pronotal width 2.3 mm, 0.65× longer than wide; quadrate disk, summit not distinct, surface densely punctured with appressed pubescence and scattered longer setae approximately as long as funicle concentrated anteriorly and laterally.<!--PageBreak--></p>
+                    <p>Elytra 1.2× longer than wide, 2× longer than pronotum, striae on disk not impressed, punctures distinct; interstriae 3–4× width of striae, long uniserial setae approximately as long as funicle arising from granules (<xref ref-type="fig" rid="F6">Fig. 6</xref>). Elytral declivity densely scaled with scattered long setae concentrated along the lateral margin (<xref ref-type="fig" rid="F7">Fig. 7B</xref>).</p>
+                    <p>Male genitalia. Aedeagal body (median lobe) conical, apex acute, lateral margins heavily sclerotized medially on apical half, apophyses (struts), as long as body, attached ventrally; internal sac central area lightly sclerotized, lateral margins heavily sclerotized appearing as ventral struts directed apically, seminal trough proximal end comprised of two parallel lobes (<xref ref-type="fig" rid="F8">Fig. 8</xref>). Tegmen circular, weakly sclerotised on dorsal side. Spiculum gastrale destroyed by dissection.</p>
+                    <p>Female is unknown.</p>
+									
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figure 8.</label>
+                        <caption><p><tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n. male genitalia, A Dorsal B Lateral.</p></caption>
+                        <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g008.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+                    </fig>
+                    
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type material"><title>Type material.</title>
+                    <p>Holotype bears the collection data label: “PERU: Dept. Loreto, 1.5km N Teniente Lopez, 4°35.66’S; 76°06.92’W, 22 July 1993, 210–240 m, Richard Leschen #164, ex: flight interception trap”. The holotype is deposited in the Snow Museum, University of Kansas [SMEC].</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p> The name “woodrex” honors Dr. Stephen L. Wood’s kingly contribution to the knowledge of scolytine and platypodine taxonomy. It is used as a noun in apposition.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Dryotomicus</tp:taxon-name-part>
+                    	<tp:taxon-name-part taxon-name-part-type="species">puberulus</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>(Chapuis)</tp:taxon-authority>
+                    <tp:taxon-status>comb. n.</tp:taxon-status>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Dryotomicus puberulus</tp:taxon-name><comment> (Chapuis) 1869: 46 (<tp:taxon-name>Dryotomus</tp:taxon-name>). Holotype: female, Cayenne; IRSNB, Brussels. (References in <xref ref-type="bibr" rid="B12">Wood and Bright 1992</xref>: 227)</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> This species differs from other <tp:taxon-name>Dryotomicus</tp:taxon-name> spp. by the absence of tubercules from the third, fifth and seventh interstriae and the raised first and second interstriae of elytral declivity.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Redescription"><title>Redescription.</title>
+                    <p> See <xref ref-type="bibr" rid="B11">Wood (2007)</xref>: 125.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                    	<tp:taxon-name-part taxon-name-part-type="genus">Dryotomicus</tp:taxon-name-part>
+                    	<tp:taxon-name-part taxon-name-part-type="species">tuberculatus</tp:taxon-name-part>
+                    </tp:taxon-name> 
+                      <tp:taxon-authority>(Eggers)</tp:taxon-authority>
+                      <tp:taxon-status>comb. n.</tp:taxon-status>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Dryotomicus tuberculatus</tp:taxon-name><comment> (Eggers) 1943: 348 (<tp:taxon-name>Dryotomus</tp:taxon-name>). Holotype: male ?, Bolivia (Cochabamba); USNM, Washington. (References in <xref ref-type="bibr" rid="B12">Wood and Bright 1992: 235</xref>)</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis"><title>Diagnosis.</title>
+                    <p> This species differs from other <tp:taxon-name>Dryotomicus</tp:taxon-name> spp. by the presence of tubercules on the third, fifth and seventh interstriae of the elytral declivity and rugose interstriae of elytral disk and with more than 3 tubercles (<xref ref-type="fig" rid="F10">Fig. 10</xref>)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Redescription"><title>Redescription.</title>
+                    <p> See <xref ref-type="bibr" rid="B11">Wood (2007)</xref>: 125–126</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Key to Phloeotribini genera"><title>Key to <tp:taxon-name>Phloeotribini</tp:taxon-name> genera</title>
+				
+            <table-wrap content-type="key" position="float" orientation="portrait">
+					
+                <table>
+				    
+                    <tbody>
+							
+                        <tr>
+                            <td rowspan="1" colspan="1">1.</td>
+                            <td rowspan="1" colspan="1">First segment of antennal club symmetrical chevron-shaped (<xref ref-type="fig" rid="F9">Fig. 9</xref>); protibia without socketed teeth; lateral margin of pronotum marked by asperites; Australia to New Guinea</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Aricerus</tp:taxon-name></td>
+                        </tr>
+							
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">First segment of antennal club asymmetrical; protiba with socketed teeth; lateral margin of pronotum rounded, without asperites</td>
+                            <td rowspan="1" colspan="1">2<!--PageBreak--></td>
+                        </tr>
+							
+                        <tr>
+                            <td rowspan="1" colspan="1">2.</td>
+                            <td rowspan="1" colspan="1">Second antennal funicular segment longer than total length of funicular segments  3–5; anterior edge of the pronotum declivitous; elytral declivity with scales and long setae</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus</tp:taxon-name></td>
+                        </tr>
+							
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Second antennal funicular shorter than total length of funicular segments 3–5; anterior edge of the pronotum flat; elytral declivity with long setae only</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Phloeotribus</tp:taxon-name></td>
+                        </tr>
+                    </tbody>
+       		 
+                </table>
+    		
+            </table-wrap>
+
+        </sec>
+        <sec sec-type="Key to Dryotomicus species"><title>Key to <tp:taxon-name>Dryotomicus</tp:taxon-name> species</title>
+						
+            <table-wrap content-type="key" position="float" orientation="portrait">
+						  
+                <table>
+						      
+                    <tbody>
+						            
+									
+                        <tr>
+                            <td rowspan="1" colspan="1">1.</td>
+                            <td rowspan="1" colspan="1">Elytral declivity with tubercules on the third, fifth and seventh interstriae</td>
+                            <td rowspan="1" colspan="1">2</td>
+                        </tr>
+									
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Elytral declivity without tubercules on the third, fifth and seventh interstriae</td>
+                            <td rowspan="1" colspan="1">3</td>
+                        </tr>
+									
+                        <tr>
+                            <td rowspan="1" colspan="1">2.</td>
+                            <td rowspan="1" colspan="1">Interstriae of elytral disk smooth and with 3 or fewer tubercles</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus oenophilis</tp:taxon-name> sp.n.</td>
+                        </tr>
+									
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">Interstriae of elytral disk rugose and with more than 3 tubercles (<xref ref-type="fig" rid="F10">Fig. 10</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus tuberculatus</tp:taxon-name> (Eggers)</td>
+                        </tr>
+									
+                        <tr>
+                            <td rowspan="1" colspan="1">3.</td>
+                            <td rowspan="1" colspan="1">First and second interstriae on elytral declivity flush with striae</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus woodrex</tp:taxon-name> sp. n.</td>
+                        </tr>
+									
+                        <tr>
+                            <td rowspan="1" colspan="1">–</td>
+                            <td rowspan="1" colspan="1">First and second interstriae on elytral declivity raised above striae (<xref ref-type="fig" rid="F11">Fig. 11</xref>)</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dryotomicus puberulus</tp:taxon-name> (Chapuis)</td>
+                        </tr>
+						
+						      
+                    </tbody>
+						   
+                </table>
+						
+            </table-wrap>
+
+						
+            <fig id="F9" position="float" orientation="portrait">
+                <label>Figure 9.</label>
+                <caption><p><tp:taxon-name>Aricerus</tp:taxon-name> sp. antenna.</p></caption>
+                <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g009.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+						
+						
+            <fig id="F10" position="float" orientation="portrait">
+                <label>Figure 10.</label>
+                <caption><p><tp:taxon-name>Dryotomicus tuberculatus</tp:taxon-name> elytra.</p></caption>
+                <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g010.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+						    
+						
+            <fig id="F11" position="float" orientation="portrait">
+                <label>Figure 11.</label>
+                <caption><p><tp:taxon-name>Dryotomicus puberulus</tp:taxon-name> elytral declivity.</p></caption>
+                <graphic xlink:href="http://pensoftonline.net/zookeys-files/journals/1/articles/518/supp/ZooKeys-056-049-g010.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+            </fig>
+            
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <label>Aknowledgements</label>
+            <p>We thank Robin McCall and the faculty of University of Guyana who helped with the acquisition of collecting and export permits for Guyanese specimens. We also thank Max Barclay (BMNH), Natalia Vanderburg (USNM), Zack Falin (SEMC) and Peter Grootaert (IRSNB) for the loans of specimens. This research was supported by NSF-PEET grant (DEB-0328920).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blandford</surname><given-names>WFH</given-names></name></person-group> (<year>1897</year>)<article-title> Scolytidae.</article-title> <source>Biologia Centrali-Americana, Coleoptera</source> <volume>4</volume>:<fpage>145</fpage>-<lpage>184</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapius</surname><given-names>F</given-names></name></person-group> (<year>1869</year>) <source>Synopsis des Scolytides.</source> <publisher-loc>Liege</publisher-loc>, <publisher-name>J. Desoer</publisher-name>, <lpage>56</lpage>pp. [Reprinted as: Societe Royale des Sciences de Liége, Memoires 2: 213–269, 1873].</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dole</surname><given-names>SA</given-names></name><name name-style="western"><surname>Cognato</surname><given-names>AI</given-names></name></person-group> (<year>2007</year>)<article-title> A New Genus and Species of Bothrosternina (Coleoptera: Curculionidae: Scolytinae) from Ecuador.</article-title> <source>Coleopterists Bulletin</source> <volume>61</volume>:<fpage>318</fpage>-<lpage>325</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Eggers</surname><given-names>H</given-names></name></person-group> (<year>1943</year>)<article-title> Borkenkafer (Col, Ipidae) aus Sudamerika, X Bolivia.</article-title> <source>Mitteilung der Munchener Entomologische Gesellschaft</source> <volume>33</volume>:<fpage>344</fpage>-<lpage>389</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schedl</surname><given-names>KE</given-names></name></person-group> (<year>1962</year>)<article-title> Zur synonymie der Borkenkafer, VIII (Coleoptera). 205. Beitrag.</article-title> <source>Beiträge zur Entomologie</source> <volume>12</volume>:<fpage>485</fpage>-<lpage>494</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Sorenson</surname><given-names>MD</given-names></name></person-group> (<year>1999</year>) <source>TreeRot</source>, version <volume>2</volume>. <publisher-name>Boston University</publisher-name>, <publisher-loc>Boston, MA.</publisher-loc></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname><given-names>DL</given-names></name></person-group> (<year>2002</year>) <source>PAUP*: Phylogenetic Analysis Using Parsimony (*and Other Methods), 4.0b10.</source> <publisher-name>Sinauer Associates</publisher-name>, <publisher-loc>Sunderland, Massachusetts</publisher-loc>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname><given-names>SL</given-names></name></person-group> (<year>1962</year>)<article-title> Miscellaneous taxonomic notes on Scolytidae (Coleoptera).</article-title> <source>Great Basin Naturalist</source> <volume>22</volume>:<fpage>76</fpage>-<lpage>82</lpage>.</mixed-citation></ref>
+          	<ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname><given-names>SL</given-names></name></person-group> (<year>1982</year>) <source>The Bark and Ambrosia Beetles of North America (Coleoptera: Scolytidae), A Taxonomic Monograph.</source> <publisher-name>Great Basin Naturalist Memoirs</publisher-name> <volume>6</volume>.</mixed-citation></ref>
+          	<ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname><given-names>SL</given-names></name></person-group> (<year>1986</year>) <article-title>A reclassification of the genera of Scolytidae (Coleoptera).</article-title> <source>Great Basin Naturalist Memoirs</source> <volume>10</volume>: <fpage>1</fpage>-<lpage>126</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname><given-names>SL</given-names></name></person-group> (<year>2007</year>)<source>The Bark and Ambrosia Beetles of South America (Coleoptera: Scolytidae).</source> <publisher-name>Monte Bean Life Science Museum, Brigham Young University</publisher-name>, <publisher-loc>Provo</publisher-loc>, <lpage>900</lpage> pp. + 230 plates.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wood</surname><given-names>SL</given-names></name><name name-style="western"><surname>Bright</surname><given-names>DE</given-names></name></person-group> (<year>1992</year>) <article-title>A catalog of Scolytidae and Platypodidae (Coleoptera), Part 2: Taxonomic Index, Volumes A and B.</article-title> <source>Great Basin Naturalist Memoirs</source> <volume>13</volume>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

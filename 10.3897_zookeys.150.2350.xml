@@ -1,0 +1,200 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.150.2350</article-id>
+            <title-group>
+                <article-title>The future of the past in the present: biodiversity informatics and geological time</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Baker</surname>
+                        <given-names>Edward</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Johnson</surname>
+                        <given-names>Kenneth G.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Young</surname>
+                        <given-names>Jeremy R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Entomology, Natural History Museum, London, United Kingdom
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Palaeontology, Natural History Museum, London, United Kingdom
+            </aff>
+            <aff id="A3">
+                <label>3</label>Department of Earth Sciences, University College London, London, United Kingdom
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Edward Baker (<email xlink:type="simple">edwbaker@gmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: V. Smith</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>150</issue>
+            <fpage>397</fpage>
+            <lpage>405</lpage>
+            <history>
+                <date date-type="received">
+                    <day>11</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>23</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Edward Baker, Kenneth G. Johnson, Jeremy R. Young</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The biological and palaeontological communities have approached the problem of informatics separately, creating a divide between communities that is both technological and sociological in nature. In this paper we describe one new advance towards solving this problem - expanding the Scratchpads platform to deal with geological time. In creating this system we have attempted to make our work open to existing communities by providing a webservice of geological time data via the GBIF Vocabularies site. We have also ensured that our system can adapt to changes in the definition of geological time intervals and is capable of querying datasets independently of the format of geological age data used.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Palaeontology</kwd>
+                <kwd>Biodiversity Informatics</kwd>
+                <kwd>Scratchpads</kwd>
+                <kwd>web services</kwd>
+                <kwd>GBIF</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>Over recent years a number of projects have set out to create online communities and resources for the biological community. Similar projects have been developed by the palaeontological community to cover fossil taxa (e.g. <ext-link ext-link-type="uri" xlink:href="http://www.paleodb.org" xlink:type="simple">http://www.paleodb.org</ext-link>) and to share information associated with geological time (for example <ext-link ext-link-type="uri" xlink:href="http://www.chronos.org/" xlink:type="simple">http://www.chronos.org/</ext-link>).</p>
+            <p>Since the overwhelming majority of these resources are focused at workers in either the palaeontological or the neontological communities, a virtual divide is created between communities who work on the same branch of the tree of life. Especially when working with extant taxa that occur in the fossil record or when attempting to compile taxonomic information for both extinct and extant taxa within a particular group (<ext-link ext-link-type="uri" xlink:href="http://corallosphere.org" xlink:type="simple">http://corallosphere.org</ext-link>).</p>
+            <p>In order to address this problem we have taken the Scratchpads platform (<ext-link ext-link-type="uri" xlink:href="http://scratchpads.eu" xlink:type="simple">http://scratchpads.eu</ext-link>; <xref ref-type="bibr" rid="B7">Smith et al. 2011</xref>) and developed additional functionality to allow for the recording of geological age data - a prerequisite for large-scale uptake of the Scratchpads platform by the palaeontological community. It should be noted that our solution deals only with age data and does not attempt to handle stratigraphy, although in well-studied local areas where stratigraphic terms have well-established geochronological meaning (e.g. Blue Lias around Lyme Regis) it is possible to model these names using the system we have developed.</p>
+            <sec sec-type="Handling geological time – the nature of the problem"><title>Handling geological time – the nature of the problem</title>
+                <p>For a palaeontological database, and indeed most other types of geological data, geological age is an essential data type. For example, one might wish to record the likely age of a specimen or the age range through which a particular species is known to have lived. This sounds like a straightforward databasing problem analogous to recording the age of an historical object or geographical location data; age data or geographical location data can be converted into numerical age or geospatial coordinates on a one-off basis only needing to be revised if the original data is revised.</p>
+                <p>However, the geological timescale is not a simple known system but a constantly evolving body of knowledge. This can be illustrated by an example – consider the following statement: “The Ichthyosaur was collected from the <italic>Arietites bucklandi</italic> ammonite zone of the Blue Lias, at Lyme Regis (195-196Ma).” The hard data here is that the fossil was collected from the <italic>bucklandi</italic> zone, whilst the geological age given, 195-196Ma, is a modern estimate of the age of that zone. This interpretation has changed in the past and will change in the future as the geological timescale is refined. Changes may occur in this case either because the age of the Lower Jurassic is refined as the whole timescale is re-calibrated in the light of better radiometric data, or because the relative duration of the ammonite zones within it are refined. Indeed, whilst a modern (<xref ref-type="bibr" rid="B3">Gradstein et al. 2004</xref>) age estimate for the <italic>bucklandi</italic> zone is 195-196Ma an earlier estimate (Harland et al. 1982) was 205 to 206Ma. So even though the numerical age is needed for communication to non-expert audiences and for database queries, it is essential that only the primary data is recorded in the database and this is then dynamically used to derive the numerical age interpretations as needed, going via a separately maintained look-up table or dictionary of age definitions.</p>
+                <!--PageBreak-->
+            </sec>
+        </sec>
+        <sec sec-type="Community resources"><title>Community resources</title>
+            <p><xref ref-type="bibr" rid="B8">Van Couvering and Ogg (2007)</xref> lamented the lack of an online service for geological timescale data. So, as part of the project we have added several sets of geological timescale data to the GBIF Vocabularies site (e.g. <ext-link ext-link-type="uri" xlink:href="http://vocabularies.gbif.org/vocabularies/geo_chronostrat" xlink:type="simple">http://vocabularies.gbif.org/vocabularies/geo_chronostrat</ext-link>) based on the GTS 2004 (<xref ref-type="bibr" rid="B3">Gradstein et al. 2004</xref>).</p>
+            <p>Each entry in these vocabularies has a name and either a date or date range (defined by a base and top age) as well as additional metadata where appropriate, e.g. FAD/LAD (first/last appearance datums) for nannofossil events. By providing open access to the information, we have provided a platform from which both we and others can start to build web-based timescale tools. Equally importantly since the vocabularies are stored separately from the specimen records they can readily be updated as revised timescales are developed and these revisions will then cascade to all specimen records.</p>
+            <p>The present implementation of the GBIF Vocabularies site has several issues. The first of these being a requirement for only alphanumeric characters in the name of a term (e.g. a requirement to use LowerJurassic rather Lower Jurassic). Secondly the age metadata can only be exported via the CSV export, and not the XML webservice. GBIF are currently working on improving the Vocabularies site, and we are working closely with them to ensure that the site will be capable of fulfilling our requirements.</p>
+        </sec>
+        <sec sec-type="Current scratchpad implementation"><title>Current scratchpad implementation</title>
+            <p>Experimental setups were created on two Scratchpads: Nannotax (<ext-link ext-link-type="uri" xlink:href="http://nannotax.org" xlink:type="simple">http://nannotax.org</ext-link>) and the Indo-Pacific Ancient Ecosystems Group (IPAEG: <ext-link ext-link-type="uri" xlink:href="http://ipaeg.org" xlink:type="simple">http://ipaeg.org</ext-link>). Both of these examples use a predefined custom content type (GeoTime) to store information about the geological ages that can be referenced by other content types using a nodereference field. The GeoTime content type stores the name of a geological age range or date along with other essential information, including age data and event type (e.g. FAD/LAD), where applicable.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Data model for Nannotax</p></caption>
+                <graphic xlink:href="ZooKeys-150-397-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Nannotax Screenshot</p></caption>
+                <graphic xlink:href="ZooKeys-150-397-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p>Data model for IPAEG</p></caption>
+                <graphic xlink:href="ZooKeys-150-397-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F4" position="float" orientation="portrait">
+                <label>Figure 4.</label>
+                <caption><p>An example Sample record from IPAEG showing user-linked/edited age ranges (above) and calculated union and intersection dates (below).</p></caption>
+                <graphic xlink:href="ZooKeys-150-397-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>The Nannotax implementation allows for the first occurrence and last occurrence to be recorded using the data in the form it is available in (e.g. geological stage or magnetochron data). The pair of ages thus defines the total age range of the species and will allow both the age range of the species to be restated and queried in uniform formats (e.g.“which species of taxa X, Y, Z occurred at time n”).</p>
+            <p>The IPAEG site uses a more complex data model that acts as the foundation point for the Scratchpads 2.0 implementation in development. Like the Nannotax site it is possible to enter any number of predetermined geological ages but, in addition, it is possible to enter a custom age range or custom spot date.</p>
+            <p>In order to perform calculations with age data it is essential to access the combined range of the data entered by the user. Two useful combinations have been incorporated into the system so far: the union and intersect of the complete data set. Future work <!--PageBreak--><!--PageBreak--><!--PageBreak-->may allow specified data to be acknowledged and referenced but excluded from the calculations.</p>
+            <p>The union gives the maximum possible time range for the species and be calculated for all GeoTime data sets. The intersect gives the overlapping range of the data sets and can only be calculated when there is a time period that is present across the data sets (<xref ref-type="fig" rid="F5">Figures 5</xref> and <xref ref-type="fig" rid="F6">6</xref>).</p>
+            <!--PageBreak-->
+            <fig id="F5" position="float" orientation="portrait">
+                <label>Figure 5.</label>
+                <caption><p>Calculation of the union and intersect.</p></caption>
+                <graphic xlink:href="ZooKeys-150-397-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F6" position="float" orientation="portrait">
+                <label>Figure 6.</label>
+                <caption><p>When there is no overlapping time periods the intersect is undefined.</p></caption>
+                <graphic xlink:href="ZooKeys-150-397-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Scratchpads 2.0 Implementation"><title>Scratchpads 2.0 Implementation</title>
+            <p>The Scratchpads 2.0 implementation of the GeoTime module will allow for a variable number of age ranges (either predefined or custom) with individual references to be recorded. This is an improvement over the Scratchpads 1.0 implementation, which only allowed for one custom age range and a single reference to be given to the geological age datasets as a whole.</p>
+        </sec>
+        <sec sec-type="Issues"><title>Issues</title>
+            <p>Given the nature of some geological age data (e.g. chronostratigraphy), it makes sense to associate these nodes with a Drupal taxonomy. In this model the Jurassic period has only one parent, the Mesozoic era, and several children, the Upper, Middle and Lower Jurassic. Attaching age metadata (e.g. top and base ages) to the taxonomy terms allows all records of a given term to be updated with a single change. The current Scratchpads implementation has a mechanism for achieving this but requires a separate content type for extending each taxonomy, plus a separate content type for ages not associated with a taxonomy. It was decided not to use this option due to the proliferation of content types required for sites dealing with multiple types of age data.</p>
+        </sec>
+        <sec sec-type="Future plans"><title>Future plans</title>
+            <p>We will create functionality to allow content to be searched using geological age data, either by union or intersect. Some example questions that could potentially be answered by this functionality are:</p>
+            <p>1.	Which taxa were alive in age X?</p>
+            <p>2.	Are there specimens of taxon X in age range Y?</p>
+            <p>3.	Which taxa co-existed in time with taxon X?</p>
+            <p>For both questions 1 and 2 an important part of the functionality is that the age can be expressed in terms of multiple different systems - absolute age in Ma, chronostratigraphic stage or fossil zone. The query function will perform its search by converting both the recorded data, and the query parameters into absolute ages, and then converting again if necessary to display the required results. This allows any kind of primary data to be queried using the same interface and the results to be displayed in any appropriate format.</p>
+            <p>Scratchpads 2.0 will allow for data to be imported from the GBIF Vocabularies site dynamically, allowing for changes made to the metadata (e.g. base age, top age) of a geological age to be automatically propagated across the Scratchpads, making use of the GeoTime functionality.</p>
+            <p>Once a system has been created for recording geological age data the next obvious step is to create a way for these data to be displayed visually. One project that has been used to develop a relevant working example of age data is the SIMILE Timeline project (<ext-link ext-link-type="uri" xlink:href="http://www.simile-widgets.org/timeline/" xlink:type="simple">http://www.simile-widgets.org/timeline/</ext-link>); see <ext-link ext-link-type="uri" xlink:href="http://simile.mit.edu/timeline/examples/dinosaurs/dinosaurs2.html" xlink:type="simple">http://simile.mit.edu/timeline/examples/dinosaurs/dinosaurs2.html</ext-link> for a geological example.</p>
+            <p>The Timeline widget has already been integrated with the Drupal views module (<ext-link ext-link-type="uri" xlink:href="http://drupal.org/project/timeline" xlink:type="simple">http://drupal.org/project/timeline</ext-link>) but, as yet, there is no Drupal 7 version. Migrating this code to Drupal 7 and adding support for geological age ranges (as in the above example) would allow for an aesthetically pleasing and easy-to-use visual layer to be applied to the data.</p>
+        </sec>
+        <sec sec-type="Going further"><title>Going further</title>
+            <p>One possible use for the functionality developed here is to create a first and last occurrence database for a large number of taxa. This would become a useful resource for calibrating phylogenies (<xref ref-type="bibr" rid="B6">Marshall 2008</xref>) and studying changes in biotas through time (for example, <xref ref-type="bibr" rid="B5">Johnson et al. 2008</xref>). Additionally, range data can be used in conjunction with phylogenetic studies to help correct for incomplete sampling of the fossil record. This has been shown to alter the apparent nature of diversification in odonates (dragonflies, damselflies and extinct relatives) from an expansionist to a logistic model, with wider implications for palaeodiversity studies (<xref ref-type="bibr" rid="B2">Davis et al. 2011</xref>). An online repository of up-to-date range data would facilitate this type of work in future.</p>
+            <p>Although the functionality described is currently used for recording geological age data, the same functionality could be used to record and display data about other properties that can be measured in ranges, e.g. depth in sediment cores from lakes (e.g. <xref ref-type="bibr" rid="B1">Dalton et al. 2005</xref>).</p>
+            <p>The developed functionality could also be used in archaeological contexts by using new or modified vocabularies.</p>
+            <p>Moving beyond chronostratigraphy, it would be useful to develop processes to connect lithostratigraphic information into the scratchpad environment taking advantage of the stratigraphic lexicons published by national geological surveys (<ext-link ext-link-type="uri" xlink:href="http://ngmdb.usgs.gov/Geolex" xlink:type="simple">http://ngmdb.usgs.gov/Geolex</ext-link>) For example the formations found around Lyme Regis (e.g. Black Ven Marl, Belemnite Shales etc.). These could potentially be entered as synonyms of existing named time intervals, or added as a separate vocabulary. This method would allow for local stratigraphic data to be recorded in the Scratchpad system. An extended dataset of this nature would make it easier to integrate the Scratchpads with existing local, regional and global databases.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>The authors would like to thank David Nicholson, Vladimir Blagoderov and Theresa Brown (all Natural History Museum, London) for commenting on drafts of this paper. Thanks also to David Remsen and Dag Endresen of GBIF for considering our requirements in the ongoing improvements to the GBIF Vocabularies site.</p>
+            <p>We are grateful for financial support for this project from the Gulf Coast Section of the Society of Economic Paleontologists &amp; Mineralogists and NCB Naturalis (organised by Willem Renema) for providing financial support for software development.</p>
+            <p>This work uses infrastructure that has been developed by the EU funded ViBRANT project (Contract no. RI-261532).</p>
+            <!--PageBreak-->
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dalton</surname><given-names>C</given-names></name><name name-style="western"><surname>Birks</surname><given-names>HJB</given-names></name><name name-style="western"><surname>Brooks</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Cameron</surname><given-names>NG</given-names></name><name name-style="western"><surname>Evershed</surname><given-names>RP</given-names></name><name name-style="western"><surname>Peglar</surname><given-names>SM</given-names></name><name name-style="western"><surname>Scott</surname><given-names>JA</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>R</given-names></name></person-group> (<year>2005</year>)<source> A multi-proxy study of lake-development in response to catchment changes during the Holocene at Lochnagar, north-east Scotland. Palaeogeography, Palaeoclimatology, Palaeoecology 221: 3–5 175–201. </source>doi:10.1016/j.palaeo.2005.02.007</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Davis</surname><given-names>RB</given-names></name><name name-style="western"><surname>Nicholson</surname><given-names>DB</given-names></name><name name-style="western"><surname>Saunders</surname><given-names>ELR</given-names></name><name name-style="western"><surname>Mayhew</surname><given-names>PJ</given-names></name></person-group> (<year>2011</year>)<source> Fossil gaps inferred from phylogenies alter the apparent nature of diversification in dragonflies and their relatives. BMC Evolutionary Biology 11: 252. </source>doi:10.1186/1471-2148-11-252</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gradstein</surname><given-names>FM</given-names></name><name name-style="western"><surname>Ogg</surname><given-names>JG</given-names></name><name name-style="western"><surname>Smith</surname><given-names>AG</given-names></name></person-group> (<year>2004</year>)<source> A Geologic Time Scale 2004. Cambridge University Press. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4095/215638" xlink:type="simple">doi: 10.4095/215638</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Harman</surname><given-names>KT</given-names></name><name name-style="western"><surname>Hyam</surname><given-names>R</given-names></name><name name-style="western"><surname>Remsen</surname><given-names>DP</given-names></name></person-group> (<year>2009</year>)<source> Vocabularies - Managing Them. Proceedings of TDWG 2009. <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/proceedings/article/view/605" xlink:type="simple">http://www.tdwg.org/proceedings/article/view/605</ext-link></source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnson</surname><given-names>KG</given-names></name><name name-style="western"><surname>Jackson</surname><given-names>JBC</given-names></name><name name-style="western"><surname>Budd</surname><given-names>AF</given-names></name></person-group> (<year>2008</year>)<article-title> Caribbean reef development was independent of coral diversity over 28 million years.</article-title> <source>Science </source> <volume>319</volume> (<issue>5869</issue>): <fpage>1521</fpage>-<lpage>1523</lpage>. doi:10.1126/science.1152197</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Marshall</surname><given-names>CR</given-names></name></person-group> (<year>2008</year>)<article-title> A simple method for bracketing absolute divergence times on molecular phylogenies using multiple fossil calibration points.</article-title> <source>American Naturalist </source> <volume>171</volume> (<issue>6</issue>): <fpage>726</fpage>-<lpage>742</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1086/587523" xlink:type="simple">doi: 10.1086/587523</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Smith</surname><given-names>VS</given-names></name><name name-style="western"><surname>Rycroft</surname><given-names>SD</given-names></name><name name-style="western"><surname>Brake</surname><given-names>I</given-names></name><name name-style="western"><surname>Scott</surname><given-names>B</given-names></name><name name-style="western"><surname>Baker</surname><given-names>E</given-names></name><name name-style="western"><surname>Livermore</surname><given-names>L</given-names></name><name name-style="western"><surname>Blagoderov</surname><given-names>V</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>D</given-names></name></person-group> (<year>2011</year>)<article-title> Scratchpads 2.0: a Virtual Research Environment supporting scholarly collaboration, communication and data publication in biodiversity science.</article-title> In: <person-group><name name-style="western"><surname>Smith</surname><given-names>V</given-names></name><name name-style="western"><surname>Penev</surname><given-names>L</given-names></name></person-group> (<role>Eds</role>). <issue-title> e-Infrastructures for data publishing in biodiversity science.</issue-title> <source>ZooKeys </source> <volume>150</volume>: <fpage>53</fpage>–<lpage>70</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.150.2193" xlink:type="simple">doi: 10.3897/zookeys.150.2193</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Van Couvering</surname><given-names>JA</given-names></name><name name-style="western"><surname>Ogg</surname><given-names>JG</given-names></name></person-group> (<year>2007</year>)<source> The future of the past: Geological time in the digital age. Stratigraphy. 4(2/3): 253–257.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

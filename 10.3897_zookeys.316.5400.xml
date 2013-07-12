@@ -1,0 +1,971 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.316.5400</article-id>
+            <title-group>
+                <article-title>Description of 
+                    <italic>Caurinus tlagu</italic>, new species, from Prince of Wales Island, Alaska  (Mecoptera, Boreidae, Caurininae)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Sikes</surname>
+                        <given-names>Derek S.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:1448D556-54AB-4517-85C0-D76B7070027E</uri>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Stockbridge</surname>
+                        <given-names>Jill</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:author:C9282706-20AF-4B9F-A545-36AA3D28204F</uri>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>University of Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775-6960, USA. 
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Derek S. Sikes (<email xlink:type="simple">dssikes@alaska.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Ralph Holzenthal</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>11</day>
+                <month>7</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>316</issue>
+            <fpage>35</fpage>
+            <lpage>53</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>4</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>2</day>
+                    <month>7</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Derek S. Sikes, Jill Stockbridge</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="lsid" xlink:type="simple">urn:lsid:zoobank.org:pub:42CA88FF-E83B-4B33-9B37-145E043B273F</self-uri>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new species of the cryptic, minute, wingless, and enigmatic taxon <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic>, and the second for the subfamily <tp:taxon-name>Caurininae</tp:taxon-name>,is described from Prince of Wales Island in the Alexander Archipelago, Alaska. It is distinguished from its only congener, <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> Russell, 1979b, which occurs 1,059 km southeast in Oregon and Washington, based on external morphology and sequences of the mitochondrial gene cytochrome oxidase II. These two species are probably evolutionary relicts – the only known members of a clade dating to the Late Jurassic or older.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Caurinus</italic></kwd>
+                <kwd>Boreidae</kwd>
+                <kwd>Mecoptera</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>Prince of Wales Island</kwd>
+                <kwd>refugium</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><xref ref-type="bibr" rid="B21">Russell (1979a</xref>, <xref ref-type="bibr" rid="B22">b</xref>, <xref ref-type="bibr" rid="B23">1982</xref>) described the monotypic subfamily <tp:taxon-name>Caurininae</tp:taxon-name>, genus and species <!--PageBreak--><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic>, known only from Oregon and Washington, and later described by <xref ref-type="bibr" rid="B1">Beutel et al. (2008)</xref> as “arguably one of the most bizarre and cryptic species of <tp:taxon-name>Mecoptera</tp:taxon-name> and endopterygote insects.” Indeed, members of the genus do not key to any order in most keys to insect orders because they lack a produced rostrum, typical of the order <tp:taxon-name>Mecoptera</tp:taxon-name>, and lack the diagnostic traits that would place them within <italic>any</italic> insect order containing flightless adults with rudimentary or vestigial wings. However, they do share with members of the family <tp:taxon-name>Boreidae</tp:taxon-name> a very distinctive wing morphology and sexual dimorphism in which the adult females are nearly wingless while the males bear shortened scissor-like wings, useless for flight, that bear spines for grasping females during mating. The placement of <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> within the Mecopteran family <tp:taxon-name>Boreidae</tp:taxon-name> as the sister taxon to the <tp:taxon-name>Boreinae</tp:taxon-name> (<italic><tp:taxon-name>Boreus</tp:taxon-name></italic> 26 spp., <italic><tp:taxon-name>Hesperoboreus</tp:taxon-name></italic> 2 spp. [<xref ref-type="bibr" rid="B18">Penny 2013</xref>]), is apparently well established based on morphological study (<xref ref-type="bibr" rid="B21">Russell 1979a</xref>, <xref ref-type="bibr" rid="B22">b</xref>, <xref ref-type="bibr" rid="B1">Beutel et al. 2008</xref>, <xref ref-type="bibr" rid="B8">Friedrich et al. 2013</xref>) and molecular phylogenetics (<xref ref-type="bibr" rid="B26">Whiting 2002</xref>). However, despite recent efforts, the genus remains enigmatic due to its preponderance of plesiomorphic and autapomorphic traits (<xref ref-type="bibr" rid="B1">Beutel et al. 2008</xref>). The close relationship of the <tp:taxon-name>Mecoptera</tp:taxon-name> with the fleas, order <tp:taxon-name>Siphonaptera</tp:taxon-name>, is of particular evolutionary interest (<xref ref-type="bibr" rid="B9">Grimaldi and Engel 2005</xref>, <xref ref-type="bibr" rid="B26">Whiting 2002</xref>, <xref ref-type="bibr" rid="B25">Trautwein et al. 2012</xref>).</p>
+            <p>It was therefore with some excitement that we began accumulating <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> specimens from a large sampling project on the northern end of Prince of Wales Island, Alaska, some 1,059 km from the known range of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> Russell. Herein we describe this new species.</p>
+        </sec>
+        <sec sec-type="Materials and methods">
+            <title>Materials and methods</title>
+            <p><abbrev>Collections<def><p>. Specimens will be deposited in the following collections:</p></def></abbrev></p>
+            <p><abbrev>CAS<def><p> California Academy of Sciences, San Francisco, California, USA. (Norm Penny)</p></def></abbrev></p>
+            <p><abbrev>MTEC<def><p> Montana Entomology Collection, Bozeman, Montana, USA. (Michael Ivie)</p></def></abbrev></p>
+            <p><abbrev>OSAC<def><p> Oregon State Arthropod Collection, Oregon State University, Corvallis, Oregon, USA. (David R. Maddison)</p></def></abbrev></p>
+            <p><abbrev>PMJ<def><p> Phyletisches Museum, Jena, Germany (Rolf G. Beutel)</p></def></abbrev></p>
+            <p><abbrev>SEMC<def><p> Snow Entomological Museum, University of Kansas, Lawrence, Kansas, USA. (George Byers)</p></def></abbrev></p>
+            <p><abbrev>UAM<def><p> University of Alaska Museum Insect Collection, University of Alaska, Fairbanks, Alaska, USA. (Derek S. Sikes)</p></def></abbrev></p>
+            <p><abbrev>USNM<def><p> National Museum of Natural History, Washington D.C., USA. (Ollie Flint)</p></def></abbrev></p>
+            <p><bold>Morphological methods.</bold> Images of <!--PageBreak--><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> were captured using a Leica DFC425 camera mounted on a Leica MZ16 stereomicroscope in combination with Leica Application Suite © software v.3.8.0. Images were edited using Adobe Photoshop v.7 to remove the background and lighten the images. Observations were made with a Leica MZ16 stereomicroscope (7.1×–115× magnification, 1x planapochromatic objective/10× eyepieces, max resolution 420 Lp/mm, Leica Microsystems (Switzerland) Ltd.). Measurements were made using an ocular micrometer in the MZ16 scope at 50×. Five <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens were prepared for scanning electron microscopy (SEM) using a Tousimis Samdri-790 Critical Point Dryer and sputter (gold) coating with a Ladd coating unit. The scanning electron micrographs were taken with a ISI-SR-50 SEM and the digital imaging program Iridium Digital Imaging System. In addition to the images included herein, many more SEMs and habitat photos are associated with their specimen records via our online database Arctos (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/saved/Caurinus-spp" xlink:type="simple">http://arctos.database.museum/saved/Caurinus-spp</ext-link>).</p>
+            <p><bold>Taxon sampling.</bold> Two <tp:taxon-name>Mecoptera</tp:taxon-name> COII sequences from GenBank were used as outgroups: <italic><tp:taxon-name>Boreus westwoodi</tp:taxon-name></italic> Hagen (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EU335963.1" xlink:type="simple">EU335963.1</ext-link>) and <italic><tp:taxon-name>Boreus hyemalis</tp:taxon-name></italic> (L.) (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF423998.1" xlink:type="simple">AF423998.1</ext-link>). <italic><tp:taxon-name>Boreus</tp:taxon-name></italic> species were chosen because they share the family assignment of <tp:taxon-name>Boreidae</tp:taxon-name> with <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> and therefore should be more closely related to <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> than any other genus in GenBank. The single <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> COII sequence on GenBank (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF424001.1" xlink:type="simple">AF424001.1</ext-link>) was initially included (and its existence drove our desire to sequence COII rather than the more common gene COI), but later excluded due to it being suspected of errors (see below). One of the five Alaskan <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> specimens had ambiguous reads in both directions for its COII sequence, possibly due to co-amplification of a nuclear copy. We excluded this sequence from analysis.</p>
+            <p><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens were provided by L. Russell. Seven specimens from Lewis County, Washington, collected in 1978 were provided for morphological study and 12 larval and 11 adult specimens from 2012 collections made in Benton and Tillamook Counties, Oregon, for DNA analysis (<xref ref-type="table" rid="T1">Table 1</xref>). Our collecting efforts on Prince of Wales Island have yielded 37 specimens (18 males, 19 females) of <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (see Collecting methods below, <xref ref-type="table" rid="T1">Table 1</xref>). Additional, non-type specimens are likely to be found as sampling progresses. These specimens will be archived in UAM and recorded in our online database, Arctos.</p>
+            <p><bold>DNA sequencing</bold>. Adult specimens and larvae designated for DNA extraction were stored at -70°F in cryovials containing 100% EtOH. Specimen data are presented in <xref ref-type="table" rid="T1">Table 1</xref>. DNA was extracted from whole bodies of five adult specimens from the Alaskan population and from seven whole bodies of the Oregon larvae. During the extraction process, specimens were opened with a pin prick to allow full extraction of DNA from soft tissues. After extraction was complete, specimens were soaked overnight in 70% EtOH to stop further deterioration of specimen exoskeletons in order to preserve them for future morphological study. Extractions were performed using a Qiagen DNeasy© blood and tissue extraction kit which was used according to the spin-column protocol for animal tissues. To amplify the COII gene, the following primer pair was used: forward COII-2a (ATAGAKCWTCYCCHTTAATAGAACA) and reverse COII-9b (GTACTTGCTTTCAGTCATCTWATG) taken from <xref ref-type="bibr" rid="B26">Whiting (2002)</xref>.</p>
+            <p>Upon completion, extraction success was tested using a nano-drop spectrophotometer. DNA concentrations were (0.5–4.0 ng/µL). Primers were diluted at a relatively high concentration of 10µM in accordance with <xref ref-type="bibr" rid="B26">Whiting (2002)</xref>. PCR was performed using the following 25µl PCR-mix: 12.5µl GoTaq DNA polymerase, 1µl each of the forward and reverse primers, 1µl Mg+, 9.75µL DNA-grade distilled water and 1µL template DNA. The following cycling regime was applied: (1) 1 min at 95°C, followed by (2) 35 cycles of 1 min at 95°C, 1 min at 59°C, and 1 min at 72°C, and (3) a final extension of 7 min at 72°C. Amplification success and correct band length was <!--PageBreak--><!--PageBreak--><!--PageBreak-->confirmed visually on an agarose gel stained with ethidium bromide. Bi-directional sequencing was performed at the University of Washington’s High Throughput Genomics Unit.</p>
+            <p><bold>Alignment.</bold> Sequences were aligned using CodonCode Aligner v4.0.4 (<ext-link ext-link-type="uri" xlink:href="http://www.codoncode.com/aligner/" xlink:type="simple">http://www.codoncode.com/aligner/</ext-link>) and proofread by eye with reference to codon position and the inferred amino acid sequence based on <xref ref-type="bibr" rid="B14">Liu and Beckenbach (1992)</xref>. Alignment was without difficulty due to the absence of indels within the protein-coding sequence. MacClade was used to produce a consensus of forward and reverse reads (<xref ref-type="bibr" rid="B15">Maddison and Maddison 2005</xref>).</p>
+            <p><bold>Model Selection.</bold> JModelTest v2.1.3 (<xref ref-type="bibr" rid="B6">Darriba et al. 2012</xref>, <xref ref-type="bibr" rid="B10">Guindon and Gascuel 2003</xref>) was used to determine the best fitting model among 88 available for testing. The AIC, BIC and DT all chose the model HKY+G as the best fit for the data.</p>
+            <p><bold>Analysis.</bold> Bayesian analyses were conducted using MrBayes v3.2 (<xref ref-type="bibr" rid="B20">Ronquist and Huelsenbeck 2003</xref>) under the HKY+G model with default priors. Two simultaneous MCMC runs with four chains each (3 hot and 1 cold) were performed for 10 million generations and sampled every 1,000 steps discarding a burnin of 25%. To evaluate whether the MCMC analysis had reached stationarity, trace files were examined in Tracer v1.5 (<xref ref-type="bibr" rid="B19">Rambaut and Drummond 2003</xref>). These showed signs of good mixing and had plateaued at equal values. The average standard deviation of split frequencies between the two runs had dropped below 0.01 by 12% of the 10M step run, also indicating both runs had converged. Maximum Likelihood analyses were conducted using Garli v.2.0.1019 (<xref ref-type="bibr" rid="B27">Zwickl 2006</xref>) under the HKY+G model with 1000 non-parametric bootstrap search replicates in addition to a non-bootstrap analysis of 100 search replicates from random starting trees.</p>
+            <p><bold>Collecting methods and results.</bold> Specimens of this new species were collected primarily using pitfall traps and Berlese funnels (<xref ref-type="table" rid="T1">Table 1</xref>) as part of our four year, ongoing project investigating forestry practices in the Tongass National Forest (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Two specimens were caught in a very different habitat in pitfall traps set on a transect of 20 traps spaced 100m apart in a treeless alpine zone (917m elevation) near Black lake, Prince of Wales Isl., with tundra-alpine-heath vegetation (e.g. <!--PageBreak--><italic><tp:taxon-name>Harrimanella stelleriana</tp:taxon-name></italic>, <italic><tp:taxon-name>Luetkea pectinata</tp:taxon-name></italic>, <italic><tp:taxon-name>Rhytidiadelphus loreus</tp:taxon-name></italic>). This collection was part of a rapid biotic assessment of Southeast Alaska alpine zones (<xref ref-type="fig" rid="F1">Fig. 1A</xref>) and was located 45 km southwest of the Coffman Cove collection sites. Pitfall traps consisted of paired (Coffman Cove) or single (alpine) plastic cups 8.3 cm in diameter and 7.5 cm deep filled 1/2–2/3 with non-toxic propylene glycol based antifreeze, Sierra © brand (Coffman Cove), or soapy water (alpine) with rain-roofs ~3 cm from the ground above the traps. Traps were emptied once every two weeks (Coffman Cove) or daily (alpine zone). Paired traps were 30cm apart with a plastic ruler embedded in the ground between them to act as a barrier to divert arthropods into the traps. As part of the Tongass sampling, BioQuip © collapsible Berlese funnels were used with ~ 1m<sup>2</sup> of leaf/moss litter sifted prior to running under 40 watt bulbs for 48h. These methods resulted in 37 specimens collected. However, incredible effort was involved. A total of 1,136 pitfall trap and 284 Berlese samples were processed from 2010 and 2011 that have generated 10,218 beetle specimens to date. The alpine sampling involved 83 pitfall trap samples, which yielded two <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> specimens. Twenty-six <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> specimens were captured in pitfall traps, ten in Berlese funnels, and one, surprisingly, in a Lindgren funnel. Great care was taken to ensure pitfall trap rims were at or below the level of the ground – certainly an important factor when trapping an animal ~ 2 mm in size.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p>Specimen data (n=50 lots). Also available online at <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/saved/Caurinus-spp" xlink:type="simple">http://arctos.database.museum/saved/Caurinus-spp</ext-link> via Arctos. Geocoordinates are in WGS84 datum. PoW = Prince of Wales Island. * = holotype male <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic>, with genitalia everted and COII gene sequenced. All other <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens are paratypes. W-screen = wet screen, Hab. = habitat. Habitat type codes: T2 = thinned secondary growth, 2= young secondary growth (unthinned), 2o = old (80yr) secondary growth, CC = clearcut, CCe = clearcut / forest ecotone, OG = old growth, AH = alpine heath. Date1 and Date2 = start and stop dates for trap samples.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Catalog Number</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Species</bold></th>
+                            <th rowspan="1" colspan="1"><bold>State</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Locality</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Hab.</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Method</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Date1</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Date2</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Latitude</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Longitude</bold></th>
+                            <th rowspan="1" colspan="1"><bold>+/-</bold><break/><bold>(m)</bold></th>
+                            <th rowspan="1" colspan="1"><bold>sex / stage</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:121022" xlink:type="simple">UAM:Ento:121022</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall</td>
+                            <td rowspan="1" colspan="1">4/27/10</td>
+                            <td rowspan="1" colspan="1">5/15/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:121023" xlink:type="simple">UAM:Ento:121023</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">Berlese</td>
+                            <td rowspan="1" colspan="1">5/13/10</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:135818" xlink:type="simple">UAM:Ento:135818</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall 4</td>
+                            <td rowspan="1" colspan="1">5/14/10</td>
+                            <td rowspan="1" colspan="1">5/28/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159146" xlink:type="simple">UAM:Ento:159146</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall 2</td>
+                            <td rowspan="1" colspan="1">7/14/10</td>
+                            <td rowspan="1" colspan="1">7/26/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:202339" xlink:type="simple">UAM:Ento:202339</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall 4</td>
+                            <td rowspan="1" colspan="1">5/18/11</td>
+                            <td rowspan="1" colspan="1">5/31/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">female, male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:204005" xlink:type="simple">UAM:Ento:204005</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">Berlese 2</td>
+                            <td rowspan="1" colspan="1">6/14/11</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">female, male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229946" xlink:type="simple">UAM:Ento:229946</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Coffman Cv</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall 4</td>
+                            <td rowspan="1" colspan="1">7/27/11</td>
+                            <td rowspan="1" colspan="1">8/7/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.9795, -132.86256</named-content></td>
+                            <td rowspan="1" colspan="1">101</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229944" xlink:type="simple">UAM:Ento:229944</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.1</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">Berlese</td>
+                            <td rowspan="1" colspan="1">8/9/11</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.92444, -132.93938</named-content></td>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:142985" xlink:type="simple">UAM:Ento:142985</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.4</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 2</td>
+                            <td rowspan="1" colspan="1">5/14/10</td>
+                            <td rowspan="1" colspan="1">5/30/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88602, -132.8607</named-content></td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:142986" xlink:type="simple">UAM:Ento:142986</ext-link> *</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.4</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall 3</td>
+                            <td rowspan="1" colspan="1">5/30/10</td>
+                            <td rowspan="1" colspan="1">6/14/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88433, -132.89734</named-content></td>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:204239" xlink:type="simple">UAM:Ento:204239</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.4</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 2</td>
+                            <td rowspan="1" colspan="1">5/31/11</td>
+                            <td rowspan="1" colspan="1">6/14/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88602, -132.8607</named-content></td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:217990" xlink:type="simple">UAM:Ento:217990</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.4</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 3</td>
+                            <td rowspan="1" colspan="1">6/28/11</td>
+                            <td rowspan="1" colspan="1">7/12/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88602, -132.8607</named-content></td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:221708" xlink:type="simple">UAM:Ento:221708</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.4</td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">Berlese 5</td>
+                            <td rowspan="1" colspan="1">7/27/11</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88285, -132.89795</named-content></td>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203237" xlink:type="simple">UAM:Ento:203237</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 1 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 4</td>
+                            <td rowspan="1" colspan="1">5/24/11</td>
+                            <td rowspan="1" colspan="1">6/5/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97805, -132.75456</named-content></td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:216180" xlink:type="simple">UAM:Ento:216180</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 1 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 4</td>
+                            <td rowspan="1" colspan="1">6/21/11</td>
+                            <td rowspan="1" colspan="1">7/6/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97805, -132.75456</named-content></td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:154335" xlink:type="simple">UAM:Ento:154335</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 2 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 1</td>
+                            <td rowspan="1" colspan="1">7/8/10</td>
+                            <td rowspan="1" colspan="1">7/30/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.96855, -132.75615</named-content></td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203238" xlink:type="simple">UAM:Ento:203238</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 2 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 3</td>
+                            <td rowspan="1" colspan="1">5/24/11</td>
+                            <td rowspan="1" colspan="1">6/5/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.96855, -132.75615</named-content></td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159119" xlink:type="simple">UAM:Ento:159119</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 3 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">Berlese 4</td>
+                            <td rowspan="1" colspan="1">7/29/10</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.95347, -132.7708</named-content></td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203239" xlink:type="simple">UAM:Ento:203239</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 3 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">Berlese 1</td>
+                            <td rowspan="1" colspan="1">6/5/11</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.95347, -132.7708</named-content></td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:133943" xlink:type="simple">UAM:Ento:133943</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">Berlese 2</td>
+                            <td rowspan="1" colspan="1">5/21/10</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.98497, -132.787</named-content></td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159120" xlink:type="simple">UAM:Ento:159120</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">pitfall 1</td>
+                            <td rowspan="1" colspan="1">7/9/10</td>
+                            <td rowspan="1" colspan="1">8/1/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97953, -132.77156</named-content></td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:167053" xlink:type="simple">UAM:Ento:167053</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">pitfall 1</td>
+                            <td rowspan="1" colspan="1">8/1/10</td>
+                            <td rowspan="1" colspan="1">8/11/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97953, -132.77156</named-content></td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203011" xlink:type="simple">UAM:Ento:203011</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">T2</td>
+                            <td rowspan="1" colspan="1">pitfall 1</td>
+                            <td rowspan="1" colspan="1">5/23/11</td>
+                            <td rowspan="1" colspan="1">6/5/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.98261, -132.77986</named-content></td>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229942" xlink:type="simple">UAM:Ento:229942</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">pitfall 1</td>
+                            <td rowspan="1" colspan="1">8/2/11</td>
+                            <td rowspan="1" colspan="1">8/9/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97953, -132.77156</named-content></td>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229943" xlink:type="simple">UAM:Ento:229943</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">Lindgren</td>
+                            <td rowspan="1" colspan="1">8/2/11</td>
+                            <td rowspan="1" colspan="1">8/9/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97939, -132.77216</named-content></td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:121024" xlink:type="simple">UAM:Ento:121024</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Staney Ck.</td>
+                            <td rowspan="1" colspan="1">CCe</td>
+                            <td rowspan="1" colspan="1">pitfall</td>
+                            <td rowspan="1" colspan="1">4/27/10</td>
+                            <td rowspan="1" colspan="1">5/15/10</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.87126, -133.06697</named-content></td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:202344" xlink:type="simple">UAM:Ento:202344</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Staney Ck.</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">pitfall 3</td>
+                            <td rowspan="1" colspan="1">5/16/11</td>
+                            <td rowspan="1" colspan="1">5/31/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.872, -133.06523</named-content></td>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229945" xlink:type="simple">UAM:Ento:229945</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Staney Ck.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 4</td>
+                            <td rowspan="1" colspan="1">7/12/11</td>
+                            <td rowspan="1" colspan="1">7/27/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.79901, -133.11782</named-content></td>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:230091" xlink:type="simple">UAM:Ento:230091</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Staney Ck.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall 2</td>
+                            <td rowspan="1" colspan="1">5/14/12</td>
+                            <td rowspan="1" colspan="1">5/28/12</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.79901, -133.11782</named-content></td>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:231726" xlink:type="simple">UAM:Ento:231726</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. nr Black Lk</td>
+                            <td rowspan="1" colspan="1">AH</td>
+                            <td rowspan="1" colspan="1">pitfall</td>
+                            <td rowspan="1" colspan="1">7/9/11</td>
+                            <td rowspan="1" colspan="1">7/10/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.58818, -132.88881</named-content></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:231727" xlink:type="simple">UAM:Ento:231727</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. nr Black Lk</td>
+                            <td rowspan="1" colspan="1">AH</td>
+                            <td rowspan="1" colspan="1">pitfall</td>
+                            <td rowspan="1" colspan="1">7/9/11</td>
+                            <td rowspan="1" colspan="1">7/10/11</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.58818, -132.88881</named-content></td>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235023" xlink:type="simple">UAM:Ento:235023</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Hatchery Ck.4</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall</td>
+                            <td rowspan="1" colspan="1">5/15/12</td>
+                            <td rowspan="1" colspan="1">5/28/12</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88602, -132.8607</named-content></td>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235024" xlink:type="simple">UAM:Ento:235024</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Point</td>
+                            <td rowspan="1" colspan="1">CC</td>
+                            <td rowspan="1" colspan="1">Berlese</td>
+                            <td rowspan="1" colspan="1">5/31/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.98497, -132.787</named-content></td>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235025" xlink:type="simple">UAM:Ento:235025</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 1 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">pitfall</td>
+                            <td rowspan="1" colspan="1">5/16/12</td>
+                            <td rowspan="1" colspan="1">5/31/12</td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.97805, -132.75456</named-content></td>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235026" xlink:type="simple">UAM:Ento:235026</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Alaska</td>
+                            <td rowspan="1" colspan="1">PoW Is. Luck Lk. 3 Rd.</td>
+                            <td rowspan="1" colspan="1">OG</td>
+                            <td rowspan="1" colspan="1">Berlese</td>
+                            <td rowspan="1" colspan="1">5/22/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.95347, -132.7708</named-content></td>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:230088" xlink:type="simple">UAM:Ento:230088</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Mary’s Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen Berlese</td>
+                            <td rowspan="1" colspan="1">10/30/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">female, male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228446" xlink:type="simple">UAM:Ento:228446</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228447" xlink:type="simple">UAM:Ento:228447</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228448" xlink:type="simple">UAM:Ento:228448</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228449" xlink:type="simple">UAM:Ento:228449</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228450" xlink:type="simple">UAM:Ento:228450</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228451" xlink:type="simple">UAM:Ento:228451</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228452" xlink:type="simple">UAM:Ento:228452</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228453" xlink:type="simple">UAM:Ento:228453</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228454" xlink:type="simple">UAM:Ento:228454</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228455" xlink:type="simple">UAM:Ento:228455</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228456" xlink:type="simple">UAM:Ento:228456</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228457" xlink:type="simple">UAM:Ento:228457</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Marys Peak</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">5/11/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">44.50413, -123.55125</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">larva</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228458" xlink:type="simple">UAM:Ento:228458</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">WA</td>
+                            <td rowspan="1" colspan="1">Lewis Co.</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">Berlese</td>
+                            <td rowspan="1" colspan="1">5/6/78</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">46.62848, -122.27701</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">male, female</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAMObs:Ento:228643" xlink:type="simple">UAMObs:Ento:228643</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Cape Lookout</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">11/6/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.33954, -123.99289</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:234931" xlink:type="simple">UAM:Ento:234931</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Oregon</td>
+                            <td rowspan="1" colspan="1">Cape Lookout</td>
+                            <td rowspan="1" colspan="1">2o</td>
+                            <td rowspan="1" colspan="1">w-screen</td>
+                            <td rowspan="1" colspan="1">11/6/12</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="2"><named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">45.33954, -123.99289</named-content></td>
+                            <td rowspan="1" colspan="1">5000</td>
+                            <td rowspan="1" colspan="1">male</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Sixteen sites at which <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens were found, north end of Prince of Wales Island, Alaska. <xref ref-type="table" rid="T1">Table 1</xref> lists site and specimen data, also available online at <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/saved/Caurinus-AK" xlink:type="simple">http://arctos.database.museum/saved/Caurinus-AK</ext-link>. TL = type locality.</p></caption>
+                <graphic xlink:href="ZooKeys-316-035-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>The majority of specimens (35/37) were collected in perhumid rainforest dominated by Sitka spruce (<!--PageBreak--><!--PageBreak--><italic><tp:taxon-name>Picea sitchensis</tp:taxon-name></italic>), western hemlock (<italic><tp:taxon-name>Tsuga heterophylla</tp:taxon-name></italic>), lodgepole pine (<italic><tp:taxon-name>Pinus contorta</tp:taxon-name></italic> var. <italic>contorta</italic>), Alaska yellow cedar (<italic><tp:taxon-name>Chamaecyparis nootkatensis</tp:taxon-name></italic>), red cedar (<italic><tp:taxon-name>Thuja plicata</tp:taxon-name></italic>), and red alder (<italic><tp:taxon-name>Alnus rubra</tp:taxon-name></italic>) (<xref ref-type="fig" rid="F2">Fig. 2</xref>). Of 24 sites sampled in the Tongass National Forest project, <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> was found in 14 sites. Fifteen specimens were found in six of six sampled old growth sites, eleven in three of six sampled thinned secondary growth sites, seven in four of six sampled clear cuts, and one in one of six sampled unthinned secondary growth sites. One additional specimen was found in an ecotone next to a clear cut that was not part of the 24 structured sampling sites. The null hypothesis of <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> being equally trappable in all four habitat types: old growth, thinned secondary growth, unthinned secondary growth, and clear cuts, (ignoring the ecotone), is rejected (Chi<sup>2</sup> = 12.59, df=3, P=0.0056). These animals are less trappable in unthinned secondary growth sites than expected under the null, and more trappable in old growth and thinned secondary growth sites than expected under the null.</p>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Habitats of <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> <bold>A</bold> Habtiat of type locality, thinned secondary growth with 18 ft. spacing between trees, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88433, -132.89734</named-content> <bold>B</bold> example of old growth habitat in which specimen <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:204239" xlink:type="simple">UAM:Ento:204239</ext-link> was found, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88602,-132.8607</named-content> <bold>C</bold> example of clearcut, a habitat type in which seven specimens were found, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.872, -133.06523</named-content> <bold>D</bold> example of treeless, alpine heath – tundra in which two specimens were found, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.58818, -132.88881</named-content>.</p></caption>
+                <graphic xlink:href="ZooKeys-316-035-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <p>Although boreids are considered winter active insects, our projects were restricted to the summer months. We caught <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> more or less evenly throughout the period of sampling (mid May – mid August) (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+        </sec>
+        <sec sec-type="Results from molecular analyses">
+            <title>Results from molecular analyses</title>
+            <p><bold>DNA sequence characteristics.</bold> The final alignment of the DNA sequences (11 <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> sequences, 2 outgroup <italic><tp:taxon-name>Boreus</tp:taxon-name></italic> sequences) was 639 base pairs long with 491 constant sites, 21 variable but parsimony-uniformative sites, and 127 parsimony informative sites. Among the <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> sequences there were 604 constant sites and 35 parsimony informative sites. Of these 35 variable sites between the <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species, 34 were binary with all specimens of each species sharing the same base differing from the other species. As expected, most (29) of these variable sites were third codon positions, with six variable first codon position sites, and zero variable second codon position sites. The null hypothesis of homogeneity of base frequencies across taxa was not rejected by a Chi-square test performed in PAUP*4.0b10 (Chi<sup>2</sup>=27.5, df=36, P=0.85) (<xref ref-type="bibr" rid="B24">Swofford 2003</xref>). These sequences are available from Genbank (accession numbers <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KF282717" xlink:type="simple">KF282717</ext-link> through <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KF282727" xlink:type="simple">KF282727</ext-link>) and the aligned NEXUS and tree files are available from TreeBase (<ext-link ext-link-type="uri" xlink:href="http://purl.org/phylo/treebase/phylows/study/TB2:S14415" xlink:type="simple">http://purl.org/phylo/treebase/phylows/study/TB2:S14415</ext-link>) under study Accession number <ext-link ext-link-type="uri" xlink:href="http://www.treebase.org/treebase-web/search/study/summary.html?id=14415" xlink:type="simple">14415</ext-link>.</p>
+            <p>The <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species are 98.5% identical in their inferred COII amino acid sequences (209 of 212 amino acids are identical). The three amino acid replacements are as follows: The 113<sup>th</sup> site of the amino acid translation is an Alanine (nonpolar) shared by all seven <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens but is a Threonine (polar) in all five <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens; at the 114<sup>th</sup> site an Aspartic acid (acid polar) shared by all seven <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens is a Asparagine (polar) in all five <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens; and at the 148<sup>th</sup> site an Isoleucine (nonpolar) shared by all seven <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens is a Valine (nonpolar) in all five <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens.</p>
+            <p>All seven <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> share identical COII nucleotide sequences whereas only three of the <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> share identical sequences, the fourth <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> differs at one site (0.156% divergent) from the other three <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic>. The two <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species are 5.44% divergent from each other (uncorrected “p” distance). The two outgroup species are 3.9% divergent from each other, and 21% (<italic><tp:taxon-name>Boreus hyemalis</tp:taxon-name></italic>) to 20% (<italic><tp:taxon-name>Boreus westwoodi</tp:taxon-name></italic>) divergent from <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic>. The COII GenBank record of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF424001.1" xlink:type="simple">AF424001.1</ext-link>) is 21.7% divergent from the seven <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> we sequenced. Using the parameter values from the Garli analysis (see below) to set the HKY+G model in PAUP*4.0b10 allowed the estimation of distances corrected for multiple hits: the two <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species are 7.17% divergent from each other. The two outgroup species are 5.6% divergent from each other, and 106.7% (<italic><tp:taxon-name>Boreus hyemalis</tp:taxon-name></italic>) to 103.5% (<italic><tp:taxon-name>Boreus westwoodi</tp:taxon-name></italic>) divergent from <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic>.</p>
+            <!--PageBreak-->
+            <p><bold>Bayesian Analysis.</bold> Tracer reported auto-correlation times of 1027 and 1015 for the two runs with Effective Sample Sizes for all parameters of each run above 7000 (with samples from both runs combined, the ESS of each parameter was above 15,000). Parameter estimates of both runs combined were as follows: the harmonic mean of the estimated marginal likelihood was –1515.7, tree length 0.692, the transition/transversion rate ratio (kappa) 6.59, pi(A) 0.356, pi(C) 0.151, pi(G) 0.102, and pi(T) 0.391 with the alpha shape parameter at 0.258.</p>
+            <p><bold>Garli Analysis.</bold> The 1000 bootstrap replicate analysis resulted in similarly strong branch support values as the Bayesian analysis (<xref ref-type="fig" rid="F3">Fig. 3</xref>). One hundred non-bootstrap replicates were completed, the best tree of which was found in 96 of the searches and was identical in topology to the Bayesian tree (<xref ref-type="fig" rid="F3">Fig. 3</xref>) with a -lnL of 1476.75, tree length of 0.858, and parameter values of: K parameter 8.789, ti/tv 3.321, pi(A) 0.3596, pi(C) 0.1481, pi(G) 0.0991, and pi(T) 0.3933 with the alpha shape parameter at 0.1733.</p>
+            <p>Both the Bayesian and maximum likelihood analyses found strong support for reciprocal monophyly of both <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species (<xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p>Inferred phylogeny from Bayesian analysis. Each terminal is a single specimen with the UAM cryovial barcode of its DNA extraction indicated by a six digit number. Branch support is indicated as estimated posterior probability from the Bayesian analysis first and maximum-likelihood bootstrap percentages second. Branch lengths are proportional to the number of substitutions per site as reconstructed by MrBayes 3.2. Specimen 242224 is the holotype of <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:142986" xlink:type="simple">http://arctos.database.museum/guid/UAM:Ento:142986</ext-link>. The remaining three <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens correspond to the following paratypes in <xref ref-type="table" rid="T1">Table 1</xref>: 242222 (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:135818" xlink:type="simple">UAM:Ento:135818</ext-link>), 242225 (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159119" xlink:type="simple">UAM:Ento:159119</ext-link>), and 242226 (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:154335" xlink:type="simple">UAM:Ento:154335</ext-link>).</p></caption>
+                <graphic xlink:href="ZooKeys-316-035-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Systematics">
+            <title>Systematics</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Caurinus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">tlagu</tp:taxon-name-part>
+                        <object-id xlink:type="simple">urn:lsid:zoobank.org:act:BFFF780A-737D-4187-8539-32270D80D4C5</object-id>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Caurinus_tlagu</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Sikes &amp; Stockbridge</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Holotype">
+                    <title>Holotype.</title>
+                    <p>Male (in UAM), here designated, labeled “USA: Alaska, Prince of Wales Is. Hatchery Ck.4, 30 May-14 June 2010, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88433°N, 132.89734°W</named-content> ± 26m, 82m elev., thinned secondary growth with 18 ft. spacing between trees, pitfall 3, J. Stockbridge, C. Bickford”, / “HOLOTYPE <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> Sikes &amp; Stockbridge 2013 <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:142986" xlink:type="simple">UAM:Ento:142986</ext-link>” [red paper]. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.7299/X7GH9J4M" xlink:type="simple">http://dx.doi.org/10.7299/X7GH9J4M</ext-link></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Paratypes">
+                    <title>Paratypes.</title>
+                    <p>36 Specimens (<xref ref-type="table" rid="T1">Table 1</xref>). The following 17 paratypes will be deposited in the collections indicated: male <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159146" xlink:type="simple">UAM:Ento:159146</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:142985" xlink:type="simple">UAM:Ento:142985</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235025" xlink:type="simple">UAM:Ento:235025</ext-link> (CAS); male <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229945" xlink:type="simple">UAM:Ento:229945</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235024" xlink:type="simple">UAM:Ento:235024</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229942" xlink:type="simple">UAM:Ento:229942</ext-link> (OSAC); male <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235026" xlink:type="simple">UAM:Ento:235026</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203239" xlink:type="simple">UAM:Ento:203239</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203011" xlink:type="simple">UAM:Ento:203011</ext-link> (PMJ); male <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:167053" xlink:type="simple">UAM:Ento:167053</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229944" xlink:type="simple">UAM:Ento:229944</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:235023" xlink:type="simple">UAM:Ento:235023</ext-link> (SEMC); male <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:217990" xlink:type="simple">UAM:Ento:217990</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:221708" xlink:type="simple">UAM:Ento:221708</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159120" xlink:type="simple">UAM:Ento:159120</ext-link> (USNM); male <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:229943" xlink:type="simple">UAM:Ento:229943</ext-link>, female <ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:230091" xlink:type="simple">UAM:Ento:230091</ext-link> (MTEC), and the 19 remaining in UAM.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type Locality">
+                    <title>Type Locality.</title>
+                    <p>USA: Alaska, Prince of Wales Is. Hatchery Ck, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">55.88433°N, 132.89734°W</named-content> ± 26m, 82m elev. (<xref ref-type="fig" rid="F1">Fig. 1</xref>, <xref ref-type="fig" rid="F2">2A</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Measurements">
+                    <title>Measurements.</title>
+                    <p>Restricted to specimens with retracted genitalia (3 males, 10 females), length, min. – max., mean ± SD: male 1.58–2.02, 1.74 ± 0.24 mm, female 1.64 – 2.00, 1.79 ± 0.13 mm.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>Circumference of eye of males comprises 31-35 (n=3) ommatidia (<italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> males have 38–39, n=3). Scanning electron microscope-level resolution is required to obtain reliable counts (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Female 8<sup>th</sup> sterna without a median notch (n=10), or with a shallow median notch (n=5) (<xref ref-type="fig" rid="F5">Fig. 5A, C</xref>, <xref ref-type="fig" rid="F6">6C, D</xref>). <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> females have a shallow median notch or a pronounced median notch (<xref ref-type="fig" rid="F5">Fig. 5B</xref>, see also <xref ref-type="bibr" rid="B22">Russell [1979b]</xref> fig. 10). This is visible at 40× and higher magnification.</p>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p>Eye of <bold>A</bold> male <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:230088" xlink:type="simple">UAM:Ento:230088</ext-link>) showing 38 ommatidia around circumference of right eye, dorsal is to the left, and <bold>B</bold> male <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:202344" xlink:type="simple">UAM:Ento:202344</ext-link>) showing 35 ommatidia around circumference of left eye, dorsal is to the right. Scale bar = 50 µm.</p></caption>
+                        <graphic xlink:href="ZooKeys-316-035-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p><bold>A</bold> ventral view of female <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203239" xlink:type="simple">UAM:Ento:203239</ext-link>) showing 8<sup>th</sup> sternum with shallow median emargination / notch, scale bar = 500 µm <bold>B</bold> ventral view of abdomen of female <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:228458" xlink:type="simple">UAM:Ento:228458</ext-link>) showing 8<sup>th</sup> sternum with a pronounced notch, scale bar = 200 µm <bold>C</bold> ventral view of abdomen of female <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203011" xlink:type="simple">UAM:Ento:203011</ext-link>) showing 8th sternum with shallow emargination / notch, scale bar = 200 µm.</p></caption>
+                        <graphic xlink:href="ZooKeys-316-035-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figure 6.</label>
+                        <caption><p>Female <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:159119" xlink:type="simple">UAM:Ento:159119</ext-link>) that had been cleared in KOH. <bold>A</bold> lateral view (broken abdomen), scale bar = 2 mm <bold>B</bold> face, scale bar = 0.5 mm <bold>C</bold> dorsal view, scale bar = 2 mm <bold>D</bold> ventral view, scale bar = 0.5 mm.</p></caption>
+                        <graphic xlink:href="ZooKeys-316-035-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Body length 1.5–2.3 mm, flea-like in lateral view, color reddish brown, sparsely pubescent, strongly sclerotized (<xref ref-type="fig" rid="F6">Fig. 6</xref>). Rostrum absent or reduced. Clypeolabral suture present. Clypeus divided into post and anteclypeus. Penultimate maxillary palpomere enlarged and club shaped. Antennal insertion lateral, widely separated. Ocelli absent. Antennae with sixteen antennomeres and a single countersunk sensilla on antennomeres 4, 5, and 6 (<xref ref-type="fig" rid="F7">Fig. 7</xref>). Mandible with two subapical teeth (<xref ref-type="fig" rid="F6">Fig. 6B</xref>). Male forewings extend to end of first abdominal segment, with six bristles (<xref ref-type="fig" rid="F8">Fig. 8A</xref>), hindwings absent. Female forewings pad-like, hindwings absent. Tarsi five segmented, tarsal claws present. Pilosity absent. Abdomen widest at segments 4 and 5, segments 2-6 fused, annular. Male 8th tergum and sternum not fused. Male 9th tergum and sternum not fused. Genitalia normally concealed in both sexes. Male gonostyles flattened, deeply incised (<xref ref-type="fig" rid="F8">Fig. 8B</xref>).</p>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figure 7.</label>
+                        <caption><p>Base of <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> antenna showing sensilla on antenomeres 4, 5, and 6. <bold>A</bold> female <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:230088" xlink:type="simple">UAM:Ento:230088</ext-link>), <bold>B</bold> female <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:203237" xlink:type="simple">UAM:Ento:203237</ext-link>); sen = sensilla, scale bars = 20 µm.</p></caption>
+                        <graphic xlink:href="ZooKeys-316-035-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figure 8.</label>
+                        <caption><p>SEM images of male <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:204239" xlink:type="simple">UAM:Ento:204239</ext-link>), scale bars = 100 µm <bold>A</bold> dorsal view showing wings <bold>B</bold> evertedgenitalia showing paired gonostyles, oblique lateral view.</p></caption>
+                        <graphic xlink:href="ZooKeys-316-035-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <!--PageBreak-->
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Variation">
+                    <title>Variation.</title>
+                    <p>One male (<ext-link ext-link-type="uri" xlink:href="http://arctos.database.museum/guid/UAM:Ento:231726" xlink:type="simple">UAM:Ento:231726</ext-link>) has 7 bristles on its right wing, as a result of a very small extra basal bristle, and six on its left.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="distribution">
+                    <title>Geographic Distribution and Habitat.</title>
+                    <p>This species is only known from the northern half of Prince of Wales Island within a region about 45 km in size (<xref ref-type="fig" rid="F1">Fig. 1</xref>). It was collected in forest habitat of various stages: old growth, secondary growth (thinned and unthinned), and young clear cuts; in addition to two specimens caught in alpine heath habitat and one in an ecotone of clearcut / secondary forest. The species is not restricted to lowland forests, nor to old growth forests.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>“<italic>Tlagu</italic>, ” pronounced “tlu-gu,” is derived from the Alaska Native tribal language Tlingit meaning “ancient, forever” (<xref ref-type="bibr" rid="B5">Crippen 2013</xref>) or “old, from the past” (<xref ref-type="bibr" rid="B7">Edwards 2009</xref>). <xref ref-type="bibr" rid="B2">Bierhorst (1985)</xref> provided this elaboration: “Among the Tlingit, for example, there are two kinds of stories, <italic>tlagu</italic> (of the long ago) and <italic>ch’kalnik</italic> (it really happened).” We name this species in honor of the place it occurs, its people, and history, in addition to the apparent great age of the genus <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic>.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>Diagnostic characters were not easily found. These species are very similar phenotypically. The use of ommatidia counts around the circumference of the eyes of males (females we examined overlapped in these counts) is certainly not an ideal character because it is limited to one sex and requires SEM imaging to obtain accurate counts. In part because of this difficulty, and the rarity of specimens, our sample sizes for the assessment of this character are suboptimal. Despite these small sample sizes (n=3 for each species) the means differ significantly based on an unpaired, two-tailed student’s t-test (p = 0.0142). We hope that ongoing morphological study of the <tp:taxon-name>Mecoptera</tp:taxon-name> by Rolf Beutel and others (e.g. <xref ref-type="bibr" rid="B1">Beutel et al. 2008</xref>) will better document variation between and within these <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species.</p>
+            <p>During our examination of characters we compared both species for the paired cupuliform and countersunk antennal sensilla described by <xref ref-type="bibr" rid="B1">Beutel et al. (2008</xref>, fig. 3D) as occurring on the distal part of antennomeres 3 and 4. We found these on antennomeres 4, 5, and 6 (<xref ref-type="fig" rid="F7">Fig. 7</xref>) but could not find them on antennomere 3 of either species. Also, we found the countersunk sensillum but not the cupuliform sensillum. We studied 5 specimens of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> and 5 of <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic>, 3 males and 2 females of each, and were able to see sensilla on 2 female <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> and 1 male and 2 female <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> but on no others. A shorter type of setae with a thicker apex is present near the countersunk sensilla (<xref ref-type="fig" rid="F7">Fig. 7</xref>) which were also visible on those specimens on which we did not find sensilla. This lack of confirmation is likely due to the fixed positioning of the specimens for SEM imaging hiding the sensilla from view, although infraspecific variation and absence cannot yet be eliminated as explanations. The lack of sensilla on antennomere 3 of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> raises the possibility that there are multiple species under the name <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic>.</p>
+            <p>We examined the gonostyles of the males (<xref ref-type="fig" rid="F8">Fig. 8B</xref>) for diagnostic characters. These complex structures may still hold diagnostic potential. In particular, the apex of the <!--PageBreak-->gonostyle’s setose basal tooth appeared tapered in <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> and truncate in <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic>. However, we were not able to confirm this state was constant in each species. The shape of the upper blade and the pattern of scale-like ridges on the upper blade also appeared to differ. Further study indicated these differences were probably due to differences in the available angles of viewing within the SEM.</p>
+            <p>We do not know the explanation for the very large COII difference (21.7%) seen between the GenBank <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> record and our own sequences of seven <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens. Both samples were made by the same collector, and author of the species, L. Russell, from the type locality. The GenBank record for the <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> COII is 4.5% different from that of the GenBank record for <italic><tp:taxon-name>Panorpa debilis</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF424023.1" xlink:type="simple">AF424023.1</ext-link>) from the same study (<xref ref-type="bibr" rid="B26">Whiting 2002</xref>) which suggests possible contamination or data mixup. Given the ambiguity of the GenBank record’s accuracy we decided to exclude it from our analyses.</p>
+            <p>The two specimens recovered from the treeless alpine tundra site appear to violate characterizations of <!--PageBreak--><italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> being a forest associated lineage. However, <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> is often recovered from forested and open rocky sites with the common moss <italic><tp:taxon-name>Rhytidiadelphus loreus</tp:taxon-name></italic>, which represented 20% of the total vegetation at the alpine site (K. LaBounty pers. com.). That <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> occurs in clear-cuts and secondary growth sites suggests it is not a habitat specialist. However, within the secondary growth sites in which <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> was found, it was significantly more common in thinned sites (n= 11) than in unthinned (n=1). The former have been opened by the Forest Service program TWYGS (Tongass Wide Young Growth Studies) in which the trees have been thinned to encourage old-growth conditions whereas the latter habitats are closed-canopy and dark due to the overcrowding of even-aged trees. This does raise questions about the feeding and breeding ecology of <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B22">Russell (1979b</xref>, <xref ref-type="bibr" rid="B23">1982</xref>) documented <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> as a specialist on epiphytic and terrestrial leafy liverworts (Jungermanniales). We lack adequate data on the bryophyte communities of the lowland forested sites to assess whether <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> shows the same bryophyte associations as <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic>. In particular, seven specimens (19% of our total catch) were found in recently deforested clear cuts, which are likely to have highly disturbed bryophyte communities.</p>
+            <p>Another notable difference between these <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> species may be their phenology. <xref ref-type="bibr" rid="B23">Russell (1982)</xref> describes adult <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> as primarily active during the winter (October – April), but reappearing in unseasonably wet, cool weather during the summer. This contrasts with our findings of summer presence of adult <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic>. Of course, <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> could also be active year-round but our sampling regime would fail to detect anything but summer activity.</p>
+            <p>Various plausible scenarios exist to explain the 1,059 km range disjunction and presumed allopatric speciation within this genus of wingless mecopterans. Either or both populations could be the result of ancient (paleoendemism) or recent (neoendemism) dispersal from the other population or elsewhere (now extinct, or as yet unfound). Such dispersal could be as simple as the ancient transport of <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic>-laden bryophytes by a bird. Given the genetic divergence between the populations, human transport is unlikely because it would be too recent. Alternatively, and we think more likely, both populations may be relicts of an ancient, and much larger population, with subsequent intervening extinction (paleoendemism). A multi-locus population genetics analysis with incorporation of data regarding the region’s geological history would be needed to test these alternatives. Finally, these animals are not easily found and undetected populations may occur in intervening British Columbia.</p>
+            <p>Prince of Wales Island was mostly buried under an ice sheet during the maximum of the late Wisconsin glaciation 26,000 to 13,000 <sup>14</sup>C years BP (<xref ref-type="bibr" rid="B3">Carrara et al. 2007</xref>) and had been repeatedly buried by ice during the Pleistocene. However, considerable biological and geological evidence suggests that ice-free refugia may have existed during this time, allowing many diverse taxa to continue to evolve in relative isolation, and re-seed the region after deglaciation (<xref ref-type="bibr" rid="B3">Carrara et al. 2007</xref>). Of 108 mammal species or subspecies occurring in southeastern Alaska, 27 are endemic to the area (<xref ref-type="bibr" rid="B4">Cook et al. 2001</xref>). The known locations of <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> are in regions that were reconstructed as under ice by <xref ref-type="bibr" rid="B3">Carrara et al. (2007</xref>, fig. 3). Post deglaciation dispersal to these sites from ice-free refugia is the most likely explanation. This suggests, and it would be likely regardless, that <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> is more widely distributed than we have documented.</p>
+            <p>Despite their strong phenotypic similarity, the weight of the evidence supports the conclusion that these separate populations are not conspecific. Their mtDNA sequences being 7.17% divergent (corrected for multiple hits) suggests they have been isolated for probably less than 10 million years (<xref ref-type="bibr" rid="B12">Klicka and Zink 1997</xref>, <xref ref-type="bibr" rid="B17">Papadopoulou et al. 2010</xref>). Regardless, they have probably been isolated for longer than <!--PageBreak--><italic><tp:taxon-name>Boreus westwoodi</tp:taxon-name></italic> and <italic><tp:taxon-name>Boreus hyemalis</tp:taxon-name></italic> have been isolated from each other. This degree of separation eliminates a late Pleistocene (100,000–250,000 YBP) speciation event hypothesis. The corrected genetic distances between <italic><tp:taxon-name>Boreus</tp:taxon-name></italic> and <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> (over 103%), indicate the COII gene is fully saturated with multiple hits at this level of comparison, and support the hypothesis of <xref ref-type="bibr" rid="B22">Russell (1979b)</xref> that <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> is a lineage of great age and not an example of relatively recent evolutionary reversal that would make the <tp:taxon-name>Boreinae</tp:taxon-name> paraphyletic.</p>
+            <p>This suggests the split between the genus <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> and the remaining boreids likely predates the oldest confirmed boreid fossil, <italic><tp:taxon-name>Palaeoboreus zherichini</tp:taxon-name></italic> Sukatsheva &amp; Rasnitsyn, of the Late Jurassic (<xref ref-type="bibr" rid="B9">Grimaldi and Engel 2005</xref>) which appears to be a boreine due to its size and external ovipositor, although it lacks the produced rostrum typical of extant species (Russell pers. com.). If confirmed, such a great age (&gt;145 Ma) for a genus of two extant species would make the lineage an evolutionary relict and its species certainly deserving of conservation attention (<xref ref-type="bibr" rid="B11">Habel and Assmann 2010</xref>, <xref ref-type="bibr" rid="B16">Naskrecki 2011</xref>).</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Thank you to Loren Russell, Rolf Beutel, Frank Friedrich, and Michael Ivie for providing comments on an earlier version of the manuscript. We thank L. Russell for collection and donation of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens. We thank Michael Ivie, who first identified our specimens to genus (while we and various other entomologists remained unsure of its ordinal placement!). We are grateful for our field and lab technicians Casey Bickford, Ian MacDougall, Sarah Meierotto, Sayde Ridling, and Bennett Wong. We thank Kitty LaBounty who identified the plants of, and provided the habitat photo of, the site near Black lake. We thank the Oregon State Arthropod Collection for a loan of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> specimens. Funding for this project came from two grants to the first author from the Alaska Department of Fish and Game.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Beutel</surname> <given-names>RG</given-names></name><name name-style="western"><surname>Friedrich</surname> <given-names>F</given-names></name><name name-style="western"><surname>Whiting</surname> <given-names>MF</given-names></name></person-group> (<year>2008</year>) <article-title>Head morphology of <italic>Caurinus</italic> (Boreidae, Mecoptera) and its phylogenetic implications.</article-title> <source>Arthropod Structure &amp; Development</source> <volume>37</volume>: <fpage>418</fpage>-<lpage>433</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bierhorst</surname> <given-names>J</given-names></name></person-group> (<year>1985</year>) <source>The Mythology of North America. Morrow, 259 pp.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carrara</surname> <given-names>PE</given-names></name><name name-style="western"><surname>Ager</surname> <given-names>TA</given-names></name><name name-style="western"><surname>Baichtal</surname> <given-names>JF</given-names></name></person-group> (<year>2007</year>) <article-title>Possible refugia in the Alexander Archipelago of southeastern Alaska during the late Wisconsin glaciation.</article-title> <source>Canadian Journal of Earth Science</source> <volume>44</volume>: <fpage>229</fpage>-<lpage>244</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/E06-081" xlink:type="simple">10.1139/E06-081</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cook</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Bidlack</surname> <given-names>AL</given-names></name><name name-style="western"><surname>Conroy</surname> <given-names>CJ</given-names></name><name name-style="western"><surname>Demboski</surname> <given-names>JR</given-names></name><name name-style="western"><surname>Fleming</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Runck</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Stone</surname> <given-names>KD</given-names></name><name name-style="western"><surname>and</surname> <given-names>MacDonald SO</given-names></name></person-group> (<year>2001</year>) <article-title>A phylogeographic perspective on endemism in the Alexander Archipelago of southeast Alaska.</article-title> <source>Biological Conservation</source> <volume>97</volume>: <fpage>215</fpage>-<lpage>227</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Crippen</surname> <given-names>JA</given-names></name></person-group> (<year>2013</year>) <source>Tlingit Verbal Structure Handbook. Draft of 25 February 2013. <ext-link ext-link-type="uri" xlink:href="http://www.drangle.com/~james/verbal.../verbal-structure-handbook.pdf" xlink:type="simple">www.drangle.com/~james/verbal.../verbal-structure-handbook.pdf</ext-link> [accessed 9 Apr 2013]</source></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Darriba</surname> <given-names>D</given-names></name><name name-style="western"><surname>Taboada</surname> <given-names>GL</given-names></name><name name-style="western"><surname>Doallo</surname> <given-names>R</given-names></name><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name></person-group> (<year>2012</year>) <source>jModelTest 2: more models, new heuristics and parallel computing. Nature Methods 9(8), 772.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ewdards</surname> <given-names>K</given-names></name></person-group> (<year>2009</year>) <source>Dictionary of Tlingit. Sealaska Heritage Institute Juneau, Alaska. ISBN: 978-0-9825786-6-7</source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Friedrich</surname> <given-names>F</given-names></name><name name-style="western"><surname>Pohl</surname> <given-names>H</given-names></name><name name-style="western"><surname>Beckmann</surname> <given-names>F</given-names></name><name name-style="western"><surname>Beutel</surname> <given-names>RG</given-names></name></person-group> (<year>2013</year>) <article-title>The head of <italic>Merope tuber</italic> (Meropeidae) and the phylogeny of Mecoptera (Hexapoda). Arthropod Structure &amp; Development.</article-title>  <volume>42</volume>: <fpage>69</fpage>-<lpage>88</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.asd.2012.09.006" xlink:type="simple">10.1016/j.asd.2012.09.006</ext-link> [epub 2012 Oct 16]</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grimaldi</surname> <given-names>D</given-names></name><name name-style="western"><surname>Engel</surname> <given-names>MS</given-names></name></person-group> (<year>2005</year>) <source>Evolution of the Insects.</source> <publisher-name>Cambridge University Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc>, <lpage>755</lpage> pp.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Guindon</surname> <given-names>S</given-names></name><name name-style="western"><surname>Gascuel</surname> <given-names>O</given-names></name></person-group> (<year>2003</year>) <article-title>A simple, fast and accurate method to estimate large phylogenies by maximum-likelihood.</article-title> <source>Systematic Biology</source> <volume>52</volume>: <fpage>696</fpage>-<lpage>704</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Habel</surname> <given-names>JC</given-names></name><name name-style="western"><surname>Assmann</surname> <given-names>T</given-names></name></person-group> (<role>Eds</role>) (<year>2010</year>) <source>Relict species. Phylogeography and conservation biology. Berlin: Springer. xvi + 452 p.</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Klicka</surname> <given-names>J</given-names></name><name name-style="western"><surname>Zink</surname> <given-names>RM</given-names></name></person-group> (<year>1997</year>) <article-title>The importance of recent ice ages in speciation: a failed paradigm.</article-title> <source>Science</source> <volume>277</volume>: <fpage>1666</fpage>-<lpage>1669</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>LeSage</surname> <given-names>CM</given-names></name><name name-style="western"><surname>Merritt</surname> <given-names>RW</given-names></name><name name-style="western"><surname>Wipfli</surname> <given-names>MS</given-names></name></person-group> (<year>2005</year>) <article-title>Headwater riparian invertebrate communities associated with red alder and conifer wood and leaf litter in Southeastern Alaska.</article-title> <source>Northwest Science</source> <volume>79</volume>: <fpage>218</fpage>-<lpage>232</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Liu</surname> <given-names>H</given-names></name><name name-style="western"><surname>Beckenbach</surname> <given-names>AT</given-names></name></person-group> (<year>1992</year>) <article-title>Evolution of the mitochondrial cytochrome oxidase II gene among 10 orders of insects.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>1</volume>: <fpage>41</fpage>-<lpage>52</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maddison</surname> <given-names>DR</given-names></name><name name-style="western"><surname>Maddison</surname> <given-names>WP</given-names></name></person-group> (<year>2002</year>) <source>MacClade 4: Analysis of phylogeny and character evolution. Version 4.04. [<ext-link ext-link-type="uri" xlink:href="http://macclade.org" xlink:type="simple">http://macclade.org</ext-link>]</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Naskrecki</surname> <given-names>P</given-names></name></person-group> (<year>2011</year>) <source>Relics: Travels in Nature’s Time Machine. The University of Chicago Press. Ltd. London, 342 pp.</source></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Papadopoulou</surname> <given-names>A</given-names></name><name name-style="western"><surname>Anastasiou</surname> <given-names>I</given-names></name><name name-style="western"><surname>Vogler</surname> <given-names>AP</given-names></name></person-group> (<year>2010</year>) <article-title>Revisiting the insect mitochondrial molecular clock: The mid-Aegean trench calibration.</article-title> <source>Molecular Biology and Evolution</source> <volume>27</volume>: <fpage>1659</fpage>-<lpage>1672</lpage> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msq051" xlink:type="simple">10.1093/molbev/msq051</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Penny</surname> <given-names>ND</given-names></name></person-group> (<year>2013</year>) <source>Mecoptera. World Checklist of Extant Mecoptera Species. Available: <ext-link ext-link-type="uri" xlink:href="http://research.calacademy.org/sites/research.calacademy.org/files/Departments/ent/Mecoptera/MecopteraWorldCatalog.pdf" xlink:type="simple">http://research.calacademy.org/sites/research.calacademy.org/files/Departments/ent/Mecoptera/MecopteraWorldCatalog.pdf</ext-link> [accessed 22 April 2013]</source></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname> <given-names>A</given-names></name><name name-style="western"><surname>Drummond</surname> <given-names>AJ</given-names></name></person-group> (<year>2003</year>) <source>Tracer v1.5. Available from: <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/tracer/" xlink:type="simple">http://tree.bio.ed.ac.uk/software/tracer/</ext-link> [accessed April 2013]</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname> <given-names>JP</given-names></name></person-group> (<year>2003</year>) <article-title>MrBayes 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics</source> <volume>19</volume>: <fpage>1572</fpage>-<lpage>4</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Russell</surname> <given-names>LK</given-names></name></person-group> (<year>1979a</year>) <source>A study of the armoured boreid <italic>Caurinus dectes</italic> (Mecoptera). Unpublished PhD thesis, Oregon State University.</source></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Russell</surname> <given-names>LK</given-names></name></person-group> (<year>1979b</year>) <source>A new genus and a new species of Boreidae from Oregon (Mecoptera). Proceedings of the Entomological Society of Washington 81, 22–31.</source></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Russell</surname> <given-names>LK</given-names></name></person-group> (<year>1982</year>) <source>The life history of <italic>Caurinus dectes</italic> Russell, with a description of the immature stages (Mecoptera: Boreidae). Entomologica Scandinavica 13, 225–235.</source></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname> <given-names>D</given-names></name></person-group> (<year>2003</year>) <source>PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Sunderland, Massachusetts, Sinauer.</source></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Trautwein</surname> <given-names>MD</given-names></name><name name-style="western"><surname>Wiegmann</surname> <given-names>BM</given-names></name><name name-style="western"><surname>Beutel</surname> <given-names>R</given-names></name><name name-style="western"><surname>Kjer</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Yeates</surname> <given-names>DK</given-names></name></person-group> (<year>2012</year>) <article-title>Advances in insect phylogeny at the dawn of the postgenomic era.</article-title> <source>Annual Review of Entomology</source> <volume>57</volume>: <fpage>449</fpage>-<lpage>468</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1146/annurev-ento-120710-100538" xlink:type="simple">10.1146/annurev-ento-120710-100538</ext-link></mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Whiting</surname> <given-names>MF</given-names></name></person-group> (<year>2002</year>) <article-title>Mecoptera is paraphyletic: multiple genes and phylogeny of Mecoptera and Siphonaptera.</article-title> <source>Zoologica Scripta</source> <volume>31</volume>: <fpage>93</fpage>-<lpage>104</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zwickl</surname> <given-names>DJ</given-names></name></person-group> (<year>2006</year>) <source>Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion. Ph.D. dissertation, The University of Texas at Austin.</source></mixed-citation></ref>
+        </ref-list>
+        <sec sec-type="Addendum">
+            <title>Addendum</title>
+            <p>During 16–17 May 2013, Loren Russell, the author of <italic><tp:taxon-name>Caurinus dectes</tp:taxon-name></italic> and authority on the ecology of the genus, joined us on Prince of Wales to collect and study <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic>, and show us how to target its host bryophyte. It took us two years (2010 and 2011) to collect 37 <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> specimens using three structured sampling methods at 24 sites. In a few hours of collecting, L. Russell was able to collect over a dozen <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> and taught us how to brush them from one of their preferred hosts (<italic><tp:taxon-name>Scapania bolanderi</tp:taxon-name></italic>). A video of L. Russell showing this method is available at <ext-link ext-link-type="uri" xlink:href="https://vimeo.com/68819818" xlink:type="simple">https://vimeo.com/68819818</ext-link> and a second video showing <italic><tp:taxon-name>Caurinus tlagu</tp:taxon-name></italic> hopping is available at <ext-link ext-link-type="uri" xlink:href="https://vimeo.com/68819819" xlink:type="simple">https://vimeo.com/68819819</ext-link>. Russell also alerted us to an earlier, ecological study that documented <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> from the Maybeso Experimental Forest on Prince of Wales Island (<xref ref-type="bibr" rid="B13">LeSage et al. 2005</xref>). We were able to confirm that voucher specimens of <italic><tp:taxon-name>Caurinus</tp:taxon-name></italic> from this 2005 study are deposited in the Michigan State University collection.</p>
+        </sec>
+    </back>
+</article>

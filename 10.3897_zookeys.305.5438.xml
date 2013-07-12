@@ -1,0 +1,461 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/zookeys.305.5438</article-id>
+            <title-group>
+                <article-title>A specialist’s audit of aggregated occurrence records: An ‘aggregator’s’ perspective</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Belbin</surname>
+                        <given-names>Lee</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Daly</surname>
+                        <given-names>Joanne</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Hirsch</surname>
+                        <given-names>Tim</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Hobern</surname>
+                        <given-names>Donald</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Salle</surname>
+                        <given-names>John La</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Atlas of Living Australia, CSIRO Ecosystem Sciences, GPO Box 1700, Canberra, ACT 2601
+            </aff>
+            <aff id="A2">
+                <label>2</label>Blatant Fabrications, Carlton, Tasmania
+            </aff>
+            <aff id="A3">
+                <label>3</label>CSIRO, Strategic Advisor, Environment Group, GPO Box 1700, Canberra, ACT 2601
+            </aff>
+            <aff id="A4">
+                <label>4</label>Global Biodiversity Information Facility, GBIF Secretariat, Universitetsparken 15, DK-2100 Copenhagen Ø, Denmark
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Lee Belbin (<email xlink:type="simple">lee@blatantfabrications.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Lyubomir Penev</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>5</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>305</issue>
+            <fpage>67</fpage>
+            <lpage>76</lpage>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>4</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>27</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Lee Belbin, Joanne Daly, Tim Hirsch, Donald Hobern, John La Salle</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>A recent ZooKeys’ paper (<xref ref-type="bibr" rid="B4">Mesibov, 2013</xref>: <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journal_home_page.php?journal_id=1&amp;page=article&amp;SESID=df7bcb35b02603283dcb83ee0e0af0c9&amp;type=show&amp;article_id=5111" xlink:type="simple">http://www.pensoft.net/journal_home_page.php?journal_id=1&amp;page=article&amp;SESID=df7bcb35b02603283dcb83ee0e0af0c9&amp;type=show&amp;article_id=5111</ext-link>) has highlighted data quality issues in aggregated data sets, but did not provide a realistic way to address these issues. This paper provides an aggregator’s perspective including ways that the whole community can help to address data quality issues. The establishment of GBIF and national nodes (national aggregators) such as the Atlas of Living Australia (ALA) have integrated and exposed a huge diversity of biological observations along with many associated issues. Much of the admirable work by <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref> was enabled by having the data exposed.</p>
+                <p>Data quality, one of the highest priorities for GBIF, the national nodes and other aggregators, depends on both automatic methods and community experts to detect and correct data issues. Not all issues can however be automatically detected or corrected, so community assistance is needed to help improve the quality of exposed biological data. We do need to improve the infrastructure and associated processes to more easily identify data issues and document all changes to ensure a full record is permanently and publicly available.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Australia</kwd>
+                <kwd>occurrence records</kwd>
+                <kwd>data quality</kwd>
+                <kwd>data cleaning</kwd>
+                <kwd>ALA</kwd>
+                <kwd>GBIF</kwd>
+                <kwd>millipede</kwd>
+                <kwd>fitness for use</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Mesibov’s paper (<xref ref-type="bibr" rid="B4">Mesibov 2013</xref>) was a welcome audit and critique of millipede records in three sources: Millipedes of Australia (MoA; <ext-link ext-link-type="uri" xlink:href="http://www.polydesmida.info/millipedesofaustralia/" xlink:type="simple">http://www.polydesmida.info/millipedesofaustralia/</ext-link>); the Global Biodiversity Information Facility (GBIF; <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/" xlink:type="simple">http://www.gbif.org/</ext-link>) and the Atlas of Living Australia (ALA; <ext-link ext-link-type="uri" xlink:href="http://www.ala.org.au/" xlink:type="simple">http://www.ala.org.au/</ext-link>), the Australian node for GBIF. This paper identified a range of known issues about data that the authors and broader biodiversity informatics community would like to see addressed as efficiently as possible.</p>
+            <p>The establishment of GBIF in 2001 seeded a wide range of positive national and international developments. For example, GBIF strongly supported Biodiversity Information Standards (Taxonomic Databases Working Group) in the development of standards such as Darwin Core and ABCD (<ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org" xlink:type="simple">http://www.tdwg.org</ext-link>) that are required for the efficient communication of biological records among agencies. A wide range of publications has also been commissioned by GBIF, a number of which address data quality issues (e.g., <xref ref-type="bibr" rid="B1">Chapman 2005a</xref> and <xref ref-type="bibr" rid="B2">2005b</xref>; <xref ref-type="bibr" rid="B3">Costello et al. 2012</xref>). The requirement of GBIF for participating countries to set up national nodes has also focused attention on the status of national biological records. As with any advances however, there is potential for misinterpretation of aims and outcomes coupled with an expectation that agencies such as GBIF will run before they can crawl – data issues are being addressed but not as fast as the community would wish.</p>
+            <p>The following points need to be considered in addressing data issues:</p>
+            <p>1. Data quality and the ability to clean and correct data are the responsibility of the community and cannot be assigned to any one agent in the process. There is the need to seamlessly integrate expert knowledge and automated processes.</p>
+            <p>2. Herbarium or museum records, or even a single collector’s records, are all aggregations of records taken at different times and by different collectors. In the digital world, the flow of biological observations can go from observer to end user through multiple digital aggregators. <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref> too is a data aggregator of Australian millipedes. At any node in the flow, errors can be detected, introduced or addressed.</p>
+            <p>3. Data should be published in secure locations where they can be preserved and improved in perpetuity. This means moving beyond storage of data by individuals, or on stand-alone computers, or even in institutions that do not have a strategy for enduring digital storage and access.</p>
+            <p>4. We need an effective way to support experts so all amendments form part of a persistent digital knowledge about species. Talented and committed individuals can make enormous progress in error detection and correction (as seen in <xref ref-type="bibr" rid="B4">Mesibov 2013</xref>) but how do we ensure that when an individual project like that on millipedes ceases, the data and all associated work are not lost? How do we achieve this in situations when different experts are able to contribute to dif<!--PageBreak-->ferent aspects of correcting the same data (some working on fine-scale georeferencing, some on taxonomy, etc.)?  All of this implies standards in capturing and linking this information and maintaining the data with all amendments documented. To achieve this the biodiversity research community needs to be motivated and empowered to work in a collaborative fashion.</p>
+            <p>5. We need to move from a mind-set based on historical approaches that managed paper-based information to one where all relevant information is generated, managed and curated in a fully interlinked form. We need to build a comprehensive digital global knowledgebase for biodiversity to replace our paper-based knowledgebase.</p>
+            <p>6. Addressing data errors will involve the ‘aggregators’ improving their ability to detect and correct errors. These organisations have a responsibility to deliver automated mechanisms wherever possible and to facilitate new processes and tools that will support the other aspects listed above.</p>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>‘Data quality’ is one of the highest priorities for agencies such as GBIF and the ALA, as well as one of the main concerns of users of data (see <xref ref-type="bibr" rid="B5">Otegui et al. 2013</xref>). In both agencies, considerable resources have been assigned to help identify and address errors within data records. For example, the ALA appointed a specialist for a year to assist in establishing tools and methods to help identify data issues. This work is ongoing.</p>
+            <p>While data quality is of the highest concern, published data have many different uses. Data may not need to be 100% accurate for them to have utility. Quality issues affecting some users may be of secondary or no importance to others. For example, a locational inaccuracy of 20km on a record will not invalidate its use with regional or continental scale studies. Access to information on a type specimen is likely to be of value even if georeferences are incomplete or incorrect. The term ‘fitness for use’ may therefore be more appropriate than ‘data quality’ in many circumstances. This is not an excuse to ignore errors, but recognition that effective use depends on knowledge of the data involved.</p>
+            <p>The goal of the aggregators is to address known problems in data, to understand how much confidence is appropriate in each element of each record and to enable users to filter data based on these confidence measures. The philosophy of most of the aggregators is therefore to flag potential issues, correct what is obviously correctable and expose the flag rather than hide or remove the associated record.</p>
+            <p>One of the most powerful outcomes of the publishing of digital data is that inherent problems in legacy data are revealed despite the concerted work of dedicated taxonomists over decades or longer. Data are highly variable and not always reliable. Exposing data provides the opportunity for the community to detect and correct errors. Indeed, much of the admirable work achieved by <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref> was enabled by having data exposed by the institutions concerned.</p>
+            <p><!--PageBreak-->As noted by <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref>, querying and correcting records with a museum often required an email or a phone call. However, museums and herbaria do not always have the infrastructure that agencies like GBIF and the ALA have for interrogation and correction of records. GBIF and the ALA’s expertise is in the area of information technology and biodiversity informatics and better placed to provide online infrastructure support.</p>
+            <p>GBIF seeks to stimulate best practice in biodiversity data publishing and this includes addressing data quality at the source. There are a range of freely available tools, documents and training programs covering issues such as data cleaning (see <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/orc" xlink:type="simple">http://www.gbif.org/orc</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/participation/training/" xlink:type="simple">http://www.gbif.org/participation/training/</ext-link>). GBIF also emphasises the value of comprehensive metadata including the option of peer reviewed ‘data papers’ for enhancing the fitness for use of published data (see <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/communications/news-and-events/showsingle/article/new-incentive-for-biodiversity-data-publishing" xlink:type="simple">http://www.gbif.org/communications/news-and-events/showsingle/article/new-incentive-for-biodiversity-data-publishing</ext-link>).</p>
+            <p>Specialist domain expertise is required to detect and correct a range of error types, as is shown by <xref ref-type="bibr" rid="B4">Mesibov’s (2013)</xref> expertise with Australian millipedes. The ALA and GBIF do not generally have this type of expertise. They do however have expertise to build infrastructure that enables integrated data to be openly discovered and where errors are more likely to be exposed. Agencies such as GBIF and the ALA are also in a good position to provide infrastructure and processes that help to address data issues. An example of the quality controls undertaken by the ALA can be seen in <xref ref-type="table" rid="T1">Table 1</xref>. Other examples from GBIF and national nodes are given below and in the Appendix.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p>Example of automated data checks within the Atlas of Living Australia.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>#</bold></th>
+                            <th rowspan="1" colspan="1"><bold>FLAG</bold></th>
+                            <th rowspan="1" colspan="1"><bold>% of records</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">1</td>
+                            <td rowspan="1" colspan="1">Missing coordinate precision</td>
+                            <td rowspan="1" colspan="1">90.2%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">2</td>
+                            <td rowspan="1" colspan="1">Geodetic datum assumed WGS84</td>
+                            <td rowspan="1" colspan="1">44.4%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">3</td>
+                            <td rowspan="1" colspan="1">Decimal Latitude Longitude Converted</td>
+                            <td rowspan="1" colspan="1">27.6%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">4</td>
+                            <td rowspan="1" colspan="1">Unrecognized geodetic datum</td>
+                            <td rowspan="1" colspan="1">21.1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">5</td>
+                            <td rowspan="1" colspan="1">Coordinate uncertainty not specified</td>
+                            <td rowspan="1" colspan="1">18.6%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">6</td>
+                            <td rowspan="1" colspan="1">Possible duplicate record</td>
+                            <td rowspan="1" colspan="1">8.4%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">7</td>
+                            <td rowspan="1" colspan="1">Invalid collection date</td>
+                            <td rowspan="1" colspan="1">8.0%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">8</td>
+                            <td rowspan="1" colspan="1">No collection date supplied</td>
+                            <td rowspan="1" colspan="1">4.1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">9</td>
+                            <td rowspan="1" colspan="1">Coordinate uncertainty not valid</td>
+                            <td rowspan="1" colspan="1">2.6%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">10</td>
+                            <td rowspan="1" colspan="1">Habitat incorrect for species (user flagged issue category)</td>
+                            <td rowspan="1" colspan="1">2.4%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">11</td>
+                            <td rowspan="1" colspan="1">Name not in national checklists</td>
+                            <td rowspan="1" colspan="1">2.3%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">12</td>
+                            <td rowspan="1" colspan="1">Basis of record not supplied</td>
+                            <td rowspan="1" colspan="1">2.1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">13</td>
+                            <td rowspan="1" colspan="1">Altitude value non-numeric</td>
+                            <td rowspan="1" colspan="1">2.0%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">14</td>
+                            <td rowspan="1" colspan="1">Name not in any national or international checklists</td>
+                            <td rowspan="1" colspan="1">1.1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">15</td>
+                            <td rowspan="1" colspan="1">Suspected outlier (user flagged issue category)</td>
+                            <td rowspan="1" colspan="1">1.0%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">16</td>
+                            <td rowspan="1" colspan="1">Type status not recognized</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">17</td>
+                            <td rowspan="1" colspan="1">Basis of record badly formed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">18</td>
+                            <td rowspan="1" colspan="1">Coordinates don’t match supplied state</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">19</td>
+                            <td rowspan="1" colspan="1">Supplied country not recognized</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">20</td>
+                            <td rowspan="1" colspan="1">Image URL invalid</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">21</td>
+                            <td rowspan="1" colspan="1">Supplied coordinates are zero</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">22</td>
+                            <td rowspan="1" colspan="1">Collection code not recognized</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">23</td>
+                            <td rowspan="1" colspan="1">Min and max depth reversed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">24</td>
+                            <td rowspan="1" colspan="1">Unparseable verbatim coordinates</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">25</td>
+                            <td rowspan="1" colspan="1">Coordinates derived from verbatim coordinates</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">26</td>
+                            <td rowspan="1" colspan="1">Latitude is negated</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">27</td>
+                            <td rowspan="1" colspan="1">Depth value non-numeric</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">28</td>
+                            <td rowspan="1" colspan="1">Outside expert range for species</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">29</td>
+                            <td rowspan="1" colspan="1">Longitude is negated</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">30</td>
+                            <td rowspan="1" colspan="1">Min and max altitude reversed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">31</td>
+                            <td rowspan="1" colspan="1">Coordinates were transposed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">32</td>
+                            <td rowspan="1" colspan="1">Decimal Lat/Long calculated from easting-northing (grid reference)</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">33</td>
+                            <td rowspan="1" colspan="1">Supplied coordinates centre of state</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">34</td>
+                            <td rowspan="1" colspan="1">Coordinate precision and uncertainty transposed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">35</td>
+                            <td rowspan="1" colspan="1">Coordinates are out of range for species</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">36</td>
+                            <td rowspan="1" colspan="1">Decimal Lat/Long calculated from Easting Northing Failed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">37</td>
+                            <td rowspan="1" colspan="1">Coordinates centre of country</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">38</td>
+                            <td rowspan="1" colspan="1">Geospatial issue (user flagged issue category)</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">39</td>
+                            <td rowspan="1" colspan="1">Day and month transposed</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">40</td>
+                            <td rowspan="1" colspan="1">Depth out of range</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">41</td>
+                            <td rowspan="1" colspan="1">Taxon misidentified (user flagged issue category)</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">42</td>
+                            <td rowspan="1" colspan="1">Taxonomic issue (user flagged issue category)</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">43</td>
+                            <td rowspan="1" colspan="1">Temporal issue (user flagged issue category)</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">44</td>
+                            <td rowspan="1" colspan="1">Altitude out of range</td>
+                            <td rowspan="1" colspan="1">&lt;1%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>There are two types of data quality issues, those that can be detected without domain specific taxonomic expertise and those that require domain specific taxonomic expertise for detection. Correction of detected issues may or may not require domain specific expertise (see <xref ref-type="table" rid="T2">Table 2</xref>). Obviously GBIF and the ALA have many tools that can help address Type 3 and 4 cases. For example, an observation of a terrestrial species that occurs in a marine environment would be Type 3 if the true location of the observation was known and Type 4 if not.</p>
+            <table-wrap id="T2" position="float" orientation="portrait">
+                <label>Table 2.</label>
+                <caption><p>A two-way decision table of issue detection versus correction.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td rowspan="2" colspan="2"></td>
+                            <td rowspan="1" colspan="2">Domain specific expertise required to address issue?</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>Yes</bold></td>
+                            <td rowspan="1" colspan="1"><bold>No</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" colspan="1">Domain specific expertise required to detectissue?</td>
+                            <td rowspan="1" colspan="1"><bold>Yes</bold></td>
+                            <td rowspan="1" colspan="1">Type 1</td>
+                            <td rowspan="1" colspan="1">Type 2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold>No</bold></td>
+                            <td rowspan="1" colspan="1">Type 3</td>
+                            <td rowspan="1" colspan="1">Type 4</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>Many of the issues that <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref> raised fall into Type 1, for example “Provider G supplied 67 records with the wrong species names, i.e. incorrect specimen identifications. I supplied correct identifications for these records in 2005…”. ‘Aggregators’ such as GBIF and the ALA should strive to address all Type 4 (e.g., a transposition of longitude and latitude) and highlight Type 3 issues (e.g., a marine species on land). We would assume that Type 2 examples would be rare: The domain specific taxonomic expertise required to detect the issue would also be able to make correction possible (Type 1).</p>
+            <p>A more fundamental issue is that most biodiversity data today are managed and published through a wide range of heterogeneous databases and processes. Consistency is required for guaranteed, stable, persistent access to each data record and in establishing standardised approaches to registering and handling corrections. Any aggregator has a key role in addressing this challenge but ultimately it will depend on widespread changes in the culture of biodiversity data management.</p>
+            <p><!--PageBreak--><!--PageBreak-->Manual checking as demonstrated by <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref> is time consuming yet necessary for a range of issues where automated checking cannot be guaranteed to find and correct issues. GBIF and the ALA do have an extensive suite of automated checks (‘rules set’, see <xref ref-type="table" rid="T1">Table 1</xref> and <ext-link ext-link-type="uri" xlink:href="https://docs.google.com/spreadsheet/ccc?key=0AjNtzhUIIHeNdHJOYk1SYWE4dU1BMWZmb2hiTjlYQlE#gid=0" xlink:type="simple">https://docs.google.com/spreadsheet/ccc?key=0AjNtzhUIIHeNdHJOYk1SYWE4dU1BMWZmb2hiTjlYQlE#gid=0</ext-link>). As pointed out by <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref> however, they do not always work, but such checks and corrections remain a cost-effective and necessary step. A more robust rule set is in continual development and Mesibov’s paper will help with this. Contributions to these rules by the community would be appreciated.</p>
+            <p>The ALA has also established a sophisticated annotations service that enables crowd sourcing to detect and correct data errors (see <ext-link ext-link-type="uri" xlink:href="http://www.ala.org.au/blogs-news/annotations-alerts-about-new-annotations-and-annotations-of-interest/" xlink:type="simple">http://www.ala.org.au/blogs-news/annotations-alerts-about-new-annotations-and-annotations-of-interest/</ext-link>). Such detected issues, with potential corrections are returned to the data provider. This is the second flow model of <xref ref-type="bibr" rid="B4">Mesibov (2013)</xref>, viz.</p>
+            <p>specialist → GBIF, ALA → data providers → OZCAM → GBIF, ALA</p>
+            <p>This model as well as Mesibov’s first model, viz.,</p>
+            <p>specialist → data providers → OZCAM → GBIF, ALA</p>
+            <p>will, as noted above, depend on the resources of the data provider. Users of the GBIF data portal can also report errors which are relayed by email directly to the original data publishers. Sadly, however, museums and herbaria may not have staff resources to update their databases when issues are reported.</p>
+            <p>There is no doubt that communication between the relevant taxonomic domain experts to correct problems will be most efficient. Errors will remain if that expertise no longer resides with the data provider, or that provider doesn’t have the resources.</p>
+            <p>Data providers have diverse expectations. Some data providers encourage the ALA to make corrections to the provider’s records (for provider and ALA). Other data pro<!--PageBreak-->viders would withdraw their support if similar changes were attempted on their data by the ALA. Feedback from the ALA to a data provider may result in immediate corrections (and data propagation) while in other cases, the provider has no resources to resolve an issue. There is no single process here that will work effectively in all circumstances. We do however take Mesibov’s paper as a prod to seek best current practice among providers and aggregators to improve data quality.</p>
+            <p>At the global level, GBIF’s current Work Programme includes provision for an upgraded data portal, being rolled out progressively from 2013, to also support an annotations service. The Botanical Garden and Botanical Museum Berlin-Dahlem (BHBM), which hosts the GBIF node for Germany, has prototyped a generic annotations system for biodiversity data known as Annosys (see <ext-link ext-link-type="uri" xlink:href="http://wiki.bgbm.org/annosys/index.php/Main_Page" xlink:type="simple">http://wiki.bgbm.org/annosys/index.php/Main_Page</ext-link>).</p>
+        </sec>
+        <sec sec-type="Conclusions">
+            <title>Conclusions</title>
+            <p>Agencies such as the ALA and GBIF enable observations to be recorded directly to their systems. These records are reviewed before being ‘published’, but the ALA and GBIF are not the data provider and therefore cannot assume responsibility for these records; disclaimers are therefore necessary.</p>
+            <p>There is however full agreement that aggregators such as GBIF and the ALA have a responsibility to detect and where possible address data issues with the data provider’s permission and support. There is no doubt that data errors are best addressed through collaboration between all relevant agencies. GBIF itself and projects such as CReATIVE-B (<ext-link ext-link-type="uri" xlink:href="http://creative-b.eu" xlink:type="simple">http://creative-b.eu</ext-link>) are in a good position to facilitate such collaboration on the development of broadly agreed tools and processes.</p>
+            <p>Agencies such as GBIF and the ALA have the mandate to expose a large volume of data records in a systematic format. The aggregation process can itself result in an enhanced ability to identify errors. For example the ALA uses a tool that examines the environmental envelope associated with a species to help identifier environmental outliers. This process would not be possible without a critical mass of observations.</p>
+            <p>What ideally is needed is an environment created by agencies such as GBIF and the ALA that <italic>efficiently</italic> enables</p>
+            <p>1. Exposure of errors</p>
+            <p>2. Discussion of the errors</p>
+            <p>3. Addressing errors directly in <italic>all relevant locations</italic></p>
+            <p>No such environment currently exists. Progress will be limited while the underlying culture of data publishing and data management does not support stable, long-term reference to each data record and community-based curation of those data in a way that ensures that each act of correcting any aspect of any data element is not lost but contributes to the development of a global digital biodiversity <!--PageBreak-->knowledgebase. However, it will also require a fundamental change in data management at the institutional and personal level. All data needs to be published in stable locations where it can be preserved and improved in perpetuity and the biodiversity research community needs to be motivated and empowered to do its work in an online collaborative way. A recent paper sponsored by GBIF (<xref ref-type="bibr" rid="B3">Costello et al. 2012</xref>), among other things, applauds data publishing but suggests that data quality could be improved by peer review.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We valued the comments of the two formal reviewers, Mark Costello and Rod Page. We also appreciated comments on the manuscript from Margaret Cawsey, Beth Mantle and Peter Doherty and <xref ref-type="table" rid="T1">Table 1</xref> from Miles Nicholls. TH would like to acknowledge support from Tim Robertson, Éamonn Ó Tuama, Alberto González-Talaván, Olaf Bánki, Mélianie Raymond, Dag Endresen, Christian Svindseth, Steve Wilkinson, Francisco Pando and Danny Vélez in providing information about current GBIF quality routines.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name></person-group> (<year>2005a</year>) <source>Principles and Methods of Data Cleaning – Primary Species and Species Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p.</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name></person-group> (<year>2005b</year>) <source>Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Costello</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Michener</surname> <given-names>WK</given-names></name><name name-style="western"><surname>Gahegan</surname> <given-names>M</given-names></name><name name-style="western"><surname>Zhang</surname> <given-names>Z-Q</given-names></name><name name-style="western"><surname>Bourne</surname> <given-names>P</given-names></name><name name-style="western"><surname>Chavan</surname> <given-names>V</given-names></name></person-group> (<year>2012</year>) <source>Quality assurance and intellectual property rights in advancing biodiversity data publications version 1.0, Copenhagen: Global Biodiversity Information Facility, 40p, ISBN: 87-92020-49-6</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mesibov</surname> <given-names>R</given-names></name></person-group> (<year>2013</year>) <article-title>A specialist’s audit of aggregated occurrence records.</article-title> <source>ZooKeys</source> <volume>293</volume>: <fpage>1</fpage>-<lpage>18</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.293.5111" xlink:type="simple">10.3897/zookeys.293.5111</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Otegui</surname> <given-names>J</given-names></name><name name-style="western"><surname>Ariño</surname> <given-names>AH</given-names></name><name name-style="western"><surname>Encinas</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Pando</surname> <given-names>F</given-names></name></person-group> (<year>2013</year>) <source>Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144.</source> doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0055144" xlink:type="simple">10.1371/journal.pone.0055144</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+        </ref-list>
+        <sec sec-type="Appendix">
+            <title>Appendix</title>
+            <p>Examples of data quality routines that are in place or under development by GBIF national nodes and other data aggregators are included here to indicate that data quality is both a high-priority and a rapidly developing area in our community.</p>
+            <p><bold>The Atlas of Living Australia (ALA)</bold> is covered above.</p>
+            <p><bold>GBIF Norway</bold> checks all scientific names against the Norwegian Species Name Database (Artsnavnebasen). Names that do not match are collected into a list and returned to the data owner, but unless anything is obviously wrong, the record is still served to the GBIF network. The coordinates of all georeferenced records are converted to WGS84 and matched against a country bounding box and a municipality bounding box. Coordinates that do not match the country and municipality bounding boxes are collected and returned to the data owner. Country names, county names and municipality names are matched against lists of approved names. Dates are validated, and for certain datasets they are matched against a known start date and end date.</p>
+            <p>8.6 million citizen science records served from the Norwegian Biodiversity Information Centre’s species observation portal (<ext-link ext-link-type="uri" xlink:href="http://www.artsobservasjoner.no" xlink:type="simple">http://www.artsobservasjoner.no/</ext-link>) are validated by other citizens and by a scientific expert panel. Only valid names from the official Norwegian list of taxa present in Norway are shared with GBIF, pending validation by a scientific name committee.</p>
+            <p><bold>The United Kingdom’s National Biodiversity Network (NBN)</bold> is engaging with experts to develop rules to help screen data – for example relating to known distributions or migration periods. If a record falls outside these rules it is flagged for further scrutiny – not implying that it is wrong but ‘interesting’ in that it changes our understanding of the species if proven correct. The NBN has developed a desktop tool called Record Cleaner (<ext-link ext-link-type="uri" xlink:href="http://www.nbn.org.uk/record-cleaner.aspx" xlink:type="simple">http://www.nbn.org.uk/record-cleaner.aspx</ext-link>). This tool enables a data publisher to access the source (for example a database or spreadsheet) for screening, thus identifying potential issues before publication. Record Cleaner both validates (checking syntax) and verifies (checking against expert rules). The rules are being integrated into NBN’s online recording service, alerting wildlife recorders to ‘interesting’ records at the point of entry, helping to detect problems early and indicating that additional information or evidence may be required.</p>
+            <p><bold>GBIF Spain</bold> places particular emphasis on data quality, for example operating a ‘Biodiversity Data Quality Hub’ (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.es/BDQ.php" xlink:type="simple">http://www.gbif.es/BDQ.php</ext-link>) bringing together tools for error detection and validation of biodiversity data (<xref ref-type="bibr" rid="B5">Otegui et al. 2013</xref>). These tools include the Darwin Test tool (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.es/darwin_test/Darwin_Test_in.php" xlink:type="simple">http://www.gbif.es/darwin_test/Darwin_Test_in.php</ext-link>) developed by GBIF Spain to validate data entered in Darwin Core format. As a complement to this tool, the node provides an ‘apparent quality index’ (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.es/ICA.php" xlink:type="simple">http://www.gbif.es/ICA.php</ext-link>) applied to all datasets published by Spanish participants, which enables a record to be kept of increases in quality as well as quantity of biodiversity data published from institutions in Spain. GBIF Spain’s work on data quality has formed the basis of a number of training workshops and online learning modules in<!--PageBreak-->volving several countries in Latin America, Africa and Europe (see for example <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/orc/?doc_id=2914&amp;l=en" xlink:type="simple">http://www.gbif.org/orc/?doc_id=2914&amp;l=en</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/participation/training/events/training-event-details/?eventid=203" xlink:type="simple">http://www.gbif.org/participation/training/events/training-event-details/?eventid=203</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.gbif.es/formaciondetalles.php?IDForm=109" xlink:type="simple">http://www.gbif.es/formaciondetalles.php?IDForm=109</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://elearning.gbif.es/AContent/home/index.php" xlink:type="simple">http://elearning.gbif.es/AContent/home/index.php</ext-link>).</p>
+            <p><bold>GBIF Colombia (Sistema de información sobre biodiversidad de Colombia)</bold> has focused on data quality within the country’s biological institutions as part of a recent overhaul of its data publishing and access service (see <ext-link ext-link-type="uri" xlink:href="http://www.sibcolombia.net" xlink:type="simple">www.sibcolombia.net</ext-link>). The node is in the process of implementing several tools and protocols on data cleaning, including adaptation of some of the tools developed by GBIF Spain and a customized taxonomic and geographic validation tool for biodiversity records in Colombia and neighbouring countries (see <ext-link ext-link-type="uri" xlink:href="http://code.google.com/p/verificacion-registros-biologicos/" xlink:type="simple">http://code.google.com/p/verificacion-registros-biologicos/</ext-link>). The node is also working on an online data validator using Google Docs.</p>
+            <p><bold>CRIA Brazil, (the Reference Center on Environmental Information</bold>) is a not-for-profit, non-government organization whose aim is to contribute towards a more sustainable use of Brazil’s biodiversity through the dissemination of high quality information and education. CRIA has had an extensive and illustrious history in the development of tools for analysing and cleaning biological records, see <ext-link ext-link-type="uri" xlink:href="http://splink.cria.org.br/tools?criaLANG=en" xlink:type="simple">http://splink.cria.org.br/tools?criaLANG=en</ext-link>.</p>
+        </sec>
+    </back>
+</article>
