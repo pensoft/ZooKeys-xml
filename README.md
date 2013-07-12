@@ -1,4 +1,4 @@
-# Full articles from ZooKeys as TaxPub XML #
+# Full ZooKeys articles as TaxPub XML #
 
 **Pull requests welcome.**
 
